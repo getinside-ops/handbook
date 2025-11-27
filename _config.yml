@@ -1,4 +1,30 @@
-theme: jekyll-theme-cayman
-title: Documentation GetInside
-description: Process, Bonnes Pratiques et Specs Techniques pour les campagnes newsletters.
-show_downloads: false
+title: Handbook GetInside
+description: Documentation opérationnelle pour les campagnes.
+url: "https://getinside-ops.github.io" # Remplacez par votre URL finale
+
+# C'est cette ligne qui fait la magie
+remote_theme: pmarsceill/just-the-docs
+
+# Activation de la recherche
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+
+# Apparence
+color_scheme: dark # Options: light, dark (ou nil pour auto)
+callouts:
+  warning:
+    title: Attention
+    color: red
+  info:
+    title: Info
+    color: blue
+
+# Configuration technique
+aux_links:
+  "Retour au site":
+    - "https://getinside.fr"
+
+plugins:
+  - jekyll-seo-tag
