@@ -23,5 +23,14 @@ Les dimensions et l'emplacement à respecter pour insérer une bannière partena
 Les procédures logistiques pour la réception des flyers en entrepôt et les règles d'insertion (Packing).
 
 ---
-{: .warning }
+
+## ⚡ Raccourcis
+
+| Action | Lien |
+| :--- | :--- |
+| **Contacter le studio** | [studio@getinside.fr](mailto:studio@getinside.fr) |
+| **Contacter les ventes** | [sales@getinside.fr](mailto:sales@getinside.fr) |
+
+---
+
 **Important :** Le tracking est la clé de la validation. Assurez-vous de bien lire la section "Tracking" de chaque guide avant de lancer une campagne.

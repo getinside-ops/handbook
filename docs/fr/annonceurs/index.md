@@ -9,27 +9,39 @@ permalink: /docs/fr/annonceurs
 # 📢 Espace Annonceurs
 [⬅️ Retour à l'accueil](../../../)
 
-Bienvenue dans votre centre de ressources. Vous trouverez ici toutes les spécifications pour préparer vos éléments de campagne.
+Bienvenue dans votre centre de ressources. Vous trouverez ici toutes les spécifications pour préparer vos éléments de campagne et garantir le succès de vos opérations.
 
 ## Par où commencer ?
 
-L'équipe GetInside vous accompagne sur différents formats. Sélectionnez celui qui correspond à votre campagne actuelle :
+L'équipe GetInside vous accompagne sur différents formats. Sélectionnez celui qui correspond à votre campagne actuelle pour accéder au guide détaillé :
 
-### [📄 Brief Général](./brief)
-Les éléments de base à fournir pour toute collaboration (Logos, Charte, Tracking).
+### 1. [📧 Newsletter Dédiée](./newsletter-dediee)
+**Le format Premium.**
+Une marque partenaire envoie un email 100% dédié à votre offre à sa base de données.
+* *Idéal pour : Acquisition, Lancement produit, Trafic qualifié.*
 
-### [📧 Newsletter Dédiée](./newsletter-dediee)
-Le format premium. Une marque partenaire envoie un email 100% dédié à votre offre.
-* *Voir les specs >*
+### 2. [🧩 Encart Newsletter](./encart)
+**Le format Natif.**
+Votre marque s'insère nativement (bannière ou bloc) dans la newsletter hebdomadaire de l'e-commerçant.
+* *Idéal pour : Notoriété, Visibilité régulière, Trafic.*
 
-### [🧩 Encart Newsletter](./encart)
-Votre marque s'insère nativement dans la newsletter hebdomadaire de l'e-commerçant.
-* *Voir les specs >*
+### 3. [📦 Asilage Colis](./asilage)
+**Le format Physique.**
+Votre flyer ou échantillon est glissé physiquement dans les colis expédiés par nos partenaires.
+* *Idéal pour : Expérience client (Unboxing), Taux de prise en main 100%.*
 
-### [📦 Asilage Colis](./asilage)
-Votre flyer ou échantillon est glissé physiquement dans les colis expédiés.
-* *Voir les specs logistiques >*
+### 4. [📊 Kit Média & Tarifs](./kit-media)
+Consultez nos audiences, nos secteurs d'activité et nos grilles tarifaires indicatives.
 
 ---
-{: .note }
-Une question sur les tarifs ou les disponibilités ? Contactez l'équipe Sales sur [sales@getinside.fr](mailto:sales@getinside.fr).
+
+## ⚡ Raccourcis
+
+| Action | Lien |
+| :--- | :--- |
+| **Contacter le studio** | [studio@getinside.fr](mailto:studio@getinside.fr) |
+| **Contacter les ventes** | [sales@getinside.fr](mailto:sales@getinside.fr) |
+
+---
+
+**Conseil Pro :** Pour chaque campagne, la qualité des visuels fournis (Assets) est le facteur n°1 de performance. Prenez le temps de lire les guides spécifiques ci-dessus avant d'envoyer vos éléments.
