@@ -35,10 +35,9 @@ Vous devez communiquer avec GetInside pour piloter les volumes.
 
 ---
 
-## ✅ CHECKLIST AVANT DÉMARRAGE
+## 4. CHECKLIST AVANT DÉMARRAGE ✅
 
 Avant de donner l'ordre à vos équipes logistiques :
-
 - [ ] **Marchandise reçue :** Les flyers sont bien là et en bon état.
 - [ ] **Briefing équipe :** Les préparateurs de commande savent qu'ils doivent mettre 1 flyer par colis sur le dessus.
 - [ ] **Date validée :** L'insertion commence bien à la date convenue contractuellement.

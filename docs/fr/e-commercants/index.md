@@ -32,5 +32,5 @@ Les procédures logistiques pour la réception des flyers en entrepôt et les r�
 | **Contacter les ventes** | [sales@getinside.fr](mailto:sales@getinside.fr) |
 
 ---
-
+{: .note }
 **Important :** Le tracking est la clé de la validation. Assurez-vous de bien lire la section "Tracking" de chaque guide avant de lancer une campagne.

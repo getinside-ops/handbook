@@ -40,7 +40,7 @@ L'annonceur fournit généralement une bannière (image seule) ou un visuel + te
 * Lien Unique : L'image (et le bouton s'il y en a un) doit pointer vers le lien de redirection http://gtinsi.de/... fourni dans le brief.
 * Target Blank : Le lien doit impérativement s'ouvrir dans un nouvel onglet (target="_blank") pour ne pas faire sortir le lecteur de votre newsletter.
 
-✅ CHECKLIST AVANT ENVOI
+##  ✅ CHECKLIST AVANT ENVOI
 Avant de valider votre newsletter, vérifiez ces 3 points sur l'encart :
 
 - [ ] **Le lien fonctionne** : Le clic sur l'image redirige bien vers le site du partenaire via gtinsi.de.

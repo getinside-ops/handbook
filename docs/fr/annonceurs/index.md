@@ -43,5 +43,5 @@ Consultez nos audiences, nos secteurs d'activité et nos grilles tarifaires indi
 | **Contacter les ventes** | [sales@getinside.fr](mailto:sales@getinside.fr) |
 
 ---
-
+{: .note }
 **Conseil Pro :** Pour chaque campagne, la qualité des visuels fournis (Assets) est le facteur n°1 de performance. Prenez le temps de lire les guides spécifiques ci-dessus avant d'envoyer vos éléments.

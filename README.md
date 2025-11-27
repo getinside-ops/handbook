@@ -17,7 +17,7 @@ Ce site centralise l'ensemble des processus, spécifications techniques et bonne
 
 Pour accéder aux guides qui vous concernent, sélectionnez votre profil :
 
-### 📢 [Espace Annonceurs](./docs/fr/annonceurs/)
+### 📢 [Espace Annonceurs](./docs/fr/annonceurs)
 Vous êtes une marque et vous souhaitez communiquer auprès d'une nouvelle audience ?
 {: .fs-5 .fw-300 }
 
@@ -30,7 +30,7 @@ Accédez à cet espace pour :
 
 ---
 
-### 🛒 [Espace E-commerçants](./docs/fr/e-commercants/)
+### 🛒 [Espace E-commerçants](./docs/fr/e-commercants/
 Vous êtes un partenaire éditeur et vous intégrez une campagne ?
 {: .fs-5 .fw-300 }
 
@@ -49,9 +49,11 @@ Voici les ressources les plus consultées :
 
 | Ressource | Pour qui ? | Description |
 | :--- | :--- | :--- |
-| **[Le Formulaire de Brief](LIEN_TALLY)** | Annonceur | Pour déposer vos assets et lancer une campagne. |
-| **[Guide Newsletter Dédiée](./docs/fr/e-commercants/newsletter-dediee)** | E-commerçant | Comment intégrer et tracker l'emailing. |
-| **[Kit Média & Tarifs](./docs/fr/annonceurs/kit-media)** | Annonceur | Nos audiences et grilles tarifaires. |
+| **[Le Formulaire de Brief](https://tally.so/r/9qN9WY)** | Annonceur | Pour déposer vos assets et lancer une campagne. |
+| **[Exemples de campagnes passées](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit?slide=id.g2985b8a2c53_1_57#slide=id.g2985b8a2c53_1_57)** | Annonceur | Pour vous inspirer et suivre nos meilleurs exemples. |
+
+
+
 
 ---
 

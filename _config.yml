@@ -1,31 +1,33 @@
-title: getinside handbook
+title: Handbook GetInside
 description: Documentation opérationnelle pour les campagnes.
-url: "https://getinside-ops.github.io" # Remplacez par votre URL finale
+url: "https://getinside-ops.github.io"
 
-# C'est cette ligne qui fait la magie
+# Le Thème
 remote_theme: pmarsceill/just-the-docs
 
-# Activation de la recherche
+# 1. Branding (Logo)
+logo: "/assets/images/logo-getinside.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+# 2. Mode Sombre (Automatique)
+color_scheme: nil
+
+# 3. Recherche
 search_enabled: true
 search:
   heading_level: 2
   previews: 3
 
-# Apparence
-logo: "/assets/images/logo-getinside.png"  # Chemin vers votre logo
-color_scheme: nil # Options: light, dark (ou nil pour auto)
-callouts:
-  warning:
-    title: Attention
-    color: red
-  info:
-    title: Info
-    color: blue
-
-# Configuration technique
+# 4. Switch Langue (En haut à droite)
 aux_links:
-  "Retour au site":
-    - "https://getinside.fr"
+  "🇬🇧 English":
+    - "/docs/en"
+  "🇫🇷 Français":
+    - "/docs/fr"
 
+# 5. Footer (Lien retour)
+footer_content: "Copyright © 2024 GetInside Ops."
+
+# Plugins techniques
 plugins:
   - jekyll-seo-tag
