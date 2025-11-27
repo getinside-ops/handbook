@@ -1,3 +1,12 @@
+---
+layout: default
+title: Accueil
+nav_order: 1
+---
+
+# Bienvenue sur le Handbook...
+(Le reste de votre contenu)
+
 # Bienvenue sur la Documentation GetInside 👋
 
 Ce site centralise les ressources pour la mise en place des campagnes de newsletters dédiées (co-branding).
