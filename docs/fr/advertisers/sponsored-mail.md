@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ponsored Mail (Asilage Colis)
+title: Sponsored Mail (Asilage Colis)
 parent: Espace Annonceurs
 nav_order: 3
 ---

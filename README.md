@@ -26,11 +26,11 @@ Accédez à cet espace pour :
 * Consulter les specs techniques (Formats images, Copywriting).
 * Comprendre les contraintes logistiques (Asilage).
 
-[👉 Entrer dans l'Espace Annonceurs](./docs/fr/annonceurs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[👉 Entrer dans l'Espace Annonceurs](./docs/fr/annonceurs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
-### 🛒 [Espace E-commerçants](./docs/fr/e-commercants/
+### 🛒 [Espace E-commerçants](./docs/fr/e-commercants/)
 Vous êtes un partenaire éditeur et vous intégrez une campagne ?
 {: .fs-5 .fw-300 }
 
@@ -39,7 +39,7 @@ Accédez à cet espace pour :
 * Implémenter le **Pixel de Tracking** (Obligatoire).
 * Gérer la logistique de réception des flyers (Asilage).
 
-[👉 Entrer dans l'Espace E-commerçants](./docs/fr/e-commercants/){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[👉 Entrer dans l'Espace E-commerçants](./docs/fr/e-commercants){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
