@@ -12,7 +12,8 @@ search:
   previews: 3
 
 # Apparence
-color_scheme: dark # Options: light, dark (ou nil pour auto)
+logo: "/assets/images/logo-getinside.png"  # Chemin vers votre logo
+color_scheme: nil # Options: light, dark (ou nil pour auto)
 callouts:
   warning:
     title: Attention
