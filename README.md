@@ -1,32 +1,63 @@
 ---
-layout: default
+layout: home
 title: Accueil
 nav_order: 1
+permalink: /
 ---
 
-# Bienvenue sur le Handbook...
-(Le reste de votre contenu)
+# Handbook GetInside 📚
 
-# Bienvenue sur la Documentation GetInside 👋
+**Bienvenue sur la documentation officielle des opérations.**
 
-Ce site centralise les ressources pour la mise en place des campagnes de newsletters dédiées (co-branding).
-
-L'objectif est de fiabiliser les opérations entre l'annonceur (la marque invitée) et l'e-commerçant (la marque hôte).
-
----
-
-## 🧭 Vous êtes...
-
-### 📢 Un Annonceur
-Vous souhaitez proposer une campagne ? Voici comment préparer vos éléments pour garantir un lancement rapide et performant.
-* [👉 Voir le Guide Annonceur & Brief](./annonceurs/brief)
-* [📝 Accéder au formulaire de dépôt de Brief]([VOTRE_LIEN_TALLY_ICI])
-
-### 🛒 Un E-commerçant
-Vous intégrez une campagne partenaire ? Voici les specs techniques à respecter impérativement (HTML, Tracking, Délivrabilité).
-* [👉 Voir le Guide d'Intégration & Tracking](./e-commercants/integration)
+Ce site centralise l'ensemble des processus, spécifications techniques et bonnes pratiques pour garantir le succès des campagnes de co-branding entre **Annonceurs** et **E-commerçants**.
 
 ---
 
-## 🆘 Besoin d'aide ?
-Pour toute question technique ou opérationnelle, contactez l'équipe Ops sur le canal Slack dédié à votre campagne.
+## 🧭 Choisissez votre espace
+
+Pour accéder aux guides qui vous concernent, sélectionnez votre profil :
+
+### 📢 [Espace Annonceurs](./docs/fr/annonceurs/)
+Vous êtes une marque et vous souhaitez communiquer auprès d'une nouvelle audience ?
+{: .fs-5 .fw-300 }
+
+Accédez à cet espace pour :
+* Préparer votre **Brief Créatif**.
+* Consulter les specs techniques (Formats images, Copywriting).
+* Comprendre les contraintes logistiques (Asilage).
+
+[👉 Entrer dans l'Espace Annonceurs](./docs/fr/annonceurs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+---
+
+### 🛒 [Espace E-commerçants](./docs/fr/e-commercants/)
+Vous êtes un partenaire éditeur et vous intégrez une campagne ?
+{: .fs-5 .fw-300 }
+
+Accédez à cet espace pour :
+* Récupérer les **Guides d'intégration HTML**.
+* Implémenter le **Pixel de Tracking** (Obligatoire).
+* Gérer la logistique de réception des flyers (Asilage).
+
+[👉 Entrer dans l'Espace E-commerçants](./docs/fr/e-commercants/){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+---
+
+## ⚡ Raccourcis Utiles
+
+Voici les ressources les plus consultées :
+
+| Ressource | Pour qui ? | Description |
+| :--- | :--- | :--- |
+| **[Le Formulaire de Brief](LIEN_TALLY)** | Annonceur | Pour déposer vos assets et lancer une campagne. |
+| **[Guide Newsletter Dédiée](./docs/fr/e-commercants/newsletter-dediee)** | E-commerçant | Comment intégrer et tracker l'emailing. |
+| **[Kit Média & Tarifs](./docs/fr/annonceurs/kit-media)** | Annonceur | Nos audiences et grilles tarifaires. |
+
+---
+
+{: .note }
+**Besoin d'aide ?**
+Cette documentation est maintenue par l'équipe Ops. Si vous ne trouvez pas votre réponse, contactez-nous sur le canal Slack dédié à votre campagne ou via [support@getinside.fr](mailto:support@getinside.fr).
+
+{: .warning }
+**Tracking Alert :** Aucune campagne ne peut être lancée sans validation du tracking (Pixel ou UTM). C'est la condition *sine qua non* pour la facturation et le paiement.
