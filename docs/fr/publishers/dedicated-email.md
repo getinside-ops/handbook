@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Encart Newsletter
+title: Dedicated Email (Newsletter Dédiée)
 parent: Espace E-commerçants
 nav_order: 2
 ---
 
-# Guide E-commerçant : Intégration & Tracking 🛠️
+# Guide E-commerçant : Dedicated Email (Newsletter Dédiée) 📧
 
 > **Votre rôle :** L'Architecte et l'Hôte. Vous accueillez une marque chez vous.
 

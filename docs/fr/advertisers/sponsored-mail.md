@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Asilage Colis
+title: ponsored Mail (Asilage Colis)
 parent: Espace Annonceurs
 nav_order: 3
 ---
 
-# Guide Annonceur : Asilage Colis 📦
+# Guide Annonceur : ponsored Mail (Asilage Colis) 📦
 
 > **Le concept :** Votre support physique (Flyer ou Échantillon) est glissé dans les colis expédiés par nos e-commerçants partenaires.
 > **L'avantage :** 100% de taux d'ouverture. Vous touchez le client dans un moment positif (l'Unboxing).

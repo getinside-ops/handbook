@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Asilage Colis
+title: Sponsored Mail (Asilage Colis)
 parent: Espace E-commerçants
 nav_order: 3
 ---
 
-# Guide E-commerçant : Logistique Asilage 📦
+# Guide E-commerçant : Sponsored Mail (Asilage Colis) 📦
 
 > **Votre rôle :** Le Logisticien. Vous assurez la distribution physique du support publicitaire (Flyer, échantillon) directement dans les mains du client.
 

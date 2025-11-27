@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Newsletter Dédiée
+title: Dedicated Email (Newsletter Dédiée)
 parent: Espace Annonceurs
 nav_order: 1
 ---
 
-# Guide Annonceur : Newsletter Dédiée 📧
+# Guide Annonceur : Dedicated Email (Newsletter Dédiée) 📧
 
 > **Le concept :** Le format le plus puissant. L'e-commerçant partenaire envoie un email dédié à **100%** à votre marque à sa base de données d'acheteurs actifs.
 >

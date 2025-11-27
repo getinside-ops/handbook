@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Encart Newsletter
+title: Display Email (Encart Newsletter)
 parent: Espace Annonceurs
 nav_order: 2
 ---
 
-# Guide Annonceur : Encart Newsletter 🧩
+# Guide Annonceur : Display Email (Encart Newsletter) 🧩
 
 > **Le concept :** Votre marque s'insère nativement dans la newsletter hebdomadaire de l'e-commerçant. C'est un format de "trafic" et de "notoriété" moins intrusif que l'email dédié.
 

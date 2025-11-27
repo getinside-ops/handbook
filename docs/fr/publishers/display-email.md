@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Encart Newsletter
+title: Display Email (Encart Newsletter)
 parent: Espace E-commerçants
 nav_order: 2
 ---
 
-# Guide E-commerçant : Intégration Encart 🧩
+# Guide E-commerçant : Display Email (Encart Newsletter) 🧩
 
 > **Votre rôle :** L'Éditeur. Vous intégrez une "pause publicitaire" pertinente dans votre contenu habituel.
 

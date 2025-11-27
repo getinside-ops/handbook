@@ -3,7 +3,7 @@ layout: default
 title: Espace Annonceurs
 nav_order: 2
 has_children: true
-permalink: /docs/fr/annonceurs
+permalink: /docs/fr/advertisers
 ---
 
 # 📢 Espace Annonceurs
@@ -15,23 +15,20 @@ Bienvenue dans votre centre de ressources. Vous trouverez ici toutes les spécif
 
 L'équipe GetInside vous accompagne sur différents formats. Sélectionnez celui qui correspond à votre campagne actuelle pour accéder au guide détaillé :
 
-### 1. [📧 Newsletter Dédiée](./newsletter-dediee)
+### 1. [📧 Dedicated Email (Newsletter Dédiée)](./dedicated-email)
 **Le format Premium.**
 Une marque partenaire envoie un email 100% dédié à votre offre à sa base de données.
 * *Idéal pour : Acquisition, Lancement produit, Trafic qualifié.*
 
-### 2. [🧩 Encart Newsletter](./encart)
+### 2. [🧩 Encart Newsletter](./display-email)
 **Le format Natif.**
 Votre marque s'insère nativement (bannière ou bloc) dans la newsletter hebdomadaire de l'e-commerçant.
 * *Idéal pour : Notoriété, Visibilité régulière, Trafic.*
 
-### 3. [📦 Asilage Colis](./asilage)
+### 3. [📦 Asilage Colis](./sponsored-mail)
 **Le format Physique.**
 Votre flyer ou échantillon est glissé physiquement dans les colis expédiés par nos partenaires.
 * *Idéal pour : Expérience client (Unboxing), Taux de prise en main 100%.*
-
-### 4. [📊 Kit Média & Tarifs](./kit-media)
-Consultez nos audiences, nos secteurs d'activité et nos grilles tarifaires indicatives.
 
 ---
 

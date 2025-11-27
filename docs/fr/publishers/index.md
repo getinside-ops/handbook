@@ -3,7 +3,7 @@ layout: default
 title: Espace E-commerçants
 nav_order: 3
 has_children: true
-permalink: /docs/fr/e-commercants
+permalink: /docs/fr/publishers
 ---
 
 # 🛒 Espace E-commerçants
@@ -13,13 +13,13 @@ Vous accueillez une campagne partenaire ? Voici les guides techniques pour inté
 
 ## Guides d'Intégration
 
-### [📧 Newsletter Dédiée](./newsletter-dediee)
+### [📧 Dedicated Email (Newsletter Dédiée)](./dedicated-email)
 Comment créer le HTML, insérer le pixel de tracking obligatoire et valider le BAT.
 
-### [🧩 Encart Newsletter](./encart)
+### [🧩 Display Email (Encart Newsletter)](./display-email)
 Les dimensions et l'emplacement à respecter pour insérer une bannière partenaire dans votre propre newsletter.
 
-### [📦 Asilage Colis](./asilage)
+### [📦 Sponsored Mail (Asilage Colis)](./sponsored-mail)
 Les procédures logistiques pour la réception des flyers en entrepôt et les règles d'insertion (Packing).
 
 ---
