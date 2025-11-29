@@ -29,6 +29,8 @@ Le support publicitaire doit impérativement être déposé **sur les produits**
 *   Il doit être la première chose que le client voit en ouvrant son colis.
 *   Ne jamais glisser le flyer au fond du carton ou sous les produits.
 
+      <img src="../../../../assets/images/asile-colis-dosndont.png" alt="Bonnes pratiques insertion">
+
 ### 📄 Gestion de la facture
 Si vous insérez une facture ou un bon de livraison papier :
 *   Placez l'offre publicitaire **au-dessus** de la facture, ou agrafée à celle-ci si votre process le permet.
