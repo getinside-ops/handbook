@@ -66,7 +66,7 @@ Tous vos utilisateurs reçoivent une **notification email**. Connectez-vous pour
 ### 2. Négociation
 Vous avez trois options :
 1.  **Accepter :** La campagne est validée aux conditions proposées.
-.  **Contre-proposition (Négociation) :**
+2.  **Contre-proposition (Négociation) :**
     *   Vous pouvez ajuster le prix (CPM ou forfait).
     *   Vous pouvez modifier les dates ou le volume.
     *   L'annonceur recevra votre contre-offre et pourra l'accepter ou non.
