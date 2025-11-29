@@ -22,3 +22,6 @@ Notre solution vous permet d'agir sur trois leviers :
 *   **[Emailing Dédié](dedicated-email/)** : Création et diffusion.
 *   **[Offres et Modèles de Revenus](plans)** : Starter, Standard ou Managed.
 *   **[Gestion des Revenus](payouts)** : Wallet, retraits et réinvestissement.
+
+### Avantages Partenaires
+*   **Impression à tarifs négociés :** Utilisez getinside pour imprimer vos propres cartes de remerciement ou flyers à moindre coût. [En savoir plus](../advertisers/printing-services).
