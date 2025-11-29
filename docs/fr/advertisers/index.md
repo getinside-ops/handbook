@@ -1,44 +1,23 @@
 ---
 layout: default
 title: Espace Annonceurs
-nav_order: 2
 has_children: true
-permalink: /docs/fr/advertisers
+nav_order: 1
 ---
 
-# 📢 Espace Annonceurs
-[⬅️ Retour à l'accueil](../../../)
+# Espace Annonceurs
 
-Bienvenue dans votre centre de ressources. Vous trouverez ici toutes les spécifications pour préparer vos éléments de campagne et garantir le succès de vos opérations.
+Bienvenue dans l'espace dédié aux marques et annonceurs.
+Accédez à une audience qualifiée au cœur de l'expérience colis et digitale.
 
-## Par où commencer ?
+## Guides par Format
+*   **[Asile Colis (Sponsored Mail)](sponsored-mail/)** : Le guide complet.
+*   **[Emailing Dédié](dedicated-email/)** : Process et specs.
+*   **[Encart Newsletter](display-email/)** : Bannières display.
+*   **[Social Ads](sponsored-social/)** : Sponsorisation.
+*   **[Jeu Concours](co-branded-contest/)** : Lead Gen.
 
-L'équipe GetInside vous accompagne sur différents formats. Sélectionnez celui qui correspond à votre campagne actuelle pour accéder au guide détaillé :
-
-### 1. [📧 Dedicated Email (Newsletter Dédiée)](./dedicated-email)
-**Le format Premium.**
-Une marque partenaire envoie un email 100% dédié à votre offre à sa base de données.
-* *Idéal pour : Acquisition, Lancement produit, Trafic qualifié.*
-
-### 2. [🧩 Encart Newsletter](./display-email)
-**Le format Natif.**
-Votre marque s'insère nativement (bannière ou bloc) dans la newsletter hebdomadaire de l'e-commerçant.
-* *Idéal pour : Notoriété, Visibilité régulière, Trafic.*
-
-### 3. [📦 Asilage Colis](./sponsored-mail)
-**Le format Physique.**
-Votre flyer ou échantillon est glissé physiquement dans les colis expédiés par nos partenaires.
-* *Idéal pour : Expérience client (Unboxing), Taux de prise en main 100%.*
-
----
-
-## ⚡ Raccourcis
-
-| Action | Lien |
-| :--- | :--- |
-| **Contacter le studio** | [studio@getinside.fr](mailto:studio@getinside.fr) |
-| **Contacter les ventes** | [sales@getinside.fr](mailto:sales@getinside.fr) |
-
----
-{: .note }
-**Conseil Pro :** Pour chaque campagne, la qualité des visuels fournis (Assets) est le facteur n°1 de performance. Prenez le temps de lire les guides spécifiques ci-dessus avant d'envoyer vos éléments.
+## Services & Tarifs
+*   **[Impression & Logistique](printing-services)** : Profitez de nos tarifs négociés (Made in France) pour vos campagnes et votre auto-promotion.
+*   **[Tarifs & Budget](pricing)** : Modèle à la performance.
+*   **[Inspirations](case-studies)** : Cas clients réussis.
