@@ -1,12 +1,12 @@
-title: Handbook GetInside
-description: Documentation opérationnelle pour les campagnes.
+title: Handbook
+description: Le mode d'emploi getinside
 url: "https://getinside-ops.github.io"
 
 # Le Thème
 remote_theme: pmarsceill/just-the-docs
 
 # 1. Branding (Logo)
-logo: "/assets/images/logo-getinside.png"
+#logo: "/assets/images/logo-getinside.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 # 2. Mode Sombre (Automatique)
