@@ -1,24 +1,33 @@
-<footer class="site-footer">
-  <!-- Le texte de Copyright -->
-  <div class="d-flex justify-content-between align-items-center">
-    <div class="copyright">
-      <p>
-        &copy; 2025 <strong>getinside</strong>. Tous droits réservés.
-        <br>
-        Solution Saas de Retail Media.
+<!-- Séparateur discret -->
+<hr style="border-top: 1px solid #eee; margin-top: 40px; margin-bottom: 20px;">
+
+<footer class="text-grey-dk-000 fs-3">
+  <!-- Utilisation de Flexbox avec style inline pour forcer le bon affichage -->
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    
+    <!-- Bloc Gauche : Copyright -->
+    <div style="flex: 1; min-width: 200px;">
+      <p style="margin-bottom: 0;">
+        &copy; 2025 <strong>getinside</strong>.<br>
+        <span class="fs-2">La plateforme de Retail Media.</span>
       </p>
     </div>
     
-    <!-- Les liens vers votre site -->
-    <div class="footer-links">
-      <a href="https://www.getinside.fr/" target="_blank" style="margin-right: 15px;">Site Officiel</a>
-      <a href="https://www.getinside.fr/mentions-legales" target="_blank" style="margin-right: 15px;">Mentions Légales</a>
-      <a href="mailto:benoit@getinside.fr">Contact</a>
+    <!-- Bloc Droite : Liens -->
+    <div style="text-align: right;">
+      <a href="https://www.getinside.fr/" target="_blank" style="margin-left: 15px; text-decoration: none; color: #5c5962;">Site Officiel</a>
+      <a href="https://app.getinside.media/" target="_blank" style="margin-left: 15px; text-decoration: none; color: #7253ed;">Accès SaaS</a>
+      <a href="mailto:benoit@getinside.fr" style="margin-left: 15px; text-decoration: none; color: #5c5962;">Support</a>
     </div>
+
   </div>
   
-  <!-- Petit script pour que l'année se mette à jour toute seule (optionnel) -->
+  <!-- Script date auto -->
   <script>
-    document.querySelector('.copyright strong').previousSibling.textContent = "© " + new Date().getFullYear() + " ";
+    const yearSpan = document.querySelector('footer strong');
+    if(yearSpan) {
+       const currentYear = new Date().getFullYear();
+       yearSpan.previousSibling.textContent = "© " + currentYear + " ";
+    }
   </script>
 </footer>
