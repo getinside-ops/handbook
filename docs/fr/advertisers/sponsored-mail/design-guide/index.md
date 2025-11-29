@@ -19,7 +19,7 @@ Vous ne souhaitez pas gérer la création graphique ? Vous pouvez à tout moment
 
 *   **Tarif :** Prestation forfaitaire de **550€ HT** par campagne.
 *   **Contact :** studio@getinside.fr
-*   **Documents :** [Consulter la liste des éléments à fournir](#)
+*   **Documents :** [Consulter la liste des éléments à fournir](https://docs.google.com/document/d/13JEyVPB6ROk9k_ziZ7l_IyXGIueiyu6FWAx6cOitrfk/edit?tab=t.0#heading=h.m93s6ypeh0l3)
 
 ---
 
@@ -43,7 +43,7 @@ Pour démarrer votre création, utilisez nos fichiers de base :
 
 | Ressource | Format | Lien |
 | :--- | :--- | :--- |
-| **Gabarits d'impression** | `.ai`, `.pdf` | [Télécharger les Gabarits](#) |
-| **Logos obligatoires** | `.svg` | [Télécharger les Logos](#) |
-| **Inspirations** | `.pdf` | [Voir le book d'inspirations](#) |
-| **Check-list de contrôle** | `.pdf` | [Télécharger la check-list](#) |
+| **Gabarits d'impression** | `.ai`, `.pdf` | [Télécharger les Gabarits](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe) |
+| **Logos obligatoires** | `.svg` | [Télécharger les Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy) |
+| **Inspirations** | `.pdf` | [Voir le book d'inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit) |
+| **Check-list de contrôle** | `.pdf` | [Télécharger la check-list](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit?tab=t.0) |
