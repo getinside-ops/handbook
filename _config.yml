@@ -36,3 +36,6 @@ defaults:
       path: ""
     values:
       toc: false
+
+# Footer du menu de gauche
+footer_content: " "
