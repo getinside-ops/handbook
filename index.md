@@ -46,7 +46,7 @@ description: "Documentation officielle getinside."
   <!-- CARTE ÉDITEURS -->
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff;">
     <h2 class="text-purple-200 mt-0">📦 Espace Éditeurs</h2>
-    <p class="fs-4">Pour les distributeurs souhaitant monétiser leur audience.</p>
+    <p class="fs-4">Pour les e-commerçants souhaitant monétiser leur audience.</p>
     
     <div style="display: flex; flex-direction: column; gap: 8px;">
       <a href="docs/fr/publishers/onboarding-process" class="btn btn-purple btn-sm text-left text-white">🚀 Guide de Démarrage</a>
