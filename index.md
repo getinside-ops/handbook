@@ -1,62 +1,58 @@
 ---
 layout: default
 title: Accueil
-nav_order: 1
-description: "Documentation officielle getinside : Guides techniques, spécifications et process pour Annonceurs et Éditeurs."
+nav_exclude: true
 permalink: /
+description: "Documentation officielle getinside : Guides techniques, spécifications et process pour Annonceurs et Éditeurs."
 ---
 
 # Centre d'aide getinside
 {: .fs-9 }
 
-Bienvenue sur la documentation officielle de **getinside**, la plateforme SaaS de Retail Media (Asile Colis & Newsletter).
+Bienvenue sur la documentation officielle de **getinside**, la plateforme SaaS de Retail Media.
 {: .fs-6 .fw-300 }
 
-Ce centre de ressources centralise tous les guides, spécifications techniques et processus pour vous aider à lancer et gérer vos campagnes.
+Ce centre de ressources centralise tous les guides, spécifications techniques et processus pour vous aider à lancer et gérer vos campagnes d'Asile Colis, d'Emailing et de Social Ads.
 
 ---
 
-<div class="d-flex flex-wrap gutter-md-sp-2 mt-4">
-  <div class="col-md-6 mb-4">
-    <div class="p-4 border rounded-1 h-100 d-flex flex-column justify-content-between">
-      <div>
-        <h2 class="fs-5 text-blue-000">🛍️ Espace Annonceurs</h2>
-        <p>Vous souhaitez promouvoir votre marque via nos réseaux de distribution ?</p>
-        <ul class="ml-4">
-          <li>Guides de conception (Asile Colis & Email)</li>
-          <li>Spécifications techniques (HTML, 300 DPI...)</li>
-          <li>Process de validation des briefs</li>
-        </ul>
-      </div>
-      <div class="mt-4">
-        <a href="docs/fr/advertisers/" class="btn btn-primary fs-5 mb-2">Accéder à la doc Annonceurs</a>
-      </div>
-    </div>
-  </div>
+## Choisissez votre espace
 
-  <div class="col-md-6 mb-4">
-    <div class="p-4 border rounded-1 h-100 d-flex flex-column justify-content-between">
-      <div>
-        <h2 class="fs-5 text-purple-000">📦 Espace Éditeurs</h2>
-        <p>Vous êtes E-commerçant ou Média et distribuez des campagnes ?</p>
-        <ul class="ml-4">
-          <li>Logistique Asile Colis & Reporting</li>
-          <li>Création d'emails (Endorsement)</li>
-          <li>Intégration du tracking</li>
-          <li>Gestion des revenus</li>
-        </ul>
-      </div>
-      <div class="mt-4">
-        <a href="docs/fr/publishers/" class="btn btn-outline fs-5 mb-2">Accéder à la doc Éditeurs</a>
-      </div>
-    </div>
-  </div>
+<div class="code-example" markdown="1">
+**🛍️ Espace Annonceurs**
+{: .fs-5 .text-blue-200 }
+
+Vous êtes une marque et souhaitez acquérir de nouveaux clients via nos réseaux de distribution ?
+
+*   [Guide Asile Colis](docs/fr/advertisers/sponsored-mail/)
+*   [Guide Emailing Dédié](docs/fr/advertisers/dedicated-email/)
+*   [Guide Social Ads](docs/fr/advertisers/sponsored-social/)
+*   [Modèle de Tarification](docs/fr/advertisers/pricing)
+
+[Accéder à la documentation Annonceurs](docs/fr/advertisers/){: .btn .btn-primary .fs-4 .mb-4 }
+</div>
+
+<div class="code-example" markdown="1">
+**📦 Espace Éditeurs**
+{: .fs-5 .text-purple-200 }
+
+Vous êtes E-commerçant ou Média et souhaitez monétiser vos audiences (Colis, Email, Social) ?
+
+*   [Gestion Logistique (Colis)](docs/fr/publishers/sponsored-mail/)
+*   [Création d'Emailing](docs/fr/publishers/dedicated-email/)
+*   [Programme d'Affiliation](docs/fr/publishers/affiliation)
+*   [Paiement des Revenus](docs/fr/publishers/payouts)
+
+[Accéder à la documentation Éditeurs](docs/fr/publishers/){: .btn .btn-purple .fs-4 .mb-4 }
 </div>
 
 ---
 
-### Accès Rapide
+## ⚡ Accès Rapide
 
-*   **Plateforme SaaS :** [app.getinside.media](https://app.getinside.media/){: .btn .btn-purple .mr-2 }
-*   **Support Studio :** [studio@getinside.fr](mailto:studio@getinside.fr){: .btn .mr-2 }
-*   **Support Tech :** [tech@getinside.fr](mailto:tech@getinside.fr){: .btn }
+| Plateforme & Support | Lien d'accès |
+| :--- | :--- |
+| **Plateforme SaaS** | [app.getinside.media](https://app.getinside.media/){: target="_blank" } |
+| **Studio Créatif** | [studio@getinside.fr](mailto:studio@getinside.fr) |
+| **Support Technique** | [tech@getinside.fr](mailto:tech@getinside.fr) |
+| **Support Logistique** | [logistique@getinside.fr](mailto:logistique@getinside.fr) |

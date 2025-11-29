@@ -7,11 +7,18 @@ nav_order: 2
 
 # Espace Éditeurs & E-commerçants
 
-Bienvenue dans la base de connaissances dédiée aux partenaires distributeurs de getinside. Vous trouverez ici les guides opérationnels pour monétiser vos assets (colis, newsletters).
+Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additionnel grâce à notre plateforme tout-en-un.
 
-## Accès Rapide
+## Les 3 piliers de la monétisation
 
-*   **[Asile Colis (Sponsored Mail)](sponsored-mail/)** : Gestion logistique des insertions publicitaires.
-*   **[Emailing Dédié](dedicated-email/)** : Création, tracking et diffusion de campagnes email.
+Notre solution vous permet d'agir sur trois leviers :
 
-**Accès à la plateforme :** [https://app.getinside.media/](https://app.getinside.media/)
+1.  **Activation (Marketplace) :** Recevez automatiquement des propositions de campagnes d'annonceurs. Vous êtes libre d'accepter ou de refuser.
+2.  **Prospection :** Démarchez proactivement plus de 300 annonceurs référencés pour leur proposer des collaborations.
+3.  **Expansion :** Centralisez vos partenaires existants pour gérer vos campagnes de Trade Marketing ou d'échange de visibilité (Gestion simplifiée, facturation centralisée).
+
+## Ressources Disponibles
+*   **[Asile Colis](sponsored-mail/)** : Logistique et insertion.
+*   **[Emailing Dédié](dedicated-email/)** : Création et diffusion.
+*   **[Offres et Modèles de Revenus](plans)** : Starter, Standard ou Managed.
+*   **[Gestion des Revenus](payouts)** : Wallet, retraits et réinvestissement.
