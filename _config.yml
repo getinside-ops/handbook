@@ -25,9 +25,14 @@ aux_links:
   "🇫🇷 Français":
     - "/docs/fr"
 
-# 5. Footer (Lien retour)
-footer_content: "Copyright © 2025 getinside.fr"
-
 # Plugins techniques
 plugins:
   - jekyll-seo-tag
+# -----------------------------------------------------------------------------
+# Valeurs par défaut pour toutes les pages
+# -----------------------------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: false
