@@ -4,6 +4,7 @@ title: Stratégie & Contenu
 parent: Guide de Conception
 grand_parent: Asile Colis
 nav_order: 2
+toc: false
 ---
 
 # Définition de la campagne
@@ -16,7 +17,7 @@ Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique cl
 
 <h2 class="text-blue-200 mb-4">1. La Mécanique</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">🏷️ Promotion</h3>

@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Réglementation & QR code
+title: Réglementation & QR
 parent: Guide de Conception
 grand_parent: Asile Colis
 nav_order: 4
+toc: false
 ---
 
 # Mentions Légales et QR Codes
@@ -33,7 +34,7 @@ Respectez ces obligations pour éviter le rejet de votre campagne lors de la val
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px;">
   <p class="fs-4 mt-0 mb-4">Tous vos visuels doivent comporter :</p>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; width: 100%;">
     <div>
       <strong>1. Identification</strong><br>
       Nom social, Forme juridique, Capital, Ville & RCS de l'annonceur.
@@ -51,7 +52,7 @@ Respectez ces obligations pour éviter le rejet de votre campagne lors de la val
 
 <h2 class="text-blue-200 mt-6 mb-4">⚖️ Spécificités Sectorielles</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">🍷 Alcool</h3>

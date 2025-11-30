@@ -28,6 +28,11 @@ aux_links:
 # Plugins techniques
 plugins:
   - jekyll-seo-tag
+
+
+# Footer du menu de gauche
+footer_content: "Copyright &copy; 2025 getinside."
+
 # -----------------------------------------------------------------------------
 # Valeurs par défaut pour toutes les pages
 # -----------------------------------------------------------------------------
@@ -36,6 +41,3 @@ defaults:
       path: ""
     values:
       toc: false
-
-# Footer du menu de gauche
-footer_content: "Copyright &copy; 2025 getinside."
