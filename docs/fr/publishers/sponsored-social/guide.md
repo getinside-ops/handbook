@@ -7,29 +7,85 @@ nav_order: 1
 ---
 
 # Guide de Publication & Tagging
+{: .fs-9 }
 
-Pour que l'Annonceur puisse sponsoriser votre post (et donc payer la campagne), vous devez impérativement suivre cette procédure technique lors de la publication.
+Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activer les options de partenariat lors de la publication.
+{: .fs-6 .fw-300 }
 
-## Sur Instagram (Partnership Ads)
+<hr class="my-6">
 
-Lorsque vous publiez le contenu (Reel ou Post) :
+<h2 class="text-purple-200 mb-4">Sur Instagram (Partnership Ads)</h2>
 
-1.  Lors de l'étape finale (avant de cliquer sur "Partager"), allez dans **"Paramètres avancés"**.
-2.  Activez l'option **"Ajouter un label Partenariat rémunéré"**.
-3.  Cliquez sur **"Ajouter des partenaires de marque"** et recherchez le nom du compte de l'Annonceur (ou de getinside si indiqué).
-4.  **TRES IMPORTANT :** Activez l'option **"Autoriser le partenaire de marque à booster"** (Allow brand partner to boost).
-    *   *Sans cette case cochée, nous ne pouvons pas lancer la campagne média et votre rémunération peut être bloquée.*
+<div style="border-left: 4px solid #d62976; padding-left: 20px;">
+  
+  <div style="margin-bottom: 20px;">
+    <h3 class="mt-0 fs-4">1. Préparez le post</h3>
+    <p class="mb-0">Créez votre Post ou Reel normalement. Arrivez à l'étape finale (juste avant de cliquer sur "Partager").</p>
+  </div>
 
-## Sur TikTok (Spark Ads)
+  <div style="margin-bottom: 20px;">
+    <h3 class="mt-0 fs-4">2. Paramètres Avancés</h3>
+    <p class="mb-0">Descendez tout en bas et cliquez sur <strong>"Paramètres avancés"</strong>.</p>
+  </div>
 
-1.  Publiez votre vidéo normalement.
-2.  Allez sur la vidéo, cliquez sur les **3 points (...)** en bas à droite.
-3.  Faites défiler et cliquez sur **"Paramètres de publicité"** (Ad settings).
-4.  Activez l'option **"Autorisation de publicité"** (Ad authorization).
-5.  Cliquez sur **"Générer un code"**, choisissez une durée (30 ou 60 jours) et copiez le code.
-6.  Collez ce code dans votre espace campagne sur [app.getinside.media](https://app.getinside.media/).
+  <div style="margin-bottom: 20px;">
+    <h3 class="mt-0 fs-4">3. Ajouter le label</h3>
+    <p class="mb-0">Activez l'option <strong>"Ajouter un label Partenariat rémunéré"</strong>.</p>
+  </div>
 
-## Bonnes Pratiques Éditoriales
-*   **Restez authentique :** Utilisez votre ton habituel. C'est ce que l'Annonceur recherche.
-*   **Mention légale :** L'outil de partenariat ajoute automatiquement la mention "Partenariat rémunéré", ce qui vous met en conformité avec la loi influenceurs.
-*   **Ne supprimez pas le post :** Le post doit rester en ligne pendant toute la durée de la campagne média active.
+  <div style="margin-bottom: 20px;">
+    <h3 class="mt-0 fs-4">4. Identifier la marque</h3>
+    <p class="mb-0">Cliquez sur <strong>"Ajouter des partenaires de marque"</strong> et recherchez le nom du compte de l'Annonceur (indiqué dans le brief).</p>
+  </div>
+
+  <div style="background-color: #fff0f3; border: 1px dashed #d62976; padding: 15px; border-radius: 8px;">
+    <h3 class="mt-0 text-red-200 fs-4">⚠️ ÉTAPE CRITIQUE</h3>
+    <p class="mb-0">Vous devez absolument activer l'option :<br>
+    <strong>"Autoriser le partenaire de marque à booster"</strong> (Allow brand partner to boost).</p>
+    <p class="fs-2 mt-2 mb-0 text-grey-dk-000"><em>Sans cette case cochée, nous ne pouvons pas lancer la campagne média et votre rémunération peut être bloquée.</em></p>
+  </div>
+
+</div>
+
+<hr class="my-6">
+
+<h2 class="text-purple-200 mb-4">Sur TikTok (Spark Ads)</h2>
+
+<div style="border-left: 4px solid #000; padding-left: 20px;">
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="mt-0 fs-4">1. Paramètres de publicité</h3>
+    <p class="mb-0">Publiez la vidéo. Allez dessus, cliquez sur les <strong>3 points (...)</strong> en bas à droite, puis faites défiler jusqu'à <strong>"Paramètres de publicité"</strong> (Ad settings).</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="mt-0 fs-4">2. Autorisation</h3>
+    <p class="mb-0">Activez l'option <strong>"Autorisation de publicité"</strong> (Ad authorization).</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h3 class="mt-0 fs-4">3. Générer le code</h3>
+    <p class="mb-0">Cliquez sur <strong>"Générer un code"</strong>, choisissez une durée (30 ou 60 jours) et copiez le code.</p>
+  </div>
+
+  <div style="background-color: #f6f8fa; border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px;">
+    <strong>📨 Action finale :</strong><br>
+    Collez ce code dans la messagerie de la campagne sur <a href="https://app.getinside.media/">app.getinside.media</a> pour que l'annonceur puisse lier la vidéo.
+  </div>
+
+</div>
+
+<hr class="my-6">
+
+<h2 class="text-grey-dk-000 mb-4">Bonnes Pratiques Éditoriales</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+  
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <strong>Authenticité</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Utilisez votre ton habituel. Ne jouez pas un rôle, c'est ce que l'Annonceur recherche.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <strong>Transparence</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">L'outil de partenariat ajoute automatiquement la mention "Partenariat rémunéré", ce qui vous met en conformité avec la

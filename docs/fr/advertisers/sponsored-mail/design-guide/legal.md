@@ -1,78 +1,79 @@
 ---
 layout: default
-title: Réglementation & QR
-parent: Asile Colis
-grand_parent: Espace Annonceurs
+title: Réglementation & QR code
+parent: Guide de Conception
+grand_parent: Asile Colis
 nav_order: 4
 ---
 
 # Mentions Légales et QR Codes
+{: .fs-9 }
 
-## 🤖 QR Codes & Tracking
+Respectez ces obligations pour éviter le rejet de votre campagne lors de la validation.
+{: .fs-6 .fw-300 }
 
-L’intégration des QR codes est **obligatoire**. Ils permettent de suivre le bon déroulement de la campagne et les performances.
+<hr class="my-6">
 
-*   **Type :** QR Codes dynamiques (fournis par getinside). L'URL de destination peut être modifiée à tout moment sans réimprimer.
-*   **Taille :** 25 mm de côté minimum pour assurer la lisibilité.
-*   **Disponibilité :** À télécharger (format `.svg`) sur votre espace annonceur après validation par le distributeur.
+<h2 class="text-blue-200 mb-4">🤖 QR Codes & Tracking</h2>
 
-### 🔗 URL de redirection & UTM
-Par défaut, le QR code est vide. Vous devez renseigner l'URL de destination dans votre espace annonceur.
-{: .tip }
-> Nous recommandons de créer une URL spécifique par distributeur avec des **balises UTM** (ex: `?utm_source=fnac&utm_medium=asile-colis`) pour tracer précisément d'où viennent vos visiteurs dans Google Analytics.
+<div style="display: flex; gap: 20px; align-items: center; background: #f6f8fa; padding: 20px; border-radius: 8px; margin-bottom: 40px;">
+  <div style="font-size: 40px;">📱</div>
+  <div>
+    <h3 class="mt-0">Intégration Obligatoire</h3>
+    <p class="mb-0">Utilisez le QR code dynamique fourni par getinside (format .svg).</p>
+    <ul class="mt-2 mb-0">
+      <li><strong>Taille min :</strong> 25 x 25 mm.</li>
+      <li><strong>Tracking :</strong> Utilisez des UTM dans l'URL de destination.</li>
+    </ul>
+  </div>
+</div>
 
-### 💸 Code Promo
-Si vous utilisez un code promo :
-1.  **Personnalisation :** Créez un code spécifique par distributeur (ex: `FNAC20`, `CDISCOUNT20`) pour renforcer la synergie de marque.
-2.  **Simplicité :** Code court, sans caractères spéciaux (`- _ . ,`).
-3.  **Durée :** Valide au moins **3 mois** (durée de vie du support physique).
+<h2 class="text-blue-200 mb-4">⚠️ Mentions Générales (Pour tous)</h2>
 
----
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px;">
+  <p class="fs-4 mt-0 mb-4">Tous vos visuels doivent comporter :</p>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+    <div>
+      <strong>1. Identification</strong><br>
+      Nom social, Forme juridique, Capital, Ville & RCS de l'annonceur.
+    </div>
+    <div>
+      <strong>2. Logos Environnement</strong><br>
+      Cartouche Info-tri (Triman) + Logo getinside.
+    </div>
+    <div>
+      <strong>3. CGV de l'offre</strong><br>
+      Dates de validité et conditions (ex: "dès 50€ d'achat").
+    </div>
+  </div>
+</div>
 
-## ⚠️ Mentions Obligatoires Générales
+<h2 class="text-blue-200 mt-6 mb-4">⚖️ Spécificités Sectorielles</h2>
 
-Tous les imprimés publicitaires doivent comporter les éléments suivants :
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-### 1. Identification de l’annonceur
-*   Nom social de l’entreprise.
-*   Forme juridique, Capital social.
-*   Adresse du siège.
-*   Numéro RCS et ville d'enregistrement.
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">🍷 Alcool</h3>
+    <p class="mb-2"><em>"L'abus d'alcool est dangereux pour la santé, à consommer avec modération."</em></p>
+    <span class="fs-2 text-grey-dk-000">Loi Evin (Art. L3323-4). Interdiction ciblage mineurs.</span>
+  </div>
 
-### 2. Logos & Environnement
-*   **Cartouche Info-tri (Triman) :** Obligatoire (hauteur mini 8mm).
-*   **Logo getinside :** Doit figurer sur la créa.
-*   **Mention FSC/PEFC :** "Imprimé sur papier FSC par un imprimeur certifié Imprim’vert" (si imprimé via getinside).
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">🥗 Alimentation</h3>
+    <p class="mb-2"><em>"Pour votre santé, mangez au moins cinq fruits et légumes par jour."</em></p>
+    <span class="fs-2 text-grey-dk-000">Mangez-bougez.fr (Art. L2133-1).</span>
+  </div>
 
-### 3. Conditions de l'offre
-*   Dates de validité.
-*   Conditions particulières (ex: "dès 50€ d'achat").
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">🚗 Automobile</h3>
+    <p class="mb-2">Message mobilité douce : <em>"Pensez à covoiturer."</em></p>
+    <span class="fs-2 text-grey-dk-000">Et classe énergétique CO2 (Arrêté 2018).</span>
+  </div>
 
----
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">💰 Crédit / Finance</h3>
+    <p class="mb-2"><em>"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités..."</em></p>
+  </div>
 
-## ⚖️ Mentions Spécifiques par Secteur
-
-Vérifiez ci-dessous si votre activité impose des mentions légales supplémentaires.
-
-### 🍷 Alcool
-*   **Message sanitaire :** "L'abus d'alcool est dangereux pour la santé, à consommer avec modération."
-*   *Base légale : Code de la santé publique, art. L3323-4.*
-*   Interdiction stricte de cibler les mineurs.
-
-### 🥗 Alimentation
-*   **Message sanitaire :** "Pour votre santé, mangez au moins cinq fruits et légumes par jour" (ou autres variantes officielles).
-*   *Base légale : Code de la santé publique, art. L2133-1.*
-
-### 🚗 Automobile
-*   **Données :** Consommation carburant + Émissions CO2.
-*   **Message mobilité (Obligatoire depuis 2019) :** "Pour les trajets courts, privilégiez la marche ou le vélo" (ou "Pensez à covoiturer").
-*   *Base légale : Arrêté du 28 déc 2018 modifié.*
-
-### 💰 Crédit & Produits Financiers
-*   **Prêt conso :** "Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager." (*Code conso L311-5*)
-*   **Produits d'investissement :** Mentions sur les risques de perte en capital.
-
-### 💊 Compléments Alimentaires
-*   **Message :** "À utiliser dans le cadre d'une alimentation variée et équilibrée et d'un mode de vie sain."
-
-*(Liste non exhaustive fournie à titre indicatif. Consultez votre service juridique).*
+</div>

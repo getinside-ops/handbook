@@ -8,7 +8,7 @@ nav_order: 1
 # Onboarding et Fonctionnement
 {: .fs-9 }
 
-Bienvenue sur getinside ! Voici le processus détaillé pour référencer vos audiences, définir vos tarifs et gérer vos premières campagnes.
+Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre régie, activez vos partenaires historiques et maximisez vos revenus.
 {: .fs-6 .fw-300 }
 
 <hr class="my-6">
@@ -115,14 +115,15 @@ Bienvenue sur getinside ! Voici le processus détaillé pour référencer vos au
     <h3 class="mt-0 text-grey-dk-000">Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
     <div class="p-4 bg-grey-lt-000 rounded-1 border mb-3">
-      <strong>Votre rôle :</strong> Connectez-vous pour voir la marque, le volume, le tarif et la période.<br>
+      <strong>Ne refusez pas, négociez !</strong><br>
+      L'objectif est de remplir votre inventaire. Plutôt que de refuser une offre :
       <ul>
-        <li><strong>Accepter :</strong> Validation immédiate.</li>
-        <li><strong>Refuser :</strong> Si inadéquation.</li>
-        <li><strong>Contre-proposition :</strong> Ajustez le prix, les dates ou le volume.</li>
+        <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire.</li>
+        <li><strong>📅 Dates indisponibles ?</strong> Proposez une autre période de diffusion.</li>
+        <li><strong>📦 Volume inadapté ?</strong> Ajustez la quantité proposée.</li>
       </ul>
     </div>
-    <p><strong>💬 Messagerie Intégrée :</strong> Un canal s'ouvre entre vous et l'annonceur dès la proposition. L'équipe getinside peut y intervenir et vous pouvez uploader des pièces jointes (Briefs, BAT).</p>
+    <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec l'annonceur, argumenter votre prix ou demander des précisions.</p>
   </div>
 </div>
 
@@ -135,6 +136,40 @@ Bienvenue sur getinside ! Voici le processus détaillé pour référencer vos au
     <ul>
       <li><strong>Asile Colis :</strong> Expédition des supports (respect du délai d'ingestion).</li>
       <li><strong>Digital :</strong> Transmission des assets créatifs et intégration.</li>
+    </ul>
+  </div>
+</div>
+
+<hr class="my-6">
+
+<h2 class="text-blue-200 mb-6">Phase 3 : Accélération & Autonomie</h2>
+
+<!-- ETAPE 10 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>
+  <div>
+    <h3 class="mt-0 text-blue-200">Trade Marketing (Vos Marques)</h3>
+    <p>Ne dépendez pas uniquement des annonceurs externes. Soyez proactif avec vos propres fournisseurs !</p>
+    <div style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px; background-color: #f0f8ff;">
+      <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Asile, Email, Social) via getinside.<br>
+      <ul>
+        <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
+        <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ETAPE 11 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🤝</div>
+  <div>
+    <h3 class="mt-0 text-blue-200">Affiliation & Parrainage</h3>
+    <p>Vous connaissez d'autres marques ou e-commerçants ?</p>
+    <ul>
+      <li>Invitez-les à rejoindre la plateforme.</li>
+      <li>Touchez une commission sur leur activité.</li>
+      <li><a href="affiliation">Voir le programme d'affiliation</a>.</li>
     </ul>
   </div>
 </div>

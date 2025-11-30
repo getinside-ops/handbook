@@ -7,14 +7,76 @@ nav_order: 1
 ---
 
 # Asile Colis (Sponsored Mail)
+{: .fs-9 }
 
-L'Asile Colis est un levier d'acquisition puissant qui consiste à insérer votre offre publicitaire (flyer, carte, échantillon) à l'intérieur des colis expédiés par nos e-commerçants partenaires. Avec un taux d'ouverture proche de 100%, c'est le canal idéal pour toucher vos prospects au moment où ils sont les plus réceptifs : à l'ouverture de leur commande.
+Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience colis de grandes marques e-commerce.
+{: .fs-6 .fw-300 }
 
-Dans cette section, vous trouverez toutes les ressources nécessaires pour concevoir une campagne performante et conforme aux normes techniques et légales.
+<div class="mt-4 mb-6">
+  <a href="design-guide/" class="btn btn-primary fs-4 mr-2">Guide de Conception</a>
+  <a href="https://app.getinside.media/" target="_blank" class="btn btn-outline fs-4">Créer une campagne</a>
+</div>
 
-## Sommaire du guide
+<hr class="mb-6">
 
-*   **[Guide de Conception](design-guide/)** : Introduction, process de validation et ressources.
-*   **[Stratégie & Contenu](design-guide/strategy)** : Comment définir votre offre et votre mécanique.
-*   **[Spécifications Techniques](design-guide/print-specs)** : Les contraintes d'impression (Gabaris, CMJN, 300 DPI).
-*   **[Réglementation & QR](design-guide/legal)** : Les mentions légales obligatoires et l'usage des QR codes.
+<h2 class="text-blue-200 mb-4">Ressources & Documentation</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
+
+  <!-- CARTE GUIDE COMPLET -->
+  <a href="design-guide/" style="text-decoration: none; color: inherit;">
+    <div style="border: 2px solid #2d6fd6; border-radius: 8px; padding: 24px; height: 100%; background: #f6f8fa; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
+      <h3 class="mt-0 text-blue-200">📘 Guide de Conception</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Le point de départ. Processus de validation, option Studio et checklist.</p>
+    </div>
+  </a>
+
+  <!-- CARTE STRATEGIE -->
+  <a href="design-guide/strategy" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
+      <h3 class="mt-0 fs-4">🧠 Stratégie & Offre</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Comment définir une mécanique et une offre qui convertit.</p>
+    </div>
+  </a>
+
+  <!-- CARTE SPECS -->
+  <a href="design-guide/print-specs" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
+      <h3 class="mt-0 fs-4">📐 Specs Techniques</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Formats (A5, A6), Fonds perdus, Résolution (300 DPI) et Fichiers.</p>
+    </div>
+  </a>
+
+  <!-- CARTE LEGAL -->
+  <a href="design-guide/legal" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
+      <h3 class="mt-0 fs-4">⚖️ Légal & QR</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Mentions obligatoires, spécificités sectorielles et tracking.</p>
+    </div>
+  </a>
+
+</div>
+
+<h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px; border: 1px solid #eee; border-radius: 8px; padding: 20px;">
+    <div style="font-size: 30px; margin-bottom: 10px;">📦</div>
+    <strong class="fs-4">100% d'Ouverture</strong>
+    <p class="fs-2 text-grey-dk-000">C'est le seul média physique avec un taux de prise en main de 100%. Le client attend son colis avec impatience.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; border: 1px solid #eee; border-radius: 8px; padding: 20px;">
+    <div style="font-size: 30px; margin-bottom: 10px;">🎯</div>
+    <strong class="fs-4">Ciblage Affinitaire</strong>
+    <p class="fs-2 text-grey-dk-000">Associez votre image à des marques (Beauté, Tech, Food) dont l'audience correspond à votre persona.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; border: 1px solid #eee; border-radius: 8px; padding: 20px;">
+    <div style="font-size: 30px; margin-bottom: 10px;">🛡️</div>
+    <strong class="fs-4">Cookie-less</strong>
+    <p class="fs-2 text-grey-dk-000">Un levier contextuel puissant, non impacté par le RGPD ou la fin des cookies tiers.</p>
+  </div>
+
+</div>

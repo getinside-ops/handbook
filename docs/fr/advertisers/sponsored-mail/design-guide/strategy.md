@@ -1,38 +1,81 @@
 ---
 layout: default
 title: Stratégie & Contenu
-parent: Asile Colis
-grand_parent: Espace Annonceurs
+parent: Guide de Conception
+grand_parent: Asile Colis
 nav_order: 2
 ---
 
-# Définition de votre campagne
+# Définition de la campagne
+{: .fs-9 }
 
 Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique claire, une expérience fluide et une offre irrésistible.
+{: .fs-6 .fw-300 }
 
-## 🧰 1. La Mécanique
-Il existe une multitude de mécaniques. Inspirez-vous de celles qui ont prouvé leur efficacité :
+<hr class="my-6">
 
-| Type de mécanique | Exemples d'accroches (Call-to-Action) |
-| :--- | :--- |
-| **Promotions et réductions** | "Scannez pour obtenir une offre exclusive"<br>"Profitez de -20% immédiatement" |
-| **Jeux et concours** | "Scannez pour tenter de gagner chaque jour"<br>"Flashez pour accéder au jeu instantané" |
-| **Contenu exclusif / éducatif** | "Scannez pour lire le rapport"<br>"Découvrez nos recettes de saison" |
-| **Feedback / Enquêtes** | "Scannez et votez"<br>"Donnez votre avis contre un cadeau" |
-| **Drive to Store / App** | "Rapportez cette carte en magasin pour un café gratuit"<br>"Téléchargez l'app pour débloquer vos points" |
+<h2 class="text-blue-200 mb-4">1. La Mécanique</h2>
 
-## ✨ 2. L'Expérience
-Votre contenu doit raconter une histoire évidente pour la cible.
-Poser vous la question : *"Pourquoi ce contenu est-il pertinent pour cette audience précise ?"*
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
-*   **Simplicité :** Ce que l'on conçoit bien s'énonce clairement. Soyez direct.
-*   **Mobile First :** L’expérience se prolonge sur le smartphone du client. Votre landing page **doit** être responsive et adaptée au mobile.
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">🏷️ Promotion</h3>
+    <p class="mb-2 text-grey-dk-000"><em>"Scannez pour obtenir une offre exclusive"</em></p>
+    <p class="mb-0">Idéal pour la conversion immédiate.</p>
+  </div>
 
-## 🎁 3. L'Offre
-L’offre est le moteur de la conversion. Elle doit être pensée selon votre objectif (achat impulsif ou réfléchi).
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">🎲 Jeux / Concours</h3>
+    <p class="mb-2 text-grey-dk-000"><em>"Flashez pour tourner la roue"</em></p>
+    <p class="mb-0">Idéal pour l'engagement et la collecte de leads.</p>
+  </div>
 
-{: .tip }
-> **Bonnes pratiques pour maximiser la conversion :**
-> *   Une **valeur monétaire** (ex: *10€ offerts*) est souvent mieux perçue qu’un pourcentage (ex: *-10%*).
-> *   Un **produit offert** (ex: *votre accessoire gratuit*) est plus concret qu'une "économie".
-> *   Adaptez la validité de l'offre au cycle de vie du support (les clients gardent parfois le flyer plusieurs semaines).
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">📱 Drive to App</h3>
+    <p class="mb-2 text-grey-dk-000"><em>"Téléchargez l'app pour débloquer..."</em></p>
+    <p class="mb-0">Pour l'acquisition d'utilisateurs mobiles.</p>
+  </div>
+  
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">⭐ Feedback</h3>
+    <p class="mb-2 text-grey-dk-000"><em>"Donnez votre avis contre un cadeau"</em></p>
+    <p class="mb-0">Pour enrichir la connaissance client.</p>
+  </div>
+
+</div>
+
+<h2 class="text-blue-200 mb-4">2. L'Expérience</h2>
+
+<div style="background-color: #f6f8fa; border-left: 4px solid #2d6fd6; padding: 20px; border-radius: 4px; margin-bottom: 40px;">
+  <h3 class="mt-0 text-blue-200">📱 Pensez Mobile First</h3>
+  <p>L'expérience post-scan se fait à 99% sur smartphone.</p>
+  <ul>
+    <li>Votre Landing Page <strong>doit</strong> être responsive.</li>
+    <li>Le temps de chargement doit être immédiat (3G/4G).</li>
+    <li>Le formulaire doit être court.</li>
+  </ul>
+</div>
+
+<h2 class="text-blue-200 mb-4">3. L'Offre</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; border: 1px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 8px;">
+    <h3 class="mt-0 text-green-200">✅ Valeur Monétaire</h3>
+    <p class="fs-4 mb-0"><strong>"10€ offerts"</strong></p>
+    <p>Beaucoup plus concret et percutant qu'un pourcentage.</p>
+  </div>
+
+  <div style="flex: 1; border: 1px solid #e1e4e8; background-color: #fff; padding: 20px; border-radius: 8px;">
+    <h3 class="mt-0 text-grey-dk-000">🤔 Pourcentage</h3>
+    <p class="fs-4 mb-0">"-10% de réduction"</p>
+    <p>Souvent perçu comme une simple "taxe en moins". Moins incitatif.</p>
+  </div>
+  
+  <div style="flex: 1; border: 1px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 8px;">
+    <h3 class="mt-0 text-green-200">🎁 Produit Offert</h3>
+    <p class="fs-4 mb-0"><strong>"Votre accessoire offert"</strong></p>
+    <p>Très fort levier psychologique (Cadeau vs Économie).</p>
+  </div>
+
+</div>

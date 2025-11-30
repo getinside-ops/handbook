@@ -23,9 +23,9 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
     <div style="flex: 1;">
       <h2 class="text-purple-200 mt-0">🚀 Les 3 piliers de la monétisation</h2>
       <ul class="mb-0 pl-4">
-        <li class="mb-2"><strong>Activation :</strong> Recevez automatiquement des propositions de campagnes (Inbound).</li>
-        <li class="mb-2"><strong>Prospection :</strong> Démarchez +300 annonceurs référencés (Offre Standard).</li>
-        <li><strong>Expansion :</strong> Centralisez vos partenaires Trade Marketing (0% frais).</li>
+        <li class="mb-2"><strong>Activation :</strong> Recevez des propositions de campagnes (Inbound) et négociez-les.</li>
+        <li class="mb-2"><strong>Trade Marketing (Autonomie) :</strong> Invitez vos propres marques (fournisseurs) à acheter de la visibilité sur vos supports via la plateforme.</li>
+        <li><strong>Prospection :</strong> Démarchez proactivement les autres annonceurs du réseau.</li>
       </ul>
     </div>
     <div>
