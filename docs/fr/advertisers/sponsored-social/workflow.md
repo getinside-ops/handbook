@@ -1,37 +1,70 @@
 ---
 layout: default
 title: Process & Amplification
-parent: Sponsored Social
+parent: Social Ads
 grand_parent: Espace Annonceurs
 nav_order: 1
 ---
 
-# Workflow de Campagne Sociale
+# Workflow de Campagne
+{: .fs-9 }
 
 Le processus est conçu pour respecter la ligne éditoriale du Distributeur tout en garantissant vos objectifs de performance.
+{: .fs-6 .fw-300 }
 
-## 1. Brief & Sélection
-Via la plateforme getinside :
-1.  Sélectionnez le Distributeur partenaire (en fonction de l'affinité d'audience).
-2.  Envoyez votre brief :
-    *   **L'angle créatif :** (ex: "Unboxing", "Tuto utilisation", "Coup de cœur").
-    *   **Les assets :** Fournissez les produits ou les visuels si nécessaire.
-    *   **Le message clé :** Les points forts à mentionner en légende.
+<hr class="my-6">
 
-## 2. Création du contenu
-Deux options s'offrent à vous (à définir lors du brief) :
-*   **Option A (Fourni) :** Vous fournissez la vidéo/photo prête à poster.
-*   **Option B (Co-création) :** Le Distributeur (ou le Studio getinside) crée le contenu pour qu'il soit "natif" et ressemble à ce qu'il poste d'habitude.
+<!-- ETAPE 1 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div>
+    <h3 class="mt-0 text-blue-200">Brief & Sélection</h3>
+    <p>Via la plateforme getinside :</p>
+    <ul>
+      <li>Sélectionnez le Distributeur partenaire (affinité d'audience).</li>
+      <li><strong>Envoyez votre brief :</strong> Angle créatif (ex: Unboxing), Assets visuels et Messages clés.</li>
+    </ul>
+  </div>
+</div>
 
-## 3. Publication & Validation (Partnership Ad)
-Le Distributeur publie le contenu sur son compte (Instagram/TikTok) avec une spécificité technique : **l'étiquette "Partenariat Rémunéré"**.
+<!-- ETAPE 2 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
+  <div>
+    <h3 class="mt-0 text-blue-200">Création du contenu</h3>
+    <p>Deux options s'offrent à vous (à définir lors du brief) :</p>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px;">
+      <div style="background: #f6f8fa; padding: 10px; border-radius: 4px;">
+        <strong>Option A (Fourni)</strong><br>
+        Vous fournissez la vidéo/photo prête à poster.
+      </div>
+      <div style="background: #f6f8fa; padding: 10px; border-radius: 4px;">
+        <strong>Option B (Co-création)</strong><br>
+        Le Distributeur (ou notre Studio) crée le contenu pour un rendu "natif".
+      </div>
+    </div>
+  </div>
+</div>
 
-*   Cette étiquette est **obligatoire**.
-*   Elle nous permet de récupérer l'ID du post pour lancer l'amplification média.
-*   Vous validez le post une fois en ligne via un lien envoyé par le Distributeur.
+<!-- ETAPE 3 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
+  <div>
+    <h3 class="mt-0 text-blue-200">Publication (Partnership Ad)</h3>
+    <p>Le Distributeur publie le contenu sur son compte avec l'étiquette obligatoire <strong>"Partenariat Rémunéré"</strong>.</p>
+    <p class="fs-2 text-grey-dk-000"><em>Note : Cette étape nous permet de récupérer l'ID du post pour l'amplification. Vous validez le post une fois en ligne via un lien.</em></p>
+  </div>
+</div>
 
-## 4. Amplification Média (Sponsorisation)
-C'est ici que la magie opère.
-Une fois le post publié par le Distributeur, nous activons la campagne publicitaire (Ads) dessus.
-*   **Avantage :** Le post apparaît dans le fil d'actualité d'une audience large (ciblage lookalike ou retargeting) avec l'en-tête du Distributeur.
-*   **Performance :** Ce format génère généralement des CPA plus bas que les publicités classiques grâce à la preuve sociale.
+<!-- ETAPE 4 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>
+  <div>
+    <h3 class="mt-0 text-green-200">Amplification Média</h3>
+    <p>C'est ici que la magie opère. Nous activons la campagne publicitaire (Ads) sur le post.</p>
+    <ul>
+      <li><strong>Visibilité :</strong> Le post apparaît dans le fil d'une audience large (Lookalike).</li>
+      <li><strong>Performance :</strong> Le format "Natif" génère des CPA souvent plus bas.</li>
+    </ul>
+  </div>
+</div>

@@ -6,81 +6,135 @@ nav_order: 1
 ---
 
 # Onboarding et Fonctionnement
+{: .fs-9 }
 
-Bienvenue sur getinside ! Voici les étapes clés pour référencer vos audiences, définir vos tarifs et commencer à recevoir vos premières propositions de campagnes.
+Bienvenue sur getinside ! Voici le processus détaillé pour référencer vos audiences, définir vos tarifs et gérer vos premières campagnes.
+{: .fs-6 .fw-300 }
 
-## Phase 1 : Configuration et Activation
+<hr class="my-6">
 
-Avant d'être visible par les annonceurs, votre profil doit être complété et validé par nos équipes.
+<h2 class="text-purple-200 mb-6">Phase 1 : Configuration et Activation</h2>
 
-### 1. Création du compte
-Suite à votre démo avec l'équipe getinside, votre compte est créé par nos soins.
-*   Tous les contacts identifiés reçoivent un email d'invitation.
-*   **Action :** Cliquez sur le lien reçu pour définir votre mot de passe et accéder à [app.getinside.media](https://app.getinside.media/).
+<!-- ETAPE 1 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div>
+    <h3 class="mt-0 text-grey-dk-000">Démo & Création du compte</h3>
+    <p>Tout commence par un call de démo avec l'équipe getinside.</p>
+    <ul>
+      <li>L'équipe crée votre compte e-commerçant.</li>
+      <li>Tous les contacts fournis reçoivent un email d'invitation.</li>
+      <li><strong>Action :</strong> Cliquez sur le lien dans l'email pour créer votre mot de passe et accéder à la plateforme.</li>
+    </ul>
+  </div>
+</div>
 
+<!-- ETAPE 2 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
+  <div>
+    <h3 class="mt-0 text-grey-dk-000">Configuration Logistique</h3>
+    <p>Avant de créer vos audiences, définissez vos contraintes logistiques (indispensable pour l'algorithme).</p>
+    <div style="background: #f6f8fa; padding: 15px; border-radius: 6px; border-left: 4px solid #7253ed;">
+      <strong>📍 Adresse de l'entrepôt :</strong> Lieu de livraison des supports.<br>
+      <strong>⏱️ Délai d'ingestion (Lead Time) :</strong> Délai minimum entre la livraison et le début de la diffusion (automatiquement pris en compte par la plateforme).
+    </div>
+  </div>
+</div>
 
-### 2. Création de vos Audiences
-Rendez-vous dans l'onglet **Monétisation**. C'est ici que vous définissez l'identité de votre audience (vos "fiches d'identités" pour les annonceurs). Vous pouvez créer autant d'audiences que nécessaire.
+<!-- ETAPE 3 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
+  <div>
+    <h3 class="mt-0 text-grey-dk-000">Création des Audiences</h3>
+    <p>Dans l'onglet <strong>Monétisation</strong>, l'équipe e-commerçant crée ses audiences. Vous devez remplir une fiche de présentation complète pour chaque audience :</p>
+    <ul>
+      <li><strong>Visuels :</strong> Logo et bannière.</li>
+      <li><strong>Description :</strong> Présentation textuelle.</li>
+      <li><strong>Data :</strong> Infos démographiques, Persona, Panier moyen.</li>
+    </ul>
+  </div>
+</div>
 
-Pour chaque audience, vous devez renseigner :
-*   **Identité Visuelle :** Logo et bannière de couverture (soignez ces visuels, c'est votre vitrine !).
-*   **Description :** Qui sont vos clients ? Quel est votre univers ?
-*   **Données Démographiques :** Âge, genre, géographie.
-*   **Persona & Panier Moyen :** Aidez l'annonceur à visualiser qui va recevoir la publicité.
-*   **Adresse de l'entrepôt :** L'adresse exacte de livraison pour les supports.
-*   **Délai d'ingestion (Lead Time) :** Le délai minimum nécessaire entre la livraison des supports et le début de leur distribution (ex: 5 jours ouvrés).
-    *   *Note :* Ce délai est automatiquement pris en compte lors des propositions. Une campagne ne vous sera pas proposée si la date de démarrage ne respecte pas ce délai.
+<!-- ETAPE 4 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">4</div>
+  <div>
+    <h3 class="mt-0 text-grey-dk-000">Ajout des Types de Campagnes</h3>
+    <p>Pour chaque audience créée, ajoutez les types de campagnes acceptés et leurs critères :</p>
+    <ul>
+      <li><strong>📦 Asile Colis :</strong> Capacité (max flyers simultanés), formats acceptés, volumes prévisionnels par semaine sur 12 mois.</li>
+      <li><strong>📧 Digital :</strong> CPM indicatif, exemples de campagnes passées, infos de performance (Taux d'ouverture, Clics).</li>
+    </ul>
+  </div>
+</div>
 
-### 3. Définition des Offres (Inventaires)
-Une fois l'audience créée, ajoutez les types de campagnes que vous acceptez (Asile Colis, Emailing, etc.).
+<!-- ETAPE 5 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">5</div>
+  <div>
+    <h3 class="mt-0 text-grey-dk-000">Validation (Call de contrôle)</h3>
+    <p>Dès que vous estimez avoir complété les infos, avertissez l'équipe getinside.</p>
+    <ul>
+      <li>Nous proposons un call pour confirmer que toutes les infos nécessaires sont remplies.</li>
+      <li>Rappel des aspects techniques et des bonnes pratiques.</li>
+    </ul>
+  </div>
+</div>
 
-**Pour l'Asile Colis :**
-*   **Capacité :** Combien de flyers maximum acceptez-vous par colis (ex: 2 max) ?
-*   **Formats :** Quels formats physiques acceptez-vous (A5, A6, Echantillons...) ?
-*   **Volumes :** Indiquez vos prévisions de colis expédiés par semaine pour les 12 mois à venir.
+<!-- ETAPE 6 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">✓</div>
+  <div>
+    <h3 class="mt-0 text-green-200">Activation</h3>
+    <p>Suite au call :</p>
+    <ul>
+      <li>✅ Les audiences et types de campagnes validés sont <strong>activés</strong>.</li>
+      <li>⏸️ Ceux qui sont incomplets restent non-référencés en attendant.</li>
+    </ul>
+  </div>
+</div>
 
-**Pour le Digital (Email / Social / Web) :**
-*   **Tarification :** Indiquez votre CPM (Coût pour Mille) indicatif.
-*   **Performance :** Renseignez des métriques clés (Taux d'ouverture moyen, Taux de clic).
-*   **Preuve :** Si possible, uploadez des exemples de campagnes passées réussies.
+<hr class="my-6">
 
-### 4. Review et Activation
-Une fois vos fiches complétées :
-1.  Avertissez votre interlocuteur getinside (ou via le chat support).
-2.  **Call de validation :** Nous organisons un court appel pour vérifier ensemble les infos, valider la cohérence des tarifs et vous rappeler les bonnes pratiques techniques.
-3.  **Activation :**
-    *   ✅ Les audiences complètes sont activées et deviennent visibles sur la Marketplace.
-    *   ⏸️ Les profils incomplets restent en brouillon (non référencés).
+<h2 class="text-purple-200 mb-6">Phase 2 : Gestion des Campagnes</h2>
 
----
+<!-- ETAPE 7 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">7</div>
+  <div>
+    <h3 class="mt-0 text-grey-dk-000">Visibilité Marketplace</h3>
+    <p>Une fois activées, les annonceurs peuvent voir vos audiences sur la plateforme et commencer à vous proposer des campagnes.</p>
+  </div>
+</div>
 
-## Phase 2 : Gestion des Campagnes
+<!-- ETAPE 8 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">8</div>
+  <div>
+    <h3 class="mt-0 text-grey-dk-000">Réception & Négociation</h3>
+    <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
+    <div class="p-4 bg-grey-lt-000 rounded-1 border mb-3">
+      <strong>Votre rôle :</strong> Connectez-vous pour voir la marque, le volume, le tarif et la période.<br>
+      <ul>
+        <li><strong>Accepter :</strong> Validation immédiate.</li>
+        <li><strong>Refuser :</strong> Si inadéquation.</li>
+        <li><strong>Contre-proposition :</strong> Ajustez le prix, les dates ou le volume.</li>
+      </ul>
+    </div>
+    <p><strong>💬 Messagerie Intégrée :</strong> Un canal s'ouvre entre vous et l'annonceur dès la proposition. L'équipe getinside peut y intervenir et vous pouvez uploader des pièces jointes (Briefs, BAT).</p>
+  </div>
+</div>
 
-Une fois activé, vous n'avez plus qu'à attendre les propositions (ou prospecter si vous avez l'offre Standard/Managed).
-
-### 1. Réception d'une proposition
-Tous vos utilisateurs reçoivent une **notification email**. Connectez-vous pour voir :
-*   La marque annonceur.
-*   Le volume, la période et le tarif global proposé.
-
-### 2. Négociation
-Vous avez trois options :
-1.  **Accepter :** La campagne est validée aux conditions proposées.
-2.  **Contre-proposition (Négociation) :**
-    *   Vous pouvez ajuster le prix (CPM ou forfait).
-    *   Vous pouvez modifier les dates ou le volume.
-    *   L'annonceur recevra votre contre-offre et pourra l'accepter ou non.
-3.  **Refuser :** Si la marque ne correspond pas à vos valeurs ou si le timing est mauvais.
-
-{: .tip }
-> **La Messagerie Intégrée :**
-> Un canal de discussion s'ouvre automatiquement pour chaque proposition de campagne. Utilisez-le pour poser des questions à l'annonceur, demander des précisions sur les visuels ou négocier.
-> *   L'équipe getinside a accès à ce chat pour modérer ou vous aider si besoin.
-> *   Vous pouvez y partager des pièces jointes (briefs, devis, BAT).
-
-### 3. Validation et Opérations
-Dès qu'un accord est trouvé (Campagne marquée comme **Validée**), le processus bascule vers l'opérationnel :
-*   **Logistique (Asile Colis) :** L'annonceur expédie les supports à votre entrepôt.
-*   **Technique (Digital) :** L'annonceur fournit les assets créatifs ou le brief pour la création.
-
-*Réferez-vous alors aux guides spécifiques de chaque format (Logistique ou Création) pour la suite.*
+<!-- ETAPE 9 -->
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">9</div>
+  <div>
+    <h3 class="mt-0 text-green-200">Validation Opérationnelle</h3>
+    <p>Une fois la campagne validée par les deux parties, on avance sur l'opérationnel :</p>
+    <ul>
+      <li><strong>Asile Colis :</strong> Expédition des supports (respect du délai d'ingestion).</li>
+      <li><strong>Digital :</strong> Transmission des assets créatifs et intégration.</li>
+    </ul>
+  </div>
+</div>
