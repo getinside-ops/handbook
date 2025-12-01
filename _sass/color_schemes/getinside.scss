@@ -2,26 +2,25 @@
 $gi-white:      #FFFFFF;
 $gi-beige:      #F7F6F3;
 $gi-text:       #575652;
-$gi-border:     transparent; // On supprime la bordure par défaut ici
+$gi-border:     #e1e4e8;
 
 // 2. SURCHARGE THÈME
 $body-background-color: $gi-beige;
 $body-text-color:       $gi-text;
 $body-heading-color:    $gi-text;
 $sidebar-color:         $gi-white;
-$sidebar-border-color:  transparent; // Pas de bordure sidebar
+$sidebar-border-color:  $gi-border;
 
 $link-color:            $gi-text;
 $nav-child-link-color:  #666;
 
-// Composants
 $code-background-color: $gi-white;
 $table-header-background-color: #fafbfc;
 $table-background-color: $gi-white;
-$border-color:          #e1e4e8; // On garde une bordure légère pour les tableaux/cartes uniquement
+$border-color:          $gi-border;
 
-$search-background-color: $gi-beige; // Fond beige pour la recherche
+$search-background-color: $gi-white;
 
-// Neutralisation boutons thème (pour éviter le violet au chargement)
-$btn-primary-color: #fff;
-$btn-primary-background-color: #444;
+// On force les boutons du thème à être neutres
+$btn-primary-color: #333;
+$btn-primary-background-color: #fff;
