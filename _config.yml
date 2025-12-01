@@ -6,23 +6,26 @@ title: Help Center
 description: Official knowledge base for getinside Retail Media operations.
 url: https://getinside-ops.github.io/handbook
 
-# IMPORTANT : Laissez "/handbook" si votre site est sur "github.io/handbook"
-# Si vous mettez un nom de domaine personnalisé plus tard, retirez cette ligne.
+# IMPORTANT : Ne changez pas ceci tant que vous n'avez pas votre propre nom de domaine
 baseurl: /handbook
 
-theme: just-the-docs
+# --- CORRECTION DU BUG ---
+# Au lieu de "theme:", on utilise "remote_theme" pour GitHub Pages
+remote_theme: just-the-docs/just-the-docs
+
+# On active le plugin pour que remote_theme fonctionne
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # -----------------------------------------------------------------------------
 # Apparence & Branding
 # -----------------------------------------------------------------------------
 
-# Logo : Commenté pour afficher le texte "Help Center" (plus propre)
-# logo: assets/images/logo.svg
+# logo: assets/images/logo.svg (Commenté pour afficher le texte)
 
-# Couleurs de base (sera écrasé par votre custom.css)
 color_scheme: light
 
-# Chargement des polices (Space Grotesk, Public Sans) et du CSS perso
 head_members:
   - <link rel="preconnect" href="https://fonts.googleapis.com">
   - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -33,11 +36,9 @@ head_members:
 # Navigation & Recherche
 # -----------------------------------------------------------------------------
 
-# Active la barre de recherche
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
-# Liens rapides en haut à droite
 aux_links:
   "Accès SaaS":
     - "https://app.getinside.media/"
@@ -45,18 +46,16 @@ aux_links:
     - "https://getinside.fr/"
 
 # -----------------------------------------------------------------------------
-# Footer (Pied de page)
+# Footer
 # -----------------------------------------------------------------------------
 
-# Ce texte remplace la pub "This site uses Just the Docs" dans le menu de gauche
 footer_content: "Copyright &copy; 2025 getinside."
 
 # -----------------------------------------------------------------------------
-# Configuration par défaut des pages
+# Defaults
 # -----------------------------------------------------------------------------
 defaults:
   - scope:
       path: ""
     values:
-      # Désactive la table des matières (TOC) sur la droite pour éviter les bugs d'affichage
       toc: false
