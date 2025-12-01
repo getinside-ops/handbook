@@ -1,39 +1,36 @@
 // --------------------------------------------------------
-// 1. PALETTE GETINSIDE
+// 1. DÉFINITION DE LA PALETTE (COULEURS EXACTES)
 // --------------------------------------------------------
-$gi-white:    #FFFFFF;
-$gi-grey:     #ECEBEA; // Fond de la sidebar
-$gi-mint:     #6AE7C8; // Remplace le violet (Action secondaire)
-$gi-yellow:   #EBE82D; // Remplace le bleu (Action primaire)
-$gi-black:    #111111; // Texte principal
+$gi-white:      #FFFFFF;
+$gi-beige:      #F7F6F3; // Fond du site
+$gi-yellow:     #EBE82D; // Action primaire
+$gi-mint:       #6AE7C8; // Action secondaire
+$gi-black:      #111111; // Texte
+$gi-grey-hover: #ECEBEA; // Gris clair pour le survol menu
+$gi-border:     #E1E1E1;
 
 // --------------------------------------------------------
 // 2. SURCHARGE DES VARIABLES DU THÈME (AVANT IMPORT)
 // --------------------------------------------------------
 
-// Couleurs de fond et texte
-$body-background-color: $gi-white;
+// Fonds et Textes
+$body-background-color: $gi-beige;  // Le site est beige
+$sidebar-color:         $gi-white;  // La sidebar est blanche
 $body-text-color:       $gi-black;
 $body-heading-color:    $gi-black;
 
-// Navigation (Sidebar)
-$sidebar-color:         $gi-grey;
-$sidebar-border-color:  $gi-white; // Bordure blanche pour séparer du contenu
-$nav-child-link-color:  #444;
+// Navigation
+$sidebar-border-color:  $gi-border;
+$nav-child-link-color:  #555;
 
-// Liens (Plus de bleu !)
-$link-color:            $gi-black; 
+// Liens (Noir par défaut pour la lisibilité)
+$link-color:            $gi-black;
 
-// Barre de recherche (Style "Natif")
-// On la met en blanc pour qu'elle ressorte proprement sur le gris
-$search-background-color: $gi-white;
-$search-border-color:     transparent; // On retire la bordure moche
-
-// Code et Tableaux
-$code-background-color: $gi-grey;
-$table-header-background-color: $gi-grey;
+// Composants
+$code-background-color: $gi-white;
+$table-header-background-color: $gi-white;
 $table-background-color: $gi-white;
-$border-color: darken($gi-grey, 10%);
+$border-color:          $gi-border;
 
 // --------------------------------------------------------
 // 3. IMPORT DU THÈME
@@ -41,31 +38,98 @@ $border-color: darken($gi-grey, 10%);
 @import "just-the-docs";
 
 // --------------------------------------------------------
-// 4. CORRECTIONS CSS SPÉCIFIQUES (APRÈS IMPORT)
+// 4. CSS PERSONNALISÉ (CORRECTIONS FINALES)
 // --------------------------------------------------------
 
-// FORCE LE TEXTE NOIR PARTOUT
-body, h1, h2, h3, h4, h5, h6, p, a, li {
-  color: $gi-black;
-}
-
-// --- BARRE DE RECHERCHE (RESET) ---
-// On force le style pour qu'il soit propre comme à l'origine
-.search-input {
-  background-color: $gi-white !important;
-  border: 1px solid transparent !important; // Pas de bordure visible
-  border-radius: 4px !important;
+// --- GLOBAL ---
+body, html {
   color: $gi-black !important;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05); // Légère ombre pour le relief
-}
-.search-input:focus {
-  border: 1px solid $gi-yellow !important; // Focus jaune
-  box-shadow: 0 0 0 3px rgba(235, 232, 45, 0.3) !important;
 }
 
-// --- LIENS & NAVIGATION ---
+// --- BARRE LATÉRALE (SIDEBAR) ---
+.side-bar {
+  background-color: $gi-white !important;
+  border-right: 1px solid $gi-border;
+  z-index: 10;
+}
 
-// Liens dans le texte : soulignement menthe
+// Titre du site
+.site-title {
+  color: $gi-black !important;
+  font-weight: 800;
+}
+
+// Liens du menu
+.nav-list-link {
+  color: #444 !important;
+  transition: background-color 0.1s ease;
+  border-radius: 4px;
+}
+
+// Survol du menu (Gris Clair demandé)
+.nav-list-link:hover {
+  background-color: $gi-grey-hover !important; 
+  color: $gi-black !important;
+  text-decoration: none;
+}
+
+// Lien Actif (Gris Clair + Petite barre jaune)
+.nav-list-link.active {
+  background-color: $gi-grey-hover !important;
+  color: $gi-black !important;
+  font-weight: 700;
+  background-image: none !important; /* Retire le style par défaut */
+  border-left: 4px solid $gi-yellow;
+}
+
+// --- BOUTONS (CONTRASTE & LISIBILITÉ) ---
+
+.btn {
+  font-weight: 700 !important;
+  border-radius: 4px !important;
+  text-transform: none !important;
+  padding: 8px 16px;
+  color: $gi-black !important; /* Texte Noir Forcé */
+  transition: all 0.2s ease;
+}
+
+// Bouton Jaune (Primaire)
+.btn-primary {
+  background-color: $gi-yellow !important;
+  border: 1px solid darken($gi-yellow, 20%) !important;
+}
+.btn-primary:hover {
+  background-color: lighten($gi-yellow, 5%) !important;
+  text-decoration: none !important;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+// Bouton Menthe (Secondaire - ex Purple)
+.btn-purple {
+  background-color: $gi-mint !important;
+  border: 1px solid darken($gi-mint, 20%) !important;
+  color: $gi-black !important;
+}
+.btn-purple:hover {
+  background-color: lighten($gi-mint, 5%) !important;
+  text-decoration: none !important;
+}
+
+// Bouton Outline
+.btn-outline {
+  background-color: $gi-white !important;
+  border: 1px solid #ccc !important;
+  color: $gi-black !important;
+}
+.btn-outline:hover {
+  background-color: $gi-grey-hover !important;
+  text-decoration: none !important;
+}
+
+// --- CONTENU & CARTES ---
+
+// Liens dans le texte (Soulignement Menthe)
 .main-content a {
   color: $gi-black !important;
   text-decoration: underline;
@@ -77,71 +141,30 @@ body, h1, h2, h3, h4, h5, h6, p, a, li {
   text-decoration: none;
 }
 
-// Lien actif dans le menu
-.nav-list-link.active {
-  background-color: $gi-white;
+// Cartes (Blanches sur fond beige)
+div[style*="border-radius"], .card {
+  background-color: $gi-white !important;
+  border-color: $gi-border !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+}
+
+// Barre de recherche (Style propre)
+.search-input {
+  background-color: $gi-beige !important; /* Fond beige pour contraster avec la sidebar blanche */
+  border: 1px solid darken($gi-border, 5%) !important;
   color: $gi-black !important;
-  font-weight: 700;
   border-radius: 4px;
-  border-left: 4px solid $gi-yellow; // Marqueur Jaune
 }
-
-// --- BOUTONS (RELOOKING TOTAL) ---
-
-.btn {
-  font-weight: 700 !important;
-  border-radius: 4px !important;
-  text-transform: none !important;
-  color: $gi-black !important; // TEXTE NOIR OBLIGATOIRE
-  padding: 10px 20px !important;
-  transition: all 0.2s ease;
-}
-
-// Bouton Primaire (Anciennement Bleu -> JAUNE)
-.btn-primary {
-  background-color: $gi-yellow !important;
-  border: 1px solid darken($gi-yellow, 15%) !important;
-}
-.btn-primary:hover {
-  background-color: darken($gi-yellow, 5%) !important;
-  transform: translateY(-1px);
-}
-
-// Bouton Secondaire (Anciennement Violet -> MENTHE)
-// On cible la classe .btn-purple existante dans votre HTML pour la changer en Menthe
-.btn-purple {
-  background-color: $gi-mint !important;
-  border: 1px solid darken($gi-mint, 15%) !important;
-  color: $gi-black !important; /* Force le texte noir sur le menthe */
-}
-.btn-purple:hover {
-  background-color: darken($gi-mint, 5%) !important;
-  transform: translateY(-1px);
-}
-
-// Bouton Outline (Contour)
-.btn-outline {
+.search-input:focus {
   background-color: $gi-white !important;
-  border: 1px solid darken($gi-grey, 20%) !important;
-  color: $gi-black !important;
-}
-.btn-outline:hover {
   border-color: $gi-black !important;
-  background-color: $gi-grey !important;
+  box-shadow: none !important;
 }
 
-// --- TEXTES COLORÉS (RESET) ---
-// On écrase les anciennes classes de couleur pour tout mettre en noir ou menthe
+// --- UTILITIES ---
+// Suppression des couleurs parasites
+.text-purple-200, .text-blue-200 { color: $gi-black !important; }
+.text-green-200 { color: darken($gi-mint, 45%) !important; } /* Vert très foncé pour le texte */
+.text-grey-dk-000 { color: #666 !important; }
 
-.text-purple-200 { color: $gi-black !important; } /* Plus de texte violet */
-.text-blue-200   { color: $gi-black !important; } /* Plus de texte bleu */
-.text-green-200  { color: darken($gi-mint, 40%) !important; } /* Vert foncé lisible */
-.text-red-200    { color: #D32F2F !important; } /* Rouge standard pour les erreurs */
-.text-grey-dk-000 { color: #555 !important; }
-
-// Fonds de cartes
-.bg-grey-lt-000 { background-color: $gi-grey !important; }
-div[style*="border-radius"] {
-  background-color: $gi-white !important;
-  border-color: darken($gi-grey, 10%) !important;
-}
+.bg-grey-lt-000 { background-color: $gi-grey-hover !important; }
