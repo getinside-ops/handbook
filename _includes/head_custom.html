@@ -1,0 +1,135 @@
+<!-- CHARGEMENT DES POLICES -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Public+Sans:wght@300;400;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+
+<!-- STYLE PERSONNALISÉ GETINSIDE -->
+<style>
+  /* --- 1. VARIABLES & COULEURS --- */
+  :root {
+    --gi-yellow: #FDFD36;
+    --gi-black: #1D1D1B;
+    --gi-white: #FFFFFF;
+    --gi-off-white: #F9F9F7;
+    --gi-purple: #BE63F9;
+    --gi-green: #25D0AB;
+    
+    --font-heading: 'Space Grotesk', sans-serif;
+    --font-body: 'Public Sans', sans-serif;
+    --font-ui: 'Inter', sans-serif;
+  }
+
+  /* --- 2. GLOBAL (OVERRIDES) --- */
+  
+  /* On force le fond et la police partout */
+  body, html, .side-bar, .main-content-wrap, .main-content, .site-nav {
+    background-color: var(--gi-off-white) !important;
+    color: var(--gi-black) !important;
+    font-family: var(--font-body) !important;
+  }
+
+  /* Titres */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading) !important;
+    color: var(--gi-black) !important;
+    letter-spacing: -0.03em;
+  }
+
+  /* Liens */
+  a { color: #7253ed; text-decoration: none; }
+  a:hover { text-decoration: underline; text-decoration-color: var(--gi-yellow); text-decoration-thickness: 3px; }
+
+  /* --- 3. MENU LATÉRAL --- */
+  
+  .site-title {
+    font-family: var(--font-heading) !important;
+    font-weight: 700 !important;
+    font-size: 22px !important;
+    background-image: none !important; 
+  }
+
+  .nav-list-link {
+    font-family: var(--font-ui) !important;
+  }
+  
+  /* Lien Actif (Barre jaune) */
+  .nav-list-link.active {
+    color: var(--gi-black) !important;
+    font-weight: 700 !important;
+    background-image: linear-gradient(-90deg, var(--gi-yellow) 0%, var(--gi-yellow) 100%) !important;
+    background-size: 4px 100% !important;
+    background-repeat: no-repeat;
+  }
+
+  /* --- 4. COMPOSANTS --- */
+
+  /* Boutons */
+  .btn {
+    font-family: var(--font-ui) !important;
+    border-radius: 4px !important;
+    text-transform: none !important;
+    font-weight: 600 !important;
+    transition: transform 0.1s ease !important;
+  }
+
+  /* Primaire (Jaune) */
+  .btn-primary {
+    background-color: var(--gi-yellow) !important;
+    color: var(--gi-black) !important;
+    border: 1px solid var(--gi-black) !important;
+    box-shadow: 3px 3px 0px var(--gi-black) !important;
+  }
+  .btn-primary:hover {
+    background-color: var(--gi-yellow) !important;
+    color: var(--gi-black) !important;
+    transform: translate(-1px, -1px);
+    box-shadow: 5px 5px 0px var(--gi-black) !important;
+    text-decoration: none !important;
+  }
+
+  /* Violet */
+  .btn-purple {
+    background-color: var(--gi-purple) !important;
+    color: #fff !important;
+    border: 1px solid var(--gi-purple) !important;
+  }
+  .btn-purple:hover {
+    background-color: #a64ce0 !important; /* Un peu plus foncé */
+    color: #fff !important;
+    text-decoration: none !important;
+  }
+
+  /* Outline */
+  .btn-outline {
+    background-color: #fff !important;
+    border: 1px solid #ddd !important;
+    color: var(--gi-black) !important;
+  }
+
+  /* Cartes (Divs avec bordure) */
+  div[style*="border"] {
+    background-color: #fff !important;
+    border-color: #e1e4e8 !important;
+  }
+  
+  /* Fond Jaune spécial */
+  .bg-yellow-000 {
+    background-color: var(--gi-yellow) !important;
+    border: 1px solid var(--gi-black) !important;
+    color: var(--gi-black) !important;
+  }
+
+  /* Recherche */
+  .search-input {
+    background-color: #fff !important;
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+    font-family: var(--font-ui) !important;
+  }
+  
+  /* Footer du menu */
+  .site-footer {
+    font-size: 11px; 
+    color: #999;
+  }
+</style>
