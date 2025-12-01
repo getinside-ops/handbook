@@ -1,0 +1,91 @@
+// 1. Définition des couleurs de la marque getinside
+$gi-yellow: #FDFD36;
+$gi-black: #1D1D1B;
+$gi-white: #FFFFFF;
+$gi-off-white: #F7F6F3; // Le beige chaud
+$gi-purple: #7253ed;
+$gi-border: #EAEAEA;
+
+// 2. Surcharge des variables du thème (Mapping)
+
+// -- Couleurs de base --
+$body-background-color: $gi-off-white;
+$body-text-color: $gi-black;
+$body-heading-color: $gi-black;
+
+// -- Liens --
+// On garde le violet pour les liens car le jaune est illisible sur fond clair pour du texte fin
+$link-color: $gi-purple; 
+
+// -- Navigation (Sidebar) --
+// On force la sidebar en blanc pour le contraste avec le fond beige
+$sidebar-color: $gi-white;
+$sidebar-border-color: $gi-border;
+$nav-child-link-color: #5c5962;
+
+// -- Code et Tableaux --
+$code-background-color: $gi-white;
+$table-header-background-color: $gi-white;
+$table-background-color: $gi-white;
+
+// -- Boutons (UI Components) --
+// Le thème utilise des couleurs spécifiques pour ses composants, on les redirige
+$btn-primary-color: $gi-black;
+$btn-primary-background-color: $gi-yellow;
+$btn-primary-border-color: darken($gi-yellow, 5%);
+
+// 3. Règles CSS spécifiques (Injection directe)
+// Le thème permet d'ajouter du CSS à la fin du fichier de schéma
+
+// Importation des polices système (plus besoin de Google Fonts pour la stabilité)
+$system-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+// Reset global pour forcer le fond beige
+body, html {
+  background-color: $gi-off-white !important;
+}
+
+// Sidebar blanche propre
+.side-bar {
+  background-color: $gi-white !important;
+  border-right: 1px solid $gi-border;
+}
+
+// Titre du site
+.site-title {
+  color: $gi-black !important;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+// Boutons personnalisés (Yellow)
+.btn-primary {
+  background-color: $gi-yellow !important;
+  color: $gi-black !important;
+  font-weight: 600;
+  border: 1px solid darken($gi-yellow, 10%) !important;
+}
+.btn-primary:hover {
+  background-color: darken($gi-yellow, 5%) !important;
+}
+
+// Boutons Violet (Action Éditeur)
+.btn-purple {
+  background-color: $gi-purple !important;
+  color: white !important;
+  border: 1px solid $gi-purple !important;
+  font-weight: 600;
+}
+
+// Cartes et Blocs (Fond blanc sur le beige)
+div[style*="border-radius"], .card {
+  background-color: $gi-white !important;
+  border-color: $gi-border !important;
+}
+
+// Barre de recherche
+.search-input {
+  background-color: $gi-off-white !important;
+  border: 1px solid $gi-border !important;
+  color: $gi-black !important;
+}
