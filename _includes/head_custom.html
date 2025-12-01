@@ -1,131 +1,134 @@
 <style>
-  /* --- 1. COULEURS & BASE --- */
+  /* --- 1. COULEURS & TYPO --- */
   :root {
-    --gi-black: #282824;
+    --gi-text: #575652;
+    --gi-bg: #F7F6F3;
     --gi-white: #FFFFFF;
-    --gi-beige: #F7F6F3;
-    --gi-grey-hover: #ECEBEA;
-    --gi-border: #E1E1E1;
+    --gi-border: #e1e4e8;
+    --gi-link-underline: #d1d5da; /* Gris clair pour le soulignement */
   }
 
-  /* Force la couleur de texte principale */
-  body, html, .main-content {
-    color: var(--gi-black) !important;
+  body, html, .main-content, h1, h2, h3, h4, h5, h6 {
+    color: var(--gi-text) !important;
   }
 
-  /* --- 2. SIDEBAR (MENU) --- */
+  body {
+    background-color: var(--gi-bg) !important;
+  }
+
+  /* --- 2. LIENS (SOULIGNEMENT GRIS CLAIR) --- */
   
-  /* Fond blanc et bordure */
-  .side-bar, .site-nav {
-    background-color: var(--gi-white) !important;
-    border-right: 1px solid var(--gi-border) !important;
-  }
-
-  /* Liens du menu */
-  .nav-list-link {
-    color: #555 !important;
-    border-radius: 4px;
-    transition: background-color 0.1s ease;
-  }
-
-  /* État Survolé & Actif : Gris clair uniquement (#ECEBEA) */
-  .nav-list-link:hover, .nav-list-link.active {
-    background-color: var(--gi-grey-hover) !important;
-    color: var(--gi-black) !important;
-    font-weight: 600; /* Un peu de gras pour l'actif */
-    background-image: none !important; /* Retire le style par défaut du thème */
-    border-left: none !important;      /* Pas de barre jaune */
-  }
-
-  /* --- 3. BOUTONS (NETTOYAGE) --- */
-
-  .btn {
-    border-radius: 4px !important;
-    font-weight: 600 !important;
-    text-transform: none !important;
-    padding: 8px 16px !important;
-    transition: all 0.2s ease;
-    box-shadow: none !important; /* On retire les ombres "Brutalist" */
-  }
-
-  /* BOUTON PRIMAIRE (Le bouton "Noir") */
-  /* Utilisé pour les actions principales comme "Accéder au SaaS" */
-  .btn-primary {
-    background-color: var(--gi-black) !important;
-    color: #FFFFFF !important; /* Texte BLANC pour la lisibilité */
-    border: 1px solid var(--gi-black) !important;
-  }
-  .btn-primary:hover {
-    background-color: #000000 !important; /* Un peu plus noir au survol */
-    color: #FFFFFF !important;
-    text-decoration: none !important;
-  }
-
-  /* BOUTON SECONDAIRE (Remplace le violet .btn-purple) */
-  /* Apparence standard : Fond gris clair, texte noir */
-  .btn-purple, .btn-outline {
-    background-color: var(--gi-white) !important;
-    color: var(--gi-black) !important;
-    border: 1px solid #CCCCCC !important;
-  }
-  
-  .btn-purple:hover, .btn-outline:hover {
-    background-color: var(--gi-grey-hover) !important;
-    color: var(--gi-black) !important;
-    border-color: #999 !important;
-    text-decoration: none !important;
-  }
-
-  /* --- 4. LIENS DANS LE TEXTE --- */
-  
-  /* Liens simples, noirs, soulignés */
   .main-content a {
-    color: var(--gi-black) !important;
+    color: var(--gi-text) !important;
     text-decoration: underline;
+    text-decoration-color: var(--gi-link-underline) !important;
     text-decoration-thickness: 1px;
-    text-underline-offset: 2px;
-  }
-  .main-content a:hover {
-    text-decoration-thickness: 2px;
-    background-color: rgba(0,0,0,0.05); /* Léger fond gris au survol */
+    text-underline-offset: 3px;
   }
   
-  /* Reset des liens qui ne sont pas du texte (comme les cartes cliquables) */
-  .main-content a.no-underline, 
-  .main-content a:has(div) { 
-    text-decoration: none !important; 
+  .main-content a:hover {
+    color: #000 !important;
+    text-decoration-color: #999 !important;
     background-color: transparent !important;
   }
 
-  /* --- 5. COMPOSANTS --- */
-
-  /* Cartes (Pour la page d'accueil) */
-  /* On cible uniquement les divs qui ont des bordures arrondies (les cartes) */
-  div[style*="border-radius"] {
-    background-color: var(--gi-white); /* Pas d'!important pour laisser les puces de couleur fonctionner */
-    border-color: var(--gi-border);
+  /* Reset pour les cartes cliquables (pas de soulignement) */
+  .main-content a.no-underline, 
+  .main-content a:has(div) { 
+    text-decoration: none !important; 
   }
 
-  /* Barre de recherche (Style défaut propre) */
+  /* --- 3. BOUTONS (STYLE NATIF MAIS MONOCHROME) --- */
+
+  .btn {
+    font-weight: 600 !important;
+    border-radius: 6px !important; /* Arrondi standard */
+    padding: 6px 16px !important;
+    transition: 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+    transition-property: color, background-color, border-color;
+    
+    /* Ombre native du thème pour le relief */
+    box-shadow: 0 1px 0 rgba(27,31,35,0.04), inset 0 1px 0 hsla(0,0%,100%,0.25) !important;
+    border: 1px solid rgba(27,31,35,0.15) !important;
+  }
+
+  /* BOUTON PRIMAIRE (Le "Violet" devient GRIS FONCÉ/NOIR) */
+  /* Exemple : "Accéder au SaaS" */
+  .btn-primary {
+    background-color: #24292e !important; /* Gris très foncé (style GitHub) */
+    color: #ffffff !important;
+    border-color: rgba(27,31,35,0.15) !important;
+  }
+  .btn-primary:hover {
+    background-color: #444 !important;
+    text-decoration: none !important;
+  }
+
+  /* BOUTON SECONDAIRE (Le "Guide" devient GRIS CLAIR) */
+  /* Remplace .btn-purple et .btn-outline */
+  .btn-purple, .btn-outline {
+    background-color: #f6f8fa !important; /* Gris très clair */
+    color: #24292e !important; /* Texte foncé */
+  }
+  .btn-purple:hover, .btn-outline:hover {
+    background-color: #f3f4f6 !important;
+    border-color: rgba(27,31,35,0.15) !important;
+    text-decoration: none !important;
+    transition-duration: 0.1s;
+  }
+
+  /* --- 4. SIDEBAR & NAVIGATION --- */
+  
+  .side-bar, .site-nav {
+    background-color: var(--gi-white) !important;
+    border-right: 0px solid var(--gi-border) !important;
+  }
+
+  /* Liens menu */
+  .nav-list-link {
+    color: var(--gi-text) !important;
+  }
+
+  /* Survol Menu (Gris très léger) */
+  .nav-list-link:hover {
+    background-color: #f6f8fa !important;
+    text-decoration: none !important;
+  }
+
+  /* Actif Menu (Gris un peu plus marqué, pas de jaune) */
+  .nav-list-link.active {
+    font-weight: 600 !important;
+    background-color: #f0f1f4 !important; /* Gris */
+    background-image: none !important;
+    border-left: none !important;
+    color: #000 !important;
+  }
+
+  /* --- 5. COMPOSANTS DIVERS --- */
+
+  /* Cartes (Fond blanc) */
+  div[style*="border-radius"] {
+    background-color: var(--gi-white) !important;
+    border-color: var(--gi-border) !important;
+  }
+  
+  /* Input Recherche */
   .search-input {
-    background-color: var(--gi-beige) !important;
-    border: 1px solid transparent !important;
-    color: var(--gi-black) !important;
+    background-color: var(--gi-white) !important;
+    border: 1px solid var(--gi-border) !important;
+    color: var(--gi-text) !important;
+    border-radius: 6px !important;
   }
   .search-input:focus {
-    background-color: var(--gi-white) !important;
-    border: 1px solid #999 !important;
+    border-color: #7253ed !important; /* On garde le focus violet natif ou gris selon choix */
+    box-shadow: 0 0 0 3px rgba(114, 83, 237, 0.3) !important;
   }
 
-  /* Nettoyage des textes colorés (Si présents dans les MD) */
-  .text-purple-200, .text-blue-200, .text-green-200 { 
-    color: var(--gi-black) !important; 
+  /* Nettoyage couleurs résiduelles */
+  .text-purple-200, .text-blue-200, .text-green-200, .text-grey-dk-000 { 
+    color: var(--gi-text) !important; 
   }
-  .text-grey-dk-000 { 
-    color: #666 !important; 
-  }
-
-  /* Footer sidebar */
-  .site-footer { border-top: 1px solid var(--gi-border); color: #888; }
+  
+  .site-footer { border-top: 1px solid #eee; }
 
 </style>
