@@ -1,24 +1,41 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
 title: Help Center
 description: Official knowledge base for getinside Retail Media operations.
 url: https://getinside-ops.github.io/handbook
 baseurl: /handbook
 
+# Le thème officiel
 remote_theme: just-the-docs/just-the-docs
 
-# On appelle le fichier _sass/color_schemes/getinside.scss
-color_scheme: getinside
+# Schéma de couleur par défaut (Light = Violet)
+color_scheme: light
+
+# -----------------------------------------------------------------------------
+# Navigation & Recherche
+# -----------------------------------------------------------------------------
 
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
+# Liens en haut à droite
 aux_links:
   "Accès SaaS":
     - "https://app.getinside.media/"
   "Site Web":
     - "https://getinside.fr/"
 
+# -----------------------------------------------------------------------------
+# Footer
+# -----------------------------------------------------------------------------
+
 footer_content: "Copyright &copy; 2025 getinside."
 
+# -----------------------------------------------------------------------------
+# Configuration par défaut
+# -----------------------------------------------------------------------------
 defaults:
   - scope:
       path: ""
