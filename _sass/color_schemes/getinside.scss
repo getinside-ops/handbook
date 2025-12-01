@@ -1,26 +1,133 @@
-// 1. PALETTE DE BASE
-$gi-white:      #FFFFFF;
-$gi-beige:      #F7F6F3;
-$gi-text:       #575652;
-$gi-border:     #e1e4e8;
+// ========================================================
+// 1. VARIABLES & PALETTE (AVANT IMPORT)
+// ========================================================
 
-// 2. SURCHARGE THÈME
-$body-background-color: $gi-beige;
+// Couleurs Getinside
+$gi-text:       #575652; // Gris chaud foncé
+$gi-bg:         #F7F6F3; // Beige clair
+$gi-white:      #FFFFFF;
+$gi-border:     #e1e4e8;
+$gi-dark-btn:   #24292e; // Pour les boutons primaires
+
+// --------------------------------------------------------
+// SURCHARGE DES VARIABLES DU THÈME
+// --------------------------------------------------------
+
+// Fonds et Textes
+$body-background-color: $gi-bg;
 $body-text-color:       $gi-text;
 $body-heading-color:    $gi-text;
 $sidebar-color:         $gi-white;
-$sidebar-border-color:  $gi-border;
+$sidebar-border-color:  transparent; // Pas de bordure sidebar
 
+// Liens (Gris par défaut)
 $link-color:            $gi-text;
-$nav-child-link-color:  #666;
+$nav-child-link-color:  lighten($gi-text, 10%);
 
+// Composants (Code & Tableaux)
 $code-background-color: $gi-white;
 $table-header-background-color: #fafbfc;
 $table-background-color: $gi-white;
 $border-color:          $gi-border;
 
+// Recherche
 $search-background-color: $gi-white;
 
-// On force les boutons du thème à être neutres
-$btn-primary-color: #333;
-$btn-primary-background-color: #fff;
+// BOUTON PRIMAIRE (Le bouton sombre)
+// On force les variables ici pour que le thème génère du noir/blanc
+$btn-primary-color: #ffffff;
+$btn-primary-background-color: $gi-dark-btn;
+$btn-primary-border-color: $gi-dark-btn;
+
+// ========================================================
+// 2. IMPORT DU THÈME
+// ========================================================
+@import "just-the-docs";
+
+// ========================================================
+// 3. RÈGLES CSS PERSONNALISÉES (APRÈS IMPORT)
+// ========================================================
+
+// --- FORCE GLOBALE TEXTE ---
+body, h1, h2, h3, h4, h5, h6, p, li {
+  color: $gi-text !important;
+}
+
+// --- CORRECTION DES BOUTONS VIOLETS (.btn-purple) ---
+// On crée une règle spécifique pour écraser le style violet partout
+.btn-purple, .btn-outline, a.btn-purple {
+  background-color: $gi-white !important;
+  color: $gi-text !important;
+  border: 1px solid $gi-border !important;
+  text-decoration: none !important;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.btn-purple:hover, .btn-outline:hover, a.btn-purple:hover {
+  background-color: #f6f8fa !important;
+  color: #000 !important;
+  transform: translateY(-1px);
+}
+
+// Correction du bouton primaire (texte blanc forcé)
+.btn-primary {
+  color: #ffffff !important;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none !important;
+}
+.btn-primary:hover {
+  background-color: #444 !important;
+  color: #ffffff !important;
+}
+
+// --- LIENS DANS LE TEXTE ---
+// Soulignement gris clair, sauf pour les boutons
+.main-content a:not(.btn):not(.btn-primary):not(.btn-purple):not(.btn-outline) {
+  text-decoration: underline;
+  text-decoration-color: #d1d5da;
+  text-underline-offset: 3px;
+  color: $gi-text;
+}
+.main-content a:not(.btn):hover {
+  color: #000;
+  text-decoration-color: #000;
+}
+
+// --- PUCES DE PROCESS & COULEURS SÉMANTIQUES ---
+
+// On restaure les couleurs de texte spécifiques (titres de process)
+.text-purple-200 { color: #8a63d2 !important; }
+.text-blue-200   { color: #0969da !important; }
+.text-green-200  { color: #2da44e !important; }
+.text-red-200    { color: #cf222e !important; }
+
+// PUCES RONDES : Texte BLANC sur fond couleur
+// On cible les divs qui ont une couleur de fond inline
+div[style*="background-color: #"], div[style*="background: #"] {
+  color: #ffffff !important;
+}
+
+// EXCEPTION : Les blocs gris clair doivent avoir du texte NOIR
+div[style*="background: #f6f8fa"], div[style*="background-color: #f6f8fa"],
+div[style*="background: #fcfbff"], div[style*="background-color: #fcfbff"],
+div[style*="background: #fff"], div[style*="background-color: #fff"] {
+  color: $gi-text !important;
+}
+
+// --- UI DIVERS ---
+
+// Cartes blanches
+div[style*="border-radius"], .card {
+  background-color: $gi-white;
+  border-color: $gi-border;
+}
+
+// Input recherche propre
+.search-input {
+  border: 1px solid $gi-border !important;
+  box-shadow: none !important;
+}
