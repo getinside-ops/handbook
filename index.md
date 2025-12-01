@@ -6,11 +6,11 @@ permalink: /
 description: "getinside Help Center: Official guides and documentation."
 ---
 
-<div class="fs-9 fw-700 text-grey-dk-000 mb-2">getinside Help Center</div>
-<p class="fs-6 fw-300 text-grey-dk-000 mb-6">
+<h1>getinside Help Center</h1>
+<body>
   La base de connaissances officielle pour les opérations de Retail Media.
   Centralisez vos processus, spécifications et guides opérationnels.
-</p>
+<body>
 
 <!-- BOUTONS DU HAUT -->
 <div class="d-flex flex-wrap mb-6">
@@ -26,7 +26,7 @@ description: "getinside Help Center: Official guides and documentation."
 
   <!-- CARTE ANNONCEURS -->
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #f6f8fa;">
-    <h2 class="text-blue-200 mt-0">🛍️ Espace Annonceurs</h2>
+    <h2>🛍️ Espace Annonceurs</h2>
     <p class="fs-4">Pour les marques souhaitant acquérir de nouveaux clients.</p>
     
     <div style="display: flex; flex-direction: column; gap: 8px;">
@@ -45,7 +45,7 @@ description: "getinside Help Center: Official guides and documentation."
 
   <!-- CARTE ÉDITEURS -->
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff;">
-    <h2 class="text-purple-200 mt-0">📦 Espace Éditeurs</h2>
+    <h2>📦 Espace Éditeurs</h2>
     <p class="fs-4">Pour les distributeurs souhaitant monétiser leur audience.</p>
     
     <div style="display: flex; flex-direction: column; gap: 8px;">
@@ -67,7 +67,7 @@ description: "getinside Help Center: Official guides and documentation."
 <div class="mt-6 mb-4"></div>
 
 <!-- SECTION SUPPORT -->
-<h3 class="fs-5 text-grey-dk-000">Aide & Support</h3>
+<h3>Aide & Support</h3>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
   
   <div style="padding: 16px; border: 1px solid #eee; border-radius: 6px;">
