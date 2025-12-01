@@ -10,8 +10,7 @@ description: "getinside Help Center: Official guides and documentation."
 <p>
   La base de connaissances officielle pour les opérations de Retail Media.
   Centralisez vos processus, spécifications et guides opérationnels.
-
-<p>
+</p>
 
 <!-- BOUTONS DU HAUT -->
 <div class="d-flex flex-wrap mb-6">
@@ -26,8 +25,10 @@ description: "getinside Help Center: Official guides and documentation."
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
 
   <!-- CARTE ANNONCEURS -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #f6f8fa;">
-    <h2>🛍️ Espace Annonceurs</h2>
+  <!-- Fond passé en #fff pour uniformité -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff;">
+    <!-- Ajout de mt-0 pour supprimer l'espace au dessus du titre -->
+    <h2 class="mt-0">🛍️ Espace Annonceurs</h2>
     <p class="fs-4">Pour les marques souhaitant acquérir de nouveaux clients.</p>
     
     <div style="display: flex; flex-direction: column; gap: 8px;">
@@ -40,17 +41,20 @@ description: "getinside Help Center: Official guides and documentation."
     </div>
     
     <div class="mt-4 pt-4 border-top">
-      <a href="docs/fr/advertisers/" >Voir toute la documentation &rarr;</a>
+      <!-- Retrait de text-purple-200 -->
+      <a href="docs/fr/advertisers/" class="fs-5 fw-700 no-underline">Voir toute la documentation &rarr;</a>
     </div>
   </div>
 
   <!-- CARTE ÉDITEURS -->
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff;">
-    <h2>📦 Espace Éditeurs</h2>
+    <!-- Ajout de mt-0 pour supprimer l'espace au dessus du titre -->
+    <h2 class="mt-0">📦 Espace Éditeurs</h2>
     <p class="fs-4">Pour les distributeurs souhaitant monétiser leur audience.</p>
     
     <div style="display: flex; flex-direction: column; gap: 8px;">
-      <a href="docs/fr/publishers/onboarding-process" class="btn btn-purple btn-sm text-left text-white">🚀 Guide de Démarrage</a>
+      <!-- Remplacement de btn-purple par btn-primary (Jaune) pour respecter la charte -->
+      <a href="docs/fr/publishers/onboarding-process" class="btn btn-primary btn-sm text-left">🚀 Guide de Démarrage</a>
       <a href="docs/fr/publishers/sponsored-mail/" class="btn btn-outline btn-sm text-left">🏭 Logistique Colis</a>
       <a href="docs/fr/publishers/dedicated-email/" class="btn btn-outline btn-sm text-left">🎨 Création Email</a>
       <a href="docs/fr/publishers/sponsored-social/" class="btn btn-outline btn-sm text-left">🤳 Social</a>
@@ -59,7 +63,8 @@ description: "getinside Help Center: Official guides and documentation."
     </div>
 
     <div class="mt-4 pt-4 border-top">
-      <a href="docs/fr/publishers/" class="fs-5 fw-700 text-purple-200 no-underline">Voir toute la documentation &rarr;</a>
+      <!-- Retrait de text-purple-200 -->
+      <a href="docs/fr/publishers/" class="fs-5 fw-700 no-underline">Voir toute la documentation &rarr;</a>
     </div>
   </div>
 
@@ -71,13 +76,13 @@ description: "getinside Help Center: Official guides and documentation."
 <h3>Aide & Support</h3>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
   
-  <div style="padding: 16px; border: 1px solid #eee; border-radius: 6px;">
+  <div style="padding: 16px; border: 1px solid #eee; border-radius: 6px; background-color: #fff;">
     <h4 class="mt-0 mb-2">❓ FAQ</h4>
     <p class="fs-3 mb-2">Questions fréquentes sur la logistique et la facturation.</p>
     <a href="docs/fr/faq" class="btn btn-sm">Consulter la FAQ</a>
   </div>
 
-  <div style="padding: 16px; border: 1px solid #eee; border-radius: 6px;">
+  <div style="padding: 16px; border: 1px solid #eee; border-radius: 6px; background-color: #fff;">
     <h4 class="mt-0 mb-2">📖 Glossaire</h4>
     <p class="fs-3 mb-2">Définitions (CPM, Lead Time, BAT, FOGRA39...).</p>
     <a href="docs/fr/glossary" class="btn btn-sm">Voir le Glossaire</a>
