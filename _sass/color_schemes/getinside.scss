@@ -1,41 +1,35 @@
 // --------------------------------------------------------
-// 1. PALETTE NEUTRE (TEXTE #575652)
+// 1. PALETTE NEUTRE & SEMANTIQUE
 // --------------------------------------------------------
 $gi-white:      #FFFFFF;
 $gi-beige:      #F7F6F3;
-$gi-text:       #575652; // La couleur de texte demandée
-$gi-black-btn:  #333333; // Pour les boutons "primaires"
-$gi-grey-btn:   #f6f8fa; // Pour les boutons "secondaires" (style GitHub)
+$gi-text:       #575652;
 $gi-border:     #e1e4e8;
+
+// Couleurs sémantiques (Restaurées pour les process)
+$green-000:     #2da44e; // Vert succès
+$red-000:       #cf222e; // Rouge erreur/attention
 
 // --------------------------------------------------------
 // 2. SURCHARGE DU THÈME
 // --------------------------------------------------------
 
-// Couleurs de fond et texte
 $body-background-color: $gi-beige;
 $body-text-color:       $gi-text;
 $body-heading-color:    $gi-text;
 $sidebar-color:         $gi-white;
 $sidebar-border-color:  $gi-border;
 
-// Liens (Même couleur que le texte pour la sobriété)
 $link-color:            $gi-text;
-
-// Navigation
 $nav-child-link-color:  lighten($gi-text, 10%);
 
-// Composants
 $code-background-color: $gi-white;
 $table-header-background-color: #fafbfc;
 $table-background-color: $gi-white;
 $border-color:          $gi-border;
 
-// Recherche
 $search-background-color: $gi-white;
 
-// --------------------------------------------------------
-// 3. VARIABLES BOUTONS (POUR ÉVITER LE VIOLET NATIF)
-// --------------------------------------------------------
+// Neutralisation des boutons par défaut du thème
 $btn-primary-color: #fff;
-$btn-primary-background-color: $gi-black-btn;
+$btn-primary-background-color: #24292e;

@@ -5,130 +5,118 @@
     --gi-bg: #F7F6F3;
     --gi-white: #FFFFFF;
     --gi-border: #e1e4e8;
-    --gi-link-underline: #d1d5da; /* Gris clair pour le soulignement */
+    --gi-btn-grey: #f6f8fa;
+    --gi-btn-text: #24292e;
   }
 
-  body, html, .main-content, h1, h2, h3, h4, h5, h6 {
+  body, html, .main-content {
     color: var(--gi-text) !important;
-  }
-
-  body {
     background-color: var(--gi-bg) !important;
   }
 
-  /* --- 2. LIENS (SOULIGNEMENT GRIS CLAIR) --- */
-  
-  .main-content a {
-    color: var(--gi-text) !important;
-    text-decoration: underline;
-    text-decoration-color: var(--gi-link-underline) !important;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 3px;
-  }
-  
-  .main-content a:hover {
-    color: #000 !important;
-    text-decoration-color: #999 !important;
-    background-color: transparent !important;
-  }
+  h1, h2, h3, h4, h5, h6 { color: var(--gi-text) !important; }
 
-  /* Reset pour les cartes cliquables (pas de soulignement) */
-  .main-content a.no-underline, 
-  .main-content a:has(div) { 
-    text-decoration: none !important; 
-  }
-
-  /* --- 3. BOUTONS (STYLE NATIF MAIS MONOCHROME) --- */
+  /* --- 2. BOUTONS (CORRECTION VIOLET) --- */
 
   .btn {
     font-weight: 600 !important;
-    border-radius: 6px !important; /* Arrondi standard */
+    border-radius: 6px !important;
     padding: 6px 16px !important;
-    transition: 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-    transition-property: color, background-color, border-color;
-    
-    /* Ombre native du thème pour le relief */
     box-shadow: 0 1px 0 rgba(27,31,35,0.04), inset 0 1px 0 hsla(0,0%,100%,0.25) !important;
     border: 1px solid rgba(27,31,35,0.15) !important;
+    transition: 0.2s cubic-bezier(0.3, 0, 0.5, 1);
   }
 
-  /* BOUTON PRIMAIRE (Le "Violet" devient GRIS FONCÉ/NOIR) */
-  /* Exemple : "Accéder au SaaS" */
-  .btn-primary {
-    background-color: #24292e !important; /* Gris très foncé (style GitHub) */
-    color: #ffffff !important;
+  /* BOUTON "VIOLET" DEVIENT GRIS CLAIR (Secondaire) */
+  /* On cible spécifiquement la classe du thème pour l'écraser */
+  .btn-purple, .btn-outline {
+    background-color: var(--gi-btn-grey) !important;
+    color: var(--gi-btn-text) !important;
     border-color: rgba(27,31,35,0.15) !important;
+  }
+  
+  .btn-purple:hover, .btn-outline:hover {
+    background-color: #f3f4f6 !important;
+    text-decoration: none !important;
+  }
+
+  /* BOUTON "PRIMARY" (Action principale) -> NOIR/GRIS FONCÉ */
+  .btn-primary {
+    background-color: #24292e !important;
+    color: #ffffff !important;
   }
   .btn-primary:hover {
     background-color: #444 !important;
     text-decoration: none !important;
   }
 
-  /* BOUTON SECONDAIRE (Le "Guide" devient GRIS CLAIR) */
-  /* Remplace .btn-purple et .btn-outline */
-  .btn-purple, .btn-outline {
-    background-color: #f6f8fa !important; /* Gris très clair */
-    color: #24292e !important; /* Texte foncé */
-  }
-  .btn-purple:hover, .btn-outline:hover {
-    background-color: #f3f4f6 !important;
-    border-color: rgba(27,31,35,0.15) !important;
-    text-decoration: none !important;
-    transition-duration: 0.1s;
+  /* --- 3. ÉLÉMENTS DE PROCESS (PUCES & TIMELINES) --- */
+
+  /* Rétablissement du Rouge et Vert pour les process */
+  .text-green-200 { color: #2da44e !important; }
+  .text-red-200 { color: #cf222e !important; }
+  
+  /* Astuce : On cible les divs qui ont un fond "purple" inline (votre ancien code) 
+     pour les forcer en Gris Foncé. Ainsi, le texte blanc reste lisible. */
+  div[style*="background: #7253ed"], 
+  div[style*="background-color: #7253ed"] {
+    background-color: #444 !important; /* Gris foncé au lieu du violet */
+    color: #fff !important; /* Texte blanc maintenu */
   }
 
-  /* --- 4. SIDEBAR & NAVIGATION --- */
+  /* On s'assure que les puces vertes et rouges gardent leur couleur */
+  div[style*="background: #28a745"] { background-color: #2da44e !important; } /* Vert ajusté */
+  div[style*="background: #d73a49"] { background-color: #cf222e !important; } /* Rouge ajusté */
+
+  /* --- 4. CARTES (BOXES) --- */
   
+  /* On cible les cartes pour les mettre en blanc, MAIS on exclut les puces (qui sont petites) 
+     en demandant une largeur minimale ou via le contexte */
+  
+  /* Cible les grandes cartes de la home et des index */
+  div[style*="border: 1px solid"], 
+  div[style*="border: 2px solid"] {
+    background-color: var(--gi-white); /* Pas d'!important pour laisser les puces tranquilles */
+    border-color: var(--gi-border) !important;
+  }
+
+  /* --- 5. LIENS & NAVIGATION --- */
+  
+  .main-content a {
+    color: var(--gi-text) !important;
+    text-decoration: underline;
+    text-decoration-color: #d1d5da !important;
+    text-underline-offset: 3px;
+  }
+  .main-content a:hover {
+    color: #000 !important;
+    text-decoration-color: #999 !important;
+  }
+  .main-content a.no-underline { text-decoration: none !important; }
+
+  /* Sidebar */
   .side-bar, .site-nav {
     background-color: var(--gi-white) !important;
-    border-right: 0px solid var(--gi-border) !important;
+    border-right: 1px solid var(--gi-border) !important;
   }
-
-  /* Liens menu */
-  .nav-list-link {
-    color: var(--gi-text) !important;
-  }
-
-  /* Survol Menu (Gris très léger) */
-  .nav-list-link:hover {
-    background-color: #f6f8fa !important;
-    text-decoration: none !important;
-  }
-
-  /* Actif Menu (Gris un peu plus marqué, pas de jaune) */
+  .nav-list-link { color: var(--gi-text) !important; }
+  .nav-list-link:hover { background-color: #f6f8fa !important; text-decoration: none !important; }
   .nav-list-link.active {
     font-weight: 600 !important;
-    background-color: #f0f1f4 !important; /* Gris */
+    background-color: #f0f1f4 !important;
     background-image: none !important;
     border-left: none !important;
     color: #000 !important;
   }
 
-  /* --- 5. COMPOSANTS DIVERS --- */
-
-  /* Cartes (Fond blanc) */
-  div[style*="border-radius"] {
-    background-color: var(--gi-white) !important;
-    border-color: var(--gi-border) !important;
-  }
+  /* Footer */
+  .site-footer { border-top: 1px solid #eee; }
   
-  /* Input Recherche */
+  /* Recherche */
   .search-input {
     background-color: var(--gi-white) !important;
     border: 1px solid var(--gi-border) !important;
     color: var(--gi-text) !important;
     border-radius: 6px !important;
   }
-  .search-input:focus {
-    border-color: #7253ed !important; /* On garde le focus violet natif ou gris selon choix */
-    box-shadow: 0 0 0 3px rgba(114, 83, 237, 0.3) !important;
-  }
-
-  /* Nettoyage couleurs résiduelles */
-  .text-purple-200, .text-blue-200, .text-green-200, .text-grey-dk-000 { 
-    color: var(--gi-text) !important; 
-  }
-  
-  .site-footer { border-top: 1px solid #eee; }
-
 </style>
