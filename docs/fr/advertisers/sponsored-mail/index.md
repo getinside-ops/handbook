@@ -34,8 +34,8 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 </div>
 
 <!-- 2. GRILLE POUR LES SOUS-CARTES -->
-<!-- Utilisation de minmax(200px) pour permettre aux 3 cartes de tenir sur une ligne -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
+<!-- Correction : minmax passé à 180px pour garantir l'alignement sur 3 colonnes -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <!-- STRATEGIE -->
   <a href="./design-guide/strategy" style="text-decoration: none; color: inherit;">
