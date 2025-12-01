@@ -23,19 +23,21 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-blue-200 mb-4">Ressources & Documentation</h2>
 
-<!-- CONTENEUR FLEX (Plus robuste que Grid) -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
-
-  <!-- CARTE 1 : GUIDE (Largeur 100% pour mise en avant) -->
-  <a href="design-guide/" style="text-decoration: none; color: inherit; width: 100%;">
+<!-- 1. CARTE PRINCIPALE (GUIDE) - ISOLÉE -->
+<div style="margin-bottom: 20px;">
+  <a href="design-guide/" style="text-decoration: none; color: inherit; display: block;">
     <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; background: #fcfbff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <h3 class="mt-0 text-purple-200">📘 Guide de Conception (Start)</h3>
       <p class="fs-4 text-grey-dk-000 mb-0">Le point de départ obligatoire. Processus de validation, option Studio et checklist avant envoi.</p>
     </div>
   </a>
+</div>
 
-  <!-- CARTE 2 : STRATEGIE -->
-  <a href="design-guide/strategy" style="text-decoration: none; color: inherit; flex: 1 1 300px;">
+<!-- 2. GRILLE POUR LES SOUS-CARTES - SÉPARÉE -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 40px;">
+
+  <!-- STRATEGIE -->
+  <a href="design-guide/strategy" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 24px; margin-bottom: 10px;">🧠</div>
       <h3 class="mt-0 fs-4">Stratégie & Offre</h3>
@@ -43,8 +45,8 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
     </div>
   </a>
 
-  <!-- CARTE 3 : SPECS -->
-  <a href="design-guide/print-specs" style="text-decoration: none; color: inherit; flex: 1 1 300px;">
+  <!-- SPECS -->
+  <a href="design-guide/print-specs" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 24px; margin-bottom: 10px;">📐</div>
       <h3 class="mt-0 fs-4">Specs Techniques</h3>
@@ -52,8 +54,8 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
     </div>
   </a>
 
-  <!-- CARTE 4 : LEGAL -->
-  <a href="design-guide/legal" style="text-decoration: none; color: inherit; flex: 1 1 300px;">
+  <!-- LEGAL -->
+  <a href="design-guide/legal" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 24px; margin-bottom: 10px;">⚖️</div>
       <h3 class="mt-0 fs-4">Légal & QR</h3>
@@ -65,21 +67,21 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
 
-  <div style="flex: 1 1 280px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <div style="font-size: 30px; margin-bottom: 10px;">📦</div>
     <strong class="fs-4">100% d'Ouverture</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Le seul média physique avec un taux de prise en main absolu.</p>
   </div>
 
-  <div style="flex: 1 1 280px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <div style="font-size: 30px; margin-bottom: 10px;">🎯</div>
     <strong class="fs-4">Ciblage Affinitaire</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à des marques (Beauté, Tech) correspondant à votre persona.</p>
   </div>
 
-  <div style="flex: 1 1 280px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <div style="font-size: 30px; margin-bottom: 10px;">🛡️</div>
     <strong class="fs-4">Cookie-less</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Un levier puissant non impacté par le RGPD.</p>
