@@ -17,20 +17,19 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-
+  
 # -----------------------------------------------------------------------------
 # Apparence & Branding
 # -----------------------------------------------------------------------------
 
-# logo: assets/images/logo.svg (Commenté pour afficher le texte)
-
 color_scheme: light
 
+# Correction : On utilise le chemin absolu direct sans accolades {{ }}
 head_members:
   - <link rel="preconnect" href="https://fonts.googleapis.com">
   - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   - <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Public+Sans:wght@300;400;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
-  - <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  - <link rel="stylesheet" href="/handbook/assets/css/custom.css">
 
 # -----------------------------------------------------------------------------
 # Navigation & Recherche

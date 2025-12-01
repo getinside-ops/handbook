@@ -1,141 +1,117 @@
 ---
 ---
 
-/* --- 1. VARIABLES DE LA CHARTE GETINSIDE --- */
+/* --- 1. IDENTITÉ VISUELLE GETINSIDE --- */
 :root {
-  /* Couleurs Primaires */
   --gi-yellow: #FDFD36;
   --gi-black: #1D1D1B;
   --gi-white: #FFFFFF;
   --gi-off-white: #F9F9F7;
-  
-  /* Couleurs Secondaires */
   --gi-purple: #BE63F9;
   --gi-green: #25D0AB;
-  --gi-red: #FF5660;
-
-  /* Polices */
+  
+  /* Typo */
   --font-heading: 'Space Grotesk', sans-serif;
   --font-body: 'Public Sans', sans-serif;
   --font-ui: 'Inter', sans-serif;
 }
 
-/* --- 2. SURCHARGE DU THÈME --- */
+/* --- 2. GLOBAL OVERRIDES (Force le style) --- */
 
-/* Fond général */
-body {
+body, .side-bar, .main-content {
   background-color: var(--gi-off-white) !important;
   color: var(--gi-black) !important;
   font-family: var(--font-body) !important;
-}
-
-/* Zone de contenu principale */
-.main-content {
-  background-color: var(--gi-off-white) !important;
-}
-
-.side-bar {
-  background-color: var(--gi-off-white) !important;
-  border-right: 1px solid #E5E5E5;
 }
 
 /* Titres */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading) !important;
   color: var(--gi-black) !important;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.03em;
 }
-h1 { font-weight: 700 !important; }
 
-/* Titre du site (Menu) */
+/* Liens */
+a { color: #7253ed; text-decoration: none; }
+a:hover { text-decoration: underline; text-decoration-color: var(--gi-yellow); text-decoration-thickness: 3px; }
+
+/* --- 3. MENU LATÉRAL (SIDEBAR) --- */
+
+.site-nav {
+  background-color: var(--gi-off-white) !important;
+}
+
 .site-title {
   font-family: var(--font-heading) !important;
   font-weight: 700 !important;
-  color: var(--gi-black) !important;
+  font-size: 22px !important;
+  background-image: none !important; /* Retire le soulignement pointillé */
 }
 
 /* Liens du menu */
-.nav-list .nav-list-item .nav-list-link {
+.nav-list-link {
   font-family: var(--font-ui) !important;
-  color: #555 !important;
 }
-.nav-list .nav-list-item .nav-list-link.active {
+.nav-list-link.active {
   color: var(--gi-black) !important;
   font-weight: 700 !important;
-  border-left-color: var(--gi-yellow) !important;
+  background-image: linear-gradient(-90deg, var(--gi-yellow) 0%, var(--gi-yellow) 100%) !important;
+  background-size: 4px 100% !important; /* Barre jaune verticale */
 }
 
-/* --- 3. BOUTONS --- */
+/* --- 4. COMPOSANTS (BOUTONS & CARTES) --- */
 
+/* Boutons */
 .btn {
   font-family: var(--font-ui) !important;
-  font-weight: 600 !important;
   border-radius: 4px !important;
-  transition: all 0.2s ease !important;
+  text-transform: none !important;
+  font-weight: 600 !important;
+  transition: transform 0.1s ease !important;
 }
 
-/* Bouton Primaire (Jaune) */
+/* Primaire (Jaune) */
 .btn-primary {
   background-color: var(--gi-yellow) !important;
   color: var(--gi-black) !important;
   border: 1px solid var(--gi-black) !important;
-  box-shadow: 2px 2px 0px var(--gi-black) !important; /* Effet Brutalist */
+  box-shadow: 3px 3px 0px var(--gi-black) !important;
 }
 .btn-primary:hover {
   transform: translate(-1px, -1px);
-  box-shadow: 4px 4px 0px var(--gi-black) !important;
-  text-decoration: none !important;
+  box-shadow: 5px 5px 0px var(--gi-black) !important;
 }
 
-/* Bouton Violet */
+/* Violet */
 .btn-purple {
   background-color: var(--gi-purple) !important;
-  color: white !important;
+  color: #fff !important;
   border: 1px solid var(--gi-purple) !important;
 }
-.btn-purple:hover {
-  background-color: #a64ce0 !important;
-  text-decoration: none !important;
-}
 
-/* Bouton Outline */
+/* Outline */
 .btn-outline {
-  background-color: transparent !important;
-  border: 1px solid #ccc !important;
+  background-color: #fff !important;
+  border: 1px solid #ddd !important;
   color: var(--gi-black) !important;
 }
-.btn-outline:hover {
-  border-color: var(--gi-black) !important;
-  text-decoration: none !important;
+
+/* Cartes (Divs avec bordures) */
+div[style*="border"] {
+  background-color: #fff !important;
+  border-color: #eee !important;
 }
 
-/* --- 4. TEXTES & LIENS --- */
-
-a {
-  color: #7253ed; /* Couleur par défaut des liens */
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-  text-decoration-color: var(--gi-yellow);
-  text-decoration-thickness: 3px;
-}
-
-/* Classes utilitaires de texte */
-.text-blue-200 { color: var(--gi-black) !important; } /* On remplace le bleu par le noir charte */
-.text-purple-200 { color: var(--gi-purple) !important; }
-.text-green-200 { color: var(--gi-green) !important; }
-.text-grey-dk-000 { color: var(--gi-black) !important; }
-
-/* Cartes et Blocs */
-div[style*="border-radius"] {
-  background-color: var(--gi-white) !important;
-  border-color: #E5E5E5 !important;
-}
-
-/* Mise en avant Jaune */
+/* Fond Jaune spécial */
 .bg-yellow-000 {
   background-color: var(--gi-yellow) !important;
-  color: var(--gi-black) !important;
   border: 1px solid var(--gi-black) !important;
+}
+
+/* Search Bar Override */
+.search-input {
+  background-color: #fff !important;
+  border: 1px solid #ccc !important;
+  border-radius: 4px !important;
+  font-family: var(--font-ui) !important;
 }
