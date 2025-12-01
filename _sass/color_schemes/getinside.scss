@@ -1,17 +1,13 @@
 // --------------------------------------------------------
-// 1. PALETTE NEUTRE & SEMANTIQUE
+// 1. PALETTE NEUTRE
 // --------------------------------------------------------
 $gi-white:      #FFFFFF;
 $gi-beige:      #F7F6F3;
-$gi-text:       #575652;
+$gi-text:       #282824; // Noir/Gris foncé
 $gi-border:     #e1e4e8;
 
-// Couleurs sémantiques (Restaurées pour les process)
-$green-000:     #2da44e; // Vert succès
-$red-000:       #cf222e; // Rouge erreur/attention
-
 // --------------------------------------------------------
-// 2. SURCHARGE DU THÈME
+// 2. SURCHARGE DES VARIABLES
 // --------------------------------------------------------
 
 $body-background-color: $gi-beige;
@@ -20,8 +16,13 @@ $body-heading-color:    $gi-text;
 $sidebar-color:         $gi-white;
 $sidebar-border-color:  $gi-border;
 
-$link-color:            $gi-text;
-$nav-child-link-color:  lighten($gi-text, 10%);
+$link-color:            $gi-text; // Liens noirs par défaut
+$nav-child-link-color:  #555;
+
+// Force les boutons du thème en neutre dès la compilation
+$btn-primary-color: #333;
+$btn-primary-background-color: #fff;
+$btn-primary-border-color: #ccc;
 
 $code-background-color: $gi-white;
 $table-header-background-color: #fafbfc;
@@ -29,7 +30,3 @@ $table-background-color: $gi-white;
 $border-color:          $gi-border;
 
 $search-background-color: $gi-white;
-
-// Neutralisation des boutons par défaut du thème
-$btn-primary-color: #fff;
-$btn-primary-background-color: #24292e;
