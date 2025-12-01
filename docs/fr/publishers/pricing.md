@@ -3,6 +3,7 @@ layout: default
 title: Tarifs & Abonnements
 parent: Espace Éditeurs
 nav_order: 9
+toc: false
 ---
 
 # Tarifs et Abonnements
@@ -13,7 +14,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité et 
 
 <h2 class="text-grey-dk-000 mb-4">Tableau Comparatif</h2>
 
-<!-- Tableau en Markdown natif pour éviter le double contour -->
+<!-- Tableau en Markdown natif -->
 
 | Fonctionnalités | Starter (Gratuit) | Standard (179€/mois) | Managed (1 399€/mois) |
 | :--- | :--- | :--- | :--- |
@@ -28,8 +29,8 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité et 
 
 <h2 class="text-grey-dk-000 mb-4">Détail des Offres</h2>
 
-<!-- Conteneur GRID pour forcer l'alignement sur une ligne -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: stretch;">
+<!-- Conteneur GRID ajusté pour tenir sur une ligne (minmax passé à 220px) -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; align-items: stretch;">
 
   <!-- OFFRE STARTER -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; background-color: #fff;">

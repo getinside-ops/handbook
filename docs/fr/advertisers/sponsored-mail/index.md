@@ -60,7 +60,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; width: 100%;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; width: 100%;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <div style="font-size: 30px; margin-bottom: 10px;">📦</div>
