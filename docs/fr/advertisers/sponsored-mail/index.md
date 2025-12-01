@@ -22,12 +22,12 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-blue-200 mb-4">Ressources & Documentation</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
   <!-- CARTE GUIDE COMPLET -->
   <a href="design-guide/" style="text-decoration: none; color: inherit;">
-    <div style="border: 2px solid #2d6fd6; border-radius: 8px; padding: 24px; height: 100%; background: #f6f8fa; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-      <h3 class="mt-0 text-blue-200">📘 Guide de Conception</h3>
+    <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; height: 100%; background: #fcfbff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
+      <h3 class="mt-0 text-purple-200">📘 Guide de Conception</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">Le point de départ. Processus de validation, option Studio et checklist.</p>
     </div>
   </a>
@@ -60,7 +60,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; width: 100%;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <div style="font-size: 30px; margin-bottom: 10px;">📦</div>

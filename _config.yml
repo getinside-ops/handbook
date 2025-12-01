@@ -1,40 +1,22 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
 title: Help Center
 description: Official knowledge base for getinside Retail Media operations.
 url: https://getinside-ops.github.io/handbook
-
-# IMPORTANT : Ne changez pas ceci tant que vous n'avez pas votre propre nom de domaine
 baseurl: /handbook
 
-# --- CORRECTION DU BUG ---
-# Au lieu de "theme:", on utilise "remote_theme" pour GitHub Pages
+# Le thème
 remote_theme: just-the-docs/just-the-docs
 
-# On active le plugin pour que remote_theme fonctionne
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  
-# -----------------------------------------------------------------------------
-# Apparence & Branding
-# -----------------------------------------------------------------------------
-
+# Apparence
 color_scheme: light
 
-# Correction : On utilise le chemin absolu direct sans accolades {{ }}
+# On charge UNIQUEMENT les polices ici. 
+# Le CSS personnalisé sera chargé automatiquement par la méthode "style.scss" ci-dessous.
 head_members:
   - <link rel="preconnect" href="https://fonts.googleapis.com">
   - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   - <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Public+Sans:wght@300;400;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
-  - <link rel="stylesheet" href="/handbook/assets/css/custom.css">
 
-# -----------------------------------------------------------------------------
 # Navigation & Recherche
-# -----------------------------------------------------------------------------
-
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
@@ -44,15 +26,10 @@ aux_links:
   "Site Web":
     - "https://getinside.fr/"
 
-# -----------------------------------------------------------------------------
 # Footer
-# -----------------------------------------------------------------------------
-
 footer_content: "Copyright &copy; 2025 getinside."
 
-# -----------------------------------------------------------------------------
 # Defaults
-# -----------------------------------------------------------------------------
 defaults:
   - scope:
       path: ""
