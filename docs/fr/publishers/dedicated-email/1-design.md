@@ -20,7 +20,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
   <div style="flex-shrink: 0; width: 50px; height: 50px; background: #7253ed; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 24px;">📝</div>
   <div>
     <h3 class="mt-0">Tout est sur la plateforme</h3>
-    <p class="mb-0">Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> pour récupérer : l'offre commerciale, les visuels produits HD et les arguments clés.</p>
+    <p class="mb-0">Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> pour récupérer : l'offre commerciale, les visuels produits HD et les arguments clés dans la messagerie.</p>
   </div>
 </div>
 
