@@ -1,10 +1,9 @@
 <style>
-  /* --- 1. RESET GLOBAL & COULEURS --- */
+  /* --- 1. RESET GLOBAL --- */
   :root {
     --gi-bg: #F7F6F3;
     --gi-white: #FFFFFF;
-    --gi-grey-btn: #ECEBEA; /* Gris clair pour les boutons */
-    --gi-grey-hover: #E0E0E0; /* Gris un peu plus foncé pour le survol */
+    --gi-grey-btn: #ECEBEA;
     --gi-black: #111111;
   }
 
@@ -13,111 +12,76 @@
     color: var(--gi-black) !important;
   }
 
-  /* --- 2. SIDEBAR (MENU GAUCHE) --- */
-  
+  /* --- 2. SIDEBAR (PROPRE) --- */
   .side-bar, .site-nav {
     background-color: var(--gi-white) !important;
     border-right: 1px solid #E1E1E1 !important;
   }
 
   .nav-list-link {
-    color: #444 !important; /* Gris foncé par défaut */
+    color: #444 !important;
     border-radius: 4px;
-    transition: background-color 0.1s ease;
   }
 
-  /* SURVOL MENU : Juste du gris, pas de violet */
-  .nav-list-link:hover {
-    background-color: var(--gi-grey-btn) !important;
-    color: var(--gi-black) !important;
-    text-decoration: none !important;
-  }
-
-  /* ACTIF MENU : Gris, Texte noir, PAS DE BARRE JAUNE */
-  .nav-list-link.active {
+  /* Survol & Actif : Gris simple, pas de jaune, pas de violet */
+  .nav-list-link:hover, .nav-list-link.active {
     background-color: var(--gi-grey-btn) !important;
     color: var(--gi-black) !important;
     font-weight: 700;
-    background-image: none !important; /* Supprime l'image de fond du thème */
-    border-left: none !important;      /* Supprime la barre verticale */
+    background-image: none !important;
+    border-left: none !important;
+    text-decoration: none !important;
   }
 
-  /* --- 3. LIENS & TEXTE (PAS DE SOULIGNEMENT) --- */
-
-  /* Liens dans le contenu : Noir et sans soulignement par défaut */
+  /* --- 3. LIENS (PAS DE SOULIGNEMENT COULEUR) --- */
   .main-content a {
     color: var(--gi-black) !important;
-    text-decoration: none !important; /* Retrait du soulignement menthe/bleu */
-    font-weight: 600; /* Juste un peu de gras pour les distinguer */
+    text-decoration: none !important;
+    font-weight: 600;
   }
-
-  /* Au survol : Soulignement simple noir */
   .main-content a:hover {
     text-decoration: underline !important;
     text-decoration-color: var(--gi-black) !important;
-    background-color: transparent !important;
   }
 
-  /* Nettoyage des titres colorés */
-  h1, h2, h3, h4, .text-purple-200, .text-blue-200, .text-green-200 {
-    color: var(--gi-black) !important;
-  }
-
-  /* --- 4. BOUTONS (GRIS CLAIR / TEXTE NOIR) --- */
-
-  .btn {
+  /* --- 4. BOUTONS (CIBLE TOUTES LES VARIANTES) --- */
+  
+  /* On cible .btn, .btn-primary ET .btn-purple pour tous les forcer en gris */
+  .btn, .btn-primary, .btn-purple, .btn-outline {
+    background-color: var(--gi-grey-btn) !important;
+    color: var(--gi-black) !important; /* Texte Noir */
+    border: 1px solid #D1D1D1 !important;
     font-weight: 700 !important;
     border-radius: 4px !important;
     text-transform: none !important;
-    padding: 8px 16px !important;
-    transition: all 0.2s ease;
-    
-    /* STYLE UNIQUE POUR TOUS LES BOUTONS */
-    background-color: var(--gi-grey-btn) !important;
-    color: var(--gi-black) !important;
-    border: 1px solid #D1D1D1 !important;
     box-shadow: none !important;
+    padding: 8px 16px !important;
   }
 
-  /* Au survol des boutons */
-  .btn:hover {
-    background-color: var(--gi-grey-hover) !important;
+  .btn:hover, .btn-primary:hover, .btn-purple:hover {
+    background-color: #DCDCDC !important; /* Gris un peu plus foncé au survol */
+    color: var(--gi-black) !important;
     text-decoration: none !important;
     transform: translateY(-1px);
   }
 
-  /* On écrase spécifiquement les anciennes classes de couleur */
-  .btn-primary, .btn-purple, .btn-outline {
-    background-color: var(--gi-grey-btn) !important;
-    color: var(--gi-black) !important;
-    border-color: #D1D1D1 !important;
-  }
-
-  /* --- 5. COMPOSANTS DIVERS --- */
-
-  /* Cartes blanches */
+  /* --- 5. DIVERS --- */
   div[style*="border-radius"], .card {
     background-color: var(--gi-white) !important;
     border-color: #E1E1E1 !important;
   }
 
-  /* Barre de recherche propre */
   .search-input {
     background-color: var(--gi-bg) !important;
     border: 1px solid #ddd !important;
     color: var(--gi-black) !important;
-    border-radius: 4px;
     box-shadow: none !important;
   }
-  .search-input:focus {
-    background-color: var(--gi-white) !important;
-    border-color: #999 !important;
+  
+  /* Nettoyage couleurs textes résiduelles */
+  .text-purple-200, .text-blue-200, .text-green-200 { 
+    color: var(--gi-black) !important; 
   }
   
-  /* Footer Sidebar */
-  .site-footer {
-    border-top: 1px solid #eee; 
-    color: #999;
-  }
-
+  .site-footer { border-top: 1px solid #eee; color: #999; }
 </style>
