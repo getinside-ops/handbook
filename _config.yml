@@ -1,43 +1,62 @@
-title: Handbook
-description: Le mode d'emploi getinside
-url: "https://getinside-ops.github.io"
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
 
-# Le Thème
-remote_theme: pmarsceill/just-the-docs
+title: Help Center
+description: Official knowledge base for getinside Retail Media operations.
+url: https://getinside-ops.github.io/handbook
 
-# 1. Branding (Logo)
-#logo: "/assets/images/logo-getinside.png"
-favicon_ico: "/assets/images/favicon.ico"
+# IMPORTANT : Laissez "/handbook" si votre site est sur "github.io/handbook"
+# Si vous mettez un nom de domaine personnalisé plus tard, retirez cette ligne.
+baseurl: /handbook
 
-# 2. Mode Sombre (Automatique)
-color_scheme: nil
+theme: just-the-docs
 
-# 3. Recherche
+# -----------------------------------------------------------------------------
+# Apparence & Branding
+# -----------------------------------------------------------------------------
+
+# Logo : Commenté pour afficher le texte "Help Center" (plus propre)
+# logo: assets/images/logo.svg
+
+# Couleurs de base (sera écrasé par votre custom.css)
+color_scheme: light
+
+# Chargement des polices (Space Grotesk, Public Sans) et du CSS perso
+head_members:
+  - <link rel="preconnect" href="https://fonts.googleapis.com">
+  - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  - <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Public+Sans:wght@300;400;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  - <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+# -----------------------------------------------------------------------------
+# Navigation & Recherche
+# -----------------------------------------------------------------------------
+
+# Active la barre de recherche
 search_enabled: true
-search:
-  heading_level: 2
-  previews: 3
+search_tokenizer_separator: /[\s/]+/
 
-# 4. Switch Langue (En haut à droite)
+# Liens rapides en haut à droite
 aux_links:
-  "🇬🇧 English":
-    - "/docs/en"
-  "🇫🇷 Français":
-    - "/docs/fr"
+  "Accès SaaS":
+    - "https://app.getinside.media/"
+  "Site Web":
+    - "https://getinside.fr/"
 
-# Plugins techniques
-plugins:
-  - jekyll-seo-tag
+# -----------------------------------------------------------------------------
+# Footer (Pied de page)
+# -----------------------------------------------------------------------------
 
-
-# Footer du menu de gauche
+# Ce texte remplace la pub "This site uses Just the Docs" dans le menu de gauche
 footer_content: "Copyright &copy; 2025 getinside."
 
 # -----------------------------------------------------------------------------
-# Valeurs par défaut pour toutes les pages
+# Configuration par défaut des pages
 # -----------------------------------------------------------------------------
 defaults:
   - scope:
       path: ""
     values:
+      # Désactive la table des matières (TOC) sur la droite pour éviter les bugs d'affichage
       toc: false

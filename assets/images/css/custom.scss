@@ -1,0 +1,141 @@
+/* --- 1. VARIABLES DE LA CHARTE GETINSIDE --- */
+:root {
+  /* Couleurs Primaires */
+  --gi-yellow: #FDFD36;
+  --gi-black: #1D1D1B;
+  --gi-white: #FFFFFF;
+  --gi-off-white: #F9F9F7; /* Couleur de fond "Greys/Neutrals" */
+  
+  /* Couleurs Secondaires (Accents) */
+  --gi-purple: #BE63F9;
+  --gi-green: #25D0AB;
+  --gi-orange: #FF8F1F;
+  --gi-red: #FF5660;
+
+  /* Polices */
+  --font-heading: 'Space Grotesk', sans-serif; /* Remplacement style Garnett */
+  --font-body: 'Public Sans', sans-serif;
+  --font-ui: 'Inter', sans-serif;
+}
+
+/* --- 2. SURCHARGE DU THÈME (OVERRIDES) --- */
+
+/* Fond général et Typographie */
+body {
+  background-color: var(--gi-off-white) !important;
+  color: var(--gi-black) !important;
+  font-family: var(--font-body) !important;
+}
+
+/* Titres (Headings) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading) !important;
+  color: var(--gi-black) !important;
+  letter-spacing: -0.02em; /* Style géométrique serré */
+}
+
+h1 { font-weight: 700; }
+
+/* Menu Latéral (Sidebar) */
+.site-nav {
+  background-color: var(--gi-off-white) !important;
+  border-right: 1px solid #E5E5E5;
+}
+
+.site-title {
+  font-family: var(--font-heading) !important;
+  font-weight: 700 !important;
+  font-size: 24px !important;
+  letter-spacing: -0.03em;
+  color: var(--gi-black) !important;
+  background-image: none !important; /* Retire le soulignement par défaut */
+}
+
+/* Liens du menu */
+.nav-list .nav-list-item .nav-list-link {
+  font-family: var(--font-ui);
+  color: #555 !important;
+}
+.nav-list .nav-list-item .nav-list-link.active {
+  color: var(--gi-black) !important;
+  font-weight: 600;
+  border-left: 3px solid var(--gi-yellow); /* Marqueur actif jaune */
+}
+
+/* --- 3. COMPOSANTS UI & BOUTONS --- */
+
+/* Bouton Primaire (Jaune getinside) */
+.btn-primary {
+  background-color: var(--gi-yellow) !important;
+  color: var(--gi-black) !important;
+  border: 1px solid var(--gi-black) !important;
+  font-family: var(--font-ui);
+  font-weight: 600 !important;
+  border-radius: 4px !important; /* Coins légèrement arrondis comme sur la charte */
+  box-shadow: 2px 2px 0px var(--gi-black) !important; /* Effet "Brutalist" */
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0px var(--gi-black) !important;
+}
+
+/* Bouton Violet (Action Éditeur) */
+.btn-purple {
+  background-color: var(--gi-purple) !important;
+  color: white !important;
+  border: 1px solid var(--gi-purple) !important;
+  font-family: var(--font-ui);
+  font-weight: 600 !important;
+  border-radius: 4px !important;
+}
+
+/* Bouton Outline */
+.btn-outline {
+  background-color: transparent !important;
+  border: 1px solid #E1E4E8 !important;
+  color: var(--gi-black) !important;
+  font-family: var(--font-ui);
+}
+
+/* --- 4. ACCENTS & COULEURS --- */
+
+/* Liens dans le texte */
+a {
+  color: #8E44AD !important; /* Violet foncé pour la lisibilité sur fond clair */
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--gi-yellow);
+  text-decoration-thickness: 3px;
+}
+
+/* Textes colorés (Utilitaires) */
+.text-blue-200, .text-purple-200 { color: var(--gi-black) !important; } /* On force le noir pour les titres */
+.text-green-200 { color: #0f8a6f !important; } /* Vert lisible */
+.text-red-200 { color: var(--gi-red) !important; }
+
+/* Cadres et Bordures */
+div[style*="border-radius"] {
+  background-color: var(--gi-white) !important;
+  border: 1px solid #E5E5E5 !important;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+}
+
+/* Mise en avant Jaune (Branding) */
+/* On applique le jaune sur certains éléments de focus */
+.bg-yellow-000 {
+  background-color: var(--gi-yellow) !important;
+  color: var(--gi-black) !important;
+  border: 1px solid var(--gi-black) !important;
+}
+
+/* --- 5. LOGO DANS LE HEADER --- */
+/* Si vous avez l'image du logo */
+/*
+.site-header-logo {
+  max-height: 40px;
+}
+*/
