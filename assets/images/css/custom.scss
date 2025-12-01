@@ -1,111 +1,118 @@
 ---
 ---
+
 /* --- 1. VARIABLES DE LA CHARTE GETINSIDE --- */
 :root {
   /* Couleurs Primaires */
   --gi-yellow: #FDFD36;
   --gi-black: #1D1D1B;
   --gi-white: #FFFFFF;
-  --gi-off-white: #F9F9F7; /* Couleur de fond "Greys/Neutrals" */
+  --gi-off-white: #F9F9F7;
   
-  /* Couleurs Secondaires (Accents) */
+  /* Couleurs Secondaires */
   --gi-purple: #BE63F9;
   --gi-green: #25D0AB;
-  --gi-orange: #FF8F1F;
   --gi-red: #FF5660;
 
   /* Polices */
-  --font-heading: 'Space Grotesk', sans-serif; /* Remplacement style Garnett */
+  --font-heading: 'Space Grotesk', sans-serif;
   --font-body: 'Public Sans', sans-serif;
   --font-ui: 'Inter', sans-serif;
 }
 
-/* --- 2. SURCHARGE DU THÈME (OVERRIDES) --- */
+/* --- 2. SURCHARGE DU THÈME --- */
 
-/* Fond général et Typographie */
+/* Fond général */
 body {
   background-color: var(--gi-off-white) !important;
   color: var(--gi-black) !important;
   font-family: var(--font-body) !important;
 }
 
-/* Titres (Headings) */
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-heading) !important;
-  color: var(--gi-black) !important;
-  letter-spacing: -0.02em; /* Style géométrique serré */
+/* Zone de contenu principale */
+.main-content {
+  background-color: var(--gi-off-white) !important;
 }
 
-h1 { font-weight: 700; }
-
-/* Menu Latéral (Sidebar) */
-.site-nav {
+.side-bar {
   background-color: var(--gi-off-white) !important;
   border-right: 1px solid #E5E5E5;
 }
 
+/* Titres */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading) !important;
+  color: var(--gi-black) !important;
+  letter-spacing: -0.02em;
+}
+h1 { font-weight: 700 !important; }
+
+/* Titre du site (Menu) */
 .site-title {
   font-family: var(--font-heading) !important;
   font-weight: 700 !important;
-  font-size: 24px !important;
-  letter-spacing: -0.03em;
   color: var(--gi-black) !important;
-  background-image: none !important; /* Retire le soulignement par défaut */
 }
 
 /* Liens du menu */
 .nav-list .nav-list-item .nav-list-link {
-  font-family: var(--font-ui);
+  font-family: var(--font-ui) !important;
   color: #555 !important;
 }
 .nav-list .nav-list-item .nav-list-link.active {
   color: var(--gi-black) !important;
-  font-weight: 600;
-  border-left: 3px solid var(--gi-yellow); /* Marqueur actif jaune */
+  font-weight: 700 !important;
+  border-left-color: var(--gi-yellow) !important;
 }
 
-/* --- 3. COMPOSANTS UI & BOUTONS --- */
+/* --- 3. BOUTONS --- */
 
-/* Bouton Primaire (Jaune getinside) */
+.btn {
+  font-family: var(--font-ui) !important;
+  font-weight: 600 !important;
+  border-radius: 4px !important;
+  transition: all 0.2s ease !important;
+}
+
+/* Bouton Primaire (Jaune) */
 .btn-primary {
   background-color: var(--gi-yellow) !important;
   color: var(--gi-black) !important;
   border: 1px solid var(--gi-black) !important;
-  font-family: var(--font-ui);
-  font-weight: 600 !important;
-  border-radius: 4px !important; /* Coins légèrement arrondis comme sur la charte */
-  box-shadow: 2px 2px 0px var(--gi-black) !important; /* Effet "Brutalist" */
-  transition: all 0.2s ease;
+  box-shadow: 2px 2px 0px var(--gi-black) !important; /* Effet Brutalist */
 }
-
 .btn-primary:hover {
   transform: translate(-1px, -1px);
   box-shadow: 4px 4px 0px var(--gi-black) !important;
+  text-decoration: none !important;
 }
 
-/* Bouton Violet (Action Éditeur) */
+/* Bouton Violet */
 .btn-purple {
   background-color: var(--gi-purple) !important;
   color: white !important;
   border: 1px solid var(--gi-purple) !important;
-  font-family: var(--font-ui);
-  font-weight: 600 !important;
-  border-radius: 4px !important;
+}
+.btn-purple:hover {
+  background-color: #a64ce0 !important;
+  text-decoration: none !important;
 }
 
 /* Bouton Outline */
 .btn-outline {
   background-color: transparent !important;
-  border: 1px solid #E1E4E8 !important;
+  border: 1px solid #ccc !important;
   color: var(--gi-black) !important;
-  font-family: var(--font-ui);
+}
+.btn-outline:hover {
+  border-color: var(--gi-black) !important;
+  text-decoration: none !important;
 }
 
-/* --- 4. ACCENTS & COULEURS --- */
+/* --- 4. TEXTES & LIENS --- */
 
-/* Liens dans le texte */
 a {
-  color: #8E44AD !important; /* Violet foncé pour la lisibilité sur fond clair */
+  color: #7253ed; /* Couleur par défaut des liens */
   text-decoration: none;
 }
 a:hover {
@@ -114,30 +121,21 @@ a:hover {
   text-decoration-thickness: 3px;
 }
 
-/* Textes colorés (Utilitaires) */
-.text-blue-200, .text-purple-200 { color: var(--gi-black) !important; } /* On force le noir pour les titres */
-.text-green-200 { color: #0f8a6f !important; } /* Vert lisible */
-.text-red-200 { color: var(--gi-red) !important; }
+/* Classes utilitaires de texte */
+.text-blue-200 { color: var(--gi-black) !important; } /* On remplace le bleu par le noir charte */
+.text-purple-200 { color: var(--gi-purple) !important; }
+.text-green-200 { color: var(--gi-green) !important; }
+.text-grey-dk-000 { color: var(--gi-black) !important; }
 
-/* Cadres et Bordures */
+/* Cartes et Blocs */
 div[style*="border-radius"] {
   background-color: var(--gi-white) !important;
-  border: 1px solid #E5E5E5 !important;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+  border-color: #E5E5E5 !important;
 }
 
-/* Mise en avant Jaune (Branding) */
-/* On applique le jaune sur certains éléments de focus */
+/* Mise en avant Jaune */
 .bg-yellow-000 {
   background-color: var(--gi-yellow) !important;
   color: var(--gi-black) !important;
   border: 1px solid var(--gi-black) !important;
 }
-
-/* --- 5. LOGO DANS LE HEADER --- */
-/* Si vous avez l'image du logo */
-/*
-.site-header-logo {
-  max-height: 40px;
-}
-*/
