@@ -1,34 +1,39 @@
 // --------------------------------------------------------
-// 1. PALETTE MONOCHROME
+// 1. PALETTE GETINSIDE (Sobriété)
 // --------------------------------------------------------
 $gi-white:      #FFFFFF;
-$gi-beige:      #F7F6F3;
-$gi-grey-btn:   #ECEBEA; // Gris bouton
-$gi-grey-dark:  #333333;
-$gi-black:      #111111;
+$gi-beige:      #F7F6F3; // Fond du site
+$gi-black:      #282824; // Le nouveau noir demandé
+$gi-grey-light: #ECEBEA; // Hover et éléments sélectionnés
+$gi-grey-border:#E1E1E1;
 
 // --------------------------------------------------------
-// 2. SURCHARGE DES VARIABLES DU THÈME
+// 2. SURCHARGE DU THÈME
 // --------------------------------------------------------
 
+// Couleurs de base
 $body-background-color: $gi-beige;
-$sidebar-color:         $gi-white;
 $body-text-color:       $gi-black;
 $body-heading-color:    $gi-black;
-$link-color:            $gi-black;
+$link-color:            $gi-black; // Les liens sont noirs (soulignés par le CSS)
 
-$sidebar-border-color:  #E1E1E1;
-$nav-child-link-color:  $gi-grey-dark;
+// Navigation (Sidebar)
+$sidebar-color:         $gi-white;
+$sidebar-border-color:  $gi-grey-border;
+$nav-child-link-color:  lighten($gi-black, 20%); // Un peu plus clair pour la hiérarchie
 
+// Composants
 $code-background-color: $gi-white;
-$table-header-background-color: $gi-grey-btn;
+$table-header-background-color: $gi-grey-light;
 $table-background-color: $gi-white;
-$border-color:          #E1E1E1;
+$border-color:          $gi-grey-border;
 
+// Recherche
 $search-background-color: $gi-white;
 
-// --- CORRECTION BOUTONS ---
-// On force les variables SASS du thème à utiliser le gris
-$btn-primary-color: $gi-black;
-$btn-primary-background-color: $gi-grey-btn;
-$btn-primary-border-color: darken($gi-grey-btn, 10%);
+// --------------------------------------------------------
+// 3. RETOUR AUX POLICES PAR DÉFAUT
+// --------------------------------------------------------
+// On ne charge pas de Google Font, on laisse le système choisir (Apple, Segoe UI...)
+$system-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$heading-font-family: $system-font-family; // Même police pour les titres
