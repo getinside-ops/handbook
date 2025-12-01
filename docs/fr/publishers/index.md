@@ -3,6 +3,7 @@ layout: default
 title: Espace Éditeurs
 has_children: true
 nav_order: 2
+toc: false
 ---
 
 # Espace Éditeurs & E-commerçants

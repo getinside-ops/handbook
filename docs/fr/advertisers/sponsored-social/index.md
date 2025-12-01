@@ -4,6 +4,7 @@ title: Social Ads
 parent: Espace Annonceurs
 has_children: true
 nav_order: 4
+toc: false
 ---
 
 # Sponsored Social (Retail Media)

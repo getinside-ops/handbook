@@ -1,82 +1,70 @@
 ---
 layout: default
-title: Stratégie & Contenu
+title: Spécifications Print
 parent: Guide de Conception
 grand_parent: Asile Colis
-nav_order: 2
+nav_order: 3
 toc: false
 ---
 
-# Définition de la campagne
+# Spécifications Techniques
 {: .fs-9 }
 
-Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique claire, une expérience fluide et une offre irrésistible.
+Les contraintes impératives pour garantir une qualité d'impression optimale.
 {: .fs-6 .fw-300 }
 
 <hr class="my-6">
 
-<h2 class="text-blue-200 mb-4">1. La Mécanique</h2>
+<h2 class="text-blue-200 mb-4">📐 Formats et Dimensions</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
+<!-- Tableau en Markdown natif -->
+
+| Format | Format fini (Découpé) | Format fichier (Avec fond perdu) | Zone tranquille |
+| :--- | :--- | :--- | :--- |
+| **A5** | 148 x 210 mm | **152 x 214 mm** | 3 mm internes |
+| **A6** | 105 x 148 mm | **109 x 152 mm** | 3 mm internes |
+| **Carte** | 105 x 148 mm | **109 x 152 mm** | Voir Gabarit |
+
+<br>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="flex: 1; background: #ffeef0; border: 1px solid #fdaeb7; padding: 15px; border-radius: 6px;">
+    <strong class="text-red-100">Fond Perdu (Bleed) : 2mm</strong><br>
+    La matière (image/fond) doit déborder de 2mm à l'extérieur du format fini pour éviter les liserés blancs à la coupe.
+  </div>
+  <div style="flex: 1; background: #f0fcf4; border: 1px solid #28a745; padding: 15px; border-radius: 6px;">
+    <strong class="text-green-200">Zone Tranquille : 3mm</strong><br>
+    Aucun texte ni logo important ne doit se trouver à moins de 3mm du bord intérieur.
+  </div>
+</div>
+
+<h2 class="text-blue-200 mb-4">🌐 Fichiers & Couleurs</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 fs-4">🏷️ Promotion</h3>
-    <p class="mb-2 text-grey-dk-000"><em>"Scannez pour obtenir une offre exclusive"</em></p>
-    <p class="mb-0">Idéal pour la conversion immédiate.</p>
+    <h3 class="mt-0 fs-4">📁 Type de fichier</h3>
+    <ul class="mb-0">
+      <li class="mb-2"><strong>PDF/X (Vectoriel) :</strong> À privilégier. Incorporez les polices.</li>
+      <li><strong>JPG / PNG (Matriciel) :</strong> Accepté si <strong>300 DPI minimum</strong>.</li>
+    </ul>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 fs-4">🎲 Jeux / Concours</h3>
-    <p class="mb-2 text-grey-dk-000"><em>"Flashez pour tourner la roue"</em></p>
-    <p class="mb-0">Idéal pour l'engagement et la collecte de leads.</p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 fs-4">📱 Drive to App</h3>
-    <p class="mb-2 text-grey-dk-000"><em>"Téléchargez l'app pour débloquer..."</em></p>
-    <p class="mb-0">Pour l'acquisition d'utilisateurs mobiles.</p>
-  </div>
-  
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 fs-4">⭐ Feedback</h3>
-    <p class="mb-2 text-grey-dk-000"><em>"Donnez votre avis contre un cadeau"</em></p>
-    <p class="mb-0">Pour enrichir la connaissance client.</p>
+    <h3 class="mt-0 fs-4">🎨 Colorimétrie</h3>
+    <ul class="mb-0">
+      <li class="mb-2"><strong>Mode :</strong> CMJN (Cyan Magenta Jaune Noir) obligatoire. Pas de RVB.</li>
+      <li class="mb-2"><strong>Profil :</strong> Coated FOGRA39.</li>
+      <li><strong>Taux d'encrage :</strong> Max 300%.</li>
+    </ul>
   </div>
 
 </div>
 
-<h2 class="text-blue-200 mb-4">2. L'Expérience</h2>
-
-<div style="background-color: #f6f8fa; border-left: 4px solid #2d6fd6; padding: 20px; border-radius: 4px; margin-bottom: 40px;">
-  <h3 class="mt-0 text-blue-200">📱 Pensez Mobile First</h3>
-  <p>L'expérience post-scan se fait à 99% sur smartphone.</p>
-  <ul>
-    <li>Votre Landing Page <strong>doit</strong> être responsive.</li>
-    <li>Le temps de chargement doit être immédiat (3G/4G).</li>
-    <li>Le formulaire doit être court.</li>
-  </ul>
-</div>
-
-<h2 class="text-blue-200 mb-4">3. L'Offre</h2>
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-  <div style="flex: 1; border: 1px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 8px;">
-    <h3 class="mt-0 text-green-200">✅ Valeur Monétaire</h3>
-    <p class="fs-4 mb-0"><strong>"10€ offerts"</strong></p>
-    <p>Beaucoup plus concret et percutant qu'un pourcentage.</p>
-  </div>
-
-  <div style="flex: 1; border: 1px solid #e1e4e8; background-color: #fff; padding: 20px; border-radius: 8px;">
-    <h3 class="mt-0 text-grey-dk-000">🤔 Pourcentage</h3>
-    <p class="fs-4 mb-0">"-10% de réduction"</p>
-    <p>Souvent perçu comme une simple "taxe en moins". Moins incitatif.</p>
-  </div>
-  
-  <div style="flex: 1; border: 1px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 8px;">
-    <h3 class="mt-0 text-green-200">🎁 Produit Offert</h3>
-    <p class="fs-4 mb-0"><strong>"Votre accessoire offert"</strong></p>
-    <p>Très fort levier psychologique (Cadeau vs Économie).</p>
-  </div>
-
+<div class="mt-4 p-4 bg-grey-lt-000 border rounded-1">
+  <h4 class="mt-0">⚫ Gestion du Noir</h4>
+  <p class="mb-0">
+    Pour les <strong>textes</strong> : Utilisez du Noir pur (N100%).<br>
+    Pour les <strong>aplat (fonds)</strong> : Utilisez un noir soutenu (C30% M30% J30% N100%) pour plus de profondeur.
+  </p>
 </div>

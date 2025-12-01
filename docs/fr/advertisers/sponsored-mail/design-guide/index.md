@@ -73,9 +73,9 @@ De la stratégie créative à la validation technique : tout pour réussir vos v
 
 <h2 class="text-grey-dk-000 mb-4">📥 Ressources à télécharger</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px;">
+  <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" class="btn btn-outline" style="text-align: left; border-color: #2d6fd6; color: #2d6fd6;">✨ <strong>Inspirations & Exemples</strong> <span class="fs-2"> (Google Slides)</span></a>
   <a href="#" class="btn btn-outline" style="text-align: left;">📂 <strong>Gabarits</strong> (.ai, .pdf)</a>
   <a href="#" class="btn btn-outline" style="text-align: left;">🖼️ <strong>Logos obligatoires</strong> (.svg)</a>
-  <a href="#" class="btn btn-outline" style="text-align: left;">✨ <strong>Inspirations V1.3</strong> (.pdf)</a>
   <a href="#" class="btn btn-outline" style="text-align: left;">✅ <strong>Check-list Contrôle</strong></a>
 </div>

@@ -1,40 +1,40 @@
-title: Handbook
-description: Le mode d'emploi getinside
-url: "https://getinside-ops.github.io"
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
 
-# Le Thème
-remote_theme: pmarsceill/just-the-docs
+title: Help Center
+description: Official knowledge base for getinside Retail Media operations.
+url: https://getinside-ops.github.io/handbook
+baseurl: /handbook
 
-# 1. Branding (Logo)
-#logo: "/assets/images/logo-getinside.png"
-favicon_ico: "/assets/images/favicon.ico"
+# Le thème officiel
+remote_theme: just-the-docs/just-the-docs
 
-# 2. Mode Sombre (Automatique)
-color_scheme: nil
+# Schéma de couleur par défaut (Light = Violet)
+color_scheme: light
 
-# 3. Recherche
+# -----------------------------------------------------------------------------
+# Navigation & Recherche
+# -----------------------------------------------------------------------------
+
 search_enabled: true
-search:
-  heading_level: 2
-  previews: 3
+search_tokenizer_separator: /[\s/]+/
 
-# 4. Switch Langue (En haut à droite)
+# Liens en haut à droite
 aux_links:
-  "🇬🇧 English":
-    - "/docs/en"
-  "🇫🇷 Français":
-    - "/docs/fr"
+  "Accès SaaS":
+    - "https://app.getinside.media/"
+  "Site Web":
+    - "https://getinside.fr/"
 
-# Plugins techniques
-plugins:
-  - jekyll-seo-tag
+# -----------------------------------------------------------------------------
+# Footer
+# -----------------------------------------------------------------------------
 
-
-# Footer du menu de gauche
 footer_content: "Copyright &copy; 2025 getinside."
 
 # -----------------------------------------------------------------------------
-# Valeurs par défaut pour toutes les pages
+# Configuration par défaut
 # -----------------------------------------------------------------------------
 defaults:
   - scope:
