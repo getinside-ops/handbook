@@ -1,179 +1,121 @@
-<!-- 1. CHARGEMENT DES POLICES (Space Grotesk + Public Sans + Inter) -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Public+Sans:wght@300;400;600&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
-
 <style>
-  /* --- VARIABLES CHARTE SAAS --- */
+  /* --- COULEURS GETINSIDE --- */
   :root {
-    --gi-yellow: #FDFD36;      /* Jaune SaaS */
-    --gi-black: #1D1D1B;       /* Noir Profond */
-    --gi-bg-app: #F9F9F7;      /* Fond Beige/Gris SaaS */
-    --gi-bg-sidebar: #FFFFFF;  /* Fond Menu Blanc */
-    --gi-purple: #7253ed;      /* Violet secondaire */
-    --gi-border: #EAEAEA;      /* Bordures subtiles */
-    
-    /* Typographies */
-    --font-heading: 'Space Grotesk', sans-serif;
-    --font-body: 'Public Sans', sans-serif;
-    --font-ui: 'Inter', sans-serif;
+    --gi-bg: #F7F6F3;        /* Fond Beige */
+    --gi-white: #FFFFFF;     /* Fond Sidebar & Cartes */
+    --gi-yellow: #FCF758;    /* Boutons Primaires */
+    --gi-selected: #ECEBEA;  /* Éléments survolés/actifs */
+    --gi-text: #333333;      /* Texte standard */
+    --gi-purple: #7253ed;    /* Conserver le violet pour les actions éditeurs */
   }
 
-  /* --- STRUCTURE GÉNÉRALE (LOOK "APP") --- */
+  /* --- 1. STRUCTURE & FONDS --- */
   
-  /* Fond global beige comme le SaaS */
-  body, html, .main-content-wrap, .main-content {
-    background-color: var(--gi-bg-app) !important;
-    color: var(--gi-black) !important;
-    font-family: var(--font-body) !important;
+  /* Fond principal beige */
+  body, html, .main-content {
+    background-color: var(--gi-bg) !important;
+    color: var(--gi-text) !important;
   }
 
-  /* --- SIDEBAR (MENU GAUCHE) --- */
-  
-  /* Le menu doit être Blanc pour se détacher du fond beige */
-  .side-bar, .site-nav {
-    background-color: var(--gi-bg-sidebar) !important;
-    border-right: 1px solid var(--gi-border) !important;
+  /* Sidebar (Menu Gauche) en Blanc pur */
+  .site-nav, .side-bar {
+    background-color: var(--gi-white) !important;
+    border-right: 1px solid var(--gi-selected) !important;
   }
 
-  /* Titre du site (En haut à gauche) */
-  .site-title {
-    font-family: var(--font-heading) !important;
-    font-weight: 700 !important;
-    font-size: 20px !important;
-    letter-spacing: -0.5px;
-    color: var(--gi-black) !important;
-    background-image: none !important; /* Retire les pointillés */
-    padding-top: 20px;
+  /* Header mobile */
+  .site-header {
+    background-color: var(--gi-white) !important;
+    border-bottom: 1px solid var(--gi-selected) !important;
   }
+
+  /* --- 2. MENU DE NAVIGATION --- */
 
   /* Liens du menu */
   .nav-list-link {
-    font-family: var(--font-ui) !important;
-    font-size: 14px !important;
-    font-weight: 500 !important;
-    color: #666 !important; /* Gris moyen pour le repos */
-    padding: 8px 0 !important;
+    color: #5c5962 !important;
+    border-radius: 4px;
+    transition: background-color 0.1s ease;
   }
 
-  /* Lien Actif : Texte Noir + Barre Jaune verticale */
+  /* Lien Actif (Page en cours) */
   .nav-list-link.active {
-    color: var(--gi-black) !important;
-    font-weight: 700 !important;
-    background-image: linear-gradient(-90deg, var(--gi-yellow) 0%, var(--gi-yellow) 100%) !important;
-    background-size: 4px 100% !important; /* Petite barre jaune */
-    background-repeat: no-repeat;
-    background-position: left center;
-    padding-left: 12px !important; /* Espace pour la barre */
+    background-color: var(--gi-selected) !important;
+    color: #000 !important;
+    font-weight: 600 !important;
+    background-image: none !important; /* Retire la barre du thème par défaut */
   }
-  
+
   /* Survol des liens */
   .nav-list-link:hover {
-    color: var(--gi-black) !important;
-    text-decoration: none !important;
+    background-color: var(--gi-selected) !important;
+    color: #000 !important;
   }
 
-  /* --- CONTENU PRINCIPAL --- */
-
-  /* Titres (H1, H2...) */
-  h1, h2, h3, h4 {
-    font-family: var(--font-heading) !important;
-    color: var(--gi-black) !important;
-    letter-spacing: -0.03em; /* Crénage serré style SaaS */
-  }
-  
-  h1 { font-weight: 700 !important; margin-bottom: 1rem !important; }
-  h2 { margin-top: 2.5rem !important; font-weight: 600 !important; }
-
-  /* Liens dans le texte */
-  .main-content a {
-    color: var(--gi-purple) !important;
-    text-decoration: none !important;
-    font-weight: 500;
-  }
-  .main-content a:hover {
-    text-decoration: underline;
-    text-decoration-color: var(--gi-yellow);
-    text-decoration-thickness: 3px;
+  /* Barre de recherche (Contraste sur fond blanc) */
+  .search-input {
+    background-color: var(--gi-bg) !important;
+    border: 1px solid var(--gi-selected) !important;
+    color: var(--gi-text) !important;
   }
 
-  /* --- COMPOSANTS (BOUTONS & CARTES) --- */
+  /* --- 3. BOUTONS & ACTIONS --- */
 
-  /* Boutons : Style "Brutalist" du SaaS (Carrés ou peu arrondis) */
-  .btn {
-    font-family: var(--font-ui) !important;
-    border-radius: 4px !important;
-    font-weight: 600 !important;
-    text-transform: none !important;
-    padding: 10px 20px !important;
-    transition: all 0.1s ease !important;
-  }
-
-  /* Bouton Primaire = JAUNE (Comme "Créer une campagne") */
+  /* Bouton Primaire (JAUNE getinside) */
   .btn-primary {
     background-color: var(--gi-yellow) !important;
-    color: var(--gi-black) !important;
-    border: 1px solid var(--gi-black) !important; /* Contour noir fin */
-    box-shadow: none !important; /* Style flat du SaaS */
+    color: #000000 !important; /* Texte noir pour le contraste */
+    border: 1px solid #EBE64D !important; /* Bordure subtile */
+    font-weight: 600 !important;
   }
+  
   .btn-primary:hover {
-    background-color: #fcfc5e !important; /* Jaune un peu plus clair */
+    background-color: #FDFD36 !important; /* Légère variation au survol */
     transform: translateY(-1px);
-    box-shadow: 2px 2px 0px rgba(0,0,0,0.1) !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   }
 
-  /* Bouton Violet (Actions secondaires) */
+  /* Bouton Violet (Pour différencier l'espace éditeur) */
   .btn-purple {
     background-color: var(--gi-purple) !important;
     color: #fff !important;
     border: none !important;
   }
-  .btn-purple:hover {
-    background-color: #5e43c9 !important;
-    text-decoration: none !important;
-  }
 
-  /* Bouton Outline (Contour simple) */
+  /* Bouton Outline (Contour) */
   .btn-outline {
-    background-color: #fff !important;
-    border: 1px solid #ddd !important;
-    color: var(--gi-black) !important;
+    background-color: var(--gi-white) !important;
+    border: 1px solid #ccc !important;
+    color: #333 !important;
   }
-  .btn-outline:hover {
-    border-color: var(--gi-black) !important;
-    background-color: #f9f9f9 !important;
+
+  /* --- 4. CARTES & CONTENU --- */
+
+  /* Les cartes (Box) doivent être blanches pour ressortir sur le fond beige */
+  div[style*="border-radius"] {
+    background-color: var(--gi-white) !important;
+    border-color: #E1E1E1 !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02); /* Ombre très douce */
+  }
+
+  /* Ajustement des titres pour qu'ils soient bien noirs */
+  h1, h2, h3 {
+    color: #000000 !important;
+  }
+
+  /* Liens dans le texte */
+  .main-content a {
+    color: var(--gi-purple) !important;
     text-decoration: none !important;
   }
-
-  /* --- CARTES & BLOCS --- */
-  
-  /* Cartes Blanches sur fond Beige */
-  div[style*="border-radius"] {
-    background-color: #FFFFFF !important; /* Fond blanc pur */
-    border: 1px solid var(--gi-border) !important;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.02) !important; /* Ombre très légère */
-  }
-
-  /* Input de recherche */
-  .search-input {
-    background-color: #fff !important;
-    border: 1px solid #ddd !important;
-    border-radius: 6px !important;
-    font-family: var(--font-ui) !important;
-    color: var(--gi-black) !important;
-    padding: 8px 12px !important;
+  .main-content a:hover {
+    text-decoration: underline;
   }
   
-  /* Footer Sidebar */
+  /* Footer du menu */
   .site-footer {
-    font-size: 11px;
+    border-top: 1px solid var(--gi-selected);
     color: #999;
-    border-top: 1px solid var(--gi-border);
-    margin-top: 20px;
-    padding-top: 20px;
   }
-  
-  /* Disclaimer : Retirer le "This site uses Just the Docs" visuellement si besoin */
-  /* .site-footer span { display: none; } */
 
 </style>
