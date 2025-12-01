@@ -7,10 +7,11 @@ description: "getinside Help Center: Official guides and documentation."
 ---
 
 <h1>getinside Help Center</h1>
-<body>
+<p>
   La base de connaissances officielle pour les opérations de Retail Media.
   Centralisez vos processus, spécifications et guides opérationnels.
-<body>
+
+<p>
 
 <!-- BOUTONS DU HAUT -->
 <div class="d-flex flex-wrap mb-6">
@@ -39,7 +40,7 @@ description: "getinside Help Center: Official guides and documentation."
     </div>
     
     <div class="mt-4 pt-4 border-top">
-      <a href="docs/fr/advertisers/" class="fs-5 fw-700 text-blue-200 no-underline">Voir toute la documentation &rarr;</a>
+      <a href="docs/fr/advertisers/" >Voir toute la documentation &rarr;</a>
     </div>
   </div>
 
