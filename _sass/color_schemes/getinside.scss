@@ -1,36 +1,34 @@
 // --------------------------------------------------------
-// 1. DÉFINITION DES COULEURS GETINSIDE
+// 1. PALETTE MONOCHROME (NOIR / BLANC / BEIGE / GRIS)
 // --------------------------------------------------------
+$gi-white:      #FFFFFF;
 $gi-beige:      #F7F6F3; // Fond du site
-$gi-white:      #FFFFFF; // Sidebar
-$gi-yellow:     #EBE82D; // Jaune (Bouton Primaire)
-$gi-mint:       #6AE7C8; // Menthe (Bouton Secondaire)
-$gi-grey:       #ECEBEA; // Hover / Selected
+$gi-grey-light: #ECEBEA; // Boutons & Hovers
+$gi-grey-dark:  #333333;
 $gi-black:      #111111; // Texte
-$gi-border:     #E1E1E1;
 
 // --------------------------------------------------------
-// 2. MAPPING DES VARIABLES DU THÈME
+// 2. SURCHARGE DU THÈME
 // --------------------------------------------------------
 
-// Fonds et Textes
+// Fonds
 $body-background-color: $gi-beige;
 $sidebar-color:         $gi-white;
+
+// Textes
 $body-text-color:       $gi-black;
 $body-heading-color:    $gi-black;
+$link-color:            $gi-black; // Force les liens en noir
 
 // Navigation
-$sidebar-border-color:  $gi-border;
-$nav-child-link-color:  #444;
+$sidebar-border-color:  #E1E1E1;
+$nav-child-link-color:  $gi-grey-dark;
 
-// Liens (Noir pour la lisibilité)
-$link-color:            $gi-black;
-
-// Composants (Code & Tableaux)
-$code-background-color: $gi-grey;
-$table-header-background-color: $gi-grey;
+// Composants
+$code-background-color: $gi-white;
+$table-header-background-color: $gi-grey-light;
 $table-background-color: $gi-white;
-$border-color:          $gi-border;
+$border-color:          #E1E1E1;
 
-// Barre de recherche (Fond blanc pour ressortir sur le beige)
+// Recherche
 $search-background-color: $gi-white;

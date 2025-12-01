@@ -1,132 +1,123 @@
-<!-- Chargement des polices système par défaut (Clean & Rapide) -->
-
 <style>
-  /* --- 1. ESTHÉTIQUE GÉNÉRALE --- */
-  
-  /* Force le fond beige global */
-  body, .main-content {
-    background-color: #F7F6F3 !important;
-    color: #111 !important;
+  /* --- 1. RESET GLOBAL & COULEURS --- */
+  :root {
+    --gi-bg: #F7F6F3;
+    --gi-white: #FFFFFF;
+    --gi-grey-btn: #ECEBEA; /* Gris clair pour les boutons */
+    --gi-grey-hover: #E0E0E0; /* Gris un peu plus foncé pour le survol */
+    --gi-black: #111111;
   }
 
-  /* Sidebar Blanche + Bordure fine */
+  body, html, .main-content {
+    background-color: var(--gi-bg) !important;
+    color: var(--gi-black) !important;
+  }
+
+  /* --- 2. SIDEBAR (MENU GAUCHE) --- */
+  
   .side-bar, .site-nav {
-    background-color: #FFFFFF !important;
+    background-color: var(--gi-white) !important;
     border-right: 1px solid #E1E1E1 !important;
   }
 
-  /* Titre du site */
-  .site-title {
-    color: #111 !important;
-    font-weight: 800 !important;
-  }
-
-  /* --- 2. NAVIGATION & MENU --- */
-
-  /* Liens du menu */
   .nav-list-link {
-    color: #444 !important;
+    color: #444 !important; /* Gris foncé par défaut */
     border-radius: 4px;
     transition: background-color 0.1s ease;
   }
 
-  /* Survol (Gris Clair) */
+  /* SURVOL MENU : Juste du gris, pas de violet */
   .nav-list-link:hover {
-    background-color: #ECEBEA !important;
-    color: #000 !important;
+    background-color: var(--gi-grey-btn) !important;
+    color: var(--gi-black) !important;
     text-decoration: none !important;
   }
 
-  /* Actif (Gris Clair + Marqueur Jaune) */
+  /* ACTIF MENU : Gris, Texte noir, PAS DE BARRE JAUNE */
   .nav-list-link.active {
-    background-color: #ECEBEA !important;
-    color: #000 !important;
-    font-weight: 700 !important;
-    background-image: none !important;
-    border-left: 4px solid #EBE82D !important;
+    background-color: var(--gi-grey-btn) !important;
+    color: var(--gi-black) !important;
+    font-weight: 700;
+    background-image: none !important; /* Supprime l'image de fond du thème */
+    border-left: none !important;      /* Supprime la barre verticale */
   }
 
-  /* --- 3. BARRE DE RECHERCHE --- */
-  
-  /* Style plat sans bordure moche */
-  .search-input {
-    background-color: #FFFFFF !important;
-    border: 1px solid transparent !important;
-    color: #111 !important;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-  }
-  .search-input:focus {
-    border: 1px solid #EBE82D !important;
-    box-shadow: none !important;
+  /* --- 3. LIENS & TEXTE (PAS DE SOULIGNEMENT) --- */
+
+  /* Liens dans le contenu : Noir et sans soulignement par défaut */
+  .main-content a {
+    color: var(--gi-black) !important;
+    text-decoration: none !important; /* Retrait du soulignement menthe/bleu */
+    font-weight: 600; /* Juste un peu de gras pour les distinguer */
   }
 
-  /* --- 4. BOUTONS (MONOCHROMES & LISIBLES) --- */
+  /* Au survol : Soulignement simple noir */
+  .main-content a:hover {
+    text-decoration: underline !important;
+    text-decoration-color: var(--gi-black) !important;
+    background-color: transparent !important;
+  }
+
+  /* Nettoyage des titres colorés */
+  h1, h2, h3, h4, .text-purple-200, .text-blue-200, .text-green-200 {
+    color: var(--gi-black) !important;
+  }
+
+  /* --- 4. BOUTONS (GRIS CLAIR / TEXTE NOIR) --- */
 
   .btn {
     font-weight: 700 !important;
     border-radius: 4px !important;
     text-transform: none !important;
-    color: #111 !important; /* Texte Noir forcé partout */
     padding: 8px 16px !important;
-    transition: all 0.2s ease !important;
+    transition: all 0.2s ease;
+    
+    /* STYLE UNIQUE POUR TOUS LES BOUTONS */
+    background-color: var(--gi-grey-btn) !important;
+    color: var(--gi-black) !important;
+    border: 1px solid #D1D1D1 !important;
+    box-shadow: none !important;
   }
 
-  /* Primaire (Jaune) */
-  .btn-primary {
-    background-color: #EBE82D !important;
-    border: 1px solid #D4D120 !important; /* Bordure un peu plus foncée */
-  }
-  .btn-primary:hover {
-    background-color: #FDFD36 !important; /* Éclaircit au survol */
+  /* Au survol des boutons */
+  .btn:hover {
+    background-color: var(--gi-grey-hover) !important;
+    text-decoration: none !important;
     transform: translateY(-1px);
-    text-decoration: none !important;
   }
 
-  /* Secondaire / Éditeur (Menthe) - Remplace le violet */
-  .btn-purple {
-    background-color: #6AE7C8 !important;
-    color: #111 !important;
-    border: 1px solid #4BC7A8 !important;
-  }
-  .btn-purple:hover {
-    background-color: #7EFBDC !important;
-    color: #111 !important;
-    text-decoration: none !important;
+  /* On écrase spécifiquement les anciennes classes de couleur */
+  .btn-primary, .btn-purple, .btn-outline {
+    background-color: var(--gi-grey-btn) !important;
+    color: var(--gi-black) !important;
+    border-color: #D1D1D1 !important;
   }
 
-  /* Outline (Contour) */
-  .btn-outline {
-    background-color: #FFFFFF !important;
-    border: 1px solid #ccc !important;
-    color: #111 !important;
-  }
-  .btn-outline:hover {
-    background-color: #ECEBEA !important;
-    text-decoration: none !important;
-  }
+  /* --- 5. COMPOSANTS DIVERS --- */
 
-  /* --- 5. CARTES & CONTENU --- */
-
-  /* Cartes blanches sur fond beige */
+  /* Cartes blanches */
   div[style*="border-radius"], .card {
-    background-color: #FFFFFF !important;
+    background-color: var(--gi-white) !important;
     border-color: #E1E1E1 !important;
   }
 
-  /* Liens dans le texte (Souligné Menthe) */
-  .main-content a {
-    color: #111 !important;
-    text-decoration: underline;
-    text-decoration-color: #6AE7C8;
-    text-decoration-thickness: 2px;
+  /* Barre de recherche propre */
+  .search-input {
+    background-color: var(--gi-bg) !important;
+    border: 1px solid #ddd !important;
+    color: var(--gi-black) !important;
+    border-radius: 4px;
+    box-shadow: none !important;
   }
-  .main-content a:hover {
-    background-color: #EBE82D;
-    text-decoration: none;
+  .search-input:focus {
+    background-color: var(--gi-white) !important;
+    border-color: #999 !important;
+  }
+  
+  /* Footer Sidebar */
+  .site-footer {
+    border-top: 1px solid #eee; 
+    color: #999;
   }
 
-  /* Nettoyage des couleurs de texte */
-  .text-purple-200, .text-blue-200, .text-green-200 { color: #111 !important; }
-  .text-grey-dk-000 { color: #666 !important; }
-  
 </style>
