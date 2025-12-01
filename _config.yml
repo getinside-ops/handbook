@@ -1,52 +1,24 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
 title: Help Center
 description: Official knowledge base for getinside Retail Media operations.
 url: https://getinside-ops.github.io/handbook
 baseurl: /handbook
 
-# Le thème officiel
 remote_theme: just-the-docs/just-the-docs
 
-# -----------------------------------------------------------------------------
-# Apparence & Branding
-# -----------------------------------------------------------------------------
-
-# C'EST LA LIGNE LA PLUS IMPORTANTE :
-# Elle dit à Jekyll d'utiliser votre fichier _sass/color_schemes/getinside.scss
+# On appelle le fichier _sass/color_schemes/getinside.scss
 color_scheme: getinside
-
-# Chargement des polices (Pas de CSS ici, tout est dans le SCSS)
-head_members:
-  - <link rel="preconnect" href="https://fonts.googleapis.com">
-  - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  - <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Public+Sans:wght@300;400;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
-
-# -----------------------------------------------------------------------------
-# Navigation & Recherche
-# -----------------------------------------------------------------------------
 
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
-# Liens en haut à droite
 aux_links:
   "Accès SaaS":
     - "https://app.getinside.media/"
   "Site Web":
     - "https://getinside.fr/"
 
-# -----------------------------------------------------------------------------
-# Footer
-# -----------------------------------------------------------------------------
-
 footer_content: "Copyright &copy; 2025 getinside."
 
-# -----------------------------------------------------------------------------
-# Configuration par défaut
-# -----------------------------------------------------------------------------
 defaults:
   - scope:
       path: ""

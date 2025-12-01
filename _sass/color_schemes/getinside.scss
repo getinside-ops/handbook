@@ -1,156 +1,36 @@
 // --------------------------------------------------------
-// 1. DÉFINITION DE LA PALETTE GETINSIDE
+// 1. DÉFINITION DES COULEURS GETINSIDE
 // --------------------------------------------------------
-$gi-white:    #FFFFFF;
-$gi-grey:     #ECEBEA; // Fond Sidebar
-$gi-mint:     #6AE7C8; // Action Secondaire
-$gi-yellow:   #EBE82D; // Action Primaire
-$gi-black:    #111111; // Texte
-$gi-border:   #E1E1E1;
-
-// --------------------------------------------------------
-// 2. TYPOGRAPHIE & ÉCHELLE RESPONSIVE (NOUVEAU)
-// --------------------------------------------------------
-
-// Importation des polices (Noms exacts Google Fonts)
-$system-font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-$heading-font-family: "Space Grotesk", sans-serif;
-$code-font-family: "Inter", monospace; // Pour les boutons et l'UI
-
-// Taille de base
-$base-font-size: 16px; 
-
-// Echelle typographique (Override des tailles du thème)
-// On force des titres plus gros et géométriques comme sur le SaaS
-$font-size-10: 2.5rem; // H1 Mobile
-$font-size-9:  2.0rem; // H2 Mobile
-$font-size-8:  1.75rem;
-$font-size-7:  1.5rem;
-$font-size-6:  1.25rem;
-$font-size-5:  1rem;   // Corps de texte
+$gi-beige:      #F7F6F3; // Fond du site
+$gi-white:      #FFFFFF; // Sidebar
+$gi-yellow:     #EBE82D; // Jaune (Bouton Primaire)
+$gi-mint:       #6AE7C8; // Menthe (Bouton Secondaire)
+$gi-grey:       #ECEBEA; // Hover / Selected
+$gi-black:      #111111; // Texte
+$gi-border:     #E1E1E1;
 
 // --------------------------------------------------------
-// 3. SURCHARGE DES COULEURS DU THÈME
+// 2. MAPPING DES VARIABLES DU THÈME
 // --------------------------------------------------------
 
-$body-background-color: $gi-white;
+// Fonds et Textes
+$body-background-color: $gi-beige;
+$sidebar-color:         $gi-white;
 $body-text-color:       $gi-black;
 $body-heading-color:    $gi-black;
 
-$sidebar-color:         $gi-grey;
-$sidebar-border-color:  $gi-white;
+// Navigation
+$sidebar-border-color:  $gi-border;
 $nav-child-link-color:  #444;
 
-$link-color:            $gi-black; 
+// Liens (Noir pour la lisibilité)
+$link-color:            $gi-black;
 
-$search-background-color: $gi-white;
-$search-border-color:     transparent;
-
+// Composants (Code & Tableaux)
 $code-background-color: $gi-grey;
 $table-header-background-color: $gi-grey;
 $table-background-color: $gi-white;
-$border-color: darken($gi-grey, 10%);
+$border-color:          $gi-border;
 
-// --------------------------------------------------------
-// 4. IMPORT DU THÈME
-// --------------------------------------------------------
-@import "just-the-docs";
-
-// --------------------------------------------------------
-// 5. CSS PERSONNALISÉ (CORRECTIONS FINALES)
-// --------------------------------------------------------
-
-// Force les polices partout
-body, html, .side-bar, .main-content {
-  font-family: $system-font-family !important;
-  color: $gi-black !important;
-}
-
-// Titres en Space Grotesk (Look SaaS)
-h1, h2, h3, h4, .site-title {
-  font-family: $heading-font-family !important;
-  font-weight: 700;
-  letter-spacing: -0.02em; /* Crénage serré */
-}
-
-// Gros H1 souligné (Style Documentation)
-h1 {
-  font-size: 3rem !important; /* Très gros sur Desktop */
-  margin-bottom: 1.5rem;
-}
-
-// Menu Gauche
-.site-title {
-  font-size: 1.4rem !important;
-  background-image: none !important;
-}
-
-.nav-list-link.active {
-  background-color: $gi-white;
-  color: $gi-black !important;
-  font-weight: 700;
-  border-radius: 4px;
-  border-left: 4px solid $gi-yellow;
-}
-
-// Boutons (Style Getinside)
-.btn {
-  font-family: $code-font-family !important;
-  font-weight: 700 !important;
-  border-radius: 4px !important;
-  text-transform: none !important;
-  color: $gi-black !important;
-  padding: 10px 20px !important;
-}
-
-// Bouton Jaune
-.btn-primary {
-  background-color: $gi-yellow !important;
-  border: 1px solid darken($gi-yellow, 15%) !important;
-}
-.btn-primary:hover {
-  background-color: darken($gi-yellow, 5%) !important;
-  transform: translateY(-1px);
-}
-
-// Bouton Menthe
-.btn-purple {
-  background-color: $gi-mint !important;
-  border: 1px solid darken($gi-mint, 15%) !important;
-  color: $gi-black !important;
-}
-.btn-purple:hover {
-  background-color: darken($gi-mint, 5%) !important;
-  transform: translateY(-1px);
-}
-
-// Liens dans le texte
-.main-content a {
-  color: $gi-black !important;
-  text-decoration: underline;
-  text-decoration-color: $gi-mint;
-  text-decoration-thickness: 2px;
-}
-.main-content a:hover {
-  background-color: $gi-yellow;
-  text-decoration: none;
-}
-
-// Reset des couleurs utilitaires
-.text-purple-200 { color: $gi-black !important; }
-.text-blue-200   { color: $gi-black !important; }
-.text-green-200  { color: darken($gi-mint, 40%) !important; }
-.text-grey-dk-000 { color: #555 !important; }
-.bg-grey-lt-000 { background-color: $gi-grey !important; }
-
-div[style*="border-radius"] {
-  background-color: $gi-white !important;
-  border-color: darken($gi-grey, 10%) !important;
-}
-
-// --- RESPONSIVE ADJUSTMENTS ---
-// Ajustement automatique pour mobile (Media Query)
-@media (max-width: 768px) {
-  h1 { font-size: 2.2rem !important; } // Plus petit sur mobile
-  .btn { width: 100%; text-align: center; margin-bottom: 10px; } // Boutons pleine largeur
-}
+// Barre de recherche (Fond blanc pour ressortir sur le beige)
+$search-background-color: $gi-white;

@@ -1,0 +1,132 @@
+<!-- Chargement des polices système par défaut (Clean & Rapide) -->
+
+<style>
+  /* --- 1. ESTHÉTIQUE GÉNÉRALE --- */
+  
+  /* Force le fond beige global */
+  body, .main-content {
+    background-color: #F7F6F3 !important;
+    color: #111 !important;
+  }
+
+  /* Sidebar Blanche + Bordure fine */
+  .side-bar, .site-nav {
+    background-color: #FFFFFF !important;
+    border-right: 1px solid #E1E1E1 !important;
+  }
+
+  /* Titre du site */
+  .site-title {
+    color: #111 !important;
+    font-weight: 800 !important;
+  }
+
+  /* --- 2. NAVIGATION & MENU --- */
+
+  /* Liens du menu */
+  .nav-list-link {
+    color: #444 !important;
+    border-radius: 4px;
+    transition: background-color 0.1s ease;
+  }
+
+  /* Survol (Gris Clair) */
+  .nav-list-link:hover {
+    background-color: #ECEBEA !important;
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  /* Actif (Gris Clair + Marqueur Jaune) */
+  .nav-list-link.active {
+    background-color: #ECEBEA !important;
+    color: #000 !important;
+    font-weight: 700 !important;
+    background-image: none !important;
+    border-left: 4px solid #EBE82D !important;
+  }
+
+  /* --- 3. BARRE DE RECHERCHE --- */
+  
+  /* Style plat sans bordure moche */
+  .search-input {
+    background-color: #FFFFFF !important;
+    border: 1px solid transparent !important;
+    color: #111 !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  .search-input:focus {
+    border: 1px solid #EBE82D !important;
+    box-shadow: none !important;
+  }
+
+  /* --- 4. BOUTONS (MONOCHROMES & LISIBLES) --- */
+
+  .btn {
+    font-weight: 700 !important;
+    border-radius: 4px !important;
+    text-transform: none !important;
+    color: #111 !important; /* Texte Noir forcé partout */
+    padding: 8px 16px !important;
+    transition: all 0.2s ease !important;
+  }
+
+  /* Primaire (Jaune) */
+  .btn-primary {
+    background-color: #EBE82D !important;
+    border: 1px solid #D4D120 !important; /* Bordure un peu plus foncée */
+  }
+  .btn-primary:hover {
+    background-color: #FDFD36 !important; /* Éclaircit au survol */
+    transform: translateY(-1px);
+    text-decoration: none !important;
+  }
+
+  /* Secondaire / Éditeur (Menthe) - Remplace le violet */
+  .btn-purple {
+    background-color: #6AE7C8 !important;
+    color: #111 !important;
+    border: 1px solid #4BC7A8 !important;
+  }
+  .btn-purple:hover {
+    background-color: #7EFBDC !important;
+    color: #111 !important;
+    text-decoration: none !important;
+  }
+
+  /* Outline (Contour) */
+  .btn-outline {
+    background-color: #FFFFFF !important;
+    border: 1px solid #ccc !important;
+    color: #111 !important;
+  }
+  .btn-outline:hover {
+    background-color: #ECEBEA !important;
+    text-decoration: none !important;
+  }
+
+  /* --- 5. CARTES & CONTENU --- */
+
+  /* Cartes blanches sur fond beige */
+  div[style*="border-radius"], .card {
+    background-color: #FFFFFF !important;
+    border-color: #E1E1E1 !important;
+  }
+
+  /* Liens dans le texte (Souligné Menthe) */
+  .main-content a {
+    color: #111 !important;
+    text-decoration: underline;
+    text-decoration-color: #6AE7C8;
+    text-decoration-thickness: 2px;
+  }
+  .main-content a:hover {
+    background-color: #EBE82D;
+    text-decoration: none;
+  }
+
+  /* Nettoyage des couleurs de texte */
+  .text-purple-200, .text-blue-200, .text-green-200 { color: #111 !important; }
+  .text-grey-dk-000 { color: #666 !important; }
+  
+</style>
