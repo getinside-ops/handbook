@@ -1,32 +1,27 @@
-// --------------------------------------------------------
-// 1. PALETTE NEUTRE
-// --------------------------------------------------------
+// 1. PALETTE DE BASE
 $gi-white:      #FFFFFF;
 $gi-beige:      #F7F6F3;
-$gi-text:       #282824; // Noir/Gris foncé
-$gi-border:     #e1e4e8;
+$gi-text:       #575652;
+$gi-border:     transparent; // On supprime la bordure par défaut ici
 
-// --------------------------------------------------------
-// 2. SURCHARGE DES VARIABLES
-// --------------------------------------------------------
-
+// 2. SURCHARGE THÈME
 $body-background-color: $gi-beige;
 $body-text-color:       $gi-text;
 $body-heading-color:    $gi-text;
 $sidebar-color:         $gi-white;
-$sidebar-border-color:  $gi-border;
+$sidebar-border-color:  transparent; // Pas de bordure sidebar
 
-$link-color:            $gi-text; // Liens noirs par défaut
-$nav-child-link-color:  #555;
+$link-color:            $gi-text;
+$nav-child-link-color:  #666;
 
-// Force les boutons du thème en neutre dès la compilation
-$btn-primary-color: #333;
-$btn-primary-background-color: #fff;
-$btn-primary-border-color: #ccc;
-
+// Composants
 $code-background-color: $gi-white;
 $table-header-background-color: #fafbfc;
 $table-background-color: $gi-white;
-$border-color:          $gi-border;
+$border-color:          #e1e4e8; // On garde une bordure légère pour les tableaux/cartes uniquement
 
-$search-background-color: $gi-white;
+$search-background-color: $gi-beige; // Fond beige pour la recherche
+
+// Neutralisation boutons thème (pour éviter le violet au chargement)
+$btn-primary-color: #fff;
+$btn-primary-background-color: #444;
