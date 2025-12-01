@@ -6,11 +6,10 @@ baseurl: /handbook
 # Le thème
 remote_theme: just-the-docs/just-the-docs
 
-# Apparence
-color_scheme: light
+# On désactive le schéma de couleur par défaut pour laisser la main à notre SCSS
+color_scheme: nil
 
-# On charge UNIQUEMENT les polices ici. 
-# Le CSS personnalisé sera chargé automatiquement par la méthode "style.scss" ci-dessous.
+# Chargement des polices UNIQUEMENT (Pas de fichier CSS ici !)
 head_members:
   - <link rel="preconnect" href="https://fonts.googleapis.com">
   - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -26,10 +25,8 @@ aux_links:
   "Site Web":
     - "https://getinside.fr/"
 
-# Footer
 footer_content: "Copyright &copy; 2025 getinside."
 
-# Defaults
 defaults:
   - scope:
       path: ""

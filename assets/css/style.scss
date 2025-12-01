@@ -1,0 +1,117 @@
+---
+---
+
+/* 1. CONFIGURATION DES VARIABLES SASS DU THÈME (AVANT IMPORT) */
+/* C'est ici qu'on "hack" proprement le thème selon la doc */
+
+// Couleurs de base getinside
+$gi-yellow: #FDFD36;
+$gi-black:  #1D1D1B;
+$gi-white:  #FFFFFF;
+$gi-off-white: #F9F9F7;
+$gi-purple: #BE63F9;
+
+// Surcharge des variables du thème Just-the-Docs
+$body-background-color: $gi-off-white;
+$body-text-color: $gi-black;
+$body-heading-color: $gi-black;
+$link-color: #7253ed; // Violet pour la lisibilité des liens
+$nav-color: #5c5962;
+$sidebar-color: $gi-off-white;
+$code-background-color: #f6f8fa;
+$border-color: #e1e4e8;
+
+// Polices (On utilise les noms chargés dans le config.yml)
+$system-font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$heading-font-family: "Space Grotesk", sans-serif;
+
+/* 2. IMPORT DU THÈME */
+@import "just-the-docs";
+
+/* 3. CSS PERSONNALISÉ (OVERRIDES SPÉCIFIQUES) */
+/* Ajouté après l'import pour écraser les styles CSS restants */
+
+// Correction de la Sidebar (Bordure et Fond)
+.site-nav {
+  border-right: 1px solid $border-color;
+}
+
+// Titre du site plus gros et sans soulignement
+.site-title {
+  font-family: $heading-font-family;
+  font-weight: 700;
+  font-size: 22px;
+  background-image: none !important; 
+}
+
+// Le marqueur actif dans le menu (Barre jaune verticale)
+.nav-list-link.active {
+  font-weight: 700;
+  color: $gi-black;
+  background-image: linear-gradient(-90deg, $gi-yellow 0%, $gi-yellow 100%);
+  background-size: 4px 100%;
+  background-repeat: no-repeat;
+}
+
+// --- BOUTONS (Charte getinside) ---
+
+.btn {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  border-radius: 4px;
+  text-transform: none;
+  transition: transform 0.1s ease;
+}
+
+// Bouton Primaire (Jaune + Contour Noir + Ombre Brutalist)
+.btn-primary {
+  background-color: $gi-yellow;
+  color: $gi-black;
+  border: 1px solid $gi-black;
+  box-shadow: 3px 3px 0px $gi-black;
+}
+.btn-primary:hover {
+  background-color: $gi-yellow; /* On garde le jaune */
+  transform: translate(-1px, -1px);
+  box-shadow: 5px 5px 0px $gi-black;
+  text-decoration: none;
+}
+
+// Bouton Violet
+.btn-purple {
+  background-color: $gi-purple;
+  color: $gi-white;
+  border: 1px solid $gi-purple;
+}
+.btn-purple:hover {
+  background-color: darken($gi-purple, 10%);
+  color: $gi-white;
+  text-decoration: none;
+}
+
+// Bouton Outline
+.btn-outline {
+  background-color: $gi-white;
+  border: 1px solid #ddd;
+  color: $gi-black;
+}
+.btn-outline:hover {
+  border-color: $gi-black;
+  color: $gi-black;
+  text-decoration: none;
+}
+
+// --- CARTES & UTILITAIRES ---
+
+// Fond Jaune Spécifique
+.bg-yellow-000 {
+  background-color: $gi-yellow !important;
+  border: 1px solid $gi-black !important;
+  color: $gi-black !important;
+}
+
+// Correction des tableaux (bordures simples)
+table {
+  display: table;
+  width: 100%;
+}
