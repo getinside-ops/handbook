@@ -1,135 +1,179 @@
-<!-- CHARGEMENT DES POLICES -->
+<!-- 1. CHARGEMENT DES POLICES (Space Grotesk + Public Sans + Inter) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Public+Sans:wght@300;400;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Public+Sans:wght@300;400;600&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
 
-<!-- STYLE PERSONNALISÉ GETINSIDE -->
 <style>
-  /* --- 1. VARIABLES & COULEURS --- */
+  /* --- VARIABLES CHARTE SAAS --- */
   :root {
-    --gi-yellow: #FDFD36;
-    --gi-black: #1D1D1B;
-    --gi-white: #FFFFFF;
-    --gi-off-white: #F9F9F7;
-    --gi-purple: #BE63F9;
-    --gi-green: #25D0AB;
+    --gi-yellow: #FDFD36;      /* Jaune SaaS */
+    --gi-black: #1D1D1B;       /* Noir Profond */
+    --gi-bg-app: #F9F9F7;      /* Fond Beige/Gris SaaS */
+    --gi-bg-sidebar: #FFFFFF;  /* Fond Menu Blanc */
+    --gi-purple: #7253ed;      /* Violet secondaire */
+    --gi-border: #EAEAEA;      /* Bordures subtiles */
     
+    /* Typographies */
     --font-heading: 'Space Grotesk', sans-serif;
     --font-body: 'Public Sans', sans-serif;
     --font-ui: 'Inter', sans-serif;
   }
 
-  /* --- 2. GLOBAL (OVERRIDES) --- */
+  /* --- STRUCTURE GÉNÉRALE (LOOK "APP") --- */
   
-  /* On force le fond et la police partout */
-  body, html, .side-bar, .main-content-wrap, .main-content, .site-nav {
-    background-color: var(--gi-off-white) !important;
+  /* Fond global beige comme le SaaS */
+  body, html, .main-content-wrap, .main-content {
+    background-color: var(--gi-bg-app) !important;
     color: var(--gi-black) !important;
     font-family: var(--font-body) !important;
   }
 
-  /* Titres */
-  h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-heading) !important;
-    color: var(--gi-black) !important;
-    letter-spacing: -0.03em;
+  /* --- SIDEBAR (MENU GAUCHE) --- */
+  
+  /* Le menu doit être Blanc pour se détacher du fond beige */
+  .side-bar, .site-nav {
+    background-color: var(--gi-bg-sidebar) !important;
+    border-right: 1px solid var(--gi-border) !important;
   }
 
-  /* Liens */
-  a { color: #7253ed; text-decoration: none; }
-  a:hover { text-decoration: underline; text-decoration-color: var(--gi-yellow); text-decoration-thickness: 3px; }
-
-  /* --- 3. MENU LATÉRAL --- */
-  
+  /* Titre du site (En haut à gauche) */
   .site-title {
     font-family: var(--font-heading) !important;
     font-weight: 700 !important;
-    font-size: 22px !important;
-    background-image: none !important; 
+    font-size: 20px !important;
+    letter-spacing: -0.5px;
+    color: var(--gi-black) !important;
+    background-image: none !important; /* Retire les pointillés */
+    padding-top: 20px;
   }
 
+  /* Liens du menu */
   .nav-list-link {
     font-family: var(--font-ui) !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    color: #666 !important; /* Gris moyen pour le repos */
+    padding: 8px 0 !important;
   }
-  
-  /* Lien Actif (Barre jaune) */
+
+  /* Lien Actif : Texte Noir + Barre Jaune verticale */
   .nav-list-link.active {
     color: var(--gi-black) !important;
     font-weight: 700 !important;
     background-image: linear-gradient(-90deg, var(--gi-yellow) 0%, var(--gi-yellow) 100%) !important;
-    background-size: 4px 100% !important;
+    background-size: 4px 100% !important; /* Petite barre jaune */
     background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 12px !important; /* Espace pour la barre */
+  }
+  
+  /* Survol des liens */
+  .nav-list-link:hover {
+    color: var(--gi-black) !important;
+    text-decoration: none !important;
   }
 
-  /* --- 4. COMPOSANTS --- */
+  /* --- CONTENU PRINCIPAL --- */
 
-  /* Boutons */
+  /* Titres (H1, H2...) */
+  h1, h2, h3, h4 {
+    font-family: var(--font-heading) !important;
+    color: var(--gi-black) !important;
+    letter-spacing: -0.03em; /* Crénage serré style SaaS */
+  }
+  
+  h1 { font-weight: 700 !important; margin-bottom: 1rem !important; }
+  h2 { margin-top: 2.5rem !important; font-weight: 600 !important; }
+
+  /* Liens dans le texte */
+  .main-content a {
+    color: var(--gi-purple) !important;
+    text-decoration: none !important;
+    font-weight: 500;
+  }
+  .main-content a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--gi-yellow);
+    text-decoration-thickness: 3px;
+  }
+
+  /* --- COMPOSANTS (BOUTONS & CARTES) --- */
+
+  /* Boutons : Style "Brutalist" du SaaS (Carrés ou peu arrondis) */
   .btn {
     font-family: var(--font-ui) !important;
     border-radius: 4px !important;
-    text-transform: none !important;
     font-weight: 600 !important;
-    transition: transform 0.1s ease !important;
+    text-transform: none !important;
+    padding: 10px 20px !important;
+    transition: all 0.1s ease !important;
   }
 
-  /* Primaire (Jaune) */
+  /* Bouton Primaire = JAUNE (Comme "Créer une campagne") */
   .btn-primary {
     background-color: var(--gi-yellow) !important;
     color: var(--gi-black) !important;
-    border: 1px solid var(--gi-black) !important;
-    box-shadow: 3px 3px 0px var(--gi-black) !important;
+    border: 1px solid var(--gi-black) !important; /* Contour noir fin */
+    box-shadow: none !important; /* Style flat du SaaS */
   }
   .btn-primary:hover {
-    background-color: var(--gi-yellow) !important;
-    color: var(--gi-black) !important;
-    transform: translate(-1px, -1px);
-    box-shadow: 5px 5px 0px var(--gi-black) !important;
-    text-decoration: none !important;
+    background-color: #fcfc5e !important; /* Jaune un peu plus clair */
+    transform: translateY(-1px);
+    box-shadow: 2px 2px 0px rgba(0,0,0,0.1) !important;
   }
 
-  /* Violet */
+  /* Bouton Violet (Actions secondaires) */
   .btn-purple {
     background-color: var(--gi-purple) !important;
     color: #fff !important;
-    border: 1px solid var(--gi-purple) !important;
+    border: none !important;
   }
   .btn-purple:hover {
-    background-color: #a64ce0 !important; /* Un peu plus foncé */
-    color: #fff !important;
+    background-color: #5e43c9 !important;
     text-decoration: none !important;
   }
 
-  /* Outline */
+  /* Bouton Outline (Contour simple) */
   .btn-outline {
     background-color: #fff !important;
     border: 1px solid #ddd !important;
     color: var(--gi-black) !important;
   }
-
-  /* Cartes (Divs avec bordure) */
-  div[style*="border"] {
-    background-color: #fff !important;
-    border-color: #e1e4e8 !important;
+  .btn-outline:hover {
+    border-color: var(--gi-black) !important;
+    background-color: #f9f9f9 !important;
+    text-decoration: none !important;
   }
+
+  /* --- CARTES & BLOCS --- */
   
-  /* Fond Jaune spécial */
-  .bg-yellow-000 {
-    background-color: var(--gi-yellow) !important;
-    border: 1px solid var(--gi-black) !important;
-    color: var(--gi-black) !important;
+  /* Cartes Blanches sur fond Beige */
+  div[style*="border-radius"] {
+    background-color: #FFFFFF !important; /* Fond blanc pur */
+    border: 1px solid var(--gi-border) !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02) !important; /* Ombre très légère */
   }
 
-  /* Recherche */
+  /* Input de recherche */
   .search-input {
     background-color: #fff !important;
-    border: 1px solid #ccc !important;
-    border-radius: 4px !important;
+    border: 1px solid #ddd !important;
+    border-radius: 6px !important;
     font-family: var(--font-ui) !important;
+    color: var(--gi-black) !important;
+    padding: 8px 12px !important;
   }
   
-  /* Footer du menu */
+  /* Footer Sidebar */
   .site-footer {
-    font-size: 11px; 
+    font-size: 11px;
     color: #999;
+    border-top: 1px solid var(--gi-border);
+    margin-top: 20px;
+    padding-top: 20px;
   }
+  
+  /* Disclaimer : Retirer le "This site uses Just the Docs" visuellement si besoin */
+  /* .site-footer span { display: none; } */
+
 </style>
