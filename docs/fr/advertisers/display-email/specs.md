@@ -4,7 +4,6 @@ title: Spécifications Bannières
 parent: Encart Newsletter
 grand_parent: Espace Annonceurs
 nav_order: 2
-toc: false
 ---
 
 # Spécifications Bannières

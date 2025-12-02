@@ -88,6 +88,13 @@ Réponses rapides aux interrogations fréquentes sur la logistique, la finance e
   </div>
 </details>
 
+<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+  <summary style="font-weight: bold; cursor: pointer;">Comment sont gérées les opérations manuelles (assemblage, collage) ?</summary>
+  <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
+    Pour l'assemblage (ex: coller un échantillon sur un flyer), nous travaillons <strong>exclusivement avec des Entreprises Adaptées (EA)</strong>. Ces structures emploient au moins 80% de travailleurs handicapés et favorisent leur insertion professionnelle et sociale.
+  </div>
+</details>
+
 <br>
 
 <h2 class="text-purple-200 mb-4">💰 Facturation & Paiements</h2>

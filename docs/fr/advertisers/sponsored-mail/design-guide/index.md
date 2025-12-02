@@ -4,7 +4,6 @@ title: Guide de Conception
 parent: Asile Colis
 has_children: true
 nav_order: 1
-toc: false
 ---
 
 # Guide de conception

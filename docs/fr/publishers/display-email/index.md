@@ -4,61 +4,73 @@ title: Encart Newsletter
 parent: Espace Éditeurs
 has_children: true
 nav_order: 3
-toc: false
 ---
 
 # Encart Newsletter (Display)
 {: .fs-9 }
 
-Monétisez vos emails transactionnels et newsletters en y insérant simplement une bannière partenaire.
+Monétisez vos newsletters et emails transactionnels en y insérant simplement une bannière partenaire.
 {: .fs-6 .fw-300 }
 
 <div class="mt-4 mb-6">
-  <a href="integration" class="btn btn-purple fs-4">Voir le Guide d'Intégration</a>
+  <a href="integration" class="btn btn-primary fs-4">Voir le Guide d'Intégration</a>
 </div>
 
 <hr class="mb-6">
 
-<h2 class="text-purple-200 mb-4">Inventaires Monétisables</h2>
-<p class="fs-4 mb-4">Où placer les bannières pour générer du revenu ?</p>
+<h2 class="text-purple-200 mb-4">Où placer ces encarts ?</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
+
+  <!-- TRANSAC -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fcfbff;">
+    <h3 class="mt-0 text-purple-200">🛍️ Emails Transactionnels</h3>
+    <p class="fs-2 text-grey-dk-000 mb-2">C'est l'emplacement le plus premium (>60% d'ouverture).</p>
+    <p class="mb-0 fs-2"><em>Insérez une bannière "Offre Partenaire" en bas de vos confirmations de commande.</em></p>
+  </div>
 
   <!-- BLAST -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <h3 class="mt-0 text-purple-200">📢 Newsletter Édito</h3>
-    <p class="fs-2 text-grey-dk-000">Insérez une bannière dans vos communications hebdomadaires.</p>
-    <p class="mb-0 fs-2"><em>Placement : Header (Haut) ou Cœur de contenu.</em></p>
-  </div>
-
-  <!-- TRANSACTIONNEL -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <h3 class="mt-0 text-purple-200">🛍️ Confirmation Commande</h3>
-    <p class="fs-2 text-grey-dk-000">Monétisez l'email de confirmation (Post-purchase).</p>
-    <p class="mb-0 fs-2"><em>Placement : En bas de mail ("Offre partenaire").</em></p>
+    <h3 class="mt-0 text-blue-200">📢 Newsletters (Blast)</h3>
+    <p class="fs-2 text-grey-dk-000 mb-2">Comblez les espaces vides de vos newsletters hebdomadaires.</p>
+    <p class="mb-0 fs-2"><em>Idéal pour rentabiliser vos envois habituels à moindre effort.</em></p>
   </div>
 
   <!-- WELCOME -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <h3 class="mt-0 text-purple-200">👋 Email de Bienvenue</h3>
-    <p class="fs-2 text-grey-dk-000">Une bannière dans votre séquence d'accueil.</p>
-    <p class="mb-0 fs-2"><em>Placement : Footer ou bloc dédié.</em></p>
+    <h3 class="mt-0 text-green-200">👋 Welcome Emails</h3>
+    <p class="fs-2 text-grey-dk-000 mb-2">Monétisez vos nouveaux inscrits dès le premier jour.</p>
+    <p class="mb-0 fs-2"><em>Intégrez une bannière dans votre scénario de bienvenue automatisé.</em></p>
   </div>
 
 </div>
 
-<h2 class="text-grey-dk-000 mb-4">Pourquoi ce format est rentable ?</h2>
+<h2 class="text-blue-200 mb-4">Pourquoi ce format est rentable ?</h2>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #f6f8fa;">
-    <h3 class="mt-0 text-green-200">⚡ Zéro Production</h3>
-    <p class="mb-0"><strong>L'Annonceur fournit une image prête à l'emploi.</strong> Votre rôle se limite à l'intégration technique (Copier-Coller).</p>
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+    <div style="font-size: 32px; min-width: 50px; text-align: center;">⚡</div>
+    <div>
+      <h3 class="mt-0">Zéro Production</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">L'Annonceur fournit une image prête à l'emploi. Votre rôle se limite au copier-coller du lien et de l'image.</p>
+    </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #f6f8fa;">
-    <h3 class="mt-0 text-blue-200">🛡️ Non Intrusif</h3>
-    <p class="mb-0">Vous gardez votre ligne éditoriale. La publicité s'insère discrètement sans perturber la lecture.</p>
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+    <div style="font-size: 32px; min-width: 50px; text-align: center;">🛡️</div>
+    <div>
+      <h3 class="mt-0">Non Intrusif</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">La publicité s'insère discrètement (Header ou Footer), sans perturber votre contenu éditorial.</p>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+    <div style="font-size: 32px; min-width: 50px; text-align: center;">🔄</div>
+    <div>
+      <h3 class="mt-0">Revenus Récurrents</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Parfait pour générer un flux de revenus passifs sur vos emails automatisés (Transactionnels / Welcome).</p>
+    </div>
   </div>
 
 </div>

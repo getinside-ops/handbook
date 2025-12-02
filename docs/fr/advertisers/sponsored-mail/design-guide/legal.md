@@ -4,7 +4,6 @@ title: Réglementation & QR
 parent: Guide de Conception
 grand_parent: Asile Colis
 nav_order: 4
-toc: false
 ---
 
 # Mentions Légales et QR Codes

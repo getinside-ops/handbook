@@ -4,7 +4,6 @@ title: Asile Colis
 parent: Espace Annonceurs
 has_children: true
 nav_order: 1
-toc: false
 ---
 
 # Asile Colis (Sponsored Mail)

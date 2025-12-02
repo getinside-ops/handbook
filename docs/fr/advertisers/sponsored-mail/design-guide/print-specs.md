@@ -4,7 +4,6 @@ title: Spécifications Print
 parent: Guide de Conception
 grand_parent: Asile Colis
 nav_order: 3
-toc: false
 ---
 
 # Spécifications Techniques
