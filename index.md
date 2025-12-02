@@ -6,11 +6,12 @@ permalink: /
 description: "getinside Help Center: Official guides and documentation."
 ---
 
-<h1>getinside Help Center</h1>
-<p>
-  La base de connaissances officielle pour les opérations de Retail Media.
-  Centralisez vos processus, spécifications et guides opérationnels.
-</p>
+
+# getinside Help Center
+{: .fs-9 }
+
+Bienvenue sur le Help Center getinside, la ressource officielle dédiée aux utilisateurs de la plateforme de Retail Media getinside.fr. Que vous soyez Annonceur ou Éditeur, retrouvez ici l'ensemble des guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences en toute sérénité.
+{: .fs-6 .fw-300 }
 
 <!-- BOUTONS DU HAUT -->
 <div class="d-flex flex-wrap mb-6">
