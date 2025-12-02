@@ -10,7 +10,7 @@ description: "getinside Help Center: Official guides and documentation."
 # getinside Help Center
 {: .fs-9 }
 
-Retrouvez ici l'ensemble des guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences en toute sérénité.
+Retrouvez ici l'ensemble des guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.
 {: .fs-6 .fw-300 }
 
 <!-- BOUTONS DU HAUT -->
