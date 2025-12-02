@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Asile Colis
+title: Logistique Asile Colis
 parent: Espace Éditeurs
 has_children: true
 nav_order: 1

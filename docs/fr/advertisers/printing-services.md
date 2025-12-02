@@ -13,7 +13,7 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
 
 <hr class="my-6">
 
-<h2 class="text-blue-200 mb-4">🏭 Une qualité certifiée (RSE & Inclusion)</h2>
+<h2 class="text-blue-200 mb-4">🏭 Une qualité certifiée</h2>
 
 <div style="background-color: #f0fcf4; border: 1px solid #28a745; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <p class="fs-4 mt-0 mb-4 text-green-200">Nous travaillons exclusivement avec un réseau de partenaires français engagés :</p>
@@ -24,12 +24,6 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
       <div style="font-size: 32px; margin-bottom: 10px;">🇫🇷</div>
       <strong>Made in France</strong><br>
       <span class="fs-2">100% de la production en ateliers français.</span>
-    </div>
-
-    <div style="text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🤝</div>
-      <strong>Inclusion (EA)</strong><br>
-      <span class="fs-2">Assemblage par des Entreprises Adaptées.</span>
     </div>
 
     <div style="text-align: center;">
@@ -44,30 +38,6 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
       <span class="fs-2">ISO 9001 (Qualité) et ISO 14001 (Environnement).</span>
     </div>
 
-  </div>
-</div>
-
-<h2 class="text-purple-200 mb-4">Focus : Notre engagement Handicap</h2>
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="flex: 1; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <h3 class="mt-0">Partenariat Exclusif</h3>
-    <p class="fs-2 text-grey-dk-000">
-      Pour toutes les opérations manuelles (assemblage, collage d'échantillons, mise sous pli), nous travaillons exclusivement avec des <strong>Entreprises Adaptées (EA)</strong>.
-    </p>
-    <p class="fs-2 text-grey-dk-000 mb-0">
-      Ces structures emploient au moins <strong>80% de travailleurs en situation de handicap</strong> dans leurs effectifs de production.
-    </p>
-  </div>
-  
-  <div style="flex: 1; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <h3 class="mt-0">Impact Social</h3>
-    <p class="fs-2 text-grey-dk-000">
-      En confiant votre logistique à getinside, vous soutenez directement l'insertion professionnelle et sociale de personnes souvent éloignées du marché du travail.
-    </p>
-    <p class="fs-2 text-grey-dk-000 mb-0">
-      Nos partenaires œuvrent notamment pour maintenir l'emploi en milieu rural et accompagner la montée en compétences de leurs salariés.
-    </p>
   </div>
 </div>
 
@@ -113,6 +83,30 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
   <div style="flex: 1; border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px;">
     <strong>📉 Économies d'échelle</strong><br>
     Plus le volume est important, plus le coût unitaire baisse.
+  </div>
+</div>
+
+<h2 class="text-purple-200 mb-4">Focus : Notre engagement Handicap</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="flex: 1; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+    <h3 class="mt-0">Partenariat Exclusif</h3>
+    <p class="fs-2 text-grey-dk-000">
+      Pour toutes les opérations manuelles (assemblage, collage d'échantillons, mise sous pli), nous travaillons exclusivement avec des <strong>Entreprises Adaptées (EA)</strong>.
+    </p>
+    <p class="fs-2 text-grey-dk-000 mb-0">
+      Ces structures emploient au moins <strong>80% de travailleurs en situation de handicap</strong> dans leurs effectifs de production.
+    </p>
+  </div>
+  
+  <div style="flex: 1; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+    <h3 class="mt-0">Impact Social</h3>
+    <p class="fs-2 text-grey-dk-000">
+      En confiant votre logistique à getinside, vous soutenez directement l'insertion professionnelle et sociale de personnes souvent éloignées du marché du travail.
+    </p>
+    <p class="fs-2 text-grey-dk-000 mb-0">
+      Nos partenaires œuvrent notamment pour maintenir l'emploi en milieu rural et accompagner la montée en compétences de leurs salariés.
+    </p>
   </div>
 </div>
 
