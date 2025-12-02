@@ -20,6 +20,33 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
 
 <hr class="mb-6">
 
+<h2 class="text-purple-200 mb-4">Pourquoi activer ce levier via getinside ?</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
+
+  <!-- CARTE 1 : REVENUS -->
+  <div style="flex: 1 1 280px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+    <div style="font-size: 32px; margin-bottom: 10px;">💰</div>
+    <h3 class="mt-0 text-purple-200">Revenus Maximisés</h3>
+    <p class="fs-2 text-grey-dk-000 mb-0">L'emailing dédié est le format au CPM le plus élevé. Transformez votre base inactive ou vos créneaux d'envoi vides en chiffre d'affaires immédiat.</p>
+  </div>
+
+  <!-- CARTE 2 : ANIMATION -->
+  <div style="flex: 1 1 280px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+    <div style="font-size: 32px; margin-bottom: 10px;">📅</div>
+    <h3 class="mt-0 text-blue-200">Animation Commerciale</h3>
+    <p class="fs-2 text-grey-dk-000 mb-0">Proposez des offres exclusives (financées par l'annonceur) à vos abonnés sans rogner sur votre propre marge. Idéal pour fidéliser votre audience.</p>
+  </div>
+
+  <!-- CARTE 3 : SÉCURITÉ -->
+  <div style="flex: 1 1 280px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+    <div style="font-size: 32px; margin-bottom: 10px;">🛡️</div>
+    <h3 class="mt-0 text-green-200">Sécurité & Simplicité</h3>
+    <p class="fs-2 text-grey-dk-000 mb-0">getinside garantit le paiement, fournit les assets créatifs et simplifie le tracking technique. Vous gardez le contrôle total (validation des marques).</p>
+  </div>
+
+</div>
+
 <h2 class="text-purple-200 mb-4">Vos Inventaires Monétisables</h2>
 <p class="fs-4">Vous pouvez proposer 3 types de campagnes dédiées :</p>
 

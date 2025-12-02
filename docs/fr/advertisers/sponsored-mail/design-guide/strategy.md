@@ -19,24 +19,43 @@ Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique cl
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
 
+  <!-- PROMO -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">🏷️ Promotion</h3>
     <p class="mb-2 text-grey-dk-000"><em>"Scannez pour obtenir une offre exclusive"</em></p>
-    <p class="mb-0">Idéal pour la conversion immédiate.</p>
+    <p class="mb-0">Idéal pour la conversion immédiate en ligne.</p>
   </div>
 
+  <!-- DRIVE TO STORE (NOUVEAU) -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fcfbff; border-color: #7253ed;">
+    <h3 class="mt-0 fs-4 text-purple-200">🏪 Drive to Store</h3>
+    <p class="mb-2 text-grey-dk-000"><em>"Présentez cette carte en boutique pour un café offert"</em></p>
+    <p class="mb-0">Générez du trafic physique ou proposez une mécanique hybride (Coupon valable Web + Magasin).</p>
+  </div>
+
+  <!-- CONTENU (ENRICHI) -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+    <h3 class="mt-0 fs-4">📚 Contenu Éducatif</h3>
+    <p class="mb-2 text-grey-dk-000"><em>"Scannez pour lire le rapport du GIEC"</em></p>
+    <p class="mb-2 text-grey-dk-000"><em>"Découvrez nos 5 recettes de saison"</em></p>
+    <p class="mb-0">Pour l'image de marque et l'engagement.</p>
+  </div>
+
+  <!-- JEUX -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">🎲 Jeux / Concours</h3>
     <p class="mb-2 text-grey-dk-000"><em>"Flashez pour tourner la roue"</em></p>
-    <p class="mb-0">Idéal pour l'engagement et la collecte de leads.</p>
+    <p class="mb-0">Idéal pour la collecte de leads.</p>
   </div>
 
+  <!-- APP -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">📱 Drive to App</h3>
-    <p class="mb-2 text-grey-dk-000"><em>"Téléchargez l'app pour débloquer..."</em></p>
+    <p class="mb-2 text-grey-dk-000"><em>"Téléchargez l'app pour débloquer vos points"</em></p>
     <p class="mb-0">Pour l'acquisition d'utilisateurs mobiles.</p>
   </div>
   
+  <!-- FEEDBACK -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">⭐ Feedback</h3>
     <p class="mb-2 text-grey-dk-000"><em>"Donnez votre avis contre un cadeau"</em></p>
