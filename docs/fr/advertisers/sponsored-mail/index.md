@@ -23,44 +23,53 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-blue-200 mb-4">Ressources & Documentation</h2>
 
-<!-- 1. CARTE PRINCIPALE (GUIDE) -->
-<div style="margin-bottom: 20px;">
-  <a href="./design-guide/" style="text-decoration: none; color: inherit; display: block;">
-    <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; background: #fcfbff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <h3 class="mt-0 text-purple-200">📘 Guide de Conception (Start)</h3>
-      <p class="fs-4 text-grey-dk-000 mb-0">Le point de départ obligatoire. Processus de validation, option Studio et checklist avant envoi.</p>
+<!-- LISTE VERTICALE PLEINE LARGEUR -->
+<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
+
+  <!-- GUIDE (Mis en avant) -->
+  <a href="./design-guide/" style="text-decoration: none; color: inherit;">
+    <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; background: #fcfbff; display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+      <div style="font-size: 40px;">📘</div>
+      <div>
+        <h3 class="mt-0 text-purple-200">Guide de Conception (Start)</h3>
+        <p class="fs-4 text-grey-dk-000 mb-0">Le point de départ obligatoire. Processus de validation, option Studio et checklist avant envoi.</p>
+      </div>
     </div>
   </a>
-</div>
-
-<!-- 2. CONTENEUR FLEX POUR LES 3 SOUS-CARTES -->
-<!-- flex: 1 1 0 permet aux 3 éléments de partager équitablement l'espace et de s'aligner -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
   <!-- STRATEGIE -->
-  <a href="./design-guide/strategy" style="text-decoration: none; color: inherit; flex: 1 1 0; min-width: 240px;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 24px; margin-bottom: 10px;">🧠</div>
-      <h3 class="mt-0 fs-4">Stratégie & Offre</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Définir une mécanique engageante.</p>
+  <a href="./design-guide/strategy" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+      <div style="font-size: 24px; min-width: 40px; text-align: center;">🧠</div>
+      <div>
+        <strong class="fs-4 d-block">Stratégie & Offre</strong>
+        <span class="fs-2 text-grey-dk-000">Définir une mécanique engageante.</span>
+      </div>
+      <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
 
   <!-- SPECS -->
-  <a href="./design-guide/print-specs" style="text-decoration: none; color: inherit; flex: 1 1 0; min-width: 240px;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 24px; margin-bottom: 10px;">📐</div>
-      <h3 class="mt-0 fs-4">Specs Techniques</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Formats, Bords perdus, 300 DPI.</p>
+  <a href="./design-guide/print-specs" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+      <div style="font-size: 24px; min-width: 40px; text-align: center;">📐</div>
+      <div>
+        <strong class="fs-4 d-block">Specs Techniques</strong>
+        <span class="fs-2 text-grey-dk-000">Formats A5/A6, Bords perdus, 300 DPI.</span>
+      </div>
+      <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
 
   <!-- LEGAL -->
-  <a href="./design-guide/legal" style="text-decoration: none; color: inherit; flex: 1 1 0; min-width: 240px;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 24px; margin-bottom: 10px;">⚖️</div>
-      <h3 class="mt-0 fs-4">Légal & QR</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Mentions obligatoires et tracking.</p>
+  <a href="./design-guide/legal" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+      <div style="font-size: 24px; min-width: 40px; text-align: center;">⚖️</div>
+      <div>
+        <strong class="fs-4 d-block">Légal & QR</strong>
+        <span class="fs-2 text-grey-dk-000">Mentions obligatoires et tracking.</span>
+      </div>
+      <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
 
@@ -68,25 +77,62 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
 
-<!-- CONTENEUR FLEX POUR LES ARGUMENTS -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<!-- LISTE VERTICALE PLEINE LARGEUR -->
+<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
 
-  <div style="flex: 1 1 0; min-width: 240px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <div style="font-size: 30px; margin-bottom: 10px;">📦</div>
-    <strong class="fs-4">100% d'Ouverture</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Le seul média physique avec un taux de prise en main absolu.</p>
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+    <div style="font-size: 30px; min-width: 40px;">📦</div>
+    <div>
+      <strong class="fs-4 d-block">100% d'Ouverture</strong>
+      <p class="fs-2 text-grey-dk-000 mb-0">Le seul média physique avec un taux de prise en main absolu. Le client attend son colis avec impatience.</p>
+    </div>
   </div>
 
-  <div style="flex: 1 1 0; min-width: 240px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <div style="font-size: 30px; margin-bottom: 10px;">🎯</div>
-    <strong class="fs-4">Ciblage Affinitaire</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à des marques correspondantes.</p>
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+    <div style="font-size: 30px; min-width: 40px;">🎯</div>
+    <div>
+      <strong class="fs-4 d-block">Ciblage Affinitaire</strong>
+      <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à des marques (Beauté, Tech, Food) dont l'audience correspond à votre persona.</p>
+    </div>
   </div>
 
-  <div style="flex: 1 1 0; min-width: 240px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <div style="font-size: 30px; margin-bottom: 10px;">🛡️</div>
-    <strong class="fs-4">Cookie-less</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Un levier puissant non impacté par le RGPD.</p>
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+    <div style="font-size: 30px; min-width: 40px;">🛡️</div>
+    <div>
+      <strong class="fs-4 d-block">Cookie-less</strong>
+      <p class="fs-2 text-grey-dk-000 mb-0">Un levier contextuel puissant, non impacté par le RGPD ou la fin des cookies tiers.</p>
+    </div>
+  </div>
+
+</div>
+
+<h2 class="text-blue-200 mb-4">Pourquoi passer par getinside ?</h2>
+
+<!-- LISTE VERTICALE PLEINE LARGEUR -->
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+    <div style="font-size: 32px; min-width: 50px; text-align: center;">🌐</div>
+    <div>
+      <h3 class="mt-0">Réseau Exclusif</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Accédez en un clic à un inventaire de <strong>+250 e-commerçants</strong> et des audiences de niche souvent inaccessibles en direct.</p>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+    <div style="font-size: 32px; min-width: 50px; text-align: center;">🏭</div>
+    <div>
+      <h3 class="mt-0">Logistique Intégrée</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Impression Made in France, conditionnement et respect des délais de livraison en entrepôt : nous gérons toute la complexité opérationnelle.</p>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+    <div style="font-size: 32px; min-width: 50px; text-align: center;">📊</div>
+    <div>
+      <h3 class="mt-0">Pilotage Centralisé</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Fini les échanges d'emails. Suivez l'avancement des distributions (reporting hebdo) et vos performances (scans) sur un dashboard unique.</p>
+    </div>
   </div>
 
 </div>

@@ -2,7 +2,6 @@
 layout: default
 title: Guide de Conception
 parent: Asile Colis
-grand_parent: Espace Annonceurs
 has_children: true
 nav_order: 1
 toc: false
