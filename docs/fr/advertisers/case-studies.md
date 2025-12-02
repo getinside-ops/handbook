@@ -24,7 +24,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   <!-- COLONNE IMAGE (Portrait) -->
   <div style="flex: 0 0 250px; min-width: 250px;">
     <!-- Remplacer le src par votre image : ../../../../assets/images/case-avene.jpg -->
-    <img src="../../../../assets/images/case-avene.png" alt="Campagne Avène" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img src="../../../assets/images/case-studies/case-avene.png" alt="Campagne Avène" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
   </div>
 
   <!-- COLONNE CONTENU -->
@@ -34,7 +34,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       <span style="background: #f0fcf4; color: #2da44e; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #2da44e;">Notoriété</span>
     </div>
     
-    <p class="fs-4 text-grey-dk-000">Faire découvrir et tester un nouveau produit (Sampling).</p>
+    <p class="fs-4 text-grey-dk-000">Développer la notoriété et générer du trafic</p>
     
     <hr style="border-top: 1px solid #eee; margin: 15px 0;">
     
@@ -67,7 +67,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="https://placehold.co/300x500/ebebeb/575652?text=Visuel+Nocibe" alt="Campagne Nocibé" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img  src="../../../assets/images/case-studies/case-nocibe.png" alt="Campagne Nocibé" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
   </div>
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
@@ -109,7 +109,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="https://placehold.co/300x500/ebebeb/575652?text=Visuel+HelloFresh" alt="Campagne Hello Fresh" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img  src="../../../assets/images/case-studies/case-hellofresh.png" alt="Campagne Hello Fresh" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
   </div>
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
@@ -151,7 +151,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="https://placehold.co/300x500/ebebeb/575652?text=Visuel+TotalWash" alt="Campagne Total Wash" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img  src="../../../assets/images/case-studies/case-wash.png" alt="Campagne Total Wash" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
   </div>
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
@@ -193,7 +193,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="https://placehold.co/300x500/ebebeb/575652?text=Visuel+Nespresso" alt="Campagne Nespresso" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img  src="../../../assets/images/case-studies/case-nespresso.png" alt="Campagne Nespresso" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
   </div>
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
@@ -213,4 +213,65 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       </div>
       <div>
         <strong class="d-block fs-2 text-grey-dk-000">Format</strong>
-        <span>Carte Code Unique +
+        <span>Carte Code Unique + Code Barre</span>
+      </div>
+      <div>
+        <strong class="d-block fs-2 text-grey-dk-000">Volume</strong>
+        <span>48 000 ex.</span>
+      </div>
+      <div>
+        <strong class="d-block fs-2 text-grey-dk-000">Interaction</strong>
+        <span>2,25%</span>
+      </div>
+    </div>
+
+    <div style="background-color: #f7f6f3; padding: 15px; border-radius: 6px; border-left: 3px solid #ccc; font-style: italic;">
+      “De nouveaux inventaires médias pour activer des audiences consommateurs clairement identifiées.”
+    </div>
+  </div>
+</div>
+
+<!-- 6. CAS JAPHY -->
+<div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
+  
+  <!-- COLONNE IMAGE (Portrait) -->
+  <div style="flex: 0 0 250px; min-width: 250px;">
+    <!-- Remplacer le src par votre image : ../../../../assets/images/case-avene.jpg -->
+    <img src="../../../assets/images/case-studies/case-japhy.png" alt="Campagne Avène" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+  </div>
+
+  <!-- COLONNE CONTENU -->
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
+    <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
+      <h2 class="mt-0 mb-0">JAPHY</h2>
+      <span style="background: #f0fcf4; color: #2da44e; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #2da44e;">Notoriété</span>
+    </div>
+    
+    <p class="fs-4 text-grey-dk-000">Faire découvrir et tester un nouveau produit (Sampling).</p>
+    
+    <hr style="border-top: 1px solid #eee; margin: 15px 0;">
+    
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
+      <div>
+        <strong class="d-block fs-2 text-grey-dk-000">Format</strong>
+        <span>e-mail dédié</span>
+      </div>
+      <div>
+        <strong class="d-block fs-2 text-grey-dk-000">Audience</strong>
+        <span>The bradery</span>
+      </div>
+      <div>
+        <strong class="d-block fs-2 text-grey-dk-000">Volume</strong>
+        <span>200 000 contacts.</span>
+      </div>
+      <div>
+        <strong class="d-block fs-2 text-grey-dk-000">Interaction</strong>
+        <span style="color: #2da44e; font-weight: bold;">5,40%</span>
+      </div>
+    </div>
+
+    <div style="background-color: #f7f6f3; padding: 15px; border-radius: 6px; border-left: 3px solid #ccc; font-style: italic;">
+      "Une campagne efficace qui fait connaître la marque et bénéficie de l’image de The Bradery pour un CPM très accessible"
+    </div>
+  </div>
+</div>
