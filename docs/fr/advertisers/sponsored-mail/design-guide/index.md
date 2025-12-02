@@ -1,117 +1,99 @@
 ---
 layout: default
-title: Asile Colis
-parent: Espace Annonceurs
+title: Guide de Conception
+parent: Asile Colis
+grand_parent: Espace Annonceurs
 has_children: true
 nav_order: 1
 toc: false
 ---
 
-# Asile Colis (Sponsored Mail)
+# Guide de conception
 {: .fs-9 }
 
-Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience colis de grandes marques e-commerce.
+De la stratégie créative à la validation technique : tout pour réussir vos visuels.
 {: .fs-6 .fw-300 }
 
-<!-- BOUTONS D'ACTION -->
+<!-- LIENS RAPIDES INTERNES -->
 <div class="mt-4 mb-6">
-  <a href="./design-guide/" class="btn btn-primary fs-4 mr-2">📘 Voir le Guide de Conception</a>
-  <a href="https://app.getinside.media/" target="_blank" class="btn btn-outline fs-4">Créer une campagne</a>
+  <a href="./strategy" class="btn btn-primary fs-4 mr-2">Stratégie & Offre</a>
+  <a href="./print-specs" class="btn btn-outline fs-4">Specs Techniques</a>
 </div>
 
 <hr class="mb-6">
 
-<h2 class="text-blue-200 mb-4">Pourquoi passer par getinside ?</h2>
+<!-- OPTION STUDIO -->
+<div style="border: 2px solid #7253ed; border-radius: 8px; padding: 30px; position: relative; margin-bottom: 40px; background-color: #fcfbff;">
+  <div style="position: absolute; top: -12px; left: 30px; background: #7253ed; color: white; padding: 2px 12px; border-radius: 12px; font-weight: bold; font-size: 14px;">OPTION STUDIO</div>
+  
+  <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 2; min-width: 300px;">
+      <h2 class="mt-2 text-purple-200">Délégation Créative</h2>
+      <p class="fs-4">Pas de graphiste ? Déléguez la création à notre Studio.</p>
+      <p>Nous gérons la direction artistique, l'exécution graphique et la mise aux normes techniques pour un forfait unique.</p>
+    </div>
+    
+    <div style="flex: 1; min-width: 200px; text-align: center; background: white; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
+      <div class="fs-8 fw-700 text-purple-200">550€ HT</div>
+      <div class="fs-2 text-grey-dk-000 mb-3">par campagne</div>
+      <a href="mailto:studio@getinside.fr" class="btn btn-purple btn-block">Contacter le Studio</a>
+    </div>
+  </div>
+</div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; width: 100%; margin-bottom: 40px;">
+<h2 class="text-grey-dk-000 mb-4">🧪 Process de validation</h2>
 
-  <!-- RESEAU -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <div style="font-size: 32px; margin-bottom: 10px;">🌐</div>
-    <h3 class="mt-0">Réseau Exclusif</h3>
-    <p class="fs-2 text-grey-dk-000 mb-0">Accédez en un clic à un inventaire de <strong>+250 e-commerçants</strong> et des audiences de niche (Beauté, Tech, Food) souvent inaccessibles en direct.</p>
+<!-- TIMELINE HORIZONTALE -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
+  
+  <div style="flex: 1; min-width: 150px; text-align: center;">
+    <div style="font-size: 24px; font-weight: bold; color: #2d6fd6; margin-bottom: 10px;">1</div>
+    <strong>Stratégie</strong><br><span class="fs-2">Mécanique & Offre</span>
+  </div>
+  
+  <div style="flex: 1; min-width: 150px; text-align: center;">
+    <div style="font-size: 24px; font-weight: bold; color: #2d6fd6; margin-bottom: 10px;">2</div>
+    <strong>Création</strong><br><span class="fs-2">Respect des Specs</span>
   </div>
 
-  <!-- LOGISTIQUE -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <div style="font-size: 32px; margin-bottom: 10px;">🏭</div>
-    <h3 class="mt-0">Logistique Intégrée</h3>
-    <p class="fs-2 text-grey-dk-000 mb-0">Impression Made in France, conditionnement et respect des délais de livraison en entrepôt : nous gérons toute la complexité opérationnelle.</p>
+  <div style="flex: 1; min-width: 150px; text-align: center;">
+    <div style="font-size: 24px; font-weight: bold; color: #2d6fd6; margin-bottom: 10px;">3</div>
+    <strong>Légal</strong><br><span class="fs-2">Mentions & QR</span>
   </div>
 
-  <!-- TECH -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
-    <div style="font-size: 32px; margin-bottom: 10px;">📊</div>
-    <h3 class="mt-0">Pilotage Centralisé</h3>
-    <p class="fs-2 text-grey-dk-000 mb-0">Fini les échanges d'emails. Suivez l'avancement des distributions (reporting hebdo) et vos performances (scans) sur un dashboard unique.</p>
+  <div style="flex: 1; min-width: 150px; text-align: center;">
+    <div style="font-size: 24px; font-weight: bold; color: #28a745; margin-bottom: 10px;">4</div>
+    <strong class="text-green-200">Validation</strong><br><span class="fs-2">BAT Numérique</span>
   </div>
 
 </div>
 
-<h2 class="text-blue-200 mb-4">Ressources & Documentation</h2>
-
-<!-- 1. CARTE PRINCIPALE (GUIDE) - ISOLÉE -->
-<div style="margin-bottom: 20px;">
-  <a href="./design-guide/" style="text-decoration: none; color: inherit; display: block;">
-    <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; background: #fcfbff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <h3 class="mt-0 text-purple-200">📘 Guide de Conception (Start)</h3>
-      <p class="fs-4 text-grey-dk-000 mb-0">Le point de départ obligatoire. Processus de validation, option Studio et checklist avant envoi.</p>
-    </div>
-  </a>
+<div class="p-3 mb-6 bg-yellow-000 border rounded-1" style="border-color: #f2cc60;">
+  <strong>⚠️ Important :</strong> Aucun contenu n’est soumis à un distributeur sans la validation préalable de getinside via la plateforme.
 </div>
 
-<!-- 2. GRILLE POUR LES SOUS-CARTES -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
+<h2 class="text-grey-dk-000 mb-4">📥 Ressources à télécharger</h2>
 
-  <!-- STRATEGIE -->
-  <a href="./design-guide/strategy" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 24px; margin-bottom: 10px;">🧠</div>
-      <h3 class="mt-0 fs-4">Stratégie & Offre</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Définir une mécanique engageante.</p>
-    </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+  
+  <!-- LIEN INSPIRATIONS -->
+  <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit?slide=id.g2985b8a2c53_1_57#slide=id.g2985b8a2c53_1_57" target="_blank" class="btn btn-outline" style="text-align: left; border-color: #2d6fd6; color: #2d6fd6;">
+    ✨ <strong>Exemples & Inspirations</strong> <span class="fs-2">(Google Slides)</span>
   </a>
 
-  <!-- SPECS -->
-  <a href="./design-guide/print-specs" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 24px; margin-bottom: 10px;">📐</div>
-      <h3 class="mt-0 fs-4">Specs Techniques</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Formats, Bords perdus, 300 DPI.</p>
-    </div>
+  <!-- LIEN GABARITS -->
+  <a href="https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe" target="_blank" class="btn btn-outline" style="text-align: left;">
+    📂 <strong>Gabarits .ai/.pdf</strong> <span class="fs-2">(Google Drive)</span>
   </a>
 
-  <!-- LEGAL -->
-  <a href="./design-guide/legal" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; height: 100%; background: #fff; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 24px; margin-bottom: 10px;">⚖️</div>
-      <h3 class="mt-0 fs-4">Légal & QR</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Mentions obligatoires et tracking.</p>
-    </div>
+  <!-- LIEN LOGOS -->
+  <a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank" class="btn btn-outline" style="text-align: left;">
+    🖼️ <strong>Logos Obligatoires</strong> <span class="fs-2">(Google Drive)</span>
   </a>
 
-</div>
-
-<h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; width: 100%;">
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <div style="font-size: 30px; margin-bottom: 10px;">📦</div>
-    <strong class="fs-4">100% d'Ouverture</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Le seul média physique avec un taux de prise en main absolu.</p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <div style="font-size: 30px; margin-bottom: 10px;">🎯</div>
-    <strong class="fs-4">Ciblage Affinitaire</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à des marques correspondantes.</p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <div style="font-size: 30px; margin-bottom: 10px;">🛡️</div>
-    <strong class="fs-4">Cookie-less</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Un levier puissant non impacté par le RGPD.</p>
-  </div>
+  <!-- LIEN CHECKLIST -->
+  <a href="https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit?tab=t.0#heading=h.m93s6ypeh0l3" target="_blank" class="btn btn-outline" style="text-align: left;">
+    ✅ <strong>Check-list de Contrôle</strong> <span class="fs-2">(Google Doc)</span>
+  </a>
 
 </div>
