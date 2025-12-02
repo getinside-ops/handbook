@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Asile Colis
+title: Sponsored Mail
 parent: Espace Annonceurs
 has_children: true
 nav_order: 1

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jeu Concours
+title: Co-Branded Contest
 parent: Espace Annonceurs
 has_children: true
 nav_order: 5

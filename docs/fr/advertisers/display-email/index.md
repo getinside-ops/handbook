@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Encart Newsletter
+title: Display Email
 parent: Espace Annonceurs
 has_children: true
 nav_order: 3

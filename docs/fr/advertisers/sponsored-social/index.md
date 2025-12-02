@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Ads
+title: Sponsored social
 parent: Espace Annonceurs
 has_children: true
 nav_order: 4

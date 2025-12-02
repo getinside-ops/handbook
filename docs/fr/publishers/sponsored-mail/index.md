@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logistique Asile Colis
+title: Sponsored Mail (logistics)
 parent: Espace Éditeurs
 has_children: true
 nav_order: 1

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emailing Dédié
+title: Dedicated Email
 parent: Espace Annonceurs
 has_children: true
 nav_order: 2
