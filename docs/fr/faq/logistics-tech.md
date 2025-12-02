@@ -64,14 +64,11 @@ nav_order: 4
 </details>
 
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Tracking des performances</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Comment tracker les ventes (ROI) de ma campagne ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    L'attribution se fait via :
-    <ul>
-      <li>Les scans de QR Codes.</li>
-      <li>Les clics sur liens trackés (Email).</li>
-      <li>L'utilisation de Codes Promo uniques (le plus fiable).</li>
-    </ul>
+    getinside ne place pas de pixel sur votre site. L'attribution des ventes repose donc sur deux leviers que vous maîtrisez :<br>
+    1. <strong>Le Code Promo Unique :</strong> C'est la méthode la plus fiable. Créez un code spécifique (ex: <code>MERCI20</code>) pour la campagne. Chaque utilisation de ce code est une vente attribuée à 100% à l'opération.<br>
+    2. <strong>Les Liens Trackés (UTM) :</strong> Configurez l'URL de destination de votre QR Code avec des paramètres UTM (ex: <code>utm_source=asile-colis</code>). Vous verrez ainsi dans votre propre Google Analytics le trafic et les conversions venant de ce canal.
   </div>
 </details>
 
