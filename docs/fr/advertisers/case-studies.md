@@ -266,7 +266,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       </div>
       <div>
         <strong class="d-block fs-2 text-grey-dk-000">Interaction</strong>
-        <span style="color: #2da44e; font-weight: bold;">5,40%</span>
+        <span style="color: #2da44e; font-weight: bold;">1,90%</span>
       </div>
     </div>
 
