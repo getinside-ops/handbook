@@ -105,7 +105,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
 </div>
 
-<!-- 3. CAS HELLO FRESH -->
+<!-- 3. CAS HELLOFRESH -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
   <div style="flex: 0 0 250px; min-width: 250px;">
@@ -114,7 +114,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">HELLO FRESH</h2>
+      <h2 class="mt-0 mb-0">HELLOFRESH</h2>
       <span style="background: #fff8c5; color: #bf8700; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #bf8700;">Acquisition</span>
     </div>
     
@@ -147,7 +147,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
 </div>
 
-<!-- 4. CAS TOTAL WASH -->
+<!-- 4. CAS  WASH -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
   <div style="flex: 0 0 250px; min-width: 250px;">
@@ -156,7 +156,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">TOTAL WASH</h2>
+      <h2 class="mt-0 mb-0">WASH</h2>
       <span style="background: #fcfbff; color: #7253ed; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #7253ed;">Drive to App</span>
     </div>
     
