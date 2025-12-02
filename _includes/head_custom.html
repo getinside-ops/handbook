@@ -1,0 +1,95 @@
+<style>
+  /* --- 1. CONFIGURATION GLOBALE --- */
+  :root {
+    --gi-text: #575652;       /* Gris Brun (Texte principal) */
+    --gi-bg: #F7F6F3;         /* Beige (Fond site) */
+    --gi-white: #FFFFFF;      /* Blanc (Sidebar, Cartes) */
+    --gi-border: #e1e4e8;     /* Bordures */
+    --gi-btn-dark: #575652;   /* Fond Bouton Primaire */
+    --gi-btn-light: #f6f8fa;  /* Fond Bouton Secondaire (Hover) */
+  }
+
+  /* Force la couleur de fond et de texte */
+  body, html, .main-content {
+    color: var(--gi-text) !important;
+    background-color: var(--gi-bg) !important;
+  }
+
+  h1, h2, h3, h4, h5, h6, p, li {
+    color: var(--gi-text);
+  }
+
+  /* --- 2. SIDEBAR & RECHERCHE --- */
+  
+  /* Sidebar Blanche sans bordure agressive */
+  .side-bar, .site-nav {
+    background-color: var(--gi-white) !important;
+    border-right: none !important;
+  }
+
+  /* Liens menu */
+  .nav-list-link {
+    color: var(--gi-text) !important;
+  }
+  .nav-list-link:hover {
+    background-color: var(--gi-btn-light) !important;
+    text-decoration: none !important;
+  }
+  .nav-list-link.active {
+    font-weight: 600 !important;
+    background-color: #f0f1f4 !important;
+    background-image: none !important;
+    border-left: none !important;
+    color: #000 !important;
+  }
+
+  /* Recherche propre */
+  .search-input {
+    background-color: var(--gi-white) !important;
+    border: none !important;
+    color: var(--gi-text) !important;
+    border-radius: 6px !important;
+    box-shadow: none !important;
+  }
+
+  /* Masquer la Table of Contents (TOC) à droite */
+  .d-xl-block { display: none !important; }
+
+  /* --- 4. BOUTON BACK TO TOP --- */
+  #back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: var(--gi-btn-dark);
+    color: #fff !important;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none;
+    z-index: 1000;
+    font-size: 20px;
+    transition: opacity 0.3s, transform 0.3s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    text-decoration: none !important;
+  }
+  #back-to-top:hover {
+    background-color: #000;
+    transform: translateY(-3px);
+  }
+</style>
+
+<div id="back-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">↑</div>
+
+<script>
+  window.onscroll = function() {
+    var btn = document.getElementById("back-to-top");
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+      btn.style.display = "block";
+    } else {
+      btn.style.display = "none";
+    }
+  };
+</script>
