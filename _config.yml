@@ -9,6 +9,10 @@ baseurl: /handbook
 
 # Le thème officiel
 remote_theme: just-the-docs/just-the-docs
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.12.2"
 
 # Schéma de couleur par défaut (Light = Violet)
 color_scheme: light

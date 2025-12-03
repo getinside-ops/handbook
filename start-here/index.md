@@ -9,7 +9,7 @@ toc: false
 # Découvrir le Retail Media
 {: .fs-9 }
 
-De la simple publicité au partenariat marchand : définition et opportunités pour votre marque.
+Définition et opportunités pour votre marque.
 {: .fs-6 .fw-300 }
 
 <!-- BOUTON RETOUR -->
@@ -131,23 +131,23 @@ De la simple publicité au partenariat marchand : définition et opportunités p
 
 </div>
 
-<h2 class="text-blue-200 mb-4">Nos Process & Conseils ?</h2>
+<h2 class="text-blue-200 mb-4">Nos Process & Conseils</h2>
 
 <div style="border: 2px solid #2d6fd6; background-color: #f0f8ff; border-radius: 8px; padding: 24px;">
-  <p class="fs-3 mb-4">Le Retail Media impose une rigueur opérationnelle stricte. Nos procédures (BAT, Lead Time, Tracking) ne sont pas des contraintes administratives, mais des <strong>garanties de performance</strong>.</p>
+  <p class="fs-3 mb-4">Le Retail Media impose une rigueur opérationnelle stricte. Nos procédures (BAT, Lead Time, Tracking) sont des <strong>garanties de performance</strong>.</p>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
     <div>
       <strong>⚡ Rapidité</strong>
-      <p class="fs-2 text-grey-dk-000">Un format standardisé (fichiers, colisage) permet une validation et une mise en place 2x plus rapide par les entrepôts.</p>
+      <p class="fs-2 text-grey-dk-000">Les processus standardisés à l'échelle de la plateforme permettent une validation et une mise en place rapide, et permettent aux annonceurs de se projeter facilement.</p>
     </div>
     <div>
       <strong>✅ Qualité</strong>
-      <p class="fs-2 text-grey-dk-000">Le respect du workflow de validation (BAT) élimine 99% des erreurs (liens cassés, fautes, mauvaise cible).</p>
+      <p class="fs-2 text-grey-dk-000">Le respect du workflow de validation (BAT) élimine 99% des erreurs (liens cassés, fautes, retards).</p>
     </div>
     <div>
       <strong>📈 Mesure</strong>
-      <p class="fs-2 text-grey-dk-000">L'utilisation de nos outils de tracking est la seule manière d'obtenir des statistiques fiables et incontestables.</p>
+      <p class="fs-2 text-grey-dk-000">L'utilisation de nos outils de tracking permet d'obtenir des statistiques fiables  en temps réel.</p>
     </div>
   </div>
 </div>

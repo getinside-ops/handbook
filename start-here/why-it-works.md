@@ -14,55 +14,32 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 
 <div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px;">
   
-  <p class="fs-4 mt-0 mb-4 text-center">
-    <strong>getinside</strong> est la plateforme de mise en relation entre des e-commerçants premium et des marques en quête de visibilité.
-  </p>
+  <div class="mermaid" style="display: flex; justify-content: center; margin: 40px 0;">
+  flowchart TD
+    %% Définition des nœuds avec du contenu HTML
+    A("<h3>🛍️ L'ÉDITEUR</h3><p style='font-size:14px; color:#586069; margin:10px 0 0 0;'>Un e-commerçant rend son inventaire disponible (colis, emails, pages de confirmation).</p>")
+    B("<h3>⚙️ LE MATCHING</h3><p style='font-size:14px; color:#586069; margin:10px 0 0 0;'>getinside connecte les deux acteurs selon les affinités produits (ex: Vin + Fromage).</p>")
+    C("<h3>🚀 L'ANNONCEUR</h3><p style='font-size:14px; color:#586069; margin:10px 0 0 0;'>La marque partenaire diffuse son offre directement au cœur de l'expérience client.</p>")
 
-  <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+    %% Connexions
+    A --> B
+    B --> C
+    C --> A
 
-    <div style="flex: 1; min-width: 250px; background: #fff; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; position: relative;">
-      <div style="position: absolute; top: -15px; left: 20px; background: #7253ed; color: white; width: 30px; height: 30px; border-radius: 50%; text-align: center; line-height: 30px; font-weight: bold;">1</div>
-      <div style="text-align: center; margin-top: 10px;">
-        <span style="font-size: 30px;">🛍️</span>
-        <h4 class="mt-2 mb-2">L'Éditeur</h4>
-        <p class="fs-2 text-grey-dk-000 mb-0">
-          Un e-commerçant rend son inventaire disponible (colis, emails, pages de confirmation) sur la plateforme.
-        </p>
-      </div>
-    </div>
+    %% Styles des boîtes
+    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,text-align:center,padding:20px,width:280px;
+    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,text-align:center,padding:20px,width:280px;
 
-    <div style="display: flex; align-items: center; justify-content: center;">
-      <span style="font-size: 24px; color: #7253ed;">➔</span>
-    </div>
+    class A,C default;
+    class B matchingNode;
 
-    <div style="flex: 1; min-width: 250px; background: #fff; padding: 20px; border-radius: 6px; border: 2px solid #7253ed; position: relative;">
-      <div style="position: absolute; top: -15px; left: 20px; background: #7253ed; color: white; width: 30px; height: 30px; border-radius: 50%; text-align: center; line-height: 30px; font-weight: bold;">2</div>
-      <div style="text-align: center; margin-top: 10px;">
-        <span style="font-size: 30px;">⚙️</span>
-        <h4 class="mt-2 mb-2 text-purple-200">Le Matching</h4>
-        <p class="fs-2 text-grey-dk-000 mb-0">
-          getinside connecte les deux acteurs selon les affinités produits et les cibles (ex: Vin + Fromage).
-        </p>
-      </div>
-    </div>
-
-    <div style="display: flex; align-items: center; justify-content: center;">
-      <span style="font-size: 24px; color: #7253ed;">➔</span>
-    </div>
-
-    <div style="flex: 1; min-width: 250px; background: #fff; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; position: relative;">
-      <div style="position: absolute; top: -15px; left: 20px; background: #7253ed; color: white; width: 30px; height: 30px; border-radius: 50%; text-align: center; line-height: 30px; font-weight: bold;">3</div>
-      <div style="text-align: center; margin-top: 10px;">
-        <span style="font-size: 30px;">🚀</span>
-        <h4 class="mt-2 mb-2">L'Annonceur</h4>
-        <p class="fs-2 text-grey-dk-000 mb-0">
-          La marque partenaire diffuse son offre (flyer, bannière) directement au cœur de l'expérience client de l'éditeur.
-        </p>
-      </div>
-    </div>
-
+    %% Style des flèches (Index 0, 1 et 2)
+    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none; 
   </div>
+
 </div>
+
+
 
 
 <hr class="my-6">
