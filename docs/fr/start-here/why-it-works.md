@@ -34,7 +34,6 @@ flowchart TD
     class B matchingNode;
 
     linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
-    </div>
 ```
 </div>
 
@@ -152,42 +151,53 @@ flowchart TD
     </p>
     
     <div style="background: #fff; border-left: 4px solid #7253ed; padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-      <ul class="mb-0 fs-3 pl-0" style="list-style: none;">
-        
-        <li class="mb-3">
-          <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🍷</span>
-            <div>
-              <strong>L'épicurien (Newsletter)</strong><br>
-              <span class="text-grey-dk-000 fs-2">Déclencheur : Achat de fromage affiné.</span><br>
-              <span class="text-purple-100 fs-2">➔ Offre poussée : Une box de vins sélectionnés.</span>
-            </div>
-          </div>
-        </li>
+<ul class="mb-0 fs-3 pl-0" style="list-style: none; padding-left: 0; margin-left: 0;">
+  
+  <li class="mb-3">
+    <div style="display: flex; align-items: baseline;">
+      <span style="font-size: 24px; margin-right: 10px;">🍷</span>
+      <div>
+        <strong>L'épicurien (Newsletter)</strong><br>
+        <span class="text-grey-dk-000 fs-2">Déclencheur : Achat de fromage affiné.</span><br>
+        <span class="text-purple-100 fs-2">➔ Offre poussée : Une box de vins sélectionnés.</span>
+      </div>
+    </div>
+  </li>
 
-        <li class="mb-3">
-          <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🏃</span>
-            <div>
-              <strong>Le Sportif (Social Ads)</strong><br>
-              <span class="text-grey-dk-000 fs-2">Déclencheur : Follower d'une marque d'équipement running.</span><br>
-              <span class="text-purple-100 fs-2">➔ Offre poussée : Programme de nutrition & récupération.</span>
-            </div>
-          </div>
-        </li>
+  <li class="mb-3">
+    <div style="display: flex; align-items: baseline;">
+      <span style="font-size: 24px; margin-right: 10px;">🏃</span>
+      <div>
+        <strong>Le Sportif (Social Ads)</strong><br>
+        <span class="text-grey-dk-000 fs-2">Déclencheur : Follower d'une marque d'équipement running.</span><br>
+        <span class="text-purple-100 fs-2">➔ Offre poussée : Programme de nutrition & récupération.</span>
+      </div>
+    </div>
+  </li>
 
-        <li>
-          <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">👶</span>
-            <div>
-              <strong>Les Jeunes Parents (Asile Colis)</strong><br>
-              <span class="text-grey-dk-000 fs-2">Déclencheur : Commande de jouets d'éveil.</span><br>
-              <span class="text-purple-100 fs-2">➔ Offre poussée : Vêtements bio pour enfants.</span>
-            </div>
-          </div>
-        </li>
+  <li class="mb-3">
+    <div style="display: flex; align-items: baseline;">
+      <span style="font-size: 24px; margin-right: 10px;">👶</span>
+      <div>
+        <strong>Les Jeunes Parents (Asile Colis)</strong><br>
+        <span class="text-grey-dk-000 fs-2">Déclencheur : Commande de jouets d'éveil.</span><br>
+        <span class="text-purple-100 fs-2">➔ Offre poussée : Vêtements bio pour enfants.</span>
+      </div>
+    </div>
+  </li>
 
-      </ul>
+  <li>
+    <div style="display: flex; align-items: baseline;">
+      <span style="font-size: 24px; margin-right: 10px;">🪴</span>
+      <div>
+        <strong>Home Sweet Home (Asile Colis)</strong><br>
+        <span class="text-grey-dk-000 fs-2">Déclencheur : Achat de linge de lit en lin.</span><br>
+        <span class="text-purple-100 fs-2">➔ Offre poussée : Abonnement fleurs fraîches.</span>
+      </div>
+    </div>
+  </li>
+
+</ul>
     </div>
   </div>
 
@@ -213,9 +223,9 @@ flowchart TD
 
 <hr class="my-6">
 
-<div style="text-align: center; background: #FFFFFF; color: white; padding: 40px; border-radius: 8px; margin-top: 40px;">
+<div style="text-align: center; background: ##F9F9F9; color: white; padding: 40px; border-radius: 8px; margin-top: 40px;">
   <h2 class="text-white mb-3">Prêt à activer votre croissance ?</h2>
-  <p class="fs-4 text-grey-lt-100 mb-6" style="max-width: 600px; margin: 0 auto;">
+  <p class="fs-4 text-grey-dk-000 mb-6" style="max-width: 600px; margin: 0 auto;">
     Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
   </p>
   <div style="margin-top: 30px;">
