@@ -1,0 +1,59 @@
+---
+layout: default
+title: Plan du Site
+nav_order: 100
+toc: false
+---
+
+# Plan du Site
+{: .fs-9 }
+
+Vue d'ensemble de toute la documentation disponible sur le Help Center.
+{: .fs-6 .fw-300 }
+
+<hr class="my-6">
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px;">
+
+  <!-- COLONNE ANNONCEURS -->
+  <div>
+    <h2 class="mt-0 mb-4">🛍️ Espace Annonceurs</h2>
+    <ul class="fs-4">
+      {% assign advertisers_pages = site.html_pages | where_exp: "item", "item.path contains 'advertisers/'" | sort: "title" %}
+      {% for p in advertisers_pages %}
+        {% if p.title != "Espace Annonceurs" %}
+          <li class="mb-2"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <!-- COLONNE ÉDITEURS -->
+  <div>
+    <h2 class="mt-0 mb-4">📦 Espace Éditeurs</h2>
+    <ul class="fs-4">
+      {% assign publishers_pages = site.html_pages | where_exp: "item", "item.path contains 'publishers/'" | sort: "title" %}
+      {% for p in publishers_pages %}
+        {% if p.title != "Espace Éditeurs" %}
+          <li class="mb-2"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <!-- COLONNE SUPPORT -->
+  <div>
+    <h2 class="mt-0 mb-4">📚 Support & Aide</h2>
+    <ul class="fs-4">
+      <!-- FAQ -->
+      {% assign faq_pages = site.html_pages | where_exp: "item", "item.path contains 'faq/'" | sort: "title" %}
+      {% for p in faq_pages %}
+        <li class="mb-2"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+      {% endfor %}
+      
+      <!-- Glossaire -->
+      <li class="mb-2"><a href="{{ '/docs/fr/glossary' | relative_url }}">Glossaire</a></li>
+    </ul>
+  </div>
+
+</div>
