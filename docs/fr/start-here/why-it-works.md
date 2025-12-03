@@ -17,18 +17,18 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 ```mermaid
 flowchart LR
     %% Définition des nœuds
-    A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Un e-commerçant rend son inventaire<br/>disponible (colis, emails, pages).")
-    B("<b>⚙️ LE MATCHING</b><br/><br/>getinside connecte les deux acteurs<br/>selon les affinités produits.")
-    C("<b>🚀 L'ANNONCEUR</b><br/><br/>La marque partenaire diffuse son offre<br/>au cœur de l'expérience client.")
+    A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Inventaire disponible<br/>(colis, emails).")
+    B("<b>⚙️ LE MATCHING</b><br/><br/>Connexion par<br/>affinités produits.")
+    C("<b>🚀 L'ANNONCEUR</b><br/><br/>Diffusion de l'offre<br/>ciblée.")
 
-    %% Connexions
+    %% Connexions (Cycle)
     A --> B
     B --> C
     C --> A
 
     %% Styles
-    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,color:#24292e;
-    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,color:#24292e;
+    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,color:#24292e,width:200px;
+    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,color:#24292e,width:200px;
 
     class A,C default;
     class B matchingNode;
@@ -144,6 +144,7 @@ flowchart LR
 <h2 class="text-purple-200 mb-4">Le "Smart Matching" : La pertinence avant tout</h2>
 
 <div style="display: flex; gap: 40px; margin-bottom: 40px; flex-wrap: wrap; align-items: stretch;">
+  
   <div style="flex: 2; min-width: 320px;">
     <p class="fs-4 mt-0">
       La puissance de getinside réside dans la <strong>cohérence contextuelle</strong>. 
@@ -188,7 +189,7 @@ flowchart LR
           </div>
         </div>
 
-        <!-- ITEM 4 (Celui que vous avez ajouté sur la capture) -->
+        <!-- ITEM 4 -->
         <div class="mb-0">
           <div style="display: flex; align-items: baseline;">
             <span style="font-size: 24px; margin-right: 10px;">🪴</span>
@@ -200,10 +201,6 @@ flowchart LR
           </div>
         </div>
 
-    </div>
-  </div>
-
-</ul>
     </div>
   </div>
 
@@ -220,22 +217,4 @@ flowchart LR
       <li class="mb-2"><strong>Panier Moyen (AOV) :</strong> <br>Ciblage High-End vs Mass Market.</li>
       <li class="mb-2"><strong>Géographie :</strong> <br>National ou local (zones de chalandise).</li>
       <li class="mb-2"><strong>Typologie Client :</strong> <br>B2B (Pros) vs B2C (Particuliers).</li>
-      <li><strong>Univers Produit :</strong> <br>Maison, Beauté, Tech, Food, etc.</li>
-      <li><strong>Pays :</strong> <br>Audiences dans toute l'Europe.</li>
-    </ul>
-
-  </div>
-
-</div>
-
-<hr class="my-6">
-
-<div style="text-align: center; background: #F9F9F9; color: white; padding: 40px; border-radius: 8px; margin-top: 40px;">
-  <h2 class="text-white mb-3">Prêt à activer votre croissance ?</h2>
-  <p class="fs-4 text-grey-dk-000 mb-6" style="max-width: 600px; margin: 0 auto;">
-    Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
-  </p>
-  <div style="margin-top: 30px;">
-    <a href="mailto:studio@getinside.com" class="btn btn-purple fs-4 py-3 px-5">Discuter de mon projet</a>
-  </div>
-</div>
+      <li><
