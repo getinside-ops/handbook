@@ -60,7 +60,7 @@ Définition et opportunités pour votre marque.
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
 
   <!-- ASILE COLIS -->
-  <a href="../advertisers/sponsored-mail/" style="text-decoration: none; color: inherit;">
+  <a href="../advertisers/sponsored-mail" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📦</div>
       <div>
@@ -72,7 +72,7 @@ Définition et opportunités pour votre marque.
   </a>
 
   <!-- EMAIL -->
-  <a href="../advertisers/dedicated-email/" style="text-decoration: none; color: inherit;">
+  <a href="../advertisers/dedicated-email" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📧</div>
       <div>
@@ -84,7 +84,7 @@ Définition et opportunités pour votre marque.
   </a>
 
   <!-- SOCIAL -->
-  <a href="../advertisers/sponsored-social/" style="text-decoration: none; color: inherit;">
+  <a href="../advertisers/sponsored-social" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📱</div>
       <div>
@@ -134,7 +134,7 @@ Définition et opportunités pour votre marque.
 <h2 class="text-blue-200 mb-4">Nos Process & Conseils</h2>
 
 <div style="border: 2px solid #2d6fd6; background-color: #f0f8ff; border-radius: 8px; padding: 24px;">
-  <p class="fs-3 mb-4">Le Retail Media impose une rigueur opérationnelle stricte. Nos procédures (BAT, Lead Time, Tracking) sont des <strong>garanties de performance</strong>.</p>
+  <p class="fs-3 mb-4">Nos procédures (BAT, Lead Time, Tracking) sont des <strong>garanties de performance</strong>.</p>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
     <div>
@@ -143,7 +143,7 @@ Définition et opportunités pour votre marque.
     </div>
     <div>
       <strong>✅ Qualité</strong>
-      <p class="fs-2 text-grey-dk-000">Le respect du workflow de validation (BAT) élimine 99% des erreurs (liens cassés, fautes, retards).</p>
+      <p class="fs-2 text-grey-dk-000">Le respect des workflows de validation (BAT) élimine 99% des erreurs (liens cassés, fautes, retards).</p>
     </div>
     <div>
       <strong>📈 Mesure</strong>

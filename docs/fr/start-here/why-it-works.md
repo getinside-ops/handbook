@@ -14,12 +14,12 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 
 <div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px;">
   
-  <div class="mermaid" style="display: flex; justify-content: center; margin: 40px 0;">
-  flowchart TD
-    %% Définition des nœuds avec du contenu HTML
-    A("<h3>🛍️ L'ÉDITEUR</h3><p style='font-size:14px; color:#586069; margin:10px 0 0 0;'>Un e-commerçant rend son inventaire disponible (colis, emails, pages de confirmation).</p>")
-    B("<h3>⚙️ LE MATCHING</h3><p style='font-size:14px; color:#586069; margin:10px 0 0 0;'>getinside connecte les deux acteurs selon les affinités produits (ex: Vin + Fromage).</p>")
-    C("<h3>🚀 L'ANNONCEUR</h3><p style='font-size:14px; color:#586069; margin:10px 0 0 0;'>La marque partenaire diffuse son offre directement au cœur de l'expérience client.</p>")
+```mermaid
+flowchart TD
+    %% Définition des nœuds (HTML simplifié pour compatibilité)
+    A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Un e-commerçant rend son inventaire<br/>disponible (colis, emails, pages).")
+    B("<b>⚙️ LE MATCHING</b><br/><br/>getinside connecte les deux acteurs<br/>selon les affinités produits.")
+    C("<b>🚀 L'ANNONCEUR</b><br/><br/>La marque partenaire diffuse son offre<br/>au cœur de l'expérience client.")
 
     %% Connexions
     A --> B
@@ -27,20 +27,18 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
     C --> A
 
     %% Styles des boîtes
-    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,text-align:center,padding:20px,width:280px;
-    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,text-align:center,padding:20px,width:280px;
+    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,color:#24292e;
+    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,color:#24292e;
 
     class A,C default;
     class B matchingNode;
 
-    %% Style des flèches (Index 0, 1 et 2)
-    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none; 
-  </div>
+    %% Style des flèches
+    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
 
+    </div>
+```
 </div>
-
-
-
 
 <hr class="my-6">
 
