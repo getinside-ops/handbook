@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comment ça fonctionne ?
-parent: Comprendre le modèle
+parent: Comprendre le Retail Media
 nav_order: 1
 toc: false
 ---
@@ -213,7 +213,7 @@ flowchart TD
 
 <hr class="my-6">
 
-<div style="text-align: center; background: #24292e; color: white; padding: 40px; border-radius: 8px; margin-top: 40px;">
+<div style="text-align: center; background: #FFFFFF; color: white; padding: 40px; border-radius: 8px; margin-top: 40px;">
   <h2 class="text-white mb-3">Prêt à activer votre croissance ?</h2>
   <p class="fs-4 text-grey-lt-100 mb-6" style="max-width: 600px; margin: 0 auto;">
     Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.

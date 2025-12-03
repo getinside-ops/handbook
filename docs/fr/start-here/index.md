@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comprendre le modèle
+title: Comprendre le Retail Media
 nav_order: 0
 has_children: true
 toc: false
