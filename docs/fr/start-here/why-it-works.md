@@ -36,7 +36,6 @@ flowchart TD
     linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
     </div>
 ```
-  </div>
 </div>
 
 <hr class="my-6">
