@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Découvrir le Retail Media
+title: Comprendre le modèle
 nav_order: 0
 has_children: true
 toc: false
@@ -9,7 +9,7 @@ toc: false
 # Découvrir le Retail Media
 {: .fs-9 }
 
-Comprendre les mécanismes du levier publicitaire le plus performant du moment en 3 minutes chrono.
+De la simple publicité au partenariat marchand : définition et opportunités pour votre marque.
 {: .fs-6 .fw-300 }
 
 <!-- BOUTON RETOUR -->
@@ -96,7 +96,7 @@ Comprendre les mécanismes du levier publicitaire le plus performant du moment e
   </a>
   
   <!-- CONTEST -->
-  <a href="../advertisers/co-branded-contest/" style="text-decoration: none; color: inherit;">
+  <a href="../advertisers/co-branded-contest" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🎁</div>
       <div>
@@ -109,24 +109,45 @@ Comprendre les mécanismes du levier publicitaire le plus performant du moment e
 
 </div>
 
-<h2 class="text-grey-dk-000 mb-4">La "Touch" getinside</h2>
-<p class="fs-4">Pourquoi ne pas contacter les e-commerçants en direct ?</p>
+<h2 class="text-grey-dk-000 mb-4">La Valeur Ajoutée de la Plateforme</h2>
+<p class="fs-4">getinside agit comme un tiers de confiance pour sécuriser et fluidifier les échanges.</p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <strong class="fs-4 d-block mb-2">🤝 Tiers de Confiance</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Nous sécurisons les transactions, gérons les contrats et garantissons la neutralité. Vous évitez les litiges et les impayés.</p>
+    <strong class="fs-4 d-block mb-2">🤝 Centralisation</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Un seul contrat et une seule facturation pour accéder à +250 partenaires. Fini la gestion administrative multiple.</p>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <strong class="fs-4 d-block mb-2">🧠 Expertise Stratégique</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Quel format pour quel objectif ? Notre équipe vous conseille sur le mix média idéal (Papier + Digital) pour maximiser le ROI.</p>
+    <strong class="fs-4 d-block mb-2">🛡️ Sécurité Financière</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Nous sécurisons les fonds avant le lancement. L'éditeur est assuré d'être payé, l'annonceur est assuré que la prestation est réalisée.</p>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <strong class="fs-4 d-block mb-2">⚙️ Tech & Logistique</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Impression, routage, tracking, conformité RGPD, API réseaux sociaux... Nous absorbons toute la complexité technique.</p>
+    <p class="fs-2 text-grey-dk-000 mb-0">Impression, routage, tracking, conformité RGPD... Nous absorbons la complexité technique pour vous.</p>
   </div>
 
+</div>
+
+<h2 class="text-blue-200 mb-4">Nos Process & Conseils ?</h2>
+
+<div style="border: 2px solid #2d6fd6; background-color: #f0f8ff; border-radius: 8px; padding: 24px;">
+  <p class="fs-3 mb-4">Le Retail Media impose une rigueur opérationnelle stricte. Nos procédures (BAT, Lead Time, Tracking) ne sont pas des contraintes administratives, mais des <strong>garanties de performance</strong>.</p>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+    <div>
+      <strong>⚡ Rapidité</strong>
+      <p class="fs-2 text-grey-dk-000">Un format standardisé (fichiers, colisage) permet une validation et une mise en place 2x plus rapide par les entrepôts.</p>
+    </div>
+    <div>
+      <strong>✅ Qualité</strong>
+      <p class="fs-2 text-grey-dk-000">Le respect du workflow de validation (BAT) élimine 99% des erreurs (liens cassés, fautes, mauvaise cible).</p>
+    </div>
+    <div>
+      <strong>📈 Mesure</strong>
+      <p class="fs-2 text-grey-dk-000">L'utilisation de nos outils de tracking est la seule manière d'obtenir des statistiques fiables et incontestables.</p>
+    </div>
+  </div>
 </div>
