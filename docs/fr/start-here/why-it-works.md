@@ -16,24 +16,24 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 
 ```mermaid
 flowchart LR
-    %% Définition des nœuds
-    A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Inventaire disponible<br/>(colis, emails).")
-    B("<b>⚙️ LE MATCHING</b><br/><br/>Connexion par<br/>affinités produits.")
-    C("<b>🚀 L'ANNONCEUR</b><br/><br/>Diffusion de l'offre<br/>ciblée.")
+    %% Définition des nœuds (Texte simplifié sans balises HTML complexes)
+    A("🛍️ L'ÉDITEUR<br/>Inventaire disponible<br/>(colis, emails)")
+    B("⚙️ LE MATCHING<br/>Connexion par<br/>affinités produits")
+    C("🚀 L'ANNONCEUR<br/>Diffusion de l'offre<br/>ciblée")
 
-    %% Connexions (Cycle)
+    %% Connexions
     A --> B
     B --> C
     C --> A
 
     %% Styles
-    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,color:#24292e,width:200px;
-    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,color:#24292e,width:200px;
+    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:10,ry:10,color:#24292e,width:200px,font-weight:bold;
+    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:10,ry:10,color:#24292e,width:200px,font-weight:bold;
 
     class A,C default;
     class B matchingNode;
 
-    %% Style des flèches COURBES (C'est ici que la magie opère pour l'effet cercle)
+    %% Style des flèches courbes
     linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none,interpolate:basis;
 ```
 </div>
@@ -217,4 +217,22 @@ flowchart LR
       <li class="mb-2"><strong>Panier Moyen (AOV) :</strong> <br>Ciblage High-End vs Mass Market.</li>
       <li class="mb-2"><strong>Géographie :</strong> <br>National ou local (zones de chalandise).</li>
       <li class="mb-2"><strong>Typologie Client :</strong> <br>B2B (Pros) vs B2C (Particuliers).</li>
-      <li><
+      <li><strong>Univers Produit :</strong> <br>Maison, Beauté, Tech, Food, etc.</li>
+      <li><strong>Pays :</strong> <br>Audiences dans toute l'Europe.</li>
+    </ul>
+
+  </div>
+
+</div>
+
+<hr class="my-6">
+
+<div style="text-align: center; background: #F9F9F9; color: #24292e; padding: 40px; border-radius: 8px; margin-top: 40px;">
+  <h2 class="text-purple-200 mb-3">Prêt à activer votre croissance ?</h2>
+  <p class="fs-4 text-grey-dk-000 mb-6" style="max-width: 600px; margin: 0 auto;">
+    Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
+  </p>
+  <div style="margin-top: 30px;">
+    <a href="mailto:studio@getinside.com" class="btn btn-purple fs-4 py-3 px-5">Discuter de mon projet</a>
+  </div>
+</div>
