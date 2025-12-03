@@ -12,28 +12,29 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
-```mermaid
-flowchart LR
-    %% Définition des nœuds (Texte simplifié sans balises HTML complexes)
-    A("🛍️ L'ÉDITEUR<br/>Inventaire disponible<br/>(colis, emails)")
-    B("⚙️ LE MATCHING<br/>Connexion par<br/>affinités produits")
-    C("🚀 L'ANNONCEUR<br/>Diffusion de l'offre<br/>ciblée")
+<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px; text-align: center;">
 
-    %% Connexions
-    A --> B
-    B --> C
-    C --> A
+<div class="mermaid">
+%%{ init: { 'flowchart': { 'curve': 'basis' } } }%%
+flowchart LR;
+    A("🛍️ L'ÉDITEUR<br/>Inventaire disponible<br/>(colis, emails)");
+    B("⚙️ LE MATCHING<br/>Connexion par<br/>affinités produits");
+    C("🚀 L'ANNONCEUR<br/>Diffusion de l'offre<br/>ciblée");
 
-    %% Styles
+    A-->B;
+    B-->C;
+    C-->A;
+
     classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:10,ry:10,color:#24292e,width:200px,font-weight:bold;
     classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:10,ry:10,color:#24292e,width:200px,font-weight:bold;
-
+    
     class A,C default;
     class B matchingNode;
+    
+    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
+</div>
 
-    %% Style des flèches courbes
-    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none,interpolate:basis;
-```
+</div>
 
 <hr class="my-6">
 
