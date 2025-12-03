@@ -12,37 +12,57 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
-<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px; text-align: center;">
+<!-- DEBUT DU SCHEMA HTML -->
+<div style="background-color: #f6f8fa; border-radius: 12px; padding: 40px 20px; margin: 30px 0 50px 0;">
+  
+  <!-- CONTENEUR FLEXIBLE -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: stretch;">
 
-<div class="mermaid">
-%%{ init: { 'flowchart': { 'curve': 'basis' } } }%%
-flowchart LR;
-    A("🛍️ L'ÉDITEUR<br/>Inventaire disponible<br/>(colis, emails)");
-    B("⚙️ LE MATCHING<br/>Connexion par<br/>affinités produits");
-    C("🚀 L'ANNONCEUR<br/>Diffusion de l'offre<br/>ciblée");
-    D("💰 LA MONÉTISATION<br/>Revenus versés<br/>à l'éditeur");
+    <!-- ETAPE 1 : EDITEUR -->
+    <div style="flex: 1; min-width: 200px; background: #fff; border: 2px solid #e1e4e8; border-radius: 8px; padding: 20px; text-align: center; position: relative;">
+      <div style="font-size: 28px; margin-bottom: 10px;">🛍️</div>
+      <strong style="color: #24292e; text-transform: uppercase;">1. L'Éditeur</strong>
+      <p style="font-size: 14px; color: #586069; margin-top: 8px; line-height: 1.4;">
+        Met à disposition son inventaire<br>(Colis, Emails, Confirmations).
+      </p>
+      <!-- Flèche vers la droite (visible sur desktop) -->
+      <div style="display: block; font-size: 24px; color: #7253ed; margin-top: 10px;">⤵</div>
+    </div>
 
-    %% Connexions avec étiquettes pour expliquer le flux
-    A -->|Inventaire| B;
-    B -->|Smart Data| C;
-    C -->|Budget| D;
-    D -->|Réinvestissement| A;
+    <!-- ETAPE 2 : MATCHING -->
+    <div style="flex: 1; min-width: 200px; background: #fcfbff; border: 2px dashed #7253ed; border-radius: 8px; padding: 20px; text-align: center;">
+      <div style="font-size: 28px; margin-bottom: 10px;">⚙️</div>
+      <strong style="color: #7253ed; text-transform: uppercase;">2. Le Matching</strong>
+      <p style="font-size: 14px; color: #586069; margin-top: 8px; line-height: 1.4;">
+        L'IA connecte les marques<br>selon les affinités produits.
+      </p>
+       <div style="display: block; font-size: 24px; color: #7253ed; margin-top: 10px;">⤵</div>
+    </div>
 
-    %% Styles des boîtes
-    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:10,ry:10,color:#24292e,width:180px,font-weight:bold;
-    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:10,ry:10,color:#24292e,width:180px,font-weight:bold;
-    classDef moneyNode fill:#f0fcf4,stroke:#2da44e,stroke-width:2px,rx:10,ry:10,color:#24292e,width:180px,font-weight:bold;
+    <!-- ETAPE 3 : ANNONCEUR -->
+    <div style="flex: 1; min-width: 200px; background: #fff; border: 2px solid #e1e4e8; border-radius: 8px; padding: 20px; text-align: center;">
+      <div style="font-size: 28px; margin-bottom: 10px;">🚀</div>
+      <strong style="color: #24292e; text-transform: uppercase;">3. L'Annonceur</strong>
+      <p style="font-size: 14px; color: #586069; margin-top: 8px; line-height: 1.4;">
+        Diffuse son offre exclusive<br>au cœur de l'expérience client.
+      </p>
+       <div style="display: block; font-size: 24px; color: #2da44e; margin-top: 10px;">⤵</div>
+    </div>
 
-    class A,C default;
-    class B matchingNode;
-    class D moneyNode;
+    <!-- ETAPE 4 : MONETISATION -->
+    <div style="flex: 1; min-width: 200px; background: #f0fcf4; border: 2px solid #2da44e; border-radius: 8px; padding: 20px; text-align: center;">
+      <div style="font-size: 28px; margin-bottom: 10px;">💰</div>
+      <strong style="color: #2da44e; text-transform: uppercase;">4. Monétisation</strong>
+      <p style="font-size: 14px; color: #586069; margin-top: 8px; line-height: 1.4;">
+        L'éditeur perçoit des revenus<br>pour financer son acquisition.
+      </p>
+       <div style="display: block; font-size: 24px; color: #2da44e; margin-top: 10px; transform: rotate(180deg);">⤴</div>
+       <div style="font-size: 11px; color: #2da44e; font-weight: bold;">RETOUR À L'ÉDITEUR</div>
+    </div>
 
-    %% Styles des flèches et du texte sur les flèches
-    linkStyle default stroke:#7253ed,stroke-width:2px,fill:none;
-    linkStyle 3 stroke:#2da44e,stroke-width:2px; 
+  </div>
 </div>
-
-</div>
+<!-- FIN DU SCHEMA HTML -->
 
 <hr class="my-6">
 
