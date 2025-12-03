@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Display Email
+title: Display Email (publisher)
 parent: Espace Éditeurs
 has_children: true
 nav_order: 3
 ---
 
-# Encart Newsletter (Display)
+# Encart Newsletter (Display Email)
 {: .fs-9 }
 
 Monétisez vos newsletters et emails transactionnels en y insérant simplement une bannière partenaire.

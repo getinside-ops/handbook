@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logistique & Insertion
-parent: Asile Colis
+parent: Sponsored Mail (publisher)
 grand_parent: Espace Éditeurs
 nav_order: 1
 ---

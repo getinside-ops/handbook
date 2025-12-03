@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Process & Data
-parent: Jeu Concours
+parent: Co-Branded Contest
 grand_parent: Espace Annonceurs
 nav_order: 1
 ---

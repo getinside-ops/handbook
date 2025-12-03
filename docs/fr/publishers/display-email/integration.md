@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intégration & Envoi
-parent: Encart Newsletter
+parent: Display Email (publisher)
 grand_parent: Espace Éditeurs
 nav_order: 1
 ---

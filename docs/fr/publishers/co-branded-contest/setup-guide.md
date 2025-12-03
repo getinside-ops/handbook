@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setup & RGPD
-parent: Jeu Concours
+parent: Co-Branded Contest (publisher)
 grand_parent: Espace Éditeurs
 nav_order: 1
 ---

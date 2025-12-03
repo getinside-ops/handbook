@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sponsored Social
+title: Sponsored Social (publisher)
 parent: Espace Éditeurs
 has_children: true
 nav_order: 4

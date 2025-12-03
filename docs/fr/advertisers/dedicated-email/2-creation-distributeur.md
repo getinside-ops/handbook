@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Production (Distributeur)
-parent: Emailing Dédié
+parent: Dedicated Email
 grand_parent: Espace Annonceurs
 nav_order: 2
 toc: false

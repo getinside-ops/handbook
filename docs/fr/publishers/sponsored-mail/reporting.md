@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Suivi & Reporting
-parent: Asile Colis
+parent: Sponsored Mail (publisher)
 grand_parent: Espace Éditeurs
 nav_order: 2
 ---

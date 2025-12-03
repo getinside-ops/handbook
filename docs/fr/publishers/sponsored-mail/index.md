@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sponsored Mail (logistics)
+title: Sponsored Mail (publisher)
 parent: Espace Éditeurs
 has_children: true
 nav_order: 1

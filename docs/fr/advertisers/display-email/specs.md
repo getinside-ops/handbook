@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spécifications Bannières
-parent: Encart Newsletter
+parent: Display Email
 grand_parent: Espace Annonceurs
 nav_order: 2
 ---

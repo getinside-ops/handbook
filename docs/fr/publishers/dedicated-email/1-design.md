@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Création & Design
-parent: Emailing Dédié
+parent: Dedicated Email (publisher)
 grand_parent: Espace Éditeurs
 nav_order: 1
 ---

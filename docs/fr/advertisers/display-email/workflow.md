@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Process & Validation
-parent: Encart Newsletter
+parent: Display Email
 grand_parent: Espace Annonceurs
 nav_order: 1
 ---
