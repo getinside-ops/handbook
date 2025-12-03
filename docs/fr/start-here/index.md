@@ -130,24 +130,37 @@ Définition et opportunités pour votre marque.
   </div>
 
 </div>
-
-<h2 class="text-blue-200 mb-4">Nos Process & Conseils</h2>
+<h2 class="text-blue-200 mb-4">L'Excellence Opérationnelle : Clé de la Récurrence</h2>
 
 <div style="border: 2px solid #2d6fd6; background-color: #f0f8ff; border-radius: 8px; padding: 24px;">
-  <p class="fs-3 mb-4">Nos procédures (BAT, Lead Time, Tracking) sont des <strong>garanties de performance</strong>.</p>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+  <p class="fs-4 mb-4">
+    La confiance des annonceurs ne se gagne pas seulement sur l'audience, elle se gagne sur l'<strong>exécution sans faille</strong>.
+  </p>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px;">
     <div>
-      <strong>⚡ Rapidité</strong>
-      <p class="fs-2 text-grey-dk-000">Les processus standardisés à l'échelle de la plateforme permettent une validation et une mise en place rapide, et permettent aux annonceurs de se projeter facilement.</p>
+      <strong style="color: #0366d6;">⚡ Réactivité = Confiance</strong>
+      <p class="fs-2 text-grey-dk-000">Les processus standardisés rassurent les grandes marques. Une mise en place rapide prouve votre professionnalisme.</p>
     </div>
     <div>
-      <strong>✅ Qualité</strong>
-      <p class="fs-2 text-grey-dk-000">Le respect des workflows de validation (BAT) élimine 99% des erreurs (liens cassés, fautes, retards).</p>
+      <strong style="color: #0366d6;">✅ Zéro Erreur = Brand Safety</strong>
+      <p class="fs-2 text-grey-dk-000">Le respect strict des workflows (BAT, validation) garantit que l'image de marque de l'annonceur est protégée.</p>
     </div>
     <div>
-      <strong>📈 Mesure</strong>
-      <p class="fs-2 text-grey-dk-000">L'utilisation de nos outils de tracking permet d'obtenir des statistiques fiables  en temps réel.</p>
+      <strong style="color: #0366d6;">📈 Data Fiable = Renouvellement</strong>
+      <p class="fs-2 text-grey-dk-000">Un tracking posé correctement permet de prouver le ROI. C'est la condition <em>sine qua non</em> pour qu'un annonceur re-signe.</p>
     </div>
   </div>
+
+  <div style="background-color: #fff; border-left: 4px solid #d73a49; padding: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    <h4 class="mt-0 mb-2 text-red-100" style="display: flex; align-items: center; gap: 10px;">
+      <span>⚠️</span> Impact direct sur vos revenus
+    </h4>
+    <p class="fs-2 text-grey-dk-000 mb-0">
+      Notre algorithme de matching prend en compte la fiabilité historique de l'éditeur. 
+      <br><strong>Attention :</strong> Des manquements opérationnels (retards, non-respect des process, tracking défaillant) réduisent votre "score de qualité" et diminuent automatiquement vos chances de recevoir de futures propositions de campagnes.
+    </p>
+  </div>
+
 </div>
