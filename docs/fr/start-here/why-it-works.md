@@ -12,11 +12,11 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
-<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px;">
-  
+<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px;" markdown="1">
+
 ```mermaid
 flowchart TD
-    %% Définition des nœuds (HTML simplifié pour compatibilité)
+    %% Définition des nœuds
     A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Un e-commerçant rend son inventaire<br/>disponible (colis, emails, pages).")
     B("<b>⚙️ LE MATCHING</b><br/><br/>getinside connecte les deux acteurs<br/>selon les affinités produits.")
     C("<b>🚀 L'ANNONCEUR</b><br/><br/>La marque partenaire diffuse son offre<br/>au cœur de l'expérience client.")
@@ -26,15 +26,15 @@ flowchart TD
     B --> C
     C --> A
 
-    %% Styles des boîtes
+    %% Styles
     classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,color:#24292e;
     classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,color:#24292e;
 
     class A,C default;
     class B matchingNode;
 
-    %% Style des flèches
     linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
+    </div>
 ```
   </div>
 </div>
@@ -220,6 +220,6 @@ flowchart TD
     Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
   </p>
   <div style="margin-top: 30px;">
-    <a href="mailto:studio@getinside.com" class="btn btn-primary fs-4 py-3 px-5">Discuter de mon projet</a>
+    <a href="mailto:studio@getinside.com" class="btn btn-purple fs-4 py-3 px-5">Discuter de mon projet</a>
   </div>
 </div>
