@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dedicated Email
+title: Dedicated Email (publisher)
 parent: Espace Éditeurs
 has_children: true
 nav_order: 2
