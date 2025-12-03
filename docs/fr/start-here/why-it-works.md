@@ -12,71 +12,57 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
-<!-- DEBUT DU SCHEMA HTML -->
-<div style="background-color: #f6f8fa; border-radius: 12px; padding: 40px 10px; margin: 30px 0 50px 0;">
-  
-  <!-- CONTENEUR FLEXIBLE -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+<!-- DEBUT DU SCHEMA CYCLE -->
+<div style="background-color: #f6f8fa; border-radius: 12px; padding: 30px; margin: 30px 0 50px 0;">
 
-    <!-- ETAPE 1 : EDITEUR -->
-    <div style="flex: 1; min-width: 220px; max-width: 280px; background: #fff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 20px; text-align: center; height: 180px; display: flex; flex-direction: column; justify-content: center;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🛍️</div>
-      <strong style="color: #24292e; text-transform: uppercase; font-size: 14px;">1. L'Éditeur</strong>
-      <p style="font-size: 13px; color: #586069; margin: 8px 0 0 0; line-height: 1.4;">
-        Met à disposition son inventaire<br>(Colis, Emails).
-      </p>
-    </div>
+  <!-- GRILLE 2x2 (CSS Grid en inline) -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
 
-    <!-- FLECHE 1 -->
-    <div style="font-size: 24px; color: #959da5; display: flex; align-items: center;">➔</div>
-
-    <!-- ETAPE 2 : MATCHING (SANS IA) -->
-    <div style="flex: 1; min-width: 220px; max-width: 280px; background: #fcfbff; border: 2px dashed #7253ed; border-radius: 12px; padding: 20px; text-align: center; height: 180px; display: flex; flex-direction: column; justify-content: center;">
-      <div style="font-size: 32px; margin-bottom: 10px;">⚙️</div>
-      <strong style="color: #7253ed; text-transform: uppercase; font-size: 14px;">2. Le Matching</strong>
-      <p style="font-size: 13px; color: #586069; margin: 8px 0 0 0; line-height: 1.4;">
-        L'algorithme connecte les marques selon les affinités produits.
-      </p>
-    </div>
-
-    <!-- FLECHE 2 -->
-    <div style="font-size: 24px; color: #959da5; display: flex; align-items: center;">➔</div>
-
-    <!-- ETAPE 3 : ANNONCEUR -->
-    <div style="flex: 1; min-width: 220px; max-width: 280px; background: #fff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 20px; text-align: center; height: 180px; display: flex; flex-direction: column; justify-content: center;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🚀</div>
-      <strong style="color: #24292e; text-transform: uppercase; font-size: 14px;">3. L'Annonceur</strong>
-      <p style="font-size: 13px; color: #586069; margin: 8px 0 0 0; line-height: 1.4;">
-        Diffuse son offre exclusive au cœur de l'expérience.
-      </p>
-    </div>
-
-  </div>
-
-  <!-- LIGNE DE RETOUR (MONETISATION) -->
-  <div style="margin-top: 20px; display: flex; justify-content: center;">
-    
-    <div style="width: 100%; max-width: 600px; background: #f0fcf4; border: 2px solid #2da44e; border-radius: 12px; padding: 20px; display: flex; align-items: center; justify-content: space-between; gap: 15px;">
-      
-      <!-- Icone gauche (Flèche qui remonte) -->
-      <div style="font-size: 30px; color: #2da44e; transform: scaleX(-1);">⤴️</div>
-
-      <div style="text-align: center; flex: 1;">
-        <strong style="color: #2da44e; text-transform: uppercase; font-size: 14px;">4. La Monétisation (Cercle Vertueux)</strong>
-        <p style="font-size: 13px; color: #24292e; margin: 5px 0 0 0; line-height: 1.4;">
-          L'éditeur perçoit 100% des revenus et finance sa propre acquisition.
-        </p>
+    <!-- 1. EDITEUR (Top Gauche) -->
+    <div style="background: #fff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 20px; position: relative;">
+      <div style="display: flex; justify-content: space-between; align-items: start;">
+        <span style="font-size: 28px;">🛍️</span>
+        <span style="color: #959da5; font-size: 20px;">➔</span>
       </div>
+      <strong style="display: block; color: #24292e; margin-top: 10px; font-size: 15px;">1. L'ÉDITEUR</strong>
+      <p style="font-size: 13px; color: #586069; margin: 5px 0 0 0; line-height: 1.4;">Met son inventaire à disposition (colis, emails).</p>
+    </div>
 
-       <!-- Icone droite (Sac d'argent) -->
-      <div style="font-size: 30px;">💰</div>
+    <!-- 2. MATCHING (Top Droite) -->
+    <div style="background: #fcfbff; border: 2px dashed #7253ed; border-radius: 12px; padding: 20px; position: relative;">
+      <div style="display: flex; justify-content: space-between; align-items: start;">
+        <span style="font-size: 28px;">⚙️</span>
+        <span style="color: #959da5; font-size: 20px; transform: rotate(90deg);">➔</span>
+      </div>
+      <strong style="display: block; color: #7253ed; margin-top: 10px; font-size: 15px;">2. LE MATCHING</strong>
+      <p style="font-size: 13px; color: #586069; margin: 5px 0 0 0; line-height: 1.4;">L'algo connecte les affinités produits.</p>
+    </div>
 
+    <!-- 4. MONETISATION (Bas Gauche) - Notez l'ordre visuel inversé pour le cycle -->
+    <div style="background: #f0fcf4; border: 2px solid #2da44e; border-radius: 12px; padding: 20px; position: relative; order: 4;">
+      <div style="display: flex; justify-content: space-between; align-items: start;">
+        <span style="font-size: 28px;">💰</span>
+        <span style="color: #2da44e; font-size: 20px; transform: rotate(-90deg);">➔</span>
+      </div>
+      <strong style="display: block; color: #2da44e; margin-top: 10px; font-size: 15px;">4. MONÉTISATION</strong>
+      <p style="font-size: 13px; color: #24292e; margin: 5px 0 0 0; line-height: 1.4;">100% des revenus pour financer l'acquisition.</p>
+      <!-- Petit label "Retour" -->
+      <div style="position: absolute; top: 15px; right: 15px; font-size: 10px; font-weight: bold; color: #2da44e; text-transform: uppercase;">Retour Éditeur</div>
+    </div>
+
+    <!-- 3. ANNONCEUR (Bas Droite) -->
+    <div style="background: #fff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 20px; position: relative; order: 3;">
+      <div style="display: flex; justify-content: space-between; align-items: start;">
+        <span style="font-size: 28px;">🚀</span>
+        <span style="color: #959da5; font-size: 20px; transform: rotate(180deg);">➔</span>
+      </div>
+      <strong style="display: block; color: #24292e; margin-top: 10px; font-size: 15px;">3. L'ANNONCEUR</strong>
+      <p style="font-size: 13px; color: #586069; margin: 5px 0 0 0; line-height: 1.4;">Diffuse son offre exclusive au cœur de l'expérience.</p>
     </div>
 
   </div>
-
 </div>
-<!-- FIN DU SCHEMA HTML -->
+<!-- FIN DU SCHEMA CYCLE -->
 
 <hr class="my-6">
 
