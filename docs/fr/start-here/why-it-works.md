@@ -20,18 +20,26 @@ flowchart LR;
     A("🛍️ L'ÉDITEUR<br/>Inventaire disponible<br/>(colis, emails)");
     B("⚙️ LE MATCHING<br/>Connexion par<br/>affinités produits");
     C("🚀 L'ANNONCEUR<br/>Diffusion de l'offre<br/>ciblée");
+    D("💰 LA MONÉTISATION<br/>Revenus versés<br/>à l'éditeur");
 
-    A-->B;
-    B-->C;
-    C-->A;
+    %% Connexions avec étiquettes pour expliquer le flux
+    A -->|Inventaire| B;
+    B -->|Smart Data| C;
+    C -->|Budget| D;
+    D -->|Réinvestissement| A;
 
-    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:10,ry:10,color:#24292e,width:200px,font-weight:bold;
-    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:10,ry:10,color:#24292e,width:200px,font-weight:bold;
-    
+    %% Styles des boîtes
+    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:10,ry:10,color:#24292e,width:180px,font-weight:bold;
+    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:10,ry:10,color:#24292e,width:180px,font-weight:bold;
+    classDef moneyNode fill:#f0fcf4,stroke:#2da44e,stroke-width:2px,rx:10,ry:10,color:#24292e,width:180px,font-weight:bold;
+
     class A,C default;
     class B matchingNode;
-    
-    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
+    class D moneyNode;
+
+    %% Styles des flèches et du texte sur les flèches
+    linkStyle default stroke:#7253ed,stroke-width:2px,fill:none;
+    linkStyle 3 stroke:#2da44e,stroke-width:2px; 
 </div>
 
 </div>
