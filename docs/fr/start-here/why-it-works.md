@@ -113,6 +113,7 @@ flowchart TD
   
   <p class="mt-3 fs-2 text-grey-dk-000 mb-0"><em>Résultat : Vous financez votre acquisition client... grâce à vos propres colis !</em></p>
 </div>
+</div>
 
 <!-- REMPLACEMENT DU TABLEAU PAR UNE GRILLE FLEX (Plus robuste) -->
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
