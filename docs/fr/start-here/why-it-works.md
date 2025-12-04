@@ -13,7 +13,7 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 {: .fs-6 .fw-300 }
 
 <!-- DEBUT DU SCHEMA MERMAID -->
-```mermaid
+<div class="mermaid">
 flowchart TD
     %% --- STYLES ---
     classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
@@ -65,7 +65,7 @@ flowchart TD
     %% stroke:none retire la bordure
     style Row1 fill:#ffffff,stroke:none
     style Row2 fill:#ffffff,stroke:none
-```
+</div>
 
 <hr class="my-6">
 
@@ -266,3 +266,8 @@ flowchart TD
     <a href="mailto:studio@getinside.com" class="btn btn-purple fs-4 py-3 px-5">Discuter de mon projet</a>
   </div>
 </div>
+
+<script type="module">
+  import mermaid from '[https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs](https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs)';
+  mermaid.initialize({ startOnLoad: true });
+</script>
