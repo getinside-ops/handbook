@@ -20,21 +20,20 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
 <h2 class="text-blue-200 mb-4">1. Configuration & Démarrage</h2>
 
-<!-- GRILLE 3 COLONNES -->
-<!-- minmax(210px) permet d'afficher 3 colonnes dès que l'écran fait +700px de large -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<!-- CORRECTION : minmax(220px) force 3 colonnes sur desktop -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
-  <!-- CARTE 1 : ONBOARDING -->
+  <!-- ONBOARDING -->
   <a href="onboarding-process" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; display: flex; flex-direction: column; align-items: start; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">🚀</div>
       <h3 class="mt-0 mb-2">Guide de Démarrage</h3>
-      <p class="mb-4 fs-2 text-grey-dk-000 flex-grow-1">Les 3 piliers : Activation, Trade Marketing et Prospection.</p>
+      <p class="mb-4 fs-2 text-grey-dk-000 flex-grow-1">Comprendre les 3 piliers : Activation, Trade Marketing et Prospection.</p>
       <span class="btn btn-outline btn-sm">Voir le guide</span>
     </div>
   </a>
 
-  <!-- CARTE 2 : AUDIENCE -->
+  <!-- AUDIENCE & SCORE -->
   <a href="audience-setup" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; display: flex; flex-direction: column; align-items: start; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">🎯</div>
@@ -44,7 +43,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
     </div>
   </a>
 
-  <!-- CARTE 3 : AFFILIATION -->
+  <!-- AFFILIATION -->
   <a href="affiliation" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; display: flex; flex-direction: column; align-items: start; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">🤝</div>
