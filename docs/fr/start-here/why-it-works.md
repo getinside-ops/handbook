@@ -34,7 +34,7 @@ flowchart TD
 
     %% Les Noeuds (Nodes)
     Node_Distri["📦 <b>L'E-COMMERÇANT</b><br/><br/><small>Envoie déjà ses colis et emails<br/>à ses propres clients.</small>"]
-    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Monétise vos colis, emails,<br/> et tous vos autres espaces !</small>"]
+    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Connecte l'inventaire disponible<br/>aux marques partenaires.</small>"]
     Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Achète cet espace pour<br/>diffuser son offre.</small>"]
     Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Les revenus générés financent<br/>votre propre acquisition client !</small>"]
 
