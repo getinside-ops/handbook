@@ -12,6 +12,7 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
+
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
   mermaid.initialize({ 
@@ -20,6 +21,8 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
     securityLevel: 'loose'
   });
 </script>
+
+<div style="background-color: #f6f8fa; border-radius: 8px; padding: 40px; margin-top: 30px; margin-bottom: 50px; display: flex; justify-content: center;">
 
 <pre class="mermaid" style="background: transparent; border: none; margin: 0;">
 {% raw %}
@@ -69,7 +72,7 @@ flowchart TD
     L_Node_Fund_Node_Distri_0@{ animation: slow }
 {% endraw %}
 </pre>
-
+</div>
 
 <h2 class="text-purple-200 mb-4">Le Transfert de Confiance (Endorsement)</h2>
 
@@ -114,6 +117,13 @@ flowchart TD
   
   <p class="mt-3 fs-2 text-grey-dk-000 mb-0"><em>Résultat : Vous financez votre acquisition client... grâce à vos propres colis !</em></p>
 </div>
+</div>
+
+<div style="margin-top: 60px; margin-bottom: 30px;">
+  <h2 class="text-purple-200 mb-2">3 Leviers, 1 Écosystème</h2>
+  <p class="fs-4 mt-0 text-grey-dk-000">
+    Ne laissez aucun asset inexploité. getinside valorise vos points de contact physiques et digitaux pour maximiser la couverture.
+  </p>
 </div>
 
 <!-- REMPLACEMENT DU TABLEAU PAR UNE GRILLE FLEX (Plus robuste) -->
@@ -250,7 +260,7 @@ flowchart TD
       <li class="mb-2"><strong>Géographie :</strong> <br>National ou local (zones de chalandise).</li>
       <li class="mb-2"><strong>Typologie Client :</strong> <br>B2B (Pros) vs B2C (Particuliers).</li>
       <li><strong>Univers Produit :</strong> <br>Maison, Beauté, Tech, Food, etc.</li>
-      <li><strong>Pays :</strong> <br>Audiences dans toute l'Europe.</li>
+      <li><strong>Pays :</strong> <br>France, Belgique, Espagne, Allemagne, etc.</li>
     </ul>
 
   </div>
