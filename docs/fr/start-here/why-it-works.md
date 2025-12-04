@@ -59,9 +59,8 @@ flowchart TD
     linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,fill:none;
 
     %% --- SUPPRESSION DES BORDURES ---
-    style Row1 fill:none,stroke:none
-    style Row2 fill:none,stroke:none
-</div>
+    style Row1 stroke:none
+    style Row2 stroke:none
 
 </div>
 
