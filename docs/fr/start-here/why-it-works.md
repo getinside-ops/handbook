@@ -65,8 +65,8 @@ flowchart TD
     style Row1 stroke:none
     style Row2 stroke:none
 </div>
-
 </div>
+
 <hr class="my-6">
 
 <h2 class="text-purple-200 mb-4">Le Transfert de Confiance (Endorsement)</h2>

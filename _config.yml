@@ -11,6 +11,7 @@ baseurl: /handbook
 remote_theme: just-the-docs/just-the-docs
 mermaid:
   enabled: true
+  version: "11.12.2"
 
 # Schéma de couleur par défaut (Light = Violet)
 color_scheme: light
