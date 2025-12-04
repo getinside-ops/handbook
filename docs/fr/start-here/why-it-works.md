@@ -13,7 +13,10 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 {: .fs-6 .fw-300 }
 
 <!-- DEBUT DU SCHEMA MERMAID -->
-```mermaid
+
+<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px; text-align: center;">
+
+<div class="mermaid">
 flowchart TD
     %% --- STYLES ---
     classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
@@ -53,8 +56,17 @@ flowchart TD
 
     %% Style Spécifique pour le 4ème lien (Index 3) : VERT + POINTILLÉS
     linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,fill:none;
-```
+    L_Node_Distri_Node_Plat_0@{ animation: slow } 
+    L_Node_Adv_Node_Fund_0@{ animation: slow } 
+    L_Node_Plat_Node_Adv_0@{ animation: slow } 
+    L_Node_Fund_Node_Distri_0@{ animation: slow }
 
+
+    style Row1 stroke:none
+    style Row2 stroke:none
+</div>
+
+</div>
 <hr class="my-6">
 
 <h2 class="text-purple-200 mb-4">Le Transfert de Confiance (Endorsement)</h2>
