@@ -13,9 +13,6 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 {: .fs-6 .fw-300 }
 
 <!-- DEBUT DU SCHEMA MERMAID -->
-
-<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px; text-align: center;">
-
 <div class="mermaid">
 flowchart TD
     %% --- STYLES ---
@@ -24,12 +21,18 @@ flowchart TD
     classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
 
     %% --- CONTENU ---
-    Node_Distri["<div style='text-align:left; min-width:180px'>📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition (colis, emails).<br/></small></div>"]
+    %% Note: J'ai sécurisé les chaînes HTML avec des guillemets
+    
+    Node_Distri["<div style='text-align:left; min-width:180px'>📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition (colis, emails).</small></div>"]
+    
     Node_Plat["<div style='text-align:left; min-width:180px'>⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small></div>"]
-    Node_Adv["<div style='text-align:left; min-width:180px'>📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive au cœur de l'expérience de l'e-commerçant.<br/></small></div>"]
+    
+    Node_Adv["<div style='text-align:left; min-width:180px'>📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive au cœur de l'expérience.</small></div>"]
+    
     Node_Fund["<div style='text-align:left; min-width:180px'>📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small></div>"]
 
     %% --- STRUCTURE ---
+    
     subgraph Row1 [ ]
         direction LR
         Node_Distri --> Node_Plat
@@ -40,10 +43,10 @@ flowchart TD
         Node_Adv --> Node_Fund
     end
 
+    %% Liens Verticaux
     Node_Plat --> Node_Adv
-
-    %% --- LE LIEN MODIFIÉ ---
-    %% On injecte du HTML ici pour le fond vert du texte
+    
+    %% Lien de retour avec style HTML
     Node_Fund -->|"<span style='background-color:#f0fdf4; color:#1b5e20; padding:5px 10px; border:1px solid #4CAF50; border-radius:12px;'>Finance l'acquisition</span>"| Node_Distri
 
     %% --- APPLICATION DES STYLES ---
@@ -51,15 +54,15 @@ flowchart TD
     class Node_Plat techCard;
     class Node_Fund growthCard;
     
-    %% Style par défaut (Gris)
+    %% Styles des liens
     linkStyle 0,1,2 stroke:#b0b8c3,stroke-width:2px,fill:none;
-
-    %% Style Spécifique pour le 4ème lien (Index 3) : VERT + POINTILLÉS
     linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,fill:none;
 
-    style Row1 stroke:none
-    style Row2 stroke:none
+    %% --- SUPPRESSION DES BORDURES ---
+    style Row1 fill:none,stroke:none
+    style Row2 fill:none,stroke:none
 </div>
+
 </div>
 
 <hr class="my-6">

@@ -50,7 +50,7 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
     <h3 class="mt-0 text-purple-200">Option A : Le "Cumul"</h3>
     <p>Laissez vos revenus s'accumuler sur votre cagnotte.</p>
     <ul>
-      <li><strong>Avantage :</strong> En espaçant vos retraits (trimestriellement ou semestriellement), contactez votre Account Manager pour débloquer un retrait groupé <strong>sans frais</strong>.</li>
+      <li><strong>Avantage :</strong> En espaçant vos retraits, retirez vos revenus une fois par an, en un retrait groupé <strong>sans frais</strong>.</li>
     </ul>
   </div>
 
