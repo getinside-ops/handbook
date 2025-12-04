@@ -56,11 +56,6 @@ flowchart TD
 
     %% Style Spécifique pour le 4ème lien (Index 3) : VERT + POINTILLÉS
     linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,fill:none;
-    L_Node_Distri_Node_Plat_0@{ animation: slow } 
-    L_Node_Adv_Node_Fund_0@{ animation: slow } 
-    L_Node_Plat_Node_Adv_0@{ animation: slow } 
-    L_Node_Fund_Node_Distri_0@{ animation: slow }
-
 
     style Row1 stroke:none
     style Row2 stroke:none
