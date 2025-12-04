@@ -3,10 +3,10 @@ layout: default
 title: Home
 nav_exclude: true
 permalink: /
-description: "getinside Help Center: Official guides and documentation."
+description: "getinside Handbook: Official guides and documentation."
 ---
 
-# getinside Help Center
+# getinside Handbook
 {: .fs-9 }
 
 Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.

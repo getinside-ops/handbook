@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Help Center
+title: Handbook
 description: Official knowledge base for getinside Retail Media operations.
 url: https://getinside-ops.github.io/handbook
 baseurl: /handbook
@@ -10,7 +10,7 @@ baseurl: /handbook
 # Le thème officiel
 remote_theme: just-the-docs/just-the-docs
 mermaid:
-  enabled: true
+  version: "11,12,2"
 
 # Schéma de couleur par défaut (Light = Violet)
 color_scheme: light

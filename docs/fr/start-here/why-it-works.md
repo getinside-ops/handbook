@@ -12,6 +12,15 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
+```mermaid
+graph TD;
+    accTitle: the diamond pattern
+    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 <h2 class="text-purple-200 mb-4">Le Transfert de Confiance (Endorsement)</h2>
 
