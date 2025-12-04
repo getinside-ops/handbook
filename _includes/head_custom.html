@@ -83,13 +83,11 @@
 
 <div id="back-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">↑</div>
 
-<script>
-  window.onscroll = function() {
-    var btn = document.getElementById("back-to-top");
-    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-      btn.style.display = "block";
-    } else {
-      btn.style.display = "none";
-    }
-  };
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ 
+    startOnLoad: true, 
+    securityLevel: 'loose',
+    theme: 'base'
+  });
 </script>
