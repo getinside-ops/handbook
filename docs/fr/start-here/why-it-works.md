@@ -12,6 +12,15 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ 
+    startOnLoad: true, 
+    theme: 'base',
+    securityLevel: 'loose'
+  });
+</script>
+
 <div class="mermaid">
 graph TD;
     accTitle: the diamond pattern
