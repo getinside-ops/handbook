@@ -20,16 +20,16 @@ flowchart TD
     classDef techCard fill:#fbfaff,stroke:#5B4DFF,stroke-width:2px,stroke-dasharray: 5 5,color:#5B4DFF,rx:8,ry:8;
     classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
 
-    %% --- CONTENU ---
-    %% Note: J'ai sécurisé les chaînes HTML avec des guillemets
+    %% --- CONTENU SIMPLIFIÉ (Sans DIV) ---
+    %% On utilise <br/> pour les sauts de ligne et <b> pour le gras
     
-    Node_Distri["<div style='text-align:left; min-width:180px'>📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition (colis, emails).</small></div>"]
+    Node_Distri["📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition<br/>(colis, emails).</small>"]
     
-    Node_Plat["<div style='text-align:left; min-width:180px'>⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small></div>"]
+    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small>"]
     
-    Node_Adv["<div style='text-align:left; min-width:180px'>📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive au cœur de l'expérience.</small></div>"]
+    Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive<br/>au cœur de l'expérience.</small>"]
     
-    Node_Fund["<div style='text-align:left; min-width:180px'>📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small></div>"]
+    Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small>"]
 
     %% --- STRUCTURE ---
     
@@ -43,11 +43,11 @@ flowchart TD
         Node_Adv --> Node_Fund
     end
 
-    %% Liens Verticaux
+    %% Liens
     Node_Plat --> Node_Adv
     
-    %% Lien de retour avec style HTML
-    Node_Fund -->|"<span style='background-color:#f0fdf4; color:#1b5e20; padding:5px 10px; border:1px solid #4CAF50; border-radius:12px;'>Finance l'acquisition</span>"| Node_Distri
+    %% Lien de retour (Texte simple pour éviter le crash)
+    Node_Fund -->|Finance l'acquisition| Node_Distri
 
     %% --- APPLICATION DES STYLES ---
     class Node_Distri,Node_Adv defaultCard;
@@ -56,11 +56,15 @@ flowchart TD
     
     %% Styles des liens
     linkStyle 0,1,2 stroke:#b0b8c3,stroke-width:2px,fill:none;
-    linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,fill:none;
+    
+    %% Style du lien de retour (Vert + Pointillés + Texte Vert)
+    linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,color:#1b5e20,fill:none;
 
-    %% --- SUPPRESSION DES BORDURES ---
-    style Row1 stroke:none
-    style Row2 stroke:none
+    %% --- STYLE DES SUBGRAPHS (Fond OUI, Bordure NON) ---
+    %% fill:#ffffff met un fond blanc
+    %% stroke:none retire la bordure
+    style Row1 fill:#ffffff,stroke:none
+    style Row2 fill:#ffffff,stroke:none
 
 </div>
 
