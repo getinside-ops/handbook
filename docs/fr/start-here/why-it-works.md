@@ -21,15 +21,30 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
   });
 </script>
 
-<div class="mermaid">
-graph TD;
-    accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+<pre class="mermaid" style="background: transparent; border: none; margin: 0;">
+{% raw %}
+flowchart TD
+    N1("📦 LE DISTRIBUTEUR<br/>Inventaire disponible")
+    N2("⚡ LA PLATEFORME<br/>Matching 48h")
+    N3("📢 L'ANNONCEUR<br/>Offre exclusive")
+    N4("📈 SMART FUNDING<br/>Finance l'acquisition")
+
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 -.->|RETOUR| N1
+
+    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,color:#333;
+    classDef tech fill:#fbfaff,stroke:#5B4DFF,stroke-dasharray: 5 5,color:#5B4DFF;
+    classDef growth fill:#f0fdf4,stroke:#4CAF50,color:#1b5e20;
+
+    class N1,N3 default;
+    class N2 tech;
+    class N4 growth;
+
+    linkStyle 3 stroke:#4CAF50,stroke-width:2px;
+{% endraw %}
+</pre>
 
 
 <h2 class="text-purple-200 mb-4">Le Transfert de Confiance (Endorsement)</h2>
