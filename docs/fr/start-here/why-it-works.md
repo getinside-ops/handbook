@@ -12,7 +12,9 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
-```mermaid
+<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px; text-align: center;">
+
+<div class="mermaid">
 graph TD;
     accTitle: the diamond pattern
     accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
@@ -20,7 +22,9 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
-```
+</div>
+
+</div>
 
 <h2 class="text-purple-200 mb-4">Le Transfert de Confiance (Endorsement)</h2>
 
