@@ -236,8 +236,3 @@ flowchart TD
     <a href="mailto:studio@getinside.com" class="btn btn-purple fs-4 py-3 px-5">Discuter de mon projet</a>
   </div>
 </div>
-
-<script type="module">
-  import mermaid from '[https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs](https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs)';
-  mermaid.initialize({ startOnLoad: true });
-</script>
