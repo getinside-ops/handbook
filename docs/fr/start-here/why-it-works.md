@@ -24,25 +24,49 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 <pre class="mermaid" style="background: transparent; border: none; margin: 0;">
 {% raw %}
 flowchart TD
-    N1("📦 LE DISTRIBUTEUR<br/>Inventaire disponible")
-    N2("⚡ LA PLATEFORME<br/>Matching 48h")
-    N3("📢 L'ANNONCEUR<br/>Offre exclusive")
-    N4("📈 SMART FUNDING<br/>Finance l'acquisition")
+    %% --- STYLES ---
+    classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
+    classDef techCard fill:#fbfaff,stroke:#5B4DFF,stroke-width:2px,stroke-dasharray: 5 5,color:#5B4DFF,rx:8,ry:8;
+    classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
 
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 -.->|RETOUR| N1
+    %% --- CONTENU ---
+    Node_Distri["📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition<br/>(colis, emails).</small>"]
+    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small>"]
+    Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive<br/>au cœur de l'expérience.</small>"]
+    Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small>"]
 
-    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,color:#333;
-    classDef tech fill:#fbfaff,stroke:#5B4DFF,stroke-dasharray: 5 5,color:#5B4DFF;
-    classDef growth fill:#f0fdf4,stroke:#4CAF50,color:#1b5e20;
+    %% --- STRUCTURE ---
+    subgraph Row1 [ ]
+        direction LR
+        Node_Distri --> Node_Plat
+    end
 
-    class N1,N3 default;
-    class N2 tech;
-    class N4 growth;
+    subgraph Row2 [ ]
+        direction RL
+        Node_Adv --> Node_Fund
+    end
 
-    linkStyle 3 stroke:#4CAF50,stroke-width:2px;
+    Node_Plat --> Node_Adv
+    
+    %% --- LIEN DE RETOUR ---
+    Node_Fund -->|Finance l'acquisition| Node_Distri
+
+    %% --- STYLES ---
+    class Node_Distri,Node_Adv defaultCard;
+    class Node_Plat techCard;
+    class Node_Fund growthCard;
+    
+    linkStyle 0,1,2 stroke:#b0b8c3,stroke-width:2px,fill:none;
+    linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,color:#1b5e20,fill:none;
+
+    %% --- SUPPRESSION BORDURES ---
+    style Row1 fill:#ffffff,stroke:none
+    style Row2 fill:#ffffff,stroke:none
+
+    L_Node_Distri_Node_Plat_0@{ animation: slow } 
+    L_Node_Adv_Node_Fund_0@{ animation: slow } 
+    L_Node_Plat_Node_Adv_0@{ animation: slow } 
+    L_Node_Fund_Node_Distri_0@{ animation: slow }
 {% endraw %}
 </pre>
 
