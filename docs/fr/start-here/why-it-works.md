@@ -27,46 +27,34 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 <pre class="mermaid" style="background: transparent; border: none; margin: 0;">
 {% raw %}
 flowchart TD
-    %% --- STYLES ---
+    %% Définition des styles
     classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
     classDef techCard fill:#fbfaff,stroke:#5B4DFF,stroke-width:2px,stroke-dasharray: 5 5,color:#5B4DFF,rx:8,ry:8;
     classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
 
-    %% --- CONTENU ---
-    Node_Distri["📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition<br/>(colis, emails).</small>"]
-    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small>"]
-    Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive<br/>au cœur de l'expérience.</small>"]
-    Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small>"]
+    %% Les Noeuds (Nodes)
+    Node_Distri["📦 <b>L'E-COMMERÇANT</b><br/><br/><small>Envoie déjà ses colis et emails<br/>à ses propres clients.</small>"]
+    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Monétise vos colis, emails,<br/> et tous vos autres espaces !</small>"]
+    Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Achète cet espace pour<br/>diffuser son offre.</small>"]
+    Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Les revenus générés financent<br/>votre propre acquisition client !</small>"]
 
-    %% --- STRUCTURE ---
-    subgraph Row1 [ ]
-        direction LR
-        Node_Distri --> Node_Plat
-    end
-
-    subgraph Row2 [ ]
-        direction RL
-        Node_Adv --> Node_Fund
-    end
-
+    %% Les Liens (Actions)
+    Node_Distri --> Node_Plat
     Node_Plat --> Node_Adv
-    
-    %% --- LIEN DE RETOUR ---
-    Node_Fund -->|Finance l'acquisition| Node_Distri
+    Node_Adv -->Node_Fund
+    Node_Fund -->|💰 Finance <br>l'acquisition client| Node_Distri
 
-    %% --- STYLES ---
+    %% Application des styles
     class Node_Distri,Node_Adv defaultCard;
     class Node_Plat techCard;
     class Node_Fund growthCard;
-    
-    linkStyle 0,1,2 stroke:#b0b8c3,stroke-width:2px,fill:none;
-    linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,color:#1b5e20,fill:none;
 
-    %% --- SUPPRESSION BORDURES ---
-    style Row1 fill:#ffffff,stroke:none
-    style Row2 fill:#ffffff,stroke:none
+    %% Style des liens
+    linkStyle 0,1 stroke:#b0b8c3,stroke-width:2px,fill:none;
+    linkStyle 2 stroke:#b0b8c3,stroke-width:2px,fill:none;
+    linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,color:#1b5e20,fill:none,background-color:white;
 
-    L_Node_Distri_Node_Plat_0@{ animation: slow } 
+        L_Node_Distri_Node_Plat_0@{ animation: slow } 
     L_Node_Adv_Node_Fund_0@{ animation: slow } 
     L_Node_Plat_Node_Adv_0@{ animation: slow } 
     L_Node_Fund_Node_Distri_0@{ animation: slow }
