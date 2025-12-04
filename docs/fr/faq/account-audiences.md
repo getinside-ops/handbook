@@ -41,3 +41,18 @@ nav_order: 1
     Le statut de vos filleuls est visible dans l'onglet <strong>Affiliation</strong>. Dès qu'ils s'activent, vos commissions apparaissent automatiquement dans <strong>Transactions > Revenus</strong>.
   </div>
 </details>
+
+<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+  <summary style="font-weight: bold; cursor: pointer;">Pourquoi mon "Score Distributeur" a baissé ?</summary>
+  <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
+    Le score est recalculé dynamiquement. Une baisse peut être due à :
+    <ul>
+      <li>Un délai de réponse trop long (> 48h) sur vos dernières demandes.</li>
+      <li>Des refus de propositions de campagne sans contre-proposition ni justification.</li>
+      <li>Des délais de distribution plus long que prévus (Fiabilité).</li>
+      <li>Un tarif CPM jugé trop élevé par rapport à la concurrence de votre secteur.</li>
+    </ul>
+    Contactez l'équipe getinside pour voir quel axe améliorer.
+  </div>
+</details>
+

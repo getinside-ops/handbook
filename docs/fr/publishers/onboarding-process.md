@@ -43,16 +43,16 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 </div>
 
 <!-- ETAPE 3 -->
+
+<!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Création des Audiences</h3>
-    <p>Dans l'onglet <strong>Monétisation</strong>, l'équipe e-commerçant crée ses audiences. Vous devez remplir une fiche de présentation complète pour chaque audience :</p>
-    <ul>
-      <li><strong>Visuels :</strong> Logo et bannière.</li>
-      <li><strong>Description :</strong> Présentation textuelle.</li>
-      <li><strong>Data :</strong> Infos démographiques, Persona, Panier moyen.</li>
-    </ul>
+    <p>Dans l'onglet <strong>Monétisation</strong>, l'équipe e-commerçant crée ses audiences.</p>
+    <div style="margin-top: 10px;">
+      <a href="audience-setup" class="btn btn-outline btn-sm">Voir le guide détaillé de la Fiche Audience & Score →</a>
+    </div>
   </div>
 </div>
 

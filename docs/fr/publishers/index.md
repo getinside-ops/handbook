@@ -35,6 +35,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </div>
 </div>
 
+
 <h2 class="text-grey-dk-000 mb-4">Formats & Opérations</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 40px;">
@@ -68,6 +69,13 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
 
 </div>
+
+<a href="audience-setup" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; height: 100%; transition: all 0.2s;" onmouseover="this.style.borderColor='#7253ed'; this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='#e1e4e8'; this.style.transform='translateY(0)'">
+      <div class="fs-4 mb-2">🎯 Audience & Score</div>
+      <p class="fs-2 text-grey-dk-000 mb-0">Comprendre la fiche audience et optimiser votre score distributeur.</p>
+    </div>
+  </a>
 
 <h2 class="text-grey-dk-000 mb-4">Finance & Admin</h2>
 
