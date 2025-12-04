@@ -14,7 +14,7 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 
 <!-- DEBUT DU SCHEMA MERMAID -->
 <div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px;" markdown="1">
-```mermaid
+<div class="mermaid">
 flowchart TD
     %% Définition des nœuds
     A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Un e-commerçant rend son inventaire<br/>disponible (colis, emails, pages).")
@@ -35,7 +35,8 @@ flowchart TD
 
     linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
 </div>
-```
+</div>
+
 
 
 <hr class="my-6">
