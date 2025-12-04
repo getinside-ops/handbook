@@ -21,12 +21,12 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
 <h2 class="text-blue-200 mb-4">1. Configuration & Démarrage</h2>
 
-<!-- GRILLE 2 COLONNES STABLE -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<!-- CORRECTION : PASSAGE EN FLEXBOX POUR L'ALIGNEMENT -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
 
   <!-- ONBOARDING -->
-  <a href="onboarding-process" style="text-decoration: none; color: inherit; display: block;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; display: flex; flex-direction: column; align-items: start;">
+  <a href="onboarding-process" style="text-decoration: none; color: inherit; flex: 1 1 300px;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; display: flex; flex-direction: column; align-items: start; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">🚀</div>
       <h3 class="mt-0 mb-2">Guide de Démarrage</h3>
       <p class="mb-4 fs-2 text-grey-dk-000 flex-grow-1">Comprendre les 3 piliers : Activation, Trade Marketing et Prospection.</p>
@@ -35,8 +35,8 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
 
   <!-- AUDIENCE & SCORE -->
-  <a href="audience-setup" style="text-decoration: none; color: inherit; display: block;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; display: flex; flex-direction: column; align-items: start;">
+  <a href="audience-setup" style="text-decoration: none; color: inherit; flex: 1 1 300px;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; display: flex; flex-direction: column; align-items: start; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">🎯</div>
       <h3 class="mt-0 mb-2">Audience & Score</h3>
       <p class="mb-4 fs-2 text-grey-dk-000 flex-grow-1">Comment remplir votre fiche pour être visible et optimiser votre score distributeur.</p>
@@ -48,11 +48,10 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
 <h2 class="text-grey-dk-000 mb-4">2. Formats & Opérations</h2>
 
-<!-- GRILLE AUTOMATIQUE (S'adapte à la largeur) -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
 
   <!-- ASILE COLIS -->
-  <a href="sponsored-mail/" style="text-decoration: none; color: inherit;">
+  <a href="sponsored-mail/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">📦</div>
       <div class="fs-4 fw-700 mb-2">Asile Colis</div>
@@ -61,7 +60,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
 
   <!-- EMAILING -->
-  <a href="dedicated-email/" style="text-decoration: none; color: inherit;">
+  <a href="dedicated-email/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">📧</div>
       <div class="fs-4 fw-700 mb-2">Emailing Dédié</div>
@@ -70,7 +69,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
 
   <!-- ENCART -->
-  <a href="display-email/" style="text-decoration: none; color: inherit;">
+  <a href="display-email/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">🖼️</div>
       <div class="fs-4 fw-700 mb-2">Encart Newsletter</div>
@@ -79,7 +78,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
 
   <!-- SOCIAL -->
-  <a href="sponsored-social/" style="text-decoration: none; color: inherit;">
+  <a href="sponsored-social/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">📱</div>
       <div class="fs-4 fw-700 mb-2">Social Ads</div>
@@ -88,7 +87,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
   
    <!-- JEU CONCOURS -->
-   <a href="co-branded-contest/" style="text-decoration: none; color: inherit;">
+   <a href="co-branded-contest/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">🎁</div>
       <div class="fs-4 fw-700 mb-2">Jeu Concours</div>
@@ -100,9 +99,9 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
 <h2 class="text-grey-dk-000 mb-4">3. Finance & Admin</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <a href="pricing" style="text-decoration: none; color: inherit;">
+  <a href="pricing" style="text-decoration: none; color: inherit; flex: 1 1 200px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">💎</div>
       <div class="fs-4 fw-700 mb-2">Abonnements & Offres</div>
@@ -110,7 +109,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
     </div>
   </a>
 
-  <a href="payouts" style="text-decoration: none; color: inherit;">
+  <a href="payouts" style="text-decoration: none; color: inherit; flex: 1 1 200px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">💸</div>
       <div class="fs-4 fw-700 mb-2">Paiements & Wallet</div>
@@ -118,7 +117,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
     </div>
   </a>
 
-  <a href="affiliation" style="text-decoration: none; color: inherit;">
+  <a href="affiliation" style="text-decoration: none; color: inherit; flex: 1 1 200px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 32px; margin-bottom: 10px;">🤝</div>
       <div class="fs-4 fw-700 mb-2">Affiliation</div>
