@@ -13,7 +13,7 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 {: .fs-6 .fw-300 }
 
 <!-- DEBUT DU SCHEMA MERMAID -->
-<div class="mermaid">
+```mermaid
 flowchart TD
     %% --- STYLES ---
     classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
@@ -65,8 +65,7 @@ flowchart TD
     %% stroke:none retire la bordure
     style Row1 fill:#ffffff,stroke:none
     style Row2 fill:#ffffff,stroke:none
-
-</div>
+```
 
 <hr class="my-6">
 
@@ -108,7 +107,7 @@ flowchart TD
     <div style="background: #fff; padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
       <strong>3. Acquisition</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
-    </div>
+  
   </div>
   
   <p class="mt-3 fs-2 text-grey-dk-000 mb-0"><em>Résultat : Vous financez votre acquisition client... grâce à vos propres colis !</em></p>
