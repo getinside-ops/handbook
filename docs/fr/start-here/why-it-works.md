@@ -14,35 +14,25 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 
 <!-- DEBUT DU SCHEMA MERMAID -->
 <div class="mermaid">
-flowchart TD
-classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
-classDef techCard fill:#fbfaff,stroke:#5B4DFF,stroke-width:2px,stroke-dasharray: 5 5,color:#5B4DFF,rx:8,ry:8;
-classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
-Node_Distri["📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition<br/>(colis, emails).</small>"]
-Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small>"]
-Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive<br/>au cœur de l'expérience.</small>"]
-Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small>"]
-subgraph Row1 [ ]
-direction LR
-Node_Distri --> Node_Plat
-end
-subgraph Row2 [ ]
-direction RL
-Node_Adv --> Node_Fund
-end
-Node_Plat --> Node_Adv
-Node_Fund -->|Finance l'acquisition| Node_Distri
-class Node_Distri,Node_Adv defaultCard;
-class Node_Plat techCard;
-class Node_Fund growthCard;
-linkStyle 0,1,2 stroke:#b0b8c3,stroke-width:2px,fill:none;
-linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,color:#1b5e20,fill:none;
-style Row1 fill:#ffffff,stroke:none
-style Row2 fill:#ffffff,stroke:none
-</div>
+%% Définition des nœuds
+    A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Un e-commerçant rend son inventaire<br/>disponible (colis, emails, pages).")
+    B("<b>⚙️ LE MATCHING</b><br/><br/>getinside connecte les deux acteurs<br/>selon les affinités produits.")
+    C("<b>🚀 L'ANNONCEUR</b><br/><br/>La marque partenaire diffuse son offre<br/>au cœur de l'expérience client.")
 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
+    %% Connexions
+    A --> B
+    B --> C
+    C --> A
+
+    %% Styles
+    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,color:#24292e;
+    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,color:#24292e;
+
+    class A,C default;
+    class B matchingNode;
+
+    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
+</div>
 
 <hr class="my-6">
 
