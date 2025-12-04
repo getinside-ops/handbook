@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comprendre le Retail Media
+title: Découvrir getinside
 nav_order: 0
 has_children: true
 toc: false
@@ -55,7 +55,7 @@ Définition et opportunités pour votre marque.
   </div>
 </div>
 
-<h2 class="text-blue-200 mb-4">Un écosystème complet (4 Formats)</h2>
+<h2 class="text-blue-200 mb-4">Un écosystème complet</h2>
 
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
 

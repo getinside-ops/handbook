@@ -25,8 +25,8 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
 <div style="background-color: #fff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; margin-bottom: 40px; display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 0 0 50px; font-size: 40px;">🚀</div>
   <div style="flex: 1;">
-    <h2 class="mt-0 fs-4">Nouveau dans le Retail Media ?</h2>
-    <p class="mb-0 text-grey-dk-000">Comprenez les mécanismes de l'Asile Colis et de l'Emailing en 3 minutes avant de lancer votre première campagne.</p>
+    <h2 class="mt-0 fs-4">Nouveau sur getinside ?</h2>
+    <p class="mb-0 text-grey-dk-000">Comprenez les mécanismes du Retail Media en 3 minutes avant de lancer votre première campagne.</p>
   </div>
   <div>
     <a href="docs/fr/start-here/" class="btn btn-outline">Commencer la visite →</a>

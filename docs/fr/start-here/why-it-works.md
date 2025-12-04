@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comment ça fonctionne ?
-parent: Comprendre le Retail Media
+parent: Découvrir getinside
 nav_order: 1
 toc: false
 ---
@@ -12,63 +12,48 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
-<!-- DEBUT DU SCHEMA CERCLE PARFAIT -->
-<div style="background-color: #f6f8fa; border-radius: 12px; padding: 30px; margin: 30px 0 50px 0;">
+<!-- DEBUT DU SCHEMA MERMAID -->
+```mermaid
+flowchart TD
+    %% --- STYLES ---
+    classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
+    classDef techCard fill:#fbfaff,stroke:#5B4DFF,stroke-width:2px,stroke-dasharray: 5 5,color:#5B4DFF,rx:8,ry:8;
+    classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
 
-  <!-- GRILLE 2x2 -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+    %% --- CONTENU ---
+    Node_Distri["<div style='text-align:left; min-width:180px'>📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition (colis, emails).<br/></small></div>"]
+    Node_Plat["<div style='text-align:left; min-width:180px'>⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small></div>"]
+    Node_Adv["<div style='text-align:left; min-width:180px'>📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive au cœur de l'expérience de l'e-commerçant.<br/></small></div>"]
+    Node_Fund["<div style='text-align:left; min-width:180px'>📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small></div>"]
 
-    <!-- 1. EDITEUR (Top Gauche) -->
-    <div style="background: #fff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 20px; position: relative; order: 1;">
-      <div style="display: flex; justify-content: space-between; align-items: start;">
-        <span style="font-size: 28px;">🛍️</span>
-        <!-- Flèche vers la Droite (vers le Matching) -->
-        <span style="color: #959da5; font-size: 24px;">➔</span>
-      </div>
-      <strong style="display: block; color: #24292e; margin-top: 10px; font-size: 15px;">1. L'ÉDITEUR</strong>
-      <p style="font-size: 13px; color: #586069; margin: 5px 0 0 0; line-height: 1.4;">Met son inventaire à disposition (colis, emails).</p>
-    </div>
+    %% --- STRUCTURE ---
+    subgraph Row1 [ ]
+        direction LR
+        Node_Distri --> Node_Plat
+    end
 
-    <!-- 2. MATCHING (Top Droite) -->
-    <div style="background: #fcfbff; border: 2px dashed #7253ed; border-radius: 12px; padding: 20px; position: relative; order: 2;">
-      <div style="display: flex; justify-content: space-between; align-items: start;">
-        <span style="font-size: 28px;">⚙️</span>
-        <!-- Flèche vers le Bas (vers l'Annonceur) -->
-        <span style="color: #959da5; font-size: 24px; transform: rotate(90deg);">➔</span>
-      </div>
-      <strong style="display: block; color: #7253ed; margin-top: 10px; font-size: 15px;">2. LE MATCHING</strong>
-      <p style="font-size: 13px; color: #586069; margin: 5px 0 0 0; line-height: 1.4;">L'algo connecte les affinités produits.</p>
-    </div>
+    subgraph Row2 [ ]
+        direction RL
+        Node_Adv --> Node_Fund
+    end
 
-    <!-- 3. ANNONCEUR (Bas Droite) -->
-    <!-- Notez order: 4 pour le mettre en bas à droite -->
-    <div style="background: #fff; border: 2px solid #e1e4e8; border-radius: 12px; padding: 20px; position: relative; order: 4;">
-      <div style="display: flex; justify-content: space-between; align-items: start;">
-        <span style="font-size: 28px;">🚀</span>
-        <!-- Flèche vers la Gauche (vers la Monétisation) -->
-        <span style="color: #959da5; font-size: 24px; transform: rotate(180deg);">➔</span>
-      </div>
-      <strong style="display: block; color: #24292e; margin-top: 10px; font-size: 15px;">3. L'ANNONCEUR</strong>
-      <p style="font-size: 13px; color: #586069; margin: 5px 0 0 0; line-height: 1.4;">Diffuse son offre exclusive au cœur de l'expérience.</p>
-    </div>
+    Node_Plat --> Node_Adv
 
-    <!-- 4. MONETISATION (Bas Gauche) -->
-    <!-- Notez order: 3 pour le mettre en bas à gauche -->
-    <div style="background: #f0fcf4; border: 2px solid #2da44e; border-radius: 12px; padding: 20px; position: relative; order: 3;">
-      <div style="display: flex; justify-content: space-between; align-items: start;">
-        <span style="font-size: 28px;">💰</span>
-        <!-- Flèche vers le Haut (Retour Editeur) -->
-        <span style="color: #2da44e; font-size: 24px; transform: rotate(-90deg);">➔</span>
-      </div>
-      <strong style="display: block; color: #2da44e; margin-top: 10px; font-size: 15px;">4. MONÉTISATION</strong>
-      <p style="font-size: 13px; color: #24292e; margin: 5px 0 0 0; line-height: 1.4;">100% des revenus pour financer l'acquisition.</p>
-      <!-- Label Retour -->
-      <div style="position: absolute; top: 15px; right: 45px; font-size: 10px; font-weight: bold; color: #2da44e; text-transform: uppercase;">Retour Éditeur</div>
-    </div>
+    %% --- LE LIEN MODIFIÉ ---
+    %% On injecte du HTML ici pour le fond vert du texte
+    Node_Fund -->|"<span style='background-color:#f0fdf4; color:#1b5e20; padding:5px 10px; border:1px solid #4CAF50; border-radius:12px;'>Finance l'acquisition</span>"| Node_Distri
 
-  </div>
-</div>
-<!-- FIN DU SCHEMA CERCLE PARFAIT -->
+    %% --- APPLICATION DES STYLES ---
+    class Node_Distri,Node_Adv defaultCard;
+    class Node_Plat techCard;
+    class Node_Fund growthCard;
+    
+    %% Style par défaut (Gris)
+    linkStyle 0,1,2 stroke:#b0b8c3,stroke-width:2px,fill:none;
+
+    %% Style Spécifique pour le 4ème lien (Index 3) : VERT + POINTILLÉS
+    linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,fill:none;
+```
 
 <hr class="my-6">
 
