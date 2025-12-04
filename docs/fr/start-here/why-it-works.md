@@ -13,31 +13,47 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 {: .fs-6 .fw-300 }
 
 <!-- DEBUT DU SCHEMA MERMAID -->
-<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px;" markdown="1">
 <div class="mermaid">
 flowchart TD
-    %% Définition des nœuds
-    A("<b>🛍️ L'ÉDITEUR</b><br/><br/>Un e-commerçant rend son inventaire<br/>disponible (colis, emails, pages).")
-    B("<b>⚙️ LE MATCHING</b><br/><br/>getinside connecte les deux acteurs<br/>selon les affinités produits.")
-    C("<b>🚀 L'ANNONCEUR</b><br/><br/>La marque partenaire diffuse son offre<br/>au cœur de l'expérience client.")
+    %% --- STYLES ---
+    classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
+    classDef techCard fill:#fbfaff,stroke:#5B4DFF,stroke-width:2px,stroke-dasharray: 5 5,color:#5B4DFF,rx:8,ry:8;
+    classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
 
-    %% Connexions
-    A --> B
-    B --> C
-    C --> A
+    %% --- CONTENU ---
+    Node_Distri["📦 <b>LE DISTRIBUTEUR</b><br/><br/><small>Met son inventaire à disposition<br/>(colis, emails).</small>"]
+    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Matching intelligent &<br/>réponse sous 48h.</small>"]
+    Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Diffuse son offre exclusive<br/>au cœur de l'expérience.</small>"]
+    Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Le solde finance votre<br/>propre acquisition (0% frais).</small>"]
 
-    %% Styles
-    classDef default fill:#fff,stroke:#e1e4e8,stroke-width:2px,rx:8,ry:8,color:#24292e;
-    classDef matchingNode fill:#fcfbff,stroke:#7253ed,stroke-width:2px,stroke-dasharray: 5 5,rx:8,ry:8,color:#24292e;
+    %% --- STRUCTURE ---
+    subgraph Row1 [ ]
+        direction LR
+        Node_Distri --> Node_Plat
+    end
 
-    class A,C default;
-    class B matchingNode;
+    subgraph Row2 [ ]
+        direction RL
+        Node_Adv --> Node_Fund
+    end
 
-    linkStyle 0,1,2 stroke:#7253ed,stroke-width:2px,fill:none;
+    Node_Plat --> Node_Adv
+    
+    %% --- LIEN DE RETOUR ---
+    Node_Fund -->|Finance l'acquisition| Node_Distri
+
+    %% --- STYLES ---
+    class Node_Distri,Node_Adv defaultCard;
+    class Node_Plat techCard;
+    class Node_Fund growthCard;
+    
+    linkStyle 0,1,2 stroke:#b0b8c3,stroke-width:2px,fill:none;
+    linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,color:#1b5e20,fill:none;
+
+    %% --- SUPPRESSION BORDURES ---
+    style Row1 fill:#ffffff,stroke:none
+    style Row2 fill:#ffffff,stroke:none
 </div>
-</div>
-
-
 
 <hr class="my-6">
 
@@ -238,3 +254,8 @@ flowchart TD
     <a href="mailto:studio@getinside.com" class="btn btn-purple fs-4 py-3 px-5">Discuter de mon projet</a>
   </div>
 </div>
+
+<script type="module">
+  import mermaid from '[https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs](https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs)';
+  mermaid.initialize({ startOnLoad: true });
+</script>
