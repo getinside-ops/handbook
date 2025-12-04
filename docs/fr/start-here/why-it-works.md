@@ -13,6 +13,7 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 {: .fs-6 .fw-300 }
 
 <!-- DEBUT DU SCHEMA MERMAID -->
+<div style="background-color: #f6f8fa; border-radius: 8px; padding: 30px; margin-top: 30px; margin-bottom: 40px;" markdown="1">
 <div class="mermaid">
 flowchart TD
     classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333,rx:8,ry:8;
@@ -39,6 +40,7 @@ flowchart TD
     linkStyle 3 stroke:#4CAF50,stroke-width:2px,stroke-dasharray: 5 5,color:#1b5e20,fill:none;
     style Row1 fill:#ffffff,stroke:none
     style Row2 fill:#ffffff,stroke:none
+</div>
 </div>
 
 <hr class="my-6">
