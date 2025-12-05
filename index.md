@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_exclude: true
 permalink: /
-description: "getinside Handbook: Official guides and documentation."
+description: "getinside Help Center: Official guides and documentation."
 ---
 
 # getinside Handbook
