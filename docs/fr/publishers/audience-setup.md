@@ -21,21 +21,21 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
   <div style="flex: 1; min-width: 300px;">
     <p class="fs-4">C'est la première chose que l'annonceur voit. Soignez la présentation pour déclencher le "coup de cœur".</p>
     <ul class="mb-0 fs-3 pl-4">
-      <li class="mb-2"><strong>Présentation :</strong> Ne soyez pas trop technique. Racontez votre histoire, vos valeurs et votre positionnement.</li>
-      <li class="mb-2"><strong>Engagements RSE :</strong> Cochez les cases (Made in France, Colis réutilisables...) uniquement si vous pouvez le prouver. C'est un critère de filtre majeur pour les grandes marques.</li>
-      <li><strong>Visuels :</strong> Uploadez une bannière de haute qualité qui représente votre univers.</li>
+      <li class="mb-2"><strong>Présentation :</strong> Racontez votre histoire, vos valeurs et votre positionnement.</li>
+      <li class="mb-2"><strong>Engagements RSE :</strong> Cochez les cases (Made in France, Colis réutilisables...) uniquement si vous pouvez le prouver.</li>
+      <li><strong>Visuels :</strong> Uploadez un logo et une bannière qui représentent votre univers.</li>
     </ul>
   </div>
 
   <div style="flex: 1; min-width: 300px; background-color: #fcfbff; border: 2px solid #7253ed; border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-purple-200">💡 Le conseil de l'équipe</h3>
-    <p class="mb-0">Dans le champ <strong>"Persona"</strong>, soyez descriptif : <em>"Jardinier amateur ou expert cherchant des produits durables pour entretenir son potager."</em> Cela aide l'IA à mieux comprendre qui sont vos clients.</p>
+    <p class="mb-0">Dans le champ <strong>"Persona"</strong>, soyez descriptif : <em>"Jardinier amateur ou expert cherchant des produits durables pour entretenir son potager."</em> Cela aide les annonceurs à mieux comprendre qui sont vos clients.</p>
   </div>
 
 </div>
 
 <h2 class="text-blue-200 mb-4">2. Les Données Démographiques (Data)</h2>
-<p class="fs-4">Ces champs alimentent l'algorithme de "Smart Matching".</p>
+<p class="fs-4">Ces champs alimentent l'algorithme de getinside.</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
@@ -88,12 +88,12 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <strong class="text-blue-200">📦 Fiabilité Inventaire</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Respectez-vous les volumes promis ? Si vous déclarez 10k colis/semaine mais n'en distribuez que 5k, ce score chute.</p>
+    <p class="fs-2 text-grey-dk-000 mb-0">Respectez-vous les volumes prévus ? Si vous distribuez à répétition des volumes plus faibles sans le justifier dans la messagerie, ce score chute.</p>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <strong class="text-grey-dk-000">📊 Historique</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Basé sur les évaluations des annonceurs après campagne (respect du BAT, qualité d'insertion).</p>
+    <p class="fs-2 text-grey-dk-000 mb-0">Basé sur les campagnes faites précédement sur getinside : plus vous acceptez de campagnes, plus de score augmente.</p>
   </div>
 
 </div>
