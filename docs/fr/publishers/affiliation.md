@@ -64,7 +64,7 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
   <div style="font-size: 60px; font-weight: 800; line-height: 1; margin-bottom: 10px;">20%</div>
   <div class="fs-4 opacity-90">des frais de plateforme générés par vos filleuls</div>
   <hr style="border-color: rgba(255,255,255,0.2); margin: 20px auto; width: 50%;">
-  <p class="fs-3 mb-0">Cette commission est créditée sur votre <strong>Wallet</strong> à chaque facture payée par le filleul.</p>
+  <p class="fs-3 mb-0 text-purple-200">Cette commission est créditée sur votre <strong>Wallet</strong> à chaque facture payée par le filleul.</p>
 </div>
 
 <h2 class="text-grey-dk-000 mb-4">Utilisation des gains</h2>

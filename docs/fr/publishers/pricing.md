@@ -12,21 +12,6 @@ toc: false
 getinside propose trois niveaux d'accompagnement adaptés à votre maturité et vos objectifs de revenus.
 {: .fs-6 .fw-300 }
 
-<h2 class="text-grey-dk-000 mb-4">Tableau Comparatif</h2>
-
-<!-- Tableau en Markdown natif -->
-
-| Fonctionnalités | Starter (Gratuit) | Standard (179€/mois) | Managed (1 399€/mois) |
-| :--- | :--- | :--- | :--- |
-| **Engagement** | Sans engagement | 12 mois | 12 mois |
-| **Frais de plateforme** | 30% | 25% à 15% (dégressif) | 15% fixe |
-| **Activation** (Inbound) | ✅ Inclus | ✅ Inclus | ✅ Inclus |
-| **Prospection** (Outbound) | ❌ | ✅ Accès Base | ✅ Délégué (Sales Ops) |
-| **Expansion** (Vos partenaires) | ❌ | ✅ (0% de frais) | ✅ (0% de frais) |
-| **Sales Ops dédié** | ❌ | ❌ | ✅ Inclus |
-
-<br>
-
 <h2 class="text-grey-dk-000 mb-4">Détail des Offres</h2>
 
 <!-- Conteneur GRID ajusté pour tenir sur une ligne (minmax passé à 220px) -->
@@ -92,3 +77,18 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité et 
   </div>
 
 </div>
+
+<h2 class="text-grey-dk-000 mb-4">Tableau Comparatif</h2>
+
+<!-- Tableau en Markdown natif -->
+
+| Fonctionnalités | Starter (Gratuit) | Standard (179€/mois) | Managed (1 399€/mois) |
+| :--- | :--- | :--- | :--- |
+| **Engagement** | Sans engagement | 12 mois | 12 mois |
+| **Frais de plateforme** | 30% | 25% à 15% (dégressif) | 15% fixe |
+| **Activation** (Inbound) | ✅ Inclus | ✅ Inclus | ✅ Inclus |
+| **Prospection** (Outbound) | ❌ | ✅ Accès Base | ✅ Délégué (Sales Ops) |
+| **Expansion** (Vos partenaires) | ❌ | ✅ (0% de frais) | ✅ (0% de frais) |
+| **Sales Ops dédié** | ❌ | ❌ | ✅ Inclus |
+
+<br>

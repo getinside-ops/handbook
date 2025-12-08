@@ -23,11 +23,14 @@ search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
 # Liens en haut à droite
+aux_links_new_tab: true
 aux_links:
   "Accès SaaS":
     - "https://app.getinside.media/"
   "Site Web":
     - "https://getinside.fr/"
+
+    
 
 # -----------------------------------------------------------------------------
 # Footer
