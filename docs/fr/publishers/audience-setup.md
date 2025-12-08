@@ -35,7 +35,7 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 </div>
 
 <h2 class="text-blue-200 mb-4">2. Les Données Démographiques (Data)</h2>
-<p class="fs-4">Ces champs alimentent l'algorithme de getinside.</p>
+<p class="fs-4">Ces champs alimentent l'algorithme de getinside pour le matching.</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
@@ -62,38 +62,60 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 
 <div style="border: 2px solid #282824; background-color: #fff; padding: 24px; border-radius: 8px; margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <div style="font-size: 40px; font-weight: 800; color: #282824;">3,0<span class="fs-4 text-grey-dk-000">/5</span></div>
+    <div style="font-size: 40px; font-weight: 800; color: #282824;">4,3<span class="fs-4 text-grey-dk-000">/5</span></div>
     <div>
-      <h3 class="mt-0 mb-0">Un indicateur de performance dynamique</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Ce score est calculé automatiquement par la plateforme. Il évolue en temps réel selon vos actions.</p>
+      <h3 class="mt-0 mb-0">Votre passeport pour plus de campagnes</h3>
+      <p class="fs-2 text-grey-dk-000 mb-0">Ce score est recalculé dynamiquement selon 7 critères clés. Il détermine votre position dans les résultats de recherche.</p>
     </div>
   </div>
   
-  <p class="fs-3">Un bon score (> 4/5) remonte votre audience en haut des résultats de recherche des annonceurs.</p>
+  <div class="p-3" style="background-color: #f6f8fa; border-radius: 6px;">
+    <strong>Barème de visibilité :</strong>
+    <ul class="mb-0 mt-2 fs-2">
+      <li class="mb-1"><span style="color: #d73a49;">●</span> <strong>Moins de 3/5 :</strong> Votre audience est peu visible. Des actions correctives sont nécessaires.</li>
+      <li class="mb-1"><span style="color: #d4a72c;">●</span> <strong>De 3 à 4/5 :</strong> Visibilité standard. Vous recevez des propositions régulièrement.</li>
+      <li><span style="color: #28a745;">●</span> <strong>Plus de 4/5 :</strong> Statut "Top Distributeur". Vous apparaissez en priorité et obtenez le badge de confiance.</li>
+    </ul>
+  </div>
 </div>
 
-<h3 class="text-grey-dk-000 mb-4">Comment améliorer mon score ?</h3>
+<h3 class="text-grey-dk-000 mb-4">Détail des 7 critères de notation</h3>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <strong class="text-purple-200">⚡ Réactivité (Critique)</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Répondez aux demandes sous 48h. Les refus ou les non-réponses font baisser cette note.</p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <strong class="text-green-200">💰 Tarification</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Comparaison de votre CPM par rapport à la moyenne du marché sur votre secteur. Si vous êtes trop cher, ce score baisse.</p>
+    <p class="fs-2 text-grey-dk-000 mb-0">L'algorithme compare votre CPM (Coût Pour Mille) à la moyenne du marché sur votre secteur. Un prix cohérent booste ce score.</p>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <strong class="text-blue-200">📦 Fiabilité Inventaire</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Respectez-vous les volumes prévus ? Si vous distribuez à répétition des volumes plus faibles sans le justifier dans la messagerie, ce score chute.</p>
+    <strong class="text-purple-200">📈 Volume semaine (Reach)</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Plus votre capacité de diffusion est importante et stable, plus ce score est élevé. Les volumes trop faibles (<1000/mois) peuvent impacter la note.</p>
+  </div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+    <strong class="text-blue-200">✨ Attractivité de la marque</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Reflète la notoriété et la perception de votre enseigne. Plus votre marque est identifiée comme une référence (grand public ou spécialiste) sur son marché, plus ce score est élevé.</p>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <strong class="text-grey-dk-000">📊 Historique</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Basé sur les campagnes faites précédement sur getinside : plus vous acceptez de campagnes, plus de score augmente.</p>
+    <strong class="text-red-100">📦 Fiabilité de l'inventaire</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Respectez-vous les volumes promis ? Si vous distribuez moins que prévu sans prévenir, ce score chute drastiquement.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+    <strong class="text-grey-dk-000">⚡ Réactivité</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Vitesse de traitement des demandes (acceptation/refus). Visez une réponse sous 48h ouvrées pour maintenir un score maximal.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+    <strong class="text-grey-dk-000">📊 Historique de campagne</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Récompense la fidélité. Ce score augmente mécaniquement avec le nombre de campagnes réussies sur la plateforme.</p>
+  </div>
+  
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+    <strong class="text-grey-dk-000">💬 Communication & Reporting</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Qualité des échanges et upload des preuves de distribution (photos, attestations) dans les délais impartis.</p>
   </div>
 
 </div>
