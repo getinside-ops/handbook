@@ -90,10 +90,10 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <strong class="text-purple-200">📈 Volume semaine (Reach)</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Plus votre capacité de diffusion est importante et stable, plus ce score est élevé. Les volumes trop faibles (<1000/mois) peuvent impacter la note.</p>
+    <p class="fs-2 text-grey-dk-000 mb-0">Plus votre capacité de diffusion est importante et stable, plus ce score est élevé. Les volumes trop faibles peuvent impacter la note.</p>
   </div>
 
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <strong class="text-blue-200">✨ Attractivité de la marque</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Reflète la notoriété et la perception de votre enseigne. Plus votre marque est identifiée comme une référence (grand public ou spécialiste) sur son marché, plus ce score est élevé.</p>
   </div>
@@ -104,8 +104,8 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <strong class="text-grey-dk-000">⚡ Réactivité</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Vitesse de traitement des demandes (acceptation/refus). Visez une réponse sous 48h ouvrées pour maintenir un score maximal.</p>
+    <strong class="text-orange-200">⚡ Réactivité de l'audience</strong>
+    <p class="fs-2 text-grey-dk-000 mb-0">Mesure la performance de vos campagnes passées (taux de scan, usage codes promo). Une audience engagée qui réagit aux offres fait monter ce score.</p>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
@@ -115,7 +115,7 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
   
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
     <strong class="text-grey-dk-000">💬 Communication & Reporting</strong>
-    <p class="fs-2 text-grey-dk-000 mb-0">Qualité des échanges et upload des preuves de distribution (photos, attestations) dans les délais impartis.</p>
+    <p class="fs-2 text-grey-dk-000 mb-0">Évalue votre sérieux opérationnel : rapidité de réponse aux demandes (sous 48h) et envoi des preuves de distribution dans les délais.</p>
   </div>
 
 </div>
