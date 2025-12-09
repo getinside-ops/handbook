@@ -2,7 +2,7 @@
 layout: default
 title: Paiement des Revenus
 parent: Espace Éditeurs
-nav_order: 10
+nav_order: 8
 ---
 
 # Gestion des Revenus et Paiements

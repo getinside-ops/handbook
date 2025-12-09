@@ -3,7 +3,7 @@ layout: default
 title: Co-Branded Contest (publisher)
 parent: Espace Éditeurs
 has_children: true
-nav_order: 5
+nav_order: 6
 ---
 
 # Jeu Concours Co-brandé

@@ -2,7 +2,7 @@
 layout: default
 title: Programme d'Affiliation
 parent: Espace Éditeurs
-nav_order: 11
+nav_order: 10
 toc: false
 ---
 
