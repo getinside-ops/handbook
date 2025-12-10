@@ -3,7 +3,8 @@ layout: default
 title: Display Email (publisher)
 parent: Espace Éditeurs
 has_children: true
-nav_order: 3
+nav_order: 4
+
 ---
 
 # Encart Newsletter (Display Email)
