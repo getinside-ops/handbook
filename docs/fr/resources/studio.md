@@ -26,7 +26,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
     </div>
     <div style="text-align: right;">
       <span style="font-size: 24px; font-weight: 800; color: #282824;">550€ HT</span>
-      <span class="d-block fs-2 text-grey-dk-000">par création</span>
+      <span class="d-block fs-2 text-grey-dk-000">par création / déclinaison</span>
     </div>
   </div>
 
@@ -35,7 +35,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
     <div style="display: flex; flex-direction: column; gap: 15px;">
       <div style="display: flex; gap: 15px;">
         <span style="color: #2da44e;">✔</span>
-        <span><strong>Expertise Retail Media :</strong> Nous maîtrisons les contraintes techniques (fonds perdus, taux d'encrage, délivrabilité email).</span>
+        <span><strong>Expertise Retail Media :</strong> Nous maîtrisons les contraintes techniques (fonds perdus, taux d'encrage, délivrabilité email) par cœur.</span>
       </div>
       <div style="display: flex; gap: 15px;">
         <span style="color: #2da44e;">✔</span>
@@ -70,7 +70,8 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
     </div>
   </a>
 
-  <a href="../../advertisers/case-studies" style="text-decoration: none; color: inherit;">
+  <!-- LIEN CORRIGÉ VERS LA NOUVELLE PAGE INTERNE -->
+  <a href="../case-studies/" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 28px;">📊</div>
       <div style="flex: 1;">
@@ -85,35 +86,43 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 
 <h2 class="text-grey-dk-000 mb-4">Ce que nous produisons</h2>
 
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; background: #fff; overflow: hidden;">
-  <div style="display: flex; flex-wrap: wrap;">
-    
-    <div style="flex: 1 1 250px; padding: 24px; border-bottom: 1px solid #eee; border-right: 1px solid #eee;">
-      <strong class="d-block mb-2 fs-4">📦 Print</strong>
+<!-- LISTE VERTICALE PLEINE LARGEUR (POUR EVITER LES BUGS D'AFFICHAGE) -->
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  
+  <div style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+    <div style="font-size: 30px;">📦</div>
+    <div>
+      <strong class="d-block mb-2 fs-4">Print (Asile Colis)</strong>
       <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
         <li>Flyers A5 / A6</li>
-        <li>Cartes Cadeaux</li>
-        <li>Dépliants</li>
+        <li>Cartes Cadeaux & Invitations</li>
+        <li>Dépliants & Supports Sampling</li>
       </ul>
     </div>
-
-    <div style="flex: 1 1 250px; padding: 24px; border-bottom: 1px solid #eee; border-right: 1px solid #eee;">
-      <strong class="d-block mb-2 fs-4">📧 Email</strong>
-      <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
-        <li>Design HTML Responsive</li>
-        <li>Bannières animées (GIF)</li>
-        <li>Rédaction (Copywriting)</li>
-      </ul>
-    </div>
-
-    <div style="flex: 1 1 250px; padding: 24px; border-bottom: 1px solid #eee;">
-      <strong class="d-block mb-2 fs-4">📱 Social</strong>
-      <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
-        <li>Montage Vidéo (Reels/TikTok)</li>
-        <li>Créa statique (Feed/Story)</li>
-        <li>Adaptation de formats</li>
-      </ul>
-    </div>
-
   </div>
+  
+  <div style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+    <div style="font-size: 30px;">📧</div>
+    <div>
+      <strong class="d-block mb-2 fs-4">Emailing & Web</strong>
+      <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
+        <li>Design HTML Responsive (Optimisé Mobile)</li>
+        <li>Bannières animées (GIF)</li>
+        <li>Rédaction (Copywriting / Objets)</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+    <div style="font-size: 30px;">📱</div>
+    <div>
+      <strong class="d-block mb-2 fs-4">Social Media</strong>
+      <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
+        <li>Montage Vidéo (Reels / TikTok)</li>
+        <li>Créa statique (Feed / Story)</li>
+        <li>Adaptation de formats existants</li>
+      </ul>
+    </div>
+  </div>
+
 </div>

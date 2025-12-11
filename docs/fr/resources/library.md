@@ -29,7 +29,7 @@ Accédez rapidement à tous les gabarits, logos et documents techniques nécessa
 <div class="mt-4 p-4 bg-grey-lt-000 border rounded-1">
   <h4 class="mt-0">Besoin d'aide créative ?</h4>
   <!-- CORRECTION DU LIEN ICI -->
-  <p class="mb-0">Vous n'avez pas les logiciels Adobe ? Déléguez la création à notre <a href="../studio/">Studio Graphique</a>.</p>
+  <p class="mb-0">Vous n'avez pas les logiciels Adobe ? Déléguez la création à notre <a href="studio/">Studio Graphique</a>.</p>
 </div>
 
 <h2 class="text-blue-200 mt-6 mb-4">📄 Checklist</h2>
