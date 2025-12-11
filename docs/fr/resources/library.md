@@ -18,13 +18,13 @@ Accédez rapidement à tous les gabarits, logos et documents techniques nécessa
 
 | Fichier | Format | Usage | Lien |
 | :--- | :--- | :--- | :--- |
-| **Logos Obligatoires** | `.ai / .png` | Logo getinside + Triman + Info-tri (Loi AGEC). | [Accéder au Drive ↗](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){: target="_blank" .btn .btn-outline .btn-sm } |
+| **Logos Obligatoires** | `.svg` | getinside, Triman, Infotri (Loi AGEC) | [Accéder au Drive ↗](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){: target="_blank" .btn .btn-outline .btn-sm } |
 
 <h2>📐 Gabarits Print (Asile Colis)</h2>
 
 | Format | Dimensions | Logiciels | Lien |
 | :--- | :--- | :--- | :--- |
-| **Pack Gabarits** | A5, A6, Carré | `.indd` `.ai` `.pdf` | [Accéder au Drive ↗](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){: target="_blank" .btn .btn-primary .btn-sm } |
+| **Pack Gabarits** | A5, A6 | `.ai` `.pdf` | [Accéder au Drive ↗](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){: target="_blank" .btn .btn-outline .btn-sm } |
 
 <div class="mt-4 p-4 bg-grey-lt-000 border rounded-1">
   <h4 class="mt-0">Besoin d'aide créative ?</h4>
