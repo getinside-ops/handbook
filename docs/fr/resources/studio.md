@@ -71,7 +71,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
   </a>
 
   <!-- LIEN CORRIGÉ VERS LA NOUVELLE PAGE INTERNE -->
-  <a href="../case-studies/" style="text-decoration: none; color: inherit;">
+  <a href="case-studies/" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 28px;">📊</div>
       <div style="flex: 1;">
@@ -95,8 +95,8 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
       <strong class="d-block mb-2 fs-4">Print (Asile Colis)</strong>
       <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
         <li>Flyers A5 / A6</li>
-        <li>Cartes Cadeaux & Invitations</li>
-        <li>Dépliants & Supports Sampling</li>
+        <li>Cartes Cadeaux</li>
+        <li>autres formats sur demande</li>
       </ul>
     </div>
   </div>
