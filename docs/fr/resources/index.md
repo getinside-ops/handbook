@@ -14,6 +14,7 @@ Accédez aux outils, fichiers et guides de dépannage pour gérer vos opération
 
 <hr class="my-6">
 
+<!-- CORRECTION FLEXBOX -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- BIBLIOTHEQUE -->
@@ -25,7 +26,7 @@ Accédez aux outils, fichiers et guides de dépannage pour gérer vos opération
     </div>
   </a>
 
-  <!-- STUDIO (NOUVEAU) -->
+  <!-- STUDIO -->
   <a href="studio/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">🎨</div>

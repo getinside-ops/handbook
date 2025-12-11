@@ -37,10 +37,11 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 
 <h2 class="text-blue-200 mb-4">Inspirations & Réalisations</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<!-- CORRECTION FLEXBOX -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
 
   <!-- BOOK PDF -->
-  <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" style="text-decoration: none; color: inherit; flex: 1 1 300px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 30px; margin-bottom: 15px;">✨</div>
       <h3 class="mt-0">Le Book d'Inspirations</h3>
@@ -50,7 +51,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
   </a>
 
   <!-- CASE STUDIES -->
-  <a href="../../advertisers/case-studies" style="text-decoration: none; color: inherit;">
+  <a href="../../advertisers/case-studies" style="text-decoration: none; color: inherit; flex: 1 1 300px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 30px; margin-bottom: 15px;">📊</div>
       <h3 class="mt-0">Succès Clients (KPIs)</h3>
@@ -63,29 +64,34 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 
 <h2 class="text-grey-dk-000 mb-4">Ce que nous produisons</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
-  <div style="padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff;">
-    <strong>📦 Print</strong>
-    <ul class="mb-0 fs-2 pl-4 text-grey-dk-000">
+<!-- CORRECTION FLEXBOX -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  
+  <div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; flex: 1 1 200px;">
+    <strong class="d-block mb-2 fs-4">📦 Print</strong>
+    <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
       <li>Flyers A5 / A6</li>
       <li>Cartes Cadeaux</li>
       <li>Dépliants</li>
     </ul>
   </div>
-  <div style="padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff;">
-    <strong>📧 Email</strong>
-    <ul class="mb-0 fs-2 pl-4 text-grey-dk-000">
+  
+  <div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; flex: 1 1 200px;">
+    <strong class="d-block mb-2 fs-4">📧 Email</strong>
+    <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
       <li>Design HTML Responsive</li>
       <li>Bannières animées (GIF)</li>
       <li>Rédaction (Copywriting)</li>
     </ul>
   </div>
-  <div style="padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff;">
-    <strong>📱 Social</strong>
-    <ul class="mb-0 fs-2 pl-4 text-grey-dk-000">
+  
+  <div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; flex: 1 1 200px;">
+    <strong class="d-block mb-2 fs-4">📱 Social</strong>
+    <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
       <li>Montage Vidéo (Reels/TikTok)</li>
       <li>Créa statique (Feed/Story)</li>
       <li>Adaptation de formats</li>
     </ul>
   </div>
+
 </div>
