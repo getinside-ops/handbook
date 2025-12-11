@@ -14,33 +14,41 @@ Accédez aux outils, fichiers et guides de dépannage pour gérer vos opération
 
 <hr class="my-6">
 
-<!-- CORRECTION FLEXBOX -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 15px;">
 
   <!-- BIBLIOTHEQUE -->
-  <a href="library/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 32px; margin-bottom: 15px;">📥</div>
-      <h3 class="mt-0">Bibliothèque</h3>
-      <p class="mb-0 text-grey-dk-000">Gabarits InDesign, Logos officiels, Modèles de fichiers CSV.</p>
+  <a href="library/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+      <div style="font-size: 32px; min-width: 50px; text-align: center;">📥</div>
+      <div style="flex: 1;">
+        <h3 class="mt-0 mb-1 fs-4">Bibliothèque (Téléchargements)</h3>
+        <p class="mb-0 fs-2 text-grey-dk-000">Gabarits InDesign, Logos officiels, Modèles de fichiers CSV.</p>
+      </div>
+      <div style="margin-left: 10px; color: #ccc;">➝</div>
     </div>
   </a>
 
   <!-- STUDIO -->
-  <a href="studio/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 32px; margin-bottom: 15px;">🎨</div>
-      <h3 class="mt-0">Studio & Inspirations</h3>
-      <p class="mb-0 text-grey-dk-000">Offre de création graphique, Book d'exemples et Cas clients.</p>
+  <a href="studio/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+      <div style="font-size: 32px; min-width: 50px; text-align: center;">🎨</div>
+      <div style="flex: 1;">
+        <h3 class="mt-0 mb-1 fs-4">Studio & Inspirations</h3>
+        <p class="mb-0 fs-2 text-grey-dk-000">Offre de création graphique, Book d'exemples et Cas clients.</p>
+      </div>
+      <div style="margin-left: 10px; color: #ccc;">➝</div>
     </div>
   </a>
 
   <!-- DEPANNAGE -->
-  <a href="troubleshooting/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
-      <div style="font-size: 32px; margin-bottom: 15px;">🔧</div>
-      <h3 class="mt-0">Troubleshooting</h3>
-      <p class="mb-0 text-grey-dk-000">Solutions aux problèmes fréquents : Tracking, QR codes, Livraison.</p>
+  <a href="troubleshooting/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+      <div style="font-size: 32px; min-width: 50px; text-align: center;">🔧</div>
+      <div style="flex: 1;">
+        <h3 class="mt-0 mb-1 fs-4">Troubleshooting (Dépannage)</h3>
+        <p class="mb-0 fs-2 text-grey-dk-000">Solutions aux problèmes fréquents : Tracking, QR codes, Livraison.</p>
+      </div>
+      <div style="margin-left: 10px; color: #ccc;">➝</div>
     </div>
   </a>
 
