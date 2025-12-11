@@ -14,22 +14,31 @@ Accédez aux outils, fichiers et guides de dépannage pour gérer vos opération
 
 <hr class="my-6">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- BIBLIOTHEQUE -->
-  <a href="library/" style="text-decoration: none; color: inherit;">
+  <a href="library/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">📥</div>
-      <h3 class="mt-0">Bibliothèque (Téléchargements)</h3>
-      <p class="mb-0 text-grey-dk-000">Gabarits, Logos, mentions à intégrer.</p>
+      <h3 class="mt-0">Bibliothèque</h3>
+      <p class="mb-0 text-grey-dk-000">Gabarits InDesign, Logos officiels, Modèles de fichiers CSV.</p>
+    </div>
+  </a>
+
+  <!-- STUDIO (NOUVEAU) -->
+  <a href="studio/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
+      <div style="font-size: 32px; margin-bottom: 15px;">🎨</div>
+      <h3 class="mt-0">Studio & Inspirations</h3>
+      <p class="mb-0 text-grey-dk-000">Offre de création graphique, Book d'exemples et Cas clients.</p>
     </div>
   </a>
 
   <!-- DEPANNAGE -->
-  <a href="troubleshooting/" style="text-decoration: none; color: inherit;">
+  <a href="troubleshooting/" style="text-decoration: none; color: inherit; flex: 1 1 280px;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; height: 100%; transition: box-shadow 0.2s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.05)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size: 32px; margin-bottom: 15px;">🔧</div>
-      <h3 class="mt-0">Troubleshooting (Dépannage)</h3>
+      <h3 class="mt-0">Troubleshooting</h3>
       <p class="mb-0 text-grey-dk-000">Solutions aux problèmes fréquents : Tracking, QR codes, Livraison.</p>
     </div>
   </a>
