@@ -7,31 +7,84 @@ nav_order: 4
 
 # Logistique, Print & Technique
 
+<h2 class="text-red-200 mt-6 mb-4">🚨 Dépannage Technique (Urgent)</h2>
+
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">J'ai reçu les encarts en avance, est-ce que je peux commencer la diffusion de la campagne plus tôt?</summary>
+  <summary style="font-weight: bold; cursor: pointer; color;">Mon QR Code renvoie vers une page 404</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-  il faut impérativement le feu vert de l'annonceur pour diffuser une campagne plus tôt que prévu. Cela peut être génant pour lui si la campagne rentre en concurrence avec une autre offre chez eux, ou si l'offre sur les encarts n'est pas encore active par exemple.
+    <strong>Cause probable :</strong> L'URL de destination configurée dans la plateforme est vide ou erronée.<br>
+    <strong>Solution :</strong>
+    <ol>
+      <li>Connectez-vous à <a href="https://app.getinside.media">app.getinside.media</a>.</li>
+      <li>Allez dans la campagne concernée > Onglet <em>Configuration</em>.</li>
+      <li>Vérifiez le champ "URL de redirection".</li>
+      <li>Sauvegardez. La mise à jour est <strong>instantanée</strong> (pas besoin de réimprimer).</li>
+    </ol>
   </div>
 </details>
 
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Que faire si les encarts sont livrés en retard ?</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Je n'arrive pas à booster le post Instagram</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    Le respect du "Lead Time" est crucial. Un retard de livraison décale d'autant le début de campagne. Si cela crée un conflit logistique, getinside se réserve le droit d'annuler l'opération.
+    <strong>Cause :</strong> L'éditeur n'a pas coché la bonne case.<br>
+    <strong>Solution pour l'Éditeur :</strong>
+    <ol>
+      <li>Aller sur le post Instagram > 3 points > Modifier.</li>
+      <li>Vérifier que le label "Partenariat rémunéré" est actif.</li>
+      <li>Vérifier que l'option <strong>"Autoriser le partenaire de marque à booster"</strong> est active.</li>
+    </ol>
   </div>
 </details>
 
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">La diffusion se déroule moins vite que prévu, que faire ?</summary>
+  <summary style="font-weight: bold; cursor: pointer;">L'image de ma newsletter ne s'affiche pas</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    Avertissez l'annonceur via la messagerie dédiée à la campagne sur getinside. La solution privilégiée est de poursuivre la distribution jusqu'à écoulement des stocks, mais un accord de l'annonceur est nécessaire.
+    <strong>Cause :</strong> Problème d'hébergement ou de lien.<br>
+    <strong>Solution pour l'Éditeur :</strong>
+    <ul>
+      <li>Le lien de l'image est-il en <code>https</code> ? (Obligatoire).</li>
+      <li>L'image est-elle hébergée sur un serveur public ?</li>
+      <li>Avez-vous respecté le poids max (150ko) ?</li>
+    </ul>
+    <em>Test : Ouvrez l'URL de l'image seule dans un navigateur privé. Si elle ne charge pas, le problème vient de l'hébergement.</em>
+  </div>
+</details>
+
+<br>
+<h2 class="text-blue-200 mb-4">📦 Gestion Logistique</h2>
+
+<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+  <summary style="font-weight: bold; cursor: pointer;">J'ai reçu les encarts en avance, puis-je commencer ?</summary>
+  <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
+    Il faut impérativement le feu vert de l'annonceur pour diffuser une campagne plus tôt que prévu. Cela peut être gênant si la campagne entre en concurrence avec une autre offre ou si la landing page n'est pas encore active.
   </div>
 </details>
 
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Qui gère l'impression ?</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Les flyers sont arrivés endommagés</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    L'annonceur peut imprimer par ses soins (en respectant nos specs) ou déléguer l'impression à getinside (recommandé pour garantir la qualité, le RSE et la logistique).
+    <strong>Action immédiate requise (sous 24h) :</strong>
+    <ol>
+      <li>Prenez des photos claires des cartons abîmés.</li>
+      <li>Notez des réserves précises sur le bon de livraison (BL).</li>
+      <li>Envoyez le tout à <code>logistique@getinside.fr</code>.</li>
+    </ol>
+    <strong>Ne distribuez pas</strong> les supports endommagés.
+  </div>
+</details>
+
+<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+  <summary style="font-weight: bold; cursor: pointer;">Écart de stock (J'ai reçu plus ou moins de flyers que prévu)</summary>
+  <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
+    <strong>Cas 1 : Vous en avez reçu MOINS</strong><br>
+    Signalez-le immédiatement à l'annonceur et à getinside via la messagerie de la campagne.
+    <br><br>
+    <strong>Cas 2 : Vous en avez reçu PLUS (Surplus)</strong><br>
+    C'est normal. Ce surplus correspond à la <strong>tolérance de passe (± 5%)</strong> prévue par l'industrie graphique.
+    <ul>
+      <li><strong>Facturation :</strong> Le budget reste celui validé initialement.</li>
+      <li><strong>Action :</strong> Idéalement, écoulez ce surplus. Sinon, arrêtez la distribution une fois la quantité commandée atteinte.</li>
+    </ul>
   </div>
 </details>
 
@@ -43,11 +96,14 @@ nav_order: 4
 </details>
 
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Puis-je utiliser le service d'impression getinside pour mes propres besoins ?</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Puis-je utiliser le service d'impression pour mes propres besoins ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    Absolument. En tant que centrale d'achat, nous faisons bénéficier tous nos membres de tarifs négociés grâce à la mutualisation des volumes. Que ce soit pour de l'auto-promotion ou des besoins internes, nous pouvons gérer l'impression et répondre à vos demandes spécifiques (formats spéciaux, finitions).
+    Absolument. En tant que centrale d'achat, nous faisons bénéficier tous nos membres de tarifs négociés. Que ce soit pour de l'auto-promotion ou des besoins internes, nous pouvons gérer l'impression et les demandes spéciales.
   </div>
 </details>
+
+<br>
+<h2 class="text-purple-200 mb-4">🎨 Création & Tracking</h2>
 
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Est-ce que getinside peut créer mes visuels ?</summary>
@@ -57,24 +113,10 @@ nav_order: 4
 </details>
 
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Problème de QR Code ou Lien ?</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Comment tracker les ventes (ROI) ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    Nos QR codes et liens de tracking emails sont <strong>dynamiques</strong>. Nous pouvons modifier l'URL de redirection à distance à tout moment, même après impression ou envoi. Contactez le support d'urgence.
-  </div>
-</details>
-
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Comment tracker les ventes (ROI) de ma campagne ?</summary>
-  <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    getinside ne place pas de pixel sur votre site. L'attribution des ventes repose donc sur deux leviers que vous maîtrisez :<br>
-    1. <strong>Le Code Promo Unique :</strong> C'est la méthode la plus fiable. Créez un code spécifique (ex: <code>MERCI20</code>) pour la campagne. Chaque utilisation de ce code est une vente attribuée à 100% à l'opération.<br>
-    2. <strong>Les Liens Trackés (UTM) :</strong> Configurez l'URL de destination de votre QR Code avec des paramètres UTM (ex: <code>utm_source=asile-colis</code>). Vous verrez ainsi dans votre propre Google Analytics le trafic et les conversions venant de ce canal.
-  </div>
-</details>
-
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Comment savoir si je suis à jour dans le reporting ?</summary>
-  <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    Vous pouvez voir vos actions en attente sur votre tableau de bord (la page d’accueil de getinside). Utilisez aussi la messagerie intégrée à la plateforme pour communiquer avec le partenaire de la campagne et l'équipe getinside.
+    getinside ne place pas de pixel sur votre site. L'attribution repose sur deux leviers :<br>
+    1. <strong>Code Promo Unique :</strong> Créez un code spécifique (ex: <code>MERCI20</code>).<br>
+    2. <strong>Liens UTM :</strong> Configurez l'URL de votre QR Code avec des paramètres UTM (ex: <code>utm_source=asile-colis</code>) pour suivre le trafic dans Google Analytics.
   </div>
 </details>
