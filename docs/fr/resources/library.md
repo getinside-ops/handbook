@@ -24,7 +24,7 @@ Accédez rapidement à tous les gabarits, logos et documents techniques nécessa
 
 | Format | Dimensions | Logiciels | Lien |
 | :--- | :--- | :--- | :--- |
-| **Pack Gabarits** | A5, A6, Carré | `.indd` `.ai` `.pdf` | [Accéder au Drive ↗](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){: target="_blank" .btn .btn-primary .btn-sm } |
+| **Pack Gabarits** | A5, A6 | `.ai` `.pdf` | [Accéder au Drive ↗](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){: target="_blank" .btn .btn-primary .btn-sm } |
 
 <div class="mt-4 p-4 bg-grey-lt-000 border rounded-1">
   <h4 class="mt-0">Besoin d'aide créative ?</h4>
