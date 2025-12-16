@@ -32,7 +32,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
     </ul>
     
     <div style="background: #f6f8fa; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
-      <span class="fw-700">30%</span> de commission
+      <span class="fw-700">30%</span> de Frais de Régie
     </div>
   </div>
 
@@ -53,7 +53,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
     </ul>
     
     <div style="background: #efeafc; color: #7253ed; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
-      <span class="fw-700">30% à 15%</span> (Dégressif)
+      <span class="fw-700">30% à 15%</span> (Dégressif*)
     </div>
   </div>
 
@@ -72,7 +72,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
     </ul>
     
     <div style="background: #f6f8fa; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
-      <span class="fw-700">15%</span> commission fixe
+      <span class="fw-700">15%</span> Frais de Régie fixes
     </div>
   </div>
 
@@ -84,13 +84,27 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 
 | Services | Starter (Gratuit) | Standard (249€/mois) | Managed (1399€/mois) |
 | :--- | :--- | :--- | :--- |
-| **Commercialisation** (Inbound) | ✅ (30% frais) | ✅ (30% à 15%) | ✅ (15% fixe) |
+| **Commercialisation** (Inbound) | ✅ (30% frais) | ✅ (Dégressif*) | ✅ (15% fixe) |
 | **Prospection Annonceurs** | ❌ | ✅ Accès Base | ✅ Délégué (Sales Ops) |
 | **Collaboration Directe** (Trade) | ❌ | ✅ (0% de frais) | ✅ (0% de frais) |
 | **Délégation Acquisition** | ❌ | ❌ | ✅ Inclus |
 | **Frais de Retrait (Revenus)** | 5% (après le 1er) | **Aucun frais** | **Aucun frais** |
 | **Affiliation** | ✅ (20% gains) | ✅ (20% gains) | ✅ (20% gains) |
 | **Engagement** | 12 mois | 12 mois | 12 mois |
+
+<br>
+
+<h3 class="text-purple-200 mt-4">* Détail de la dégressivité (Offre Standard)</h3>
+<p>Le taux de Frais de Régie s'ajuste automatiquement selon le volume de revenu annuel généré.</p>
+
+<!-- Tableau Dégressivité -->
+
+| Revenu Total Annuel | Taux de Frais de Régie |
+| :--- | :--- |
+| de 0€ à 5 000€ | **30%** |
+| de 5 000€ à 25 000€ | **25%** |
+| de 25 000€ à 75 000€ | **20%** |
+| plus de 75 000€ | **15%** |
 
 <br>
 
