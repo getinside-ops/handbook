@@ -23,7 +23,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <!-- ========================================== -->
 
 <h2 class="text-blue-200 mb-4">📧 Dedicated Email (Exemples Live)</h2>
-<p class="fs-4 text-grey-dk-000 mb-6">Cliquez pour visualiser le rendu réel dans le navigateur (Responsive, Co-branding, Endorsement).</p>
+<p class="fs-4 text-grey-dk-000 mb-6">Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-bottom: 60px;">
 
@@ -85,14 +85,13 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <!-- ========================================== -->
 
 <h2 class="text-blue-200 mb-4">📦 Sponsored Mail & Success Stories</h2>
-<p class="fs-4 text-grey-dk-000 mb-6">Retours d'expérience chiffrés sur nos campagnes d'Asile Colis.</p>
+<p class="fs-4 text-grey-dk-000 mb-6">Cliquez sur les images pour zoomer.</p>
 
 <!-- 1. CAS AVÈNE -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <!-- Attention aux chemins d'images : ../../ au lieu de ../../../ car on a changé de dossier -->
-    <img src="../../../assets/images/case-studies/case-avene.png" alt="Campagne Avène" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img src="../../assets/images/case-studies/case-avene.png" alt="Campagne Avène" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
   </div>
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
@@ -117,7 +116,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <!-- 2. CAS NOCIBÉ -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-nocibe.png" alt="Campagne Nocibé" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img src="../../assets/images/case-studies/case-nocibe.png" alt="Campagne Nocibé" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -141,7 +140,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <!-- 3. CAS HELLOFRESH -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-hellofresh.png" alt="Campagne Hello Fresh" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img src="../../assets/images/case-studies/case-hellofresh.png" alt="Campagne Hello Fresh" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -162,14 +161,63 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
 </div>
 
-<!-- 4. CAS TOTAL WASH -->
+<!-- 4. CAS BAM KARAOKE BOX (NOUVEAU) -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-wash.png" alt="Campagne Total Wash" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img src="../../assets/images/case-studies/case-bam.png" alt="Campagne Bam Karaoke" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">WASH</h2>
+      <h2 class="mt-0 mb-0">BAM KARAOKE</h2>
+      <span style="background: #fcfbff; color: #7253ed; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #7253ed;">Notoriété</span>
+    </div>
+    <p class="fs-4 text-grey-dk-000">Développer la notoriété et faire découvrir son offre B2B/B2C.</p>
+    <hr style="border-top: 1px solid #eee; margin: 15px 0;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
+      <div><strong class="d-block fs-2 text-grey-dk-000">Audience</strong><span>Alimentation (Frichti)</span></div>
+      <div><strong class="d-block fs-2 text-grey-dk-000">Format</strong><span>Carte Code Unique</span></div>
+      <div><strong class="d-block fs-2 text-grey-dk-000">Impressions</strong><span>15 000 ex.</span></div>
+      <div><strong class="d-block fs-2 text-grey-dk-000">Interactions</strong><span style="color: #2da44e; font-weight: bold;">4,5%</span></div>
+    </div>
+    <div style="background-color: #f7f6f3; padding: 15px; border-radius: 6px; border-left: 3px solid #ccc; font-style: italic;">
+      “Une campagne intelligente mêlant un moment de consommation en entreprise avec une offre et une promesse d’équipe.”
+    </div>
+  </div>
+</div>
+
+<!-- 5. CAS ULTRA PREMIUM DIRECT (NOUVEAU) -->
+<div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
+  <div style="flex: 0 0 250px; min-width: 250px;">
+    <img src="../../assets/images/case-studies/case-upd.png" alt="Campagne Ultra Premium Direct" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  </div>
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
+    <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
+      <h2 class="mt-0 mb-0">ULTRA PREMIUM</h2>
+      <span style="background: #fff8c5; color: #bf8700; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #bf8700;">Conquête</span>
+    </div>
+    <p class="fs-4 text-grey-dk-000">Stratégie de conquête ciblée sur les Familles & CSP+.</p>
+    <hr style="border-top: 1px solid #eee; margin: 15px 0;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
+      <div><strong class="d-block fs-2 text-grey-dk-000">Audience</strong><span>Santé & Bien-être</span></div>
+      <div><strong class="d-block fs-2 text-grey-dk-000">Reach</strong><span>50 000 contacts</span></div>
+      <div><strong class="d-block fs-2 text-grey-dk-000">Offre</strong><span>Carte Cadeau</span></div>
+      <div><strong class="d-block fs-2 text-grey-dk-000">Interactions</strong><span style="color: #2da44e; font-weight: bold;">3,48%</span></div>
+    </div>
+    <div style="background-color: #f7f6f3; padding: 15px; border-radius: 6px; border-left: 3px solid #ccc; font-style: italic;">
+      “Un complément de gamme logique et une recommandation pertinente.”
+    </div>
+  </div>
+</div>
+
+
+<!-- 6. CAS TOTAL WASH -->
+<div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
+  <div style="flex: 0 0 250px; min-width: 250px;">
+    <img src="../../assets/images/case-studies/case-wash.png" alt="Campagne Total Wash" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  </div>
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
+    <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
+      <h2 class="mt-0 mb-0">TOTAL WASH</h2>
       <span style="background: #fcfbff; color: #7253ed; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #7253ed;">Drive to App</span>
     </div>
     <p class="fs-4 text-grey-dk-000">Faire télécharger l'application et acquérir de nouveaux clients.</p>
@@ -186,10 +234,10 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
 </div>
 
-<!-- 5. CAS NESPRESSO -->
+<!-- 7. CAS NESPRESSO -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-nespresso.png" alt="Campagne Nespresso" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img src="../../assets/images/case-studies/case-nespresso.png" alt="Campagne Nespresso" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -210,10 +258,10 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
 </div>
 
-<!-- 6. CAS JAPHY -->
+<!-- 8. CAS JAPHY -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-japhy.png" alt="Campagne Japhy" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover;">
+    <img src="../../assets/images/case-studies/case-japhy.png" alt="Campagne Japhy" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -233,3 +281,32 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
     </div>
   </div>
 </div>
+
+<!-- ========================================== -->
+<!-- SCRIPT LIGHTBOX (POP-IN)               -->
+<!-- ========================================== -->
+
+<div id="lightbox" class="lightbox" onclick="closeLightbox()" style="display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9); justify-content: center; align-items: center;">
+  <span style="position: absolute; top: 20px; right: 35px; color: #f1f1f1; font-size: 40px; font-weight: bold; transition: 0.3s; cursor: pointer;">&times;</span>
+  <img class="lightbox-content" id="lightbox-img" style="margin: auto; display: block; max-width: 90%; max-height: 90vh;">
+</div>
+
+<script>
+  function openLightbox(src) {
+    var lightbox = document.getElementById("lightbox");
+    var lightboxImg = document.getElementById("lightbox-img");
+    lightbox.style.display = "flex";
+    lightboxImg.src = src;
+  }
+
+  function closeLightbox() {
+    document.getElementById("lightbox").style.display = "none";
+  }
+  
+  // Fermer avec la touche Echap
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeLightbox();
+    }
+  });
+</script>
