@@ -100,4 +100,84 @@
     background-color: #000;
     transform: translateY(-3px);
   }
+
+  /* --- 5. COMPOSANTS CARTES (Refactoring) --- */
+  .gi-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 40px;
+  }
+
+  .gi-grid-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .gi-grid-3 {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+
+  .gi-card-link {
+    text-decoration: none !important;
+    color: inherit !important;
+    display: block;
+    height: 100%;
+  }
+
+  .gi-card {
+    border: 1px solid var(--gi-border);
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+    background-color: var(--gi-white);
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    /* Par défaut vertical */
+    gap: 10px;
+  }
+
+  /* Mode Horizontal (si besoin, on peut faire une variante ou laisser flex) */
+  .gi-card.horizontal {
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .gi-card:hover {
+    border-color: #2869e6;
+    /* Bleu primaire */
+    background-color: #fcfbff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+
+  .gi-card-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .gi-card-title {
+    font-size: 1.25rem;
+    /* fs-4 */
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--gi-text);
+  }
+
+  .gi-card-desc {
+    font-size: 1rem;
+    /* fs-2 */
+    color: #586069;
+    /* text-grey-dk-000 */
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .gi-card-arrow {
+    margin-left: auto;
+    color: #ccc;
+    font-weight: bold;
+    align-self: center;
+  }
 </style>

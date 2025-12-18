@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Espace Éditeurs
+description: "Monétisez votre audience avec getinside. Espace dédié aux E-commerçants et Éditeurs : Onboarding, Audience et Revenus."
 has_children: true
 nav_order: 2
 toc: false
@@ -21,127 +22,91 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
 <h2 class="text-blue-200 mb-4">1. Configuration & Démarrage</h2>
 
-<!-- LAYOUT LISTE VERTICALE (ROBUSTE) -->
-<div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
+<div class="gi-grid gi-grid-1">
 
-  <!-- ONBOARDING -->
-  <a href="onboarding-process" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">🚀</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-4">Guide de Démarrage</h3>
-        <p class="mb-0 fs-2 text-grey-dk-000">Comprendre les 3 piliers : Activation, Trade Marketing et Prospection.</p>
-      </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
-    </div>
-  </a>
+  {% include card.html
+    title="🚀 Guide de Démarrage"
+    desc="Comprendre les 3 piliers : Activation, Trade Marketing et Prospection."
+    url="onboarding-process"
+    icon=" "
+    arrow=true
+  %}
 
-  <!-- AUDIENCE -->
-  <a href="audience-setup" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">🎯</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-4">Audience & Score</h3>
-        <p class="mb-0 fs-2 text-grey-dk-000">Comment remplir votre fiche pour être visible et optimiser votre score distributeur.</p>
-      </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
-    </div>
-  </a>
+  {% include card.html
+    title="🎯 Audience & Score"
+    desc="Comment remplir votre fiche pour être visible et optimiser votre score distributeur."
+    url="audience-setup"
+    icon=" "
+    arrow=true
+  %}
 
-  <!-- AFFILIATION -->
-  <a href="affiliation" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">🤝</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-4">Affiliation</h3>
-        <p class="mb-0 fs-2 text-grey-dk-000">Invitez des partenaires et gagnez 20% de commission sur leurs revenus.</p>
-      </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
-    </div>
-  </a>
+  {% include card.html
+    title="🤝 Affiliation"
+    desc="Invitez des partenaires et gagnez 20% de commission sur leurs revenus."
+    url="affiliation"
+    icon=" "
+    arrow=true
+  %}
 
 </div>
 
 
 <h2>2. Formats & Opérations</h2>
 
-<!-- GRILLE 2 COLONNES -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;">
+<div class="gi-grid gi-grid-2">
 
-  <!-- ASILE COLIS -->
-  <a href="sponsored-mail/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">📦</div>
-      <div class="fs-4 fw-700 mb-2">Asile Colis</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Réception, insertion en entrepôt et reporting.</p>
-    </div>
-  </a>
+  {% include card.html
+    title="📦 Asile Colis"
+    desc="Réception, insertion en entrepôt et reporting."
+    url="sponsored-mail/"
+  %}
 
-  <!-- EMAILING -->
-  <a href="dedicated-email/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">📧</div>
-      <div class="fs-4 fw-700 mb-2">Emailing Dédié</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Création, endorsement et tracking.</p>
-    </div>
-  </a>
+  {% include card.html
+    title="📧 Emailing Dédié"
+    desc="Création, endorsement et tracking."
+    url="dedicated-email/"
+  %}
 
-  <!-- ENCART -->
-  <a href="display-email/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">🖼️</div>
-      <div class="fs-4 fw-700 mb-2">Encart Newsletter</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Intégration bannière simple.</p>
-    </div>
-  </a>
+  {% include card.html
+    title="🖼️ Encart Newsletter"
+    desc="Intégration bannière simple."
+    url="display-email/"
+  %}
 
-  <!-- SOCIAL -->
-  <a href="sponsored-social/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">📱</div>
-      <div class="fs-4 fw-700 mb-2">Social Ads</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Sponsorisation de posts (Partnership Ads).</p>
-    </div>
-  </a>
+  {% include card.html
+    title="📱 Social Ads"
+    desc="Sponsorisation de posts (Partnership Ads)."
+    url="sponsored-social/"
+  %}
   
-   <!-- JEU CONCOURS -->
-   <a href="co-branded-contest/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">🎁</div>
-      <div class="fs-4 fw-700 mb-2">Jeu Concours</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Animation et collecte de leads.</p>
-    </div>
-  </a>
+   {% include card.html
+    title="🎁 Jeu Concours"
+    desc="Animation et collecte de leads."
+    url="co-branded-contest/"
+  %}
 
 </div>
 
 <h2>3. Finance & Admin</h2>
 
-<!-- GRILLE 3 COLONNES POUR LES PETITES CARTES -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+<div class="gi-grid gi-grid-3">
 
-  <a href="pricing" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">💎</div>
-      <div class="fs-4 fw-700 mb-2">Abonnements & Offres</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Starter, Standard ou Managed.</p>
-    </div>
-  </a>
+  {% include card.html
+    title="💎 Abonnements & Offres"
+    desc="Starter, Standard ou Managed."
+    url="pricing"
+  %}
 
-  <a href="payouts" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">💸</div>
-      <div class="fs-4 fw-700 mb-2">Paiements & Wallet</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Retraits, frais et réinvestissement.</p>
-    </div>
-  </a>
+  {% include card.html
+    title="💸 Paiements & Wallet"
+    desc="Retraits, frais et réinvestissement."
+    url="payouts"
+  %}
 
-  <a href="affiliation" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 32px; margin-bottom: 10px;">🤝</div>
-      <div class="fs-4 fw-700 mb-2">Affiliation</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Parrainez et gagnez 20% de commission.</p>
-    </div>
-  </a>
+  {% include card.html
+    title="🤝 Affiliation"
+    desc="Parrainez et gagnez 20% de commission."
+    url="affiliation"
+  %}
 
 </div>

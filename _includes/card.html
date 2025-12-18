@@ -1,0 +1,12 @@
+<a href="{{ include.url | relative_url }}" class="gi-card-link">
+    <div class="gi-card">
+        <div class="gi-card-icon">{{ include.icon }}</div>
+        <div class="gi-card-content">
+            <div class="gi-card-title">{{ include.title }}</div>
+            <p class="gi-card-desc">{{ include.desc }}</p>
+        </div>
+        {% if include.arrow %}
+        <div class="gi-card-arrow">➝</div>
+        {% endif %}
+    </div>
+</a>
