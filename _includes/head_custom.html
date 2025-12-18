@@ -2,17 +2,18 @@
   /* --- 1. CONFIGURATION GLOBALE --- */
   :root {
     --gi-text: #575652;
-    /* Gris Brun (Texte principal) */
+    /* Gris Brun */
     --gi-bg: #F7F6F3;
-    /* Beige (Fond site) */
+    /* Beige Fond */
     --gi-white: #FFFFFF;
-    /* Blanc (Sidebar, Cartes) */
     --gi-border: #e1e4e8;
-    /* Bordures */
-    --gi-btn-dark: #575652;
-    /* Fond Bouton Primaire */
+    --gi-yellow: #F9FA66;
+    /* Jaune SaaS principal */
+    --gi-teal: #25E2B5;
+    /* Teal SaaS accent */
+    --gi-btn-dark: #000000;
+    /* Boutons noirs SaaS */
     --gi-btn-light: #f6f8fa;
-    /* Fond Bouton Secondaire (Hover) */
   }
 
   /* Force la couleur de fond et de texte */
@@ -97,8 +98,36 @@
   }
 
   #back-to-top:hover {
-    background-color: #000;
+    background-color: #333;
     transform: translateY(-3px);
+  }
+
+  /* --- Styles Boutons SaaS --- */
+  .btn-primary {
+    background-color: var(--gi-yellow) !important;
+    color: #000 !important;
+    border: none !important;
+    font-weight: 600 !important;
+    border-radius: 6px !important;
+    transition: transform 0.2s, background-color 0.2s !important;
+  }
+
+  .btn-primary:hover {
+    background-color: #f2f44d !important;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .btn-outline {
+    border: 1px solid var(--gi-border) !important;
+    background: #fff !important;
+    color: var(--gi-text) !important;
+    border-radius: 6px !important;
+  }
+
+  .btn-outline:hover {
+    background: var(--gi-btn-light) !important;
+    border-color: #ccc !important;
   }
 
   /* --- 5. COMPOSANTS CARTES (Refactoring) --- */
@@ -318,5 +347,10 @@
   /* Style FAQ Details */
   details {
     background-color: var(--gi-white) !important;
+    border: 1px solid var(--gi-border);
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 10px;
   }
 </style>
+```
