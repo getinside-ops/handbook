@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: 1. Brief Annonceur
-parent: Email Dédié
+parent: Dedicated Email
 grand_parent: Espace Annonceurs
 nav_order: 1
 ---

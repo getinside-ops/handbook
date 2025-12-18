@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Guide de Conception
-parent: Asile Colis
+parent: Sponsored Mail
 has_children: true
 nav_order: 1
 ---

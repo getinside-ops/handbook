@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: 3. Validation & Diffusion
-parent: Email Dédié
+parent: Dedicated Email
 grand_parent: Espace Annonceurs
 nav_order: 3
 toc: false

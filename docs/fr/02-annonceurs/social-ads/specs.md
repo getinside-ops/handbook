@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Spécifications Techniques
-parent: Social Ads
+parent: Sponsored Social
 grand_parent: Espace Annonceurs
 nav_order: 2
 ---

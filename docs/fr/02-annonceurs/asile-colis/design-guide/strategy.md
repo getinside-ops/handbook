@@ -2,7 +2,7 @@
 layout: default
 title: Stratégie & Contenu
 parent: Guide de Conception
-grand_parent: Asile Colis
+grand_parent: Sponsored Mail
 nav_order: 2
 ---
 
