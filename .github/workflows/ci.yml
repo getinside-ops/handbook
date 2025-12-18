@@ -1,0 +1,29 @@
+name: Build Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3' # Version stable récente
+          bundler-cache: true # Cache les gems automatiquement
+
+      - name: Build Site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production

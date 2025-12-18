@@ -15,6 +15,12 @@ mermaid:
 # Schéma de couleur par défaut (Light = Violet)
 color_scheme: light
 
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
 # -----------------------------------------------------------------------------
 # Navigation & Recherche
 # -----------------------------------------------------------------------------
