@@ -144,13 +144,18 @@
     gap: 20px;
   }
 
-  .gi-card:hover {
+  /* Correction Hover : On cible le lien container */
+  .gi-card-link:hover .gi-card {
     border-color: #2869e6;
     /* Bleu primaire */
     background-color: #fcfbff;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    position: relative;
+    /* Evite que la bordure ne soit coupée */
+    z-index: 10;
   }
+
 
   .gi-card-icon {
     font-size: 2rem;
