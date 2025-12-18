@@ -9,10 +9,14 @@
     /* Blanc (Sidebar, Cartes) */
     --gi-border: #e1e4e8;
     /* Bordures */
+    --gi-accent: #7253ed;
+    --gi-accent-light: #fcfbff;
     --gi-btn-dark: #575652;
     /* Fond Bouton Primaire */
     --gi-btn-light: #f6f8fa;
     /* Fond Bouton Secondaire (Hover) */
+    --gi-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    --gi-shadow-hover: 0 10px 25px rgba(0, 0, 0, 0.1);
   }
 
   /* Force la couleur de fond et de texte */
@@ -313,6 +317,180 @@
   /* Masquer le crédit du thème Just the Docs */
   .site-footer {
     display: none !important;
+  }
+
+  /* --- 9. HOMEPAGE REFACTO (PHASE 9) --- */
+  .gi-hero {
+    padding: 60px 20px;
+    text-align: center;
+    background: linear-gradient(135deg, #ffffff 0%, #f7f6f3 100%);
+    border-radius: 12px;
+    margin-bottom: 40px;
+    border: 1px solid var(--gi-border);
+  }
+
+  .gi-hero-title {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+    color: #1a1a1a;
+  }
+
+  .gi-hero-subtitle {
+    font-size: 1.25rem;
+    color: var(--gi-text);
+    max-width: 700px;
+    margin: 0 auto 2rem auto;
+    line-height: 1.6;
+  }
+
+  .gi-search-container {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .gi-search-input {
+    width: 100%;
+    padding: 16px 24px 16px 50px;
+    border-radius: 99px;
+    border: 1px solid var(--gi-border);
+    background: white;
+    font-size: 1.1rem;
+    box-shadow: var(--gi-shadow);
+    transition: all 0.3s ease;
+  }
+
+  .gi-search-input:focus {
+    outline: none;
+    border-color: var(--gi-accent);
+    box-shadow: 0 0 0 4px rgba(114, 83, 237, 0.1);
+  }
+
+  .gi-search-icon {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #999;
+    font-size: 1.2rem;
+  }
+
+  .gi-path-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 4rem;
+  }
+
+  @media (max-width: 768px) {
+    .gi-path-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .gi-hero-title {
+      font-size: 2.2rem;
+    }
+  }
+
+  .gi-path-card {
+    background: white;
+    padding: 40px;
+    border-radius: 16px;
+    border: 1px solid var(--gi-border);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    text-decoration: none !important;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .gi-path-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: var(--gi-accent);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .gi-path-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--gi-shadow-hover);
+    border-color: var(--gi-accent);
+  }
+
+  .gi-path-card:hover::before {
+    opacity: 1;
+  }
+
+  .gi-path-icon {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .gi-path-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #1a1a1a;
+  }
+
+  .gi-path-desc {
+    font-size: 1rem;
+    color: var(--gi-text);
+    margin-bottom: 2rem;
+    line-height: 1.5;
+  }
+
+  .gi-path-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .gi-btn-outline-glass {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    background: #fdfdfd;
+    color: var(--gi-text);
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .gi-btn-outline-glass:hover {
+    background: var(--gi-accent-light);
+    border-color: var(--gi-accent);
+    color: var(--gi-accent);
+    padding-left: 20px;
+  }
+
+  .gi-section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    text-align: center;
+    position: relative;
+  }
+
+  .gi-section-title::after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 3px;
+    background: var(--gi-accent);
+    margin: 10px auto 0;
+    border-radius: 2px;
   }
 
   /* Style FAQ Details */
