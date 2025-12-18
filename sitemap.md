@@ -8,7 +8,7 @@ toc: false
 # Plan du Site
 {: .fs-9 }
 
-Vue d'ensemble de toute la documentation disponible sur le Help Center.
+Vue d'ensemble de toute la documentation disponible sur le Handbook.
 {: .fs-6 .fw-300 }
 
 <hr class="my-6">
