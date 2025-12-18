@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: 2. Tracking & Envoi
-parent: Dedicated Email (publisher)
+parent: Dedicated Email
 grand_parent: Espace Distributeurs
 nav_order: 2
 toc: false

@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Suivi & Reporting
-parent: Sponsored Mail (publisher)
+parent: Sponsored Mail
 grand_parent: Espace Distributeurs
 nav_order: 2
 ---

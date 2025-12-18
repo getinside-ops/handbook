@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Intégration & Envoi
-parent: Display Email (publisher)
+parent: Display Email
 grand_parent: Espace Distributeurs
 nav_order: 1
 ---

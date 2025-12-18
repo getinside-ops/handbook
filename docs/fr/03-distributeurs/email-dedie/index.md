@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Dedicated Email (publisher)
+title: Dedicated Email
 parent: Espace Distributeurs
 has_children: true
 nav_order: 3

@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Logistique & Insertion
-parent: Sponsored Mail (publisher)
+parent: Sponsored Mail
 grand_parent: Espace Distributeurs
 nav_order: 1
 ---

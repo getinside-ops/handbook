@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: 1. Création & Design
-parent: Dedicated Email (publisher)
+parent: Dedicated Email
 grand_parent: Espace Distributeurs
 nav_order: 4
 toc: false

@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Display Email (publisher)
+title: Display Email
 parent: Espace Distributeurs
 has_children: true
 nav_order: 4

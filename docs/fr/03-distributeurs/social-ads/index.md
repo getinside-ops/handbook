@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Sponsored Social (publisher)
+title: Sponsored Social
 parent: Espace Distributeurs
 has_children: true
 nav_order: 5

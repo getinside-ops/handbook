@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Co-Branded Contest (publisher)
+title: Co-Branded Contest
 parent: Espace Distributeurs
 has_children: true
 nav_order: 6
