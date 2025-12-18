@@ -143,8 +143,14 @@
   /* Mode Horizontal (si besoin, on peut faire une variante ou laisser flex) */
   .gi-card.horizontal {
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
+    /* Aligne en haut au lieu de centrer pour éviter les décalages si texte long */
     gap: 20px;
+  }
+
+  .gi-card.horizontal .gi-card-icon {
+    transform: translateY(2px);
+    /* Petit ajustement pour aligner optiquement avec le titre */
   }
 
   /* Correction Hover : On cible le lien container */
@@ -234,7 +240,11 @@
     margin-top: 0;
     color: var(--gi-text);
     margin-bottom: 0.5rem;
+    padding-top: 4px;
+    /* Alignement optique */
+    font-size: 1.2rem;
   }
+
 
   .gi-step-body p:last-child {
     margin-bottom: 0;
