@@ -6,6 +6,8 @@ parent: Espace Annonceurs
 has_children: true
 nav_order: 4
 toc: false
+redirect_from:
+  - /docs/fr/advertisers/sponsored-social/
 ---
 
 # Sponsored Social (Retail Media)

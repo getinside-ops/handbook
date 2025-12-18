@@ -5,6 +5,8 @@ description: "Foire aux questions getinside : compte, campagnes, facturation et 
 nav_order: 4
 has_children: true
 toc: false
+redirect_from:
+  - /docs/fr/faq/
 ---
 
 # Foire Aux Questions

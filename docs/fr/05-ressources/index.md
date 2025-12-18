@@ -5,6 +5,8 @@ description: "Téléchargements, gabarits, cas clients et studio créatif getins
 nav_order: 5
 has_children: true
 toc: false
+redirect_from:
+  - /docs/fr/resources/
 ---
 
 # Centre de Ressources

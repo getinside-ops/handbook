@@ -5,6 +5,8 @@ description: "Comprendre le modèle Retail Media getinside : un écosystème ver
 nav_order: 0
 has_children: true
 toc: false
+redirect_from:
+  - /docs/fr/start-here/
 ---
 
 # Découvrir le Retail Media

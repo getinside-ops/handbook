@@ -59,14 +59,17 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 
 </div>
 
-<h2 class="text-grey-dk-000 mb-4">Votre Rémunération</h2>
-
-<div style="background: linear-gradient(135deg, #7253ed 0%, #5e43c9 100%); color: white; padding: 40px; border-radius: 8px; text-align: center; margin-bottom: 40px; box-shadow: 0 4px 12px rgba(114, 83, 237, 0.3);">
-  <div style="font-size: 60px; font-weight: 800; line-height: 1; margin-bottom: 10px;">20%</div>
-  <div class="fs-4 opacity-90">des frais de commercialisation générés par vos filleuls</div>
-  <hr style="border-color: rgba(255,255,255,0.2); margin: 20px auto; width: 50%;">
-  <p class="fs-3 mb-0 text-purple-200">Cette commission est créditée sur votre <strong>Wallet</strong> à chaque facture payée par le filleul.</p>
+<div style="background: linear-gradient(135deg, #7253ed 0%, #5e43c9 100%); color: white; padding: 50px 30px; border-radius: 12px; text-align: center; margin-bottom: 40px; box-shadow: 0 10px 20px rgba(114, 83, 237, 0.2);">
+  <div style="font-size: 80px; font-weight: 900; line-height: 1; margin-bottom: 10px; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">20%</div>
+  <div class="fs-5" style="font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: rgba(255,255,255,0.95);">des frais de commercialisation générés par vos filleuls</div>
+  
+  <div style="height: 2px; background: rgba(255,255,255,0.15); width: 60px; margin: 25px auto;"></div>
+  
+  <p class="fs-4 mb-0" style="color: rgba(255,255,255,0.9); max-width: 500px; margin: 0 auto;">
+    Cette commission est créditée sur votre <strong>Wallet</strong> à chaque facture payée par le filleul.
+  </p>
 </div>
+
 
 <h2 class="text-grey-dk-000 mb-4">Utilisation des gains</h2>
 

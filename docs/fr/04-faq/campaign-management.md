@@ -10,7 +10,7 @@ nav_order: 2
 <details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Quel est le délai de réponse attendu ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
-    Vous devez répondre sous <strong>48 heures ouvrées</strong>. La réactivité est la clé pour remporter les campagnes face aux autres éditeurs. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom, et d'appliquer une pénalité correspondante aux frais de plateforme prévus.
+    Vous devez répondre sous <strong>48 heures ouvrées</strong>. La réactivité est la clé pour remporter les campagnes face aux autres distributeurs. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom, et d'appliquer une pénalité correspondante aux frais de plateforme prévus.
   </div>
 </details>
 
@@ -56,7 +56,7 @@ nav_order: 2
   <summary style="font-weight: bold; cursor: pointer;">Où voir l'historique de mes campagnes ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     <ul>
-      <li><strong>Pour les campagnes reçues (Éditeur) :</strong> Allez dans <em>Monétisation > Gestionnaire de campagne</em> (Filtrez par statut : Accepté, Refusé...).</li>
+      <li><strong>Pour les campagnes reçues (Distributeur) :</strong> Allez dans <em>Monétisation > Gestionnaire de campagne</em> (Filtrez par statut : Accepté, Refusé...).</li>
       <li><strong>Pour vos propres campagnes (Annonceur) :</strong> Allez dans <em>Campagnes > Toutes les campagnes</em>.</li>
     </ul>
   </div>

@@ -5,6 +5,8 @@ description: "Insérez vos flyers et échantillons dans les colis de +250 e-comm
 parent: Espace Annonceurs
 has_children: true
 nav_order: 1
+redirect_from:
+  - /docs/fr/advertisers/sponsored-mail/
 ---
 
 # Asile Colis (Sponsored Mail)
@@ -15,8 +17,8 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <!-- BOUTONS D'ACTION -->
 <div class="mt-4 mb-6">
-  <a href="./design-guide/" class="btn btn-primary fs-4 mr-2">📘 Voir le Guide de Conception</a>
-  <a href="https://app.getinside.media/" target="_blank" class="btn btn-outline fs-4">Créer une campagne</a>
+  <a href="../impression-supports" class="btn btn-primary fs-4 mr-2">Specs & Supports</a>
+  <a href="../tarification" class="btn btn-outline fs-4">Tarifs Campagne</a>
 </div>
 
 

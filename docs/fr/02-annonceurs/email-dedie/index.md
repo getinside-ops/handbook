@@ -5,6 +5,8 @@ description: "Emailing Dédié et Blast Newsletter : profitez de l'Endorsement d
 parent: Espace Annonceurs
 has_children: true
 nav_order: 2
+redirect_from:
+  - /docs/fr/advertisers/dedicated-email/
 ---
 
 # Emailing Dédié (Dedicated Newsletter)

@@ -4,6 +4,8 @@ title: Espace Annonceurs
 description: "Découvrez les solutions Retail Media pour les marques : Asile Colis, Emailing, Social Ads et plus encore."
 has_children: true
 nav_order: 2
+redirect_from:
+  - /docs/fr/advertisers/
 ---
 
 
@@ -24,25 +26,25 @@ Bienvenue dans l'espace dédié aux marques. Accédez à une audience qualifiée
 <div class="gi-grid">
 
   {% include card.html
-    title="📦 Asile Colis"
+    title="📦 Sponsored Mail"
     desc="Insérez vos flyers et échantillons au cœur de l'expérience unboxing."
     url="asile-colis"
   %}
 
   {% include card.html
-    title="📧 Emailing Dédié"
+    title="📧 Dedicated Email"
     desc="Profitez de l'endorsement du distributeur pour toucher sa base abonnés."
     url="email-dedie"
   %}
   
   {% include card.html
-    title="🖼️ Encart Newsletter"
+    title="🖼️ Display Email"
     desc="Une bannière simple et efficace dans les newsletters partenaires."
     url="email-display"
   %}
 
   {% include card.html
-    title="📱 Social Ads"
+    title="📱 Sponsored Social"
     desc="Sponsorisez les posts Instagram/TikTok des marques partenaires."
     url="social-ads"
   %}

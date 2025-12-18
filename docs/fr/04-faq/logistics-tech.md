@@ -27,7 +27,7 @@ nav_order: 4
   <summary style="font-weight: bold; cursor: pointer;">Je n'arrive pas à booster le post Instagram</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     <strong>Cause :</strong> L'éditeur n'a pas coché la bonne case.<br>
-    <strong>Solution pour l'Éditeur :</strong>
+    <strong>Solution pour le Distributeur :</strong>
     <ol>
       <li>Aller sur le post Instagram > 3 points > Modifier.</li>
       <li>Vérifier que le label "Partenariat rémunéré" est actif.</li>
@@ -40,7 +40,7 @@ nav_order: 4
   <summary style="font-weight: bold; cursor: pointer;">L'image de ma newsletter ne s'affiche pas</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     <strong>Cause :</strong> Problème d'hébergement ou de lien.<br>
-    <strong>Solution pour l'Éditeur :</strong>
+    <strong>Solution pour le Distributeur :</strong>
     <ul>
       <li>Le lien de l'image est-il en <code>https</code> ? (Obligatoire).</li>
       <li>L'image est-elle hébergée sur un serveur public ?</li>

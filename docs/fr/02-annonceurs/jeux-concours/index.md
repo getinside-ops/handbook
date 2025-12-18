@@ -5,6 +5,8 @@ description: "Jeux Concours (Lead Gen) : collectez des données opt-in qualifié
 parent: Espace Annonceurs
 has_children: true
 nav_order: 5
+redirect_from:
+  - /docs/fr/advertisers/co-branded-contest/
 ---
 
 # Jeu Concours Co-brandé

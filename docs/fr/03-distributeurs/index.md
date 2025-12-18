@@ -5,6 +5,8 @@ description: "Monétisez votre audience avec getinside. Espace dédié aux E-com
 has_children: true
 nav_order: 3
 toc: false
+redirect_from:
+  - /docs/fr/publishers/
 ---
 
 # Espace Distributeurs & E-commerçants
@@ -57,31 +59,31 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 <div class="gi-grid gi-grid-2">
 
   {% include card.html
-    title="📦 Asile Colis"
+    title="📦 Sponsored Mail"
     desc="Réception, insertion en entrepôt et reporting."
     url="asile-colis"
   %}
 
   {% include card.html
-    title="📧 Emailing Dédié"
+    title="📧 Dedicated Email"
     desc="Création, endorsement et tracking."
     url="email-dedie"
   %}
 
   {% include card.html
-    title="🖼️ Encart Newsletter"
+    title="🖼️ Display Email"
     desc="Intégration bannière simple."
     url="email-display"
   %}
 
   {% include card.html
-    title="📱 Social Ads"
+    title="📱 Sponsored Social"
     desc="Sponsorisation de posts (Partnership Ads)."
     url="social-ads"
   %}
   
    {% include card.html
-    title="🎁 Jeu Concours"
+    title="🎁 Co-Branded Contest"
     desc="Animation et collecte de leads."
     url="jeux-concours"
   %}

@@ -14,7 +14,7 @@ Les procédures opérationnelles pour la réception, l'insertion et le reporting
 
 <div class="mt-4 mb-6">
   <a href="logistics" class="btn btn-primary fs-4 mr-2">Guide Logistique</a>
-  <a href="reporting" class="btn btn-outline fs-4">Suivi Hebdomadaire</a>
+  <a href="../tarification" class="btn btn-outline fs-4">Modèle de revenus</a>
 </div>
 
 <hr class="mb-6">
