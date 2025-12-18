@@ -234,14 +234,15 @@
 
   .gi-step-content {
     flex: 1;
+    min-width: 0;
+    padding-top: 8px;
+    /* Centre le texte face au cercle de 40px */
   }
 
   .gi-step-title {
     margin-top: 0;
     color: var(--gi-text);
     margin-bottom: 0.5rem;
-    padding-top: 4px;
-    /* Alignement optique */
     font-size: 1.2rem;
   }
 
@@ -257,13 +258,14 @@
 
   .gi-step-body ul,
   .gi-step-body ol {
-    padding-left: 1.2rem;
+    padding-left: 1rem;
     margin-top: 0.5rem;
   }
 
   /* --- 7. COMPOSANTS CALLOUTS (Refactoring) --- */
   .gi-callout {
-    padding: 15px;
+    padding: 10px 15px;
+    /* Réduction de l'espace haut/bas */
     border-radius: 6px;
     margin-bottom: 20px;
     border-left: 4px solid;
@@ -291,7 +293,8 @@
   }
 
   .gi-callout-title {
-    margin: 0 0 10px 0;
+    margin: 0 0 5px 0;
+    /* Réduction de l'écart avec le contenu */
     color: inherit;
     display: flex;
     align-items: center;
