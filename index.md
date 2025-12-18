@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_exclude: true
 permalink: /
-description: "getinside Handbook: Official guides and documentation."
+description: "getinside Help Center: Official guides and documentation."
 ---
 
 # getinside Handbook
@@ -15,8 +15,8 @@ Retrouvez ici l'ensemble des guides opérationnels, spécifications techniques e
 <!-- BOUTONS DU HAUT -->
 <div class="d-flex flex-wrap mb-6">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary mr-2 mb-2">Accéder au SaaS</a>
-  <a href="https://getinside.fr/" target="_blank" class="btn btn-outline mr-2 mb-2">Site Officiel</a>
-  <a href="https://www.linkedin.com/company/getinside" target="_blank" class="btn btn-outline mb-2">LinkedIn</a>
+  <a href="https://getinside.fr/" target="_blank" class="btn mr-2 mb-2">Site Officiel</a>
+  <a href="https://www.linkedin.com/company/getinside" target="_blank" class="btn mb-2">LinkedIn</a>
 </div>
 
 <hr class="mb-6">
@@ -35,10 +35,16 @@ Retrouvez ici l'ensemble des guides opérationnels, spécifications techniques e
 </div>
 
 <!-- GRILLE PRINCIPALE (NAVIGATION) -->
+<div class="site-header" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; margin-bottom: 2rem; border-bottom: 1px solid #eee;">
+  <div style="font-size: 1.5rem; font-weight: 700; color: var(--gi-text);">Handbook</div>
+  <div style="flex-grow: 1; max-width: 400px; margin: 0 2rem;">
+    <input type="text" placeholder="Search Handbook" style="width: 100%; padding: 0.5rem 1rem; border: 1px solid #ddd; border-radius: 6px; background-color: #fff;">
+  </div>
+</div>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 30px;">
 
   <!-- CARTE ANNONCEURS -->
-  <div style="border: 1px solid var(--gi-border); border-radius: 8px; padding: 24px; background-color: var(--gi-white); display: flex; flex-direction: column; transition: transform 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff; display: flex; flex-direction: column;">
     <h2 class="mt-0">🛍️ Espace Annonceurs</h2>
     <p class="fs-4 text-grey-dk-000">Pour les marques souhaitant acquérir de nouveaux clients via nos réseaux de distribution.</p>
     
@@ -59,12 +65,12 @@ Retrouvez ici l'ensemble des guides opérationnels, spécifications techniques e
     </div>
     
     <div class="mt-4 pt-4 border-top">
-      <a href="docs/fr/02-annonceurs/" class="fs-5 fw-700 no-underline" style="color: var(--gi-btn-dark);">Accéder à l'espace Annonceur &rarr;</a>
+      <a href="docs/fr/02-annonceurs/" class="fs-5 fw-700 no-underline">Accéder à l'espace Annonceur &rarr;</a>
     </div>
   </div>
 
   <!-- CARTE DISTRIBUTEURS -->
-  <div style="border: 1px solid var(--gi-border); border-radius: 8px; padding: 24px; background-color: var(--gi-white); display: flex; flex-direction: column; transition: transform 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff; display: flex; flex-direction: column;">
     <h2 class="mt-0">📦 Espace Distributeurs</h2>
     <p class="fs-4 text-grey-dk-000">Pour les e-commerçants souhaitant monétiser leurs colis et leurs audiences.</p>
     
@@ -89,7 +95,7 @@ Retrouvez ici l'ensemble des guides opérationnels, spécifications techniques e
     </div>
 
     <div class="mt-4 pt-4 border-top">
-      <a href="docs/fr/03-distributeurs/" class="fs-5 fw-700 no-underline" style="color: var(--gi-btn-dark);">Accéder à l'espace Distributeur &rarr;</a>
+      <a href="docs/fr/03-distributeurs/" class="fs-5 fw-700 no-underline">Accéder à l'espace Distributeur &rarr;</a>
     </div>
   </div>
 
