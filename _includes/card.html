@@ -5,7 +5,9 @@
         {% endif %}
 
         <div class="gi-card {% if include.layout == 'horizontal' %}horizontal{% endif %}">
+            {% if include.icon and include.icon != "" %}
             <div class="gi-card-icon">{{ include.icon }}</div>
+            {% endif %}
             <div class="gi-card-content">
 
                 <div class="gi-card-title">{{ include.title }}</div>
