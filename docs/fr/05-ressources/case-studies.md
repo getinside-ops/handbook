@@ -90,8 +90,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <!-- 1. CAS AVÈNE -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
   
-  <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-avene.png" alt="Campagne Avène" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  <div style="flex: 0 0 250px; min-width: 250px; display: flex; align-items: center; justify-content: center;">
+    <img src="../../../assets/images/case-studies/case-avene.png" alt="Campagne Avène" onclick="openLightbox(this.src)" style="max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #eee; cursor: zoom-in;">
   </div>
 
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
@@ -139,8 +139,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
 <!-- 3. CAS HELLOFRESH -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
-  <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-hellofresh.png" alt="Campagne Hello Fresh" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  <div style="flex: 0 0 250px; min-width: 250px; display: flex; align-items: center; justify-content: center;">
+    <img src="../../../assets/images/case-studies/case-hellofresh.png" alt="Campagne Hello Fresh" onclick="openLightbox(this.src)" style="max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #eee; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -163,8 +163,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
 <!-- 4. CAS BAM KARAOKE BOX (NOUVEAU) -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
-  <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-bam.png" alt="Campagne Bam Karaoke" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  <div style="flex: 0 0 250px; min-width: 250px; display: flex; align-items: center; justify-content: center;">
+    <img src="../../../assets/images/case-studies/case-bam.png" alt="Campagne Bam Karaoke" onclick="openLightbox(this.src)" style="max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #eee; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -187,8 +187,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
 <!-- 5. CAS ULTRA PREMIUM DIRECT (NOUVEAU) -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
-  <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-upd.png" alt="Campagne Ultra Premium Direct" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  <div style="flex: 0 0 250px; min-width: 250px; display: flex; align-items: center; justify-content: center;">
+    <img src="../../../assets/images/case-studies/case-upd.png" alt="Campagne Ultra Premium Direct" onclick="openLightbox(this.src)" style="max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #eee; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -212,8 +212,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
 <!-- 6. CAS TOTAL WASH -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
-  <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-wash.png" alt="Campagne Total Wash" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  <div style="flex: 0 0 250px; min-width: 250px; display: flex; align-items: center; justify-content: center;">
+    <img src="../../../assets/images/case-studies/case-wash.png" alt="Campagne Total Wash" onclick="openLightbox(this.src)" style="max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #eee; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -236,8 +236,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
 <!-- 7. CAS NESPRESSO -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
-  <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-nespresso.png" alt="Campagne Nespresso" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  <div style="flex: 0 0 250px; min-width: 250px; display: flex; align-items: center; justify-content: center;">
+    <img src="../../../assets/images/case-studies/case-nespresso.png" alt="Campagne Nespresso" onclick="openLightbox(this.src)" style="max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #eee; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
@@ -260,8 +260,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
 <!-- 8. CAS JAPHY -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 30px;">
-  <div style="flex: 0 0 250px; min-width: 250px;">
-    <img src="../../../assets/images/case-studies/case-japhy.png" alt="Campagne Japhy" onclick="openLightbox(this.src)" style="width: 100%; border-radius: 6px; border: 1px solid #eee; object-fit: cover; cursor: zoom-in;">
+  <div style="flex: 0 0 250px; min-width: 250px; display: flex; align-items: center; justify-content: center;">
+    <img src="../../../assets/images/case-studies/case-japhy.png" alt="Campagne Japhy" onclick="openLightbox(this.src)" style="max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #eee; cursor: zoom-in;">
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
