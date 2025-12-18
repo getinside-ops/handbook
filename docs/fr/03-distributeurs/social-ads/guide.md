@@ -1,8 +1,8 @@
----
+﻿---
 layout: default
 title: Guide de Publication
 parent: Sponsored Social (publisher)
-grand_parent: Espace Éditeurs
+grand_parent: Espace Distributeurs
 nav_order: 1
 ---
 

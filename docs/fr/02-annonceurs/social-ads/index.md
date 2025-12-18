@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Social Ads
+title: Sponsored Social
 description: "Social Ads et Influence : diffusez vos campagnes via les comptes sociaux de nos partenaires e-commerçants."
 parent: Espace Annonceurs
 has_children: true

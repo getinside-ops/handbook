@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Email Dédié
+title: Dedicated Email
 description: "Emailing Dédié et Blast Newsletter : profitez de l'Endorsement de nos partenaires retail."
 parent: Espace Annonceurs
 has_children: true

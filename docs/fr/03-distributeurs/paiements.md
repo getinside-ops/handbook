@@ -1,7 +1,7 @@
----
+﻿---
 layout: default
 title: Paiement des Revenus
-parent: Espace Éditeurs
+parent: Espace Distributeurs
 nav_order: 8
 ---
 

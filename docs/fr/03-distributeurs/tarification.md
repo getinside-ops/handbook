@@ -1,7 +1,7 @@
----
+﻿---
 layout: default
 title: Tarifs & Abonnements
-parent: Espace Éditeurs
+parent: Espace Distributeurs
 nav_order: 9
 toc: false
 ---

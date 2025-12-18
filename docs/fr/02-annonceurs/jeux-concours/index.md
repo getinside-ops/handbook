@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Jeux Concours
+title: Co-Branded Contest
 description: "Jeux Concours (Lead Gen) : collectez des données opt-in qualifiées grâce à des mécaniques gamifiées."
 parent: Espace Annonceurs
 has_children: true

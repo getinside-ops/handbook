@@ -1,8 +1,8 @@
----
+﻿---
 layout: default
 title: Suivi & Reporting
 parent: Sponsored Mail (publisher)
-grand_parent: Espace Éditeurs
+grand_parent: Espace Distributeurs
 nav_order: 2
 ---
 

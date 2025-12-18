@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Asile Colis
+title: Sponsored Mail
 description: "Insérez vos flyers et échantillons dans les colis de +250 e-commerçants partenaires."
 parent: Espace Annonceurs
 has_children: true
@@ -66,62 +66,54 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
 <h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
 
-<!-- LISTE VERTICALE PLEINE LARGEUR -->
-<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
+<div class="gi-grid gi-grid-1">
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
-    <div style="font-size: 30px; min-width: 40px;">📦</div>
-    <div>
-      <strong class="fs-4 d-block">100% d'Ouverture</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Le seul média physique avec un taux de prise en main absolu. Le client attend son colis avec impatience.</p>
-    </div>
-  </div>
+  {% include card.html
+    layout="horizontal"
+    title="100% d'Ouverture"
+    desc="Le seul média physique avec un taux de prise en main absolu. Le client attend son colis avec impatience."
+    icon="📦"
+  %}
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
-    <div style="font-size: 30px; min-width: 40px;">🎯</div>
-    <div>
-      <strong class="fs-4 d-block">Ciblage Affinitaire</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à des marques (Beauté, Tech, Food) dont l'audience correspond à votre persona.</p>
-    </div>
-  </div>
+  {% include card.html
+    layout="horizontal"
+    title="Ciblage Affinitaire"
+    desc="Associez votre image à des marques (Beauté, Tech, Food) dont l'audience correspond à votre persona."
+    icon="🎯"
+  %}
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
-    <div style="font-size: 30px; min-width: 40px;">🛡️</div>
-    <div>
-      <strong class="fs-4 d-block">Cookie-less</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Un levier contextuel puissant, non impacté par le RGPD ou la fin des cookies tiers.</p>
-    </div>
-  </div>
+  {% include card.html
+    layout="horizontal"
+    title="Cookie-less"
+    desc="Un levier contextuel puissant, non impacté par le RGPD ou la fin des cookies tiers."
+    icon="🛡️"
+  %}
 
 </div>
 
 <h2 class="text-blue-200 mb-4">Pourquoi passer par getinside ?</h2>
 
-<!-- LISTE VERTICALE PLEINE LARGEUR -->
-<div style="display: flex; flex-direction: column; gap: 20px;">
+<div class="gi-grid gi-grid-1">
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🌐</div>
-    <div>
-      <h3 class="mt-0">Réseau Exclusif</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Accédez en un clic à un inventaire de <strong>+250 e-commerçants</strong> et des audiences de niche souvent inaccessibles en direct.</p>
-    </div>
-  </div>
+  {% include card.html
+    layout="horizontal"
+    title="Réseau Exclusif"
+    desc="Accédez en un clic à un inventaire de <strong>+250 e-commerçants</strong> et des audiences de niche souvent inaccessibles en direct."
+    icon="🌐"
+  %}
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🏭</div>
-    <div>
-      <h3 class="mt-0">Logistique Intégrée</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Impression Made in France, conditionnement et respect des délais de livraison en entrepôt : nous gérons toute la complexité opérationnelle.</p>
-    </div>
-  </div>
+  {% include card.html
+    layout="horizontal"
+    title="Logistique Intégrée"
+    desc="Impression Made in France, conditionnement et respect des délais de livraison en entrepôt : nous gérons toute la complexité opérationnelle."
+    icon="🏭"
+  %}
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">📊</div>
-    <div>
-      <h3 class="mt-0">Pilotage Centralisé</h3>
-      <p class="fs-2 text-grey-dk-000 mb-0">Fini les échanges d'emails. Suivez l'avancement des distributions (reporting hebdo) et vos performances (scans) sur un dashboard unique.</p>
-    </div>
-  </div>
+  {% include card.html
+    layout="horizontal"
+    title="Pilotage Centralisé"
+    desc="Fini les échanges d'emails. Suivez l'avancement des distributions (reporting hebdo) et vos performances (scans) sur un dashboard unique."
+    icon="📊"
+  %}
 
 </div>

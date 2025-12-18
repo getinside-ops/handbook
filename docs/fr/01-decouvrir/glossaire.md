@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Glossaire
-nav_order: 100
+description: "Définitions des termes Retail Media : Asile Colis, CPM, Endorsement, etc."
+parent: Découvrir getinside
+nav_order: 3
 ---
 
 # Glossaire du Retail Media

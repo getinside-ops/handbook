@@ -1,7 +1,7 @@
----
+﻿---
 layout: default
 title: Sponsored Mail (publisher)
-parent: Espace Éditeurs
+parent: Espace Distributeurs
 has_children: true
 nav_order: 2
 ---

@@ -1,8 +1,8 @@
----
+﻿---
 layout: default
 title: Programme d'Affiliation
 description: "Générez des revenus récurrents en parrainant des e-commerçants ou des annonceurs sur getinside."
-parent: Espace Éditeurs
+parent: Espace Distributeurs
 nav_order: 10
 toc: false
 ---

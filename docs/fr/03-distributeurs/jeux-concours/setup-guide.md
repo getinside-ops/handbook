@@ -1,8 +1,8 @@
----
+﻿---
 layout: default
 title: Setup & RGPD
 parent: Co-Branded Contest (publisher)
-grand_parent: Espace Éditeurs
+grand_parent: Espace Distributeurs
 nav_order: 1
 ---
 

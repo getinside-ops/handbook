@@ -1,8 +1,8 @@
----
+﻿---
 layout: default
 title: Onboarding & Fonctionnement
 description: "Processus d'intégration et de fonctionnement pour les éditeurs : audit, configuration, activation et gestion des campagnes."
-parent: Espace Éditeurs
+parent: Espace Distributeurs
 nav_order: 1
 ---
 

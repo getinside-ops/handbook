@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Espace Distributeurs
 description: "Monétisez votre audience avec getinside. Espace dédié aux E-commerçants et Distributeurs : Onboarding, Audience et Revenus."
