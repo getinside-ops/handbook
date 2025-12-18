@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Programme d'Affiliation
+description: "Générez des revenus récurrents en parrainant des e-commerçants ou des annonceurs sur getinside."
 parent: Espace Éditeurs
 nav_order: 10
 toc: false
@@ -14,47 +15,47 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 
 <h2 class="text-purple-200 mb-4">Qui parrainer ?</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
+<div class="gi-grid">
   
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
-    <h3 class="mt-0 text-blue-200">📦 D'autres E-commerçants</h3>
-    <p>Vous connaissez d'autres sites qui expédient des colis ou ont une base email ?</p>
-    <p class="mb-0 text-grey-dk-000">Invitez-les à monétiser leur audience.</p>
-  </div>
+  {% include card.html
+    title="📦 D'autres E-commerçants"
+    desc="Vous connaissez d'autres sites qui expédient des colis ou ont une base email ? Invitez-les à monétiser leur audience."
+    url="#"
+  %}
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
-    <h3 class="mt-0 text-green-200">🛍️ Des Marques (Annonceurs)</h3>
-    <p>Invitez vos fournisseurs ou partenaires à utiliser getinside pour leurs campagnes d'acquisition.</p>
-    <p class="mb-0 text-grey-dk-000">Idéal pour digitaliser votre Trade Marketing.</p>
-  </div>
+  {% include card.html
+    title="🛍️ Des Marques (Annonceurs)"
+    desc="Invitez vos fournisseurs ou partenaires à utiliser getinside pour leurs campagnes d'acquisition."
+    url="#"
+  %}
 
 </div>
 
 <h2 class="text-grey-dk-000 mb-4">Comment ça marche ?</h2>
 
-<!-- GRILLE 3 ETAPES - Alignement automatique -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; align-items: stretch; margin-bottom: 40px;">
+<!-- GRILLE 3 ETAPES -->
+<div class="gi-grid gi-grid-3">
   
-  <!-- ETAPE 1 -->
-  <div style="text-align: center; border: 1px solid #e1e4e8; padding: 30px; border-radius: 8px; background: #fff;">
-    <div style="font-size: 40px; margin-bottom: 15px;">🗣️</div>
-    <h3 class="mt-0">1. Parrainez</h3>
-    <p class="mb-0 fs-2 text-grey-dk-000">Envoyez votre lien de parrainage unique disponible sur la plateforme.</p>
-  </div>
+  {% include card.html
+    title="1. Parrainez"
+    desc="Envoyez votre lien de parrainage unique disponible sur la plateforme."
+    url="#"
+    icon="🗣️"
+  %}
 
-  <!-- ETAPE 2 -->
-  <div style="text-align: center; border: 1px solid #e1e4e8; padding: 30px; border-radius: 8px; background: #fff;">
-    <div style="font-size: 40px; margin-bottom: 15px;">🚀</div>
-    <h3 class="mt-0">2. Ils s'activent</h3>
-    <p class="mb-0 fs-2 text-grey-dk-000">Votre filleul lance ses premières campagnes ou vend son audience.</p>
-  </div>
+  {% include card.html
+    title="2. Ils s'activent"
+    desc="Votre filleul lance ses premières campagnes ou vend son audience."
+    url="#"
+    icon="🚀"
+  %}
 
-  <!-- ETAPE 3 (Mise en avant) -->
-  <div style="text-align: center; border: 2px solid #7253ed; background-color: #fcfbff; padding: 30px; border-radius: 8px;">
-    <div style="font-size: 40px; margin-bottom: 15px;">💰</div>
-    <h3 class="mt-0 text-purple-200">3. Vous gagnez</h3>
-    <p class="mb-0 fs-2 text-grey-dk-000">Vous touchez automatiquement une commission sur leur activité.</p>
-  </div>
+  {% include card.html
+    title="3. Vous gagnez"
+    desc="Vous touchez automatiquement une commission sur leur activité."
+    url="#"
+    icon="💰"
+  %}
 
 </div>
 

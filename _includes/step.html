@@ -1,0 +1,11 @@
+<div class="gi-step">
+    <div class="gi-step-index {{ include.color | default: 'purple' }}">{{ include.index }}</div>
+    <div class="gi-step-content">
+        {% if include.title %}
+        <h3 class="gi-step-title">{{ include.title }}</h3>
+        {% endif %}
+        <div class="gi-step-body">
+            {{ include.content | markdownify }}
+        </div>
+    </div>
+</div>

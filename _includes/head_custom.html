@@ -122,7 +122,10 @@
     color: inherit !important;
     display: block;
     height: 100%;
+    padding: 2px;
+    /* Laisse de la place pour le transform translateY(-2px) et les ombres */
   }
+
 
   .gi-card {
     border: 1px solid var(--gi-border);
@@ -184,5 +187,97 @@
     color: #ccc;
     font-weight: bold;
     align-self: center;
+  }
+
+  /* --- 6. COMPOSANTS STEPS (Refactoring) --- */
+  .gi-step {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+
+  .gi-step-index {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+  }
+
+  .gi-step-index.purple {
+    background-color: #7253ed;
+  }
+
+  .gi-step-index.blue {
+    background-color: #2d6fd6;
+  }
+
+  .gi-step-index.green {
+    background-color: #28a745;
+  }
+
+  .gi-step-index.check {
+    background-color: #28a745;
+    content: "✓";
+  }
+
+  .gi-step-content {
+    flex: 1;
+  }
+
+  .gi-step-title {
+    margin-top: 0;
+    color: var(--gi-text);
+    margin-bottom: 0.5rem;
+  }
+
+  .gi-step-body p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* --- 7. COMPOSANTS CALLOUTS (Refactoring) --- */
+  .gi-callout {
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    border-left: 4px solid;
+    background-color: #f6f8fa;
+  }
+
+  .gi-callout.info {
+    border-color: #7253ed;
+    background: #fcfbff;
+  }
+
+  .gi-callout.warning {
+    border-color: #f66a0a;
+    background: #fff5f2;
+  }
+
+  .gi-callout.tip {
+    border-color: #28a745;
+    background: #f6fff8;
+  }
+
+  .gi-callout.danger {
+    border-color: #d73a49;
+    background: #ffeef0;
+  }
+
+  .gi-callout-title {
+    margin: 0 0 10px 0;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .gi-callout-body p:last-child {
+    margin-bottom: 0;
   }
 </style>

@@ -1,0 +1,11 @@
+<div class="gi-callout {{ include.type | default: 'info' }}">
+    {% if include.title %}
+    <h4 class="gi-callout-title">
+        {% if include.icon %}<span class="gi-callout-icon">{{ include.icon }}</span>{% endif %}
+        {{ include.title }}
+    </h4>
+    {% endif %}
+    <div class="gi-callout-body">
+        {{ include.content | markdownify }}
+    </div>
+</div>
