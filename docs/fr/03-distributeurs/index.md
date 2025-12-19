@@ -30,7 +30,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   {% include card.html
     title="🚀 Guide de Démarrage"
     desc="Comprendre les 3 piliers : Activation, Trade Marketing et Prospection."
-    url="onboarding-process"
+    url="onboarding"
     icon=" "
     arrow=true
   %}
@@ -38,7 +38,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   {% include card.html
     title="🎯 Audience & Score"
     desc="Comment remplir votre fiche pour être visible et optimiser votre score distributeur."
-    url="audience-setup"
+    url="audiences"
     icon=" "
     arrow=true
   %}
@@ -97,13 +97,17 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   {% include card.html
     title="💎 Abonnements & Offres"
     desc="Starter, Standard ou Managed."
-    url="pricing"
+    url="tarification"
+    icon=" "
+    arrow=true
   %}
 
   {% include card.html
     title="💸 Paiements & Wallet"
     desc="Retraits, frais et réinvestissement."
-    url="payouts"
+    url="paiements"
+    icon=" "
+    arrow=true
   %}
 
   {% include card.html
