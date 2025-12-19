@@ -13,10 +13,7 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
     L'espace unique pour piloter vos campagnes Retail Media, monétiser vos audiences et accéder à tout notre savoir-faire technique.
   </p>
   
-  <div class="gi-search-container">
-    <span class="gi-search-icon">🔍</span>
-    <input type="text" class="gi-search-input" placeholder="Que recherchez-vous ? (ex: Sponsored Mail, Tracking, RSE...)" id="hb-search-input">
-  </div>
+
 
   <div class="d-flex justify-content-center flex-wrap mt-6" style="gap: 15px;">
     <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary px-4 py-2">Accéder au SaaS</a>
@@ -91,13 +88,4 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
   </p>
 </footer>
 
-<script>
-// Liaison simple pour la barre de recherche avec le système Just the Docs
-document.getElementById('hb-search-input').addEventListener('input', function(e) {
-  const searchInput = document.querySelector('.search-input'); // Selecteur original du theme
-  if (searchInput) {
-    searchInput.value = e.target.value;
-    searchInput.dispatchEvent(new Event('input', { bubbles: true }));
-  }
-});
-</script>
+
