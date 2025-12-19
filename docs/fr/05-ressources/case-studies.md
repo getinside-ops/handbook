@@ -39,7 +39,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       <h3 class="mt-0 mb-2">Caats x Les Petits Culottés</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Campagne Petfood ciblée auprès d'une audience Parents / Famille.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -56,7 +56,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       <h3 class="mt-0 mb-2">HelloFresh x Berceau Magique</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/8fb31ccea9fa/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -73,7 +73,24 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       <h3 class="mt-0 mb-2">Les Petits Frères des Pauvres</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/70b400a5618d/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- EXEMPLE 4 : MON JARDIN BIO -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #fff; display: flex; flex-direction: column;">
+    <div style="height: 180px; background-color: #f6f8fa; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid #eee;">
+      <span style="font-size: 50px;">🌿</span>
+    </div>
+    <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
+      <div style="margin-bottom: 10px;">
+        <span style="background: #f0fcf4; color: #2da44e; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
+      </div>
+      <h3 class="mt-0 mb-2">Mon Jardin Bio x Epsiloon</h3>
+      <p class="fs-2 text-grey-dk-000 mb-4">Campagne d'abonnement presse auprès d'une audience jardinage.</p>
+      <div style="margin-top: auto;">
+        <a href="https://benoit-prentout.github.io/archive-news/b86901725817/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
