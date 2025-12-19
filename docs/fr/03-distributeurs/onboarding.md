@@ -36,9 +36,12 @@ Bienvenue chez getinside ! Nous sommes ravis de vous accompagner dans la monéti
 
 {% capture step1 %}
 Tout commence par un échange privilégié avec notre équipe. 
-- Nous créons votre compte e-commerçant.
-- Vous recevez un email d'invitation.
-- **Action :** Activez votre accès en définissant votre mot de passe depuis l'email reçu.
+<br>
+1. Nous créons votre compte e-commerçant.
+<br>
+2. Vous recevez un email d'invitation.
+<br>
+3. **Action :** Activez votre accès en définissant votre mot de passe depuis l'email reçu.
 {% endcapture %}
 {% include step.html index="1" title="Démo & Création du compte" content=step1 %}
 
@@ -51,14 +54,26 @@ Avant de créer vos audiences, définissez vos contraintes logistiques pour que 
 {% capture step3 %}
 Dans l'onglet **Monétisation**, décrivez précisément vos audiences pour maximiser votre attractivité.
 
-[Voir le guide complet : Audience & Score →](audiences){: .btn .btn-primary .btn-sm .mt-2 }
+<div class="mt-3">
+  <a href="audiences" class="btn btn-primary btn-sm">Voir le guide complet : Audience & Score →</a>
+</div>
 {% endcapture %}
 {% include step.html index="3" title="Création des Audiences" content=step3 %}
 
 {% capture step4 %}
 Pour chaque audience, activez les formats que vous souhaitez monétiser :
-- **📦 Asile Colis :** Flyers, échantillons ou catalogues. [Découvrir le format](asile-colis/){: .btn .btn-outline .btn-sm .mt-2 }
-- **📧 Digital :** Email dédié ou bannières. [Découvrir le format](email-dedie/){: .btn .btn-outline .btn-sm .mt-2 }
+
+<div class="mt-3 mb-3">
+  <strong>📦 Asile Colis :</strong> Flyers, échantillons ou catalogues.
+  <br>
+  <a href="asile-colis/" class="btn btn-outline btn-sm mt-2">Découvrir le format</a>
+</div>
+
+<div class="mt-3">
+  <strong>📧 Digital :</strong> Email dédié ou bannières.
+  <br>
+  <a href="email-dedie/" class="btn btn-outline btn-sm mt-2">Découvrir le format</a>
+</div>
 {% endcapture %}
 {% include step.html index="4" title="Choix des Formats" content=step4 %}
 
@@ -107,6 +122,10 @@ Maximisez vos gains en invitant vos propres marques partenaires à utiliser la p
 
 {% capture step11 %}
 Le programme d'affiliation vous permet de toucher **20% de commission** sur l'activité de vos parrainages.
-[En savoir plus sur l'affiliation](affiliation){: .btn .btn-outline .btn-sm .mt-2 }
+
+<div class="mt-3">
+  <a href="affiliation" class="btn btn-outline btn-sm">En savoir plus sur l'affiliation</a>
+</div>
 {% endcapture %}
 {% include step.html index="🤝" color="blue" title="Parrainage & Affiliation" content=step11 %}
+
