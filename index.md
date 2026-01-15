@@ -8,7 +8,6 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
 
 <!-- PREMIUM HERO SECTION -->
 <div class="gi-hero">
-  <img src="assets/images/getinside.svg" alt="getinside" style="height: 40px; margin-bottom: 2rem; position: relative;">
   <div class="gi-badge">DOCUMENTATION OFFICIELLE</div>
   <h1 class="gi-hero-title">Handbook</h1>
   <p class="gi-hero-subtitle">
