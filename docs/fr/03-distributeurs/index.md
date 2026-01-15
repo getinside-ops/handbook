@@ -96,7 +96,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
   {% include card.html
     title="💎 Abonnements & Offres"
-    desc="Starter, Standard ou Managed."
+    desc="Starter, Plateforme ou Managed."
     url="tarification"
     icon=" "
     arrow=true

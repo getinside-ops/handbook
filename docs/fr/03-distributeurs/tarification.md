@@ -19,9 +19,11 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 
   <!-- OFFRE STARTER -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; background-color: #fff;">
-    <h3 class="text-grey-dk-000 mt-0">Starter</h3>
+    <h3 class="text-grey-dk-000 mt-0 mb-1">Starter</h3>
+    <p class="fs-2 text-grey-dk-000 mb-4">Débutez sans coût fixe</p>
+    
     <div class="fs-9 fw-700 text-purple-100">Gratuit</div>
-    <p class="fs-2 text-grey-dk-000">Débutez la monétisation sans coût fixe.</p>
+    <div class="fs-2 text-grey-dk-000 mb-4">Engagement 12 Mois</div>
     
     <hr style="margin: 20px 0; border-top: 1px solid #eee;">
     
@@ -36,13 +38,15 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
     </div>
   </div>
 
-  <!-- OFFRE STANDARD -->
+  <!-- OFFRE PLATEFORME -->
   <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; position: relative; background-color: #fcfbff;">
     <div style="position: absolute; top: -12px; right: 20px; background: #7253ed; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">POPULAIRE</div>
     
-    <h3 class="text-purple-200 mt-0">Standard</h3>
-    <div class="fs-9 fw-700 text-purple-200">249€ <span class="fs-4 fw-300 text-grey-dk-000">/mois</span></div>
-    <p class="fs-2 text-grey-dk-000">Développez votre propre réseau et augmentez vos marges.</p>
+    <h3 class="text-purple-200 mt-0 mb-1">Plateforme</h3>
+    <p class="fs-2 text-grey-dk-000 mb-4">Développez votre propre collaboration et faites grandir vos revenus</p>
+    
+    <div class="fs-9 fw-700 text-purple-200">499 € HT <span class="fs-4 fw-300 text-grey-dk-000">/mois</span></div>
+    <div class="fs-2 text-grey-dk-000 mb-4">Engagement 12 Mois</div>
     
     <hr style="margin: 20px 0; border-top: 1px solid #e0d4fc;">
     
@@ -59,9 +63,11 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 
   <!-- OFFRE MANAGED -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; background-color: #fff;">
-    <h3 class="text-grey-dk-000 mt-0">Managed</h3>
-    <div class="fs-9 fw-700 text-purple-100">1 399€ <span class="fs-4 fw-300 text-grey-dk-000">/mois</span></div>
-    <p class="fs-2 text-grey-dk-000">Déléguez l'acquisition à nos experts pour un volume maximal.</p>
+    <h3 class="text-grey-dk-000 mt-0 mb-1">Managed</h3>
+    <p class="fs-2 text-grey-dk-000 mb-4">Déléguez l'acquisition de vos annonceurs</p>
+    
+    <div class="fs-9 fw-700 text-purple-100">1 499 € HT <span class="fs-4 fw-300 text-grey-dk-000">/mois</span></div>
+    <div class="fs-2 text-grey-dk-000 mb-4">Engagement 12 Mois</div>
     
     <hr style="margin: 20px 0; border-top: 1px solid #eee;">
     
@@ -82,7 +88,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 
 <!-- Tableau en Markdown natif -->
 
-| Services | Starter (Gratuit) | Standard (249€/mois) | Managed (1399€/mois) |
+| Services | Starter (Gratuit) | Plateforme (499€/mois) | Managed (1499€/mois) |
 | :--- | :--- | :--- | :--- |
 | **Commercialisation** (Inbound) | ✅ (30% frais) | ✅ (Dégressif*) | ✅ (15% fixe) |
 | **Prospection Annonceurs** | ❌ | ✅ Accès Base | ✅ Délégué (Sales Ops) |
@@ -94,7 +100,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 
 <br>
 
-<h3 class="text-purple-200 mt-4">* Détail de la dégressivité (Offre Standard)</h3>
+<h3 class="text-purple-200 mt-4">* Détail de la dégressivité (Offre Plateforme)</h3>
 <p>Le taux de Frais de Régie s'ajuste automatiquement selon le volume de revenu annuel généré.</p>
 
 <!-- Tableau Dégressivité -->
@@ -113,6 +119,6 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
   <p class="mb-0">
     Avec l'offre <strong>Starter</strong>, le premier retrait annuel est gratuit, puis des frais de 5% s'appliquent.
     <br>
-    Avec les offres <strong>Standard et Managed</strong>, vous récupérez 100% de vos revenus, sans aucun frais bancaire ou de gestion lors des virements.
+    Avec les offres <strong>Plateforme et Managed</strong>, vous récupérez 100% de vos revenus, sans aucun frais bancaire ou de gestion lors des virements.
   </p>
 </div>
