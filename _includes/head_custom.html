@@ -161,10 +161,14 @@
   img[src*="getinside.svg"] {
     max-width: 140px !important;
     width: 140px !important;
+    min-height: 45px !important;
     height: auto !important;
     display: block !important;
     visibility: visible !important;
     opacity: 1 !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: left center !important;
   }
 
   .site-header {
@@ -556,6 +560,11 @@
 
   .gi-home-footer a:hover {
     text-decoration: underline;
+  }
+
+  /* Force hide theme footer */
+  footer:not(.gi-home-footer) {
+    display: none !important;
   }
 </style>
 
