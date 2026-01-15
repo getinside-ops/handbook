@@ -14,7 +14,7 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
     L'espace unique pour piloter vos campagnes, monétiser vos audiences et accéder à tout l'univers technique de getinside.
   </p>
   
-  <div class="d-flex justify-content-center flex-wrap mt-6" style="gap: 15px; position: relative; z-index: 10;">
+  <div class="d-flex justify-content-center flex-wrap mt-6 gap-15" style="position: relative; z-index: 10;">
     <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary px-4 py-2">Accéder au SaaS</a>
     <a href="docs/fr/01-decouvrir/" class="btn px-4 py-2">Démarrer ici</a>
     <a href="https://getinside.fr/" target="_blank" class="btn px-4 py-2">Site Web</a>
