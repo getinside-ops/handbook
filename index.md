@@ -79,7 +79,10 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
 
 <footer class="gi-home-footer">
   <p>
-    © {{ "now" | date: "%Y" }} getinside media • <a href="mailto:benoit@getinside.fr" class="text-pruple-500">Contact Opérations</a>
+    © {{ "now" | date: "%Y" }} <strong>Contact Opérations</strong> : <a href="mailto:benoit@getinside.fr" style="color: #7253ed; text-decoration: none;">benoit@getinside.fr</a> • <strong>Studio Graphique</strong> : <a href="mailto:studio@getinside.fr" style="color: #7253ed; text-decoration: none;">studio@getinside.fr</a>
+  </p>
+  <p class="mt-2" style="font-size: 0.9em; opacity: 0.8;">
+    © {{ "now" | date: "%Y" }} getinside media. Tous droits réservés.
   </p>
 </footer>
 
