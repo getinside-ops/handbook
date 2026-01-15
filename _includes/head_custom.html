@@ -136,6 +136,15 @@
     gap: 15px !important;
   }
 
+  .mb-6 {
+    margin-bottom: 3rem !important;
+  }
+
+  .py-6 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+  }
+
   /* Logo visibility fix */
   .site-title,
   .site-header .site-title,
@@ -549,3 +558,20 @@
     text-decoration: underline;
   }
 </style>
+
+<script>
+  // Force Logo Injection if it's missing or if title is text-only
+  document.addEventListener("DOMContentLoaded", function () {
+    var siteTitle = document.querySelector('.site-title');
+    if (siteTitle) {
+      // Check if it already has an image
+      if (!siteTitle.querySelector('img')) {
+        // Assume path relative to root or handle baseurl if needed.
+        // We use absolute path to be safe as per previous attempts.
+        var logoUrl = "https://getinside-ops.github.io/handbook/assets/images/getinside.svg";
+        siteTitle.innerHTML = '<img src="' + logoUrl + '" alt="Handbook" class="site-logo">';
+        console.log("Logo forced via JS");
+      }
+    }
+  });
+</script>
