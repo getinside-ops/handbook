@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Handbook
-logo: "/handbook/assets/images/getinside.svg"
+logo: "https://getinside-ops.github.io/handbook/assets/images/getinside.svg"
 description: Official guides and documentation for getinside Retail Media operations.
 url: https://getinside-ops.github.io/handbook
 baseurl: /handbook

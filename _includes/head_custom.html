@@ -106,19 +106,61 @@
   }
 
   /* --- UTILS --- */
-  .d-flex { display: flex !important; }
-  .justify-content-center { justify-content: center !important; }
-  .flex-wrap { flex-wrap: wrap !important; }
-  .mt-6 { margin-top: 1.5rem !important; }
-  .px-4 { padding-left: 1rem !important; padding-right: 1rem !important; }
-  .py-2 { padding-top: 0.5rem !important; padding-bottom: 0.5rem !important; }
-  .gap-15 { gap: 15px !important; }
+  .d-flex {
+    display: flex !important;
+  }
+
+  .justify-content-center {
+    justify-content: center !important;
+  }
+
+  .flex-wrap {
+    flex-wrap: wrap !important;
+  }
+
+  .mt-6 {
+    margin-top: 1.5rem !important;
+  }
+
+  .px-4 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  .py-2 {
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+  }
+
+  .gap-15 {
+    gap: 15px !important;
+  }
 
   /* Logo visibility fix */
-  .site-logo {
-    max-width: 150px !important;
+  .site-title,
+  .site-header .site-title,
+  .site-button .site-title {
+    display: block !important;
+    padding: 10px 0 !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  .site-title img,
+  .site-logo,
+  .site-button img,
+  img[src*="getinside.svg"] {
+    max-width: 140px !important;
+    width: 140px !important;
     height: auto !important;
     display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  .site-header {
+    display: flex !important;
+    visibility: visible !important;
   }
 
   /* --- 5. COMPOSANTS CARTES (Refactoring) --- */
