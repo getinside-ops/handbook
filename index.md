@@ -8,15 +8,17 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
 
 <!-- PREMIUM HERO SECTION -->
 <div class="gi-hero">
+  <img src="assets/images/getinside.svg" alt="getinside" style="height: 40px; margin-bottom: 2rem; position: relative;">
   <div class="gi-badge">DOCUMENTATION OFFICIELLE</div>
-  <h1 class="gi-hero-title">Le Savoir-faire<br>Retail Media</h1>
+  <h1 class="gi-hero-title">Handbook</h1>
   <p class="gi-hero-subtitle">
     L'espace unique pour piloter vos campagnes, monétiser vos audiences et accéder à tout l'univers technique de getinside.
   </p>
   
   <div class="d-flex justify-content-center flex-wrap mt-6" style="gap: 15px; position: relative; z-index: 10;">
-    <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary px-4 py-2">Ouvrir le SaaS</a>
-    <a href="docs/fr/01-decouvrir/" class="btn px-4 py-2">Démarrer le Guide</a>
+    <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary px-4 py-2">Accéder au SaaS</a>
+    <a href="docs/fr/01-decouvrir/" class="btn px-4 py-2">Démarrer ici</a>
+    <a href="https://getinside.fr/" target="_blank" class="btn px-4 py-2">Site Web</a>
   </div>
 </div>
 
