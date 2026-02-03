@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.git
+Gemfile.lock
+vendor
+Dockerfile
+docker-compose.yml

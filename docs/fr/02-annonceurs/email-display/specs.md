@@ -31,7 +31,10 @@ Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, A
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
-    <h3 class="mt-0 fs-4">📁 Fichiers</h3>
+    <h3 class="mt-0 fs-4" style="display: flex; align-items: center; gap: 8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.93a2 2 0 0 1-1.66-.9l-.82-1.2A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2Z"/></svg>
+      Fichiers
+    </h3>
     <ul class="mb-0">
       <li class="mb-2"><strong>Type :</strong> JPG, PNG ou GIF.</li>
       <li class="mb-2"><strong>Couleurs :</strong> RVB.</li>
@@ -40,7 +43,10 @@ Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, A
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
-    <h3 class="mt-0 fs-4">🎬 GIF Animés</h3>
+    <h3 class="mt-0 fs-4" style="display: flex; align-items: center; gap: 8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="m7 21 0-9 8 4.5z"/></svg>
+      GIF Animés
+    </h3>
     <p class="mb-2">Acceptés, mais attention à <strong>Outlook</strong> (versions bureau) qui n'affiche que la première image.</p>
     <div style="background: #fff9e6; border: 1px solid #ffeeba; padding: 10px; border-radius: 4px; color: #856404; font-size: 0.9em;">
       <strong>Règle d'or :</strong> L'information principale et le Call-to-Action doivent figurer sur la <strong>première frame</strong>.
@@ -49,12 +55,18 @@ Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, A
 
 </div>
 
-<h2 class="text-grey-dk-000 mb-4">💡 Bonnes Pratiques Design</h2>
+<h2 class="text-grey-dk-000 mb-4" style="display: flex; align-items: center; gap: 10px;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></svg>
+  Bonnes Pratiques Design
+</h2>
 
 <div style="border-left: 4px solid #7253ed; background-color: #fcfbff; padding: 20px; border-radius: 0 8px 8px 0; margin-bottom: 20px;">
   <h3 class="mt-0 text-purple-200">La Bordure (Border)</h3>
   <p>Si votre bannière a un fond blanc, elle risque de se fondre dans le fond de l'email et de devenir invisible.</p>
-  <p class="mb-0">👉 <strong>Ajoutez une fine bordure grise de 1px</strong> (<code>#cccccc</code>) tout autour de votre créa pour bien la délimiter.</p>
+  <p class="mb-0" style="display: flex; align-items: center; gap: 8px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: #2d6fd6;"><path d="m9 18 6-6-6-6"/></svg>
+    <strong>Ajoutez une fine bordure grise de 1px</strong> (<code>#cccccc</code>) tout autour de votre créa pour bien la délimiter.
+  </p>
 </div>
 
 <div style="border-left: 4px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 0 8px 8px 0;">

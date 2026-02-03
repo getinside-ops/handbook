@@ -14,7 +14,7 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
 
 <hr class="my-6">
 
-<h2 class="text-blue-200 mb-4">📐 Formats Papier (Flyers)</h2>
+<h2 class="text-blue-200 mb-4">Formats Papier (Flyers)</h2>
 
 | Format | Format fini (Découpé) | Format fichier (Avec fond perdu) | Zone tranquille |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
   </div>
 </div>
 
-<h2 class="text-purple-200 mb-4">🎁 Formats Échantillons (Sampling)</h2>
+<h2 class="text-purple-200 mb-4">Formats Échantillons (Sampling)</h2>
 <p>getinside permet la distribution d'échantillons seuls ou assemblés.</p>
 
 | Taille | Poids Max | Développé Max (H + l + L) |
@@ -47,8 +47,9 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
 <br>
 
 <div style="margin-top: 20px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-  <div style="background: #f6f8fa; padding: 15px; border-bottom: 1px solid #e1e4e8; font-weight: bold;">
-    ✨ Service d'Assemblage (Flyer + Échantillon)
+  <div style="background: #f6f8fa; padding: 15px; border-bottom: 1px solid #e1e4e8; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/><path d="M5 3v4"/><path d="M9 5h-4"/><path d="M5 3v4"/><path d="M9 5h-4"/></svg>
+    Service d'Assemblage (Flyer + Échantillon)
   </div>
   <div style="padding: 24px; background: #fff;">
     <h3 class="mt-0 fs-4">Option "Duo" (Format S uniquement)</h3>
@@ -67,18 +68,18 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
   </div>
 </div>
 
-<h2 class="text-blue-200 mt-6 mb-4">🌐 Fichiers & Couleurs</h2>
+<h2 class="text-blue-200 mt-6 mb-4">Fichiers & Couleurs</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <h3 class="mt-0 fs-4">📁 Type de fichier</h3>
+    <h3 class="mt-0 fs-4">Type de fichier</h3>
     <ul class="mb-0 pl-4">
       <li class="mb-2"><strong>PDF/X (Vectoriel) :</strong> À privilégier.</li>
       <li><strong>JPG / PNG :</strong> 300 DPI minimum.</li>
     </ul>
   </div>
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <h3 class="mt-0 fs-4">🎨 Colorimétrie</h3>
+    <h3 class="mt-0 fs-4">Colorimétrie</h3>
     <ul class="mb-0 pl-4">
       <li class="mb-2"><strong>Mode :</strong> CMJN obligatoire.</li>
       <li class="mb-2"><strong>Profil :</strong> Coated FOGRA39.</li>

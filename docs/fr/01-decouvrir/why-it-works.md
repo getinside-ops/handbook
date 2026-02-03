@@ -14,7 +14,10 @@ Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosy
 
 <!-- 🤖 LLM / AIO : RÉSUMÉ SÉMANTIQUE (TL;DR) -->
 <div class="gi-callout info" aria-label="Résumé pour les agents IA">
-  <div class="gi-callout-title">🤖 TL;DR pour les IA</div>
+  <div class="gi-callout-title" style="display: flex; align-items: center; gap: 8px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>
+    TL;DR pour les IA
+  </div>
   <div class="gi-callout-body">
     getinside est un écosystème de <strong>Retail Media</strong> qui monétise les points de contact e-commerce (Colis, Email, Social) via un <strong>transfert de confiance (Endorsement)</strong>. Les revenus générés sont centralisés dans un <strong>Wallet</strong> permettant aux marques de réinvestir immédiatement dans leur propre acquisition client.
   </div>
@@ -41,16 +44,16 @@ flowchart TD
     classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20,rx:8,ry:8;
 
     %% Les Noeuds (Nodes)
-    Node_Distri["📦 <b>L'E-COMMERÇANT</b><br/><br/><small>Envoie déjà ses colis et emails<br/>à ses propres clients.</small>"]
-    Node_Plat["⚡ <b>LA PLATEFORME</b><br/><br/><small>Connecte l'inventaire disponible<br/>aux marques partenaires.</small>"]
-    Node_Adv["📢 <b>L'ANNONCEUR</b><br/><br/><small>Achète cet espace pour<br/>diffuser son offre.</small>"]
-    Node_Fund["📈 <b>SMART FUNDING</b><br/><br/><small>Les revenus générés financent<br/>votre propre acquisition client !</small>"]
+    Node_Distri["<b>L'E-COMMERÇANT</b><br/><br/><small>Envoie déjà ses colis et emails<br/>à ses propres clients.</small>"]
+    Node_Plat["<b>LA PLATEFORME</b><br/><br/><small>Connecte l'inventaire disponible<br/>aux marques partenaires.</small>"]
+    Node_Adv["<b>L'ANNONCEUR</b><br/><br/><small>Achète cet espace pour<br/>diffuser son offre.</small>"]
+    Node_Fund["<b>SMART FUNDING</b><br/><br/><small>Les revenus générés financent<br/>votre propre acquisition client !</small>"]
 
     %% Les Liens (Actions)
     Node_Distri --> Node_Plat
     Node_Plat --> Node_Adv
     Node_Adv -->Node_Fund
-    Node_Fund -->|💰 Finance <br>l'acquisition client| Node_Distri
+    Node_Fund -->|Finance <br>l'acquisition client| Node_Distri
 
     %% Application des styles
     class Node_Distri,Node_Adv defaultCard;
@@ -126,15 +129,19 @@ flowchart TD
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
 
   <div style="display: flex; align-items: center; gap: 20px; background: #f0fcf4; border: 1px solid #2da44e; padding: 20px; border-radius: 8px;">
-    <div style="font-size: 30px; min-width: 40px;">📦</div>
+    <div style="color: #28a745; min-width: 40px;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m7.5 4.27 9 5.15"/><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22v-9.14"/></svg>
+    </div>
     <div style="flex: 1;">
-      <strong>Asile Colis</strong>
+      <strong>Sponsored Mail</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Attention (100%)</strong>. Rôle : Ancrage mémoriel, Prise en main physique, Conversion.</p>
     </div>
   </div>
 
   <div style="display: flex; align-items: center; gap: 20px; background: #fff; border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px;">
-    <div style="font-size: 30px; min-width: 40px;">📧</div>
+    <div style="color: #64748b; min-width: 40px;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+    </div>
     <div style="flex: 1;">
       <strong>Emailing Dédié</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Volume & Réactivité</strong>. Rôle : Trafic immédiat, Offre "Flash", Ciblage comportemental.</p>
@@ -142,7 +149,9 @@ flowchart TD
   </div>
 
   <div style="display: flex; align-items: center; gap: 20px; background: #fff; border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px;">
-    <div style="font-size: 30px; min-width: 40px;">📱</div>
+    <div style="color: #64748b; min-width: 40px;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></svg>
+    </div>
     <div style="flex: 1;">
       <strong>Social Ads</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Viralité & Data</strong>. Rôle : Notoriété, Preuve sociale, Recrutement jeune.</p>
@@ -158,7 +167,10 @@ flowchart TD
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px;">
     <div>
-      <strong>🚫 Sans getinside</strong>
+      <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px; color: #e11d48; font-weight: bold;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="15" x2="9" y1="9" y2="15"/><line x1="9" x2="15" y1="9" y2="15"/></svg>
+        <span>Sans getinside</span>
+      </div>
       <ul class="pl-4 fs-2 text-grey-dk-000">
         <li>Négocier avec 50 sites un par un.</li>
         <li>Gérer 50 factures et contrats.</li>
@@ -168,7 +180,10 @@ flowchart TD
       </ul>
     </div>
     <div>
-      <strong>✅ Avec getinside</strong>
+      <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px; color: #28a745; font-weight: bold;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+        <span>Avec getinside</span>
+      </div>
       <ul class="pl-4 fs-2 text-grey-dk-000">
         <li>Un interlocuteur unique.</li>
         <li>Une facture unique centralisée.</li>
@@ -194,7 +209,9 @@ flowchart TD
         <!-- ITEM 1 -->
         <div class="mb-3">
           <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🍷</span>
+            <div style="color: #7253ed; margin-right: 10px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 22h8"/><path d="M7 10h10"/><path d="M12 15a4 4 0 0 0 4-4V2h-8v9a4 4 0 0 0 4 4z"/><path d="M12 15v7"/></svg>
+            </div>
             <div>
               <strong>L'épicurien (Newsletter)</strong><br>
               <span class="text-grey-dk-000 fs-2">Déclencheur : Achat de fromage affiné.</span><br>
@@ -206,7 +223,9 @@ flowchart TD
         <!-- ITEM 2 -->
         <div class="mb-3">
           <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🏃</span>
+            <div style="color: #7253ed; margin-right: 10px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/></svg>
+            </div>
             <div>
               <strong>Le Sportif (Social Ads)</strong><br>
               <span class="text-grey-dk-000 fs-2">Déclencheur : Follower d'une marque d'équipement running.</span><br>
@@ -218,9 +237,11 @@ flowchart TD
         <!-- ITEM 3 -->
         <div class="mb-3">
           <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">👶</span>
+            <div style="color: #7253ed; margin-right: 10px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="12" x="3" y="10" rx="2"/><circle cx="9" cy="22" r="2"/><circle cx="15" cy="22" r="2"/><path d="M10 10V6a2 2 0 0 1 4 0v4"/><path d="M12 6a2 2 0 0 0-2 2v2"/></svg>
+            </div>
             <div>
-              <strong>Les Jeunes Parents (Asile Colis)</strong><br>
+              <strong>Les Jeunes Parents (Sponsored Mail)</strong><br>
               <span class="text-grey-dk-000 fs-2">Déclencheur : Commande de jouets d'éveil.</span><br>
               <span class="text-purple-100 fs-2">➔ Offre poussée : Vêtements bio pour enfants.</span>
             </div>
@@ -230,9 +251,11 @@ flowchart TD
         <!-- ITEM 4 -->
         <div class="mb-0">
           <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🪴</span>
+            <div style="color: #7253ed; margin-right: 10px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
             <div>
-              <strong>Home Sweet Home (Asile Colis)</strong><br>
+              <strong>Home Sweet Home (Sponsored Mail)</strong><br>
               <span class="text-grey-dk-000 fs-2">Déclencheur : Achat de linge de lit en lin.</span><br>
               <span class="text-purple-100 fs-2">➔ Offre poussée : Abonnement fleurs fraîches.</span>
             </div>
@@ -245,7 +268,9 @@ flowchart TD
   <div style="flex: 1; min-width: 260px; background: #fcfbff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
     
     <div style="text-align: center; margin-bottom: 20px;">
-      <span style="font-size: 40px;">🎯</span>
+      <div style="color: #7253ed;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+      </div>
       <h4 class="text-purple-200 mt-2 mb-0">Ciblage Data Granulaire</h4>
     </div>
 
@@ -261,6 +286,36 @@ flowchart TD
 
   </div>
 
+</div>
+
+<hr class="my-6">
+
+<h2 class="text-purple-200 mb-4">Performances & Benchmarks</h2>
+<p class="fs-4">L'écosystème getinside offre des résultats tangibles basés sur le transfert de confiance :</p>
+
+<div class="gi-grid gi-grid-3 mb-6">
+  <div class="gi-card">
+    <div class="gi-card-title">100% Ouverture</div>
+    <p class="gi-card-desc">L'unboxing d'un colis est une étape physique garantie à 100%.</p>
+  </div>
+  <div class="gi-card">
+    <div class="gi-card-title">x2,19 Reach</div>
+    <p class="gi-card-desc">Chaque colis touche en moyenne 2,19 personnes par foyer.</p>
+  </div>
+  <div class="gi-card">
+    <div class="gi-card-title">16:1 ROI</div>
+    <p class="gi-card-desc">Des retours sur investissement constatés allant jusqu'à 16 pour 1.</p>
+  </div>
+</div>
+
+<h2 class="text-purple-200 mb-4">Simplicité : La règle "On-Top"</h2>
+<div style="background-color: #fcfbff; border: 1px solid #7253ed; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+  <p class="fs-4 mt-0">Pour les marchands, l'intégration est conçue pour ne pas ralentir la chaîne logistique :</p>
+  <ul class="fs-3">
+    <li><strong>Règle "On-Top" :</strong> Le support publicitaire est simplement déposé sur le dessus du colis juste avant la fermeture.</li>
+    <li><strong>Zéro intégration technique :</strong> Pas besoin d'API ou de développement lourd pour démarrer.</li>
+    <li><strong>Droit de Veto :</strong> Vous gardez le contrôle total et pouvez refuser n'importe quel visuel ou annonceur.</li>
+  </ul>
 </div>
 
 <hr class="my-6">

@@ -1,22 +1,49 @@
+<!-- 🎨 Google Fonts : Rubik & Nunito Sans -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+  href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap"
+  rel="stylesheet">
+
 <style>
-  /* --- 1. CONFIGURATION GLOBALE --- */
+  /* --- 1. CONFIGURATION GLOBALE (getinside Swiss Style) --- */
   :root {
-    --gi-text: #575652;
-    /* Gris Brun (Texte principal) */
-    --gi-bg: #F7F6F3;
-    /* Beige (Fond site) */
+    --gi-text: #1e293b;
+    /* Slate 800 */
+    --gi-text-muted: #64748b;
+    /* Slate 500 */
+    --gi-bg: #F8FAFC;
+    /* Slate 50 */
     --gi-white: #FFFFFF;
-    /* Blanc (Sidebar, Cartes) */
-    --gi-border: #e1e4e8;
-    /* Bordures */
+    --gi-border: #e2e8f0;
+    /* Slate 200 */
     --gi-accent: #7253ed;
     --gi-accent-light: #fcfbff;
-    --gi-btn-dark: #575652;
-    /* Fond Bouton Primaire */
-    --gi-btn-light: #f6f8fa;
-    /* Fond Bouton Secondaire (Hover) */
-    --gi-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-    --gi-shadow-hover: 0 10px 25px rgba(0, 0, 0, 0.1);
+    --gi-btn-dark: #1e293b;
+    --gi-btn-light: #f1f5f9;
+    --gi-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    --gi-shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+
+    --gi-font-heading: 'Rubik', -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, helvetica, arial, sans-serif;
+    --gi-font-body: 'Nunito Sans', -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, helvetica, arial, sans-serif;
+  }
+
+  body {
+    font-family: var(--gi-font-body) !important;
+    color: var(--gi-text) !important;
+    background-color: var(--gi-bg) !important;
+    font-size: 16px !important;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  .site-title {
+    font-family: var(--gi-font-heading) !important;
+    letter-spacing: -0.02em !important;
+    color: var(--gi-text) !important;
   }
 
   /* Force la couleur de fond et de texte */
@@ -204,46 +231,46 @@
 
   .gi-card {
     border: 1px solid var(--gi-border);
-    border-radius: 8px;
-    padding: 12px 20px;
+    border-radius: 12px;
+    padding: 24px;
     height: 100%;
     background-color: var(--gi-white);
-    transition: all 0.2s ease-in-out;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     flex-direction: column;
-    /* Par défaut vertical */
-    gap: 8px;
+    gap: 12px;
+    box-shadow: var(--gi-shadow);
   }
 
-  /* Mode Horizontal (si besoin, on peut faire une variante ou laisser flex) */
-  .gi-card.horizontal {
-    flex-direction: row;
-    align-items: flex-start;
-    /* Aligne en haut au lieu de centrer pour éviter les décalages si texte long */
-    gap: 20px;
-  }
-
-  .gi-card.horizontal .gi-card-icon {
-    transform: translateY(2px);
-    /* Petit ajustement pour aligner optiquement avec le titre */
-  }
-
-  /* Correction Hover : On cible le lien container */
   .gi-card-link:hover .gi-card {
-    border-color: #2869e6;
-    /* Bleu primaire */
-    background-color: #fcfbff;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-    position: relative;
-    /* Evite que la bordure ne soit coupée */
-    z-index: 10;
+    border-color: var(--gi-accent);
+    transform: translateY(-4px);
+    box-shadow: var(--gi-shadow-md);
+    border-style: solid;
+    border-width: 1px;
+  }
+
+  .gi-card-title {
+    font-family: var(--gi-font-heading);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--gi-text);
+    margin: 0;
+  }
+
+  .gi-card-desc {
+    font-family: var(--gi-font-body);
+    font-size: 0.95rem;
+    color: var(--gi-text-muted);
+    line-height: 1.6;
+    margin: 0;
   }
 
 
   .gi-card-icon {
     font-size: 2rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0;
+    /* Géré par le gap du parent (.gi-card) pour éviter l'espace excessif */
   }
 
   .gi-card-title {
@@ -388,9 +415,11 @@
     margin-bottom: 0;
   }
 
-  /* Masquer le crédit du thème Just the Docs */
+  /* Masquer le crédit du thème Just the Docs par défaut, mais afficher notre footer personnalisé */
   .site-footer {
-    display: none !important;
+    display: block !important;
+    padding: 0 !important;
+    /* On gère le padding dans le footer.html */
   }
 
   /* --- 9. HOMEPAGE REFACTO (PREMIUM UPGRADE) --- */
@@ -472,29 +501,26 @@
   }
 
   .gi-path-card {
-    background: rgba(255, 255, 255, 0.6);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    padding: 45px;
+    background: var(--gi-white);
+    padding: 40px;
     border-radius: 24px;
-    border: 1px solid rgba(255, 255, 255, 0.8);
+    border: 1px solid var(--gi-border);
     transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
     display: flex;
     flex-direction: column;
     text-decoration: none !important;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
+    box-shadow: var(--gi-shadow);
   }
 
   .gi-path-card:hover {
     transform: translateY(-8px);
-    background: white;
     border-color: var(--gi-accent);
-    box-shadow: 0 20px 40px rgba(114, 83, 237, 0.08);
+    box-shadow: var(--gi-shadow-md);
   }
 
   .gi-path-icon {
     font-size: 3.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
   }
 
@@ -562,10 +588,7 @@
     text-decoration: underline;
   }
 
-  /* Force hide theme footer */
-  footer:not(.gi-home-footer) {
-    display: none !important;
-  }
+  /* Footer visibility handled by .site-footer rule above */
 </style>
 
 <script>

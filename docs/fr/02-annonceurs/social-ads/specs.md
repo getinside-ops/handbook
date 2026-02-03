@@ -14,8 +14,11 @@ Pour maximiser l'engagement, vos contenus doivent respecter les codes du "Native
 
 <hr class="my-6">
 
-<h2 class="text-blue-200 mb-4">📱 Vidéo (Reels & TikTok)</h2>
-<p class="text-green-200 fw-700">✅ Format Recommandé pour la performance.</p>
+<h2 class="text-blue-200 mb-4">Vidéo (Reels & TikTok)</h2>
+<p class="text-green-200 fw-700" style="display: flex; align-items: center; gap: 8px;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+  Format Recommandé pour la performance.
+</p>
 
 <!-- Tableau en Markdown natif -->
 
@@ -28,7 +31,7 @@ Pour maximiser l'engagement, vos contenus doivent respecter les codes du "Native
 
 <br>
 
-<h2 class="text-blue-200 mb-4">📷 Image (Feed Instagram)</h2>
+<h2 class="text-blue-200 mb-4">Image (Feed Instagram)</h2>
 
 <!-- Tableau en Markdown natif -->
 
@@ -40,7 +43,7 @@ Pour maximiser l'engagement, vos contenus doivent respecter les codes du "Native
 
 <br>
 
-<h2 class="text-blue-200 mb-4">⏱️ Stories</h2>
+<h2 class="text-blue-200 mb-4">Stories</h2>
 
 <div style="border: 1px dashed #e1e4e8; padding: 20px; border-radius: 8px; background-color: #fcfbff;">
   <ul class="mb-0">

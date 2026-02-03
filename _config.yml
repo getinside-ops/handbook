@@ -44,4 +44,4 @@ aux_links:
 # Footer
 # -----------------------------------------------------------------------------
 
-footer_content: ""
+footer_content: '<div style="text-align: center; padding: 20px 0;"><p style="margin-bottom: 8px;">© 2026 <strong>Contact Opérations</strong> : <a href="mailto:benoit@getinside.fr" style="color: #7253ed; text-decoration: none;">benoit@getinside.fr</a> • <strong>Studio Graphique</strong> : <a href="mailto:studio@getinside.fr" style="color: #7253ed; text-decoration: none;">studio@getinside.fr</a></p><p style="font-size: 0.9em; opacity: 0.7; color: #64748b;">© 2026 getinside media. Tous droits réservés.</p></div>'

@@ -15,12 +15,12 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
 
 <hr class="my-6">
 
-<h2 class="text-purple-200 mb-4">🤖 Tout savoir sur le QR Code</h2>
+<h2 class="text-purple-200 mb-4">Tout savoir sur le QR Code</h2>
 
 <!-- BLOC OBLIGATION -->
 <div style="border: 2px solid #d73a49; background-color: #fff5f5; border-radius: 8px; padding: 24px; margin-bottom: 30px;">
   <div style="display: flex; gap: 20px; align-items: start;">
-    <div style="font-size: 30px;">⚠️</div>
+    <div style="color: #d73a49;"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></div>
     <div>
       <h3 class="mt-0 text-red-200">Pourquoi le QR Code getinside est obligatoire ?</h3>
       <p class="mb-2">Nous ne pouvons pas accepter un QR code généré par vos soins. Vous devez impérativement intégrer le fichier <code>.svg</code> fourni par notre plateforme.</p>
@@ -37,7 +37,10 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
 
   <!-- MAGIE DYNAMIQUE -->
   <div style="border: 1px solid #7253ed; border-radius: 8px; padding: 20px; background: #fcfbff;">
-    <h3 class="mt-0 text-purple-200">✨ La magie du "Dynamique"</h3>
+    <h3 class="mt-0 text-purple-200" style="display: flex; align-items: center; gap: 8px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/><path d="M5 3v4"/><path d="M9 5h-4"/></svg>
+      La magie du "Dynamique"
+    </h3>
     <p class="fs-2 text-grey-dk-000">Nos QR codes sont dynamiques. Cela signifie que l'URL de redirection n'est pas "gravée" dans le motif du code.</p>
     <div style="background: #fff; padding: 10px; border-radius: 4px; border: 1px solid #e1e4e8; margin-top: 10px;">
       <strong>Avantage :</strong> Vous pouvez changer l'URL de destination (Landing Page) à tout moment via la plateforme, <strong>même après l'impression des flyers</strong>. Idéal pour corriger une erreur ou prolonger une offre.
@@ -46,7 +49,10 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
 
   <!-- TRACKING & UTM -->
   <div style="border: 1px solid #2da44e; border-radius: 8px; padding: 20px; background: #f0fcf4;">
-    <h3 class="mt-0 text-green-200">🎯 Tracking & Performance</h3>
+    <h3 class="mt-0 text-green-200" style="display: flex; align-items: center; gap: 8px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+      Tracking & Performance
+    </h3>
     <p class="fs-2 text-grey-dk-000">getinside compte les <strong>Scans</strong>. Pour compter les <strong>Ventes</strong> dans votre Google Analytics, vous devez configurer votre URL.</p>
     <div style="background: #fff; padding: 10px; border-radius: 4px; border: 1px solid #2da44e; margin-top: 10px; font-size: 0.9em;">
       <strong>Conseil :</strong> Ne mettez pas <code>monsite.com</code>.<br>
@@ -56,13 +62,13 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
 
 </div>
 
-<h2 class="text-blue-200 mb-4">⚠️ Mentions Légales & Logos</h2>
+<h2 class="text-blue-200 mb-4">Mentions Légales & Logos</h2>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 40px;">
   
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
     <p class="fs-4 mt-0 mb-0">Éléments graphiques obligatoires à intégrer :</p>
-    <a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank" class="btn btn-primary btn-sm">⬇️ Télécharger le pack Logos</a>
+    <a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank" class="btn btn-primary btn-sm">Télécharger le pack Logos</a>
   </div>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
@@ -81,30 +87,30 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
   </div>
 </div>
 
-<h2 class="text-grey-dk-000 mt-6 mb-4">⚖️ Spécificités Sectorielles</h2>
+<h2 class="text-grey-dk-000 mt-6 mb-4">Spécificités Sectorielles</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <h3 class="mt-0 fs-4">🍷 Alcool</h3>
+    <h3 class="mt-0 fs-4">Alcool</h3>
     <p class="mb-2"><em>"L'abus d'alcool est dangereux pour la santé, à consommer avec modération."</em></p>
     <span class="fs-2 text-grey-dk-000">Loi Evin (Art. L3323-4). Interdiction ciblage mineurs.</span>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <h3 class="mt-0 fs-4">🥗 Alimentation</h3>
+    <h3 class="mt-0 fs-4">Alimentation</h3>
     <p class="mb-2"><em>"Pour votre santé, mangez au moins cinq fruits et légumes par jour."</em></p>
     <span class="fs-2 text-grey-dk-000">Mangez-bougez.fr (Art. L2133-1).</span>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <h3 class="mt-0 fs-4">🚗 Automobile</h3>
+    <h3 class="mt-0 fs-4">Automobile</h3>
     <p class="mb-2">Message mobilité douce : <em>"Pensez à covoiturer."</em></p>
     <span class="fs-2 text-grey-dk-000">Et classe énergétique CO2 (Arrêté 2018).</span>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
-    <h3 class="mt-0 fs-4">💰 Crédit / Finance</h3>
+    <h3 class="mt-0 fs-4">Crédit / Finance</h3>
     <p class="mb-2"><em>"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités..."</em></p>
   </div>
 
