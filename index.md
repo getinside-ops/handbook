@@ -7,26 +7,26 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
 ---
 
 <!-- PREMIUM HERO SECTION -->
-<div class="gi-hero">
+<div class="gi-hero" role="banner">
   <div class="gi-badge">DOCUMENTATION OFFICIELLE</div>
-  <h1 class="gi-hero-title">Handbook</h1>
+  <h1 class="gi-hero-title">Handbook getinside</h1>
   <p class="gi-hero-subtitle">
-    L'espace unique pour piloter vos campagnes, monétiser vos audiences et accéder à tout l'univers technique de getinside.
+    L'espace unique pour piloter vos campagnes, monétiser vos audiences et accéder à tout l'univers technique du Retail Media.
   </p>
   
   <div class="d-flex justify-content-center flex-wrap mt-6 gap-15" style="position: relative; z-index: 10;">
-    <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary px-4 py-2">Accéder au SaaS</a>
-    <a href="docs/fr/01-decouvrir/" class="btn px-4 py-2">Démarrer ici</a>
-    <a href="https://getinside.fr/" target="_blank" class="btn px-4 py-2">Site Web</a>
+    <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary px-4 py-2" aria-label="Accéder à la plateforme SaaS getinside (nouvel onglet)">Accéder au SaaS</a>
+    <a href="docs/fr/01-decouvrir/" class="btn px-4 py-2" aria-label="Démarrer la lecture du handbook">Démarrer ici</a>
+    <a href="https://getinside.fr/" target="_blank" class="btn px-4 py-2" aria-label="Visiter le site web officiel getinside.fr (nouvel onglet)">Site Web</a>
   </div>
 </div>
 
 <!-- DUAL PATH NAVIGATION -->
-<div class="gi-path-grid">
+<div class="gi-path-grid" role="navigation" aria-label="Navigation par profil : Annonceur ou Distributeur">
 
   <!-- PATH: ANNONCEURS -->
-  <div class="gi-path-card">
-    <div class="gi-path-icon">🛍️</div>
+  <div class="gi-path-card" id="path-annonceurs">
+    <div class="gi-path-icon" aria-hidden="true">🛍️</div>
     <h2 class="gi-path-title">Espace Annonceurs</h2>
     <p class="gi-path-desc">
       Marques et agences : découvrez comment diffuser vos campagnes auprès de nos réseaux de distribution premium.
@@ -38,13 +38,13 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
       <a href="docs/fr/02-annonceurs/tarification" class="gi-btn-outline-glass">💰 Modèle Tarifaire <span>&rarr;</span></a>
     </div>
     <div class="mt-auto pt-6">
-       <a href="docs/fr/02-annonceurs/" class="fw-700 text-purple-200">Explorer l'espace complet &rarr;</a>
+       <a href="docs/fr/02-annonceurs/" class="fw-700 text-purple-200" aria-label="Explorer l'espace complet pour les annonceurs">Explorer l'espace complet &rarr;</a>
     </div>
   </div>
 
   <!-- PATH: DISTRIBUTEURS -->
-  <div class="gi-path-card">
-    <div class="gi-path-icon">🏭</div>
+  <div class="gi-path-card" id="path-distributeurs">
+    <div class="gi-path-icon" aria-hidden="true">🏭</div>
     <h2 class="gi-path-title">Espace Distributeurs</h2>
     <p class="gi-path-desc">
       E-commerçants : apprenez à monétiser vos colis et vos audiences avec une expérience client irréprochable.
@@ -56,7 +56,7 @@ description: "getinside Handbook: Guides officiels, spécifications techniques e
       <a href="docs/fr/03-distributeurs/paiements" class="gi-btn-outline-glass">💸 Paiements & Wallet <span>&rarr;</span></a>
     </div>
     <div class="mt-auto pt-6">
-       <a href="docs/fr/03-distributeurs/" class="fw-700 text-purple-200">Explorer l'espace complet &rarr;</a>
+       <a href="docs/fr/03-distributeurs/" class="fw-700 text-purple-200" aria-label="Explorer l'espace complet pour les distributeurs">Explorer l'espace complet &rarr;</a>
     </div>
   </div>
 

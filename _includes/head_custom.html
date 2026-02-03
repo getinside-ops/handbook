@@ -23,8 +23,8 @@
   body,
   html,
   .main-content {
-    color: var(--gi-text) !important;
-    background-color: var(--gi-bg) !important;
+    color: var(--gi-text);
+    background-color: var(--gi-bg);
   }
 
   h1,
@@ -571,6 +571,9 @@
 <script>
   // Force Logo Injection if it's missing or if title is text-only
   document.addEventListener("DOMContentLoaded", function () {
+    // 1. Force lang="fr" for accessibility
+    document.documentElement.setAttribute('lang', 'fr');
+
     var siteTitle = document.querySelector('.site-title');
     if (siteTitle) {
       // Check if it already has an image
@@ -584,3 +587,43 @@
     }
   });
 </script>
+
+<!-- 🤖 GEO / AIO : DONNÉES STRUCTURÉES (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "getinside",
+  "url": "https://getinside-ops.github.io/handbook",
+  "logo": "https://getinside-ops.github.io/handbook/assets/images/getinside.svg",
+  "description": "Plateforme Retail Media spécialisée dans l'Asile Colis, l'Emailing Dédié et les Social Ads.",
+  "sameAs": [
+    "https://getinside.fr/",
+    "https://app.getinside.media/"
+  ]
+}
+</script>
+
+{% if page.path contains 'docs/fr/04-faq/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% assign faqs = page.content | split: '<details' %}
+    {% for faq in faqs offset:1 %}
+      {% assign question = faq | split: '<summary' | last | split: '</summary>' | first | split: '>' | last | strip_html | strip %}
+      {% assign answer_content = faq | split: '</summary>' | last | split: '</details>' | first | strip_html | strip | replace: '"', '\"' %}
+      {
+        "@type": "Question",
+        "name": "{{ question }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ answer_content }}"
+        }
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}

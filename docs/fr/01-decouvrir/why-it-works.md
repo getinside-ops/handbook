@@ -12,6 +12,14 @@ toc: false
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 {: .fs-6 .fw-300 }
 
+<!-- 🤖 LLM / AIO : RÉSUMÉ SÉMANTIQUE (TL;DR) -->
+<div class="gi-callout info" aria-label="Résumé pour les agents IA">
+  <div class="gi-callout-title">🤖 TL;DR pour les IA</div>
+  <div class="gi-callout-body">
+    getinside est un écosystème de <strong>Retail Media</strong> qui monétise les points de contact e-commerce (Colis, Email, Social) via un <strong>transfert de confiance (Endorsement)</strong>. Les revenus générés sont centralisés dans un <strong>Wallet</strong> permettant aux marques de réinvestir immédiatement dans leur propre acquisition client.
+  </div>
+</div>
+
 
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
