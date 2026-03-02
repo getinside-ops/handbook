@@ -1,12 +1,14 @@
 <style>
   /* --- 1. CONFIGURATION GLOBALE --- */
   :root {
-    --gi-text: #575652;       /* Gris Brun (Texte principal) */
-    --gi-bg: #F7F6F3;         /* Beige (Fond site) */
-    --gi-white: #FFFFFF;      /* Blanc (Sidebar, Cartes) */
-    --gi-border: #e1e4e8;     /* Bordures */
-    --gi-btn-dark: #575652;   /* Fond Bouton Primaire */
-    --gi-btn-light: #f6f8fa;  /* Fond Bouton Secondaire (Hover) */
+    --gi-text: #575652;         /* Gris Brun (Texte principal) */
+    --gi-bg: #F7F6F3;           /* Beige (Fond site) */
+    --gi-white: #FFFFFF;        /* Blanc (Sidebar, Cartes) */
+    --gi-border: #e1e4e8;       /* Bordures */
+    --gi-btn-dark: #575652;     /* Fond Bouton Primaire */
+    --gi-btn-light: #f6f8fa;    /* Fond Bouton Secondaire (Hover) */
+    --gi-accent: #c8622a;       /* Accent (Terre cuite) */
+    --gi-accent-light: #fdf1eb; /* Fond accent clair */
   }
 
   /* Force la couleur de fond et de texte */
@@ -19,17 +21,32 @@
     color: var(--gi-text);
   }
 
+  /* Couleur des liens */
+  a:not(.btn):not(.nav-list-link):not(#back-to-top) {
+    color: var(--gi-accent);
+  }
+  a:not(.btn):not(.nav-list-link):not(#back-to-top):hover {
+    color: #a04f20;
+  }
+
   /* --- 2. SIDEBAR & RECHERCHE --- */
-  
+
   /* Sidebar Blanche sans bordure agressive */
   .side-bar, .site-nav {
     background-color: var(--gi-white) !important;
-    border-right: none !important;
+    border-right: 1px solid var(--gi-border) !important;
+  }
+
+  /* Logo dans la sidebar */
+  .site-logo img {
+    max-height: 32px;
+    width: auto;
   }
 
   /* Liens menu */
   .nav-list-link {
     color: var(--gi-text) !important;
+    border-radius: 4px;
   }
   .nav-list-link:hover {
     background-color: var(--gi-btn-light) !important;
@@ -37,30 +54,62 @@
   }
   .nav-list-link.active {
     font-weight: 600 !important;
-    background-color: #f0f1f4 !important;
+    background-color: var(--gi-accent-light) !important;
     background-image: none !important;
-    border-left: none !important;
-    color: #000 !important;
+    border-left: 3px solid var(--gi-accent) !important;
+    color: var(--gi-accent) !important;
   }
 
   /* Recherche propre */
   .search-input {
     background-color: var(--gi-white) !important;
-    border: none !important;
+    border: 1px solid var(--gi-border) !important;
     color: var(--gi-text) !important;
     border-radius: 6px !important;
     box-shadow: none !important;
   }
+  .search-input:focus {
+    border-color: var(--gi-accent) !important;
+    outline: none !important;
+  }
 
-  /* Masquer la Table of Contents (TOC) à droite */
-  .d-xl-block { display: none !important; }
+  /* --- 3. CARTES RÉUTILISABLES --- */
+
+  /* Carte générique */
+  .gi-card {
+    border: 1px solid var(--gi-border);
+    border-radius: 8px;
+    padding: 24px;
+    background-color: var(--gi-white);
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+  }
+  .gi-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+    border-color: #c8c5be;
+  }
+
+  /* Callouts */
+  .gi-callout {
+    padding: 16px 20px;
+    border-radius: 6px;
+    margin: 20px 0;
+    border-left: 4px solid;
+  }
+  .gi-callout.info    { background: #f0f6ff; border-color: #0969da; }
+  .gi-callout.success { background: #f0fcf4; border-color: #2da44e; }
+  .gi-callout.warning { background: #fff8c5; border-color: #bf8700; }
+  .gi-callout.danger  { background: #fff0f0; border-color: #d1242f; }
+  .gi-callout p:last-child { margin-bottom: 0; }
 
   /* --- 4. BOUTON BACK TO TOP --- */
   #back-to-top {
     position: fixed;
     bottom: 30px;
     right: 30px;
-    background-color: var(--gi-btn-dark);
+    background-color: var(--gi-accent);
     color: #fff !important;
     width: 40px;
     height: 40px;
@@ -72,11 +121,11 @@
     z-index: 1000;
     font-size: 20px;
     transition: opacity 0.3s, transform 0.3s;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 8px rgba(200, 98, 42, 0.35);
     text-decoration: none !important;
   }
   #back-to-top:hover {
-    background-color: #000;
+    background-color: #a04f20;
     transform: translateY(-3px);
   }
 </style>

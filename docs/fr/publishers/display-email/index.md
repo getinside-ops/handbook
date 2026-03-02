@@ -3,6 +3,7 @@ layout: default
 title: Display Email (publisher)
 parent: Espace Éditeurs
 has_children: true
+toc: false
 nav_order: 4
 
 ---

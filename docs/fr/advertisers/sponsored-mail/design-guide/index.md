@@ -3,6 +3,7 @@ layout: default
 title: Guide de Conception
 parent: Sponsored Mail
 has_children: true
+toc: false
 nav_order: 1
 ---
 

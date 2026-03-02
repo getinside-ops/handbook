@@ -3,6 +3,7 @@ layout: default
 title: Co-Branded Contest (publisher)
 parent: Espace Éditeurs
 has_children: true
+toc: false
 nav_order: 6
 ---
 

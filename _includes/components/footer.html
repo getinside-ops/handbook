@@ -2,32 +2,26 @@
 <hr style="border-top: 1px solid #eee; margin-top: 40px; margin-bottom: 20px;">
 
 <footer class="text-grey-dk-000 fs-3">
-  <!-- Utilisation de Flexbox avec style inline pour forcer le bon affichage -->
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
-    
+
     <!-- Bloc Gauche : Copyright -->
     <div style="flex: 1; min-width: 200px;">
       <p style="margin-bottom: 0;">
-        &copy; 2025 <strong>getinside</strong>.<br>
+        &copy; <span id="gi-footer-year"></span> <strong>getinside</strong>.<br>
         <span class="fs-2">La plateforme de Retail Media.</span>
       </p>
     </div>
-    
+
     <!-- Bloc Droite : Liens -->
     <div style="text-align: right;">
       <a href="https://www.getinside.fr/" target="_blank" style="margin-left: 15px; text-decoration: none; color: #5c5962;">Site Officiel</a>
-      <a href="https://app.getinside.media/" target="_blank" style="margin-left: 15px; text-decoration: none; color: #7253ed;">Accès SaaS</a>
+      <a href="https://app.getinside.media/" target="_blank" style="margin-left: 15px; text-decoration: none; color: var(--gi-accent);">Accès SaaS</a>
       <a href="mailto:benoit@getinside.fr" style="margin-left: 15px; text-decoration: none; color: #5c5962;">Support</a>
     </div>
 
   </div>
-  
-  <!-- Script date auto -->
+
   <script>
-    const yearSpan = document.querySelector('footer strong');
-    if(yearSpan) {
-       const currentYear = new Date().getFullYear();
-       yearSpan.previousSibling.textContent = "© " + currentYear + " ";
-    }
+    document.getElementById('gi-footer-year').textContent = new Date().getFullYear();
   </script>
 </footer>

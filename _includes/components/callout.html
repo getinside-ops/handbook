@@ -1,0 +1,10 @@
+{% comment %}
+  Callout component — usage:
+    {% include components/callout.html type="info" title="Optional title" content="Your message here." %}
+
+  type: info | success | warning | danger
+{% endcomment %}
+<div class="gi-callout {{ include.type | default: 'info' }}">
+  {% if include.title %}<strong>{{ include.title }}</strong><br>{% endif %}
+  {{ include.content }}
+</div>

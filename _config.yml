@@ -9,6 +9,7 @@ baseurl: /handbook
 
 # Le thème officiel
 remote_theme: just-the-docs/just-the-docs
+logo: "/assets/images/Logo getinside.svg"
 mermaid:
   enabled: true
 

@@ -37,7 +37,7 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
 
   <!-- CARTE ANNONCEURS -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff; display: flex; flex-direction: column;">
+  <div class="gi-card">
     <h2 class="mt-0">🛍️ Espace Annonceurs</h2>
     <p class="fs-4 text-grey-dk-000">Pour les marques souhaitant acquérir de nouveaux clients via nos réseaux de distribution.</p>
     
@@ -63,7 +63,7 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
   </div>
 
   <!-- CARTE ÉDITEURS -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 24px; background-color: #fff; display: flex; flex-direction: column;">
+  <div class="gi-card">
     <h2 class="mt-0">📦 Espace Éditeurs</h2>
     <p class="fs-4 text-grey-dk-000">Pour les e-commerçants souhaitant monétiser leurs colis et leurs audiences.</p>
     
@@ -103,19 +103,19 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
   <!-- ARGUMENT 1 : SECURITE FINANCIERE -->
-  <div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #fff;">
+  <div class="gi-card" style="padding: 20px;">
     <h4 class="mt-0">🛡️ Sécurité Financière</h4>
     <p><strong>Pour les Éditeurs :</strong> Fini les relances et les impayés. getinside sécurise les fonds avant le lancement. Votre paiement est garanti dès la validation de la diffusion.</p>
   </div>
 
   <!-- ARGUMENT 2 : ADMIN -->
-  <div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #fff;">
+  <div class="gi-card" style="padding: 20px;">
     <h4 class="mt-0">⚡ Simplicité Administrative</h4>
     <p><strong>Un seul contrat, une seule facture.</strong> Ne perdez plus de temps à référencer des centaines de petits fournisseurs. Nous centralisons les flux financiers.</p>
   </div>
 
   <!-- ARGUMENT 3 : TECH -->
-  <div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #fff;">
+  <div class="gi-card" style="padding: 20px;">
     <h4 class="mt-0">📊 Fiabilité Technique</h4>
     <p>Tracking unifié, validation des assets, respect des normes RSE : la plateforme standardise les process pour éviter les erreurs opérationnelles.</p>
   </div>
@@ -126,13 +126,13 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
 <h3>Aide & Support</h3>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
   
-  <div style="padding: 16px; border: 1px solid #eee; border-radius: 6px; background-color: #fff;">
+  <div class="gi-card" style="padding: 16px;">
     <h4 class="mt-0 mb-2">❓ FAQ</h4>
     <p class="fs-3 mb-2">Réponses rapides sur la logistique, les paiements et le tracking.</p>
     <a href="docs/fr/faq/" class="btn btn-sm">Consulter la FAQ</a>
   </div>
 
-  <div style="padding: 16px; border: 1px solid #eee; border-radius: 6px; background-color: #fff;">
+  <div class="gi-card" style="padding: 16px;">
     <h4 class="mt-0 mb-2">📖 Glossaire</h4>
     <p class="fs-3 mb-2">Définitions (CPM, Lead Time, BAT, FOGRA39...).</p>
     <a href="docs/fr/glossary" class="btn btn-sm">Voir le Glossaire</a>

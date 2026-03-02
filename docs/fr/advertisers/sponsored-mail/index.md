@@ -3,6 +3,7 @@ layout: default
 title: Sponsored Mail
 parent: Espace Annonceurs
 has_children: true
+toc: false
 nav_order: 1
 ---
 
