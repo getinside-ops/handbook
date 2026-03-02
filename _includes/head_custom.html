@@ -81,6 +81,8 @@ a:not(.btn):not(.nav-list-link):not(#back-to-top):hover {
    2. PAGE BACKGROUND — dot-grid + radial light orbs
    ============================================================ */
 body, html {
+  margin: 0 !important;
+  padding: 0 !important;
   background-color: var(--gi-bg) !important;
   background-image:
     radial-gradient(ellipse 80% 60% at 20% 0%,  rgba(165, 180, 252, 0.30) 0%, transparent 60%),
@@ -166,24 +168,25 @@ body, html {
 
 
 /* ============================================================
-   5. SEARCH — pill-shaped with accent focus ring
+   5. SEARCH — embedded in the frosted header
    ============================================================ */
 .search-input {
-  background-color: rgba(255, 255, 255, 0.80) !important;
-  backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
-  border: 1.5px solid var(--gi-border) !important;
+  background-color: rgba(255, 255, 255, 0.45) !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border: 1px solid rgba(99, 102, 241, 0.18) !important;
   color: var(--gi-text) !important;
-  border-radius: 24px !important;
+  border-radius: 8px !important;
   padding-left: 14px !important;
   padding-right: 14px !important;
-  box-shadow: none !important;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease !important;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+  transition: border-color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease !important;
   font-family: 'Inter', sans-serif !important;
   font-size: 0.875rem !important;
 }
 .search-input:focus {
   border-color: var(--gi-accent) !important;
+  background-color: rgba(255, 255, 255, 0.80) !important;
   outline: none !important;
   box-shadow: 0 0 0 3px var(--gi-accent-glow) !important;
 }
@@ -191,8 +194,10 @@ body, html {
 
 
 /* ============================================================
-   6. SITE HEADER (mobile) & PAGE HEADER (breadcrumb)
+   6. HEADER BARS — full-width frosted glass strip
    ============================================================ */
+
+/* Mobile top bar (logo + hamburger) */
 .site-header {
   background: var(--gi-glass-bg) !important;
   backdrop-filter: var(--gi-blur-sidebar) !important;
@@ -200,9 +205,19 @@ body, html {
   border-bottom: 1px solid var(--gi-glass-border) !important;
 }
 
-.page-header {
-  background: transparent !important;
-  border-bottom: 1px solid var(--gi-border) !important;
+/* Desktop top strip: search + aux-links
+   Just-the-Docs uses .page-header or #main-header depending on version */
+.page-header,
+#main-header,
+.main-header {
+  background: var(--gi-glass-bg) !important;
+  backdrop-filter: var(--gi-blur-sidebar) !important;
+  -webkit-backdrop-filter: var(--gi-blur-sidebar) !important;
+  border-bottom: 1px solid var(--gi-glass-border) !important;
+  box-shadow: 0 2px 12px rgba(99, 102, 241, 0.06) !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 500 !important;
 }
 
 
