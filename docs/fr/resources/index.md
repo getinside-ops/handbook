@@ -19,7 +19,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
 
   <!-- 1. BIBLIOTHEQUE -->
   <a href="library/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eef2ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📥</div>
       <div style="flex: 1;">
         <h3 class="mt-0 mb-1 fs-4">Bibliothèque (Téléchargements)</h3>
@@ -31,7 +31,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
 
   <!-- 2. INSPIRATIONS (NOUVEAU) -->
   <a href="case-studies/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eef2ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">💡</div>
       <div style="flex: 1;">
         <h3 class="mt-0 mb-1 fs-4">Inspirations & Case Studies</h3>
@@ -43,7 +43,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
 
   <!-- 3. STUDIO -->
   <a href="studio/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eef2ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🎨</div>
       <div style="flex: 1;">
         <h3 class="mt-0 mb-1 fs-4">Studio Créatif</h3>
@@ -55,7 +55,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
 
   <!-- 4. DEPANNAGE -->
   <a href="troubleshooting/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eef2ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🔧</div>
       <div style="flex: 1;">
         <h3 class="mt-0 mb-1 fs-4">Troubleshooting (Dépannage)</h3>

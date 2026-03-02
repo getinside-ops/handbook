@@ -37,8 +37,8 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
   </div>
 
   <!-- OFFRE STANDARD -->
-  <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; position: relative; background-color: #fcfbff;">
-    <div style="position: absolute; top: -12px; right: 20px; background: #7253ed; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">POPULAIRE</div>
+  <div style="border: 2px solid #6366f1; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; position: relative; background-color: #eef2ff;">
+    <div style="position: absolute; top: -12px; right: 20px; background: #6366f1; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">POPULAIRE</div>
     
     <h3 class="text-purple-200 mt-0">Standard</h3>
     <div class="fs-9 fw-700 text-purple-200">249€ <span class="fs-4 fw-300 text-grey-dk-000">/mois</span></div>
@@ -52,7 +52,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
       <li class="mb-2"><strong>Retraits Gratuits :</strong> Aucun frais sur vos virements.</li>
     </ul>
     
-    <div style="background: #efeafc; color: #7253ed; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
+    <div style="background: #e0e7ff; color: #6366f1; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
       <span class="fw-700">30% à 15%</span> (Dégressif*)
     </div>
   </div>

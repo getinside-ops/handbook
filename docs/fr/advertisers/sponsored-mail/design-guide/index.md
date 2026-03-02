@@ -22,8 +22,8 @@ De la stratégie créative à la validation technique : tout pour réussir vos v
 <hr class="mb-6">
 
 <!-- OPTION STUDIO -->
-<div style="border: 2px solid #7253ed; border-radius: 8px; padding: 30px; position: relative; margin-bottom: 40px; background-color: #fcfbff;">
-  <div style="position: absolute; top: -12px; left: 30px; background: #7253ed; color: white; padding: 2px 12px; border-radius: 12px; font-weight: bold; font-size: 14px;">OPTION STUDIO</div>
+<div style="border: 2px solid #6366f1; border-radius: 8px; padding: 30px; position: relative; margin-bottom: 40px; background-color: #eef2ff;">
+  <div style="position: absolute; top: -12px; left: 30px; background: #6366f1; color: white; padding: 2px 12px; border-radius: 12px; font-weight: bold; font-size: 14px;">OPTION STUDIO</div>
   
   <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
     <div style="flex: 2; min-width: 300px;">

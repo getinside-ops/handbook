@@ -26,7 +26,7 @@ Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique cl
   </div>
 
   <!-- DRIVE TO STORE (NOUVEAU) -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fcfbff; border-color: #7253ed;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #eef2ff; border-color: #6366f1;">
     <h3 class="mt-0 fs-4 text-purple-200">🏪 Drive to Store</h3>
     <p class="mb-2 text-grey-dk-000"><em>"Présentez cette carte en boutique pour un café offert"</em></p>
     <p class="mb-0">Générez du trafic physique ou proposez une mécanique hybride (Coupon valable Web + Magasin).</p>

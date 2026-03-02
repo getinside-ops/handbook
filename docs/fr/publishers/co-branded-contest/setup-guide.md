@@ -16,7 +16,7 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
 
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
   <div>
     <h3 class="mt-0 text-purple-200">Création de la Landing Page (LP)</h3>
     <p>Vous êtes responsable de l'hébergement du jeu pour rassurer votre client.</p>
@@ -49,7 +49,7 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
 
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
   <div>
     <h3 class="mt-0 text-purple-200">Plan d'activation</h3>
     <p>Pour garantir le volume de leads (et donc vos revenus), activez vos leviers puissants :</p>

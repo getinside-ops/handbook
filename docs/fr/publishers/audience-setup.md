@@ -28,7 +28,7 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 300px; background-color: #fcfbff; border: 2px solid #7253ed; border-radius: 8px; padding: 24px;">
+  <div style="flex: 1; min-width: 300px; background-color: #eef2ff; border: 2px solid #6366f1; border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-purple-200">💡 Le conseil de l'équipe</h3>
     <p class="mb-0">Dans le champ <strong>"Persona"</strong>, soyez descriptif : <em>"Jardinier amateur ou expert cherchant des produits durables pour entretenir son potager."</em> Cela aide les annonceurs à mieux comprendre qui sont vos clients.</p>
   </div>

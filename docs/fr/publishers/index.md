@@ -26,7 +26,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
   <!-- ONBOARDING -->
   <a href="onboarding-process" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eef2ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🚀</div>
       <div>
         <h3 class="mt-0 mb-1 fs-4">Guide de Démarrage</h3>
@@ -38,7 +38,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
   <!-- AUDIENCE -->
   <a href="audience-setup" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eef2ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🎯</div>
       <div>
         <h3 class="mt-0 mb-1 fs-4">Audience & Score</h3>
@@ -50,7 +50,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 
   <!-- AFFILIATION -->
   <a href="affiliation" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#fcfbff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eef2ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🤝</div>
       <div>
         <h3 class="mt-0 mb-1 fs-4">Affiliation</h3>

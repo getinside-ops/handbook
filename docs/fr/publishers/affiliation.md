@@ -50,7 +50,7 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
   </div>
 
   <!-- ETAPE 3 (Mise en avant) -->
-  <div style="text-align: center; border: 2px solid #7253ed; background-color: #fcfbff; padding: 30px; border-radius: 8px;">
+  <div style="text-align: center; border: 2px solid #6366f1; background-color: #eef2ff; padding: 30px; border-radius: 8px;">
     <div style="font-size: 40px; margin-bottom: 15px;">💰</div>
     <h3 class="mt-0 text-purple-200">3. Vous gagnez</h3>
     <p class="mb-0 fs-2 text-grey-dk-000">Vous touchez automatiquement une commission sur leur activité.</p>
@@ -60,7 +60,7 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 
 <h2 class="text-grey-dk-000 mb-4">Votre Rémunération</h2>
 
-<div style="background: linear-gradient(135deg, #7253ed 0%, #5e43c9 100%); color: white; padding: 40px; border-radius: 8px; text-align: center; margin-bottom: 40px; box-shadow: 0 4px 12px rgba(114, 83, 237, 0.3);">
+<div style="background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%); color: white; padding: 40px; border-radius: 8px; text-align: center; margin-bottom: 40px; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);">
   <div style="font-size: 60px; font-weight: 800; line-height: 1; margin-bottom: 10px;">20%</div>
   <div class="fs-4 opacity-90">des frais de plateforme générés par vos filleuls</div>
   <hr style="border-color: rgba(255,255,255,0.2); margin: 20px auto; width: 50%;">

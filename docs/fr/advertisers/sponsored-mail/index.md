@@ -28,7 +28,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 
   <!-- GUIDE (Mis en avant) -->
   <a href="./design-guide/" style="text-decoration: none; color: inherit;">
-    <div style="border: 2px solid #7253ed; border-radius: 8px; padding: 24px; background: #fcfbff; display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 2px solid #6366f1; border-radius: 8px; padding: 24px; background: #eef2ff; display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 40px;">📘</div>
       <div>
         <h3 class="mt-0 text-purple-200">Guide de Conception (Start)</h3>

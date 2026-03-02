@@ -1,131 +1,431 @@
+<!-- Google Fonts: Inter -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
 <style>
-  /* --- 1. CONFIGURATION GLOBALE --- */
-  :root {
-    --gi-text: #575652;         /* Gris Brun (Texte principal) */
-    --gi-bg: #F7F6F3;           /* Beige (Fond site) */
-    --gi-white: #FFFFFF;        /* Blanc (Sidebar, Cartes) */
-    --gi-border: #e1e4e8;       /* Bordures */
-    --gi-btn-dark: #575652;     /* Fond Bouton Primaire */
-    --gi-btn-light: #f6f8fa;    /* Fond Bouton Secondaire (Hover) */
-    --gi-accent: #c8622a;       /* Accent (Terre cuite) */
-    --gi-accent-light: #fdf1eb; /* Fond accent clair */
-  }
 
-  /* Force la couleur de fond et de texte */
-  body, html, .main-content {
-    color: var(--gi-text) !important;
-    background-color: var(--gi-bg) !important;
-  }
+/* ============================================================
+   0. DESIGN TOKENS
+   ============================================================ */
+:root {
+  --gi-accent:        #6366f1;
+  --gi-accent-hover:  #4f46e5;
+  --gi-accent-light:  #eef2ff;
+  --gi-accent-glow:   rgba(99, 102, 241, 0.25);
+  --gi-text:          #1e1b4b;
+  --gi-text-muted:    #6b7280;
+  --gi-bg:            #f0f4ff;
+  --gi-glass-bg:      rgba(255, 255, 255, 0.72);
+  --gi-glass-bg-card: rgba(255, 255, 255, 0.80);
+  --gi-glass-border:  rgba(255, 255, 255, 0.55);
+  --gi-blur:          blur(16px);
+  --gi-blur-sidebar:  blur(20px);
+  --gi-border:        rgba(99, 102, 241, 0.14);
+  --gi-shadow-card:   0 4px 24px rgba(99, 102, 241, 0.10), 0 1px 4px rgba(0,0,0,0.06);
+  --gi-shadow-hover:  0 8px 32px rgba(99, 102, 241, 0.18), 0 2px 8px rgba(0,0,0,0.08);
+  /* legacy aliases so any inline var(--gi-*) still resolves */
+  --gi-white:         #ffffff;
+  --gi-btn-dark:      #6366f1;
+  --gi-btn-light:     #eef2ff;
+}
 
-  h1, h2, h3, h4, h5, h6, p, li {
-    color: var(--gi-text);
-  }
 
-  /* Couleur des liens */
-  a:not(.btn):not(.nav-list-link):not(#back-to-top) {
-    color: var(--gi-accent);
-  }
-  a:not(.btn):not(.nav-list-link):not(#back-to-top):hover {
-    color: #a04f20;
-  }
+/* ============================================================
+   1. TYPOGRAPHY — Inter
+   ============================================================ */
+html, body, .main-content, .side-bar, .site-nav,
+input, button, select, textarea {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+}
 
-  /* --- 2. SIDEBAR & RECHERCHE --- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+  letter-spacing: -0.02em;
+  color: var(--gi-text);
+}
 
-  /* Sidebar Blanche sans bordure agressive */
-  .side-bar, .site-nav {
-    background-color: var(--gi-white) !important;
-    border-right: 1px solid var(--gi-border) !important;
-  }
+/* H2 — accent underline accent bar */
+.main-content h2 {
+  padding-bottom: 0.45em;
+  border-bottom: 2px solid var(--gi-accent-light);
+  position: relative;
+}
+.main-content h2::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 3rem;
+  height: 2px;
+  background: var(--gi-accent);
+  border-radius: 2px;
+}
 
-  /* Logo dans la sidebar */
-  .site-logo img {
-    max-height: 32px;
-    width: auto;
-  }
+p, li, td, th { color: var(--gi-text); }
 
-  /* Liens menu */
-  .nav-list-link {
-    color: var(--gi-text) !important;
-    border-radius: 4px;
-  }
-  .nav-list-link:hover {
-    background-color: var(--gi-btn-light) !important;
-    text-decoration: none !important;
-  }
-  .nav-list-link.active {
-    font-weight: 600 !important;
-    background-color: var(--gi-accent-light) !important;
-    background-image: none !important;
-    border-left: 3px solid var(--gi-accent) !important;
-    color: var(--gi-accent) !important;
-  }
+/* Inline links */
+a:not(.btn):not(.nav-list-link):not(#back-to-top) {
+  color: var(--gi-accent);
+  text-decoration-color: rgba(99, 102, 241, 0.35);
+  text-underline-offset: 2px;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+a:not(.btn):not(.nav-list-link):not(#back-to-top):hover {
+  color: var(--gi-accent-hover);
+  text-decoration-color: var(--gi-accent-hover);
+}
 
-  /* Recherche propre */
-  .search-input {
-    background-color: var(--gi-white) !important;
-    border: 1px solid var(--gi-border) !important;
-    color: var(--gi-text) !important;
-    border-radius: 6px !important;
-    box-shadow: none !important;
-  }
-  .search-input:focus {
-    border-color: var(--gi-accent) !important;
-    outline: none !important;
-  }
 
-  /* --- 3. CARTES RÉUTILISABLES --- */
+/* ============================================================
+   2. PAGE BACKGROUND — dot-grid + radial light orbs
+   ============================================================ */
+body, html {
+  background-color: var(--gi-bg) !important;
+  background-image:
+    radial-gradient(ellipse 80% 60% at 20% 0%,  rgba(165, 180, 252, 0.30) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 50% at 85% 90%, rgba(196, 181, 253, 0.25) 0%, transparent 55%),
+    radial-gradient(circle, rgba(99, 102, 241, 0.07) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 22px 22px;
+  background-attachment: fixed;
+  color: var(--gi-text) !important;
+}
 
-  /* Carte générique */
-  .gi-card {
-    border: 1px solid var(--gi-border);
-    border-radius: 8px;
-    padding: 24px;
-    background-color: var(--gi-white);
-    display: flex;
-    flex-direction: column;
-    transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
-  }
-  .gi-card:hover {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-    transform: translateY(-2px);
-    border-color: #c8c5be;
-  }
+.main-content, .main-content-wrap {
+  background: transparent !important;
+  color: var(--gi-text) !important;
+}
 
-  /* Callouts */
-  .gi-callout {
-    padding: 16px 20px;
-    border-radius: 6px;
-    margin: 20px 0;
-    border-left: 4px solid;
-  }
-  .gi-callout.info    { background: #f0f6ff; border-color: #0969da; }
-  .gi-callout.success { background: #f0fcf4; border-color: #2da44e; }
-  .gi-callout.warning { background: #fff8c5; border-color: #bf8700; }
-  .gi-callout.danger  { background: #fff0f0; border-color: #d1242f; }
-  .gi-callout p:last-child { margin-bottom: 0; }
 
-  /* --- 4. BOUTON BACK TO TOP --- */
-  #back-to-top {
-    position: fixed;
-    bottom: 30px;
-    right: 30px;
-    background-color: var(--gi-accent);
-    color: #fff !important;
-    width: 40px;
-    height: 40px;
-    text-align: center;
-    line-height: 40px;
-    border-radius: 50%;
-    cursor: pointer;
-    display: none;
-    z-index: 1000;
-    font-size: 20px;
-    transition: opacity 0.3s, transform 0.3s;
-    box-shadow: 0 2px 8px rgba(200, 98, 42, 0.35);
-    text-decoration: none !important;
-  }
-  #back-to-top:hover {
-    background-color: #a04f20;
-    transform: translateY(-3px);
-  }
+/* ============================================================
+   3. SIDEBAR — frosted glass
+   ============================================================ */
+.side-bar {
+  background: var(--gi-glass-bg) !important;
+  backdrop-filter: var(--gi-blur-sidebar) !important;
+  -webkit-backdrop-filter: var(--gi-blur-sidebar) !important;
+  border-right: 1px solid var(--gi-glass-border) !important;
+  box-shadow: 2px 0 16px rgba(99, 102, 241, 0.07) !important;
+}
+
+.site-nav {
+  background: transparent !important;
+  border-right: none !important;
+}
+
+.site-logo img {
+  max-height: 32px;
+  width: auto;
+}
+
+.site-title {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.03em;
+  color: var(--gi-text) !important;
+}
+
+
+/* ============================================================
+   4. NAVIGATION LINKS
+   ============================================================ */
+.nav-list-link {
+  color: var(--gi-text-muted) !important;
+  border-radius: 8px !important;
+  padding: 6px 12px !important;
+  margin: 1px 6px !important;
+  font-size: 0.875rem !important;
+  font-weight: 400 !important;
+  transition: background-color 0.15s ease, color 0.15s ease !important;
+}
+
+.nav-list-link:hover {
+  background-color: rgba(99, 102, 241, 0.08) !important;
+  color: var(--gi-accent) !important;
+  text-decoration: none !important;
+}
+
+.nav-list-link.active {
+  font-weight: 600 !important;
+  background-color: var(--gi-accent-light) !important;
+  background-image: none !important;
+  color: var(--gi-accent) !important;
+  border-left: 3px solid var(--gi-accent) !important;
+  padding-left: 9px !important;
+}
+
+.aux-links a {
+  color: var(--gi-text-muted) !important;
+  font-size: 0.8125rem !important;
+  transition: color 0.15s ease !important;
+}
+.aux-links a:hover {
+  color: var(--gi-accent) !important;
+  text-decoration: none !important;
+}
+
+
+/* ============================================================
+   5. SEARCH — pill-shaped with accent focus ring
+   ============================================================ */
+.search-input {
+  background-color: rgba(255, 255, 255, 0.80) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  border: 1.5px solid var(--gi-border) !important;
+  color: var(--gi-text) !important;
+  border-radius: 24px !important;
+  padding-left: 14px !important;
+  padding-right: 14px !important;
+  box-shadow: none !important;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease !important;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 0.875rem !important;
+}
+.search-input:focus {
+  border-color: var(--gi-accent) !important;
+  outline: none !important;
+  box-shadow: 0 0 0 3px var(--gi-accent-glow) !important;
+}
+.search-input::placeholder { color: var(--gi-text-muted) !important; }
+
+
+/* ============================================================
+   6. SITE HEADER (mobile) & PAGE HEADER (breadcrumb)
+   ============================================================ */
+.site-header {
+  background: var(--gi-glass-bg) !important;
+  backdrop-filter: var(--gi-blur-sidebar) !important;
+  -webkit-backdrop-filter: var(--gi-blur-sidebar) !important;
+  border-bottom: 1px solid var(--gi-glass-border) !important;
+}
+
+.page-header {
+  background: transparent !important;
+  border-bottom: 1px solid var(--gi-border) !important;
+}
+
+
+/* ============================================================
+   7. BUTTONS
+   ============================================================ */
+.btn {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 500 !important;
+  border-radius: 8px !important;
+  transition: box-shadow 0.2s ease, background-color 0.15s ease, transform 0.15s ease !important;
+  letter-spacing: 0 !important;
+}
+
+.btn-primary {
+  background-color: var(--gi-accent) !important;
+  border-color: var(--gi-accent) !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 8px var(--gi-accent-glow) !important;
+}
+.btn-primary:hover {
+  background-color: var(--gi-accent-hover) !important;
+  border-color: var(--gi-accent-hover) !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 18px rgba(99, 102, 241, 0.40) !important;
+  transform: translateY(-1px) !important;
+}
+
+.btn-outline {
+  background-color: transparent !important;
+  border: 1.5px solid var(--gi-border) !important;
+  color: var(--gi-accent) !important;
+}
+.btn-outline:hover {
+  background-color: var(--gi-accent-light) !important;
+  border-color: var(--gi-accent) !important;
+  color: var(--gi-accent-hover) !important;
+}
+
+.btn:not(.btn-primary):not(.btn-outline) {
+  background-color: rgba(255, 255, 255, 0.90) !important;
+  border: 1px solid var(--gi-border) !important;
+  color: var(--gi-text) !important;
+}
+.btn:not(.btn-primary):not(.btn-outline):hover {
+  background-color: var(--gi-accent-light) !important;
+  border-color: var(--gi-accent) !important;
+  color: var(--gi-accent) !important;
+}
+
+
+/* ============================================================
+   8. CARDS — glassmorphism
+   ============================================================ */
+.gi-card {
+  background: var(--gi-glass-bg-card) !important;
+  backdrop-filter: var(--gi-blur) !important;
+  -webkit-backdrop-filter: var(--gi-blur) !important;
+  border: 1px solid var(--gi-glass-border) !important;
+  border-radius: 14px !important;
+  padding: 24px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  box-shadow: var(--gi-shadow-card) !important;
+  transition: box-shadow 0.25s ease, transform 0.25s ease, border-color 0.25s ease !important;
+}
+.gi-card:hover {
+  box-shadow: var(--gi-shadow-hover) !important;
+  transform: translateY(-3px) !important;
+  border-color: rgba(99, 102, 241, 0.28) !important;
+}
+
+
+/* ============================================================
+   9. CALLOUTS
+   ============================================================ */
+.gi-callout {
+  padding: 16px 20px;
+  border-radius: 8px;
+  margin: 20px 0;
+  border-left: 4px solid;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+.gi-callout.info    { background: rgba(238,242,255,0.85); border-color: var(--gi-accent); color: #3730a3; }
+.gi-callout.success { background: rgba(240,253,244,0.85); border-color: #10b981; color: #065f46; }
+.gi-callout.warning { background: rgba(255,251,235,0.85); border-color: #f59e0b; color: #78350f; }
+.gi-callout.danger  { background: rgba(255,241,242,0.85); border-color: #f43f5e; color: #881337; }
+.gi-callout p:last-child { margin-bottom: 0; }
+
+
+/* ============================================================
+   10. TABLES — glass rows + accent header
+   ============================================================ */
+.main-content table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  box-shadow: var(--gi-shadow-card) !important;
+  width: 100% !important;
+  font-size: 0.875rem !important;
+}
+.main-content table thead tr { background: var(--gi-accent-light) !important; }
+.main-content table thead th {
+  color: var(--gi-accent-hover) !important;
+  font-weight: 600 !important;
+  font-size: 0.8125rem !important;
+  letter-spacing: 0.03em !important;
+  text-transform: uppercase !important;
+  padding: 12px 16px !important;
+  border-bottom: 2px solid rgba(99,102,241,0.20) !important;
+}
+.main-content table tbody tr {
+  background: rgba(255,255,255,0.70) !important;
+  transition: background 0.15s ease !important;
+}
+.main-content table tbody tr:hover { background: rgba(238,242,255,0.90) !important; }
+.main-content table td {
+  padding: 10px 16px !important;
+  border-bottom: 1px solid rgba(99,102,241,0.08) !important;
+  color: var(--gi-text) !important;
+  vertical-align: top !important;
+}
+.main-content table tbody tr:last-child td { border-bottom: none !important; }
+
+
+/* ============================================================
+   11. CODE BLOCKS
+   ============================================================ */
+.main-content code, .main-content pre {
+  font-size: 0.875em !important;
+  border-radius: 6px !important;
+}
+.main-content pre {
+  background: rgba(238,242,255,0.70) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  border: 1px solid var(--gi-border) !important;
+}
+.main-content :not(pre) > code {
+  background: var(--gi-accent-light) !important;
+  color: var(--gi-accent-hover) !important;
+  border: 1px solid rgba(99,102,241,0.18) !important;
+  padding: 2px 6px !important;
+}
+
+
+/* ============================================================
+   12. JUST-THE-DOCS UTILITY CLASS OVERRIDES
+   ============================================================ */
+.text-purple-200  { color: #6366f1 !important; }
+.text-purple-100  { color: #818cf8 !important; }
+.text-blue-200    { color: #3b82f6 !important; }
+.text-green-200   { color: #059669 !important; }
+.text-grey-dk-000 { color: #6b7280 !important; }
+.text-red-100     { color: #e11d48 !important; }
+.bg-grey-lt-000 {
+  background: rgba(238,242,255,0.55) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+}
+:root { --link-color: var(--gi-accent) !important; }
+
+.label {
+  background: var(--gi-accent-light) !important;
+  color: var(--gi-accent) !important;
+  border-radius: 6px !important;
+}
+blockquote, .note {
+  background: rgba(238,242,255,0.60) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  border-left: 4px solid var(--gi-accent) !important;
+  border-radius: 0 8px 8px 0 !important;
+}
+
+
+/* ============================================================
+   13. BACK TO TOP
+   ============================================================ */
+#back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: var(--gi-accent);
+  color: #fff !important;
+  width: 42px;
+  height: 42px;
+  text-align: center;
+  line-height: 42px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: none;
+  z-index: 1000;
+  font-size: 20px;
+  box-shadow: 0 4px 14px var(--gi-accent-glow);
+  text-decoration: none !important;
+  transition: opacity 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+}
+#back-to-top:hover {
+  background: var(--gi-accent-hover);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(99,102,241,0.45);
+}
+
+
+/* ============================================================
+   14. SCROLLBAR — thin, accent-tinted
+   ============================================================ */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: rgba(99,102,241,0.30);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover { background: rgba(99,102,241,0.55); }
+
+
+/* ============================================================
+   15. FOOTER
+   ============================================================ */
+footer.text-grey-dk-000,
+footer .text-grey-dk-000 { color: var(--gi-text-muted) !important; }
+
 </style>

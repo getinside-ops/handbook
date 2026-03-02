@@ -16,7 +16,7 @@ Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de
 
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
   <div>
     <h3 class="mt-0 text-purple-200">Réception des éléments</h3>
     <p>L'Annonceur vous transmet son visuel (JPG/PNG/GIF).</p>
@@ -48,7 +48,7 @@ Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de
 
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
   <div>
     <h3 class="mt-0 text-purple-200">Insertion dans votre routeur</h3>
     <p>Dans votre outil d'emailing habituel (Mailchimp, Brevo, Klaviyo...) :</p>

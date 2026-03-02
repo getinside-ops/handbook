@@ -68,7 +68,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
       <div style="margin-bottom: 10px;">
-        <span style="background: #fcfbff; color: #7253ed; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
+        <span style="background: #eef2ff; color: #6366f1; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
       </div>
       <h3 class="mt-0 mb-2">Les Petits Frères des Pauvres</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
@@ -169,7 +169,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
       <h2 class="mt-0 mb-0">BAM KARAOKE</h2>
-      <span style="background: #fcfbff; color: #7253ed; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #7253ed;">Notoriété</span>
+      <span style="background: #eef2ff; color: #6366f1; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #6366f1;">Notoriété</span>
     </div>
     <p class="fs-4 text-grey-dk-000">Développer la notoriété et faire découvrir son offre B2B/B2C.</p>
     <hr style="border-top: 1px solid #eee; margin: 15px 0;">
@@ -218,7 +218,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
       <h2 class="mt-0 mb-0">TOTAL WASH</h2>
-      <span style="background: #fcfbff; color: #7253ed; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #7253ed;">Drive to App</span>
+      <span style="background: #eef2ff; color: #6366f1; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid #6366f1;">Drive to App</span>
     </div>
     <p class="fs-4 text-grey-dk-000">Faire télécharger l'application et acquérir de nouveaux clients.</p>
     <hr style="border-top: 1px solid #eee; margin: 15px 0;">

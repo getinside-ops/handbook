@@ -17,7 +17,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Démo & Création du compte</h3>
     <p>Tout commence par un call de démo avec l'équipe getinside.</p>
@@ -31,11 +31,11 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Configuration Logistique</h3>
     <p>Avant de créer vos audiences, définissez vos contraintes logistiques (indispensable pour l'algorithme).</p>
-    <div style="background: #f6f8fa; padding: 15px; border-radius: 6px; border-left: 4px solid #7253ed;">
+    <div style="background: #f6f8fa; padding: 15px; border-radius: 6px; border-left: 4px solid #6366f1;">
       <strong>📍 Adresse de l'entrepôt :</strong> Lieu de livraison des supports.<br>
       <strong>⏱️ Délai d'ingestion (Lead Time) :</strong> Délai minimum entre la livraison et le début de la diffusion (automatiquement pris en compte par la plateforme).
     </div>
@@ -46,7 +46,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Création des Audiences</h3>
     <p>Dans l'onglet <strong>Monétisation</strong>, l'équipe e-commerçant crée ses audiences.</p>
@@ -58,7 +58,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 
 <!-- ETAPE 4 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">4</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">4</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Ajout des Types de Campagnes</h3>
     <p>Pour chaque audience créée, ajoutez les types de campagnes acceptés et leurs critères :</p>
@@ -71,7 +71,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 
 <!-- ETAPE 5 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">5</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">5</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Validation (Call de contrôle)</h3>
     <p>Dès que vous estimez avoir complété les infos, avertissez l'équipe getinside.</p>
@@ -101,7 +101,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 
 <!-- ETAPE 7 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">7</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">7</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Visibilité Marketplace</h3>
     <p>Une fois activées, les annonceurs peuvent voir vos audiences sur la plateforme et commencer à vous proposer des campagnes.</p>
@@ -110,7 +110,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 
 <!-- ETAPE 8 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #7253ed; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">8</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">8</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>

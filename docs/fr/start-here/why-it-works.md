@@ -75,7 +75,7 @@ flowchart TD
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 300px; background-color: #fcfbff; border: 2px solid #7253ed; border-radius: 8px; padding: 24px;">
+  <div style="flex: 1; min-width: 300px; background-color: #eef2ff; border: 2px solid #6366f1; border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-purple-200">L'Effet de Halo</h3>
     <p class="mb-0">En vous insérant dans cet écosystème, votre marque bénéficie instantanément de ce capital confiance. Vous n'êtes plus un intrus, vous êtes un <strong>partenaire recommandé</strong>.</p>
   </div>
@@ -181,7 +181,7 @@ flowchart TD
       Nous proposons des <strong>offres complémentaires</strong> au moment précis où le consommateur en a besoin.
     </p>
     
-    <div style="background: #fff; border-left: 4px solid #7253ed; padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="background: #fff; border-left: 4px solid #6366f1; padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       
         <!-- ITEM 1 -->
         <div class="mb-3">
@@ -234,7 +234,7 @@ flowchart TD
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 260px; background: #fcfbff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
+  <div style="flex: 1; min-width: 260px; background: #eef2ff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
     
     <div style="text-align: center; margin-bottom: 20px;">
       <span style="font-size: 40px;">🎯</span>
