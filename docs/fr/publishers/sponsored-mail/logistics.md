@@ -55,7 +55,7 @@ De la réception des palettes à l'expérience d'ouverture client (Unboxing).
 <!-- IMAGE DO / DON'T -->
 <div style="text-align: center; margin: 30px 0;">
   <!-- Remplacez le nom du fichier ci-dessous par le vôtre si différent -->
-  <img src="../../../../assets/images/asile-colis-do-dont.png" alt="Bonnes pratiques insertion Asile Colis" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 100%;">
+  <img src="../../../../assets/images/asile-colis-do-dont.webp" alt="Bonnes pratiques insertion Asile Colis" loading="lazy" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 100%;">
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;">
