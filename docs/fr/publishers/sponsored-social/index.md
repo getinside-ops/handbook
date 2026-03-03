@@ -11,7 +11,7 @@ Monétisez votre audience sociale (Instagram, TikTok) sans polluer votre ligne �
 </div>
 <hr class="mb-6" />
 <h2 class="text-purple-200 mb-4">Le principe : "Partnership Ads"</h2>
-<div style="background-color: #eff6ff; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-blue-bg); border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <p class="fs-4 mt-0 mb-2">Contrairement à l'influence classique, nous utilisons la <strong>Sponsorisation</strong>.</p>
   <ul class="mb-0 pl-4 fs-3">
     <li>Vous postez un contenu qualitatif (en partenariat avec une marque).</li>

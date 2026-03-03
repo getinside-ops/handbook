@@ -8,7 +8,7 @@ Une fois votre brief envoyé, c'est le Distributeur qui prend le relais pour con
 
 <hr class="my-6" />
 <h2 class="text-blue-200 mb-4">Pourquoi ce n'est pas vous qui créez l'email ?</h2>
-<div style="background-color: #eff6ff; border: 2px solid #2563eb; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-blue-bg); border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h3 class="mt-0 text-purple-200">🤝 La force de l'Endorsement (Recommandation)</h3>
   <p class="fs-4 mb-2">L'objectif n'est pas d'envoyer une publicité brute, mais une <strong>recommandation de la part du partenaire</strong>.</p>
   <p class="mb-0">Les abonnés du Distributeur lui font confiance. Pour maximiser le taux d'ouverture et de clic, l'email doit respecter les codes graphiques et le ton habituel de la newsletter qu'ils reçoivent chaque semaine.</p>
@@ -16,7 +16,7 @@ Une fois votre brief envoyé, c'est le Distributeur qui prend le relais pour con
 <h2 class="text-grey-dk-000 mb-4">À quoi va ressembler votre campagne ?</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <!-- CE QUE VOUS VERREZ -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #2da44e; background-color: #f6fff8; border-radius: 8px; padding: 20px;">
+  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 text-green-200">✅ Le Résultat Attendu (Natif)</h3>
     <ul class="mb-0 fs-3 pl-4">
       <li class="mb-2"><strong>Header Partenaire :</strong> Le logo et le menu du Distributeur restent en haut pour rassurer l'abonné.</li>
@@ -25,7 +25,7 @@ Une fois votre brief envoyé, c'est le Distributeur qui prend le relais pour con
     </ul>
   </div>
   <!-- CE QU'IL NE FAUT PAS ATTENDRE -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #cf222e; background-color: #fff5f5; border-radius: 8px; padding: 20px;">
+  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-red-text); background: var(--gi-tint-red-bg); border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 text-red-200">❌ Ce qui est évité (Full Brand)</h3>
     <p class="fs-3">Nous évitons d'envoyer un email qui ressemble à 100% à votre site web sans mention du partenaire.</p>
     <p class="mb-0 fs-2 text-grey-dk-000"><em>Pourquoi ? Car cela crée une dissonance cognitive chez l'abonné ("Pourquoi je reçois ça ?"), augmente le taux de désabonnement et fait chuter la performance.</em></p>
@@ -56,7 +56,7 @@ Une fois votre brief envoyé, c'est le Distributeur qui prend le relais pour con
   </div>
 </div>
 <!-- BLOC FLEXIBILITÉ -->
-<div style="background-color: #f0f8ff; border: 1px solid #2d6fd6; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-blue-bg); border: 1px solid var(--gi-accent); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h3 class="mt-0 text-blue-200">🔄 Flexibilité : Vos liens sont dynamiques !</h3>
   <p class="fs-3 mb-2">Une erreur dans le brief ? Vous changez de Landing Page à la dernière minute ?</p>
   <p class="mb-2">Pas de panique. Comme pour nos QR codes, les liens de tracking emails sont <strong>dynamiques</strong>.</p>

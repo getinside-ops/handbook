@@ -16,7 +16,7 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
 <p>Nous encourageons le regroupement des paiements pour limiter les frictions administratives.</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
   <!-- PREMIER RETRAIT -->
-  <div style="border: 2px solid #28a745; background-color: #f0fcf4; border-radius: 8px; padding: 24px;">
+  <div style="border: 2px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-green-200">1️⃣ Le Premier Retrait</h3>
     <div class="fs-8 fw-700 text-green-200 mb-2">GRATUIT</div>
     <p class="mb-0">Votre tout premier virement est <strong>100% gratuit</strong>, quel que soit le montant. Aucun frais de gestion.</p>
@@ -31,14 +31,14 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
 </div>
 <h2 class="text-purple-200 mb-4">Comment éviter les frais de 5% ?</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; border: 1px solid #2563eb; border-radius: 8px; padding: 24px;">
+  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-accent); border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-purple-200">Option A : Le "Cumul"</h3>
     <p>Laissez vos revenus s'accumuler sur votre cagnotte.</p>
     <ul>
       <li><strong>Avantage :</strong> En espaçant vos retraits, retirez vos revenus une fois par an, en un retrait groupé <strong>sans frais</strong>.</li>
     </ul>
   </div>
-  <div style="flex: 1; min-width: 300px; border: 1px solid #2d6fd6; border-radius: 8px; padding: 24px;">
+  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-accent); border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-blue-200">Option B : Le Réinvestissement</h3>
     <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Asile Colis ou Emailing).</p>
     <ul>

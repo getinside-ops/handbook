@@ -18,7 +18,7 @@ Le dispositif puissant qui combine **notoriété** et **acquisition de leads (Da
     <h3 class="mt-0 text-blue-200">📊 Acquisition de Leads (Opt-in)</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Un e-commerçant partenaire héberge un jeu sur son site. En échange de la participation, l'utilisateur accepte de recevoir vos offres.</p>
     <div style="margin-top: 10px;">
-      <span style="background: #f0fcf4; border: 1px solid #28a745; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: #000;">Objectif : Enrichir votre CRM</span>
+      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: #000;">Objectif : Enrichir votre CRM</span>
     </div>
   </div>
   <!-- CARTE CONVERSION -->
@@ -33,7 +33,7 @@ Le dispositif puissant qui combine **notoriété** et **acquisition de leads (Da
   </div>
 </div>
 <h2 class="text-grey-dk-000 mb-4">Votre Investissement</h2>
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background-color: #eff6ff; margin-bottom: 40px;">
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); margin-bottom: 40px;">
   <p class="fs-4 mt-0 mb-4">Outre le budget média, vous devez fournir :</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
     <div style="display: flex; align-items: start; gap: 15px;">

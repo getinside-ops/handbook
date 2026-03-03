@@ -25,18 +25,18 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
     </div>
   </div>
   <!-- OFFRE STANDARD -->
-  <div style="border: 2px solid #2563eb; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; position: relative; background-color: #eff6ff;">
-    <div style="position: absolute; top: -12px; right: 20px; background: #2563eb; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">POPULAIRE</div>
+  <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; display: flex; flex-direction: column; position: relative; background: var(--gi-tint-blue-bg);">
+    <div style="position: absolute; top: -12px; right: 20px; background: var(--gi-accent); color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">POPULAIRE</div>
     <h3 class="text-purple-200 mt-0">Standard</h3>
     <div class="fs-9 fw-700 text-purple-200">249€ <span class="fs-4 fw-300 text-grey-dk-000">/mois</span></div>
     <p class="fs-2 text-grey-dk-000">Développez votre propre réseau et augmentez vos marges.</p>
-    <hr style="margin: 20px 0; border-top: 1px solid #e0d4fc;" />
+    <hr style="margin: 20px 0; border-top: 1px solid var(--gi-tint-purple-bg);" />
     <ul style="padding-left: 20px; flex-grow: 1; margin-bottom: 20px;">
       <li class="mb-2"><strong>Prospection active :</strong> Accès à la base annonceurs.</li>
       <li class="mb-2"><strong>Collaboration directe :</strong> Gérez vos partenaires (Trade/Autopromo) à <strong>0% de frais</strong>.</li>
       <li class="mb-2"><strong>Retraits Gratuits :</strong> Aucun frais sur vos virements.</li>
     </ul>
-    <div style="background: #dbeafe; color: #2563eb; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
+    <div style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
       <span class="fw-700">30% à 15%</span> (Dégressif*)
     </div>
   </div>

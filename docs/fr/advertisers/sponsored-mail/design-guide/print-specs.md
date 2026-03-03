@@ -17,11 +17,11 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
 
 <br />
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="flex: 1; background: #fff5f5; border: 1px solid #d73a49; padding: 15px; border-radius: 6px;">
+  <div style="flex: 1; background: var(--gi-tint-red-bg); border: 1px solid var(--gi-tint-red-text); padding: 15px; border-radius: 6px;">
     <strong class="text-red-200">Fond Perdu (Bleed) : 2mm</strong><br />
     La matière (image/fond) doit déborder de 2mm à l'extérieur pour éviter les liserés blancs.
   </div>
-  <div style="flex: 1; background: #f0fcf4; border: 1px solid #28a745; padding: 15px; border-radius: 6px;">
+  <div style="flex: 1; background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 15px; border-radius: 6px;">
     <strong class="text-green-200">Zone Tranquille : 3mm</strong><br />
     Aucun texte ni logo important ne doit se trouver à moins de 3mm du bord intérieur.
   </div>

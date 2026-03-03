@@ -10,13 +10,13 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 <h2 class="text-purple-200 mb-4">L'Offre Studio</h2>
 <!-- BLOC TARIF ET SERVICES -->
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); margin-bottom: 40px;">
-  <div style="padding: 30px; border-bottom: 1px solid var(--vp-c-divider); background-color: #eff6ff; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <div style="padding: 30px; border-bottom: 1px solid var(--vp-c-divider); background: var(--gi-tint-blue-bg); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
     <div>
       <h3 class="mt-0 mb-1 fs-4">Création Forfaitaire</h3>
       <p class="mb-0 fs-2 text-grey-dk-000">Print, Email ou Social. Tout inclus.</p>
     </div>
     <div style="text-align: right;">
-      <span style="font-size: 24px; font-weight: 800; color: #282824;">550€ HT</span>
+      <span style="font-size: 24px; font-weight: 800; color: var(--vp-c-text-1);">550€ HT</span>
       <span class="d-block fs-2 text-grey-dk-000">par création / déclinaison</span>
     </div>
   </div>
@@ -24,15 +24,15 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
     <h4 class="mt-0 mb-4">Pourquoi passer par nous ?</h4>
     <div style="display: flex; flex-direction: column; gap: 15px;">
       <div style="display: flex; gap: 15px;">
-        <span style="color: #2da44e;">✔</span>
+        <span style="color: var(--gi-tint-green-text);">✔</span>
         <span><strong>Expertise Retail Media :</strong> Nous maîtrisons les contraintes techniques (fonds perdus, taux d'encrage, délivrabilité email) par cœur.</span>
       </div>
       <div style="display: flex; gap: 15px;">
-        <span style="color: #2da44e;">✔</span>
+        <span style="color: var(--gi-tint-green-text);">✔</span>
         <span><strong>Rapidité :</strong> BAT livré sous 48h après réception du brief.</span>
       </div>
       <div style="display: flex; gap: 15px;">
-        <span style="color: #2da44e;">✔</span>
+        <span style="color: var(--gi-tint-green-text);">✔</span>
         <span><strong>Tranquillité :</strong> Fichiers livrés directement aux normes de l'imprimeur ou du routeur.</span>
       </div>
     </div>

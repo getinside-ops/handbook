@@ -9,7 +9,7 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
 <hr class="my-6" />
 <h2 class="text-purple-200 mb-4">🤖 Tout savoir sur le QR Code</h2>
 <!-- BLOC OBLIGATION -->
-<div style="border: 2px solid #d73a49; background-color: #fff5f5; border-radius: 8px; padding: 24px; margin-bottom: 30px;">
+<div style="border: 2px solid var(--gi-tint-red-text); background: var(--gi-tint-red-bg); border-radius: 8px; padding: 24px; margin-bottom: 30px;">
   <div style="display: flex; gap: 20px; align-items: start;">
     <div style="font-size: 30px;">⚠️</div>
     <div>
@@ -25,7 +25,7 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
 <!-- GRILLE AVANTAGES TRACKING -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
   <!-- MAGIE DYNAMIQUE -->
-  <div style="border: 1px solid #2563eb; border-radius: 8px; padding: 20px; background: #eff6ff;">
+  <div style="border: 1px solid var(--gi-accent); border-radius: 8px; padding: 20px; background: var(--gi-tint-blue-bg);">
     <h3 class="mt-0 text-purple-200">✨ La magie du "Dynamique"</h3>
     <p class="fs-2 text-grey-dk-000">Nos QR codes sont dynamiques. Cela signifie que l'URL de redirection n'est pas "gravée" dans le motif du code.</p>
     <div style="background: var(--vp-c-bg-elv); padding: 10px; border-radius: 4px; border: 1px solid var(--vp-c-divider); margin-top: 10px;">
@@ -33,10 +33,10 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
     </div>
   </div>
   <!-- TRACKING & UTM -->
-  <div style="border: 1px solid #2da44e; border-radius: 8px; padding: 20px; background: #f0fcf4;">
+  <div style="border: 1px solid var(--gi-tint-green-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-green-bg);">
     <h3 class="mt-0 text-green-200">🎯 Tracking & Performance</h3>
     <p class="fs-2 text-grey-dk-000">getinside compte les <strong>Scans</strong>. Pour compter les <strong>Ventes</strong> dans votre Google Analytics, vous devez configurer votre URL.</p>
-    <div style="background: var(--vp-c-bg-elv); padding: 10px; border-radius: 4px; border: 1px solid #2da44e; margin-top: 10px; font-size: 0.9em;">
+    <div style="background: var(--vp-c-bg-elv); padding: 10px; border-radius: 4px; border: 1px solid var(--gi-tint-green-text); margin-top: 10px; font-size: 0.9em;">
       <strong>Conseil :</strong> Ne mettez pas <code>monsite.com</code>.<br />
       Mettez <code>monsite.com?utm_source=getinside&utm_medium=asile-colis</code>.
     </div>

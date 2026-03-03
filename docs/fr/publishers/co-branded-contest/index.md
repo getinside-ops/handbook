@@ -29,7 +29,7 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
   </div>
 </div>
 <h2 class="text-grey-dk-000 mb-4">Le Concept</h2>
-<div style="background-color: #eff6ff; padding: 24px; border-radius: 8px; border-left: 4px solid #2563eb; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-blue-bg); padding: 24px; border-radius: 8px; border-left: 4px solid var(--gi-accent); margin-bottom: 40px;">
   <p class="fs-4 mb-0">
     Vous hébergez une <strong>page de jeu sur votre site</strong> (ou une page dédiée externe).<br />
     Vous dirigez du trafic dessus via vos canaux habituels (Email, Push, Social).<br />

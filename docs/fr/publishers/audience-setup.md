@@ -18,7 +18,7 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
       <li><strong>Visuels :</strong> Uploadez un logo et une bannière qui représentent votre univers.</li>
     </ul>
   </div>
-  <div style="flex: 1; min-width: 300px; background-color: #eff6ff; border: 2px solid #2563eb; border-radius: 8px; padding: 24px;">
+  <div style="flex: 1; min-width: 300px; background: var(--gi-tint-blue-bg); border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-purple-200">💡 Le conseil de l'équipe</h3>
     <p class="mb-0">Dans le champ <strong>"Persona"</strong>, soyez descriptif : <em>"Jardinier amateur ou expert cherchant des produits durables pour entretenir son potager."</em> Cela aide les annonceurs à mieux comprendre qui sont vos clients.</p>
   </div>
@@ -41,9 +41,9 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 </div>
 <hr class="my-6" />
 <h2 class="text-grey-dk-000 mb-4">3. Comprendre votre "Score Distributeur"</h2>
-<div style="border: 2px solid #282824; background-color: var(--vp-c-bg-elv); padding: 24px; border-radius: 8px; margin-bottom: 40px;">
+<div style="border: 2px solid var(--vp-c-text-1); background-color: var(--vp-c-bg-elv); padding: 24px; border-radius: 8px; margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <div style="font-size: 40px; font-weight: 800; color: #282824;">4,3<span class="fs-4 text-grey-dk-000">/5</span></div>
+    <div style="font-size: 40px; font-weight: 800; color: var(--vp-c-text-1);">4,3<span class="fs-4 text-grey-dk-000">/5</span></div>
     <div>
       <h3 class="mt-0 mb-0">Votre passeport pour plus de campagnes</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">Ce score est recalculé dynamiquement selon 7 critères clés. Il détermine votre position dans les résultats de recherche.</p>
@@ -52,9 +52,9 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
   <div class="p-3" style="background-color: var(--vp-c-bg-soft); border-radius: 6px;">
     <strong>Barème de visibilité :</strong>
     <ul class="mb-0 mt-2 fs-2">
-      <li class="mb-1"><span style="color: #d73a49;">●</span> <strong>Moins de 3/5 :</strong> Votre audience est peu visible. Des actions correctives sont nécessaires.</li>
-      <li class="mb-1"><span style="color: #d4a72c;">●</span> <strong>De 3 à 4/5 :</strong> Visibilité standard. Vous recevez des propositions régulièrement.</li>
-      <li><span style="color: #28a745;">●</span> <strong>Plus de 4/5 :</strong> Statut "Top Distributeur". Vous apparaissez en priorité et obtenez le badge de confiance.</li>
+      <li class="mb-1"><span style="color: var(--gi-tint-red-text);">●</span> <strong>Moins de 3/5 :</strong> Votre audience est peu visible. Des actions correctives sont nécessaires.</li>
+      <li class="mb-1"><span style="color: var(--gi-tint-yellow-text);">●</span> <strong>De 3 à 4/5 :</strong> Visibilité standard. Vous recevez des propositions régulièrement.</li>
+      <li><span style="color: var(--gi-tint-green-text);">●</span> <strong>Plus de 4/5 :</strong> Statut "Top Distributeur". Vous apparaissez en priorité et obtenez le badge de confiance.</li>
     </ul>
   </div>
 </div>

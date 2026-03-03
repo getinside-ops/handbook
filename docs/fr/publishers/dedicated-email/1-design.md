@@ -9,7 +9,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
 <hr class="my-6" />
 <h2 class="text-purple-200 mb-4">Accéder au Brief</h2>
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 40px; background-color: var(--vp-c-bg-elv); padding: 20px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
-  <div style="flex-shrink: 0; width: 50px; height: 50px; background: #24292e; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 24px;">📝</div>
+  <div style="flex-shrink: 0; width: 50px; height: 50px; background: var(--vp-code-block-bg); color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 24px;">📝</div>
   <div>
     <h3 class="mt-0 fs-4">Tout est sur la plateforme</h3>
     <p class="mb-0 fs-3">Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> pour récupérer : l'offre commerciale, les visuels produits HD et les arguments clés.</p>
@@ -17,7 +17,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
 </div>
 <h2 class="text-purple-200 mb-4">Stratégie de Co-branding</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="flex: 1; min-width: 300px; border: 1px solid #2da44e; background-color: #f6fff8; border-radius: 8px; padding: 20px;">
+  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 text-green-200">✅ À FAIRE (Endorsement)</h3>
     <p>Vos abonnés doivent sentir que le message vient de vous.</p>
     <ul>
@@ -26,7 +26,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
       <li><strong>Design :</strong> Intégrez les visuels de l'Annonceur mais gardez vos polices et boutons.</li>
     </ul>
   </div>
-  <div style="flex: 1; min-width: 300px; border: 1px solid #cf222e; background-color: #fff5f5; border-radius: 8px; padding: 20px;">
+  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-red-text); background: var(--gi-tint-red-bg); border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 text-red-200">❌ À ÉVITER (Pub Brute)</h3>
     <p>Ne transformez pas votre newsletter en panneau publicitaire.</p>
     <ul>
@@ -46,7 +46,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
       <div style="margin-bottom: 10px;">
-        <span style="background: #f0fcf4; color: #2da44e; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
+        <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
       </div>
       <h3 class="mt-0 mb-2">Caats x Les Petits Culottés</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Campagne Petfood ciblée auprès d'une audience Parents / Famille.</p>
@@ -62,7 +62,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
       <div style="margin-bottom: 10px;">
-        <span style="background: #f0fcf4; color: #2da44e; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
+        <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
       </div>
       <h3 class="mt-0 mb-2">HelloFresh x Berceau Magique</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</p>
@@ -78,7 +78,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
       <div style="margin-bottom: 10px;">
-        <span style="background: #eff6ff; color: #2563eb; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
+        <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
       </div>
       <h3 class="mt-0 mb-2">Les Petits Frères des Pauvres</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
@@ -89,9 +89,9 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
   </div>
 </div>
 <!-- BLOC STUDIO CORRIGÉ -->
-<div style="border: 2px solid #e1e4e8; border-radius: 8px; padding: 30px 24px 24px 24px; position: relative; margin-bottom: 40px; background: var(--vp-c-bg-elv);">
+<div style="border: 2px solid var(--vp-c-divider); border-radius: 8px; padding: 30px 24px 24px 24px; position: relative; margin-bottom: 40px; background: var(--vp-c-bg-elv);">
   <!-- Badge Absolute -->
-  <div style="position: absolute; top: -12px; left: 24px; background: #24292e; color: white; padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px; text-transform: uppercase;">Option Délégation</div>
+  <div style="position: absolute; top: -12px; left: 24px; background: var(--vp-code-block-bg); color: white; padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px; text-transform: uppercase;">Option Délégation</div>
   <!-- Contenu Flex avec Wrap pour éviter la casse -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;">
     <!-- Partie Gauche : Texte -->
@@ -102,7 +102,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     <!-- Partie Droite : Prix & Bouton -->
     <div style="text-align: right; flex: 0 0 auto; background: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border: 1px solid var(--vp-c-divider);">
       <div style="font-size: 20px; font-weight: 800; line-height: 1;">550€ HT</div>
-      <div style="font-size: 12px; color: #666; margin-bottom: 10px;">déduit de vos revenus</div>
+      <div style="font-size: 12px; color: var(--vp-c-text-2); margin-bottom: 10px;">déduit de vos revenus</div>
       <a href="mailto:studio@getinside.fr" class="btn btn-purple btn-sm">Contacter le Studio</a>
     </div>
   </div>

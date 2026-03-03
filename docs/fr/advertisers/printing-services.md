@@ -8,7 +8,7 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
 
 <hr class="my-6" />
 <h2 class="text-blue-200 mb-4">🏭 Une qualité certifiée</h2>
-<div style="background-color: #f0fcf4; border: 1px solid #28a745; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <p class="fs-4 mt-0 mb-4 text-green-200">Nous travaillons exclusivement avec un réseau de partenaires français engagés :</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
     <div style="text-align: center;">
@@ -41,7 +41,7 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
     </ul>
   </div>
   <!-- USAGE 2 -->
-  <div style="border: 2px solid #2563eb; border-radius: 8px; padding: 24px; background: #eff6ff;">
+  <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg);">
     <h3 class="mt-0 fs-4 text-purple-200">2. Auto-promotion (Pour vous)</h3>
     <p>Vous souhaitez imprimer vos propres cartes de remerciement ou flyers à insérer dans <strong>vos propres colis</strong> ?</p>
     <ul>

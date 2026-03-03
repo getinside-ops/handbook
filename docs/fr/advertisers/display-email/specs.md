@@ -30,18 +30,18 @@ Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, A
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
     <h3 class="mt-0 fs-4">🎬 GIF Animés</h3>
     <p class="mb-2">Acceptés, mais attention à <strong>Outlook</strong> (versions bureau) qui n'affiche que la première image.</p>
-    <div style="background: #fff9e6; border: 1px solid #ffeeba; padding: 10px; border-radius: 4px; color: #856404; font-size: 0.9em;">
+    <div style="background: var(--gi-tint-yellow-bg); border: 1px solid var(--gi-tint-yellow-bg); padding: 10px; border-radius: 4px; color: var(--gi-tint-yellow-text); font-size: 0.9em;">
       <strong>Règle d'or :</strong> L'information principale et le Call-to-Action doivent figurer sur la <strong>première frame</strong>.
     </div>
   </div>
 </div>
 <h2 class="text-grey-dk-000 mb-4">💡 Bonnes Pratiques Design</h2>
-<div style="border-left: 4px solid #2563eb; background-color: #eff6ff; padding: 20px; border-radius: 0 8px 8px 0; margin-bottom: 20px;">
+<div style="border-left: 4px solid var(--gi-accent); background: var(--gi-tint-blue-bg); padding: 20px; border-radius: 0 8px 8px 0; margin-bottom: 20px;">
   <h3 class="mt-0 text-purple-200">La Bordure (Border)</h3>
   <p>Si votre bannière a un fond blanc, elle risque de se fondre dans le fond de l'email et de devenir invisible.</p>
   <p class="mb-0">👉 <strong>Ajoutez une fine bordure grise de 1px</strong> (<code>#cccccc</code>) tout autour de votre créa pour bien la délimiter.</p>
 </div>
-<div style="border-left: 4px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 0 8px 8px 0;">
+<div style="border-left: 4px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); padding: 20px; border-radius: 0 8px 8px 0;">
   <h3 class="mt-0 text-green-200">Lisibilité Mobile</h3>
   <p class="mb-0">Sur mobile, votre bannière de 600px sera réduite à ~350px de large. Évitez les polices trop fines ou trop petites (minimum 16px recommandé).</p>
 </div>

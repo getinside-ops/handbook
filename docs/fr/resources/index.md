@@ -17,7 +17,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
         <h3 class="mt-0 mb-1 fs-4">Bibliothèque (Téléchargements)</h3>
         <p class="mb-0 fs-2 text-grey-dk-000">Gabarits InDesign, Logos officiels, Modèles de fichiers CSV.</p>
       </div>
-      <div style="margin-left: 10px; color: #ccc;">➝</div>
+      <div style="margin-left: 10px; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- 2. INSPIRATIONS (NOUVEAU) -->
@@ -28,7 +28,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
         <h3 class="mt-0 mb-1 fs-4">Inspirations & Case Studies</h3>
         <p class="mb-0 fs-2 text-grey-dk-000">Exemples réels de campagnes (Email, Colis) et performances chiffrées.</p>
       </div>
-      <div style="margin-left: 10px; color: #ccc;">➝</div>
+      <div style="margin-left: 10px; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- 3. STUDIO -->
@@ -39,7 +39,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
         <h3 class="mt-0 mb-1 fs-4">Studio Créatif</h3>
         <p class="mb-0 fs-2 text-grey-dk-000">Déléguez la production graphique à nos experts (Offre forfaitaire).</p>
       </div>
-      <div style="margin-left: 10px; color: #ccc;">➝</div>
+      <div style="margin-left: 10px; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- 4. DEPANNAGE -->
@@ -50,7 +50,7 @@ Accédez aux outils, fichiers, inspirations et guides de dépannage pour gérer 
         <h3 class="mt-0 mb-1 fs-4">Troubleshooting (Dépannage)</h3>
         <p class="mb-0 fs-2 text-grey-dk-000">Solutions aux problèmes fréquents : Tracking, QR codes, Livraison.</p>
       </div>
-      <div style="margin-left: 10px; color: #ccc;">➝</div>
+      <div style="margin-left: 10px; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
 </div>

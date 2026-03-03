@@ -22,7 +22,7 @@ Les procédures opérationnelles pour la réception, l'insertion et le reporting
         <h3 class="mt-0 text-purple-200">Logistique & Insertion</h3>
         <p class="fs-2 text-grey-dk-000 mb-0">Réception des palettes, règles d'insertion "On-Top" et gestion des exclusions concurrentielles.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- CARTE REPORTING -->
@@ -33,7 +33,7 @@ Les procédures opérationnelles pour la réception, l'insertion et le reporting
         <h3 class="mt-0 text-purple-200">Suivi & Reporting</h3>
         <p class="fs-2 text-grey-dk-000 mb-0">L'obligation de déclaration hebdomadaire des volumes distribués pour déclencher la facturation.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
 </div>

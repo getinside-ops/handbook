@@ -10,7 +10,7 @@ De la réception des palettes à l'expérience d'ouverture client (Unboxing).
 <h2 class="text-purple-200 mb-4">1. Réception des supports</h2>
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 30px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Contrôle à l'arrivée</h3>
     <p>Les supports (flyers, échantillons) sont livrés à l'adresse de votre entrepôt renseignée sur la plateforme.</p>
@@ -22,14 +22,14 @@ De la réception des palettes à l'expérience d'ouverture client (Unboxing).
 </div>
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">✓</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-green-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">✓</div>
   <div>
     <h3 class="mt-0 text-green-200">Confirmation de Réception</h3>
     <p><strong>Action obligatoire :</strong> Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> et cliquez sur <strong>"Valider la réception"</strong>.</p>
     <p class="fs-2 text-grey-dk-000">Cela notifie l'Annonceur que la marchandise est bien arrivée et prête à être distribuée.</p>
   </div>
 </div>
-<div style="background-color: #fff5f5; border-left: 4px solid #d73a49; padding: 15px; border-radius: 4px; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-red-bg); border-left: 4px solid var(--gi-tint-red-text); padding: 15px; border-radius: 4px; margin-bottom: 40px;">
   <strong>⚠️ Problème de livraison ?</strong><br />
   Si les supports sont endommagés, prenez des photos et signalez-le immédiatement à <a href="mailto:logistique@getinside.fr">logistique@getinside.fr</a> avant toute distribution.
 </div>

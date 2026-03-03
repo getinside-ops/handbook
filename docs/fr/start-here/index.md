@@ -23,7 +23,7 @@ Définition et opportunités pour votre marque.
   </div>
 </div>
 <!-- BLOC CERCLE VERTUEUX -->
-<div style="background-color: #eff6ff; border: 2px solid #2563eb; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-blue-bg); border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h3 class="mt-0 fs-4 text-purple-200">🔄 Le Modèle getinside : Monétiser pour Réinvestir</h3>
   <p class="fs-4 mb-2">La force de notre plateforme réside dans la fluidité entre vos revenus et vos dépenses.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px;">
@@ -51,7 +51,7 @@ Définition et opportunités pour votre marque.
         <h3 class="mt-0 mb-1">L'Asile Colis (Physique)</h3>
         <p class="mb-0 text-grey-dk-000">Glissez un flyer ou un échantillon dans le colis. <br /><strong>L'atout :</strong> 100% de taux d'ouverture et une prise en main physique.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- EMAIL -->
@@ -62,7 +62,7 @@ Définition et opportunités pour votre marque.
         <h3 class="mt-0 mb-1">L'Emailing (Digital)</h3>
         <p class="mb-0 text-grey-dk-000">Une marque partenaire recommande vos produits à sa base. <br /><strong>L'atout :</strong> La puissance de la recommandation (Endorsement) et le volume.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- SOCIAL -->
@@ -73,7 +73,7 @@ Définition et opportunités pour votre marque.
         <h3 class="mt-0 mb-1">Social Ads (Influence)</h3>
         <p class="mb-0 text-grey-dk-000">Diffusez vos pubs via les comptes sociaux (Insta/TikTok) des retailers. <br /><strong>L'atout :</strong> La crédibilité de la marque hôte et le ciblage data.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- CONTEST -->
@@ -84,7 +84,7 @@ Définition et opportunités pour votre marque.
         <h3 class="mt-0 mb-1">Jeu Concours (Lead Gen)</h3>
         <p class="mb-0 text-grey-dk-000">Collectez des emails qualifiés (Opt-in) via une mécanique ludique. <br /><strong>L'atout :</strong> L'enrichissement rapide de votre base CRM.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
 </div>
@@ -105,25 +105,25 @@ Définition et opportunités pour votre marque.
   </div>
 </div>
 <h2 class="text-blue-200 mb-4">L'Excellence Opérationnelle : Clé de la Récurrence</h2>
-<div style="border: 2px solid #2d6fd6; background-color: #f0f8ff; border-radius: 8px; padding: 24px;">
+<div style="border: 2px solid var(--gi-accent); background: var(--gi-tint-blue-bg); border-radius: 8px; padding: 24px;">
   <p class="fs-4 mb-4">
     La confiance des annonceurs ne se gagne pas seulement sur l'audience, elle se gagne sur l'<strong>exécution sans faille</strong>.
   </p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px;">
     <div>
-      <strong style="color: #0366d6;">⚡ Réactivité = Confiance</strong>
+      <strong style="color: var(--gi-accent);">⚡ Réactivité = Confiance</strong>
       <p class="fs-2 text-grey-dk-000">Les processus standardisés rassurent les grandes marques. Une mise en place rapide prouve votre professionnalisme.</p>
     </div>
     <div>
-      <strong style="color: #0366d6;">✅ Zéro Erreur = Brand Safety</strong>
+      <strong style="color: var(--gi-accent);">✅ Zéro Erreur = Brand Safety</strong>
       <p class="fs-2 text-grey-dk-000">Le respect strict des workflows (BAT, validation) garantit que l'image de marque de l'annonceur est protégée.</p>
     </div>
     <div>
-      <strong style="color: #0366d6;">📈 Data Fiable = Renouvellement</strong>
+      <strong style="color: var(--gi-accent);">📈 Data Fiable = Renouvellement</strong>
       <p class="fs-2 text-grey-dk-000">Un tracking posé correctement permet de prouver le ROI. C'est la condition <em>sine qua non</em> pour qu'un annonceur re-signe.</p>
     </div>
   </div>
-  <div style="background-color: var(--vp-c-bg-elv); border-left: 4px solid #d73a49; padding: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+  <div style="background-color: var(--vp-c-bg-elv); border-left: 4px solid var(--gi-tint-red-text); padding: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
     <h4 class="mt-0 mb-2 text-red-100" style="display: flex; align-items: center; gap: 10px;">
       <span>⚠️</span> Impact direct sur vos revenus
     </h4>

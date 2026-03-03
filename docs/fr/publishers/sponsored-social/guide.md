@@ -25,7 +25,7 @@ Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activ
     <h3 class="mt-0 fs-4">4. Identifier la marque</h3>
     <p class="mb-0">Cliquez sur <strong>"Ajouter des partenaires de marque"</strong> et recherchez le nom du compte de l'Annonceur (indiqué dans le brief).</p>
   </div>
-  <div style="background-color: #fff0f3; border: 1px dashed #d62976; padding: 15px; border-radius: 8px;">
+  <div style="background: var(--gi-tint-red-bg); border: 1px dashed #d62976; padding: 15px; border-radius: 8px;">
     <h3 class="mt-0 text-red-200 fs-4">⚠️ ÉTAPE CRITIQUE</h3>
     <p class="mb-0">Vous devez absolument activer l'option :<br />
     <strong>"Autoriser le partenaire de marque à booster"</strong> (Allow brand partner to boost).</p>

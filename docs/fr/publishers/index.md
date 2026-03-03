@@ -22,7 +22,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
         <h3 class="mt-0 mb-1 fs-4">Guide de Démarrage</h3>
         <p class="mb-0 fs-2 text-grey-dk-000">Comprendre les 3 piliers : Activation, Trade Marketing et Prospection.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
     </div>
   </a>
   <!-- AUDIENCE -->
@@ -33,7 +33,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
         <h3 class="mt-0 mb-1 fs-4">Audience & Score</h3>
         <p class="mb-0 fs-2 text-grey-dk-000">Comment remplir votre fiche pour être visible et optimiser votre score distributeur.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
     </div>
   </a>
   <!-- AFFILIATION -->
@@ -44,7 +44,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
         <h3 class="mt-0 mb-1 fs-4">Affiliation</h3>
         <p class="mb-0 fs-2 text-grey-dk-000">Invitez des partenaires et gagnez 20% de commission sur leurs revenus.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
     </div>
   </a>
 </div>

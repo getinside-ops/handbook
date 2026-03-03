@@ -29,12 +29,12 @@ Diffusez vos contenus publicitaires via les comptes sociaux de nos e-commerçant
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-blue-200">🎯 Audience Affinitaire</h3>
     <p>Touchez les followers de marques de niche (Beauté, Tech, Food...) directement dans leur feed.</p>
-    <div style="margin-top: 15px; font-size: 0.9em; color: #586069;">
+    <div style="margin-top: 15px; font-size: 0.9em; color: var(--vp-c-text-2);">
       <em>Exemple : Une marque de croquettes ciblant les abonnés d'une animalerie en ligne.</em>
     </div>
   </div>
   <!-- CARTE 3 -->
-  <div style="border: 2px solid #2d6fd6; border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
+  <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-blue-200">🚀 Amplification Média</h3>
     <p>Nous utilisons le format <strong>Partnership Ads</strong>.</p>
     <p>Vous sponsorisez le post du distributeur pour toucher une audience large, bien au-delà de ses simples abonnés organiques.</p>
@@ -47,11 +47,11 @@ Diffusez vos contenus publicitaires via les comptes sociaux de nos e-commerçant
     <strong>Social Post</strong><br />
     <span class="fs-2 text-grey-dk-000">Photo ou Carrousel</span>
   </div>
-  <div style="flex: 1; min-width: 200px; border: 1px solid #2da44e; border-radius: 6px; padding: 15px; text-align: center; background: #f0fcf4;">
+  <div style="flex: 1; min-width: 200px; border: 1px solid var(--gi-tint-green-text); border-radius: 6px; padding: 15px; text-align: center; background: var(--gi-tint-green-bg);">
     <div style="font-size: 30px; margin-bottom: 10px;">🎥</div>
     <strong>Social Video</strong><br />
     <span class="fs-2 text-grey-dk-000">Reels & TikTok (Vertical)</span><br />
-    <em style="font-size: 12px; color: #2da44e;">Recommandé</em>
+    <em style="font-size: 12px; color: var(--gi-tint-green-text);">Recommandé</em>
   </div>
   <div style="flex: 1; min-width: 200px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px; text-align: center; background: var(--vp-c-bg-elv);">
     <div style="font-size: 30px; margin-bottom: 10px;">⏱️</div>

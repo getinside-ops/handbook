@@ -16,7 +16,7 @@ Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique cl
     <p class="mb-0">Idéal pour la conversion immédiate en ligne.</p>
   </div>
   <!-- DRIVE TO STORE (NOUVEAU) -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: #eff6ff; border-color: #2563eb;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--gi-tint-blue-bg); border-color: var(--gi-accent);">
     <h3 class="mt-0 fs-4 text-purple-200">🏪 Drive to Store</h3>
     <p class="mb-2 text-grey-dk-000"><em>"Présentez cette carte en boutique pour un café offert"</em></p>
     <p class="mb-0">Générez du trafic physique ou proposez une mécanique hybride (Coupon valable Web + Magasin).</p>
@@ -48,7 +48,7 @@ Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique cl
   </div>
 </div>
 <h2 class="text-blue-200 mb-4">2. L'Expérience</h2>
-<div style="background-color: var(--vp-c-bg-soft); border-left: 4px solid #2d6fd6; padding: 20px; border-radius: 4px; margin-bottom: 40px;">
+<div style="background-color: var(--vp-c-bg-soft); border-left: 4px solid var(--gi-accent); padding: 20px; border-radius: 4px; margin-bottom: 40px;">
   <h3 class="mt-0 text-blue-200">📱 Pensez Mobile First</h3>
   <p>L'expérience post-scan se fait à 99% sur smartphone.</p>
   <ul>
@@ -59,7 +59,7 @@ Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique cl
 </div>
 <h2 class="text-blue-200 mb-4">3. L'Offre</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; border: 1px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 8px;">
+  <div style="flex: 1; border: 1px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); padding: 20px; border-radius: 8px;">
     <h3 class="mt-0 text-green-200">✅ Valeur Monétaire</h3>
     <p class="fs-4 mb-0"><strong>"10€ offerts"</strong></p>
     <p>Beaucoup plus concret et percutant qu'un pourcentage.</p>
@@ -69,7 +69,7 @@ Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique cl
     <p class="fs-4 mb-0">"-10% de réduction"</p>
     <p>Souvent perçu comme une simple "taxe en moins". Moins incitatif.</p>
   </div>
-  <div style="flex: 1; border: 1px solid #28a745; background-color: #f0fcf4; padding: 20px; border-radius: 8px;">
+  <div style="flex: 1; border: 1px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); padding: 20px; border-radius: 8px;">
     <h3 class="mt-0 text-green-200">🎁 Produit Offert</h3>
     <p class="fs-4 mb-0"><strong>"Votre accessoire offert"</strong></p>
     <p>Très fort levier psychologique (Cadeau vs Économie).</p>

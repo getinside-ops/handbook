@@ -55,6 +55,21 @@
   --gi-text-muted:   #64748b;
   --gi-border:       #e2e8f0;
   --gi-surface:      #ffffff;
+
+  /* Semantic tint tokens — badge / highlight colours */
+  --gi-tint-blue-bg:      #eff6ff;
+  --gi-tint-blue-text:    #2563eb;
+  --gi-tint-blue-border:  #dbeafe;
+  --gi-tint-green-bg:     #f0fdf4;
+  --gi-tint-green-text:   #2da44e;
+  --gi-tint-green-border: #ccf3df;
+  --gi-tint-yellow-bg:    #fff9e6;
+  --gi-tint-yellow-text:  #bf8700;
+  --gi-tint-red-bg:       #fff5f5;
+  --gi-tint-red-text:     #d73a49;
+  --gi-tint-red-border:   #fecdd3;
+  --gi-tint-purple-bg:    #f3e5f5;
+  --gi-tint-purple-text:  #7b1fa2;
 }
 
 /* ============================================================
@@ -101,6 +116,21 @@
   --gi-text-muted:   #94a3b8;
   --gi-border:       #334155;
   --gi-surface:      #1e293b;
+
+  /* Semantic tint tokens — dark mode */
+  --gi-tint-blue-bg:      rgba(96, 165, 250, 0.12);
+  --gi-tint-blue-text:    #93c5fd;
+  --gi-tint-blue-border:  rgba(96, 165, 250, 0.25);
+  --gi-tint-green-bg:     rgba(45, 164, 78, 0.12);
+  --gi-tint-green-text:   #6ee7b7;
+  --gi-tint-green-border: rgba(45, 164, 78, 0.25);
+  --gi-tint-yellow-bg:    rgba(217, 119, 6, 0.12);
+  --gi-tint-yellow-text:  #fde68a;
+  --gi-tint-red-bg:       rgba(215, 58, 73, 0.12);
+  --gi-tint-red-text:     #fca5a5;
+  --gi-tint-red-border:   rgba(215, 58, 73, 0.25);
+  --gi-tint-purple-bg:    rgba(123, 31, 162, 0.12);
+  --gi-tint-purple-text:  #e9d5ff;
 }
 
 /* ============================================================
@@ -121,6 +151,14 @@ body {
   backdrop-filter: blur(8px) !important;
   -webkit-backdrop-filter: blur(8px) !important;
   border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
+/* Logo: dark charcoal in light mode, pure white in dark mode */
+.VPImage.logo {
+  filter: brightness(0);          /* → pure black */
+}
+.dark .VPImage.logo {
+  filter: brightness(0) invert(1); /* → pure white */
 }
 
 .VPNavBar .title {

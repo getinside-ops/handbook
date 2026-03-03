@@ -17,7 +17,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
   <!-- GUIDE (Mis en avant) -->
   <a href="./design-guide/" style="text-decoration: none; color: inherit;">
-    <div style="border: 2px solid #2563eb; border-radius: 8px; padding: 24px; background: #eff6ff; display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 40px;">📘</div>
       <div>
         <h3 class="mt-0 text-purple-200">Guide de Conception (Start)</h3>
@@ -33,7 +33,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
         <strong class="fs-4 d-block">Stratégie & Offre</strong>
         <span class="fs-2 text-grey-dk-000">Définir une mécanique engageante.</span>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- SPECS -->
@@ -44,7 +44,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
         <strong class="fs-4 d-block">Specs Techniques</strong>
         <span class="fs-2 text-grey-dk-000">Formats A5/A6, Bords perdus, 300 DPI.</span>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- LEGAL -->
@@ -55,7 +55,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
         <strong class="fs-4 d-block">Légal & QR</strong>
         <span class="fs-2 text-grey-dk-000">Mentions obligatoires et tracking.</span>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
 </div>

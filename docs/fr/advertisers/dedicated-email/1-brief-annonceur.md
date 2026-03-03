@@ -35,7 +35,7 @@ Votre rôle : fournir la "matière première" qui permettra au Distributeur de c
     <p class="fs-2 text-grey-dk-000 mb-0">Les URLs de destination (Landing pages) vers lesquelles rediriger le trafic.</p>
   </div>
 </div>
-<div class="mt-6 p-4 bg-yellow-000 border rounded-1" style="border-color: #f2cc60;">
+<div class="mt-6 p-4 bg-yellow-000 border rounded-1" style="border-color: var(--gi-tint-yellow-text);">
   <h4 class="mt-0 text-grey-dk-000">💡 Conseil Pro</h4>
   <p class="mb-0">Ne cherchez pas à imposer une charte graphique stricte. Laissez le Distributeur adapter vos visuels à son univers : c'est lui qui connaît le mieux ce qui fait réagir sa communauté.</p>
 </div>

@@ -13,7 +13,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
 </div>
 <hr class="mb-6" />
 <!-- BLOC CONCEPT -->
-<div style="background-color: #eff6ff; border: 1px solid #2563eb; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background: var(--gi-tint-blue-bg); border: 1px solid var(--gi-accent); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h2 class="mt-0 text-purple-200">🤝 Le concept : l'Endorsement</h2>
   <p class="fs-4 mb-2">Contrairement à l'achat de base classique, nous privilégions ici une approche de <strong>recommandation</strong>.</p>
   <p class="mb-0">C'est le Distributeur qui s'adresse à sa communauté pour lui présenter votre offre comme un "privilège abonné". Cela garantit de meilleurs taux d'ouverture et une confiance accrue.</p>
@@ -27,8 +27,8 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
     <h3 class="mt-0 text-blue-200">📢 Blast (Newsletter)</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Envoi massif sur tout ou partie de la base opt-in du distributeur.</p>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <span style="background: #e1f5fe; color: #0277bd; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Volume</span>
-      <span style="background: #e1f5fe; color: #0277bd; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Notoriété</span>
+      <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Volume</span>
+      <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Notoriété</span>
     </div>
   </div>
   <!-- POST PURCHASE -->
@@ -36,8 +36,8 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
     <h3 class="mt-0 text-purple-200">🛍️ Post-Purchase</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Email envoyé automatiquement juste après une commande.</p>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Taux d'ouverture max</span>
-      <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Hot Prospect</span>
+      <span style="background: var(--gi-tint-purple-bg); color: var(--gi-tint-purple-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Taux d'ouverture max</span>
+      <span style="background: var(--gi-tint-purple-bg); color: var(--gi-tint-purple-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Hot Prospect</span>
     </div>
   </div>
   <!-- WELCOME -->
@@ -45,8 +45,8 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
     <h3 class="mt-0 text-green-200">👋 Welcome Pack</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Intégration dans la séquence de bienvenue des nouveaux inscrits.</p>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
-      <span style="background: #e8f5e9; color: #2e7d32; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Attention</span>
-      <span style="background: #e8f5e9; color: #2e7d32; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Engagement</span>
+      <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Attention</span>
+      <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Engagement</span>
     </div>
   </div>
 </div>
@@ -61,7 +61,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
         <strong class="fs-4 d-block">Le Brief Annonceur</strong>
         <span class="fs-2 text-grey-dk-000">Vous définissez l'offre et fournissez les assets via notre formulaire.</span>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- ETAPE 2 -->
@@ -72,7 +72,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
         <strong class="fs-4 d-block">Création (Distributeur)</strong>
         <span class="fs-2 text-grey-dk-000">Le distributeur conçoit l'email en respectant sa charte (ou délègue au Studio).</span>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
   <!-- ETAPE 3 -->
@@ -83,7 +83,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
         <strong class="fs-4 d-block">Validation & Diffusion</strong>
         <span class="fs-2 text-grey-dk-000">Intégration du tracking, double validation (BAT) et envoi final.</span>
       </div>
-      <div style="margin-left: auto; color: #ccc;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
     </div>
   </a>
 </div>

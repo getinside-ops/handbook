@@ -13,8 +13,8 @@ De la stratégie créative à la validation technique : tout pour réussir vos v
 </div>
 <hr class="mb-6" />
 <!-- OPTION STUDIO -->
-<div style="border: 2px solid #2563eb; border-radius: 8px; padding: 30px; position: relative; margin-bottom: 40px; background-color: #eff6ff;">
-  <div style="position: absolute; top: -12px; left: 30px; background: #2563eb; color: white; padding: 2px 12px; border-radius: 12px; font-weight: bold; font-size: 14px;">OPTION STUDIO</div>
+<div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 30px; position: relative; margin-bottom: 40px; background: var(--gi-tint-blue-bg);">
+  <div style="position: absolute; top: -12px; left: 30px; background: var(--gi-accent); color: white; padding: 2px 12px; border-radius: 12px; font-weight: bold; font-size: 14px;">OPTION STUDIO</div>
   <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
     <div style="flex: 2; min-width: 300px;">
       <h2 class="mt-2 text-purple-200">Délégation Créative</h2>
@@ -32,29 +32,29 @@ De la stratégie créative à la validation technique : tout pour réussir vos v
 <!-- TIMELINE HORIZONTALE -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
   <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: #2d6fd6; margin-bottom: 10px;">1</div>
+    <div style="font-size: 24px; font-weight: bold; color: var(--gi-accent); margin-bottom: 10px;">1</div>
     <strong>Stratégie</strong><br /><span class="fs-2">Mécanique & Offre</span>
   </div>
   <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: #2d6fd6; margin-bottom: 10px;">2</div>
+    <div style="font-size: 24px; font-weight: bold; color: var(--gi-accent); margin-bottom: 10px;">2</div>
     <strong>Création</strong><br /><span class="fs-2">Respect des Specs</span>
   </div>
   <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: #2d6fd6; margin-bottom: 10px;">3</div>
+    <div style="font-size: 24px; font-weight: bold; color: var(--gi-accent); margin-bottom: 10px;">3</div>
     <strong>Légal</strong><br /><span class="fs-2">Mentions & QR</span>
   </div>
   <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: #28a745; margin-bottom: 10px;">4</div>
+    <div style="font-size: 24px; font-weight: bold; color: var(--gi-tint-green-text); margin-bottom: 10px;">4</div>
     <strong class="text-green-200">Validation</strong><br /><span class="fs-2">BAT Numérique</span>
   </div>
 </div>
-<div class="p-3 mb-6 bg-yellow-000 border rounded-1" style="border-color: #f2cc60;">
+<div class="p-3 mb-6 bg-yellow-000 border rounded-1" style="border-color: var(--gi-tint-yellow-text);">
   <strong>⚠️ Important :</strong> Aucun contenu n’est soumis à un distributeur sans la validation préalable de getinside via la plateforme.
 </div>
 <h2 class="text-grey-dk-000 mb-4">📥 Ressources à télécharger</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
   <!-- LIEN INSPIRATIONS -->
-  <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit?slide=id.g2985b8a2c53_1_57#slide=id.g2985b8a2c53_1_57" target="_blank" class="btn btn-outline" style="text-align: left; border-color: #2d6fd6; color: #2d6fd6;">
+  <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit?slide=id.g2985b8a2c53_1_57#slide=id.g2985b8a2c53_1_57" target="_blank" class="btn btn-outline" style="text-align: left; border-color: var(--gi-accent); color: var(--gi-accent);">
     ✨ <strong>Exemples & Inspirations</strong> <span class="fs-2">(Google Slides)</span>
   </a>
   <!-- LIEN GABARITS -->

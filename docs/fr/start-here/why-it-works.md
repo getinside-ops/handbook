@@ -41,25 +41,25 @@ flowchart TD
       <li><strong>L'Attention :</strong> Il attend ce contenu (suivi de commande, nouveautés).</li>
     </ul>
   </div>
-  <div style="flex: 1; min-width: 300px; background-color: #eff6ff; border: 2px solid #2563eb; border-radius: 8px; padding: 24px;">
+  <div style="flex: 1; min-width: 300px; background: var(--gi-tint-blue-bg); border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-purple-200">L'Effet de Halo</h3>
     <p class="mb-0">En vous insérant dans cet écosystème, votre marque bénéficie instantanément de ce capital confiance. Vous n'êtes plus un intrus, vous êtes un <strong>partenaire recommandé</strong>.</p>
   </div>
 </div>
 <h2 class="text-green-200 mb-4">Pour l'E-commerçant : La logique économique</h2>
-<div style="border: 1px solid #2da44e; border-radius: 8px; padding: 24px; background: #f0fcf4; margin-bottom: 40px;">
+<div style="border: 1px solid var(--gi-tint-green-text); border-radius: 8px; padding: 24px; background: var(--gi-tint-green-bg); margin-bottom: 40px;">
   <h3 class="mt-0 text-green-200">Le cercle vertueux du Réinvestissement</h3>
   <p class="fs-4">getinside n'est pas seulement une régie, c'est un accélérateur de croissance.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 20px;">
-    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
+    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid var(--gi-tint-green-border);">
       <strong>1. Monétisation</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Vos colis et emails génèrent du cash grâce aux annonceurs tiers.</p>
     </div>
-    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
+    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid var(--gi-tint-green-border);">
       <strong>2. Transfert Instantané</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Vos revenus sont disponibles sur votre Wallet. Pas besoin d'attendre un virement bancaire.</p>
     </div>
-    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
+    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid var(--gi-tint-green-border);">
       <strong>3. Acquisition</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
   </div>
@@ -74,7 +74,7 @@ flowchart TD
 </div>
 <!-- REMPLACEMENT DU TABLEAU PAR UNE GRILLE FLEX (Plus robuste) -->
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px; background: #f0fcf4; border: 1px solid #2da44e; padding: 20px; border-radius: 8px;">
+  <div style="display: flex; align-items: center; gap: 20px; background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 20px; border-radius: 8px;">
     <div style="font-size: 30px; min-width: 40px;">📦</div>
     <div style="flex: 1;">
       <strong>Asile Colis</strong>
@@ -129,7 +129,7 @@ flowchart TD
       La puissance de getinside réside dans la <strong>cohérence contextuelle</strong>. 
       Nous proposons des <strong>offres complémentaires</strong> au moment précis où le consommateur en a besoin.
     </p>
-    <div style="background: var(--vp-c-bg-elv); border-left: 4px solid #2563eb; padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="background: var(--vp-c-bg-elv); border-left: 4px solid var(--gi-accent); padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
         <!-- ITEM 1 -->
         <div class="mb-3">
           <div style="display: flex; align-items: baseline;">
@@ -176,7 +176,7 @@ flowchart TD
         </div>
     </div>
   </div>
-  <div style="flex: 1; min-width: 260px; background: #eff6ff; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
+  <div style="flex: 1; min-width: 260px; background: var(--gi-tint-blue-bg); border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
     <div style="text-align: center; margin-bottom: 20px;">
       <span style="font-size: 40px;">🎯</span>
       <h4 class="text-purple-200 mt-2 mb-0">Ciblage Data Granulaire</h4>

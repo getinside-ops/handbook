@@ -8,7 +8,7 @@ getinside est une plateforme en libre-service conçue pour maximiser votre ROI.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-top: 40px;">
   <!-- BOX COMMISSION -->
-  <div style="border: 2px solid #2d6fd6; border-radius: 8px; padding: 30px; background-color: var(--vp-c-bg-soft);">
+  <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 30px; background-color: var(--vp-c-bg-soft);">
     <h2 class="text-blue-200 mt-0">Frais de Plateforme</h2>
     <div class="fs-10 fw-700 text-blue-200 mb-2">12% <span class="fs-4 text-grey-dk-000 fw-300">du budget média investi</span></div>
     <p class="fs-4">Notre modèle économique est simple et transparent.</p>

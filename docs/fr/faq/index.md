@@ -17,7 +17,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
         <h3 class="mt-0 mb-1 fs-5">Compte & Audiences</h3>
         <p class="mb-0 fs-3 text-grey-dk-000">Gestion des utilisateurs, création d'audiences, affiliation et catalogue.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
     </div>
   </a>
   <!-- LIEN 2 : CAMPAGNES -->
@@ -28,7 +28,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
         <h3 class="mt-0 mb-1 fs-5">Gestion des Campagnes</h3>
         <p class="mb-0 fs-3 text-grey-dk-000">Validation, annulation, retards et suivi opérationnel.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
     </div>
   </a>
   <!-- LIEN 3 : FACTURATION -->
@@ -39,7 +39,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
         <h3 class="mt-0 mb-1 fs-5">Facturation & Paiements</h3>
         <p class="mb-0 fs-3 text-grey-dk-000">Édition de factures, retraits et délais de paiement.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
     </div>
   </a>
   <!-- LIEN 4 : LOGISTIQUE -->
@@ -50,7 +50,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
         <h3 class="mt-0 mb-1 fs-5">Logistique & Technique</h3>
         <p class="mb-0 fs-3 text-grey-dk-000">Livraisons, impression RSE, tracking et RGPD.</p>
       </div>
-      <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
+      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
     </div>
   </a>
 </div>
