@@ -36,7 +36,7 @@ export default withMermaid(
 
     themeConfig: {
       logo: { src: '/images/logo-getinside.svg', alt: 'getinside' },
-      siteTitle: 'getinside Handbook',
+      siteTitle: false,
 
       search: {
         provider: 'local',

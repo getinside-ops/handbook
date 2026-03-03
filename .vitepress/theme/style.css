@@ -58,6 +58,52 @@
 }
 
 /* ============================================================
+   1b. DARK MODE TOKENS
+   ============================================================ */
+.dark {
+  /* Brand — lighter blue on dark */
+  --vp-c-brand-1: #60a5fa;
+  --vp-c-brand-2: #3b82f6;
+  --vp-c-brand-3: #93c5fd;
+  --vp-c-brand-soft: rgba(96, 165, 250, 0.15);
+
+  /* Text */
+  --vp-c-text-1: #e2e8f0;
+  --vp-c-text-2: #94a3b8;
+  --vp-c-text-3: #64748b;
+
+  /* Backgrounds */
+  --vp-c-bg:      #0f172a;
+  --vp-c-bg-soft: #1e293b;
+  --vp-c-bg-mute: #334155;
+  --vp-c-bg-elv:  #1e293b;
+  --vp-c-bg-alt:  #1e293b;
+
+  /* Borders */
+  --vp-c-divider: #334155;
+  --vp-c-border:  #334155;
+  --vp-c-gutter:  #1e293b;
+
+  /* Nav & Sidebar */
+  --vp-nav-bg-color:     rgba(15, 23, 42, 0.95);
+  --vp-sidebar-bg-color: #0f172a;
+
+  /* Code */
+  --vp-code-block-bg: #1e293b;
+  --vp-code-color:    #93c5fd;
+  --vp-code-bg:       rgba(96, 165, 250, 0.12);
+
+  /* Custom aliases */
+  --gi-accent:       #60a5fa;
+  --gi-accent-hover: #3b82f6;
+  --gi-accent-light: rgba(96, 165, 250, 0.12);
+  --gi-text:         #e2e8f0;
+  --gi-text-muted:   #94a3b8;
+  --gi-border:       #334155;
+  --gi-surface:      #1e293b;
+}
+
+/* ============================================================
    2. BASE / BODY
    ============================================================ */
 body {
@@ -71,7 +117,7 @@ body {
    3. NAVIGATION BAR
    ============================================================ */
 .VPNav {
-  background: rgba(255, 255, 255, 0.95) !important;
+  background: var(--vp-nav-bg-color) !important;
   backdrop-filter: blur(8px) !important;
   -webkit-backdrop-filter: blur(8px) !important;
   border-bottom: 1px solid var(--vp-c-divider) !important;
@@ -162,14 +208,14 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   padding: 10px 14px;
-  border: 1px solid #dbeafe;
+  border: 1px solid var(--gi-accent-light);
 }
 .vp-doc tbody tr {
-  background: #ffffff;
+  background: var(--vp-c-bg-elv);
   transition: background 0.15s ease;
 }
 .vp-doc tbody tr:hover {
-  background: #f8faff;
+  background: var(--vp-c-bg-soft);
 }
 .vp-doc tbody td {
   padding: 9px 14px;
@@ -209,7 +255,7 @@ body {
    6. CUSTOM CARD CLASS (.gi-card) — used in index.md and pages
    ============================================================ */
 .gi-card {
-  background: #ffffff;
+  background: var(--vp-c-bg-elv);
   border: 1px solid var(--gi-border);
   border-radius: 10px;
   padding: 24px;
@@ -244,7 +290,7 @@ body {
   line-height: 1.4;
   border-radius: 7px;
   border: 1.5px solid var(--gi-border);
-  background: #ffffff;
+  background: var(--vp-c-bg-elv);
   color: var(--gi-text);
   text-decoration: none !important;
   cursor: pointer;
@@ -424,6 +470,32 @@ body {
 .gi-callout.warning { background: #fffbeb; border-color: #f59e0b; color: #78350f; }
 .gi-callout.danger  { background: #fff1f2; border-color: #f43f5e; color: #881337; }
 .gi-callout p:last-child { margin-bottom: 0; }
+
+/* ============================================================
+   17b. DARK MODE — component overrides for hardcoded colors
+   ============================================================ */
+.dark .vp-doc :not(pre) > code {
+  background: var(--gi-accent-light) !important;
+  color: #93c5fd !important;
+  border-color: rgba(96, 165, 250, 0.25) !important;
+}
+
+.dark .vp-doc blockquote {
+  background: rgba(96, 165, 250, 0.08);
+  color: var(--gi-text);
+}
+.dark .vp-doc blockquote p { color: var(--gi-text); }
+
+.dark .gi-callout.info    { background: rgba(96, 165, 250, 0.12); color: #bfdbfe; }
+.dark .gi-callout.success { background: rgba(16, 185, 129, 0.12); color: #a7f3d0; }
+.dark .gi-callout.warning { background: rgba(245, 158, 11, 0.12); color: #fde68a; }
+.dark .gi-callout.danger  { background: rgba(244, 63, 94, 0.12);  color: #fecdd3; }
+
+.dark .label          { background: var(--gi-accent-light); color: var(--gi-accent); }
+.dark .label-blue     { background: rgba(37, 99, 235, 0.15);  color: #93c5fd; }
+.dark .label-green    { background: rgba(5, 150, 105, 0.15);  color: #6ee7b7; }
+.dark .label-yellow   { background: rgba(217, 119, 6, 0.15);  color: #fde68a; }
+.dark .label-red      { background: rgba(220, 38, 38, 0.15);  color: #fca5a5; }
 
 /* ============================================================
    18. SCROLLBAR — thin accent-tinted
