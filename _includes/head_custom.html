@@ -234,15 +234,22 @@ body, html {
    6. HEADER BARS — full-width frosted glass strip
    ============================================================ */
 
-/* Mobile top bar */
+/* Sidebar top bar (logo) — identical glass to page-header so they read
+   as one continuous strip across the full viewport width */
 .site-header {
   background: var(--gi-glass-bg) !important;
   backdrop-filter: var(--gi-blur-sidebar) !important;
   -webkit-backdrop-filter: var(--gi-blur-sidebar) !important;
   border-bottom: 1px solid var(--gi-glass-border) !important;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.05) !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 200 !important;
 }
 
-/* Desktop header: fixed full-width, left 264px reserved for sidebar */
+/* Desktop header: sticky within the content column.
+   The sidebar's .site-header has identical glass styling → together they
+   look like one full-width bar without stacking-context conflicts. */
 .page-header,
 #main-header,
 .main-header {
@@ -251,17 +258,15 @@ body, html {
   -webkit-backdrop-filter: var(--gi-blur-sidebar) !important;
   border-bottom: 1px solid var(--gi-glass-border) !important;
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.05) !important;
-  position: fixed !important;
+  position: sticky !important;
   top: 0 !important;
-  left: 0 !important;
-  right: 0 !important;
-  z-index: 500 !important;
-  padding-left: 264px !important;
-  box-sizing: border-box !important;
+  z-index: 200 !important;
 }
 
-/* Compensate for header leaving the document flow */
-.main-content-wrap { padding-top: 60px !important; }
+/* Search results must float above the page content */
+.search-results {
+  z-index: 300 !important;
+}
 
 
 /* ============================================================
