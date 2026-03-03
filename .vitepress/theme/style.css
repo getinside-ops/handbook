@@ -4,308 +4,105 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
 /* ============================================================
-   1. VitePress DESIGN TOKEN OVERRIDES
+   1. FONT + CUSTOM TOKEN ALIASES
+   — All --vp-c-* brand/bg/text tokens are left at VitePress
+     defaults so dark/light mode works natively.
    ============================================================ */
 :root {
-  /* Brand — blue-600 / slate palette */
-  --vp-c-brand-1: #2563eb;
-  --vp-c-brand-2: #1d4ed8;
-  --vp-c-brand-3: #3b82f6;
-  --vp-c-brand-soft: rgba(37, 99, 235, 0.10);
-
-  /* Text */
-  --vp-c-text-1: #1e293b;
-  --vp-c-text-2: #475569;
-  --vp-c-text-3: #64748b;
-
-  /* Backgrounds */
-  --vp-c-bg:         #f6f6f7;
-  --vp-c-bg-soft:    #f1f5f9;
-  --vp-c-bg-mute:    #e2e8f0;
-  --vp-c-bg-elv:     #ffffff;
-  --vp-c-bg-alt:     #f1f5f9;
-
-  /* Borders & dividers */
-  --vp-c-divider: #e2e8f0;
-  --vp-c-border:  #e2e8f0;
-  --vp-c-gutter:  #e2e8f0;
-
-  /* Nav */
-  --vp-nav-bg-color: rgba(255, 255, 255, 0.95);
-  --vp-nav-height:   64px;
-
-  /* Sidebar */
-  --vp-sidebar-bg-color: #f6f6f7;
-  --vp-sidebar-width:    272px;
-
-  /* Code blocks */
-  --vp-code-block-bg:       #f1f5f9;
-  --vp-code-color:          #2563eb;
-  --vp-code-bg:             #eff6ff;
-  --vp-code-line-highlight-color: rgba(37, 99, 235, 0.05);
-
-  /* Typography */
+  /* Use Inter as the base font */
   --vp-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
 
-  /* Custom aliases used in content */
-  --gi-accent:       #2563eb;
-  --gi-accent-hover: #1d4ed8;
-  --gi-accent-light: #eff6ff;
-  --gi-text:         #1e293b;
-  --gi-text-muted:   #64748b;
-  --gi-border:       #e2e8f0;
-  --gi-surface:      #ffffff;
+  /* gi-* are thin aliases over VitePress native vars so content
+     files (.md inline styles) automatically adapt to dark mode. */
+  --gi-accent:       var(--vp-c-brand-1);
+  --gi-accent-hover: var(--vp-c-brand-2);
+  --gi-accent-light: var(--vp-c-brand-soft);
+  --gi-text:         var(--vp-c-text-1);
+  --gi-text-muted:   var(--vp-c-text-2);
+  --gi-border:       var(--vp-c-divider);
+  --gi-surface:      var(--vp-c-bg-elv);
 
-  /* Semantic tint tokens — badge / highlight colours */
+  /* Semantic tint tokens used in content (light mode) */
   --gi-tint-blue-bg:      #eff6ff;
   --gi-tint-blue-text:    #2563eb;
   --gi-tint-blue-border:  #dbeafe;
   --gi-tint-green-bg:     #f0fdf4;
-  --gi-tint-green-text:   #2da44e;
+  --gi-tint-green-text:   #059669;
   --gi-tint-green-border: #ccf3df;
   --gi-tint-yellow-bg:    #fff9e6;
-  --gi-tint-yellow-text:  #bf8700;
+  --gi-tint-yellow-text:  #d97706;
   --gi-tint-red-bg:       #fff5f5;
-  --gi-tint-red-text:     #d73a49;
+  --gi-tint-red-text:     #dc2626;
   --gi-tint-red-border:   #fecdd3;
   --gi-tint-purple-bg:    #f3e5f5;
   --gi-tint-purple-text:  #7b1fa2;
 }
 
-/* ============================================================
-   1b. DARK MODE TOKENS
-   ============================================================ */
+/* Semantic tint tokens — dark mode overrides */
 .dark {
-  /* Brand — lighter blue on dark */
-  --vp-c-brand-1: #60a5fa;
-  --vp-c-brand-2: #3b82f6;
-  --vp-c-brand-3: #93c5fd;
-  --vp-c-brand-soft: rgba(96, 165, 250, 0.15);
-
-  /* Text */
-  --vp-c-text-1: #e2e8f0;
-  --vp-c-text-2: #94a3b8;
-  --vp-c-text-3: #64748b;
-
-  /* Backgrounds */
-  --vp-c-bg:      #0f172a;
-  --vp-c-bg-soft: #1e293b;
-  --vp-c-bg-mute: #334155;
-  --vp-c-bg-elv:  #1e293b;
-  --vp-c-bg-alt:  #1e293b;
-
-  /* Borders */
-  --vp-c-divider: #334155;
-  --vp-c-border:  #334155;
-  --vp-c-gutter:  #1e293b;
-
-  /* Nav & Sidebar */
-  --vp-nav-bg-color:     rgba(15, 23, 42, 0.95);
-  --vp-sidebar-bg-color: #0f172a;
-
-  /* Code */
-  --vp-code-block-bg: #1e293b;
-  --vp-code-color:    #93c5fd;
-  --vp-code-bg:       rgba(96, 165, 250, 0.12);
-
-  /* Custom aliases */
-  --gi-accent:       #60a5fa;
-  --gi-accent-hover: #3b82f6;
-  --gi-accent-light: rgba(96, 165, 250, 0.12);
-  --gi-text:         #e2e8f0;
-  --gi-text-muted:   #94a3b8;
-  --gi-border:       #334155;
-  --gi-surface:      #1e293b;
-
-  /* Semantic tint tokens — dark mode */
   --gi-tint-blue-bg:      rgba(96, 165, 250, 0.12);
   --gi-tint-blue-text:    #93c5fd;
   --gi-tint-blue-border:  rgba(96, 165, 250, 0.25);
-  --gi-tint-green-bg:     rgba(45, 164, 78, 0.12);
+  --gi-tint-green-bg:     rgba(16, 185, 129, 0.12);
   --gi-tint-green-text:   #6ee7b7;
-  --gi-tint-green-border: rgba(45, 164, 78, 0.25);
+  --gi-tint-green-border: rgba(16, 185, 129, 0.25);
   --gi-tint-yellow-bg:    rgba(217, 119, 6, 0.12);
   --gi-tint-yellow-text:  #fde68a;
-  --gi-tint-red-bg:       rgba(215, 58, 73, 0.12);
+  --gi-tint-red-bg:       rgba(220, 38, 38, 0.12);
   --gi-tint-red-text:     #fca5a5;
-  --gi-tint-red-border:   rgba(215, 58, 73, 0.25);
-  --gi-tint-purple-bg:    rgba(123, 31, 162, 0.12);
+  --gi-tint-red-border:   rgba(220, 38, 38, 0.25);
+  --gi-tint-purple-bg:    rgba(139, 92, 246, 0.12);
   --gi-tint-purple-text:  #e9d5ff;
 }
 
 /* ============================================================
-   2. BASE / BODY
+   2. LOGO — black in light mode, white in dark mode
    ============================================================ */
-body {
-  font-family: var(--vp-font-family-base) !important;
-  background-color: var(--vp-c-bg) !important;
-  color: var(--vp-c-text-1) !important;
-  -webkit-font-smoothing: antialiased;
-}
-
-/* ============================================================
-   3. NAVIGATION BAR
-   ============================================================ */
-.VPNav {
-  background: var(--vp-nav-bg-color) !important;
-  backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
-  border-bottom: 1px solid var(--vp-c-divider) !important;
-}
-
-/* Logo: dark charcoal in light mode, pure white in dark mode */
 .VPImage.logo {
-  filter: brightness(0);          /* → pure black */
+  filter: brightness(0);
 }
 .dark .VPImage.logo {
-  filter: brightness(0) invert(1); /* → pure white */
-}
-
-.VPNavBar .title {
-  font-weight: 700 !important;
-  letter-spacing: -0.02em !important;
+  filter: brightness(0) invert(1);
 }
 
 /* ============================================================
-   4. SIDEBAR
+   3. HOVER TILES — CSS-only, dark-mode-safe
+      Replace all onmouseover/onmouseout JS in content files.
    ============================================================ */
-.VPSidebar {
-  background: var(--vp-sidebar-bg-color) !important;
-  border-right: 1px solid var(--vp-c-divider) !important;
+/* gi-tile: background + border-color change on hover */
+.gi-tile {
+  transition: background 0.2s, border-color 0.2s !important;
+}
+.gi-tile:hover {
+  background: var(--vp-c-bg-soft) !important;
+  border-color: var(--vp-c-brand-1) !important;
 }
 
-.VPSidebarItem .text {
-  font-size: 0.875rem !important;
+/* gi-tile-lift: translateY lift on hover (no background change) */
+.gi-tile-lift {
+  transition: transform 0.2s !important;
 }
-
-/* Active nav item */
-.VPSidebarItem.is-active > .item > .VPLink > .text,
-.VPSidebarItem.is-active > .item > .text {
-  color: var(--gi-accent) !important;
-  font-weight: 600 !important;
-}
-
-/* ============================================================
-   5. CONTENT AREA
-   ============================================================ */
-.vp-doc {
-  max-width: 860px;
-}
-
-.vp-doc h1 {
-  font-size: 2.25rem;
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  line-height: 1.2;
-  color: var(--gi-text);
-  margin-bottom: 0.5rem;
-}
-
-.vp-doc h2 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  border-top: 1px solid var(--vp-c-divider);
-  margin-top: 2.5rem;
-  padding-top: 1.25rem;
-  color: var(--gi-text);
-}
-
-.vp-doc h3 {
-  font-size: 1.125rem;
-  font-weight: 600;
-  color: var(--gi-text);
-}
-
-.vp-doc a {
-  color: var(--gi-accent);
-  text-decoration: underline;
-  text-decoration-color: rgba(37, 99, 235, 0.35);
-  text-underline-offset: 2px;
-  transition: color 0.15s ease, text-decoration-color 0.15s ease;
-}
-.vp-doc a:hover {
-  color: var(--gi-accent-hover);
-  text-decoration-color: var(--gi-accent-hover);
-}
-
-/* Tables */
-.vp-doc table {
-  display: table;
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.875rem;
-}
-.vp-doc thead tr {
-  background: var(--gi-accent-light);
-}
-.vp-doc thead th {
-  color: var(--gi-accent-hover);
-  font-weight: 600;
-  font-size: 0.8125rem;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  padding: 10px 14px;
-  border: 1px solid var(--gi-accent-light);
-}
-.vp-doc tbody tr {
-  background: var(--vp-c-bg-elv);
-  transition: background 0.15s ease;
-}
-.vp-doc tbody tr:hover {
-  background: var(--vp-c-bg-soft);
-}
-.vp-doc tbody td {
-  padding: 9px 14px;
-  border: 1px solid var(--vp-c-divider);
-  vertical-align: top;
-}
-
-/* Inline code */
-.vp-doc :not(pre) > code {
-  background: var(--gi-accent-light) !important;
-  color: #1d4ed8 !important;
-  border: 1px solid rgba(37, 99, 235, 0.18) !important;
-  border-radius: 4px;
-  padding: 2px 6px;
-  font-size: 0.85em;
-}
-
-/* Code blocks */
-.vp-doc div[class*='language-'] {
-  background: var(--vp-code-block-bg) !important;
-  border: 1px solid var(--vp-c-divider);
-}
-
-/* Blockquote */
-.vp-doc blockquote {
-  border-left: 4px solid var(--gi-accent);
-  background: var(--gi-accent-light);
-  padding: 12px 18px;
-  border-radius: 0 6px 6px 0;
-  color: var(--gi-text);
-}
-.vp-doc blockquote p {
-  color: var(--gi-text);
+.gi-tile-lift:hover {
+  transform: translateY(-2px) !important;
 }
 
 /* ============================================================
-   6. CUSTOM CARD CLASS (.gi-card) — used in index.md and pages
+   4. CARD CLASS (.gi-card) — used in index pages
    ============================================================ */
 .gi-card {
   background: var(--vp-c-bg-elv);
-  border: 1px solid var(--gi-border);
+  border: 1px solid var(--vp-c-divider);
   border-radius: 10px;
   padding: 24px;
   display: flex;
   flex-direction: column;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+  transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
 }
 .gi-card:hover {
-  box-shadow: 0 4px 16px rgba(37, 99, 235, 0.12);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
   transform: translateY(-2px);
-  border-color: rgba(37, 99, 235, 0.25);
+  border-color: var(--vp-c-brand-1);
 }
 .gi-card h2,
 .gi-card h3,
@@ -316,7 +113,7 @@ body {
 }
 
 /* ============================================================
-   7. BUTTON CLASSES — .btn, .btn-primary, .btn-outline, .btn-sm
+   5. BUTTON CLASSES — .btn, .btn-primary, .btn-outline, .btn-sm
    ============================================================ */
 .btn {
   display: inline-flex;
@@ -327,43 +124,42 @@ body {
   font-weight: 500;
   line-height: 1.4;
   border-radius: 7px;
-  border: 1.5px solid var(--gi-border);
+  border: 1.5px solid var(--vp-c-divider);
   background: var(--vp-c-bg-elv);
-  color: var(--gi-text);
+  color: var(--vp-c-text-1);
   text-decoration: none !important;
   cursor: pointer;
-  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+  transition: background 0.15s, border-color 0.15s, color 0.15s, transform 0.15s;
   white-space: nowrap;
 }
 .btn:hover {
-  background: var(--gi-accent-light);
-  border-color: var(--gi-accent);
-  color: var(--gi-accent);
+  background: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
   transform: translateY(-1px);
 }
 
 .btn-primary {
-  background: var(--gi-accent) !important;
-  border-color: var(--gi-accent) !important;
-  color: #ffffff !important;
-  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25) !important;
+  background: var(--vp-c-brand-1) !important;
+  border-color: var(--vp-c-brand-1) !important;
+  color: var(--vp-c-white) !important;
 }
 .btn-primary:hover {
-  background: var(--gi-accent-hover) !important;
-  border-color: var(--gi-accent-hover) !important;
-  color: #ffffff !important;
-  box-shadow: 0 4px 16px rgba(37, 99, 235, 0.35) !important;
+  background: var(--vp-c-brand-2) !important;
+  border-color: var(--vp-c-brand-2) !important;
+  color: var(--vp-c-white) !important;
+  transform: translateY(-1px);
 }
 
 .btn-outline {
   background: transparent !important;
-  border-color: var(--gi-border) !important;
-  color: var(--gi-accent) !important;
+  border-color: var(--vp-c-divider) !important;
+  color: var(--vp-c-brand-1) !important;
 }
 .btn-outline:hover {
-  background: var(--gi-accent-light) !important;
-  border-color: var(--gi-accent) !important;
-  color: var(--gi-accent-hover) !important;
+  background: var(--vp-c-brand-soft) !important;
+  border-color: var(--vp-c-brand-1) !important;
+  color: var(--vp-c-brand-1) !important;
 }
 
 .btn-sm {
@@ -377,18 +173,68 @@ body {
 }
 
 /* ============================================================
+   6. CALLOUT CLASSES (.gi-callout)
+   ============================================================ */
+.gi-callout {
+  padding: 14px 18px;
+  border-radius: 7px;
+  margin: 18px 0;
+  border-left: 4px solid;
+}
+.gi-callout.info {
+  background: var(--gi-tint-blue-bg);
+  border-color: var(--gi-tint-blue-text);
+  color: var(--gi-tint-blue-text);
+}
+.gi-callout.success {
+  background: var(--gi-tint-green-bg);
+  border-color: var(--gi-tint-green-text);
+  color: var(--gi-tint-green-text);
+}
+.gi-callout.warning {
+  background: var(--gi-tint-yellow-bg);
+  border-color: var(--gi-tint-yellow-text);
+  color: var(--gi-tint-yellow-text);
+}
+.gi-callout.danger {
+  background: var(--gi-tint-red-bg);
+  border-color: var(--gi-tint-red-text);
+  color: var(--gi-tint-red-text);
+}
+.gi-callout p:last-child { margin-bottom: 0; }
+
+/* ============================================================
+   7. LABEL / BADGE
+   ============================================================ */
+.label {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  border-radius: 5px;
+  letter-spacing: 0.02em;
+}
+.label-blue   { background: var(--gi-tint-blue-bg);   color: var(--gi-tint-blue-text); }
+.label-green  { background: var(--gi-tint-green-bg);  color: var(--gi-tint-green-text); }
+.label-yellow { background: var(--gi-tint-yellow-bg); color: var(--gi-tint-yellow-text); }
+.label-red    { background: var(--gi-tint-red-bg);    color: var(--gi-tint-red-text); }
+
+/* ============================================================
    8. JTD UTILITY CLASSES — text colors
    ============================================================ */
 .text-purple-200,
-.text-purple-100  { color: var(--gi-accent) !important; }
-.text-blue-200    { color: #2563eb !important; }
-.text-green-200   { color: #059669 !important; }
+.text-purple-100  { color: var(--vp-c-brand-1) !important; }
+.text-blue-200    { color: var(--gi-tint-blue-text) !important; }
+.text-green-200   { color: var(--gi-tint-green-text) !important; }
 .text-grey-dk-000,
 .text-grey-dk-100,
 .text-grey-dk-200,
-.text-grey-lt-000 { color: var(--gi-text-muted) !important; }
-.text-red-100     { color: #dc2626 !important; }
-.text-yellow-200  { color: #d97706 !important; }
+.text-grey-lt-000 { color: var(--vp-c-text-2) !important; }
+.text-red-100,
+.text-red-200     { color: var(--gi-tint-red-text) !important; }
+.text-yellow-200  { color: var(--gi-tint-yellow-text) !important; }
 
 /* ============================================================
    9. JTD UTILITY CLASSES — font sizes (JTD scale)
@@ -422,9 +268,8 @@ body {
 .flex-column   { flex-direction: column !important; }
 
 /* ============================================================
-   12. JTD UTILITY CLASSES — spacing (margin/padding)
+   12. JTD UTILITY CLASSES — spacing
    ============================================================ */
-/* Margin bottom */
 .mb-0 { margin-bottom: 0 !important; }
 .mb-1 { margin-bottom: 4px !important; }
 .mb-2 { margin-bottom: 8px !important; }
@@ -433,7 +278,6 @@ body {
 .mb-5 { margin-bottom: 32px !important; }
 .mb-6 { margin-bottom: 48px !important; }
 
-/* Margin top */
 .mt-0 { margin-top: 0 !important; }
 .mt-1 { margin-top: 4px !important; }
 .mt-2 { margin-top: 8px !important; }
@@ -442,125 +286,40 @@ body {
 .mt-5 { margin-top: 32px !important; }
 .mt-6 { margin-top: 48px !important; }
 
-/* Margin right / left */
 .mr-2 { margin-right: 8px !important; }
 .mr-4 { margin-right: 16px !important; }
 .ml-2 { margin-left: 8px !important; }
 .ml-4 { margin-left: 16px !important; }
 
-/* Padding */
 .pt-4 { padding-top: 24px !important; }
 .pb-4 { padding-bottom: 24px !important; }
 .pl-4 { padding-left: 24px !important; }
 .pr-4 { padding-right: 24px !important; }
 
 /* ============================================================
-   13. JTD UTILITY CLASSES — text transforms & decoration
+   13. JTD UTILITY CLASSES — text & borders
    ============================================================ */
 .text-uppercase { text-transform: uppercase !important; }
 .text-left      { text-align: left !important; }
 .text-center    { text-align: center !important; }
 .no-underline   { text-decoration: none !important; }
 
-/* ============================================================
-   14. JTD UTILITY CLASSES — borders
-   ============================================================ */
 .border-top    { border-top: 1px solid var(--vp-c-divider) !important; }
 .border-bottom { border-bottom: 1px solid var(--vp-c-divider) !important; }
 
 /* ============================================================
-   15. JTD UTILITY CLASSES — background utilities
+   14. JTD bg-grey-lt-000 utility
    ============================================================ */
 .bg-grey-lt-000 {
-  background: var(--gi-accent-light) !important;
+  background: var(--vp-c-bg-soft) !important;
   border-radius: 6px;
 }
 
 /* ============================================================
-   16. LABEL / BADGE
-   ============================================================ */
-.label {
-  display: inline-block;
-  padding: 2px 8px;
-  font-size: 0.75rem;
-  font-weight: 600;
-  background: var(--gi-accent-light);
-  color: var(--gi-accent);
-  border-radius: 5px;
-  letter-spacing: 0.02em;
-}
-.label-blue   { background: #eff6ff; color: #2563eb; }
-.label-green  { background: #f0fdf4; color: #059669; }
-.label-yellow { background: #fefce8; color: #d97706; }
-.label-red    { background: #fff1f2; color: #dc2626; }
-
-/* ============================================================
-   17. CUSTOM CALLOUT CLASSES
-   ============================================================ */
-.gi-callout {
-  padding: 14px 18px;
-  border-radius: 7px;
-  margin: 18px 0;
-  border-left: 4px solid;
-}
-.gi-callout.info    { background: #eff6ff; border-color: #2563eb; color: #1e3a6e; }
-.gi-callout.success { background: #f0fdf4; border-color: #10b981; color: #065f46; }
-.gi-callout.warning { background: #fffbeb; border-color: #f59e0b; color: #78350f; }
-.gi-callout.danger  { background: #fff1f2; border-color: #f43f5e; color: #881337; }
-.gi-callout p:last-child { margin-bottom: 0; }
-
-/* ============================================================
-   17b. DARK MODE — component overrides for hardcoded colors
-   ============================================================ */
-.dark .vp-doc :not(pre) > code {
-  background: var(--gi-accent-light) !important;
-  color: #93c5fd !important;
-  border-color: rgba(96, 165, 250, 0.25) !important;
-}
-
-.dark .vp-doc blockquote {
-  background: rgba(96, 165, 250, 0.08);
-  color: var(--gi-text);
-}
-.dark .vp-doc blockquote p { color: var(--gi-text); }
-
-.dark .gi-callout.info    { background: rgba(96, 165, 250, 0.12); color: #bfdbfe; }
-.dark .gi-callout.success { background: rgba(16, 185, 129, 0.12); color: #a7f3d0; }
-.dark .gi-callout.warning { background: rgba(245, 158, 11, 0.12); color: #fde68a; }
-.dark .gi-callout.danger  { background: rgba(244, 63, 94, 0.12);  color: #fecdd3; }
-
-.dark .label          { background: var(--gi-accent-light); color: var(--gi-accent); }
-.dark .label-blue     { background: rgba(37, 99, 235, 0.15);  color: #93c5fd; }
-.dark .label-green    { background: rgba(5, 150, 105, 0.15);  color: #6ee7b7; }
-.dark .label-yellow   { background: rgba(217, 119, 6, 0.15);  color: #fde68a; }
-.dark .label-red      { background: rgba(220, 38, 38, 0.15);  color: #fca5a5; }
-
-/* ============================================================
-   18. SCROLLBAR — thin accent-tinted
-   ============================================================ */
-::-webkit-scrollbar       { width: 5px; height: 5px; }
-::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb {
-  background: rgba(37, 99, 235, 0.25);
-  border-radius: 10px;
-}
-::-webkit-scrollbar-thumb:hover { background: rgba(37, 99, 235, 0.45); }
-
-/* ============================================================
-   19. HOME PAGE (index.md) ADJUSTMENTS
-   ============================================================ */
-/* Remove the default VitePress home page styles on the root index */
-.VPContent:has(.vp-doc) hr {
-  border-color: var(--vp-c-divider);
-  margin: 2rem 0;
-}
-
-/* ============================================================
-   20. PRINT
+   15. PRINT
    ============================================================ */
 @media print {
   .VPNav, .VPSidebar, .VPDocFooter { display: none !important; }
   .VPContent { margin: 0 !important; padding: 0 !important; }
   .vp-doc { max-width: 100% !important; }
-  body { background: #fff !important; color: #000 !important; }
 }

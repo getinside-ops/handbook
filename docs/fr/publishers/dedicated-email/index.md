@@ -42,7 +42,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
 <h2 class="text-grey-dk-000 mb-4">Le Processus de Création</h2>
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
   <a href="1-design" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🎨</div>
       <div>
         <h3 class="mt-0 mb-2">1. Création & Design</h3>
@@ -52,7 +52,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
     </div>
   </a>
   <a href="2-tracking-sending" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🚀</div>
       <div>
         <h3 class="mt-0 mb-2">2. Tracking & Envoi</h3>

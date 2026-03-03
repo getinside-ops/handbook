@@ -16,7 +16,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
   <!-- ONBOARDING -->
   <a href="onboarding-process" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🚀</div>
       <div>
         <h3 class="mt-0 mb-1 fs-4">Guide de Démarrage</h3>
@@ -27,7 +27,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
   <!-- AUDIENCE -->
   <a href="audience-setup" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🎯</div>
       <div>
         <h3 class="mt-0 mb-1 fs-4">Audience & Score</h3>
@@ -38,7 +38,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
   <!-- AFFILIATION -->
   <a href="affiliation" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🤝</div>
       <div>
         <h3 class="mt-0 mb-1 fs-4">Affiliation</h3>
@@ -53,7 +53,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;">
   <!-- ASILE COLIS -->
   <a href="sponsored-mail/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">📦</div>
       <div class="fs-4 fw-700 mb-2">Asile Colis</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Réception, insertion en entrepôt et reporting.</p>
@@ -61,7 +61,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
   <!-- EMAILING -->
   <a href="dedicated-email/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">📧</div>
       <div class="fs-4 fw-700 mb-2">Emailing Dédié</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Création, endorsement et tracking.</p>
@@ -69,7 +69,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
   <!-- ENCART -->
   <a href="display-email/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">🖼️</div>
       <div class="fs-4 fw-700 mb-2">Encart Newsletter</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Intégration bannière simple.</p>
@@ -77,7 +77,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
   <!-- SOCIAL -->
   <a href="sponsored-social/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">📱</div>
       <div class="fs-4 fw-700 mb-2">Social Ads</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Sponsorisation de posts (Partnership Ads).</p>
@@ -85,7 +85,7 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
   </a>
    <!-- JEU CONCOURS -->
    <a href="co-branded-contest/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">🎁</div>
       <div class="fs-4 fw-700 mb-2">Jeu Concours</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Animation et collecte de leads.</p>
@@ -96,21 +96,21 @@ Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additi
 <!-- GRILLE 3 COLONNES POUR LES PETITES CARTES -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
   <a href="pricing" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">💎</div>
       <div class="fs-4 fw-700 mb-2">Abonnements & Offres</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Starter, Standard ou Managed.</p>
     </div>
   </a>
   <a href="payouts" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">💸</div>
       <div class="fs-4 fw-700 mb-2">Paiements & Wallet</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Retraits, frais et réinvestissement.</p>
     </div>
   </a>
   <a href="affiliation" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 32px; margin-bottom: 10px;">🤝</div>
       <div class="fs-4 fw-700 mb-2">Affiliation</div>
       <p class="fs-2 text-grey-dk-000 mb-0">Parrainez et gagnez 20% de commission.</p>

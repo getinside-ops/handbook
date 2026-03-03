@@ -55,7 +55,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
   <!-- ETAPE 1 -->
   <a href="1-brief-annonceur" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 24px; width: 40px; text-align: center;">1</div>
       <div>
         <strong class="fs-4 d-block">Le Brief Annonceur</strong>
@@ -66,7 +66,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
   </a>
   <!-- ETAPE 2 -->
   <a href="2-creation-distributeur" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 24px; width: 40px; text-align: center;">2</div>
       <div>
         <strong class="fs-4 d-block">Création (Distributeur)</strong>
@@ -77,7 +77,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
   </a>
   <!-- ETAPE 3 -->
   <a href="3-validation-diffusion" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 24px; width: 40px; text-align: center;">3</div>
       <div>
         <strong class="fs-4 d-block">Validation & Diffusion</strong>

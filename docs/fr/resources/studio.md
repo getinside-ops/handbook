@@ -45,7 +45,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 <!-- LISTE DE LIENS STYLISÉS -->
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
   <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 28px;">✨</div>
       <div style="flex: 1;">
         <strong class="fs-4 d-block">Le Book d'Inspirations (Google Slides)</strong>
@@ -56,7 +56,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
   </a>
   <!-- LIEN CORRIGÉ VERS LA NOUVELLE PAGE INTERNE -->
   <a href="case-studies/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 28px;">📊</div>
       <div style="flex: 1;">
         <strong class="fs-4 d-block">Succès Clients (KPIs)</strong>

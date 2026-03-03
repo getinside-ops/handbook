@@ -17,7 +17,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
   <!-- GUIDE (Mis en avant) -->
   <a href="./design-guide/" style="text-decoration: none; color: inherit;">
-    <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" class="gi-tile-lift">
       <div style="font-size: 40px;">📘</div>
       <div>
         <h3 class="mt-0 text-purple-200">Guide de Conception (Start)</h3>
@@ -27,7 +27,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
   </a>
   <!-- STRATEGIE -->
   <a href="./design-guide/strategy" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 24px; min-width: 40px; text-align: center;">🧠</div>
       <div>
         <strong class="fs-4 d-block">Stratégie & Offre</strong>
@@ -38,7 +38,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
   </a>
   <!-- SPECS -->
   <a href="./design-guide/print-specs" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 24px; min-width: 40px; text-align: center;">📐</div>
       <div>
         <strong class="fs-4 d-block">Specs Techniques</strong>
@@ -49,7 +49,7 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
   </a>
   <!-- LEGAL -->
   <a href="./design-guide/legal" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 24px; min-width: 40px; text-align: center;">⚖️</div>
       <div>
         <strong class="fs-4 d-block">Légal & QR</strong>

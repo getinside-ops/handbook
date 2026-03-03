@@ -45,7 +45,7 @@ Définition et opportunités pour votre marque.
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
   <!-- ASILE COLIS -->
   <a href="../advertisers/sponsored-mail" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📦</div>
       <div>
         <h3 class="mt-0 mb-1">L'Asile Colis (Physique)</h3>
@@ -56,7 +56,7 @@ Définition et opportunités pour votre marque.
   </a>
   <!-- EMAIL -->
   <a href="../advertisers/dedicated-email" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📧</div>
       <div>
         <h3 class="mt-0 mb-1">L'Emailing (Digital)</h3>
@@ -67,7 +67,7 @@ Définition et opportunités pour votre marque.
   </a>
   <!-- SOCIAL -->
   <a href="../advertisers/sponsored-social" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📱</div>
       <div>
         <h3 class="mt-0 mb-1">Social Ads (Influence)</h3>
@@ -78,7 +78,7 @@ Définition et opportunités pour votre marque.
   </a>
   <!-- CONTEST -->
   <a href="../advertisers/co-branded-contest" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🎁</div>
       <div>
         <h3 class="mt-0 mb-1">Jeu Concours (Lead Gen)</h3>
