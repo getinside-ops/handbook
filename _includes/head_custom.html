@@ -1,7 +1,7 @@
 <!-- Google Fonts: Inter -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
 
@@ -21,7 +21,9 @@
   --gi-glass-border:  rgba(255, 255, 255, 0.55);
   --gi-blur:          blur(16px);
   --gi-blur-sidebar:  blur(20px);
+  --gi-blur-sm:       blur(8px);
   --gi-border:        rgba(99, 102, 241, 0.14);
+  --link-color:       #6366f1;
   --gi-shadow-card:   0 4px 24px rgba(99, 102, 241, 0.10), 0 1px 4px rgba(0,0,0,0.06);
   --gi-shadow-hover:  0 8px 32px rgba(99, 102, 241, 0.18), 0 2px 8px rgba(0,0,0,0.08);
   /* legacy aliases so any inline var(--gi-*) still resolves */
@@ -40,7 +42,6 @@ input, button, select, textarea {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
   letter-spacing: -0.02em;
   color: var(--gi-text);
 }
@@ -92,10 +93,12 @@ body, html {
   background-attachment: fixed;
   color: var(--gi-text) !important;
 }
+@media (max-width: 768px) {
+  body, html { background-attachment: scroll; }
+}
 
 .main-content, .main-content-wrap {
   background: transparent !important;
-  color: var(--gi-text) !important;
 }
 
 
@@ -121,7 +124,6 @@ body, html {
 }
 
 .site-title {
-  font-family: 'Inter', sans-serif !important;
   font-weight: 700 !important;
   letter-spacing: -0.03em;
   color: var(--gi-text) !important;
@@ -181,7 +183,6 @@ body, html {
   padding-right: 14px !important;
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05) !important;
   transition: border-color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease !important;
-  font-family: 'Inter', sans-serif !important;
   font-size: 0.875rem !important;
 }
 .search-input:focus {
@@ -278,7 +279,7 @@ body, html {
   -webkit-backdrop-filter: var(--gi-blur) !important;
   border: 1px solid var(--gi-glass-border) !important;
   border-radius: 14px !important;
-  padding: 24px !important;
+  padding: 24px;
   display: flex !important;
   flex-direction: column !important;
   box-shadow: var(--gi-shadow-card) !important;
@@ -299,8 +300,8 @@ body, html {
   border-radius: 8px;
   margin: 20px 0;
   border-left: 4px solid;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: var(--gi-blur-sm);
+  -webkit-backdrop-filter: var(--gi-blur-sm);
 }
 .gi-callout.info    { background: rgba(238,242,255,0.85); border-color: var(--gi-accent); color: #3730a3; }
 .gi-callout.success { background: rgba(240,253,244,0.85); border-color: #10b981; color: #065f46; }
@@ -354,8 +355,8 @@ body, html {
 }
 .main-content pre {
   background: rgba(238,242,255,0.70) !important;
-  backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
+  backdrop-filter: var(--gi-blur-sm) !important;
+  -webkit-backdrop-filter: var(--gi-blur-sm) !important;
   border: 1px solid var(--gi-border) !important;
 }
 .main-content :not(pre) > code {
@@ -377,10 +378,9 @@ body, html {
 .text-red-100     { color: #e11d48 !important; }
 .bg-grey-lt-000 {
   background: rgba(238,242,255,0.55) !important;
-  backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
+  backdrop-filter: var(--gi-blur-sm) !important;
+  -webkit-backdrop-filter: var(--gi-blur-sm) !important;
 }
-:root { --link-color: var(--gi-accent) !important; }
 
 .label {
   background: var(--gi-accent-light) !important;
@@ -389,8 +389,8 @@ body, html {
 }
 blockquote, .note {
   background: rgba(238,242,255,0.60) !important;
-  backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
+  backdrop-filter: var(--gi-blur-sm) !important;
+  -webkit-backdrop-filter: var(--gi-blur-sm) !important;
   border-left: 4px solid var(--gi-accent) !important;
   border-radius: 0 8px 8px 0 !important;
 }
