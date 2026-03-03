@@ -443,4 +443,195 @@ blockquote, .note {
 footer.text-grey-dk-000,
 footer .text-grey-dk-000 { color: var(--gi-text-muted) !important; }
 
+
+/* ============================================================
+   16. SMOOTH SCROLL + STICKY HEADER ANCHOR OFFSET
+   ============================================================ */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
+
+
+/* ============================================================
+   17. SEARCH RESULTS DROPDOWN
+   ============================================================ */
+.search-results {
+  background: var(--gi-glass-bg-card) !important;
+  backdrop-filter: var(--gi-blur) !important;
+  -webkit-backdrop-filter: var(--gi-blur) !important;
+  border: 1px solid var(--gi-glass-border) !important;
+  border-radius: 12px !important;
+  box-shadow: var(--gi-shadow-hover) !important;
+  overflow: hidden !important;
+  margin-top: 4px !important;
+}
+.search-result {
+  border-bottom: 1px solid rgba(99, 102, 241, 0.08) !important;
+  transition: background 0.15s ease !important;
+}
+.search-result:last-child { border-bottom: none !important; }
+.search-result:hover,
+.search-result.active { background: var(--gi-accent-light) !important; }
+.search-result-title {
+  color: var(--gi-text-muted) !important;
+  font-size: 0.75rem !important;
+  font-weight: 500 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.04em !important;
+}
+.search-result-doc-title {
+  color: var(--gi-accent) !important;
+  font-weight: 600 !important;
+}
+.search-result-rel-url { color: var(--gi-text-muted) !important; font-size: 0.75rem !important; }
+.search-result-preview { color: var(--gi-text-muted) !important; font-size: 0.8125rem !important; }
+/* Highlight matched keyword in results */
+mark {
+  background: var(--gi-accent-light) !important;
+  color: var(--gi-accent-hover) !important;
+  border-radius: 3px !important;
+  padding: 0 2px !important;
+}
+
+
+/* ============================================================
+   18. RIGHT-SIDE TOC (tocbot)
+   ============================================================ */
+.toc-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
+}
+.toc-list .toc-list { padding-left: 12px !important; }
+.toc-list-link {
+  display: block !important;
+  color: var(--gi-text-muted) !important;
+  font-size: 0.8125rem !important;
+  text-decoration: none !important;
+  padding: 4px 8px !important;
+  border-radius: 6px !important;
+  line-height: 1.4 !important;
+  transition: color 0.15s ease, background-color 0.15s ease !important;
+}
+.toc-list-link:hover {
+  color: var(--gi-accent) !important;
+  background: rgba(99, 102, 241, 0.07) !important;
+  text-decoration: none !important;
+}
+.toc-list-link.is-active-link {
+  color: var(--gi-accent) !important;
+  font-weight: 600 !important;
+  background: var(--gi-accent-light) !important;
+}
+
+
+/* ============================================================
+   19. PAGE FADE-IN + CONTENT IMAGES + DEFINITION LISTS
+   ============================================================ */
+@keyframes giPageFadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .main-content { animation: giPageFadeIn 0.4s ease forwards; }
+}
+
+.main-content img {
+  border-radius: 10px !important;
+  box-shadow: var(--gi-shadow-card) !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+.main-content dl { margin: 16px 0 !important; }
+.main-content dt {
+  font-weight: 600 !important;
+  color: var(--gi-accent-hover) !important;
+  font-size: 0.9375rem !important;
+  margin-top: 16px !important;
+  letter-spacing: -0.01em !important;
+}
+.main-content dd {
+  margin-left: 0 !important;
+  padding: 8px 0 8px 16px !important;
+  border-left: 3px solid var(--gi-accent-light) !important;
+  color: var(--gi-text) !important;
+  font-size: 0.875rem !important;
+  margin-bottom: 4px !important;
+}
+
+
+/* ============================================================
+   20. FOCUS-VISIBLE — keyboard accessibility
+   ============================================================ */
+:focus:not(:focus-visible) { outline: none !important; }
+:focus-visible {
+  outline: 2px solid var(--gi-accent) !important;
+  outline-offset: 3px !important;
+  border-radius: 4px !important;
+}
+
+
+/* ============================================================
+   21. PRINT
+   ============================================================ */
+@media print {
+  .side-bar,
+  .site-header,
+  .page-header,
+  #main-header,
+  .main-header,
+  #back-to-top,
+  .toc-wrap,
+  .search-input-wrap { display: none !important; }
+
+  body, html {
+    background: #fff !important;
+    background-image: none !important;
+    color: #000 !important;
+  }
+
+  .main-content-wrap {
+    margin-left: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .gi-card {
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+    border: 1px solid #ccc !important;
+  }
+
+  a { color: #000 !important; }
+
+  .btn {
+    border: 1px solid #999 !important;
+    color: #000 !important;
+    background: #fff !important;
+    box-shadow: none !important;
+  }
+}
+
 </style>
+
+<script>
+  /* Align Mermaid diagrams with the indigo design system.
+     Just-the-Docs reads window.mermaidConfig before initialising mermaid. */
+  window.mermaidConfig = {
+    theme: 'base',
+    themeVariables: {
+      primaryColor:        '#eef2ff',
+      primaryTextColor:    '#1e1b4b',
+      primaryBorderColor:  '#6366f1',
+      lineColor:           '#6b7280',
+      secondaryColor:      '#f0f4ff',
+      tertiaryColor:       '#e0e7ff',
+      edgeLabelBackground: '#f0f4ff',
+      clusterBkg:          'rgba(238, 242, 255, 0.70)',
+      titleColor:          '#1e1b4b',
+      fontFamily:          "'Inter', system-ui, sans-serif",
+      fontSize:            '14px'
+    }
+  };
+</script>
