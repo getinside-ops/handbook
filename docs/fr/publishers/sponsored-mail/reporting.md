@@ -46,11 +46,11 @@ Le reporting régulier est indispensable pour assurer le suivi de la consommatio
 </div>
 <h2 class="text-grey-dk-000 mb-4">Fin de campagne</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">Cas A : Stock Épuisé</h3>
     <p class="fs-2 text-grey-dk-000 mb-0">Vous avez distribué tous les supports reçus. La campagne s'arrête naturellement.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
     <h3 class="mt-0 fs-4">Cas B : Objectif Atteint</h3>
     <p class="fs-2 text-grey-dk-000 mb-0">Le volume commandé (Capped) est atteint, même s'il reste du stock (sauf instruction contraire pour écouler le reliquat).</p>
   </div>

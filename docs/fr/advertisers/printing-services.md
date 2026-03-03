@@ -31,7 +31,7 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
 <h2 class="text-blue-200 mb-4">🚀 Cas d'usage & Offres</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
   <!-- USAGE 1 -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 fs-4 text-grey-dk-000">1. Pour vos campagnes (Sponsored Mail)</h3>
     <p>Vous réservez une campagne chez un distributeur partenaire.</p>
     <ul>
@@ -53,22 +53,22 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
 </div>
 <h2 class="text-grey-dk-000 mb-4">Modèle Économique</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px;">
+  <div style="flex: 1; border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 6px;">
     <strong>💎 Transparence</strong><br />
     Le coût est affiché clairement lors de la configuration.
   </div>
-  <div style="flex: 1; border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px;">
+  <div style="flex: 1; border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 6px;">
     <strong>📦 Tout inclus</strong><br />
     Impression + Façonnage + Transport.
   </div>
-  <div style="flex: 1; border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px;">
+  <div style="flex: 1; border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 6px;">
     <strong>📉 Économies d'échelle</strong><br />
     Plus le volume est important, plus le coût unitaire baisse.
   </div>
 </div>
 <h2 class="text-purple-200 mb-4">Focus : Notre engagement Handicap</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="flex: 1; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="flex: 1; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0">Partenariat Exclusif</h3>
     <p class="fs-2 text-grey-dk-000">
       Pour toutes les opérations manuelles (assemblage, collage d'échantillons, mise sous pli), nous travaillons exclusivement avec des <strong>Entreprises Adaptées (EA)</strong>.
@@ -77,7 +77,7 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
       Ces structures emploient au moins <strong>80% de travailleurs en situation de handicap</strong> dans leurs effectifs de production.
     </p>
   </div>
-  <div style="flex: 1; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="flex: 1; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0">Impact Social</h3>
     <p class="fs-2 text-grey-dk-000">
       En confiant votre logistique à getinside, vous soutenez directement l'insertion professionnelle et sociale de personnes souvent éloignées du marché du travail.

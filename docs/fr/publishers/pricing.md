@@ -10,17 +10,17 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 <!-- Conteneur GRID ajusté pour tenir sur une ligne -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; align-items: stretch;">
   <!-- OFFRE STARTER -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; background-color: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; display: flex; flex-direction: column; background-color: var(--vp-c-bg-elv);">
     <h3 class="text-grey-dk-000 mt-0">Starter</h3>
     <div class="fs-9 fw-700 text-purple-100">Gratuit</div>
     <p class="fs-2 text-grey-dk-000">Débutez la monétisation sans coût fixe.</p>
-    <hr style="margin: 20px 0; border-top: 1px solid #eee;" />
+    <hr style="margin: 20px 0; border-top: 1px solid var(--vp-c-divider);" />
     <ul style="padding-left: 20px; flex-grow: 1; margin-bottom: 20px;">
       <li class="mb-2"><strong>Commercialisation :</strong> Recevez des offres de notre régie.</li>
       <li class="mb-2"><strong>Affiliation :</strong> Touchez 20% sur vos filleuls.</li>
       <li class="mb-2 text-grey-dk-000"><em>Frais de retrait : 5%</em></li>
     </ul>
-    <div style="background: #f6f8fa; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
+    <div style="background: var(--vp-c-bg-soft); padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
       <span class="fw-700">30%</span> de Frais de Régie
     </div>
   </div>
@@ -41,17 +41,17 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
     </div>
   </div>
   <!-- OFFRE MANAGED -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; background-color: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; display: flex; flex-direction: column; background-color: var(--vp-c-bg-elv);">
     <h3 class="text-grey-dk-000 mt-0">Managed</h3>
     <div class="fs-9 fw-700 text-purple-100">1 399€ <span class="fs-4 fw-300 text-grey-dk-000">/mois</span></div>
     <p class="fs-2 text-grey-dk-000">Déléguez l'acquisition à nos experts pour un volume maximal.</p>
-    <hr style="margin: 20px 0; border-top: 1px solid #eee;" />
+    <hr style="margin: 20px 0; border-top: 1px solid var(--vp-c-divider);" />
     <ul style="padding-left: 20px; flex-grow: 1; margin-bottom: 20px;">
       <li class="mb-2"><strong>Account Manager dédié</strong> (Sales Ops).</li>
       <li class="mb-2">Multiplication du volume de campagnes.</li>
       <li class="mb-2"><strong>Retraits Gratuits :</strong> Aucun frais.</li>
     </ul>
-    <div style="background: #f6f8fa; padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
+    <div style="background: var(--vp-c-bg-soft); padding: 10px; border-radius: 4px; text-align: center; margin-top: auto;">
       <span class="fw-700">15%</span> Frais de Régie fixes
     </div>
   </div>

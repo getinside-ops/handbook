@@ -13,17 +13,17 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
 <h2 class="text-purple-200 mb-4">Pourquoi proposer ce format ?</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; width: 100%; margin-bottom: 40px;">
   <!-- REVENUS -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-purple-200">💰 Revenus Média</h3>
     <p class="mb-0">L'Annonceur finance tout (dotations + coûts). C'est une source de revenus additionnelle sans risque.</p>
   </div>
   <!-- ANIMATION -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-blue-200">🎉 Animation Commerciale</h3>
     <p class="mb-0">Offrez une expérience ludique et des cadeaux attractifs à vos clients. Cela dynamise votre site et vos newsletters.</p>
   </div>
   <!-- DATA -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-green-200">📊 Qualification Data</h3>
     <p class="mb-0">Profitez du jeu pour réactiver des clients inactifs ou collecter de nouveaux opt-ins sur votre propre base.</p>
   </div>
@@ -38,14 +38,14 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
 </div>
 <h2 class="text-blue-200 mb-4">Pourquoi passer par getinside ?</h2>
 <div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">⚖️</div>
     <div>
       <h3 class="mt-0">Sécurité Juridique</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">La collecte de data partagée est complexe (RGPD). Nous fournissons les modèles de mentions légales et de cases à cocher validés par des juristes.</p>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🤝</div>
     <div>
       <h3 class="mt-0">Gestion des Dotations</h3>

@@ -26,22 +26,22 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 <h2 class="text-blue-200 mb-4">2. Les Données Démographiques (Data)</h2>
 <p class="fs-4">Ces champs alimentent l'algorithme de getinside pour le matching.</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong>Panier Moyen</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Indiquez le montant HT moyen. Cela permet aux annonceurs de cibler par pouvoir d'achat.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong>Typologie (B2C/B2B)</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Critère excluant. Assurez-vous qu'il est correct.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong>Profil d'acheteur</strong>
     <p class="fs-2 text-grey-dk-000 mb-0"><em>Discounter, Économe, Médian, Élevé.</em> Positionnez-vous par rapport à votre marché.</p>
   </div>
 </div>
 <hr class="my-6" />
 <h2 class="text-grey-dk-000 mb-4">3. Comprendre votre "Score Distributeur"</h2>
-<div style="border: 2px solid #282824; background-color: #fff; padding: 24px; border-radius: 8px; margin-bottom: 40px;">
+<div style="border: 2px solid #282824; background-color: var(--vp-c-bg-elv); padding: 24px; border-radius: 8px; margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <div style="font-size: 40px; font-weight: 800; color: #282824;">4,3<span class="fs-4 text-grey-dk-000">/5</span></div>
     <div>
@@ -49,7 +49,7 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
       <p class="fs-2 text-grey-dk-000 mb-0">Ce score est recalculé dynamiquement selon 7 critères clés. Il détermine votre position dans les résultats de recherche.</p>
     </div>
   </div>
-  <div class="p-3" style="background-color: #f6f8fa; border-radius: 6px;">
+  <div class="p-3" style="background-color: var(--vp-c-bg-soft); border-radius: 6px;">
     <strong>Barème de visibilité :</strong>
     <ul class="mb-0 mt-2 fs-2">
       <li class="mb-1"><span style="color: #d73a49;">●</span> <strong>Moins de 3/5 :</strong> Votre audience est peu visible. Des actions correctives sont nécessaires.</li>
@@ -60,31 +60,31 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 </div>
 <h3 class="text-grey-dk-000 mb-4">Détail des 7 critères de notation</h3>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong class="text-green-200">💰 Tarification</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">L'algorithme compare votre CPM (Coût Pour Mille) à la moyenne du marché sur votre secteur. Un prix cohérent booste ce score.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong class="text-purple-200">📈 Volume semaine (Reach)</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Plus votre capacité de diffusion est importante et stable, plus ce score est élevé. Les volumes trop faibles peuvent impacter la note.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong class="text-blue-200">✨ Attractivité de la marque</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Reflète la notoriété et la perception de votre enseigne. Plus votre marque est identifiée comme une référence (grand public ou spécialiste) sur son marché, plus ce score est élevé.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong class="text-red-100">📦 Fiabilité de l'inventaire</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Respectez-vous les volumes promis ? Si vous distribuez moins que prévu sans prévenir, ce score chute drastiquement.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong class="text-orange-200">⚡ Réactivité de l'audience</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Mesure la performance de vos campagnes passées (taux de scan, usage codes promo). Une audience engagée qui réagit aux offres fait monter ce score.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong class="text-grey-dk-000">📊 Historique de campagne</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Récompense la fidélité. Ce score augmente mécaniquement avec le nombre de campagnes réussies sur la plateforme.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <strong class="text-grey-dk-000">💬 Communication & Reporting</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Évalue votre sérieux opérationnel : rapidité de réponse aux demandes (sous 48h) et envoi des preuves de distribution dans les délais.</p>
   </div>

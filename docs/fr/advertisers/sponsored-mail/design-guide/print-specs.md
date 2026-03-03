@@ -36,11 +36,11 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
 | **Format L** | Jusqu'à **450g** | Jusqu'à **40 cm** |
 
 <br />
-<div style="margin-top: 20px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-  <div style="background: #f6f8fa; padding: 15px; border-bottom: 1px solid #e1e4e8; font-weight: bold;">
+<div style="margin-top: 20px; border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden;">
+  <div style="background: var(--vp-c-bg-soft); padding: 15px; border-bottom: 1px solid var(--vp-c-divider); font-weight: bold;">
     ✨ Service d'Assemblage (Flyer + Échantillon)
   </div>
-  <div style="padding: 24px; background: #fff;">
+  <div style="padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 fs-4">Option "Duo" (Format S uniquement)</h3>
     <p>Nous pouvons coller votre échantillon (taille S) sur un flyer A5 ou A6 pour maximiser l'impact visuel.</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
@@ -57,14 +57,14 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
 </div>
 <h2 class="text-blue-200 mt-6 mb-4">🌐 Fichiers & Couleurs</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 fs-4">📁 Type de fichier</h3>
     <ul class="mb-0 pl-4">
       <li class="mb-2"><strong>PDF/X (Vectoriel) :</strong> À privilégier.</li>
       <li><strong>JPG / PNG :</strong> 300 DPI minimum.</li>
     </ul>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 fs-4">🎨 Colorimétrie</h3>
     <ul class="mb-0 pl-4">
       <li class="mb-2"><strong>Mode :</strong> CMJN obligatoire.</li>

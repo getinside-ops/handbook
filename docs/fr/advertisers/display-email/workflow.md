@@ -25,7 +25,7 @@ Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumi
   <div>
     <h3 class="mt-0 text-purple-200">Configuration du Tracking</h3>
     <p>L'équipe <strong>getinside</strong> intervient pour rendre la campagne mesurable :</p>
-    <div style="background: #eff6ff; border: 1px solid #eee; padding: 15px; border-radius: 6px;">
+    <div style="background: #eff6ff; border: 1px solid var(--vp-c-divider); padding: 15px; border-radius: 6px;">
       <ol class="mb-0 pl-4">
         <li>Nous générons un <strong>lien de redirection tracké</strong> (<code>gtinsi.de</code>).</li>
         <li>Ce lien est transmis au Distributeur.</li>

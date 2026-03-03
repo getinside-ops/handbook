@@ -44,11 +44,11 @@ De la réception des palettes à l'expérience d'ouverture client (Unboxing).
   <img src="/images/asile-colis-do-dont.webp" alt="Bonnes pratiques insertion Asile Colis" loading="lazy" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 100%;">
 </div>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
     <h4 class="mt-0">📄 Gestion de la facture</h4>
     <p class="mb-0 fs-3">Si vous insérez un BL ou une facture papier : placez l'offre <strong>au-dessus</strong>. Elle ne doit jamais être cachée à l'intérieur d'un document plié.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
     <h4 class="mt-0">🚫 Exclusions & Qualité</h4>
     <ul class="mb-0 fs-3 pl-4">
       <li><strong>Concurrence :</strong> Jamais deux offres concurrentes dans le même colis.</li>

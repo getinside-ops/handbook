@@ -7,7 +7,7 @@ title: Comment ça fonctionne ?
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 
 
-<div style="background-color: #f6f8fa; border-radius: 8px; padding: 40px; margin-top: 30px; margin-bottom: 50px;">
+<div style="background-color: var(--vp-c-bg-soft); border-radius: 8px; padding: 40px; margin-top: 30px; margin-bottom: 50px;">
 
 ```mermaid
 flowchart TD
@@ -51,15 +51,15 @@ flowchart TD
   <h3 class="mt-0 text-green-200">Le cercle vertueux du Réinvestissement</h3>
   <p class="fs-4">getinside n'est pas seulement une régie, c'est un accélérateur de croissance.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 20px;">
-    <div style="background: #fff; padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
+    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
       <strong>1. Monétisation</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Vos colis et emails génèrent du cash grâce aux annonceurs tiers.</p>
     </div>
-    <div style="background: #fff; padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
+    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
       <strong>2. Transfert Instantané</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Vos revenus sont disponibles sur votre Wallet. Pas besoin d'attendre un virement bancaire.</p>
     </div>
-    <div style="background: #fff; padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
+    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid #ccf3df;">
       <strong>3. Acquisition</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
   </div>
@@ -81,14 +81,14 @@ flowchart TD
       <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Attention (100%)</strong>. Rôle : Ancrage mémoriel, Prise en main physique, Conversion.</p>
     </div>
   </div>
-  <div style="display: flex; align-items: center; gap: 20px; background: #fff; border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px;">
+  <div style="display: flex; align-items: center; gap: 20px; background: var(--vp-c-bg-elv); border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
     <div style="font-size: 30px; min-width: 40px;">📧</div>
     <div style="flex: 1;">
       <strong>Emailing Dédié</strong>
       <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Volume & Réactivité</strong>. Rôle : Trafic immédiat, Offre "Flash", Ciblage comportemental.</p>
     </div>
   </div>
-  <div style="display: flex; align-items: center; gap: 20px; background: #fff; border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px;">
+  <div style="display: flex; align-items: center; gap: 20px; background: var(--vp-c-bg-elv); border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
     <div style="font-size: 30px; min-width: 40px;">📱</div>
     <div style="flex: 1;">
       <strong>Social Ads</strong>
@@ -97,7 +97,7 @@ flowchart TD
   </div>
 </div>
 <h2 class="text-grey-dk-000 mb-4">L'Expertise getinside : Votre Accélérateur</h2>
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; margin-bottom: 20px;">
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); margin-bottom: 20px;">
   <p class="fs-4 mt-0">Le Retail Media est puissant, mais complexe à opérer seul.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px;">
     <div>
@@ -129,7 +129,7 @@ flowchart TD
       La puissance de getinside réside dans la <strong>cohérence contextuelle</strong>. 
       Nous proposons des <strong>offres complémentaires</strong> au moment précis où le consommateur en a besoin.
     </p>
-    <div style="background: #fff; border-left: 4px solid #2563eb; padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="background: var(--vp-c-bg-elv); border-left: 4px solid #2563eb; padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
         <!-- ITEM 1 -->
         <div class="mb-3">
           <div style="display: flex; align-items: baseline;">
@@ -176,7 +176,7 @@ flowchart TD
         </div>
     </div>
   </div>
-  <div style="flex: 1; min-width: 260px; background: #eff6ff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
+  <div style="flex: 1; min-width: 260px; background: #eff6ff; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
     <div style="text-align: center; margin-bottom: 20px;">
       <span style="font-size: 40px;">🎯</span>
       <h4 class="text-purple-200 mt-2 mb-0">Ciblage Data Granulaire</h4>
@@ -192,7 +192,7 @@ flowchart TD
   </div>
 </div>
 <hr class="my-6" />
-<div style="text-align: center; background: #F9F9F9; color: #24292e; padding: 40px; border-radius: 8px; margin-top: 40px;">
+<div style="text-align: center; background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); padding: 40px; border-radius: 8px; margin-top: 40px;">
   <h2 class="text-purple-200 mb-3">Prêt à activer votre croissance ?</h2>
   <p class="fs-4 text-grey-dk-000 mb-6" style="max-width: 600px; margin: 0 auto;">
     Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.

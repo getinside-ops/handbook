@@ -8,12 +8,12 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 
 <h2 class="text-purple-200 mb-4">Qui parrainer ?</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-blue-200">📦 D'autres E-commerçants</h3>
     <p>Vous connaissez d'autres sites qui expédient des colis ou ont une base email ?</p>
     <p class="mb-0 text-grey-dk-000">Invitez-les à monétiser leur audience.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-green-200">🛍️ Des Marques (Annonceurs)</h3>
     <p>Invitez vos fournisseurs ou partenaires à utiliser getinside pour leurs campagnes d'acquisition.</p>
     <p class="mb-0 text-grey-dk-000">Idéal pour digitaliser votre Trade Marketing.</p>
@@ -23,13 +23,13 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 <!-- GRILLE 3 ETAPES - Alignement automatique -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; align-items: stretch; margin-bottom: 40px;">
   <!-- ETAPE 1 -->
-  <div style="text-align: center; border: 1px solid #e1e4e8; padding: 30px; border-radius: 8px; background: #fff;">
+  <div style="text-align: center; border: 1px solid var(--vp-c-divider); padding: 30px; border-radius: 8px; background: var(--vp-c-bg-elv);">
     <div style="font-size: 40px; margin-bottom: 15px;">🗣️</div>
     <h3 class="mt-0">1. Parrainez</h3>
     <p class="mb-0 fs-2 text-grey-dk-000">Envoyez votre lien de parrainage unique disponible sur la plateforme.</p>
   </div>
   <!-- ETAPE 2 -->
-  <div style="text-align: center; border: 1px solid #e1e4e8; padding: 30px; border-radius: 8px; background: #fff;">
+  <div style="text-align: center; border: 1px solid var(--vp-c-divider); padding: 30px; border-radius: 8px; background: var(--vp-c-bg-elv);">
     <div style="font-size: 40px; margin-bottom: 15px;">🚀</div>
     <h3 class="mt-0">2. Ils s'activent</h3>
     <p class="mb-0 fs-2 text-grey-dk-000">Votre filleul lance ses premières campagnes ou vend son audience.</p>
@@ -50,11 +50,11 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 </div>
 <h2 class="text-grey-dk-000 mb-4">Utilisation des gains</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px;">
+  <div style="border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
     <h3 class="mt-0 fs-4">🏦 Retrait Bancaire</h3>
     <p class="mb-0">Récupérez vos gains par virement classique (soumis aux frais de gestion standards).</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px;">
+  <div style="border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
     <h3 class="mt-0 fs-4">♻️ Réinvestissement (0% frais)</h3>
     <p class="mb-0">Utilisez votre cagnotte pour financer vos propres campagnes d'acquisition pour votre site.</p>
   </div>

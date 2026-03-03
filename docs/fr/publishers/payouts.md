@@ -8,7 +8,7 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
 
 <hr class="my-6" />
 <h2 class="text-purple-200 mb-4">Suivi du P&L (Wallet)</h2>
-<div style="background-color: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background-color: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <p class="fs-4 mb-2">Vos revenus sont visibles en temps réel sur la plateforme.</p>
   <p class="mb-0">Consultez à tout moment votre <strong>Solde Disponible</strong> = <em>(Revenus validés) - (Retraits effectués)</em>.</p>
 </div>
@@ -22,7 +22,7 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
     <p class="mb-0">Votre tout premier virement est <strong>100% gratuit</strong>, quel que soit le montant. Aucun frais de gestion.</p>
   </div>
   <!-- SUIVANTS -->
-  <div style="border: 1px solid #e1e4e8; background-color: #fff; border-radius: 8px; padding: 24px;">
+  <div style="border: 1px solid var(--vp-c-divider); background-color: var(--vp-c-bg-elv); border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-grey-dk-000">🔄 Les Retraits Suivants</h3>
     <div class="fs-8 fw-700 text-grey-dk-000 mb-2">5% <span class="fs-4 fw-300">de frais</span></div>
     <p class="mb-0">Des frais de gestion s'appliquent sur le montant demandé.</p>

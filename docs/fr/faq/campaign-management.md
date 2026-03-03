@@ -4,13 +4,13 @@ title: Gestion des Campagnes
 
 # Gestion des Campagnes
 
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Quel est le délai de réponse attendu ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     Vous devez répondre sous <strong>48 heures ouvrées</strong>. La réactivité est la clé pour remporter les campagnes face aux autres éditeurs. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom, et d'appliquer une pénalité correspondante aux frais de plateforme prévus.
   </div>
 </details>
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Puis-je annuler une campagne déjà acceptée ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     L'annulation est fortement déconseillée. Sauf force majeure, des pénalités s'appliquent pour compenser le préjudice :<br />
@@ -21,13 +21,13 @@ title: Gestion des Campagnes
     </ul>
   </div>
 </details>
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Puis-je refuser d'insérer un flyer reçu ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     Oui. Vous devez vérifier la marchandise à réception. Si les supports sont endommagés ou non conformes au BAT validé (ex: marque concurrente non signalée), contactez immédiatement le support (<code>studio@getinside.fr</code>) et suspendez l'insertion.
   </div>
 </details>
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">La campagne démarre en retard, que faire ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     Si vous n'avez rien distribué sur une semaine prévue :
@@ -38,13 +38,13 @@ title: Gestion des Campagnes
     La plateforme prolongera automatiquement la campagne en fin de période pour atteindre le volume cible.
   </div>
 </details>
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Comment ajouter un nouveau type d'offre ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     Allez sur la fiche de l'audience concernée et ajoutez un type de campagne. Si vous souhaitez proposer une offre sur-mesure (hors catalogue standard), sélectionnez <strong>"Autre type de campagne"</strong>. L'équipe getinside validera ensuite la faisabilité avec vous.
   </div>
 </details>
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Où voir l'historique de mes campagnes ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     <ul>
@@ -53,7 +53,7 @@ title: Gestion des Campagnes
     </ul>
   </div>
 </details>
-<details style="margin-bottom: 10px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Comment suivre les performances de ma campagne ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 2px solid #eee;">
     Vous disposez d'un double suivi sur votre tableau de bord getinside :<br />

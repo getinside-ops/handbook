@@ -15,7 +15,7 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
 </div>
 <hr class="mb-6" />
 <!-- SECTION DÉCOUVERTE (NOUVEAU) -->
-<div style="background-color: #fff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; margin-bottom: 40px; display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="background-color: var(--vp-c-bg-elv); border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; margin-bottom: 40px; display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 0 0 50px; font-size: 40px;">🚀</div>
   <div style="flex: 1;">
     <h2 class="mt-0 fs-4">Nouveau sur getinside ?</h2>
@@ -32,14 +32,14 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
     <h2 class="mt-0">🛍️ Espace Annonceurs</h2>
     <p class="fs-4 text-grey-dk-000">Pour les marques souhaitant acquérir de nouveaux clients via nos réseaux de distribution.</p>
     <div style="margin-top: auto;">
-      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: #999; letter-spacing: 1px;">Guides par Format</strong>
+      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: var(--vp-c-text-3); letter-spacing: 1px;">Guides par Format</strong>
       <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px;">
         <a href="docs/fr/advertisers/sponsored-mail/" class="btn btn-outline btn-sm text-left">📦 Asile Colis & Specs</a>
         <a href="docs/fr/advertisers/dedicated-email/" class="btn btn-outline btn-sm text-left">📧 Emailing Dédié</a>
         <a href="docs/fr/advertisers/sponsored-social/" class="btn btn-outline btn-sm text-left">📱 Social Ads</a>
         <a href="docs/fr/advertisers/co-branded-contest/" class="btn btn-outline btn-sm text-left">🎁 Jeu Concours</a>
       </div>
-      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: #999; letter-spacing: 1px;">Admin & Services</strong>
+      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: var(--vp-c-text-3); letter-spacing: 1px;">Admin & Services</strong>
       <div style="display: flex; flex-direction: column; gap: 8px;">
         <a href="docs/fr/advertisers/printing-services" class="btn btn-outline btn-sm text-left">🖨️ Service Impression & RSE</a>
         <a href="docs/fr/advertisers/pricing" class="btn btn-outline btn-sm text-left">💰 Modèle Tarifaire</a>
@@ -58,13 +58,13 @@ Retrouvez ici l’ensemble des guides opérationnels, spécifications techniques
       <div style="margin-bottom: 20px;">
         <a href="docs/fr/publishers/onboarding-process" class="btn btn-primary btn-sm text-left" style="width: 100%;">🚀 Guide de Démarrage (Onboarding)</a>
       </div>
-      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: #999; letter-spacing: 1px;">Opérations</strong>
+      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: var(--vp-c-text-3); letter-spacing: 1px;">Opérations</strong>
       <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px;">
         <a href="docs/fr/publishers/sponsored-mail/" class="btn btn-outline btn-sm text-left">🏭 Logistique Colis</a>
         <a href="docs/fr/publishers/dedicated-email/" class="btn btn-outline btn-sm text-left">🎨 Création Email</a>
         <a href="docs/fr/publishers/sponsored-social/" class="btn btn-outline btn-sm text-left">🤳 Social</a>
       </div>
-      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: #999; letter-spacing: 1px;">Finance</strong>
+      <strong class="d-block mb-2 fs-2 text-uppercase" style="color: var(--vp-c-text-3); letter-spacing: 1px;">Finance</strong>
       <div style="display: flex; flex-direction: column; gap: 8px;">
         <a href="docs/fr/publishers/pricing" class="btn btn-outline btn-sm text-left">💎 Offres & Abonnements</a>
         <a href="docs/fr/publishers/payouts" class="btn btn-outline btn-sm text-left">💸 Paiements & Wallet</a>

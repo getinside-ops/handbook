@@ -6,7 +6,7 @@ title: Glossaire
 
 Définitions des termes techniques et acronymes de la plateforme.
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 30px 0; padding: 15px; background: #f6f8fa; border-radius: 6px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 30px 0; padding: 15px; background: var(--vp-c-bg-soft); border-radius: 6px;">
   <a href="#a" style="text-decoration: none; font-weight: bold;">A</a>
   <a href="#b" style="text-decoration: none; font-weight: bold;">B</a>
   <a href="#c" style="text-decoration: none; font-weight: bold;">C</a>

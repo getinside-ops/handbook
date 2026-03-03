@@ -14,19 +14,19 @@ Monétisez vos newsletters et emails transactionnels en y insérant simplement u
 <h2 class="text-purple-200 mb-4">Où placer ces encarts ?</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
   <!-- TRANSAC -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #eff6ff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: #eff6ff;">
     <h3 class="mt-0 text-purple-200">🛍️ Emails Transactionnels</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">C'est l'emplacement le plus premium (>60% d'ouverture).</p>
     <p class="mb-0 fs-2"><em>Insérez une bannière "Offre Partenaire" en bas de vos confirmations de commande.</em></p>
   </div>
   <!-- BLAST -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-blue-200">📢 Newsletters (Blast)</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Comblez les espaces vides de vos newsletters hebdomadaires.</p>
     <p class="mb-0 fs-2"><em>Idéal pour rentabiliser vos envois habituels à moindre effort.</em></p>
   </div>
   <!-- WELCOME -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-green-200">👋 Welcome Emails</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Monétisez vos nouveaux inscrits dès le premier jour.</p>
     <p class="mb-0 fs-2"><em>Intégrez une bannière dans votre scénario de bienvenue automatisé.</em></p>
@@ -34,21 +34,21 @@ Monétisez vos newsletters et emails transactionnels en y insérant simplement u
 </div>
 <h2 class="text-blue-200 mb-4">Pourquoi ce format est rentable ?</h2>
 <div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">⚡</div>
     <div>
       <h3 class="mt-0">Zéro Production</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">L'Annonceur fournit une image prête à l'emploi. Votre rôle se limite au copier-coller du lien et de l'image.</p>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🛡️</div>
     <div>
       <h3 class="mt-0">Non Intrusif</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">La publicité s'insère discrètement (Header ou Footer), sans perturber votre contenu éditorial.</p>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🔄</div>
     <div>
       <h3 class="mt-0">Revenus Récurrents</h3>

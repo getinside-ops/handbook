@@ -15,7 +15,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
 <!-- GRILLE ROBUSTE -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
   <!-- BLAST -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-purple-200">📢 Blast (Newsletter)</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Vous envoyez un email dédié à tout ou partie de votre base active.</p>
     <div style="margin-top: 15px;">
@@ -23,7 +23,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
     </div>
   </div>
   <!-- POST PURCHASE -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-blue-200">🛍️ Post-Purchase</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Un email dédié envoyé automatiquement après une commande.</p>
     <div style="margin-top: 15px;">
@@ -31,7 +31,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
     </div>
   </div>
   <!-- WELCOME -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-green-200">👋 Welcome Pack</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Présentation d'un partenaire dans la séquence de bienvenue.</p>
     <div style="margin-top: 15px;">
@@ -42,7 +42,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
 <h2 class="text-grey-dk-000 mb-4">Le Processus de Création</h2>
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
   <a href="1-design" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🎨</div>
       <div>
         <h3 class="mt-0 mb-2">1. Création & Design</h3>
@@ -52,7 +52,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
     </div>
   </a>
   <a href="2-tracking-sending" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">🚀</div>
       <div>
         <h3 class="mt-0 mb-2">2. Tracking & Envoi</h3>
@@ -64,14 +64,14 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
 </div>
 <h2 class="text-blue-200 mb-4">Pourquoi activer ce levier via getinside ?</h2>
 <div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">💰</div>
     <div>
       <h3 class="mt-0">CPM Maximisé</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">L'emailing dédié est le format le plus rémunérateur. Rentabilisez vos créneaux d'envoi libres ou vos emails transactionnels.</p>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🛡️</div>
     <div>
       <h3 class="mt-0">Qualité & Sécurité</h3>

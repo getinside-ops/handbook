@@ -23,7 +23,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
 <!-- GRILLE SCENARIOS (Largeur min 250px pour éviter le tassement) -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
   <!-- BLAST -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-blue-200">📢 Blast (Newsletter)</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Envoi massif sur tout ou partie de la base opt-in du distributeur.</p>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
@@ -32,7 +32,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
     </div>
   </div>
   <!-- POST PURCHASE -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-purple-200">🛍️ Post-Purchase</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Email envoyé automatiquement juste après une commande.</p>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
@@ -41,7 +41,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
     </div>
   </div>
   <!-- WELCOME -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
     <h3 class="mt-0 text-green-200">👋 Welcome Pack</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Intégration dans la séquence de bienvenue des nouveaux inscrits.</p>
     <div style="display: flex; gap: 10px; margin-top: 15px;">
@@ -55,7 +55,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
   <!-- ETAPE 1 -->
   <a href="1-brief-annonceur" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 24px; width: 40px; text-align: center;">1</div>
       <div>
         <strong class="fs-4 d-block">Le Brief Annonceur</strong>
@@ -66,7 +66,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
   </a>
   <!-- ETAPE 2 -->
   <a href="2-creation-distributeur" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 24px; width: 40px; text-align: center;">2</div>
       <div>
         <strong class="fs-4 d-block">Création (Distributeur)</strong>
@@ -77,7 +77,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
   </a>
   <!-- ETAPE 3 -->
   <a href="3-validation-diffusion" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 24px; width: 40px; text-align: center;">3</div>
       <div>
         <strong class="fs-4 d-block">Validation & Diffusion</strong>
@@ -90,21 +90,21 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
 <h2 class="text-blue-200 mb-4">Pourquoi passer par getinside ?</h2>
 <!-- LISTE VERTICALE AVANTAGES -->
 <div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">💎</div>
     <div>
       <h3 class="mt-0">Inventaire Premium</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">Accédez à des bases de données ultra-qualifiées (+250 e-commerçants) que vous ne trouverez pas sur les plateformes d'affiliation classiques.</p>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🎯</div>
     <div>
       <h3 class="mt-0">Ciblage Contextuel</h3>
       <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à une marque affinitaire. Le taux de réactivité est bien supérieur à de l'emailing de conquête froid (Cold Emailing).</p>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🛡️</div>
     <div>
       <h3 class="mt-0">Sécurité & Tracking</h3>

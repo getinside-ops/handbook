@@ -8,7 +8,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
 
 <hr class="my-6" />
 <h2 class="text-purple-200 mb-4">Accéder au Brief</h2>
-<div style="display: flex; gap: 20px; align-items: center; margin-bottom: 40px; background-color: #fff; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
+<div style="display: flex; gap: 20px; align-items: center; margin-bottom: 40px; background-color: var(--vp-c-bg-elv); padding: 20px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
   <div style="flex-shrink: 0; width: 50px; height: 50px; background: #24292e; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 24px;">📝</div>
   <div>
     <h3 class="mt-0 fs-4">Tout est sur la plateforme</h3>
@@ -40,8 +40,8 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
 <p class="fs-4 text-grey-dk-000 mb-6">Cliquez pour visualiser le rendu réel dans le navigateur (Responsive, Co-branding, Endorsement).</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-bottom: 60px;">
   <!-- EXEMPLE 1 : CAATS -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #fff; display: flex; flex-direction: column;">
-    <div style="height: 180px; background-color: #f6f8fa; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid #eee;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
+    <div style="height: 180px; background-color: var(--vp-c-bg-soft); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--vp-c-divider);">
       <span style="font-size: 50px;">🐱</span>
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
@@ -56,8 +56,8 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </div>
   </div>
   <!-- EXEMPLE 2 : HELLOFRESH -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #fff; display: flex; flex-direction: column;">
-    <div style="height: 180px; background-color: #f6f8fa; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid #eee;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
+    <div style="height: 180px; background-color: var(--vp-c-bg-soft); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--vp-c-divider);">
       <span style="font-size: 50px;">🥘</span>
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
@@ -72,8 +72,8 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </div>
   </div>
   <!-- EXEMPLE 3 : CHARITY -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #fff; display: flex; flex-direction: column;">
-    <div style="height: 180px; background-color: #f6f8fa; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid #eee;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
+    <div style="height: 180px; background-color: var(--vp-c-bg-soft); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--vp-c-divider);">
       <span style="font-size: 50px;">🤝</span>
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
@@ -89,7 +89,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
   </div>
 </div>
 <!-- BLOC STUDIO CORRIGÉ -->
-<div style="border: 2px solid #e1e4e8; border-radius: 8px; padding: 30px 24px 24px 24px; position: relative; margin-bottom: 40px; background: #fff;">
+<div style="border: 2px solid #e1e4e8; border-radius: 8px; padding: 30px 24px 24px 24px; position: relative; margin-bottom: 40px; background: var(--vp-c-bg-elv);">
   <!-- Badge Absolute -->
   <div style="position: absolute; top: -12px; left: 24px; background: #24292e; color: white; padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px; text-transform: uppercase;">Option Délégation</div>
   <!-- Contenu Flex avec Wrap pour éviter la casse -->
@@ -100,7 +100,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
       <p class="mb-0">Déléguez la création au <strong>Studio getinside</strong>.<br />Nous créons l'email à vos couleurs, rédigeons l'édito et gérons l'intégration technique.</p>
     </div>
     <!-- Partie Droite : Prix & Bouton -->
-    <div style="text-align: right; flex: 0 0 auto; background: #f9f9f9; padding: 15px; border-radius: 6px; border: 1px solid #eee;">
+    <div style="text-align: right; flex: 0 0 auto; background: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border: 1px solid var(--vp-c-divider);">
       <div style="font-size: 20px; font-weight: 800; line-height: 1;">550€ HT</div>
       <div style="font-size: 12px; color: #666; margin-bottom: 10px;">déduit de vos revenus</div>
       <a href="mailto:studio@getinside.fr" class="btn btn-purple btn-sm">Contacter le Studio</a>

@@ -19,7 +19,7 @@ Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, A
 <br />
 <h2 class="text-blue-200 mb-4">Contraintes Techniques</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
     <h3 class="mt-0 fs-4">📁 Fichiers</h3>
     <ul class="mb-0">
       <li class="mb-2"><strong>Type :</strong> JPG, PNG ou GIF.</li>
@@ -27,7 +27,7 @@ Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, A
       <li><strong>Poids :</strong> Max <strong>150 Ko</strong>.<br /><em class="text-grey-dk-000">Recommandé < 80 Ko pour un chargement rapide sur mobile.</em></li>
     </ul>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #fff;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
     <h3 class="mt-0 fs-4">🎬 GIF Animés</h3>
     <p class="mb-2">Acceptés, mais attention à <strong>Outlook</strong> (versions bureau) qui n'affiche que la première image.</p>
     <div style="background: #fff9e6; border: 1px solid #ffeeba; padding: 10px; border-radius: 4px; color: #856404; font-size: 0.9em;">

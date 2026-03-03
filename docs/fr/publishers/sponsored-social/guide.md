@@ -47,7 +47,7 @@ Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activ
     <h3 class="mt-0 fs-4">3. Générer le code</h3>
     <p class="mb-0">Cliquez sur <strong>"Générer un code"</strong>, choisissez une durée (30 ou 60 jours) et copiez le code.</p>
   </div>
-  <div style="background-color: #f6f8fa; border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px;">
+  <div style="background-color: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); padding: 15px; border-radius: 8px;">
     <strong>📨 Action finale :</strong><br />
     Collez ce code dans la messagerie de la campagne sur <a href="https://app.getinside.media/">app.getinside.media</a> pour que l'annonceur puisse lier la vidéo.
   </div>
@@ -55,15 +55,15 @@ Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activ
 <hr class="my-6" />
 <h2 class="text-grey-dk-000 mb-4">Bonnes Pratiques Éditoriales</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
     <strong>Authenticité</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Utilisez votre ton habituel. Ne jouez pas un rôle, c'est ce que l'Annonceur recherche.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
     <strong>Transparence</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">L'outil de partenariat ajoute automatiquement la mention "Partenariat rémunéré", ce qui vous met en conformité avec la réglementation française sur la publicité.</p>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
     <strong>Performance</strong>
     <p class="fs-2 text-grey-dk-000 mb-0">Partagez le lien de votre publication avec votre gestionnaire de campagne getinside pour le suivi des performances.</p>
   </div>

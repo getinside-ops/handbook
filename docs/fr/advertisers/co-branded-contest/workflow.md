@@ -38,7 +38,7 @@ Ce dispositif nécessite une coordination précise pour la gestion des données 
   <div>
     <h3 class="mt-0 text-blue-200">Mécanique de collecte (Opt-in)</h3>
     <p>Lors de l'inscription au jeu, le participant coche une case spécifique :</p>
-    <div style="background: #fff; border: 1px dashed #ccc; padding: 10px; border-radius: 4px; display: inline-block;">
+    <div style="background: var(--vp-c-bg-elv); border: 1px dashed #ccc; padding: 10px; border-radius: 4px; display: inline-block;">
       ☑ <em>J'accepte de recevoir les offres du partenaire [Nom de votre Marque].</em>
     </div>
     <p class="mt-2 text-grey-dk-000">C'est cette case qui rend la donnée "RGPD Compliant" et monétisable.</p>

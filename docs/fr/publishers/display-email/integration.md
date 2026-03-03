@@ -25,7 +25,7 @@ Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de
   <div>
     <h3 class="mt-0 text-red-200">Récupération du Tracking (Obligatoire)</h3>
     <p>Pour que les clics soient comptabilisés (et rémunérés), vous ne devez <strong>pas</strong> utiliser le lien brut de l'annonceur.</p>
-    <div style="background: #fff; border: 2px dashed #d73a49; padding: 20px; border-radius: 8px;">
+    <div style="background: var(--vp-c-bg-elv); border: 2px dashed #d73a49; padding: 20px; border-radius: 8px;">
       <ol class="mb-0">
         <li>Connectez-vous à <a href="https://app.getinside.media/">app.getinside.media</a>.</li>
         <li>Allez dans l'onglet <strong>"Configuration et suivi"</strong> de la campagne.</li>

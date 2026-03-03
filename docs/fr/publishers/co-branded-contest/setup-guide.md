@@ -25,7 +25,7 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
   <div>
     <h3 class="mt-0 text-red-200">Le Formulaire & RGPD (Critique)</h3>
     <p>Pour monétiser la donnée (vendre le lead à l'annonceur), le formulaire doit respecter strictement le RGPD.</p>
-    <div style="background: #fff; border: 2px dashed #d73a49; padding: 20px; border-radius: 8px; margin-top: 15px;">
+    <div style="background: var(--vp-c-bg-elv); border: 2px dashed #d73a49; padding: 20px; border-radius: 8px; margin-top: 15px;">
       <p class="mb-2 fs-4 fw-700 text-grey-dk-000">Mention obligatoire à insérer :</p>
       <div style="display: flex; gap: 10px; align-items: center;">
         <div style="width: 20px; height: 20px; border: 1px solid #999; border-radius: 3px;"></div>

@@ -26,11 +26,11 @@ Le processus est conçu pour respecter la ligne éditoriale du Distributeur tout
     <h3 class="mt-0 text-blue-200">Création du contenu</h3>
     <p>Deux options s'offrent à vous (à définir lors du brief) :</p>
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px;">
-      <div style="background: #f6f8fa; padding: 10px; border-radius: 4px;">
+      <div style="background: var(--vp-c-bg-soft); padding: 10px; border-radius: 4px;">
         <strong>Option A (Fourni)</strong><br />
         Vous fournissez la vidéo/photo prête à poster.
       </div>
-      <div style="background: #f6f8fa; padding: 10px; border-radius: 4px;">
+      <div style="background: var(--vp-c-bg-soft); padding: 10px; border-radius: 4px;">
         <strong>Option B (Co-création)</strong><br />
         Le Distributeur (ou notre Studio) crée le contenu pour un rendu "natif".
       </div>

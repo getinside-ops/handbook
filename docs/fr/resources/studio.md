@@ -9,8 +9,8 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 <hr class="my-6" />
 <h2 class="text-purple-200 mb-4">L'Offre Studio</h2>
 <!-- BLOC TARIF ET SERVICES -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #fff; margin-bottom: 40px;">
-  <div style="padding: 30px; border-bottom: 1px solid #e1e4e8; background-color: #eff6ff; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); margin-bottom: 40px;">
+  <div style="padding: 30px; border-bottom: 1px solid var(--vp-c-divider); background-color: #eff6ff; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
     <div>
       <h3 class="mt-0 mb-1 fs-4">Création Forfaitaire</h3>
       <p class="mb-0 fs-2 text-grey-dk-000">Print, Email ou Social. Tout inclus.</p>
@@ -45,7 +45,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 <!-- LISTE DE LIENS STYLISÉS -->
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
   <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 28px;">✨</div>
       <div style="flex: 1;">
         <strong class="fs-4 d-block">Le Book d'Inspirations (Google Slides)</strong>
@@ -56,7 +56,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
   </a>
   <!-- LIEN CORRIGÉ VERS LA NOUVELLE PAGE INTERNE -->
   <a href="case-studies/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 28px;">📊</div>
       <div style="flex: 1;">
         <strong class="fs-4 d-block">Succès Clients (KPIs)</strong>
@@ -69,7 +69,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 <h2 class="text-grey-dk-000 mb-4">Ce que nous produisons</h2>
 <!-- LISTE VERTICALE PLEINE LARGEUR (POUR EVITER LES BUGS D'AFFICHAGE) -->
 <div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+  <div style="padding: 24px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px;">📦</div>
     <div>
       <strong class="d-block mb-2 fs-4">Print (Asile Colis)</strong>
@@ -80,7 +80,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
       </ul>
     </div>
   </div>
-  <div style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+  <div style="padding: 24px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px;">📧</div>
     <div>
       <strong class="d-block mb-2 fs-4">Emailing & Web</strong>
@@ -91,7 +91,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
       </ul>
     </div>
   </div>
-  <div style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
+  <div style="padding: 24px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px;">📱</div>
     <div>
       <strong class="d-block mb-2 fs-4">Social Media</strong>

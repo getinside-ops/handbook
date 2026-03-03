@@ -33,7 +33,7 @@ Votre maquette est prête ? Intégrez le tracking, soumettez un BAT conforme et 
   <div>
     <h3 class="mt-0 text-purple-200">Validation (BAT)</h3>
     <p>Pour valider la qualité technique, nous utilisons un viewer interne. Le BAT doit respecter un protocole strict.</p>
-    <div style="background-color: #fff; border: 2px solid #2563eb; padding: 20px; border-radius: 8px;">
+    <div style="background-color: var(--vp-c-bg-elv); border: 2px solid #2563eb; padding: 20px; border-radius: 8px;">
       <strong class="text-purple-200 fs-4">📧 Procédure d'envoi du BAT</strong>
       <ol class="mb-0 mt-2">
         <li>Envoyez un <strong>email de test réel</strong> (depuis votre routeur).</li>
@@ -63,7 +63,7 @@ Votre maquette est prête ? Intégrez le tracking, soumettez un BAT conforme et 
       <strong>1. Vérification du Ciblage</strong><br />
       Avant de router, assurez-vous d'avoir appliqué les critères de segmentation demandés dans le brief (ex: Actifs 12 mois, Femmes, etc.).
     </div>
-    <div style="background-color: #eff6ff; border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+    <div style="background-color: #eff6ff; border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px; margin-bottom: 20px;">
       <h4 class="mt-0 text-blue-200">🔄 Gestion du Renvoi (Non-Ouvreurs)</h4>
       <p class="fs-2 text-grey-dk-000">Si un renvoi aux non-ouvreurs (RGNO) est commandé :</p>
       <ul>

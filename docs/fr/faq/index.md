@@ -11,7 +11,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
 <div style="display: flex; flex-direction: column; gap: 16px;">
   <!-- LIEN 1 : COMPTE -->
   <a href="account-audiences" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">⚙️</div>
       <div>
         <h3 class="mt-0 mb-1 fs-5">Compte & Audiences</h3>
@@ -22,7 +22,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
   </a>
   <!-- LIEN 2 : CAMPAGNES -->
   <a href="campaign-management" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">⚡</div>
       <div>
         <h3 class="mt-0 mb-1 fs-5">Gestion des Campagnes</h3>
@@ -33,7 +33,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
   </a>
   <!-- LIEN 3 : FACTURATION -->
   <a href="billing" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">💰</div>
       <div>
         <h3 class="mt-0 mb-1 fs-5">Facturation & Paiements</h3>
@@ -44,7 +44,7 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
   </a>
   <!-- LIEN 4 : LOGISTIQUE -->
   <a href="logistics-tech" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 32px; min-width: 50px; text-align: center;">📦</div>
       <div>
         <h3 class="mt-0 mb-1 fs-5">Logistique & Technique</h3>

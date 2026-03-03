@@ -33,21 +33,21 @@ Une fois votre brief envoyé, c'est le Distributeur qui prend le relais pour con
 </div>
 <h2 class="text-grey-dk-000 mb-4">Le flux de production</h2>
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 24px; min-width: 40px; text-align: center;">🎨</div>
     <div>
       <strong class="fs-4 d-block">1. Conception</strong>
       <span class="fs-2 text-grey-dk-000">Le Distributeur (ou le Studio getinside) assemble l'email en utilisant les éléments de votre brief.</span>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 24px; min-width: 40px; text-align: center;">⚙️</div>
     <div>
       <strong class="fs-4 d-block">2. Intégration Technique</strong>
       <span class="fs-2 text-grey-dk-000">Les liens de tracking sont générés et insérés pour suivre vos ventes. Le code est optimisé pour la délivrabilité.</span>
     </div>
   </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 24px; min-width: 40px; text-align: center;">👀</div>
     <div>
       <strong class="fs-4 d-block">3. Review Interne</strong>

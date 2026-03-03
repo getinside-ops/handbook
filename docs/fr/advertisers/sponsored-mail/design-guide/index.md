@@ -21,7 +21,7 @@ De la stratégie créative à la validation technique : tout pour réussir vos v
       <p class="fs-4">Pas de graphiste ? Déléguez la création à notre Studio.</p>
       <p>Nous gérons la direction artistique, l'exécution graphique et la mise aux normes techniques pour un forfait unique.</p>
     </div>
-    <div style="flex: 1; min-width: 200px; text-align: center; background: white; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
+    <div style="flex: 1; min-width: 200px; text-align: center; background: white; padding: 20px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
       <div class="fs-8 fw-700 text-purple-200">550€ HT</div>
       <div class="fs-2 text-grey-dk-000 mb-3">par campagne</div>
       <a href="mailto:studio@getinside.fr" class="btn btn-purple btn-block">Contacter le Studio</a>

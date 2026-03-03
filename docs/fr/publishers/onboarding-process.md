@@ -27,7 +27,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div>
     <h3 class="mt-0 text-grey-dk-000">Configuration Logistique</h3>
     <p>Avant de créer vos audiences, définissez vos contraintes logistiques (indispensable pour l'algorithme).</p>
-    <div style="background: #f6f8fa; padding: 15px; border-radius: 6px; border-left: 4px solid #2563eb;">
+    <div style="background: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 4px solid #2563eb;">
       <strong>📍 Adresse de l'entrepôt :</strong> Lieu de livraison des supports.<br />
       <strong>⏱️ Délai d'ingestion (Lead Time) :</strong> Délai minimum entre la livraison et le début de la diffusion (automatiquement pris en compte par la plateforme).
     </div>
@@ -129,7 +129,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div>
     <h3 class="mt-0 text-blue-200">Trade Marketing (Vos Marques)</h3>
     <p>Ne dépendez pas uniquement des annonceurs externes. Soyez proactif avec vos propres fournisseurs !</p>
-    <div style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px; background-color: #f0f8ff;">
+    <div style="border: 1px solid var(--vp-c-divider); padding: 15px; border-radius: 6px; background-color: #f0f8ff;">
       <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Asile, Email, Social) via getinside.<br />
       <ul>
         <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
