@@ -98,7 +98,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </div>
     <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
       <div style="margin-bottom: 10px;">
-        <span style="background: #eef2ff; color: #6366f1; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
+        <span style="background: #E8FAF6; color: #1A7A65; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
       </div>
       <h3 class="mt-0 mb-2">Les Petits Frères des Pauvres</h3>
       <p class="fs-2 text-grey-dk-000 mb-4">Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>

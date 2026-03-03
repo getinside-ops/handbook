@@ -31,7 +31,7 @@ La création est terminée ? Il ne reste plus qu'à valider le BAT (Bon à Tirer
 
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #6366f1; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
   <div>
     <h3 class="mt-0 text-purple-200">Réception du BAT</h3>
     <p>Dès que le Distributeur a finalisé l'email et que nous l'avons vérifié techniquement, vous recevez une notification par email.</p>

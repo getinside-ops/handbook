@@ -46,7 +46,7 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 300px; border: 1px solid #6366f1; border-radius: 8px; padding: 24px;">
+  <div style="flex: 1; min-width: 300px; border: 1px solid #1A7A65; border-radius: 8px; padding: 24px;">
     <h3 class="mt-0 text-purple-200">Option A : Le "Cumul"</h3>
     <p>Laissez vos revenus s'accumuler sur votre cagnotte.</p>
     <ul>

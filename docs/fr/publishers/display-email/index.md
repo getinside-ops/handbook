@@ -25,7 +25,7 @@ Monétisez vos newsletters et emails transactionnels en y insérant simplement u
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
 
   <!-- TRANSAC -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #eef2ff;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #E8FAF6;">
     <h3 class="mt-0 text-purple-200">🛍️ Emails Transactionnels</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">C'est l'emplacement le plus premium (>60% d'ouverture).</p>
     <p class="mb-0 fs-2"><em>Insérez une bannière "Offre Partenaire" en bas de vos confirmations de commande.</em></p>

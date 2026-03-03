@@ -57,7 +57,7 @@ getinside agit comme une centrale d'achat pour mutualiser les volumes, réduire 
   </div>
 
   <!-- USAGE 2 -->
-  <div style="border: 2px solid #6366f1; border-radius: 8px; padding: 24px; background: #eef2ff;">
+  <div style="border: 2px solid #1A7A65; border-radius: 8px; padding: 24px; background: #E8FAF6;">
     <h3 class="mt-0 fs-4 text-purple-200">2. Auto-promotion (Pour vous)</h3>
     <p>Vous souhaitez imprimer vos propres cartes de remerciement ou flyers à insérer dans <strong>vos propres colis</strong> ?</p>
     <ul>

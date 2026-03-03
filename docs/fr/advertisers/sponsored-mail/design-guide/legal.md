@@ -36,7 +36,7 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
 
   <!-- MAGIE DYNAMIQUE -->
-  <div style="border: 1px solid #6366f1; border-radius: 8px; padding: 20px; background: #eef2ff;">
+  <div style="border: 1px solid #1A7A65; border-radius: 8px; padding: 20px; background: #E8FAF6;">
     <h3 class="mt-0 text-purple-200">✨ La magie du "Dynamique"</h3>
     <p class="fs-2 text-grey-dk-000">Nos QR codes sont dynamiques. Cela signifie que l'URL de redirection n'est pas "gravée" dans le motif du code.</p>
     <div style="background: #fff; padding: 10px; border-radius: 4px; border: 1px solid #e1e4e8; margin-top: 10px;">
