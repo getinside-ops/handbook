@@ -17,18 +17,18 @@ Votre maquette est prête ? Intégrez le tracking, soumettez un BAT conforme et 
 
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
   <div>
     <h3 class="mt-0 text-purple-200">Intégration du Tracking</h3>
     <p>Rendez-vous dans l'onglet <strong>"Configuration"</strong> de la campagne pour récupérer les tags.</p>
     
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 15px;">
-      <div style="background: #E8FAF6; border: 1px solid #1A7A65; padding: 15px; border-radius: 6px;">
+      <div style="background: #eff6ff; border: 1px solid #2563eb; padding: 15px; border-radius: 6px;">
         <strong>👁️ Pixel d'Ouverture</strong><br>
         Tag image <code>&lt;img...&gt;</code> à coller dans le HTML (avant <code>&lt;/body&gt;</code>).<br>
         <em>Indispensable pour compter les vues.</em>
       </div>
-      <div style="background: #E8FAF6; border: 1px solid #1A7A65; padding: 15px; border-radius: 6px;">
+      <div style="background: #eff6ff; border: 1px solid #2563eb; padding: 15px; border-radius: 6px;">
         <strong>🔗 Liens Trackés</strong><br>
         Remplacez <strong>TOUS</strong> les liens vers l'Annonceur par les liens <code>gtinsi.de</code> fournis.<br>
         <em>Indispensable pour compter les clics.</em>
@@ -39,12 +39,12 @@ Votre maquette est prête ? Intégrez le tracking, soumettez un BAT conforme et 
 
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
   <div>
     <h3 class="mt-0 text-purple-200">Validation (BAT)</h3>
     <p>Pour valider la qualité technique, nous utilisons un viewer interne. Le BAT doit respecter un protocole strict.</p>
     
-    <div style="background-color: #fff; border: 2px solid #1A7A65; padding: 20px; border-radius: 8px;">
+    <div style="background-color: #fff; border: 2px solid #2563eb; padding: 20px; border-radius: 8px;">
       <strong class="text-purple-200 fs-4">📧 Procédure d'envoi du BAT</strong>
       <ol class="mb-0 mt-2">
         <li>Envoyez un <strong>email de test réel</strong> (depuis votre routeur).</li>
@@ -78,7 +78,7 @@ Votre maquette est prête ? Intégrez le tracking, soumettez un BAT conforme et 
       Avant de router, assurez-vous d'avoir appliqué les critères de segmentation demandés dans le brief (ex: Actifs 12 mois, Femmes, etc.).
     </div>
 
-    <div style="background-color: #E8FAF6; border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+    <div style="background-color: #eff6ff; border: 1px solid #e1e4e8; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
       <h4 class="mt-0 text-blue-200">🔄 Gestion du Renvoi (Non-Ouvreurs)</h4>
       <p class="fs-2 text-grey-dk-000">Si un renvoi aux non-ouvreurs (RGNO) est commandé :</p>
       <ul>

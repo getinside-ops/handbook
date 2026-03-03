@@ -51,7 +51,7 @@ Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, A
 
 <h2 class="text-grey-dk-000 mb-4">💡 Bonnes Pratiques Design</h2>
 
-<div style="border-left: 4px solid #1A7A65; background-color: #E8FAF6; padding: 20px; border-radius: 0 8px 8px 0; margin-bottom: 20px;">
+<div style="border-left: 4px solid #2563eb; background-color: #eff6ff; padding: 20px; border-radius: 0 8px 8px 0; margin-bottom: 20px;">
   <h3 class="mt-0 text-purple-200">La Bordure (Border)</h3>
   <p>Si votre bannière a un fond blanc, elle risque de se fondre dans le fond de l'email et de devenir invisible.</p>
   <p class="mb-0">👉 <strong>Ajoutez une fine bordure grise de 1px</strong> (<code>#cccccc</code>) tout autour de votre créa pour bien la délimiter.</p>

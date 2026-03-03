@@ -18,7 +18,7 @@ De la réception des palettes à l'expérience d'ouverture client (Unboxing).
 
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 30px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
   <div>
     <h3 class="mt-0 text-grey-dk-000">Contrôle à l'arrivée</h3>
     <p>Les supports (flyers, échantillons) sont livrés à l'adresse de votre entrepôt renseignée sur la plateforme.</p>

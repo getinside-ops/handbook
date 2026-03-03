@@ -36,7 +36,7 @@ Définition et opportunités pour votre marque.
 </div>
 
 <!-- BLOC CERCLE VERTUEUX -->
-<div style="background-color: #E8FAF6; border: 2px solid #1A7A65; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background-color: #eff6ff; border: 2px solid #2563eb; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h3 class="mt-0 fs-4 text-purple-200">🔄 Le Modèle getinside : Monétiser pour Réinvestir</h3>
   <p class="fs-4 mb-2">La force de notre plateforme réside dans la fluidité entre vos revenus et vos dépenses.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px;">

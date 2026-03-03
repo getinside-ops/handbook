@@ -49,7 +49,7 @@ Le dispositif puissant qui combine **notoriété** et **acquisition de leads (Da
 
 <h2 class="text-grey-dk-000 mb-4">Votre Investissement</h2>
 
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background-color: #E8FAF6; margin-bottom: 40px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background-color: #eff6ff; margin-bottom: 40px;">
   <p class="fs-4 mt-0 mb-4">Outre le budget média, vous devez fournir :</p>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">

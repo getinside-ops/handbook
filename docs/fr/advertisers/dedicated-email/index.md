@@ -22,7 +22,7 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
 <hr class="mb-6">
 
 <!-- BLOC CONCEPT -->
-<div style="background-color: #E8FAF6; border: 1px solid #1A7A65; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background-color: #eff6ff; border: 1px solid #2563eb; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h2 class="mt-0 text-purple-200">🤝 Le concept : l'Endorsement</h2>
   <p class="fs-4 mb-2">Contrairement à l'achat de base classique, nous privilégions ici une approche de <strong>recommandation</strong>.</p>
   <p class="mb-0">C'est le Distributeur qui s'adresse à sa communauté pour lui présenter votre offre comme un "privilège abonné". Cela garantit de meilleurs taux d'ouverture et une confiance accrue.</p>

@@ -42,7 +42,7 @@ Pour maximiser l'engagement, vos contenus doivent respecter les codes du "Native
 
 <h2 class="text-blue-200 mb-4">⏱️ Stories</h2>
 
-<div style="border: 1px dashed #e1e4e8; padding: 20px; border-radius: 8px; background-color: #E8FAF6;">
+<div style="border: 1px dashed #e1e4e8; padding: 20px; border-radius: 8px; background-color: #eff6ff;">
   <ul class="mb-0">
     <li class="mb-2"><strong>Ratio :</strong> 9:16 (1080 x 1920 px).</li>
     <li class="mb-2"><strong>Durée :</strong> 15 secondes par slide.</li>

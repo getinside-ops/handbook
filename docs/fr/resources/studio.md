@@ -19,7 +19,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 <!-- BLOC TARIF ET SERVICES -->
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #fff; margin-bottom: 40px;">
   
-  <div style="padding: 30px; border-bottom: 1px solid #e1e4e8; background-color: #E8FAF6; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <div style="padding: 30px; border-bottom: 1px solid #e1e4e8; background-color: #eff6ff; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
     <div>
       <h3 class="mt-0 mb-1 fs-4">Création Forfaitaire</h3>
       <p class="mb-0 fs-2 text-grey-dk-000">Print, Email ou Social. Tout inclus.</p>
@@ -60,7 +60,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
 
   <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#E8FAF6'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 28px;">✨</div>
       <div style="flex: 1;">
         <strong class="fs-4 d-block">Le Book d'Inspirations (Google Slides)</strong>
@@ -72,7 +72,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
 
   <!-- LIEN CORRIGÉ VERS LA NOUVELLE PAGE INTERNE -->
   <a href="case-studies/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#E8FAF6'" onmouseout="this.style.backgroundColor='#fff'">
+    <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
       <div style="font-size: 28px;">📊</div>
       <div style="flex: 1;">
         <strong class="fs-4 d-block">Succès Clients (KPIs)</strong>

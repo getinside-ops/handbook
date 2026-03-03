@@ -17,7 +17,7 @@ Une fois votre brief envoyé, c'est le Distributeur qui prend le relais pour con
 
 <h2 class="text-blue-200 mb-4">Pourquoi ce n'est pas vous qui créez l'email ?</h2>
 
-<div style="background-color: #E8FAF6; border: 2px solid #1A7A65; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
+<div style="background-color: #eff6ff; border: 2px solid #2563eb; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h3 class="mt-0 text-purple-200">🤝 La force de l'Endorsement (Recommandation)</h3>
   <p class="fs-4 mb-2">L'objectif n'est pas d'envoyer une publicité brute, mais une <strong>recommandation de la part du partenaire</strong>.</p>
   <p class="mb-0">Les abonnés du Distributeur lui font confiance. Pour maximiser le taux d'ouverture et de clic, l'email doit respecter les codes graphiques et le ton habituel de la newsletter qu'ils reçoivent chaque semaine.</p>

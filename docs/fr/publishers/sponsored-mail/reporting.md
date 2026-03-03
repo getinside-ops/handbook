@@ -16,7 +16,7 @@ Le reporting régulier est indispensable pour assurer le suivi de la consommatio
 
 <h2 class="text-purple-200 mb-4">📅 L'obligation hebdomadaire</h2>
 
-<div style="border: 2px solid #1A7A65; background-color: #E8FAF6; padding: 24px; border-radius: 8px; margin-bottom: 40px;">
+<div style="border: 2px solid #2563eb; background-color: #eff6ff; padding: 24px; border-radius: 8px; margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 40px;">🗓️</div>
     <div>
@@ -30,25 +30,25 @@ Le reporting régulier est indispensable pour assurer le suivi de la consommatio
 
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">1</div>
+  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">1</div>
   <div>Connectez-vous à <a href="https://app.getinside.media/">app.getinside.media</a>.</div>
 </div>
 
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">2</div>
+  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">2</div>
   <div>Allez dans <strong>"Mes Campagnes"</strong> et sélectionnez la campagne active.</div>
 </div>
 
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">3</div>
+  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">3</div>
   <div>Ouvrez l'onglet <strong>"Configuration et suivi"</strong>.</div>
 </div>
 
 <!-- ETAPE 4 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #1A7A65; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">4</div>
+  <div style="flex-shrink: 0; width: 30px; height: 30px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">4</div>
   <div>
     Dans le tableau de suivi, saisissez :
     <ul>
