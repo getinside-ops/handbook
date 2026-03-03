@@ -18,6 +18,22 @@
   --vp-c-brand-3:    #06b6d4;          /* cyan-500 */
   --vp-c-brand-soft: rgba(8, 145, 178, 0.12);
 
+  /* ── Palette accents — vivid, for decoration ─────────────── */
+  --gi-mint:   #6AE7C8;
+  --gi-yellow: #FCF758;
+  --gi-violet: #C990FC;
+
+  /* VitePress hero button — mint bg, dark text ─────────────── */
+  --vp-button-brand-border:        transparent;
+  --vp-button-brand-text:          #0a0f1e;
+  --vp-button-brand-bg:            var(--gi-mint);
+  --vp-button-brand-hover-border:  transparent;
+  --vp-button-brand-hover-text:    white;
+  --vp-button-brand-hover-bg:      var(--vp-c-brand-1);
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-text:   white;
+  --vp-button-brand-active-bg:     var(--vp-c-brand-2);
+
   /* gi-* are thin aliases over VitePress native vars so content
      files (.md inline styles) automatically adapt to dark mode. */
   --gi-accent:       var(--vp-c-brand-1);
@@ -35,7 +51,7 @@
   --gi-tint-green-bg:     #f0fdf4;
   --gi-tint-green-text:   #059669;
   --gi-tint-green-border: #ccf3df;
-  --gi-tint-yellow-bg:    #fff9e6;
+  --gi-tint-yellow-bg:    rgba(252, 247, 88, 0.18);
   --gi-tint-yellow-text:  #d97706;
   --gi-tint-red-bg:       #fff5f5;
   --gi-tint-red-text:     #dc2626;
@@ -77,6 +93,14 @@
   --vp-c-text-1: #e2e8f0;
   --vp-c-text-2: #94a3b8;
   --vp-c-text-3: #475569;
+
+  /* VitePress hero button — neon cyan, very dark text ───────── */
+  --vp-button-brand-text:          #020617;
+  --vp-button-brand-bg:            var(--vp-c-brand-1);
+  --vp-button-brand-hover-text:    #020617;
+  --vp-button-brand-hover-bg:      var(--vp-c-brand-2);
+  --vp-button-brand-active-text:   #020617;
+  --vp-button-brand-active-bg:     var(--vp-c-brand-1);
 
   /* Semantic tint tokens — neon-adapted dark mode */
   --gi-tint-blue-bg:      rgba(34, 211, 238, 0.08);
@@ -195,15 +219,26 @@
 }
 
 .btn-primary {
-  background: var(--vp-c-brand-1) !important;
-  border-color: var(--vp-c-brand-1) !important;
-  color: var(--vp-c-white) !important;
+  background: var(--gi-mint) !important;
+  border-color: var(--gi-mint) !important;
+  color: #0a0f1e !important;             /* dark text — bright mint needs it */
 }
 .btn-primary:hover {
+  background: var(--vp-c-brand-1) !important;
+  border-color: var(--vp-c-brand-1) !important;
+  color: white !important;
+  transform: translateY(-1px);
+}
+/* Dark mode: use neon cyan + very dark text */
+.dark .btn-primary {
+  background: var(--vp-c-brand-1) !important;   /* #22d3ee neon */
+  border-color: var(--vp-c-brand-1) !important;
+  color: #020617 !important;
+}
+.dark .btn-primary:hover {
   background: var(--vp-c-brand-2) !important;
   border-color: var(--vp-c-brand-2) !important;
-  color: var(--vp-c-white) !important;
-  transform: translateY(-1px);
+  color: #020617 !important;
 }
 
 .btn-outline {
@@ -238,23 +273,23 @@
 }
 .gi-callout.info {
   background: var(--gi-tint-blue-bg);
-  border-color: var(--gi-tint-blue-text);
-  color: var(--gi-tint-blue-text);
+  border-color: var(--gi-mint);          /* vivid mint accent */
+  color: var(--vp-c-text-1);             /* neutral text */
 }
 .gi-callout.success {
   background: var(--gi-tint-green-bg);
   border-color: var(--gi-tint-green-text);
-  color: var(--gi-tint-green-text);
+  color: var(--vp-c-text-1);
 }
 .gi-callout.warning {
   background: var(--gi-tint-yellow-bg);
   border-color: var(--gi-tint-yellow-text);
-  color: var(--gi-tint-yellow-text);
+  color: var(--vp-c-text-1);
 }
 .gi-callout.danger {
   background: var(--gi-tint-red-bg);
   border-color: var(--gi-tint-red-text);
-  color: var(--gi-tint-red-text);
+  color: var(--vp-c-text-1);
 }
 .gi-callout p:last-child { margin-bottom: 0; }
 
@@ -442,8 +477,8 @@
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
   transform: translateY(-2px);
 }
-.home-portal-blue  { border-top: 3px solid var(--gi-tint-blue-text); }
-.home-portal-green { border-top: 3px solid var(--gi-tint-green-text); }
+.home-portal-blue  { border-top: 3px solid var(--gi-mint); }
+.home-portal-green { border-top: 3px solid var(--gi-violet); }
 
 .home-portal-header {
   display: flex;
