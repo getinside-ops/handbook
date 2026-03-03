@@ -18,7 +18,7 @@ Le dispositif puissant qui combine **notoriété** et **acquisition de leads (Da
     <h3 class="mt-0 text-blue-200">📊 Acquisition de Leads (Opt-in)</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Un e-commerçant partenaire héberge un jeu sur son site. En échange de la participation, l'utilisateur accepte de recevoir vos offres.</p>
     <div style="margin-top: 10px;">
-      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: #000;">Objectif : Enrichir votre CRM</span>
+      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: var(--gi-tint-green-text);">Objectif : Enrichir votre CRM</span>
     </div>
   </div>
   <!-- CARTE CONVERSION -->

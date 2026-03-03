@@ -19,7 +19,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
     <h3 class="mt-0 text-purple-200">📢 Blast (Newsletter)</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Vous envoyez un email dédié à tout ou partie de votre base active.</p>
     <div style="margin-top: 15px;">
-      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: #000;">Volume Fort</span>
+      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: var(--gi-tint-green-text);">Volume Fort</span>
     </div>
   </div>
   <!-- POST PURCHASE -->
@@ -27,7 +27,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
     <h3 class="mt-0 text-blue-200">🛍️ Post-Purchase</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Un email dédié envoyé automatiquement après une commande.</p>
     <div style="margin-top: 15px;">
-      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: #000;">Taux d'ouverture > 50%</span>
+      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: var(--gi-tint-green-text);">Taux d'ouverture > 50%</span>
     </div>
   </div>
   <!-- WELCOME -->
@@ -35,7 +35,7 @@ Valorisez votre base de données en recommandant des marques partenaires à votr
     <h3 class="mt-0 text-green-200">👋 Welcome Pack</h3>
     <p class="fs-2 text-grey-dk-000 mb-2">Présentation d'un partenaire dans la séquence de bienvenue.</p>
     <div style="margin-top: 15px;">
-      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: #000;">Fidélisation</span>
+      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: var(--gi-tint-green-text);">Fidélisation</span>
     </div>
   </div>
 </div>

@@ -258,7 +258,7 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <!-- SCRIPT LIGHTBOX (POP-IN)               -->
 <!-- ========================================== -->
 <div id="lightbox" class="lightbox" onclick="closeLightbox()" style="display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9); justify-content: center; align-items: center;">
-  <span style="position: absolute; top: 20px; right: 35px; color: #f1f1f1; font-size: 40px; font-weight: bold; transition: 0.3s; cursor: pointer;">&times;</span>
+  <span style="position: absolute; top: 20px; right: 35px; color: white; font-size: 40px; font-weight: bold; transition: 0.3s; cursor: pointer;">&times;</span>
   <img class="lightbox-content" id="lightbox-img" style="margin: auto; display: block; max-width: 90%; max-height: 90vh;">
 </div>
 <script setup>

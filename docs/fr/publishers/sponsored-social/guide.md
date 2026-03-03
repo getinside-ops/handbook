@@ -8,7 +8,7 @@ Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activ
 
 <hr class="my-6" />
 <h2 class="text-purple-200 mb-4">Sur Instagram (Partnership Ads)</h2>
-<div style="border-left: 4px solid #d62976; padding-left: 20px;">
+<div style="border-left: 4px solid var(--gi-tint-red-text); padding-left: 20px;">
   <div style="margin-bottom: 20px;">
     <h3 class="mt-0 fs-4">1. Préparez le post</h3>
     <p class="mb-0">Créez votre Post ou Reel normalement. Arrivez à l'étape finale (juste avant de cliquer sur "Partager").</p>
@@ -25,7 +25,7 @@ Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activ
     <h3 class="mt-0 fs-4">4. Identifier la marque</h3>
     <p class="mb-0">Cliquez sur <strong>"Ajouter des partenaires de marque"</strong> et recherchez le nom du compte de l'Annonceur (indiqué dans le brief).</p>
   </div>
-  <div style="background: var(--gi-tint-red-bg); border: 1px dashed #d62976; padding: 15px; border-radius: 8px;">
+  <div style="background: var(--gi-tint-red-bg); border: 1px dashed var(--gi-tint-red-text); padding: 15px; border-radius: 8px;">
     <h3 class="mt-0 text-red-200 fs-4">⚠️ ÉTAPE CRITIQUE</h3>
     <p class="mb-0">Vous devez absolument activer l'option :<br />
     <strong>"Autoriser le partenaire de marque à booster"</strong> (Allow brand partner to boost).</p>
@@ -34,7 +34,7 @@ Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activ
 </div>
 <hr class="my-6" />
 <h2 class="text-purple-200 mb-4">Sur TikTok (Spark Ads)</h2>
-<div style="border-left: 4px solid #000; padding-left: 20px;">
+<div style="border-left: 4px solid var(--vp-c-text-1); padding-left: 20px;">
   <div style="margin-bottom: 20px;">
     <h3 class="mt-0 fs-4">1. Paramètres de publicité</h3>
     <p class="mb-0">Publiez la vidéo. Allez dessus, cliquez sur les <strong>3 points (...)</strong> en bas à droite, puis faites défiler jusqu'à <strong>"Paramètres de publicité"</strong> (Ad settings).</p>

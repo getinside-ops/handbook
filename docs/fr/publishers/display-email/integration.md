@@ -21,7 +21,7 @@ Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de
 </div>
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #d73a49; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-red-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
   <div>
     <h3 class="mt-0 text-red-200">Récupération du Tracking (Obligatoire)</h3>
     <p>Pour que les clics soient comptabilisés (et rémunérés), vous ne devez <strong>pas</strong> utiliser le lien brut de l'annonceur.</p>

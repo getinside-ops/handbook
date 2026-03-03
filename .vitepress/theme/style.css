@@ -12,6 +12,12 @@
   /* Use Inter as the base font */
   --vp-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
 
+  /* ── Tech/Cyan brand (light mode) ────────────────────────── */
+  --vp-c-brand-1:    #0891b2;          /* cyan-600 */
+  --vp-c-brand-2:    #0e7490;          /* cyan-700 */
+  --vp-c-brand-3:    #06b6d4;          /* cyan-500 */
+  --vp-c-brand-soft: rgba(8, 145, 178, 0.12);
+
   /* gi-* are thin aliases over VitePress native vars so content
      files (.md inline styles) automatically adapt to dark mode. */
   --gi-accent:       var(--vp-c-brand-1);
@@ -23,9 +29,9 @@
   --gi-surface:      var(--vp-c-bg-elv);
 
   /* Semantic tint tokens used in content (light mode) */
-  --gi-tint-blue-bg:      #eff6ff;
-  --gi-tint-blue-text:    #2563eb;
-  --gi-tint-blue-border:  #dbeafe;
+  --gi-tint-blue-bg:      #ecfeff;
+  --gi-tint-blue-text:    #0891b2;
+  --gi-tint-blue-border:  #a5f3fc;
   --gi-tint-green-bg:     #f0fdf4;
   --gi-tint-green-text:   #059669;
   --gi-tint-green-border: #ccf3df;
@@ -38,21 +44,70 @@
   --gi-tint-purple-text:  #7b1fa2;
 }
 
-/* Semantic tint tokens — dark mode overrides */
+/* ── Dark mode: full neon/tech overrides ──────────────────── */
 .dark {
-  --gi-tint-blue-bg:      rgba(96, 165, 250, 0.12);
-  --gi-tint-blue-text:    #93c5fd;
-  --gi-tint-blue-border:  rgba(96, 165, 250, 0.25);
-  --gi-tint-green-bg:     rgba(16, 185, 129, 0.12);
-  --gi-tint-green-text:   #6ee7b7;
-  --gi-tint-green-border: rgba(16, 185, 129, 0.25);
+  /* Neon cyan brand */
+  --vp-c-brand-1:    #22d3ee;          /* cyan-400, neon */
+  --vp-c-brand-2:    #06b6d4;          /* cyan-500 */
+  --vp-c-brand-3:    #67e8f9;          /* cyan-300, extra bright */
+  --vp-c-brand-soft: rgba(34, 211, 238, 0.14);
+
+  /* Deep dark backgrounds */
+  --vp-c-bg:         #020617;          /* slate-950 */
+  --vp-c-bg-soft:    #0a1628;          /* deep navy */
+  --vp-c-bg-mute:    #1e293b;          /* slate-800 */
+  --vp-c-bg-elv:     #0a1628;
+  --vp-c-bg-alt:     #0a1628;
+
+  /* Cyan-tinted dark borders */
+  --vp-c-divider:    rgba(34, 211, 238, 0.14);
+  --vp-c-border:     rgba(34, 211, 238, 0.14);
+  --vp-c-gutter:     #020617;
+
+  /* Frosted nav + sidebar */
+  --vp-nav-bg-color:     rgba(2, 6, 23, 0.88);
+  --vp-sidebar-bg-color: #020617;
+
+  /* Code blocks */
+  --vp-code-block-bg: #0a1628;
+  --vp-code-color:    #22d3ee;
+  --vp-code-bg:       rgba(34, 211, 238, 0.10);
+
+  /* Text */
+  --vp-c-text-1: #e2e8f0;
+  --vp-c-text-2: #94a3b8;
+  --vp-c-text-3: #475569;
+
+  /* Semantic tint tokens — neon-adapted dark mode */
+  --gi-tint-blue-bg:      rgba(34, 211, 238, 0.08);
+  --gi-tint-blue-text:    #22d3ee;
+  --gi-tint-blue-border:  rgba(34, 211, 238, 0.30);
+  --gi-tint-green-bg:     rgba(16, 185, 129, 0.10);
+  --gi-tint-green-text:   #34d399;
+  --gi-tint-green-border: rgba(16, 185, 129, 0.28);
   --gi-tint-yellow-bg:    rgba(217, 119, 6, 0.12);
   --gi-tint-yellow-text:  #fde68a;
   --gi-tint-red-bg:       rgba(220, 38, 38, 0.12);
   --gi-tint-red-text:     #fca5a5;
   --gi-tint-red-border:   rgba(220, 38, 38, 0.25);
-  --gi-tint-purple-bg:    rgba(139, 92, 246, 0.12);
+  --gi-tint-purple-bg:    rgba(168, 85, 247, 0.12);
   --gi-tint-purple-text:  #e9d5ff;
+}
+
+/* ── Neon glow effects (dark mode only) ──────────────────── */
+.dark .btn-primary {
+  box-shadow: 0 0 18px rgba(34, 211, 238, 0.30);
+}
+.dark .btn-primary:hover {
+  box-shadow: 0 0 28px rgba(34, 211, 238, 0.55), 0 2px 8px rgba(0,0,0,0.5);
+}
+.dark .gi-card:hover {
+  border-color: rgba(34, 211, 238, 0.40) !important;
+  box-shadow: 0 0 28px rgba(34, 211, 238, 0.10), 0 4px 20px rgba(0,0,0,0.5);
+}
+.dark .gi-tile:hover {
+  background: rgba(34, 211, 238, 0.06) !important;
+  border-color: rgba(34, 211, 238, 0.38) !important;
 }
 
 /* ============================================================

@@ -30,7 +30,7 @@ La création est terminée ? Il ne reste plus qu'à valider le BAT (Bon à Tirer
 </div>
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: #d73a49; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
+  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-red-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
   <div>
     <h3 class="mt-0 text-red-200">Votre Validation (Action Requise)</h3>
     <p>Si la création vous convient :</p>
