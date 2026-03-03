@@ -1,77 +1,53 @@
 ---
-layout: default
 title: Plan du Site
-nav_order: 100
-toc: false
 ---
 
 # Plan du Site
-{: .fs-9 }
 
 Vue d'ensemble de toute la documentation disponible sur le Help Center.
-{: .fs-6 .fw-300 }
 
-<hr class="my-6">
-
-<!-- SECTION DÉCOUVERTE (Tout en haut) -->
+<hr class="my-6" />
 <div class="mb-6">
-  <h2 class="mt-0 mb-4 text-purple-200">🚀 Découverte & Concepts</h2>
+  <h2 class="mt-0 mb-4 text-purple-200">🚀 Découverte &amp; Concepts</h2>
   <ul class="fs-4">
-    {% assign start_pages = site.html_pages | where_exp: "item", "item.path contains 'start-here/'" | sort: "nav_order" %}
-    {% for p in start_pages %}
-      <li class="mb-2"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-    {% endfor %}
+    <li class="mb-2"><a href="/handbook/docs/fr/start-here/">Découvrir getinside</a></li>
   </ul>
 </div>
-
-<hr class="mb-6">
-
-<!-- GRILLE PRINCIPALE -->
+<hr class="mb-6" />
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px;">
-
-  <!-- COLONNE ANNONCEURS -->
   <div>
     <h2 class="mt-0 mb-4">🛍️ Espace Annonceurs</h2>
     <ul class="fs-4">
-      {% assign advertisers_pages = site.html_pages | where_exp: "item", "item.path contains 'advertisers/'" | sort: "title" %}
-      {% for p in advertisers_pages %}
-        <!-- On exclut l'index principal pour ne pas faire doublon avec le titre de colonne, sauf si souhaité -->
-        {% if p.title != "Espace Annonceurs" %}
-          <li class="mb-2"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+      <li class="mb-2"><a href="/handbook/docs/fr/advertisers/sponsored-mail/">Asile Colis &amp; Specs</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/advertisers/dedicated-email/">Emailing Dédié</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/advertisers/sponsored-social/">Social Ads</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/advertisers/co-branded-contest/">Jeu Concours</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/advertisers/printing-services">Service Impression &amp; RSE</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/advertisers/pricing">Modèle Tarifaire</a></li>
     </ul>
   </div>
-
-  <!-- COLONNE ÉDITEURS -->
   <div>
     <h2 class="mt-0 mb-4">📦 Espace Éditeurs</h2>
     <ul class="fs-4">
-      {% assign publishers_pages = site.html_pages | where_exp: "item", "item.path contains 'publishers/'" | sort: "title" %}
-      {% for p in publishers_pages %}
-        {% if p.title != "Espace Éditeurs" %}
-          <li class="mb-2"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+      <li class="mb-2"><a href="/handbook/docs/fr/publishers/onboarding-process">Guide de Démarrage</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/publishers/sponsored-mail/">Logistique Colis</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/publishers/dedicated-email/">Création Email</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/publishers/sponsored-social/">Social</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/publishers/pricing">Offres &amp; Abonnements</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/publishers/payouts">Paiements &amp; Wallet</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/publishers/affiliation">Programme d'Affiliation</a></li>
     </ul>
   </div>
-
-  <!-- COLONNE SUPPORT -->
   <div>
-    <h2 class="mt-0 mb-4">📚 Support & Aide</h2>
+    <h2 class="mt-0 mb-4">📚 Support &amp; Aide</h2>
     <ul class="fs-4">
-      <!-- FAQ -->
       <li class="mb-2"><strong>Foire Aux Questions</strong></li>
-      {% assign faq_pages = site.html_pages | where_exp: "item", "item.path contains 'faq/'" | sort: "nav_order" %}
-      {% for p in faq_pages %}
-        {% if p.title != "FAQ" %}
-          <li class="mb-2 ml-4"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-      
-      <!-- Glossaire -->
-      <li class="mb-2 mt-4"><a href="{{ '/docs/fr/glossary' | relative_url }}">📖 Glossaire</a></li>
+      <li class="mb-2 ml-4"><a href="/handbook/docs/fr/faq/logistics">FAQ Logistique</a></li>
+      <li class="mb-2 ml-4"><a href="/handbook/docs/fr/faq/payments">FAQ Paiements</a></li>
+      <li class="mb-2 ml-4"><a href="/handbook/docs/fr/faq/tracking">FAQ Tracking</a></li>
+      <li class="mb-2 mt-4"><a href="/handbook/docs/fr/glossary">📖 Glossaire</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/resources/library">📚 Bibliothèque</a></li>
+      <li class="mb-2"><a href="/handbook/docs/fr/resources/case-studies">📊 Case Studies</a></li>
     </ul>
   </div>
-
 </div>

@@ -1,19 +1,12 @@
 ---
-layout: default
 title: Setup & RGPD
-parent: Co-Branded Contest (publisher)
-grand_parent: Espace Éditeurs
-nav_order: 1
 ---
 
 # Guide de mise en place
-{: .fs-9 }
 
 Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conforme.
-{: .fs-6 .fw-300 }
 
-<hr class="my-6">
-
+<hr class="my-6" />
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
@@ -26,14 +19,12 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #d73a49; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
   <div>
     <h3 class="mt-0 text-red-200">Le Formulaire & RGPD (Critique)</h3>
     <p>Pour monétiser la donnée (vendre le lead à l'annonceur), le formulaire doit respecter strictement le RGPD.</p>
-    
     <div style="background: #fff; border: 2px dashed #d73a49; padding: 20px; border-radius: 8px; margin-top: 15px;">
       <p class="mb-2 fs-4 fw-700 text-grey-dk-000">Mention obligatoire à insérer :</p>
       <div style="display: flex; gap: 10px; align-items: center;">
@@ -42,11 +33,9 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
       </div>
       <p class="mt-3 mb-0 fs-2 text-grey-dk-000">⚠️ Cette case ne doit <strong>JAMAIS</strong> être pré-cochée.</p>
     </div>
-    
     <p class="mt-2 text-grey-dk-000"><em>Note : Seuls les participants cochant cette case seront facturés à l'Annonceur. Les autres jouent mais ne sont pas monétisables.</em></p>
   </div>
 </div>
-
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
@@ -60,7 +49,6 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 4 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">✓</div>

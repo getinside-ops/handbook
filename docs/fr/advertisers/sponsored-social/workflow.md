@@ -1,19 +1,12 @@
 ---
-layout: default
 title: Process & Amplification
-parent: Sponsored social
-grand_parent: Espace Annonceurs
-nav_order: 1
 ---
 
 # Workflow de Campagne
-{: .fs-9 }
 
 Le processus est conçu pour respecter la ligne éditoriale du Distributeur tout en garantissant vos objectifs de performance.
-{: .fs-6 .fw-300 }
 
-<hr class="my-6">
-
+<hr class="my-6" />
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
@@ -26,7 +19,6 @@ Le processus est conçu pour respecter la ligne éditoriale du Distributeur tout
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
@@ -35,17 +27,16 @@ Le processus est conçu pour respecter la ligne éditoriale du Distributeur tout
     <p>Deux options s'offrent à vous (à définir lors du brief) :</p>
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px;">
       <div style="background: #f6f8fa; padding: 10px; border-radius: 4px;">
-        <strong>Option A (Fourni)</strong><br>
+        <strong>Option A (Fourni)</strong><br />
         Vous fournissez la vidéo/photo prête à poster.
       </div>
       <div style="background: #f6f8fa; padding: 10px; border-radius: 4px;">
-        <strong>Option B (Co-création)</strong><br>
+        <strong>Option B (Co-création)</strong><br />
         Le Distributeur (ou notre Studio) crée le contenu pour un rendu "natif".
       </div>
     </div>
   </div>
 </div>
-
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
@@ -55,7 +46,6 @@ Le processus est conçu pour respecter la ligne éditoriale du Distributeur tout
     <p class="fs-2 text-grey-dk-000"><em>Note : Cette étape nous permet de récupérer l'ID du post pour l'amplification. Vous validez le post une fois en ligne via un lien.</em></p>
   </div>
 </div>
-
 <!-- ETAPE 4 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>

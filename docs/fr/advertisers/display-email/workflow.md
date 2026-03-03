@@ -1,19 +1,12 @@
 ---
-layout: default
 title: Process & Validation
-parent: Display Email
-grand_parent: Espace Annonceurs
-nav_order: 1
 ---
 
 # Workflow de campagne
-{: .fs-9 }
 
 Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumission à la diffusion.
-{: .fs-6 .fw-300 }
 
-<hr class="my-6">
-
+<hr class="my-6" />
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
@@ -26,7 +19,6 @@ Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumi
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
@@ -42,7 +34,6 @@ Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumi
     </div>
   </div>
 </div>
-
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
@@ -55,7 +46,6 @@ Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumi
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 4 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>

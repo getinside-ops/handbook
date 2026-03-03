@@ -1,22 +1,14 @@
 ---
-layout: default
 title: FAQ
-nav_order: 99
-has_children: true
-toc: false
 ---
 
 # Foire Aux Questions
-{: .fs-9 }
 
 Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes et la facturation.
-{: .fs-6 .fw-300 }
 
-<hr class="my-6">
-
+<hr class="my-6" />
 <!-- CONTENEUR LISTE VERTICALE -->
 <div style="display: flex; flex-direction: column; gap: 16px;">
-
   <!-- LIEN 1 : COMPTE -->
   <a href="account-audiences" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
@@ -28,7 +20,6 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
       <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
     </div>
   </a>
-
   <!-- LIEN 2 : CAMPAGNES -->
   <a href="campaign-management" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
@@ -40,7 +31,6 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
       <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
     </div>
   </a>
-
   <!-- LIEN 3 : FACTURATION -->
   <a href="billing" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
@@ -52,7 +42,6 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
       <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
     </div>
   </a>
-
   <!-- LIEN 4 : LOGISTIQUE -->
   <a href="logistics-tech" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#eff6ff'" onmouseout="this.style.backgroundColor='#fff'">
@@ -64,5 +53,4 @@ Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes e
       <div style="margin-left: auto; color: #ccc; font-weight: bold;">➝</div>
     </div>
   </a>
-
 </div>

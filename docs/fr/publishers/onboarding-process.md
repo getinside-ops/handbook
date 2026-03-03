@@ -1,20 +1,13 @@
 ---
-layout: default
 title: Onboarding & Fonctionnement
-parent: Espace Éditeurs
-nav_order: 1
 ---
 
 # Onboarding et Fonctionnement
-{: .fs-9 }
 
 Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre régie, activez vos partenaires historiques et maximisez vos revenus.
-{: .fs-6 .fw-300 }
 
-<hr class="my-6">
-
+<hr class="my-6" />
 <h2 class="text-purple-200 mb-6">Phase 1 : Configuration et Activation</h2>
-
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
@@ -28,7 +21,6 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
@@ -36,14 +28,12 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3 class="mt-0 text-grey-dk-000">Configuration Logistique</h3>
     <p>Avant de créer vos audiences, définissez vos contraintes logistiques (indispensable pour l'algorithme).</p>
     <div style="background: #f6f8fa; padding: 15px; border-radius: 6px; border-left: 4px solid #2563eb;">
-      <strong>📍 Adresse de l'entrepôt :</strong> Lieu de livraison des supports.<br>
+      <strong>📍 Adresse de l'entrepôt :</strong> Lieu de livraison des supports.<br />
       <strong>⏱️ Délai d'ingestion (Lead Time) :</strong> Délai minimum entre la livraison et le début de la diffusion (automatiquement pris en compte par la plateforme).
     </div>
   </div>
 </div>
-
 <!-- ETAPE 3 -->
-
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
@@ -55,7 +45,6 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </div>
   </div>
 </div>
-
 <!-- ETAPE 4 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">4</div>
@@ -68,7 +57,6 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 5 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">5</div>
@@ -81,7 +69,6 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 6 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">✓</div>
@@ -94,11 +81,8 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </ul>
   </div>
 </div>
-
-<hr class="my-6">
-
+<hr class="my-6" />
 <h2 class="text-purple-200 mb-6">Phase 2 : Gestion des Campagnes</h2>
-
 <!-- ETAPE 7 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">7</div>
@@ -107,7 +91,6 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <p>Une fois activées, les annonceurs peuvent voir vos audiences sur la plateforme et commencer à vous proposer des campagnes.</p>
   </div>
 </div>
-
 <!-- ETAPE 8 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">8</div>
@@ -115,7 +98,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3 class="mt-0 text-grey-dk-000">Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
     <div class="p-4 bg-grey-lt-000 rounded-1 border mb-3">
-      <strong>Ne refusez pas, négociez !</strong><br>
+      <strong>Ne refusez pas, négociez !</strong><br />
       L'objectif est de remplir votre inventaire. Plutôt que de refuser une offre :
       <ul>
         <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire.</li>
@@ -126,7 +109,6 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec l'annonceur, argumenter votre prix ou demander des précisions.</p>
   </div>
 </div>
-
 <!-- ETAPE 9 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">9</div>
@@ -139,11 +121,8 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </ul>
   </div>
 </div>
-
-<hr class="my-6">
-
+<hr class="my-6" />
 <h2 class="text-blue-200 mb-6">Phase 3 : Accélération & Autonomie</h2>
-
 <!-- ETAPE 10 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>
@@ -151,7 +130,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3 class="mt-0 text-blue-200">Trade Marketing (Vos Marques)</h3>
     <p>Ne dépendez pas uniquement des annonceurs externes. Soyez proactif avec vos propres fournisseurs !</p>
     <div style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px; background-color: #f0f8ff;">
-      <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Asile, Email, Social) via getinside.<br>
+      <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Asile, Email, Social) via getinside.<br />
       <ul>
         <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
         <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis.</li>
@@ -159,7 +138,6 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </div>
   </div>
 </div>
-
 <!-- ETAPE 11 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2d6fd6; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🤝</div>

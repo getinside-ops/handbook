@@ -1,19 +1,12 @@
 ---
-layout: default
 title: Intégration & Envoi
-parent: Display Email (publisher)
-grand_parent: Espace Éditeurs
-nav_order: 1
 ---
 
 # Intégration et Diffusion
-{: .fs-9 }
 
 Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de redirection pour être payé.
-{: .fs-6 .fw-300 }
 
-<hr class="my-6">
-
+<hr class="my-6" />
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
@@ -26,14 +19,12 @@ Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de
     </ul>
   </div>
 </div>
-
 <!-- ETAPE 2 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #d73a49; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
   <div>
     <h3 class="mt-0 text-red-200">Récupération du Tracking (Obligatoire)</h3>
     <p>Pour que les clics soient comptabilisés (et rémunérés), vous ne devez <strong>pas</strong> utiliser le lien brut de l'annonceur.</p>
-    
     <div style="background: #fff; border: 2px dashed #d73a49; padding: 20px; border-radius: 8px;">
       <ol class="mb-0">
         <li>Connectez-vous à <a href="https://app.getinside.media/">app.getinside.media</a>.</li>
@@ -41,11 +32,9 @@ Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de
         <li>Copiez le <strong>"Lien tracké"</strong> unique (format <code>https://gtinsi.de/...</code>).</li>
       </ol>
     </div>
-    
     <p class="mt-3 text-grey-dk-000 fs-2"><em>Note : Contrairement à l'email dédié, il n'y a pas de "Pixel d'ouverture" à installer ici. Seuls les clics comptent.</em></p>
   </div>
 </div>
-
 <!-- ETAPE 3 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #2563eb; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
@@ -59,7 +48,6 @@ Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de
     </ol>
   </div>
 </div>
-
 <!-- ETAPE 4 -->
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <div style="flex-shrink: 0; width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>

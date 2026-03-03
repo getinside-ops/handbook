@@ -1,31 +1,20 @@
 ---
-layout: default
 title: Sponsored Mail
-parent: Espace Annonceurs
-has_children: true
-toc: false
-nav_order: 1
 ---
 
 # Asile Colis (Sponsored Mail)
-{: .fs-9 }
 
 Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience colis de grandes marques e-commerce.
-{: .fs-6 .fw-300 }
 
 <!-- BOUTONS D'ACTION -->
 <div class="mt-4 mb-6">
   <a href="./design-guide/" class="btn btn-primary fs-4 mr-2">📘 Voir le Guide de Conception</a>
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-outline fs-4">Créer une campagne</a>
 </div>
-
-<hr class="mb-6">
-
+<hr class="mb-6" />
 <h2 class="text-blue-200 mb-4">Ressources & Documentation</h2>
-
 <!-- LISTE VERTICALE PLEINE LARGEUR -->
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
-
   <!-- GUIDE (Mis en avant) -->
   <a href="./design-guide/" style="text-decoration: none; color: inherit;">
     <div style="border: 2px solid #2563eb; border-radius: 8px; padding: 24px; background: #eff6ff; display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
@@ -36,7 +25,6 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       </div>
     </div>
   </a>
-
   <!-- STRATEGIE -->
   <a href="./design-guide/strategy" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
@@ -48,7 +36,6 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
-
   <!-- SPECS -->
   <a href="./design-guide/print-specs" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
@@ -60,7 +47,6 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
-
   <!-- LEGAL -->
   <a href="./design-guide/legal" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
@@ -72,14 +58,10 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
-
 </div>
-
 <h2 class="text-grey-dk-000 mb-4">Pourquoi ce levier est incontournable ?</h2>
-
 <!-- LISTE VERTICALE PLEINE LARGEUR -->
 <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px; min-width: 40px;">📦</div>
     <div>
@@ -87,7 +69,6 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <p class="fs-2 text-grey-dk-000 mb-0">Le seul média physique avec un taux de prise en main absolu. Le client attend son colis avec impatience.</p>
     </div>
   </div>
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px; min-width: 40px;">🎯</div>
     <div>
@@ -95,7 +76,6 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à des marques (Beauté, Tech, Food) dont l'audience correspond à votre persona.</p>
     </div>
   </div>
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px; min-width: 40px;">🛡️</div>
     <div>
@@ -103,14 +83,10 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <p class="fs-2 text-grey-dk-000 mb-0">Un levier contextuel puissant, non impacté par le RGPD ou la fin des cookies tiers.</p>
     </div>
   </div>
-
 </div>
-
 <h2 class="text-blue-200 mb-4">Pourquoi passer par getinside ?</h2>
-
 <!-- LISTE VERTICALE PLEINE LARGEUR -->
 <div style="display: flex; flex-direction: column; gap: 20px;">
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🌐</div>
     <div>
@@ -118,7 +94,6 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <p class="fs-2 text-grey-dk-000 mb-0">Accédez en un clic à un inventaire de <strong>+250 e-commerçants</strong> et des audiences de niche souvent inaccessibles en direct.</p>
     </div>
   </div>
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🏭</div>
     <div>
@@ -126,7 +101,6 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <p class="fs-2 text-grey-dk-000 mb-0">Impression Made in France, conditionnement et respect des délais de livraison en entrepôt : nous gérons toute la complexité opérationnelle.</p>
     </div>
   </div>
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">📊</div>
     <div>
@@ -134,5 +108,4 @@ Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience coli
       <p class="fs-2 text-grey-dk-000 mb-0">Fini les échanges d'emails. Suivez l'avancement des distributions (reporting hebdo) et vos performances (scans) sur un dashboard unique.</p>
     </div>
   </div>
-
 </div>

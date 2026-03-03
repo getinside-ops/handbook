@@ -1,14 +1,10 @@
 ---
-layout: default
 title: Glossaire
-nav_order: 100
 ---
 
 # Glossaire du Retail Media
-{: .fs-9 }
 
 Définitions des termes techniques et acronymes de la plateforme.
-{: .fs-6 .fw-300 }
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 30px 0; padding: 15px; background: #f6f8fa; border-radius: 6px;">
   <a href="#a" style="text-decoration: none; font-weight: bold;">A</a>
@@ -26,7 +22,6 @@ Définitions des termes techniques et acronymes de la plateforme.
   <a href="#u" style="text-decoration: none; font-weight: bold;">U</a>
   <a href="#z" style="text-decoration: none; font-weight: bold;">Z</a>
 </div>
-
 <h2 id="a" class="text-blue-200">A</h2>
 <dl>
   <dt>Annonceur (Advertiser)</dt>
@@ -36,9 +31,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Audience Lookalike</dt>
   <dd>Ciblage publicitaire visant des profils ayant des caractéristiques similaires (comportement d'achat, démographie) à une base de clients existante.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="b" class="text-blue-200">B</h2>
 <dl>
   <dt>BAT (Bon à Tirer)</dt>
@@ -46,9 +39,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Brief</dt>
   <dd>Document rempli par l'Annonceur détaillant ses objectifs et fournissant les éléments graphiques nécessaires à la campagne.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="c" class="text-blue-200">C</h2>
 <dl>
   <dt>Capping</dt>
@@ -60,9 +51,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>CPM (Coût Pour Mille)</dt>
   <dd>Unité de mesure standard. Un CPM de 15€ signifie que l'annonceur paie 15€ pour 1 000 impressions.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="d" class="text-blue-200">D</h2>
 <dl>
   <dt>Distributeur (Publisher/Éditeur)</dt>
@@ -70,9 +59,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>DNVB</dt>
   <dd>Digital Native Vertical Brand. Marque née sur internet vendant en direct.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="e" class="text-blue-200">E</h2>
 <dl>
   <dt>Echantillonnage (Sampling)</dt>
@@ -80,9 +67,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Endorsement</dt>
   <dd>Caution apportée par le Distributeur à l'Annonceur. Le fait que l'e-commerçant "parle" de la marque renforce la confiance.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="f" class="text-blue-200">F</h2>
 <dl>
   <dt>FOGRA39</dt>
@@ -90,9 +75,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Fond Perdu (Bleed)</dt>
   <dd>Zone imprimée dépassant le format final (2-3 mm) pour éviter les liserés blancs à la découpe.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="l" class="text-blue-200">L</h2>
 <dl>
   <dt>Landing Page</dt>
@@ -100,33 +83,25 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Lead Time (Délai d'ingestion)</dt>
   <dd>Délai logistique incompressible entre la réception des flyers et leur insertion effective dans les premiers colis.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="o" class="text-blue-200">O</h2>
 <dl>
   <dt>Opt-in</dt>
   <dd>Consentement explicite de l'internaute à recevoir des communications commerciales.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="p" class="text-blue-200">P</h2>
 <dl>
   <dt>Pixel de Tracking</dt>
   <dd>Petit morceau de code (image 1x1) inséré dans un email pour comptabiliser les ouvertures.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="q" class="text-blue-200">Q</h2>
 <dl>
   <dt>QR Code Dynamique</dt>
   <dd>Code 2D dont l'URL de destination peut être modifiée à distance après l'impression.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="r" class="text-blue-200">R</h2>
 <dl>
   <dt>Retail Media</dt>
@@ -134,9 +109,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>ROI</dt>
   <dd>Retour sur Investissement.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="t" class="text-blue-200">T</h2>
 <dl>
   <dt>Taux d'ouverture (Open Rate)</dt>
@@ -144,17 +117,13 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Triman (Info-tri)</dt>
   <dd>Logo obligatoire en France indiquant comment trier le déchet.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="u" class="text-blue-200">U</h2>
 <dl>
   <dt>UTM</dt>
   <dd>Paramètres ajoutés à la fin d'une URL (ex: `?utm_source=getinside`) pour tracker la source du trafic.</dd>
 </dl>
-
-<hr>
-
+<hr />
 <h2 id="z" class="text-blue-200">Z</h2>
 <dl>
   <dt>Zone Tranquille</dt>

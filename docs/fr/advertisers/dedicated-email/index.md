@@ -1,39 +1,27 @@
 ---
-layout: default
 title: Dedicated Email
-parent: Espace Annonceurs
-has_children: true
-toc: false
-nav_order: 2
 ---
 
 # Emailing Dédié (Dedicated Newsletter)
-{: .fs-9 }
 
 Profitez de la puissance de la recommandation (Endorsement) en prenant la parole auprès de la base d'abonnés de nos partenaires.
-{: .fs-6 .fw-300 }
 
 <!-- BOUTONS D'ACTION -->
 <div class="mt-4 mb-6">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary fs-4 mr-2">Accéder au SaaS</a>
   <a href="1-brief-annonceur" class="btn btn-outline fs-4">Voir le process</a>
 </div>
-
-<hr class="mb-6">
-
+<hr class="mb-6" />
 <!-- BLOC CONCEPT -->
 <div style="background-color: #eff6ff; border: 1px solid #2563eb; border-radius: 8px; padding: 24px; margin-bottom: 40px;">
   <h2 class="mt-0 text-purple-200">🤝 Le concept : l'Endorsement</h2>
   <p class="fs-4 mb-2">Contrairement à l'achat de base classique, nous privilégions ici une approche de <strong>recommandation</strong>.</p>
   <p class="mb-0">C'est le Distributeur qui s'adresse à sa communauté pour lui présenter votre offre comme un "privilège abonné". Cela garantit de meilleurs taux d'ouverture et une confiance accrue.</p>
 </div>
-
 <h2 class="text-blue-200 mb-4">Les 3 Scénarios d'Activation</h2>
 <p class="fs-4 mb-4">Choisissez le moment idéal pour toucher votre cible.</p>
-
 <!-- GRILLE SCENARIOS (Largeur min 250px pour éviter le tassement) -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
-
   <!-- BLAST -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
     <h3 class="mt-0 text-blue-200">📢 Blast (Newsletter)</h3>
@@ -43,7 +31,6 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <span style="background: #e1f5fe; color: #0277bd; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Notoriété</span>
     </div>
   </div>
-
   <!-- POST PURCHASE -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
     <h3 class="mt-0 text-purple-200">🛍️ Post-Purchase</h3>
@@ -53,7 +40,6 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Hot Prospect</span>
     </div>
   </div>
-
   <!-- WELCOME -->
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff;">
     <h3 class="mt-0 text-green-200">👋 Welcome Pack</h3>
@@ -63,14 +49,10 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <span style="background: #e8f5e9; color: #2e7d32; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold;">Engagement</span>
     </div>
   </div>
-
 </div>
-
 <h2 class="text-grey-dk-000 mb-4">Le flux de production (Workflow)</h2>
-
 <!-- LISTE VERTICALE PLEINE LARGEUR (Corrige le bug d'alignement) -->
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
-
   <!-- ETAPE 1 -->
   <a href="1-brief-annonceur" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
@@ -82,7 +64,6 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
-
   <!-- ETAPE 2 -->
   <a href="2-creation-distributeur" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
@@ -94,7 +75,6 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
-
   <!-- ETAPE 3 -->
   <a href="3-validation-diffusion" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fff; display: flex; align-items: center; gap: 20px; transition: background 0.2s;" onmouseover="this.style.backgroundColor='#f9f9f9'" onmouseout="this.style.backgroundColor='#fff'">
@@ -106,14 +86,10 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <div style="margin-left: auto; color: #ccc;">➝</div>
     </div>
   </a>
-
 </div>
-
 <h2 class="text-blue-200 mb-4">Pourquoi passer par getinside ?</h2>
-
 <!-- LISTE VERTICALE AVANTAGES -->
 <div style="display: flex; flex-direction: column; gap: 20px;">
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">💎</div>
     <div>
@@ -121,7 +97,6 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <p class="fs-2 text-grey-dk-000 mb-0">Accédez à des bases de données ultra-qualifiées (+250 e-commerçants) que vous ne trouverez pas sur les plateformes d'affiliation classiques.</p>
     </div>
   </div>
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🎯</div>
     <div>
@@ -129,7 +104,6 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <p class="fs-2 text-grey-dk-000 mb-0">Associez votre image à une marque affinitaire. Le taux de réactivité est bien supérieur à de l'emailing de conquête froid (Cold Emailing).</p>
     </div>
   </div>
-
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 24px; background: #fff; display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 32px; min-width: 50px; text-align: center;">🛡️</div>
     <div>
@@ -137,5 +111,4 @@ Profitez de la puissance de la recommandation (Endorsement) en prenant la parole
       <p class="fs-2 text-grey-dk-000 mb-0">Nous sécurisons les fonds, validons la qualité technique (Délivrabilité, Responsive) et gérons les redirections de tracking pour vous.</p>
     </div>
   </div>
-
 </div>
