@@ -38,55 +38,55 @@ Ces champs alimentent l'algorithme de getinside pour le matching.
   </div>
 </div>
 
-## 3. Comprendre votre "Score Distributeur"
+## 3. Activez les formats pour cette audience
 
-<div class="gi-accent-box">
-  <div style="display: flex; align-items: center; gap: 1.25rem; margin-bottom: 1rem;">
-    <div style="font-size: 2.5rem; font-weight: 800; line-height: 1; color: var(--vp-c-brand-1);">4,3<span style="font-size: 1.125rem; font-weight: 400; color: var(--vp-c-text-2);">/5</span></div>
-    <div>
-      <strong style="display: block; margin-bottom: 0.2rem;">Votre passeport pour plus de campagnes</strong>
-      <span style="font-size: 0.8125rem; color: var(--vp-c-text-2);">Ce score est recalculé dynamiquement selon 7 critères clés. Il détermine votre position dans les résultats de recherche.</span>
-    </div>
-  </div>
-  <div style="background: var(--vp-c-bg-elv); border-radius: 6px; padding: 0.875rem 1rem;">
-    <strong style="display: block; margin-bottom: 0.5rem; font-size: 0.875rem;">Barème de visibilité :</strong>
-    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.8125rem; color: var(--vp-c-text-2);">
-      <li style="margin-bottom: 0.25rem;"><span style="color: var(--gi-tint-red-text);">●</span> <strong>Moins de 3/5 :</strong> Audience peu visible. Des actions correctives sont nécessaires.</li>
-      <li style="margin-bottom: 0.25rem;"><span style="color: var(--gi-tint-yellow-text);">●</span> <strong>De 3 à 4/5 :</strong> Visibilité standard. Vous recevez des propositions régulièrement.</li>
-      <li><span style="color: var(--gi-tint-green-text);">●</span> <strong>Plus de 4/5 :</strong> Statut "Top Distributeur". Vous apparaissez en priorité et obtenez le badge de confiance.</li>
-    </ul>
-  </div>
-</div>
+Pour chaque audience créée, activez indépendamment les formats que vous souhaitez monétiser :
 
-### Détail des 7 critères de notation
+- **📦 Insertion Colis** — Flyers ou échantillons dans vos colis
+- **📧 Emailing Dédié** — Recommandation via votre newsletter
+- **📩 Display Email** — Bannières dans vos emails
+- **📱 Social Ads** — Publications sponsorisées Instagram / TikTok
+- **🎁 Jeu Concours** — Mécanique de collecte de leads
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>💰 Tarification</strong>
-    <p>L'algorithme compare votre CPM (Coût Pour Mille) à la moyenne du marché sur votre secteur. Un prix cohérent booste ce score.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📈 Volume semaine (Reach)</strong>
-    <p>Plus votre capacité de diffusion est importante et stable, plus ce score est élevé. Les volumes trop faibles peuvent impacter la note.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>✨ Attractivité de la marque</strong>
-    <p>Reflète la notoriété et la perception de votre enseigne. Plus votre marque est identifiée comme une référence sur son marché, plus ce score est élevé.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📦 Fiabilité de l'inventaire</strong>
-    <p>Respectez-vous les volumes promis ? Si vous distribuez moins que prévu sans prévenir, ce score chute drastiquement.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>⚡ Réactivité de l'audience</strong>
-    <p>Mesure la performance de vos campagnes passées (taux de scan, usage codes promo). Une audience engagée qui réagit aux offres fait monter ce score.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📊 Historique de campagne</strong>
-    <p>Récompense la fidélité. Ce score augmente mécaniquement avec le nombre de campagnes réussies sur la plateforme.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>💬 Communication & Reporting</strong>
-    <p>Évalue votre sérieux opérationnel : rapidité de réponse aux demandes (sous 48h) et envoi des preuves de distribution dans les délais.</p>
-  </div>
-</div>
+> Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.
+
+## 4. Gérer plusieurs audiences et sites
+
+**Un seul compte suffit**, même si vous opérez plusieurs sites e-commerce. Chaque site peut avoir sa propre fiche audience avec ses données spécifiques.
+
+**Espace :** Monétisation → Catalogue → + Nouvelle audience
+
+Bonnes pratiques pour un catalogue multi-audiences :
+- Nommez clairement chaque audience (ex: "Site Mode Femme", "Site Jardin B2C")
+- Renseignez des données distinctes par site — ne mutualisez pas les chiffres
+- Activez uniquement les formats que vous pouvez réellement honorer sur ce site
+
+**International :** getinside opère dans toute l'Europe. Ajoutez vos audiences européennes pour recevoir des campagnes ciblées par pays.
+
+## 5. Votre Score Distributeur
+
+Votre fiche audience est directement liée à votre Score Distributeur — la note sur 5 étoiles qui détermine votre visibilité auprès des annonceurs.
+
+| Score | Visibilité |
+|-------|-----------|
+| < 3/5 | Audience peu visible — action requise |
+| 3–4/5 | Standard — propositions régulières |
+| > 4/5 | 🏆 Top Distributeur — priorité dans les résultats |
+
+Une fiche audience bien remplie (persona détaillé, données précises, visuels soignés) améliore directement plusieurs des 7 critères de notation.
+
+→ [Guide complet : Score Distributeur](/fr/publishers/score-distributor)
+
+## Questions fréquentes
+
+**Comment ajouter un utilisateur à mon compte ?**
+Rendez-vous dans **Mon Organisation → Équipe** → `+ Ajouter un membre`. Recommandé : ayez toujours un backup pour assurer la réactivité sous 48h.
+
+**Puis-je gérer plusieurs sites depuis un seul compte ?**
+Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez — une par site ou par segment client.
+
+**Où suivre mes filleuls (affiliation) ?**
+Dans l'onglet **Affiliation**. Vous touchez **20% de commission récurrente** sur les frais de plateforme de vos filleuls, versés directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE.
+
+**Mon Score Distributeur a baissé — pourquoi ?**
+Le score est recalculé dynamiquement. Causes fréquentes : réponse > 48h, refus répétés sans contre-proposition, volumes distribués inférieurs aux engagements, CPM jugé trop élevé vs la concurrence. → Consultez le [guide Score Distributeur](/fr/publishers/score-distributor) pour le détail critère par critère.
