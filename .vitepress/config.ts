@@ -83,6 +83,7 @@ export default withMermaid(
           text: '🛍️ Espace Annonceurs',
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/advertisers/' },
+            { text: '🚀 Démarrage Rapide', link: '/docs/fr/advertisers/onboarding-quick-start' },
             {
               text: '📦 Insertion Colis',
               collapsed: true,
@@ -144,7 +145,8 @@ export default withMermaid(
           text: '📦 Espace Éditeurs',
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/publishers/' },
-            { text: '🚀 Guide de Démarrage', link: '/docs/fr/publishers/onboarding-process' },
+            { text: '🚀 Démarrage Rapide', link: '/docs/fr/publishers/onboarding-quick-start' },
+            { text: 'Guide de Démarrage Complet', link: '/docs/fr/publishers/onboarding-process' },
             {
               text: '📦 Insertion Colis',
               collapsed: true,
