@@ -7,6 +7,14 @@ title: FAQ
 <p class="gi-page-intro">Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes et la facturation.</p>
 
 <div class="gi-nav-list">
+  <a href="troubleshooting-distributors" class="gi-nav-card" style="border-color: var(--gi-tint-red-text);">
+    <span class="gi-nav-card-icon">🔧</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Résolution de Problèmes — Distributeurs</p>
+      <p class="gi-nav-card-desc">Wallet, paiements, campagnes, pénalités — solutions aux cas fréquents.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
   <a href="account-audiences" class="gi-nav-card">
     <span class="gi-nav-card-icon">⚙️</span>
     <div class="gi-nav-card-body">

@@ -197,6 +197,7 @@ export default withMermaid(
           text: 'FAQ',
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/faq/' },
+            { text: '🔧 Problèmes Distributeurs', link: '/docs/fr/faq/troubleshooting-distributors' },
             { text: 'Audiences & Compte', link: '/docs/fr/faq/account-audiences' },
             { text: 'Facturation', link: '/docs/fr/faq/billing' },
             { text: 'Gestion de Campagnes', link: '/docs/fr/faq/campaign-management' },
