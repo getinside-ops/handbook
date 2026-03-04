@@ -4,40 +4,29 @@ title: Facturation & Paiements
 
 # Facturation & Paiements
 
-<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Je ne vois pas mes revenus dans mon Wallet</summary>
-  <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
-    Le crédit n'est pas automatique à la signature, mais à la <strong>réalisation</strong>.
-    <ul>
-      <li><strong>Insertion Colis :</strong> Avez-vous rempli votre déclaration de volume hebdomadaire ? (Le lundi/mardi).</li>
-      <li><strong>Email :</strong> Avez-vous cliqué sur "Valider la diffusion" après l'envoi ?</li>
-    </ul>
-    Sans cette action manuelle de l'éditeur, les fonds restent séquestrés.
-  </div>
-</details>
-<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Comment retirer mes gains et éditer ma facture ?</summary>
-  <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
-    Allez dans <strong>Transaction > Exchange</strong> et cliquez sur <code>Retirer</code>. Saisissez le montant.
-    <br /><br />
-    <strong>Important :</strong> Si des frais de gestion s'appliquent, éditez votre facture en conséquence du montant net reçu.
-  </div>
-</details>
-<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">À partir de quand est-ce les revenus sont-ils disponibles ?</summary>
-  <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
-    Le revenu de la campagne est versé au solde de votre compte 30 jours après le dernier reporting de la campagne. Choisissez ensuite si vous souhaitez <code>Transférer vers le wallet</code> ou <code>Retirer</code> vos revenus.
-  </div>
-</details>
-<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Quand sont émis les paiements ?</summary>
-  <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
-     Les paiements sont émis à <strong>30 jours fin de mois</strong>, date de réception de la demande de retrait, à condition que la facture soumise soit valide.
-  </div>
-</details>
-<details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
-  <summary style="font-weight: bold; cursor: pointer;">Puis-je réinvestir mes gains ?</summary>
-  <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
-    Oui, sans frais ! Dans la partie <strong>Exchange</strong>, cliquez sur <code>Transférer vers le wallet</code>. Vous pourrez utiliser ce solde immédiatement pour acheter du trafic pour votre propre site.
-  </div>
-</details>
+## Je ne vois pas mes revenus dans mon Wallet
+
+Le crédit n'est pas automatique à la signature, mais à la **réalisation**. Vous devez valider manuellement selon le format :
+
+- **Insertion Colis :** Avez-vous rempli votre déclaration de volume hebdomadaire ? (Le lundi ou mardi)
+- **Email :** Avez-vous cliqué sur **"Valider la diffusion"** après l'envoi ?
+
+Sans cette action, les fonds restent séquestrés.
+
+## Comment retirer mes gains et éditer ma facture ?
+
+Allez dans **Transaction → Exchange** et cliquez sur `Retirer`. Saisissez le montant.
+
+**Important :** Si des frais de gestion s'appliquent, éditez votre facture en conséquence du montant net reçu.
+
+## À partir de quand les revenus sont-ils disponibles ?
+
+Le revenu de la campagne est versé au solde de votre compte **30 jours après le dernier reporting**. Choisissez ensuite `Transférer vers le wallet` ou `Retirer` vos revenus.
+
+## Quand sont émis les paiements ?
+
+Les paiements sont émis à **30 jours fin de mois**, date de réception de la demande de retrait, à condition que la facture soumise soit valide.
+
+## Puis-je réinvestir mes gains ?
+
+Oui, sans frais. Dans **Exchange**, cliquez sur `Transférer vers le wallet`. Vous pourrez utiliser ce solde immédiatement pour acheter du trafic pour votre propre site.

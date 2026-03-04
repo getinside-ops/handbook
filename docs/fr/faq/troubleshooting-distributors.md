@@ -12,18 +12,10 @@ title: Résolution de Problèmes — Distributeurs
 
 Le solde Wallet ne se crédite **pas automatiquement** après une distribution. Vous devez valider manuellement selon le format :
 
-<div class="gi-value-grid">
-  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>📦 Insertion Colis</strong>
-    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Chaque <strong>lundi ou mardi</strong>, déclarez le volume de colis distribués la semaine précédente dans votre espace plateforme.</p>
-    <p style="margin: 0.75rem 0 0; font-size: 0.8rem; color: var(--gi-tint-red-text); font-weight: 600;">→ Espace : Mes Campagnes → Sélectionner la campagne → Déclarer le volume</p>
-  </div>
-  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>📧 Emailing (Dédié ou Display)</strong>
-    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Après avoir routé l'email, cliquez sur <strong>"Valider la diffusion"</strong> dans la fiche campagne sur la plateforme.</p>
-    <p style="margin: 0.75rem 0 0; font-size: 0.8rem; color: var(--gi-tint-red-text); font-weight: 600;">→ Espace : Mes Campagnes → Sélectionner la campagne → Valider la diffusion</p>
-  </div>
-</div>
+| Format | Action requise | Où sur la plateforme |
+|--------|---------------|----------------------|
+| 📦 Insertion Colis | Déclarez les volumes chaque **lundi ou mardi** | Mes Campagnes → campagne → Déclarer le volume |
+| 📧 Emailing (Dédié ou Display) | Cliquez sur **"Valider la diffusion"** après l'envoi | Mes Campagnes → campagne → Valider la diffusion |
 
 Sans ces actions, les fonds restent **séquestrés** — la campagne n'est pas comptabilisée.
 
@@ -75,16 +67,11 @@ Si vous êtes sur Plateforme ou Managed et que des frais ont été prélevés �
 
 ### "Des fonds ont été prélevés de mon Wallet sans que je l'aie demandé"
 
-Plusieurs prélèvements automatiques sont possibles :
-
-<div style="border: 2px solid var(--gi-tint-red-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-red-bg); margin: 20px 0;">
-  <h4>Pénalités automatiques prélevées sur votre Wallet</h4>
-  <ul style="margin: 0; padding-left: 1.25rem;">
-    <li style="margin-bottom: 0.5rem;"><strong>Annulation d'une campagne validée :</strong> Pénalité prélevée automatiquement (voir <a href="/fr/publishers/onboarding-process#pénalités">Pénalités contractuelles</a>)</li>
-    <li style="margin-bottom: 0.5rem;"><strong>Non-réponse sous 48h à une proposition de campagne :</strong> Pénalité appliquée</li>
-    <li><strong>Réponse tardive sans motif valable :</strong> Peut entraîner une pénalité selon le contrat</li>
-  </ul>
-</div>
+::: warning Pénalités automatiques prélevées sur votre Wallet
+- **Annulation d'une campagne validée :** pénalité forfaitaire 250€ + frais de plateforme
+- **Non-réponse sous 48h à une proposition :** pénalité appliquée selon contrat
+- **Réponse tardive sans motif valable :** peut entraîner une pénalité
+:::
 
 Consultez la section **Historique Wallet** sur la plateforme pour voir le détail de chaque mouvement.
 
@@ -146,10 +133,7 @@ Le versement des commissions d'affiliation est **suspendu automatiquement** si v
 
 ### "Mon compte est suspendu ou bloqué"
 
-Causes possibles :
-- Factures impayées
-- Non-conformité aux règles de la plateforme
-- Activité suspecte détectée
+Causes possibles : factures impayées, non-conformité aux règles de la plateforme, activité suspecte détectée.
 
 Contactez le support à [support@getinside.io](mailto:support@getinside.io) en indiquant votre email de compte et le message d'erreur affiché.
 
@@ -157,11 +141,10 @@ Contactez le support à [support@getinside.io](mailto:support@getinside.io) en i
 
 ## Vous ne trouvez pas votre réponse ?
 
-Contactez l'équipe support getinside :
 - **Email :** [support@getinside.io](mailto:support@getinside.io)
 - **Via la plateforme :** Menu → Support → Nouveau ticket
 
-Précisez dans votre message : l'ID de la campagne concernée, le montant en question, et une capture d'écran si possible. Cela accélère considérablement la résolution.
+Précisez : l'ID de la campagne, le montant en question, et une capture d'écran si possible.
 
 ---
 
