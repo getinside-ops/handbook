@@ -145,6 +145,284 @@
 }
 
 /* ============================================================
+   2b. LOGO SIZE FIX
+   ============================================================ */
+.VPNavBarTitle .logo,
+.VPImage.logo {
+  height: 30px !important;
+}
+
+/* ============================================================
+   2c. GLOBAL DOC TYPOGRAPHY
+   ============================================================ */
+
+/* h2 — modern left-accent bar instead of top border */
+.vp-doc h2 {
+  border-top: none !important;
+  padding-top: 0 !important;
+  margin: 2.5rem 0 1rem !important;
+  border-left: 3px solid var(--vp-c-brand-1);
+  padding-left: 0.75rem;
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.01em;
+  line-height: 1.4 !important;
+}
+
+/* Definition lists (glossary) */
+.vp-doc dl { margin: 0.5rem 0 1.25rem; }
+.vp-doc dt {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  color: var(--vp-c-text-1);
+  margin-top: 1.25rem;
+  margin-bottom: 0.2rem;
+}
+.vp-doc dd {
+  margin: 0 0 0.25rem 1.25rem;
+  padding-left: 0.875rem;
+  border-left: 2px solid var(--vp-c-divider);
+  color: var(--vp-c-text-2);
+  font-size: 0.875rem;
+  line-height: 1.65;
+}
+
+/* Cleaner HR */
+.vp-doc hr {
+  border: none !important;
+  border-top: 1px solid var(--vp-c-divider) !important;
+  margin: 1.75rem 0 !important;
+}
+
+/* ============================================================
+   2d. COMPONENT: PAGE INTRO
+   ============================================================ */
+.gi-page-intro {
+  font-size: 1rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.7;
+  margin: -0.25rem 0 2rem !important;
+}
+
+/* ============================================================
+   2e. COMPONENT: NAV CARD LIST (vertical navigation)
+   ============================================================ */
+.gi-nav-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 2.5rem;
+}
+.gi-nav-card {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-elv);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
+}
+.gi-nav-card:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  background: var(--vp-c-bg-soft);
+}
+.dark .gi-nav-card:hover {
+  border-color: rgba(106, 231, 200, 0.40);
+  box-shadow: 0 0 20px rgba(106, 231, 200, 0.08);
+  background: rgba(106, 231, 200, 0.03);
+}
+.gi-nav-card-icon {
+  font-size: 1.75rem;
+  flex-shrink: 0;
+  width: 2.5rem;
+  text-align: center;
+}
+.gi-nav-card-body { flex: 1; min-width: 0; }
+.gi-nav-card-title {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin: 0 0 0.2rem !important;
+  padding: 0 !important;
+  border: none !important;
+  line-height: 1.3;
+}
+.gi-nav-card-desc {
+  font-size: 0.8125rem;
+  color: var(--vp-c-text-2);
+  margin: 0 !important;
+  line-height: 1.5;
+}
+.gi-nav-card-arrow {
+  color: var(--vp-c-text-3);
+  flex-shrink: 0;
+  font-size: 1.1rem;
+  transition: transform 0.15s, color 0.15s;
+}
+.gi-nav-card:hover .gi-nav-card-arrow {
+  transform: translateX(3px);
+  color: var(--vp-c-brand-1);
+}
+
+/* ============================================================
+   2f. COMPONENT: FORMAT GRID (feature/format cards)
+   ============================================================ */
+.gi-format-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+.gi-format-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-elv);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+.gi-format-card:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.dark .gi-format-card:hover {
+  border-color: rgba(106, 231, 200, 0.40);
+  box-shadow: 0 0 24px rgba(106, 231, 200, 0.08);
+}
+.gi-format-card-icon {
+  font-size: 1.75rem;
+  margin-bottom: 0.75rem;
+  display: block;
+}
+.gi-format-card-title {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+  margin: 0 0 0.4rem !important;
+  padding: 0 !important;
+  border: none !important;
+  display: block;
+}
+.gi-format-card-desc {
+  font-size: 0.8125rem;
+  color: var(--vp-c-text-2);
+  margin: 0 !important;
+  line-height: 1.5;
+  flex: 1;
+}
+
+/* ============================================================
+   2g. COMPONENT: VALUE GRID (non-link feature cards)
+   ============================================================ */
+.gi-value-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+.gi-value-card {
+  padding: 1.25rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-elv);
+}
+.gi-value-card strong {
+  display: block;
+  font-size: 0.9375rem;
+  margin-bottom: 0.4rem;
+  color: var(--vp-c-text-1);
+}
+.gi-value-card p {
+  font-size: 0.8125rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+  margin: 0 !important;
+}
+
+/* ============================================================
+   2h. COMPONENT: ACCENT & DANGER BOXES
+   ============================================================ */
+.gi-accent-box {
+  background: var(--gi-tint-blue-bg);
+  border: 1.5px solid var(--gi-mint);
+  border-radius: 10px;
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 2.5rem;
+}
+.gi-accent-box > *:first-child { margin-top: 0 !important; }
+.gi-accent-box > *:last-child  { margin-bottom: 0 !important; }
+.gi-accent-box h3, .gi-accent-box h4 {
+  border: none !important;
+  padding: 0 !important;
+}
+
+.gi-danger-box {
+  background: var(--gi-tint-red-bg);
+  border: 1.5px solid var(--gi-tint-red-text);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-top: 1.25rem;
+}
+.gi-danger-box > *:first-child { margin-top: 0 !important; }
+.gi-danger-box > *:last-child  { margin-bottom: 0 !important; }
+.gi-danger-box strong:first-child {
+  display: block;
+  color: var(--gi-tint-red-text);
+  margin-bottom: 0.5rem;
+}
+
+/* ============================================================
+   2i. COMPONENT: QUICK LINKS (flex row of buttons)
+   ============================================================ */
+.gi-quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+/* ============================================================
+   2j. COMPONENT: ALPHA NAV (glossary)
+   ============================================================ */
+.gi-alpha-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 2.5rem;
+  padding: 0.875rem 1rem;
+  background: var(--vp-c-bg-soft);
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+}
+.gi-alpha-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--vp-c-brand-1) !important;
+  text-decoration: none !important;
+  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--vp-c-divider);
+  transition: background 0.15s, border-color 0.15s;
+}
+.gi-alpha-nav a:hover {
+  background: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-1);
+}
+
+/* ============================================================
    3. HOVER TILES — CSS-only, dark-mode-safe
       Replace all onmouseover/onmouseout JS in content files.
    ============================================================ */

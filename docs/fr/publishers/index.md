@@ -4,116 +4,87 @@ title: Espace Éditeurs
 
 # Espace Éditeurs & E-commerçants
 
-Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additionnel.
+<p class="gi-page-intro">Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additionnel.</p>
 
-<!-- BOUTON D'ACCÈS -->
-<div class="mt-4 mb-6">
-  <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary fs-5">Accéder à mon Espace</a>
+<div class="gi-quick-links">
+  <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Accéder à mon Espace →</a>
 </div>
-<hr class="mb-6" />
-<h2 class="text-blue-200 mb-4">1. Configuration & Démarrage</h2>
-<!-- LAYOUT LISTE VERTICALE (ROBUSTE) -->
-<div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
-  <!-- ONBOARDING -->
-  <a href="onboarding-process" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">🚀</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-4">Guide de Démarrage</h3>
-        <p class="mb-0 fs-2 text-grey-dk-000">Comprendre les 3 piliers : Activation, Trade Marketing et Prospection.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
+
+## Configuration & Démarrage
+
+<div class="gi-nav-list">
+  <a href="onboarding-process" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🚀</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Guide de Démarrage</p>
+      <p class="gi-nav-card-desc">Comprendre les 3 piliers : Activation, Trade Marketing et Prospection.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <!-- AUDIENCE -->
-  <a href="audience-setup" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">🎯</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-4">Audience & Score</h3>
-        <p class="mb-0 fs-2 text-grey-dk-000">Comment remplir votre fiche pour être visible et optimiser votre score distributeur.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
+  <a href="audience-setup" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🎯</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Audience & Score</p>
+      <p class="gi-nav-card-desc">Comment remplir votre fiche pour être visible et optimiser votre score distributeur.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <!-- AFFILIATION -->
-  <a href="affiliation" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">🤝</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-4">Affiliation</h3>
-        <p class="mb-0 fs-2 text-grey-dk-000">Invitez des partenaires et gagnez 20% de commission sur leurs revenus.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
+  <a href="affiliation" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🤝</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Affiliation</p>
+      <p class="gi-nav-card-desc">Invitez des partenaires et gagnez 20% de commission sur leurs revenus.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
 </div>
-<h2>2. Formats & Opérations</h2>
-<!-- GRILLE 2 COLONNES -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;">
-  <!-- ASILE COLIS -->
-  <a href="sponsored-mail/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">📦</div>
-      <div class="fs-4 fw-700 mb-2">Asile Colis</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Réception, insertion en entrepôt et reporting.</p>
-    </div>
+
+## Formats & Opérations
+
+<div class="gi-format-grid">
+  <a href="sponsored-mail/" class="gi-format-card">
+    <span class="gi-format-card-icon">📦</span>
+    <span class="gi-format-card-title">Asile Colis</span>
+    <p class="gi-format-card-desc">Réception, insertion en entrepôt et reporting.</p>
   </a>
-  <!-- EMAILING -->
-  <a href="dedicated-email/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">📧</div>
-      <div class="fs-4 fw-700 mb-2">Emailing Dédié</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Création, endorsement et tracking.</p>
-    </div>
+  <a href="dedicated-email/" class="gi-format-card">
+    <span class="gi-format-card-icon">📧</span>
+    <span class="gi-format-card-title">Emailing Dédié</span>
+    <p class="gi-format-card-desc">Création, endorsement et tracking.</p>
   </a>
-  <!-- ENCART -->
-  <a href="display-email/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">🖼️</div>
-      <div class="fs-4 fw-700 mb-2">Encart Newsletter</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Intégration bannière simple.</p>
-    </div>
+  <a href="display-email/" class="gi-format-card">
+    <span class="gi-format-card-icon">🖼️</span>
+    <span class="gi-format-card-title">Encart Newsletter</span>
+    <p class="gi-format-card-desc">Intégration bannière simple.</p>
   </a>
-  <!-- SOCIAL -->
-  <a href="sponsored-social/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">📱</div>
-      <div class="fs-4 fw-700 mb-2">Social Ads</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Sponsorisation de posts (Partnership Ads).</p>
-    </div>
+  <a href="sponsored-social/" class="gi-format-card">
+    <span class="gi-format-card-icon">📱</span>
+    <span class="gi-format-card-title">Social Ads</span>
+    <p class="gi-format-card-desc">Sponsorisation de posts (Partnership Ads).</p>
   </a>
-   <!-- JEU CONCOURS -->
-   <a href="co-branded-contest/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">🎁</div>
-      <div class="fs-4 fw-700 mb-2">Jeu Concours</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Animation et collecte de leads.</p>
-    </div>
+  <a href="co-branded-contest/" class="gi-format-card">
+    <span class="gi-format-card-icon">🎁</span>
+    <span class="gi-format-card-title">Jeu Concours</span>
+    <p class="gi-format-card-desc">Animation et collecte de leads.</p>
   </a>
 </div>
-<h2>3. Finance & Admin</h2>
-<!-- GRILLE 3 COLONNES POUR LES PETITES CARTES -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
-  <a href="pricing" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">💎</div>
-      <div class="fs-4 fw-700 mb-2">Abonnements & Offres</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Starter, Standard ou Managed.</p>
-    </div>
+
+## Finance & Admin
+
+<div class="gi-format-grid">
+  <a href="pricing" class="gi-format-card">
+    <span class="gi-format-card-icon">💎</span>
+    <span class="gi-format-card-title">Abonnements & Offres</span>
+    <p class="gi-format-card-desc">Starter, Standard ou Managed.</p>
   </a>
-  <a href="payouts" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">💸</div>
-      <div class="fs-4 fw-700 mb-2">Paiements & Wallet</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Retraits, frais et réinvestissement.</p>
-    </div>
+  <a href="payouts" class="gi-format-card">
+    <span class="gi-format-card-icon">💸</span>
+    <span class="gi-format-card-title">Paiements & Wallet</span>
+    <p class="gi-format-card-desc">Retraits, frais et réinvestissement.</p>
   </a>
-  <a href="affiliation" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); height: 100%; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 32px; margin-bottom: 10px;">🤝</div>
-      <div class="fs-4 fw-700 mb-2">Affiliation</div>
-      <p class="fs-2 text-grey-dk-000 mb-0">Parrainez et gagnez 20% de commission.</p>
-    </div>
+  <a href="affiliation" class="gi-format-card">
+    <span class="gi-format-card-icon">🤝</span>
+    <span class="gi-format-card-title">Affiliation</span>
+    <p class="gi-format-card-desc">Parrainez et gagnez 20% de commission.</p>
   </a>
 </div>

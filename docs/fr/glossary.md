@@ -6,23 +6,23 @@ title: Glossaire
 
 Définitions des termes techniques et acronymes de la plateforme.
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 30px 0; padding: 15px; background: var(--vp-c-bg-soft); border-radius: 6px;">
-  <a href="#a" style="text-decoration: none; font-weight: bold;">A</a>
-  <a href="#b" style="text-decoration: none; font-weight: bold;">B</a>
-  <a href="#c" style="text-decoration: none; font-weight: bold;">C</a>
-  <a href="#d" style="text-decoration: none; font-weight: bold;">D</a>
-  <a href="#e" style="text-decoration: none; font-weight: bold;">E</a>
-  <a href="#f" style="text-decoration: none; font-weight: bold;">F</a>
-  <a href="#l" style="text-decoration: none; font-weight: bold;">L</a>
-  <a href="#o" style="text-decoration: none; font-weight: bold;">O</a>
-  <a href="#p" style="text-decoration: none; font-weight: bold;">P</a>
-  <a href="#q" style="text-decoration: none; font-weight: bold;">Q</a>
-  <a href="#r" style="text-decoration: none; font-weight: bold;">R</a>
-  <a href="#t" style="text-decoration: none; font-weight: bold;">T</a>
-  <a href="#u" style="text-decoration: none; font-weight: bold;">U</a>
-  <a href="#z" style="text-decoration: none; font-weight: bold;">Z</a>
+<div class="gi-alpha-nav">
+  <a href="#a">A</a>
+  <a href="#b">B</a>
+  <a href="#c">C</a>
+  <a href="#d">D</a>
+  <a href="#e">E</a>
+  <a href="#f">F</a>
+  <a href="#l">L</a>
+  <a href="#o">O</a>
+  <a href="#p">P</a>
+  <a href="#q">Q</a>
+  <a href="#r">R</a>
+  <a href="#t">T</a>
+  <a href="#u">U</a>
+  <a href="#z">Z</a>
 </div>
-<h2 id="a" class="text-blue-200">A</h2>
+<h2 id="a">A</h2>
 <dl>
   <dt>Annonceur (Advertiser)</dt>
   <dd>Marque qui achète de l'espace publicitaire pour promouvoir ses produits ou services.</dd>
@@ -32,7 +32,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Ciblage publicitaire visant des profils ayant des caractéristiques similaires (comportement d'achat, démographie) à une base de clients existante.</dd>
 </dl>
 <hr />
-<h2 id="b" class="text-blue-200">B</h2>
+<h2 id="b">B</h2>
 <dl>
   <dt>BAT (Bon à Tirer)</dt>
   <dd>Validation finale de la maquette (numérique) avant le lancement de la production. Une fois validé, aucune modification n'est possible.</dd>
@@ -40,7 +40,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Document rempli par l'Annonceur détaillant ses objectifs et fournissant les éléments graphiques nécessaires à la campagne.</dd>
 </dl>
 <hr />
-<h2 id="c" class="text-blue-200">C</h2>
+<h2 id="c">C</h2>
 <dl>
   <dt>Capping</dt>
   <dd>Limite de volume imposée à une campagne (ex: limiter à 1 flyer par colis maximum).</dd>
@@ -52,7 +52,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Unité de mesure standard. Un CPM de 15€ signifie que l'annonceur paie 15€ pour 1 000 impressions.</dd>
 </dl>
 <hr />
-<h2 id="d" class="text-blue-200">D</h2>
+<h2 id="d">D</h2>
 <dl>
   <dt>Distributeur (Publisher/Éditeur)</dt>
   <dd>E-commerçant ou Média qui monétise son audience en diffusant les publicités d'annonceurs tiers.</dd>
@@ -60,7 +60,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Digital Native Vertical Brand. Marque née sur internet vendant en direct.</dd>
 </dl>
 <hr />
-<h2 id="e" class="text-blue-200">E</h2>
+<h2 id="e">E</h2>
 <dl>
   <dt>Echantillonnage (Sampling)</dt>
   <dd>Distribution gratuite d'un produit en format réduit pour le faire tester.</dd>
@@ -68,7 +68,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Caution apportée par le Distributeur à l'Annonceur. Le fait que l'e-commerçant "parle" de la marque renforce la confiance.</dd>
 </dl>
 <hr />
-<h2 id="f" class="text-blue-200">F</h2>
+<h2 id="f">F</h2>
 <dl>
   <dt>FOGRA39</dt>
   <dd>Profil colorimétrique standard pour l'impression offset en Europe.</dd>
@@ -76,7 +76,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Zone imprimée dépassant le format final (2-3 mm) pour éviter les liserés blancs à la découpe.</dd>
 </dl>
 <hr />
-<h2 id="l" class="text-blue-200">L</h2>
+<h2 id="l">L</h2>
 <dl>
   <dt>Landing Page</dt>
   <dd>Page web spécifique vers laquelle l'utilisateur est redirigé après avoir cliqué sur une offre.</dd>
@@ -84,25 +84,25 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Délai logistique incompressible entre la réception des flyers et leur insertion effective dans les premiers colis.</dd>
 </dl>
 <hr />
-<h2 id="o" class="text-blue-200">O</h2>
+<h2 id="o">O</h2>
 <dl>
   <dt>Opt-in</dt>
   <dd>Consentement explicite de l'internaute à recevoir des communications commerciales.</dd>
 </dl>
 <hr />
-<h2 id="p" class="text-blue-200">P</h2>
+<h2 id="p">P</h2>
 <dl>
   <dt>Pixel de Tracking</dt>
   <dd>Petit morceau de code (image 1x1) inséré dans un email pour comptabiliser les ouvertures.</dd>
 </dl>
 <hr />
-<h2 id="q" class="text-blue-200">Q</h2>
+<h2 id="q">Q</h2>
 <dl>
   <dt>QR Code Dynamique</dt>
   <dd>Code 2D dont l'URL de destination peut être modifiée à distance après l'impression.</dd>
 </dl>
 <hr />
-<h2 id="r" class="text-blue-200">R</h2>
+<h2 id="r">R</h2>
 <dl>
   <dt>Retail Media</dt>
   <dd>Dispositifs publicitaires présents sur les parcours d'achat des e-commerçants (Colis, Web, Email).</dd>
@@ -110,7 +110,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Retour sur Investissement.</dd>
 </dl>
 <hr />
-<h2 id="t" class="text-blue-200">T</h2>
+<h2 id="t">T</h2>
 <dl>
   <dt>Taux d'ouverture (Open Rate)</dt>
   <dd>Pourcentage de destinataires ayant ouvert l'email.</dd>
@@ -118,13 +118,13 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Logo obligatoire en France indiquant comment trier le déchet.</dd>
 </dl>
 <hr />
-<h2 id="u" class="text-blue-200">U</h2>
+<h2 id="u">U</h2>
 <dl>
   <dt>UTM</dt>
   <dd>Paramètres ajoutés à la fin d'une URL (ex: `?utm_source=getinside`) pour tracker la source du trafic.</dd>
 </dl>
 <hr />
-<h2 id="z" class="text-blue-200">Z</h2>
+<h2 id="z">Z</h2>
 <dl>
   <dt>Zone Tranquille</dt>
   <dd>Marge de sécurité intérieure où il ne faut placer aucun texte important.</dd>

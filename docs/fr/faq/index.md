@@ -4,53 +4,39 @@ title: FAQ
 
 # Foire Aux Questions
 
-Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes et la facturation.
+<p class="gi-page-intro">Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes et la facturation.</p>
 
-<hr class="my-6" />
-<!-- CONTENEUR LISTE VERTICALE -->
-<div style="display: flex; flex-direction: column; gap: 16px;">
-  <!-- LIEN 1 : COMPTE -->
-  <a href="account-audiences" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">⚙️</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-5">Compte & Audiences</h3>
-        <p class="mb-0 fs-3 text-grey-dk-000">Gestion des utilisateurs, création d'audiences, affiliation et catalogue.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
+<div class="gi-nav-list">
+  <a href="account-audiences" class="gi-nav-card">
+    <span class="gi-nav-card-icon">⚙️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Compte & Audiences</p>
+      <p class="gi-nav-card-desc">Gestion des utilisateurs, création d'audiences, affiliation et catalogue.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <!-- LIEN 2 : CAMPAGNES -->
-  <a href="campaign-management" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">⚡</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-5">Gestion des Campagnes</h3>
-        <p class="mb-0 fs-3 text-grey-dk-000">Validation, annulation, retards et suivi opérationnel.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
+  <a href="campaign-management" class="gi-nav-card">
+    <span class="gi-nav-card-icon">⚡</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Gestion des Campagnes</p>
+      <p class="gi-nav-card-desc">Validation, annulation, retards et suivi opérationnel.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <!-- LIEN 3 : FACTURATION -->
-  <a href="billing" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">💰</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-5">Facturation & Paiements</h3>
-        <p class="mb-0 fs-3 text-grey-dk-000">Édition de factures, retraits et délais de paiement.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
+  <a href="billing" class="gi-nav-card">
+    <span class="gi-nav-card-icon">💰</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Facturation & Paiements</p>
+      <p class="gi-nav-card-desc">Édition de factures, retraits et délais de paiement.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <!-- LIEN 4 : LOGISTIQUE -->
-  <a href="logistics-tech" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">📦</div>
-      <div>
-        <h3 class="mt-0 mb-1 fs-5">Logistique & Technique</h3>
-        <p class="mb-0 fs-3 text-grey-dk-000">Livraisons, impression RSE, tracking et RGPD.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3); font-weight: bold;">➝</div>
+  <a href="logistics-tech" class="gi-nav-card">
+    <span class="gi-nav-card-icon">📦</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Logistique & Technique</p>
+      <p class="gi-nav-card-desc">Livraisons, impression RSE, tracking et RGPD.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
 </div>
