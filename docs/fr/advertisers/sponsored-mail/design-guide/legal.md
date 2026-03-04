@@ -38,7 +38,7 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
     <p>getinside compte les <strong>Scans</strong>. Pour compter les <strong>Ventes</strong> dans votre Google Analytics, vous devez configurer votre URL.</p>
     <div style="background: var(--vp-c-bg-elv); padding: 10px; border-radius: 4px; border: 1px solid var(--gi-tint-green-text); margin-top: 10px; font-size: 0.9em;">
       <strong>Conseil :</strong> Ne mettez pas <code>monsite.com</code>.<br />
-      Mettez <code>monsite.com?utm_source=getinside&utm_medium=asile-colis</code>.
+      Mettez <code>monsite.com?utm_source=getinside&utm_medium=insertion-colis</code>.
     </div>
   </div>
 </div>
@@ -83,5 +83,25 @@ Respectez ces obligations pour valider votre campagne et garantir un tracking pe
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
     <h3>💰 Crédit / Finance</h3>
     <p><em>"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités..."</em></p>
+    <span>Article L311-5 Code de la Consommation.</span>
+  </div>
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>🎰 Jeux d'Argent</h3>
+    <p><em>"Jouer comporte des risques : endettement, isolement, dépendance. Appelez le 09-74-75-13-13."</em></p>
+    <span>Interdiction de ciblage mineurs.</span>
+  </div>
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>💊 Médicaments</h3>
+    <p><em>"Lire attentivement la notice. Demandez conseil à votre pharmacien."</em></p>
+    <span>Code de la Santé Publique.</span>
+  </div>
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>🧸 Jouets</h3>
+    <p><em>"Âge recommandé : 3+. Ne convient pas aux enfants de moins de 3 ans."</em></p>
+    <span>Directive 2009/48/CE sur la sécurité des jouets.</span>
+  </div>
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>🛡️ Assurance</h3>
+    <p><em>"Un contrat d'assurance vous engage. Vérifiez les termes avant de vous engager."</em></p>
   </div>
 </div>

@@ -153,3 +153,51 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     </ul>
   </div>
 </div>
+
+## Conditions Contractuelles & Pénalités
+
+<div class="gi-info-box" style="margin-top: 2rem;">
+  <strong>⚠️ Important : Règles de Conformité Opérationnelle</strong>
+  <p>Afin de maintenir un service de qualité pour tous nos partenaires, les conditions suivantes s'appliquent :</p>
+</div>
+
+### Délai de Réponse (Règle des 48 heures)
+
+<div style="border: 2px solid var(--gi-tint-red-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-red-bg); margin-bottom: 30px;">
+  <strong>⏰ Règle stricte :</strong> Vous devez répondre à <strong>toute proposition de campagne en moins de 48 heures ouvrées</strong>.
+  <div style="margin-top: 10px; padding: 10px; background: var(--vp-c-bg-elv); border-radius: 6px;">
+    <strong>Conséquence :</strong> Passé ce délai, l'absence de réponse = refus tacite et entraîne une <strong>pénalité équivalente à la commission</strong> que nous aurions perçue sur la campagne.
+  </div>
+</div>
+
+### Pénalités Contractuelles
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 30px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>Annulation après Validation</h3>
+    <div style="font-size: 1.5rem; font-weight: 800; color: var(--gi-tint-red-text); margin: 10px 0;">550€ HT</div>
+    <p>Forfait de pénalité si vous annulez une campagne déjà validée, en plus de la perte de commission.</p>
+  </div>
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>Rupture Anticipée de Contrat</h3>
+    <div style="font-size: 1.5rem; font-weight: 800; color: var(--gi-tint-red-text); margin: 10px 0;">1 550€ HT</div>
+    <p>Indemnité forfaitaire pour rupture d'engagement annuel avant l'échéance.</p>
+  </div>
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>Contournement de Plateforme</h3>
+    <div style="font-size: 1.5rem; font-weight: 800; color: var(--gi-tint-red-text); margin: 10px 0;">2 500€ HT / campagne</div>
+    <p>Pénalité stricte en cas de collaboration directe (Annonceur ↔ Distributeur) en dehors de la plateforme.</p>
+  </div>
+</div>
+
+### Protection des Données (RGPD & First Party Data)
+
+<div class="gi-accent-box" style="border-color: var(--gi-tint-green-text); background: var(--gi-tint-green-bg);">
+  <strong>🛡️ Les données sont exclusivement vôtres</strong>
+  <p style="margin: 0.5rem 0 1rem;">getinside agit comme un <strong>Tiers de Confiance</strong>. Aucun transfert de fichier client vers un Annonceur n'est autorisé sans un nouvel Opt-in RGPD spécifique.</p>
+  <ul style="margin: 0; padding-left: 1.25rem;">
+    <li>Vous conservez la propriété de vos données client.</li>
+    <li>Les annonceurs ne reçoivent que les leads opt-in (jeux concours uniquement).</li>
+    <li>Toute demande de données supplémentaires requiert une validation légale.</li>
+  </ul>
+</div>

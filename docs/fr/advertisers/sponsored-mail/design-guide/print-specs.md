@@ -73,3 +73,33 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
     </ul>
   </div>
 </div>
+
+<h2>📋 Gestion des Surplus & Avaries</h2>
+
+<div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); margin-bottom: 30px;">
+  <h3>Article 38 - Code des Usages de l'Industrie Graphique (UIIC)</h3>
+  <p>La réception de tout tirage est soumise à la tolérance d'écart fixée par l'industrie de l'imprimerie.</p>
+  <div style="margin-top: 15px; padding: 15px; background: var(--vp-c-bg-elv); border-radius: 6px;">
+    <strong>Écarts acceptés :</strong>
+    <ul style="margin: 0.5rem 0 0;">
+      <li><strong>Tirages ≤ 2 000 ex :</strong> ±10%</li>
+      <li><strong>Tirages 2 000-10 000 ex :</strong> ±5%</li>
+      <li><strong>Tirages 10 000-100 000 ex :</strong> ±3%</li>
+      <li><strong>Tirages > 100 000 ex :</strong> ±2%</li>
+    </ul>
+    <p style="margin: 1rem 0 0; font-size: 0.9em; color: var(--vp-c-text-2);"><em>Example : Pour un tirage de 10 000 unités, une production entre 9 500 et 10 500 unités est conforme.</em></p>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
+    <h3>✅ Surplus Acceptés</h3>
+    <p>Les écarts de production sont normaux et légalement acceptés conformément à l'Article 38 UIIC.</p>
+    <p><strong>Aucune pénalité ou remise n'est applicable.</strong></p>
+  </div>
+  <div style="border: 1px solid var(--gi-tint-red-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-red-bg);">
+    <h3>⚠️ Avaries Mineures</h3>
+    <p>Une avarie mineure (< 1% du volume) ne doit pas bloquer la distribution.</p>
+    <p>L'impact sur votre budget est limité ; continuez la diffusion.</p>
+  </div>
+</div>
