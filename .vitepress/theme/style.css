@@ -380,6 +380,87 @@
 }
 
 /* ============================================================
+   2h2. COMPONENT: INFO BOX (neutral note/callout)
+   ============================================================ */
+.gi-info-box {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+}
+.gi-info-box > *:first-child { margin-top: 0 !important; }
+.gi-info-box > *:last-child  { margin-bottom: 0 !important; }
+.gi-info-box h4 {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem !important;
+  color: var(--vp-c-text-1);
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* ============================================================
+   2h3. COMPONENT: CERT ROW (icon + label centered items)
+   ============================================================ */
+.gi-cert-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.25rem;
+  margin: 1rem 0 0;
+}
+.gi-cert-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+.gi-cert-item .gi-cert-icon {
+  font-size: 2rem;
+  line-height: 1;
+}
+.gi-cert-item strong {
+  font-size: 0.875rem;
+  color: var(--vp-c-text-1);
+}
+.gi-cert-item span {
+  font-size: 0.8125rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.5;
+}
+
+/* ============================================================
+   2h4. COMPONENT: STEP LIST (numbered process steps)
+   ============================================================ */
+.gi-step {
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}
+.gi-step-num {
+  flex-shrink: 0;
+  width: 2.25rem;
+  height: 2.25rem;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin-top: 3px;
+}
+.gi-step-num.done { background: var(--gi-tint-green-text); }
+.gi-step-body { flex: 1; min-width: 0; }
+.gi-step-body > h3:first-child {
+  margin: 0 0 0.5rem !important;
+  font-size: 1rem !important;
+}
+
+/* ============================================================
    2i. COMPONENT: QUICK LINKS (flex row of buttons)
    ============================================================ */
 .gi-quick-links {

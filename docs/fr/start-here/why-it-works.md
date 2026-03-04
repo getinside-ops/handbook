@@ -6,8 +6,7 @@ title: Comment ça fonctionne ?
 
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 
-
-<div style="background-color: var(--vp-c-bg-soft); border-radius: 8px; padding: 40px; margin-top: 30px; margin-bottom: 50px;">
+<div class="gi-accent-box">
 
 ```mermaid
 flowchart TD
@@ -31,173 +30,148 @@ flowchart TD
 ```
 
 </div>
-<h2 class="text-purple-200 mb-4">Le Transfert de Confiance (Endorsement)</h2>
-<div style="display: flex; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <p class="fs-4">Le point commun entre un colis, une newsletter et un post social d'une marque ?</p>
-    <ul class="mb-0 fs-3 pl-4">
-      <li class="mb-2"><strong>La Relation Client :</strong> Le consommateur a déjà acheté ou s'est abonné volontairement.</li>
-      <li class="mb-2"><strong>La Crédibilité :</strong> Il fait confiance à l'éditeur (le e-commerçant).</li>
-      <li><strong>L'Attention :</strong> Il attend ce contenu (suivi de commande, nouveautés).</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 300px; background: var(--gi-tint-blue-bg); border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px;">
-    <h3 class="mt-0 text-purple-200">L'Effet de Halo</h3>
-    <p class="mb-0">En vous insérant dans cet écosystème, votre marque bénéficie instantanément de ce capital confiance. Vous n'êtes plus un intrus, vous êtes un <strong>partenaire recommandé</strong>.</p>
-  </div>
+
+## Le Transfert de Confiance (Endorsement)
+
+Le point commun entre un colis, une newsletter et un post social d'une marque :
+
+- **La Relation Client :** Le consommateur a déjà acheté ou s'est abonné volontairement.
+- **La Crédibilité :** Il fait confiance à l'éditeur (le e-commerçant).
+- **L'Attention :** Il attend ce contenu (suivi de commande, nouveautés).
+
+<div class="gi-accent-box">
+  <strong>L'Effet de Halo</strong>
+  <p style="margin: 0.5rem 0 0;">En vous insérant dans cet écosystème, votre marque bénéficie instantanément de ce capital confiance. Vous n'êtes plus un intrus, vous êtes un <strong>partenaire recommandé</strong>.</p>
 </div>
-<h2 class="text-green-200 mb-4">Pour l'E-commerçant : La logique économique</h2>
-<div style="border: 1px solid var(--gi-tint-green-text); border-radius: 8px; padding: 24px; background: var(--gi-tint-green-bg); margin-bottom: 40px;">
-  <h3 class="mt-0 text-green-200">Le cercle vertueux du Réinvestissement</h3>
-  <p class="fs-4">getinside n'est pas seulement une régie, c'est un accélérateur de croissance.</p>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 20px;">
-    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid var(--gi-tint-green-border);">
+
+## Pour l'E-commerçant : La logique économique
+
+<div class="gi-accent-box" style="border-color: var(--gi-tint-green-border);">
+  <strong>Le cercle vertueux du Réinvestissement</strong>
+  <p style="color: var(--vp-c-text-2); font-size: 0.9375rem; margin: 0.25rem 0 1rem;">getinside n'est pas seulement une régie, c'est un accélérateur de croissance.</p>
+  <div class="gi-value-grid" style="margin-bottom: 0;">
+    <div class="gi-value-card">
       <strong>1. Monétisation</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Vos colis et emails génèrent du cash grâce aux annonceurs tiers.</p>
+      <p>Vos colis et emails génèrent du cash grâce aux annonceurs tiers.</p>
     </div>
-    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid var(--gi-tint-green-border);">
+    <div class="gi-value-card">
       <strong>2. Transfert Instantané</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Vos revenus sont disponibles sur votre Wallet. Pas besoin d'attendre un virement bancaire.</p>
+      <p>Vos revenus sont disponibles sur votre Wallet. Pas besoin d'attendre un virement bancaire.</p>
     </div>
-    <div style="background: var(--vp-c-bg-elv); padding: 15px; border-radius: 6px; border: 1px solid var(--gi-tint-green-border);">
+    <div class="gi-value-card">
       <strong>3. Acquisition</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
+      <p>Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
+    </div>
   </div>
-  <p class="mt-3 fs-2 text-grey-dk-000 mb-0"><em>Résultat : Vous financez votre acquisition client... grâce à vos propres colis !</em></p>
+  <p style="margin: 1rem 0 0; font-size: 0.875rem; color: var(--vp-c-text-2);"><em>Résultat : Vous financez votre acquisition client... grâce à vos propres colis !</em></p>
 </div>
-</div>
-<div style="margin-top: 60px; margin-bottom: 30px;">
-  <h2 class="text-purple-200 mb-2">3 Leviers, 1 Écosystème</h2>
-  <p class="fs-4 mt-0 text-grey-dk-000">
-    Ne laissez aucun asset inexploité. getinside valorise vos points de contact physiques et digitaux pour maximiser la couverture.
-  </p>
-</div>
-<!-- REMPLACEMENT DU TABLEAU PAR UNE GRILLE FLEX (Plus robuste) -->
-<div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px; background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 20px; border-radius: 8px;">
-    <div style="font-size: 30px; min-width: 40px;">📦</div>
-    <div style="flex: 1;">
+
+## 3 Leviers, 1 Écosystème
+
+Ne laissez aucun asset inexploité. getinside valorise vos points de contact physiques et digitaux pour maximiser la couverture.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card" style="display: flex; gap: 1rem; align-items: flex-start;">
+    <span style="font-size: 1.75rem; flex-shrink: 0;">📦</span>
+    <div>
       <strong>Asile Colis</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Attention (100%)</strong>. Rôle : Ancrage mémoriel, Prise en main physique, Conversion.</p>
+      <p>Force : <strong>Attention (100%)</strong>. Rôle : Ancrage mémoriel, prise en main physique, conversion.</p>
     </div>
   </div>
-  <div style="display: flex; align-items: center; gap: 20px; background: var(--vp-c-bg-elv); border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
-    <div style="font-size: 30px; min-width: 40px;">📧</div>
-    <div style="flex: 1;">
+  <div class="gi-value-card" style="display: flex; gap: 1rem; align-items: flex-start;">
+    <span style="font-size: 1.75rem; flex-shrink: 0;">📧</span>
+    <div>
       <strong>Emailing Dédié</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Volume & Réactivité</strong>. Rôle : Trafic immédiat, Offre "Flash", Ciblage comportemental.</p>
+      <p>Force : <strong>Volume & Réactivité</strong>. Rôle : Trafic immédiat, offre "Flash", ciblage comportemental.</p>
     </div>
   </div>
-  <div style="display: flex; align-items: center; gap: 20px; background: var(--vp-c-bg-elv); border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
-    <div style="font-size: 30px; min-width: 40px;">📱</div>
-    <div style="flex: 1;">
+  <div class="gi-value-card" style="display: flex; gap: 1rem; align-items: flex-start;">
+    <span style="font-size: 1.75rem; flex-shrink: 0;">📱</span>
+    <div>
       <strong>Social Ads</strong>
-      <p class="fs-2 text-grey-dk-000 mb-0">Force : <strong>Viralité & Data</strong>. Rôle : Notoriété, Preuve sociale, Recrutement jeune.</p>
+      <p>Force : <strong>Viralité & Data</strong>. Rôle : Notoriété, preuve sociale, recrutement jeune.</p>
     </div>
   </div>
 </div>
-<h2 class="text-grey-dk-000 mb-4">L'Expertise getinside : Votre Accélérateur</h2>
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); margin-bottom: 20px;">
-  <p class="fs-4 mt-0">Le Retail Media est puissant, mais complexe à opérer seul.</p>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px;">
-    <div>
-      <strong>🚫 Sans getinside</strong>
-      <ul class="pl-4 fs-2 text-grey-dk-000">
-        <li>Négocier avec 50 sites un par un.</li>
-        <li>Gérer 50 factures et contrats.</li>
-        <li>Risque de qualité d'impression.</li>
-        <li>Aucune standardisation des formats.</li>
-        <li>Reporting éparpillé.</li>
-      </ul>
-    </div>
-    <div>
-      <strong>✅ Avec getinside</strong>
-      <ul class="pl-4 fs-2 text-grey-dk-000">
-        <li>Un interlocuteur unique.</li>
-        <li>Une facture unique centralisée.</li>
-        <li>Processus logistique et RSE certifié.</li>
-        <li>Tracking uniformisé.</li>
-        <li>Conseil stratégique inclus.</li>
-      </ul>
-    </div>
+
+## L'Expertise getinside : Votre Accélérateur
+
+Le Retail Media est puissant, mais complexe à opérer seul.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🚫 Sans getinside</strong>
+    <ul style="margin: 0.5rem 0 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
+      <li>Négocier avec 50 sites un par un.</li>
+      <li>Gérer 50 factures et contrats.</li>
+      <li>Risque de qualité d'impression.</li>
+      <li>Aucune standardisation des formats.</li>
+      <li>Reporting éparpillé.</li>
+    </ul>
   </div>
-</div>
-<h2 class="text-purple-200 mb-4">Le "Smart Matching" : La pertinence avant tout</h2>
-<div style="display: flex; gap: 40px; margin-bottom: 40px; flex-wrap: wrap; align-items: stretch;">
-  <div style="flex: 2; min-width: 320px;">
-    <p class="fs-4 mt-0">
-      La puissance de getinside réside dans la <strong>cohérence contextuelle</strong>. 
-      Nous proposons des <strong>offres complémentaires</strong> au moment précis où le consommateur en a besoin.
-    </p>
-    <div style="background: var(--vp-c-bg-elv); border-left: 4px solid var(--gi-accent); padding: 20px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-        <!-- ITEM 1 -->
-        <div class="mb-3">
-          <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🍷</span>
-            <div>
-              <strong>L'épicurien (Newsletter)</strong><br />
-              <span class="text-grey-dk-000 fs-2">Déclencheur : Achat de fromage affiné.</span><br />
-              <span class="text-purple-100 fs-2">➔ Offre poussée : Une box de vins sélectionnés.</span>
-            </div>
-          </div>
-        </div>
-        <!-- ITEM 2 -->
-        <div class="mb-3">
-          <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🏃</span>
-            <div>
-              <strong>Le Sportif (Social Ads)</strong><br />
-              <span class="text-grey-dk-000 fs-2">Déclencheur : Follower d'une marque d'équipement running.</span><br />
-              <span class="text-purple-100 fs-2">➔ Offre poussée : Programme de nutrition & récupération.</span>
-            </div>
-          </div>
-        </div>
-        <!-- ITEM 3 -->
-        <div class="mb-3">
-          <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">👶</span>
-            <div>
-              <strong>Les Jeunes Parents (Asile Colis)</strong><br />
-              <span class="text-grey-dk-000 fs-2">Déclencheur : Commande de jouets d'éveil.</span><br />
-              <span class="text-purple-100 fs-2">➔ Offre poussée : Vêtements bio pour enfants.</span>
-            </div>
-          </div>
-        </div>
-        <!-- ITEM 4 -->
-        <div class="mb-0">
-          <div style="display: flex; align-items: baseline;">
-            <span style="font-size: 24px; margin-right: 10px;">🪴</span>
-            <div>
-              <strong>Home Sweet Home (Asile Colis)</strong><br />
-              <span class="text-grey-dk-000 fs-2">Déclencheur : Achat de linge de lit en lin.</span><br />
-              <span class="text-purple-100 fs-2">➔ Offre poussée : Abonnement fleurs fraîches.</span>
-            </div>
-          </div>
-        </div>
-    </div>
-  </div>
-  <div style="flex: 1; min-width: 260px; background: var(--gi-tint-blue-bg); border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; display: flex; flex-direction: column;">
-    <div style="text-align: center; margin-bottom: 20px;">
-      <span style="font-size: 40px;">🎯</span>
-      <h4 class="text-purple-200 mt-2 mb-0">Ciblage Data Granulaire</h4>
-    </div>
-    <p class="fs-2 mb-4 text-center text-grey-dk-000">Nous segmentons l'audience pour garantir que votre marque touche la bonne cible :</p>
-    <ul class="fs-2 text-grey-dk-000 mb-0 pl-4">
-      <li class="mb-2"><strong>Panier Moyen (AOV) :</strong> <br />Ciblage High-End vs Mass Market.</li>
-      <li class="mb-2"><strong>Géographie :</strong> <br />National ou local (zones de chalandise).</li>
-      <li class="mb-2"><strong>Typologie Client :</strong> <br />B2B (Pros) vs B2C (Particuliers).</li>
-      <li><strong>Univers Produit :</strong> <br />Maison, Beauté, Tech, Food, etc.</li>
-      <li><strong>Pays :</strong> <br />France, Belgique, Espagne, Allemagne, etc.</li>
+  <div class="gi-value-card">
+    <strong>✅ Avec getinside</strong>
+    <ul style="margin: 0.5rem 0 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
+      <li>Un interlocuteur unique.</li>
+      <li>Une facture unique centralisée.</li>
+      <li>Processus logistique et RSE certifié.</li>
+      <li>Tracking uniformisé.</li>
+      <li>Conseil stratégique inclus.</li>
     </ul>
   </div>
 </div>
-<hr class="my-6" />
-<div style="text-align: center; background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); padding: 40px; border-radius: 8px; margin-top: 40px;">
-  <h2 class="text-purple-200 mb-3">Prêt à activer votre croissance ?</h2>
-  <p class="fs-4 text-grey-dk-000 mb-6" style="max-width: 600px; margin: 0 auto;">
+
+## Le "Smart Matching" : La pertinence avant tout
+
+La puissance de getinside réside dans la **cohérence contextuelle**. Nous proposons des **offres complémentaires** au moment précis où le consommateur en a besoin.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
+      <span style="font-size: 1.5rem;">🍷</span>
+      <div>
+        <strong>L'épicurien (Newsletter)</strong>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Achat de fromage affiné.</p>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Une box de vins sélectionnés.</p>
+      </div>
+    </div>
+  </div>
+  <div class="gi-value-card">
+    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
+      <span style="font-size: 1.5rem;">🏃</span>
+      <div>
+        <strong>Le Sportif (Social Ads)</strong>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Follower d'une marque d'équipement running.</p>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Programme de nutrition & récupération.</p>
+      </div>
+    </div>
+  </div>
+  <div class="gi-value-card">
+    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
+      <span style="font-size: 1.5rem;">👶</span>
+      <div>
+        <strong>Les Jeunes Parents (Asile Colis)</strong>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Commande de jouets d'éveil.</p>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Vêtements bio pour enfants.</p>
+      </div>
+    </div>
+  </div>
+  <div class="gi-value-card">
+    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
+      <span style="font-size: 1.5rem;">🪴</span>
+      <div>
+        <strong>Home Sweet Home (Asile Colis)</strong>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Achat de linge de lit en lin.</p>
+        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Abonnement fleurs fraîches.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="gi-accent-box" style="text-align: center; margin-top: 2.5rem;">
+  <h2 style="margin: 0 0 0.75rem; font-size: 1.375rem; border: none !important; padding: 0 !important;">Prêt à activer votre croissance ?</h2>
+  <p style="max-width: 600px; margin: 0 auto 1.5rem; color: var(--vp-c-text-2);">
     Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
   </p>
-  <div style="margin-top: 30px;">
-    <a href="mailto:studio@getinside.com" class="btn btn-purple fs-4 py-3 px-5">Discuter de mon projet</a>
-  </div>
+  <a href="mailto:studio@getinside.com" class="btn btn-primary">Discuter de mon projet</a>
 </div>

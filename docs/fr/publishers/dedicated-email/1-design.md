@@ -6,19 +6,19 @@ title: 1. Création & Design
 
 Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annonceur fournit le fond (l'offre), vous fournissez la forme (le ton).
 
-<hr class="my-6" />
-<h2 class="text-purple-200 mb-4">Accéder au Brief</h2>
+<hr />
+<h2>Accéder au Brief</h2>
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 40px; background-color: var(--vp-c-bg-elv); padding: 20px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
   <div style="flex-shrink: 0; width: 50px; height: 50px; background: var(--vp-code-block-bg); color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 24px;">📝</div>
   <div>
-    <h3 class="mt-0 fs-4">Tout est sur la plateforme</h3>
-    <p class="mb-0 fs-3">Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> pour récupérer : l'offre commerciale, les visuels produits HD et les arguments clés.</p>
+    <h3>Tout est sur la plateforme</h3>
+    <p>Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> pour récupérer : l'offre commerciale, les visuels produits HD et les arguments clés.</p>
   </div>
 </div>
-<h2 class="text-purple-200 mb-4">Stratégie de Co-branding</h2>
+<h2>Stratégie de Co-branding</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 text-green-200">✅ À FAIRE (Endorsement)</h3>
+    <h3>✅ À FAIRE (Endorsement)</h3>
     <p>Vos abonnés doivent sentir que le message vient de vous.</p>
     <ul>
       <li><strong>Header :</strong> Utilisez votre en-tête habituel.</li>
@@ -27,7 +27,7 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-red-text); background: var(--gi-tint-red-bg); border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 text-red-200">❌ À ÉVITER (Pub Brute)</h3>
+    <h3>❌ À ÉVITER (Pub Brute)</h3>
     <p>Ne transformez pas votre newsletter en panneau publicitaire.</p>
     <ul>
       <li>Ne copiez-collez pas un code HTML fourni par la marque.</li>
@@ -36,8 +36,8 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
     </ul>
   </div>
 </div>
-<h2 class="text-blue-200 mb-4">📧 Dedicated Email (Exemples Live)</h2>
-<p class="fs-4 text-grey-dk-000 mb-6">Cliquez pour visualiser le rendu réel dans le navigateur (Responsive, Co-branding, Endorsement).</p>
+<h2>📧 Dedicated Email (Exemples Live)</h2>
+<p>Cliquez pour visualiser le rendu réel dans le navigateur (Responsive, Co-branding, Endorsement).</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-bottom: 60px;">
   <!-- EXEMPLE 1 : CAATS -->
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
@@ -48,10 +48,10 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
       <div style="margin-bottom: 10px;">
         <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
       </div>
-      <h3 class="mt-0 mb-2">Caats x Les Petits Culottés</h3>
-      <p class="fs-2 text-grey-dk-000 mb-4">Campagne Petfood ciblée auprès d'une audience Parents / Famille.</p>
+      <h3>Caats x Les Petits Culottés</h3>
+      <p>Campagne Petfood ciblée auprès d'une audience Parents / Famille.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -64,10 +64,10 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
       <div style="margin-bottom: 10px;">
         <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
       </div>
-      <h3 class="mt-0 mb-2">HelloFresh x Berceau Magique</h3>
-      <p class="fs-2 text-grey-dk-000 mb-4">Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</p>
+      <h3>HelloFresh x Berceau Magique</h3>
+      <p>Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -80,10 +80,10 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
       <div style="margin-bottom: 10px;">
         <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
       </div>
-      <h3 class="mt-0 mb-2">Les Petits Frères des Pauvres</h3>
-      <p class="fs-2 text-grey-dk-000 mb-4">Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
+      <h3>Les Petits Frères des Pauvres</h3>
+      <p>Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -96,14 +96,14 @@ Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annon
   <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;">
     <!-- Partie Gauche : Texte -->
     <div style="flex: 1 1 300px;">
-      <h2 class="mt-0 text-purple-200 fs-4">Pas le temps de créer ?</h2>
-      <p class="mb-0">Déléguez la création au <strong>Studio getinside</strong>.<br />Nous créons l'email à vos couleurs, rédigeons l'édito et gérons l'intégration technique.</p>
+      <h2>Pas le temps de créer ?</h2>
+      <p>Déléguez la création au <strong>Studio getinside</strong>.<br />Nous créons l'email à vos couleurs, rédigeons l'édito et gérons l'intégration technique.</p>
     </div>
     <!-- Partie Droite : Prix & Bouton -->
     <div style="text-align: right; flex: 0 0 auto; background: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border: 1px solid var(--vp-c-divider);">
       <div style="font-size: 20px; font-weight: 800; line-height: 1;">550€ HT</div>
       <div style="font-size: 12px; color: var(--vp-c-text-2); margin-bottom: 10px;">déduit de vos revenus</div>
-      <a href="mailto:studio@getinside.fr" class="btn btn-purple btn-sm">Contacter le Studio</a>
+      <a href="mailto:studio@getinside.fr" class="btn btn-purple">Contacter le Studio</a>
     </div>
   </div>
 </div>

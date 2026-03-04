@@ -6,18 +6,18 @@ title: Suivi & Reporting
 
 Le reporting régulier est indispensable pour assurer le suivi de la consommation des stocks et la facturation.
 
-<hr class="my-6" />
-<h2 class="text-purple-200 mb-4">📅 L'obligation hebdomadaire</h2>
+<hr />
+<h2>📅 L'obligation hebdomadaire</h2>
 <div style="border: 2px solid var(--gi-accent); background: var(--gi-tint-blue-bg); padding: 24px; border-radius: 8px; margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="font-size: 40px;">🗓️</div>
     <div>
-      <h3 class="mt-0 text-purple-200">Chaque début de semaine</h3>
-      <p class="fs-4 mb-0">Vous devez déclarer le volume exact d'asiles distribués au cours de la semaine précédente (Lundi ou Mardi).</p>
+      <h3>Chaque début de semaine</h3>
+      <p>Vous devez déclarer le volume exact d'asiles distribués au cours de la semaine précédente (Lundi ou Mardi).</p>
     </div>
   </div>
 </div>
-<h2 class="text-grey-dk-000 mb-4">Comment déclarer les volumes ?</h2>
+<h2>Comment déclarer les volumes ?</h2>
 <!-- ETAPE 1 -->
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 30px; height: 30px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">1</div>
@@ -44,15 +44,15 @@ Le reporting régulier est indispensable pour assurer le suivi de la consommatio
     </ul>
   </div>
 </div>
-<h2 class="text-grey-dk-000 mb-4">Fin de campagne</h2>
+<h2>Fin de campagne</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 fs-4">Cas A : Stock Épuisé</h3>
-    <p class="fs-2 text-grey-dk-000 mb-0">Vous avez distribué tous les supports reçus. La campagne s'arrête naturellement.</p>
+    <h3>Cas A : Stock Épuisé</h3>
+    <p>Vous avez distribué tous les supports reçus. La campagne s'arrête naturellement.</p>
   </div>
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
-    <h3 class="mt-0 fs-4">Cas B : Objectif Atteint</h3>
-    <p class="fs-2 text-grey-dk-000 mb-0">Le volume commandé (Capped) est atteint, même s'il reste du stock (sauf instruction contraire pour écouler le reliquat).</p>
+    <h3>Cas B : Objectif Atteint</h3>
+    <p>Le volume commandé (Capped) est atteint, même s'il reste du stock (sauf instruction contraire pour écouler le reliquat).</p>
   </div>
 </div>
 <div style="margin-top: 20px; text-align: center;">

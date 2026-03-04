@@ -6,15 +6,15 @@ title: Inspirations & Case Studies
 
 Découvrez comment d'autres marques utilisent getinside pour atteindre leurs objectifs d'acquisition.
 
-<div class="mt-4 mb-6">
-  <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary fs-4">Créer ma campagne</a>
+<div>
+  <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer ma campagne</a>
 </div>
-<hr class="mb-6" />
+<hr />
 <!-- ========================================== -->
 <!-- SECTION 1 : DEDICATED EMAIL (LIVE)     -->
 <!-- ========================================== -->
-<h2 class="text-blue-200 mb-4">📧 Dedicated Email (Exemples Live)</h2>
-<p class="fs-4 text-grey-dk-000 mb-6">Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.</p>
+<h2>📧 Dedicated Email (Exemples Live)</h2>
+<p>Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.</p>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-bottom: 60px;">
   <!-- EXEMPLE 1 : CAATS -->
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
@@ -25,10 +25,10 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       <div style="margin-bottom: 10px;">
         <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
       </div>
-      <h3 class="mt-0 mb-2">Caats x Les Petits Culottés</h3>
-      <p class="fs-2 text-grey-dk-000 mb-4">Campagne Petfood ciblée auprès d'une audience Parents / Famille.</p>
+      <h3>Caats x Les Petits Culottés</h3>
+      <p>Campagne Petfood ciblée auprès d'une audience Parents / Famille.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -41,10 +41,10 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       <div style="margin-bottom: 10px;">
         <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
       </div>
-      <h3 class="mt-0 mb-2">HelloFresh x Berceau Magique</h3>
-      <p class="fs-2 text-grey-dk-000 mb-4">Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</p>
+      <h3>HelloFresh x Berceau Magique</h3>
+      <p>Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -57,10 +57,10 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
       <div style="margin-bottom: 10px;">
         <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
       </div>
-      <h3 class="mt-0 mb-2">Les Petits Frères des Pauvres</h3>
-      <p class="fs-2 text-grey-dk-000 mb-4">Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
+      <h3>Les Petits Frères des Pauvres</h3>
+      <p>Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
       <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline btn-block" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
+        <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
       </div>
     </div>
   </div>
@@ -68,8 +68,8 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 <!-- ========================================== -->
 <!-- SECTION 2 : SPONSORED MAIL (CASE STUDIES) -->
 <!-- ========================================== -->
-<h2 class="text-blue-200 mb-4">📦 Sponsored Mail & Success Stories</h2>
-<p class="fs-4 text-grey-dk-000 mb-6">Cliquez sur les images pour zoomer.</p>
+<h2>📦 Sponsored Mail & Success Stories</h2>
+<p>Cliquez sur les images pour zoomer.</p>
 <!-- 1. CAS AVÈNE -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); margin-bottom: 30px;">
   <div style="flex: 0 0 250px; min-width: 250px;">
@@ -77,16 +77,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">AVÈNE</h2>
+      <h2>AVÈNE</h2>
       <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--gi-tint-green-text);">Notoriété</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Développer la notoriété et générer du trafic</p>
+    <p>Développer la notoriété et générer du trafic</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Format</strong><span>Sponsored Mail (Sampling)</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Ciblage</strong><span>Beauté, Santé & Bien-être</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Volume</strong><span>30 000 ex.</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Interaction</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">5,40%</span></div>
+      <div><strong class="d-block">Format</strong><span>Sponsored Mail (Sampling)</span></div>
+      <div><strong class="d-block">Ciblage</strong><span>Beauté, Santé & Bien-être</span></div>
+      <div><strong class="d-block">Volume</strong><span>30 000 ex.</span></div>
+      <div><strong class="d-block">Interaction</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">5,40%</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       “Des opérations de campagnes externalisées et une campagne clé en main.”
@@ -100,16 +100,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">NOCIBÉ</h2>
+      <h2>NOCIBÉ</h2>
       <span style="background: var(--vp-c-bg-soft); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--gi-accent);">Omnicanal</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Générer des conversions en ligne et en magasin (Drive-to-Store).</p>
+    <p>Générer des conversions en ligne et en magasin (Drive-to-Store).</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Mécanique</strong><span>Code Unique + Code Barre</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Audience</strong><span>Mode & Accessoires</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">ROI</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">16:1</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Acquisition</strong><span>20% nouveaux clients</span></div>
+      <div><strong class="d-block">Mécanique</strong><span>Code Unique + Code Barre</span></div>
+      <div><strong class="d-block">Audience</strong><span>Mode & Accessoires</span></div>
+      <div><strong class="d-block">ROI</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">16:1</span></div>
+      <div><strong class="d-block">Acquisition</strong><span>20% nouveaux clients</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       “Une campagne omnicanale qui a su réconcilier le on et le off line.”
@@ -123,16 +123,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">HELLOFRESH</h2>
+      <h2>HELLOFRESH</h2>
       <span style="background: var(--gi-tint-yellow-bg); color: var(--gi-tint-yellow-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--gi-tint-yellow-text);">Acquisition</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Recruter de nouveaux clients à l'échelle (Scale).</p>
+    <p>Recruter de nouveaux clients à l'échelle (Scale).</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Fréquence</strong><span>25 campagnes / mois</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Top Audiences</strong><span>Petfood, Famille, Cadeaux</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Offre</strong><span>Carte Cadeau</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Conversion</strong><span>1% CVR moyen</span></div>
+      <div><strong class="d-block">Fréquence</strong><span>25 campagnes / mois</span></div>
+      <div><strong class="d-block">Top Audiences</strong><span>Petfood, Famille, Cadeaux</span></div>
+      <div><strong class="d-block">Offre</strong><span>Carte Cadeau</span></div>
+      <div><strong class="d-block">Conversion</strong><span>1% CVR moyen</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       “Une stratégie nous permettant de tester toutes les audiences et de constituer un historique.”
@@ -146,16 +146,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">BAM KARAOKE</h2>
+      <h2>BAM KARAOKE</h2>
       <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--gi-accent);">Notoriété</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Développer la notoriété et faire découvrir son offre B2B/B2C.</p>
+    <p>Développer la notoriété et faire découvrir son offre B2B/B2C.</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Audience</strong><span>Alimentation (Frichti)</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Format</strong><span>Carte Code Unique</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Impressions</strong><span>15 000 ex.</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Interactions</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">4,5%</span></div>
+      <div><strong class="d-block">Audience</strong><span>Alimentation (Frichti)</span></div>
+      <div><strong class="d-block">Format</strong><span>Carte Code Unique</span></div>
+      <div><strong class="d-block">Impressions</strong><span>15 000 ex.</span></div>
+      <div><strong class="d-block">Interactions</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">4,5%</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       “Une campagne intelligente mêlant un moment de consommation en entreprise avec une offre et une promesse d’équipe.”
@@ -169,16 +169,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">ULTRA PREMIUM</h2>
+      <h2>ULTRA PREMIUM</h2>
       <span style="background: var(--gi-tint-yellow-bg); color: var(--gi-tint-yellow-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--gi-tint-yellow-text);">Conquête</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Stratégie de conquête ciblée sur les Familles & CSP+.</p>
+    <p>Stratégie de conquête ciblée sur les Familles & CSP+.</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Audience</strong><span>Santé & Bien-être</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Reach</strong><span>50 000 contacts</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Offre</strong><span>Carte Cadeau</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Interactions</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">3,48%</span></div>
+      <div><strong class="d-block">Audience</strong><span>Santé & Bien-être</span></div>
+      <div><strong class="d-block">Reach</strong><span>50 000 contacts</span></div>
+      <div><strong class="d-block">Offre</strong><span>Carte Cadeau</span></div>
+      <div><strong class="d-block">Interactions</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">3,48%</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       “Un complément de gamme logique et une recommandation pertinente.”
@@ -192,16 +192,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">TOTAL WASH</h2>
+      <h2>TOTAL WASH</h2>
       <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--gi-accent);">Drive to App</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Faire télécharger l'application et acquérir de nouveaux clients.</p>
+    <p>Faire télécharger l'application et acquérir de nouveaux clients.</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Volume</strong><span>300 000 ex.</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Ciblage</strong><span>Auto-Moto</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Clics (CTR)</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">12%</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Coût Acquisition</strong><span>8,7€ CAC</span></div>
+      <div><strong class="d-block">Volume</strong><span>300 000 ex.</span></div>
+      <div><strong class="d-block">Ciblage</strong><span>Auto-Moto</span></div>
+      <div><strong class="d-block">Clics (CTR)</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">12%</span></div>
+      <div><strong class="d-block">Coût Acquisition</strong><span>8,7€ CAC</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       “Plus de 70% de nouveaux clients recrutés grâce à ce canal.”
@@ -215,16 +215,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">NESPRESSO</h2>
+      <h2>NESPRESSO</h2>
       <span style="background: var(--vp-c-bg-elv); color: var(--vp-c-text-2); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--vp-c-divider);">Trade Marketing</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Développer la collaboration avec les distributeurs (Boulanger).</p>
+    <p>Développer la collaboration avec les distributeurs (Boulanger).</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Partenaire</strong><span>Boulanger</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Format</strong><span>Carte Code Unique + Code Barre</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Volume</strong><span>48 000 ex.</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Interaction</strong><span>2,25%</span></div>
+      <div><strong class="d-block">Partenaire</strong><span>Boulanger</span></div>
+      <div><strong class="d-block">Format</strong><span>Carte Code Unique + Code Barre</span></div>
+      <div><strong class="d-block">Volume</strong><span>48 000 ex.</span></div>
+      <div><strong class="d-block">Interaction</strong><span>2,25%</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       “De nouveaux inventaires médias pour activer des audiences consommateurs clairement identifiées.”
@@ -238,16 +238,16 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
   </div>
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: center;">
     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px;">
-      <h2 class="mt-0 mb-0">JAPHY</h2>
+      <h2>JAPHY</h2>
       <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; border: 1px solid var(--gi-tint-green-text);">Notoriété</span>
     </div>
-    <p class="fs-4 text-grey-dk-000">Faire découvrir et tester un nouveau produit (Sampling).</p>
+    <p>Faire découvrir et tester un nouveau produit (Sampling).</p>
     <hr style="border-top: 1px solid var(--vp-c-divider); margin: 15px 0;" />
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
-      <div><strong class="d-block fs-2 text-grey-dk-000">Format</strong><span>Dedicated Email</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Audience</strong><span>The Bradery</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Volume</strong><span>200 000 contacts</span></div>
-      <div><strong class="d-block fs-2 text-grey-dk-000">Interaction</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">1,90%</span></div>
+      <div><strong class="d-block">Format</strong><span>Dedicated Email</span></div>
+      <div><strong class="d-block">Audience</strong><span>The Bradery</span></div>
+      <div><strong class="d-block">Volume</strong><span>200 000 contacts</span></div>
+      <div><strong class="d-block">Interaction</strong><span style="color: var(--gi-tint-green-text); font-weight: bold;">1,90%</span></div>
     </div>
     <div style="background-color: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border-left: 3px solid var(--vp-c-divider); font-style: italic;">
       "Une campagne efficace qui fait connaître la marque et bénéficie de l’image de The Bradery pour un CPM très accessible"

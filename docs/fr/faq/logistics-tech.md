@@ -4,7 +4,7 @@ title: Logistique & Technique
 
 # Logistique, Print & Technique
 
-<h2 class="text-red-200 mt-6 mb-4">🚨 Dépannage Technique (Urgent)</h2>
+<h2 class="text-red-200">🚨 Dépannage Technique (Urgent)</h2>
 <details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer; color;">Mon QR Code renvoie vers une page 404</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
@@ -44,7 +44,7 @@ title: Logistique & Technique
   </div>
 </details>
 <br />
-<h2 class="text-blue-200 mb-4">📦 Gestion Logistique</h2>
+<h2>📦 Gestion Logistique</h2>
 <details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">J'ai reçu les encarts en avance, puis-je commencer ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
@@ -90,7 +90,7 @@ title: Logistique & Technique
   </div>
 </details>
 <br />
-<h2 class="text-purple-200 mb-4">🎨 Création & Tracking</h2>
+<h2>🎨 Création & Tracking</h2>
 <details style="margin-bottom: 10px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 15px;">
   <summary style="font-weight: bold; cursor: pointer;">Est-ce que getinside peut créer mes visuels ?</summary>
   <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">

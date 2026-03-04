@@ -6,22 +6,22 @@ title: Studio Créatif
 
 Déléguez la production de vos supports (Print & Digital) à notre équipe d'experts.
 
-<hr class="my-6" />
-<h2 class="text-purple-200 mb-4">L'Offre Studio</h2>
+<hr />
+<h2>L'Offre Studio</h2>
 <!-- BLOC TARIF ET SERVICES -->
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); margin-bottom: 40px;">
   <div style="padding: 30px; border-bottom: 1px solid var(--vp-c-divider); background: var(--gi-tint-blue-bg); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
     <div>
-      <h3 class="mt-0 mb-1 fs-4">Création Forfaitaire</h3>
-      <p class="mb-0 fs-2 text-grey-dk-000">Print, Email ou Social. Tout inclus.</p>
+      <h3>Création Forfaitaire</h3>
+      <p>Print, Email ou Social. Tout inclus.</p>
     </div>
     <div style="text-align: right;">
       <span style="font-size: 24px; font-weight: 800; color: var(--vp-c-text-1);">550€ HT</span>
-      <span class="d-block fs-2 text-grey-dk-000">par création / déclinaison</span>
+      <span class="d-block">par création / déclinaison</span>
     </div>
   </div>
   <div style="padding: 30px;">
-    <h4 class="mt-0 mb-4">Pourquoi passer par nous ?</h4>
+    <h4>Pourquoi passer par nous ?</h4>
     <div style="display: flex; flex-direction: column; gap: 15px;">
       <div style="display: flex; gap: 15px;">
         <span style="color: var(--gi-tint-green-text);">✔</span>
@@ -41,15 +41,15 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
     </div>
   </div>
 </div>
-<h2 class="text-blue-200 mb-4">Inspirations & Réalisations</h2>
+<h2>Inspirations & Réalisations</h2>
 <!-- LISTE DE LIENS STYLISÉS -->
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 40px;">
   <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 28px;">✨</div>
       <div style="flex: 1;">
-        <strong class="fs-4 d-block">Le Book d'Inspirations (Google Slides)</strong>
-        <span class="fs-2 text-grey-dk-000">Notre sélection des meilleures campagnes : Flyers, Cartes, Coupons.</span>
+        <strong class="d-block">Le Book d'Inspirations (Google Slides)</strong>
+        <span>Notre sélection des meilleures campagnes : Flyers, Cartes, Coupons.</span>
       </div>
       <div style="margin-left: 10px;">↗</div>
     </div>
@@ -59,21 +59,21 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
     <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
       <div style="font-size: 28px;">📊</div>
       <div style="flex: 1;">
-        <strong class="fs-4 d-block">Succès Clients (KPIs)</strong>
-        <span class="fs-2 text-grey-dk-000">Performances chiffrées (ROI, Taux d'ouverture) de campagnes réelles.</span>
+        <strong class="d-block">Succès Clients (KPIs)</strong>
+        <span>Performances chiffrées (ROI, Taux d'ouverture) de campagnes réelles.</span>
       </div>
       <div style="margin-left: 10px;">→</div>
     </div>
   </a>
 </div>
-<h2 class="text-grey-dk-000 mb-4">Ce que nous produisons</h2>
+<h2>Ce que nous produisons</h2>
 <!-- LISTE VERTICALE PLEINE LARGEUR (POUR EVITER LES BUGS D'AFFICHAGE) -->
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <div style="padding: 24px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px;">📦</div>
     <div>
-      <strong class="d-block mb-2 fs-4">Print (Asile Colis)</strong>
-      <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
+      <strong class="d-block">Print (Asile Colis)</strong>
+      <ul>
         <li>Flyers A5 / A6</li>
         <li>Cartes Cadeaux</li>
         <li>autres formats sur demande</li>
@@ -83,8 +83,8 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
   <div style="padding: 24px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px;">📧</div>
     <div>
-      <strong class="d-block mb-2 fs-4">Emailing & Web</strong>
-      <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
+      <strong class="d-block">Emailing & Web</strong>
+      <ul>
         <li>Design HTML Responsive (Optimisé Mobile)</li>
         <li>Bannières animées (GIF)</li>
         <li>Rédaction (Copywriting / Objets)</li>
@@ -94,8 +94,8 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
   <div style="padding: 24px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px;">📱</div>
     <div>
-      <strong class="d-block mb-2 fs-4">Social Media</strong>
-      <ul class="mb-0 fs-3 pl-4 text-grey-dk-000">
+      <strong class="d-block">Social Media</strong>
+      <ul>
         <li>Montage Vidéo (Reels / TikTok)</li>
         <li>Créa statique (Feed / Story)</li>
         <li>Adaptation de formats existants</li>

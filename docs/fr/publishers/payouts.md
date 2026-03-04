@@ -6,50 +6,54 @@ title: Paiement des Revenus
 
 Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les frais.
 
-<hr class="my-6" />
-<h2 class="text-purple-200 mb-4">Suivi du P&L (Wallet)</h2>
-<div style="background-color: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
-  <p class="fs-4 mb-2">Vos revenus sont visibles en temps réel sur la plateforme.</p>
-  <p class="mb-0">Consultez à tout moment votre <strong>Solde Disponible</strong> = <em>(Revenus validés) - (Retraits effectués)</em>.</p>
+## Suivi du P&L (Wallet)
+
+<div class="gi-accent-box">
+  <p style="margin: 0 0 0.5rem;">Vos revenus sont visibles en temps réel sur la plateforme.</p>
+  <p style="margin: 0;">Consultez à tout moment votre <strong>Solde Disponible</strong> = <em>(Revenus validés) - (Retraits effectués)</em>.</p>
 </div>
-<h2 class="text-grey-dk-000 mb-4">Politique de Retrait et Frais</h2>
-<p>Nous encourageons le regroupement des paiements pour limiter les frictions administratives.</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
-  <!-- PREMIER RETRAIT -->
-  <div style="border: 2px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); border-radius: 8px; padding: 24px;">
-    <h3 class="mt-0 text-green-200">1️⃣ Le Premier Retrait</h3>
-    <div class="fs-8 fw-700 text-green-200 mb-2">GRATUIT</div>
-    <p class="mb-0">Votre tout premier virement est <strong>100% gratuit</strong>, quel que soit le montant. Aucun frais de gestion.</p>
+
+## Politique de Retrait et Frais
+
+Nous encourageons le regroupement des paiements pour limiter les frictions administratives.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card" style="border-color: var(--gi-tint-green-text); background: var(--gi-tint-green-bg);">
+    <strong style="color: var(--gi-tint-green-text);">1️⃣ Le Premier Retrait</strong>
+    <div style="font-size: 1.75rem; font-weight: 800; color: var(--gi-tint-green-text); line-height: 1.2; margin: 0.5rem 0;">GRATUIT</div>
+    <p style="margin: 0;">Votre tout premier virement est <strong>100% gratuit</strong>, quel que soit le montant. Aucun frais de gestion.</p>
   </div>
-  <!-- SUIVANTS -->
-  <div style="border: 1px solid var(--vp-c-divider); background-color: var(--vp-c-bg-elv); border-radius: 8px; padding: 24px;">
-    <h3 class="mt-0 text-grey-dk-000">🔄 Les Retraits Suivants</h3>
-    <div class="fs-8 fw-700 text-grey-dk-000 mb-2">5% <span class="fs-4 fw-300">de frais</span></div>
-    <p class="mb-0">Des frais de gestion s'appliquent sur le montant demandé.</p>
-    <p class="fs-2 text-grey-dk-000 mt-2"><em>Ex: Pour 1 000€ retirés, vous recevez 950€.</em></p>
+  <div class="gi-value-card">
+    <strong>🔄 Les Retraits Suivants</strong>
+    <div style="font-size: 1.75rem; font-weight: 800; line-height: 1.2; margin: 0.5rem 0;">5% <span style="font-size: 1rem; font-weight: 400; color: var(--vp-c-text-2);">de frais</span></div>
+    <p style="margin: 0 0 0.5rem;">Des frais de gestion s'appliquent sur le montant demandé.</p>
+    <p style="margin: 0; font-size: 0.8125rem; color: var(--vp-c-text-2);"><em>Ex: Pour 1 000€ retirés, vous recevez 950€.</em></p>
   </div>
 </div>
-<h2 class="text-purple-200 mb-4">Comment éviter les frais de 5% ?</h2>
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-accent); border-radius: 8px; padding: 24px;">
-    <h3 class="mt-0 text-purple-200">Option A : Le "Cumul"</h3>
+
+## Comment éviter les frais de 5% ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
+    <strong>Option A : Le "Cumul"</strong>
     <p>Laissez vos revenus s'accumuler sur votre cagnotte.</p>
-    <ul>
+    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
       <li><strong>Avantage :</strong> En espaçant vos retraits, retirez vos revenus une fois par an, en un retrait groupé <strong>sans frais</strong>.</li>
     </ul>
   </div>
-  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-accent); border-radius: 8px; padding: 24px;">
-    <h3 class="mt-0 text-blue-200">Option B : Le Réinvestissement</h3>
+  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
+    <strong>Option B : Le Réinvestissement</strong>
     <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Asile Colis ou Emailing).</p>
-    <ul>
+    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
       <li><strong>Avantage :</strong> 1€ gagné = 1€ réinvesti en trafic. Aucune friction bancaire, transfert immédiat.</li>
     </ul>
   </div>
 </div>
-<div class="mt-6 p-4 bg-grey-lt-000 border rounded-1">
-  <h4 class="mt-0">💡 Pourquoi cette politique ?</h4>
-  <ol class="mb-0 pl-4">
-    <li class="mb-2"><strong>Réduction de l'Admin :</strong> Limiter le volume de petits virements nous permet de maintenir des coûts de plateforme bas.</li>
+
+<div class="gi-info-box">
+  <h4>💡 Pourquoi cette politique ?</h4>
+  <ol style="margin: 0; padding-left: 1.25rem;">
+    <li style="margin-bottom: 0.5rem;"><strong>Réduction de l'Admin :</strong> Limiter le volume de petits virements nous permet de maintenir des coûts de plateforme bas.</li>
     <li><strong>Sécurité (Buffer) :</strong> Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.</li>
   </ol>
 </div>

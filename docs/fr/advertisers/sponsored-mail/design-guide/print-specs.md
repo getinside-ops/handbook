@@ -6,8 +6,8 @@ title: Spécifications Print
 
 Les contraintes impératives pour garantir une qualité d'impression et de distribution optimale.
 
-<hr class="my-6" />
-<h2 class="text-blue-200 mb-4">📐 Formats Papier (Flyers)</h2>
+<hr />
+<h2>📐 Formats Papier (Flyers)</h2>
 
 | Format | Format fini (Découpé) | Format fichier (Avec fond perdu) | Zone tranquille |
 | :--- | :--- | :--- | :--- |
@@ -22,11 +22,11 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
     La matière (image/fond) doit déborder de 2mm à l'extérieur pour éviter les liserés blancs.
   </div>
   <div style="flex: 1; background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 15px; border-radius: 6px;">
-    <strong class="text-green-200">Zone Tranquille : 3mm</strong><br />
+    <strong>Zone Tranquille : 3mm</strong><br />
     Aucun texte ni logo important ne doit se trouver à moins de 3mm du bord intérieur.
   </div>
 </div>
-<h2 class="text-purple-200 mb-4">🎁 Formats Échantillons (Sampling)</h2>
+<h2>🎁 Formats Échantillons (Sampling)</h2>
 <p>getinside permet la distribution d'échantillons seuls ou assemblés.</p>
 
 | Taille | Poids Max | Développé Max (H + l + L) |
@@ -41,7 +41,7 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
     ✨ Service d'Assemblage (Flyer + Échantillon)
   </div>
   <div style="padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3 class="mt-0 fs-4">Option "Duo" (Format S uniquement)</h3>
+    <h3>Option "Duo" (Format S uniquement)</h3>
     <p>Nous pouvons coller votre échantillon (taille S) sur un flyer A5 ou A6 pour maximiser l'impact visuel.</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
       <div>
@@ -55,20 +55,20 @@ Les contraintes impératives pour garantir une qualité d'impression et de distr
     </div>
   </div>
 </div>
-<h2 class="text-blue-200 mt-6 mb-4">🌐 Fichiers & Couleurs</h2>
+<h2>🌐 Fichiers & Couleurs</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h3 class="mt-0 fs-4">📁 Type de fichier</h3>
-    <ul class="mb-0 pl-4">
-      <li class="mb-2"><strong>PDF/X (Vectoriel) :</strong> À privilégier.</li>
+    <h3>📁 Type de fichier</h3>
+    <ul>
+      <li><strong>PDF/X (Vectoriel) :</strong> À privilégier.</li>
       <li><strong>JPG / PNG :</strong> 300 DPI minimum.</li>
     </ul>
   </div>
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h3 class="mt-0 fs-4">🎨 Colorimétrie</h3>
-    <ul class="mb-0 pl-4">
-      <li class="mb-2"><strong>Mode :</strong> CMJN obligatoire.</li>
-      <li class="mb-2"><strong>Profil :</strong> Coated FOGRA39.</li>
+    <h3>🎨 Colorimétrie</h3>
+    <ul>
+      <li><strong>Mode :</strong> CMJN obligatoire.</li>
+      <li><strong>Profil :</strong> Coated FOGRA39.</li>
       <li><strong>Taux d'encrage :</strong> Max 300%.</li>
     </ul>
   </div>
