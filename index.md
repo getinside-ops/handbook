@@ -6,6 +6,9 @@ hero:
   name: "getinside"
   text: "Handbook Retail Media"
   tagline: "Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences."
+  image:
+    src: /images/gi-keyvisual.svg
+    alt: getinside
   actions:
     - theme: brand
       text: Espace Annonceurs

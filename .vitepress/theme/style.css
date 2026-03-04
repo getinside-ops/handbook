@@ -12,11 +12,11 @@
   /* Use Inter as the base font */
   --vp-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
 
-  /* ── Tech/Cyan brand (light mode) ────────────────────────── */
-  --vp-c-brand-1:    #0891b2;          /* cyan-600 */
-  --vp-c-brand-2:    #0e7490;          /* cyan-700 */
-  --vp-c-brand-3:    #06b6d4;          /* cyan-500 */
-  --vp-c-brand-soft: rgba(8, 145, 178, 0.12);
+  /* ── Mint/Teal brand (light mode) ────────────────────────── */
+  --vp-c-brand-1:    #0aaa8e;          /* mint-dark — legible on white */
+  --vp-c-brand-2:    #08937b;          /* mint-darker */
+  --vp-c-brand-3:    #6AE7C8;          /* mint-bright (soft effects) */
+  --vp-c-brand-soft: rgba(106, 231, 200, 0.14);
 
   /* ── Palette accents — vivid, for decoration ─────────────── */
   --gi-mint:   #6AE7C8;
@@ -45,9 +45,9 @@
   --gi-surface:      var(--vp-c-bg-elv);
 
   /* Semantic tint tokens used in content (light mode) */
-  --gi-tint-blue-bg:      #ecfeff;
-  --gi-tint-blue-text:    #0891b2;
-  --gi-tint-blue-border:  #a5f3fc;
+  --gi-tint-blue-bg:      #e8fdf7;
+  --gi-tint-blue-text:    #0aaa8e;
+  --gi-tint-blue-border:  #6AE7C8;
   --gi-tint-green-bg:     #f0fdf4;
   --gi-tint-green-text:   #059669;
   --gi-tint-green-border: #ccf3df;
@@ -62,11 +62,11 @@
 
 /* ── Dark mode: full neon/tech overrides ──────────────────── */
 .dark {
-  /* Neon cyan brand */
-  --vp-c-brand-1:    #22d3ee;          /* cyan-400, neon */
-  --vp-c-brand-2:    #06b6d4;          /* cyan-500 */
-  --vp-c-brand-3:    #67e8f9;          /* cyan-300, extra bright */
-  --vp-c-brand-soft: rgba(34, 211, 238, 0.14);
+  /* Mint brand — close to light mode for visual consistency */
+  --vp-c-brand-1:    #6AE7C8;          /* mint — full brightness on dark */
+  --vp-c-brand-2:    #4ecfb4;          /* mint-dim */
+  --vp-c-brand-3:    #8df0da;          /* mint-bright */
+  --vp-c-brand-soft: rgba(106, 231, 200, 0.15);
 
   /* Deep dark backgrounds */
   --vp-c-bg:         #020617;          /* slate-950 */
@@ -75,9 +75,9 @@
   --vp-c-bg-elv:     #0a1628;
   --vp-c-bg-alt:     #0a1628;
 
-  /* Cyan-tinted dark borders */
-  --vp-c-divider:    rgba(34, 211, 238, 0.14);
-  --vp-c-border:     rgba(34, 211, 238, 0.14);
+  /* Mint-tinted dark borders */
+  --vp-c-divider:    rgba(106, 231, 200, 0.14);
+  --vp-c-border:     rgba(106, 231, 200, 0.14);
   --vp-c-gutter:     #020617;
 
   /* Frosted nav + sidebar */
@@ -86,8 +86,8 @@
 
   /* Code blocks */
   --vp-code-block-bg: #0a1628;
-  --vp-code-color:    #22d3ee;
-  --vp-code-bg:       rgba(34, 211, 238, 0.10);
+  --vp-code-color:    #6AE7C8;
+  --vp-code-bg:       rgba(106, 231, 200, 0.10);
 
   /* Text */
   --vp-c-text-1: #e2e8f0;
@@ -102,10 +102,10 @@
   --vp-button-brand-active-text:   #020617;
   --vp-button-brand-active-bg:     var(--vp-c-brand-1);
 
-  /* Semantic tint tokens — neon-adapted dark mode */
-  --gi-tint-blue-bg:      rgba(34, 211, 238, 0.08);
-  --gi-tint-blue-text:    #22d3ee;
-  --gi-tint-blue-border:  rgba(34, 211, 238, 0.30);
+  /* Semantic tint tokens — mint-adapted dark mode */
+  --gi-tint-blue-bg:      rgba(106, 231, 200, 0.08);
+  --gi-tint-blue-text:    #6AE7C8;
+  --gi-tint-blue-border:  rgba(106, 231, 200, 0.30);
   --gi-tint-green-bg:     rgba(16, 185, 129, 0.10);
   --gi-tint-green-text:   #34d399;
   --gi-tint-green-border: rgba(16, 185, 129, 0.28);
@@ -118,20 +118,20 @@
   --gi-tint-purple-text:  #e9d5ff;
 }
 
-/* ── Neon glow effects (dark mode only) ──────────────────── */
+/* ── Mint glow effects (dark mode only) ──────────────────── */
 .dark .btn-primary {
-  box-shadow: 0 0 18px rgba(34, 211, 238, 0.30);
+  box-shadow: 0 0 18px rgba(106, 231, 200, 0.30);
 }
 .dark .btn-primary:hover {
-  box-shadow: 0 0 28px rgba(34, 211, 238, 0.55), 0 2px 8px rgba(0,0,0,0.5);
+  box-shadow: 0 0 28px rgba(106, 231, 200, 0.55), 0 2px 8px rgba(0,0,0,0.5);
 }
 .dark .gi-card:hover {
-  border-color: rgba(34, 211, 238, 0.40) !important;
-  box-shadow: 0 0 28px rgba(34, 211, 238, 0.10), 0 4px 20px rgba(0,0,0,0.5);
+  border-color: rgba(106, 231, 200, 0.40) !important;
+  box-shadow: 0 0 28px rgba(106, 231, 200, 0.10), 0 4px 20px rgba(0,0,0,0.5);
 }
 .dark .gi-tile:hover {
-  background: rgba(34, 211, 238, 0.06) !important;
-  border-color: rgba(34, 211, 238, 0.38) !important;
+  background: rgba(106, 231, 200, 0.06) !important;
+  border-color: rgba(106, 231, 200, 0.38) !important;
 }
 
 /* ============================================================
@@ -583,7 +583,74 @@
 }
 
 /* ============================================================
-   16. PRINT
+   16. HERO KEY VISUAL — gradient blobs behind the SVG
+   ============================================================ */
+
+/* Make the container the positioning reference */
+.VPHero .image-container {
+  position: relative;
+}
+
+/* Hide VitePress default image-bg so our custom blobs take over */
+.VPHero .image-bg {
+  display: none;
+}
+
+/* Two gradient blobs via ::before (mint) and ::after (violet) */
+.VPHero .image-container::before,
+.VPHero .image-container::after {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Mint blob — top-left */
+.VPHero .image-container::before {
+  width: 360px;
+  height: 360px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-62%, -58%);
+  background: radial-gradient(circle, rgba(106, 231, 200, 0.40) 0%, transparent 68%);
+}
+
+/* Violet blob — bottom-right */
+.VPHero .image-container::after {
+  width: 300px;
+  height: 300px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-32%, -38%);
+  background: radial-gradient(circle, rgba(201, 144, 252, 0.32) 0%, transparent 68%);
+}
+
+/* Image sits above the blobs */
+.VPHero .image-container .VPImage {
+  position: relative;
+  z-index: 1;
+  drop-shadow: 0 8px 32px rgba(106, 231, 200, 0.18);
+}
+
+/* Light mode: subtle drop-shadow */
+.VPHero .image-container .VPImage {
+  filter: drop-shadow(0 6px 24px rgba(106, 231, 200, 0.25));
+}
+
+/* Dark mode: stronger mint glow + more intense blobs */
+.dark .VPHero .image-container::before {
+  background: radial-gradient(circle, rgba(106, 231, 200, 0.30) 0%, transparent 68%);
+}
+.dark .VPHero .image-container::after {
+  background: radial-gradient(circle, rgba(201, 144, 252, 0.22) 0%, transparent 68%);
+}
+.dark .VPHero .image-container .VPImage {
+  filter: drop-shadow(0 0 28px rgba(106, 231, 200, 0.40));
+}
+
+/* ============================================================
+   17. PRINT
    ============================================================ */
 @media print {
   .VPNav, .VPSidebar, .VPDocFooter { display: none !important; }
