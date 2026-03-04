@@ -50,7 +50,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3>Ajout des Types de Campagnes</h3>
     <p>Pour chaque audience créée, ajoutez les types de campagnes acceptés et leurs critères :</p>
     <ul>
-      <li><strong>📦 Asile Colis :</strong> Capacité (max flyers simultanés), formats acceptés, volumes prévisionnels par semaine sur 12 mois.</li>
+      <li><strong>📦 Insertion Colis :</strong> Capacité (max flyers simultanés), formats acceptés, volumes prévisionnels par semaine sur 12 mois.</li>
       <li><strong>📧 Digital :</strong> CPM indicatif, exemples de campagnes passées, infos de performance (Taux d'ouverture, Clics).</li>
     </ul>
   </div>
@@ -96,6 +96,10 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3>Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
     <div class="gi-info-box">
+      <strong>Règle des 48 heures (Critique)</strong>
+      <p style="margin: 0.5rem 0 0.25rem;">Vous devez répondre à toute proposition de campagne dans un délai de <strong>48 heures ouvrées</strong>. Passé ce délai, l'absence de réponse vaut <strong>refus tacite</strong> et entraîne une <strong>pénalité équivalente à la commission</strong> que nous aurions perçue.</p>
+    </div>
+    <div class="gi-info-box">
       <strong>Ne refusez pas, négociez !</strong>
       <p style="margin: 0.5rem 0 0.25rem;">L'objectif est de remplir votre inventaire. Plutôt que de refuser une offre :</p>
       <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem;">
@@ -114,7 +118,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3>Validation Opérationnelle</h3>
     <p>Une fois la campagne validée par les deux parties, on avance sur l'opérationnel :</p>
     <ul>
-      <li><strong>Asile Colis :</strong> Expédition des supports (respect du délai d'ingestion).</li>
+      <li><strong>Insertion Colis :</strong> Expédition des supports (respect du délai d'ingestion).</li>
       <li><strong>Digital :</strong> Transmission des assets créatifs et intégration.</li>
     </ul>
   </div>

@@ -24,11 +24,11 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
       <strong>30%</strong> de Frais de Régie
     </div>
   </div>
-  <!-- OFFRE STANDARD -->
+  <!-- OFFRE PLATEFORME -->
   <div style="border: 2px solid var(--vp-c-brand-1); border-radius: 10px; padding: 1.5rem; display: flex; flex-direction: column; position: relative; background: var(--gi-tint-blue-bg);">
     <div style="position: absolute; top: -12px; right: 20px; background: var(--vp-c-brand-1); color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: 700;">POPULAIRE</div>
-    <h3 style="margin: 0 0 0.25rem; color: var(--vp-c-brand-1);">Standard</h3>
-    <div style="font-size: 1.75rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.25rem; color: var(--vp-c-brand-1);">249€ <span style="font-size: 1rem; font-weight: 400; color: var(--vp-c-text-2);">/mois</span></div>
+    <h3 style="margin: 0 0 0.25rem; color: var(--vp-c-brand-1);">Plateforme</h3>
+    <div style="font-size: 1.75rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.25rem; color: var(--vp-c-brand-1);">499€ <span style="font-size: 1rem; font-weight: 400; color: var(--vp-c-text-2);">HT/mois</span></div>
     <p style="font-size: 0.875rem; color: var(--vp-c-text-2); margin: 0 0 1rem;">Développez votre propre réseau et augmentez vos marges.</p>
     <hr style="margin: 0 0 1rem; border: none; border-top: 1px solid var(--vp-c-divider);" />
     <ul style="padding-left: 1.25rem; flex-grow: 1; margin: 0 0 1rem; font-size: 0.875rem;">
@@ -43,7 +43,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
   <!-- OFFRE MANAGED -->
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 10px; padding: 1.5rem; display: flex; flex-direction: column; background: var(--vp-c-bg-elv);">
     <h3 style="margin: 0 0 0.25rem;">Managed</h3>
-    <div style="font-size: 1.75rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.25rem;">1 399€ <span style="font-size: 1rem; font-weight: 400; color: var(--vp-c-text-2);">/mois</span></div>
+    <div style="font-size: 1.75rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.25rem;">1 499€ <span style="font-size: 1rem; font-weight: 400; color: var(--vp-c-text-2);">HT/mois</span></div>
     <p style="font-size: 0.875rem; color: var(--vp-c-text-2); margin: 0 0 1rem;">Déléguez l'acquisition à nos experts pour un volume maximal.</p>
     <hr style="margin: 0 0 1rem; border: none; border-top: 1px solid var(--vp-c-divider);" />
     <ul style="padding-left: 1.25rem; flex-grow: 1; margin: 0 0 1rem; font-size: 0.875rem;">
@@ -59,9 +59,9 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 
 ## Comparatif Détaillé
 
-| Services | Starter (Gratuit) | Standard (249€/mois) | Managed (1399€/mois) |
+| Services | Starter (Gratuit) | Plateforme (499€ HT/mois) | Managed (1 499€ HT/mois) |
 | :--- | :--- | :--- | :--- |
-| **Commercialisation** (Inbound) | ✅ (30% frais) | ✅ (Dégressif*) | ✅ (15% fixe) |
+| **Commercialisation** (Inbound) | ✅ (30% frais) | ✅ (30% à 15%*) | ✅ (15% fixe) |
 | **Prospection Annonceurs** | ❌ | ✅ Accès Base | ✅ Délégué (Sales Ops) |
 | **Collaboration Directe** (Trade) | ❌ | ✅ (0% de frais) | ✅ (0% de frais) |
 | **Délégation Acquisition** | ❌ | ❌ | ✅ Inclus |
@@ -71,7 +71,7 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
 
 <br />
 
-### * Détail de la dégressivité (Offre Standard)
+### * Détail de la dégressivité (Offre Plateforme)
 
 Le taux de Frais de Régie s'ajuste automatiquement selon le volume de revenu annuel généré.
 
@@ -86,6 +86,6 @@ Le taux de Frais de Régie s'ajuste automatiquement selon le volume de revenu an
   <h4>💡 Bon à savoir sur les frais de retrait</h4>
   <p style="margin: 0;">
     Avec l'offre <strong>Starter</strong>, le premier retrait annuel est gratuit, puis des frais de 5% s'appliquent.
-    Avec les offres <strong>Standard et Managed</strong>, vous récupérez 100% de vos revenus, sans aucun frais bancaire ou de gestion lors des virements.
+    Avec les offres <strong>Plateforme et Managed</strong>, vous récupérez 100% de vos revenus, sans aucun frais bancaire ou de gestion lors des virements.
   </p>
 </div>

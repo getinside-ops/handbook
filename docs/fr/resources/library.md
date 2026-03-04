@@ -13,7 +13,7 @@ Accédez rapidement à tous les gabarits, logos et documents techniques nécessa
 | :--- | :--- | :--- | :--- |
 | **Logos Obligatoires** | `.ai / .png` | Logo getinside + Triman + Info-tri (Loi AGEC). | <a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank" class="btn btn-outline">Accéder au Drive ↗</a> |
 
-<h2>📐 Gabarits Print (Asile Colis)</h2>
+<h2>📐 Gabarits Print (Insertion Colis)</h2>
 
 | Format | Dimensions | Logiciels | Lien |
 | :--- | :--- | :--- | :--- |

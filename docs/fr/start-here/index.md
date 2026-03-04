@@ -46,7 +46,7 @@ title: Découvrir getinside
   <a href="../advertisers/sponsored-mail" class="gi-nav-card">
     <span class="gi-nav-card-icon">📦</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">L'Asile Colis (Physique)</p>
+      <p class="gi-nav-card-title">L'Insertion Colis (Physique)</p>
       <p class="gi-nav-card-desc">Glissez un flyer dans le colis. <strong>L'atout :</strong> 100% de taux d'ouverture et prise en main physique.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>

@@ -35,13 +35,13 @@ De la réception des palettes à l'expérience d'ouverture client (Unboxing).
 </div>
 <hr />
 <h2>2. Bonnes pratiques d'insertion</h2>
-<p>La valeur de l'Asile Colis repose sur l'expérience d'ouverture. Pour garantir la satisfaction de l'Annonceur, respectez ces règles d'or.</p>
+<p>La valeur de l'Insertion Colis repose sur l'expérience d'ouverture. Pour garantir la satisfaction de l'Annonceur, respectez ces règles d'or.</p>
 <h3>✅ La Règle du "On-Top"</h3>
 <p>Le support publicitaire doit impérativement être déposé <strong>sur les produits</strong>, face visible. Il doit être la première chose que le client voit.</p>
 <!-- IMAGE DO / DON'T -->
 <div style="text-align: center; margin: 30px 0;">
   <!-- Remplacez le nom du fichier ci-dessous par le vôtre si différent -->
-  <img src="/images/asile-colis-do-dont.webp" alt="Bonnes pratiques insertion Asile Colis" loading="lazy" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 100%;">
+  <img src="/images/asile-colis-do-dont.webp" alt="Bonnes pratiques insertion Insertion Colis" loading="lazy" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 100%;">
 </div>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;">
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">

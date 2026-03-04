@@ -72,7 +72,7 @@ Déléguez la production de vos supports (Print & Digital) à notre équipe d'ex
   <div style="padding: 24px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
     <div style="font-size: 30px;">📦</div>
     <div>
-      <strong class="d-block">Print (Asile Colis)</strong>
+      <strong class="d-block">Print (Insertion Colis)</strong>
       <ul>
         <li>Flyers A5 / A6</li>
         <li>Cartes Cadeaux</li>

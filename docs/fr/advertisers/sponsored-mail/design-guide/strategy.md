@@ -4,7 +4,7 @@ title: Stratégie & Contenu
 
 # Définition de la campagne
 
-Une campagne d'Asile Colis réussie repose sur trois piliers : une mécanique claire, une expérience fluide et une offre irrésistible.
+Une campagne d'Insertion Colis réussie repose sur trois piliers : une mécanique claire, une expérience fluide et une offre irrésistible.
 
 <hr />
 <h2>1. La Mécanique</h2>

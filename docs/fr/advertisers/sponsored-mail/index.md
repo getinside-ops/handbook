@@ -1,8 +1,8 @@
 ---
-title: Sponsored Mail
+title: Insertion Colis
 ---
 
-# Asile Colis (Sponsored Mail)
+# Insertion Colis (Sponsored Mail)
 
 Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience colis de grandes marques e-commerce.
 

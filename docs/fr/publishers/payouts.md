@@ -43,7 +43,7 @@ Nous encourageons le regroupement des paiements pour limiter les frictions admin
   </div>
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
     <strong>Option B : Le Réinvestissement</strong>
-    <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Asile Colis ou Emailing).</p>
+    <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Insertion Colis ou Emailing).</p>
     <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
       <li><strong>Avantage :</strong> 1€ gagné = 1€ réinvesti en trafic. Aucune friction bancaire, transfert immédiat.</li>
     </ul>

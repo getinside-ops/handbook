@@ -44,7 +44,7 @@ title: Espace Éditeurs
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Asile Colis</span>
+    <span class="gi-format-card-title">Insertion Colis</span>
     <p class="gi-format-card-desc">Réception, insertion en entrepôt et reporting.</p>
   </a>
   <a href="dedicated-email/" class="gi-format-card">

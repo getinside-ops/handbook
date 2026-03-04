@@ -74,7 +74,7 @@ Ne laissez aucun asset inexploité. getinside valorise vos points de contact phy
   <div class="gi-value-card" style="display: flex; gap: 1rem; align-items: flex-start;">
     <span style="font-size: 1.75rem; flex-shrink: 0;">📦</span>
     <div>
-      <strong>Asile Colis</strong>
+      <strong>Insertion Colis</strong>
       <p>Force : <strong>Attention (100%)</strong>. Rôle : Ancrage mémoriel, prise en main physique, conversion.</p>
     </div>
   </div>
@@ -150,7 +150,7 @@ La puissance de getinside réside dans la **cohérence contextuelle**. Nous prop
     <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
       <span style="font-size: 1.5rem;">👶</span>
       <div>
-        <strong>Les Jeunes Parents (Asile Colis)</strong>
+        <strong>Les Jeunes Parents (Insertion Colis)</strong>
         <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Commande de jouets d'éveil.</p>
         <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Vêtements bio pour enfants.</p>
       </div>
@@ -160,7 +160,7 @@ La puissance de getinside réside dans la **cohérence contextuelle**. Nous prop
     <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
       <span style="font-size: 1.5rem;">🪴</span>
       <div>
-        <strong>Home Sweet Home (Asile Colis)</strong>
+        <strong>Home Sweet Home (Insertion Colis)</strong>
         <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Achat de linge de lit en lin.</p>
         <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Abonnement fleurs fraîches.</p>
       </div>

@@ -26,7 +26,7 @@ Définitions des termes techniques et acronymes de la plateforme.
 <dl>
   <dt>Annonceur (Advertiser)</dt>
   <dd>Marque qui achète de l'espace publicitaire pour promouvoir ses produits ou services.</dd>
-  <dt>Asile Colis (Sponsored Mail)</dt>
+  <dt>Insertion Colis (Sponsored Mail)</dt>
   <dd>Technique marketing consistant à insérer une offre publicitaire (flyer, carte, échantillon) à l'intérieur du colis d'expédition d'un e-commerçant partenaire.</dd>
   <dt>Audience Lookalike</dt>
   <dd>Ciblage publicitaire visant des profils ayant des caractéristiques similaires (comportement d'achat, démographie) à une base de clients existante.</dd>

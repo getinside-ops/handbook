@@ -9,7 +9,7 @@ title: Facturation & Paiements
   <div style="margin-top: 10px; padding-left: 20px; border-left: 1px solid var(--vp-c-divider);">
     Le crédit n'est pas automatique à la signature, mais à la <strong>réalisation</strong>.
     <ul>
-      <li><strong>Asile Colis :</strong> Avez-vous rempli votre déclaration de volume hebdomadaire ? (Le lundi/mardi).</li>
+      <li><strong>Insertion Colis :</strong> Avez-vous rempli votre déclaration de volume hebdomadaire ? (Le lundi/mardi).</li>
       <li><strong>Email :</strong> Avez-vous cliqué sur "Valider la diffusion" après l'envoi ?</li>
     </ul>
     Sans cette action manuelle de l'éditeur, les fonds restent séquestrés.

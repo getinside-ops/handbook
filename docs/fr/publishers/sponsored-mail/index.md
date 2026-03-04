@@ -2,7 +2,7 @@
 title: Sponsored Mail (publisher)
 ---
 
-# Asile Colis (Sponsored Mail)
+# Insertion Colis (Sponsored Mail)
 
 Les procédures opérationnelles pour la réception, l'insertion et le reporting des campagnes.
 
