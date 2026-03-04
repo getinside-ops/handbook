@@ -44,3 +44,22 @@ Vous disposez d'un double suivi sur votre tableau de bord getinside :
 
 1. **Performance (ROI) :** Scans de vos QR codes en temps réel.
 2. **Distribution :** Volumes de flyers insérés mis à jour chaque début de semaine par le distributeur.
+
+## Un distributeur refuse mon visuel — que faire ?
+
+Le distributeur a un **droit de veto sur la marque** (concurrent direct, catégorie éthiquement incompatible) — mais pas sur la direction artistique.
+
+Si votre visuel respecte les spécifications techniques (fond perdu 2mm, zone tranquille 3mm, résolution 300 DPI, mentions légales présentes), il est conforme. Le distributeur ne peut pas le rejeter pour des raisons subjectives de goût ou de style.
+
+**Marche à suivre :**
+1. Vérifiez que votre fichier respecte bien les [spécifications d'impression](/docs/fr/advertisers/sponsored-mail/design-guide/print-specs).
+2. Si tout est conforme, transmettez votre BAT à [studio@getinside.fr](mailto:studio@getinside.fr) pour validation officielle.
+3. La validation getinside prime sur l'appréciation subjective du distributeur.
+
+## Un annonceur me demande les adresses de mes clients — puis-je les donner ?
+
+**Non, en aucun cas.** Cette demande est contraire au RGPD et à nos CGU.
+
+Vos données clients sont un actif **First Party** qui vous appartient exclusivement. getinside opère comme **Tiers de Confiance** : l'annonceur accède à votre audience sans jamais recevoir le fichier. Aucun transfert de base n'est autorisé sans opt-in spécifique de chaque client.
+
+En cas de demande insistante, contactez [support@getinside.fr](mailto:support@getinside.fr) — notre équipe prend en charge la réponse légale.

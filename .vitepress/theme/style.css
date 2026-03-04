@@ -957,7 +957,60 @@
 }
 
 /* ============================================================
-   18. PRINT
+   19. PRICING CARDS
+   ============================================================ */
+.gi-pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  align-items: stretch;
+}
+.gi-pricing-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  background: var(--vp-c-bg-elv);
+}
+.gi-pricing-card.featured {
+  border: 2px solid var(--vp-c-brand-1);
+  background: var(--gi-tint-blue-bg);
+}
+.gi-pricing-card h3 { margin: 0 0 0.25rem; }
+.gi-pricing-card h3.gi-pricing-title-featured { color: var(--vp-c-brand-1); }
+.gi-pricing-price {
+  font-size: 1.75rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 0.25rem;
+}
+.gi-pricing-price.featured { color: var(--vp-c-brand-1); }
+.gi-pricing-desc { font-size: 0.875rem; color: var(--vp-c-text-2); margin: 0 0 1rem; }
+.gi-pricing-divider { margin: 0 0 1rem; border: none; border-top: 1px solid var(--vp-c-divider); }
+.gi-pricing-features {
+  padding-left: 1.25rem;
+  flex-grow: 1;
+  margin: 0 0 1rem;
+  font-size: 0.875rem;
+}
+.gi-pricing-features li { margin-bottom: 0.5rem; }
+.gi-pricing-badge {
+  background: var(--vp-c-bg-soft);
+  padding: 0.625rem;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 0.875rem;
+}
+.gi-pricing-badge.featured {
+  background: var(--gi-tint-blue-bg);
+  color: var(--vp-c-brand-1);
+  border: 1px solid var(--vp-c-brand-soft);
+}
+
+/* ============================================================
+   20. PRINT
    ============================================================ */
 @media print {
   .VPNav, .VPSidebar, .VPDocFooter { display: none !important; }

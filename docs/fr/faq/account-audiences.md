@@ -31,3 +31,18 @@ L'état de vos filleuls est visible dans l'onglet **Affiliation**. Vous touchez 
 Le score est recalculé dynamiquement. Causes fréquentes : délai de réponse > 48h, refus de campagnes sans contre-proposition, volumes distribués inférieurs aux engagements, CPM trop élevé vs la concurrence.
 
 → [Guide complet : Score Distributeur](/docs/fr/publishers/score-distributor)
+
+## Comment rendre ma fiche audience attractive pour les annonceurs ?
+
+Les annonceurs parcourent le catalogue comme une place de marché — votre fiche est votre vitrine. Pour maximiser vos chances de recevoir des offres :
+
+- **Soignez les visuels :** photos de vos emballages, exemples de colis, captures de vos emails.
+- **Décrivez précisément votre persona :** âge, catégorie de produit, fréquence d'achat, géolocalisation.
+- **Renseignez un Panier Moyen (AOV) réaliste :** un chiffre précis rassure plus qu'une fourchette vague.
+- **Activez plusieurs formats :** un distributeur proposant Insertion Colis + Emailing est plus attractif qu'un monoforme.
+
+→ [Guide complet : Configuration d'Audience](/docs/fr/publishers/audience-setup)
+
+## Peut-on gérer plusieurs sites depuis un seul compte getinside ?
+
+Oui. Un seul compte peut héberger autant de fiches audiences que vous avez de sites ou de flux logistiques distincts. Chaque audience est indépendante et peut avoir ses propres tarifs, formats disponibles et périodes d'ouverture.

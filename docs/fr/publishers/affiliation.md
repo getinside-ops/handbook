@@ -6,56 +6,65 @@ title: Programme d'Affiliation
 
 Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez des revenus passifs récurrents.
 
-<h2>Qui parrainer ?</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
-    <h3>📦 D'autres E-commerçants</h3>
-    <p>Vous connaissez d'autres sites qui expédient des colis ou ont une base email ?</p>
-    <p>Invitez-les à monétiser leur audience.</p>
+## Qui parrainer ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>📦 D'autres E-commerçants</strong>
+    <p>Vous connaissez d'autres sites qui expédient des colis ou ont une base email ? Invitez-les à monétiser leur audience.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
-    <h3>🛍️ Des Marques (Annonceurs)</h3>
-    <p>Invitez vos fournisseurs ou partenaires à utiliser getinside pour leurs campagnes d'acquisition.</p>
-    <p>Idéal pour digitaliser votre Trade Marketing.</p>
-  </div>
-</div>
-<h2>Comment ça marche ?</h2>
-<!-- GRILLE 3 ETAPES - Alignement automatique -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; align-items: stretch; margin-bottom: 40px;">
-  <!-- ETAPE 1 -->
-  <div style="text-align: center; border: 1px solid var(--vp-c-divider); padding: 30px; border-radius: 8px; background: var(--vp-c-bg-elv);">
-    <div style="font-size: 40px; margin-bottom: 15px;">🗣️</div>
-    <h3>1. Parrainez</h3>
-    <p>Envoyez votre lien de parrainage unique disponible sur la plateforme.</p>
-  </div>
-  <!-- ETAPE 2 -->
-  <div style="text-align: center; border: 1px solid var(--vp-c-divider); padding: 30px; border-radius: 8px; background: var(--vp-c-bg-elv);">
-    <div style="font-size: 40px; margin-bottom: 15px;">🚀</div>
-    <h3>2. Ils s'activent</h3>
-    <p>Votre filleul lance ses premières campagnes ou vend son audience.</p>
-  </div>
-  <!-- ETAPE 3 (Mise en avant) -->
-  <div style="text-align: center; border: 2px solid var(--gi-accent); background: var(--gi-tint-blue-bg); padding: 30px; border-radius: 8px;">
-    <div style="font-size: 40px; margin-bottom: 15px;">💰</div>
-    <h3>3. Vous gagnez</h3>
-    <p>Vous touchez automatiquement une commission sur leur activité.</p>
+  <div class="gi-value-card">
+    <strong>🛍️ Des Marques (Annonceurs)</strong>
+    <p>Invitez vos fournisseurs ou partenaires à utiliser getinside pour leurs campagnes d'acquisition. Idéal pour digitaliser votre Trade Marketing.</p>
   </div>
 </div>
-<h2>Votre Rémunération</h2>
-<div style="background: linear-gradient(135deg, var(--gi-accent) 0%, var(--gi-accent-hover) 100%); color: white; padding: 40px; border-radius: 8px; text-align: center; margin-bottom: 40px; box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);">
-  <div style="font-size: 60px; font-weight: 800; line-height: 1; margin-bottom: 10px;">20%</div>
-  <div class="opacity-90">des frais de plateforme générés par vos filleuls</div>
-  <hr style="border-color: rgba(255,255,255,0.2); margin: 20px auto; width: 50%;" />
-  <p>Cette commission est créditée sur votre <strong>Wallet</strong> à chaque facture payée par le filleul.</p>
-</div>
-<h2>Utilisation des gains</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
-    <h3>🏦 Retrait Bancaire</h3>
-    <p>Récupérez vos gains par virement classique (soumis aux frais de gestion standards).</p>
+
+## Comment ça marche ?
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Parrainez</h3>
+    <p>Envoyez votre lien de parrainage unique disponible dans votre espace compte.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); padding: 20px; border-radius: 8px;">
-    <h3>♻️ Réinvestissement (0% frais)</h3>
-    <p>Utilisez votre cagnotte pour financer vos propres campagnes d'acquisition pour votre site.</p>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Ils s'activent</h3>
+    <p>Votre filleul crée son compte, référence son audience et lance ses premières campagnes.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">3</div>
+  <div class="gi-step-body">
+    <h3>Vous gagnez</h3>
+    <p>Vous touchez automatiquement une commission récurrente sur leur activité, créditée à chaque facture payée.</p>
+  </div>
+</div>
+
+## Votre Rémunération
+
+<div class="gi-accent-box">
+  <div class="gi-price">20% <span class="gi-price-unit">des frais de plateforme générés par vos filleuls</span></div>
+  <p>Cette commission est créditée sur votre <strong>Wallet</strong> à chaque facture payée par le filleul. Elle s'applique aux filleuls Distributeurs comme Annonceurs.</p>
+</div>
+
+:::tip Revenus récurrents
+La commission est versée à chaque renouvellement ou paiement de votre filleul — tant qu'il reste actif sur la plateforme.
+:::
+
+## Utilisation des gains
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🏦 Retrait Bancaire</strong>
+    <p>Récupérez vos gains par virement classique (soumis aux frais de gestion standards selon votre offre).</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>♻️ Réinvestissement (0% frais)</strong>
+    <p>Utilisez votre cagnotte pour financer vos propres campagnes d'acquisition — 1€ gagné = 1€ investi sans friction bancaire.</p>
   </div>
 </div>
