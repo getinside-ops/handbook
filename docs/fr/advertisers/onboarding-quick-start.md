@@ -54,7 +54,7 @@ Vous aurez besoin de :
 
 **Matière créative :**
 - La promesse de votre offre (ex: "-20% pour les nouveaux clients")
-- Vos visuels (selon les [spécifications techniques](/fr/advertisers/sponsored-mail/design-guide/print-specs))
+- Vos visuels (selon les [spécifications techniques](/docs/fr/advertisers/sponsored-mail/design-guide/print-specs))
 - Vos arguments clés
 
 > Pas de visuels ? Le **Studio getinside** crée vos supports créatifs. Contactez votre gestionnaire pour en savoir plus.
@@ -80,6 +80,6 @@ Suivez les performances en temps réel dans **Mes Campagnes → Statistiques**.
 ---
 
 **Prochaines étapes :**
-- [Guide Insertion Colis](/fr/advertisers/sponsored-mail/) — specs techniques et créa
-- [Pricing & Offres](/fr/advertisers/pricing) — tarifs et niveaux de service
-- [Studio Créatif](/fr/resources/studio) — déléguer la création de vos supports
+- [Guide Insertion Colis](/docs/fr/advertisers/sponsored-mail/) — specs techniques et créa
+- [Pricing & Offres](/docs/fr/advertisers/pricing) — tarifs et niveaux de service
+- [Studio Créatif](/docs/fr/resources/studio) — déléguer la création de vos supports

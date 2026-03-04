@@ -75,7 +75,7 @@ Votre fiche audience est directement liée à votre Score Distributeur — la no
 
 Une fiche audience bien remplie (persona détaillé, données précises, visuels soignés) améliore directement plusieurs des 7 critères de notation.
 
-→ [Guide complet : Score Distributeur](/fr/publishers/score-distributor)
+→ [Guide complet : Score Distributeur](/docs/fr/publishers/score-distributor)
 
 ## Questions fréquentes
 
@@ -89,4 +89,4 @@ Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez
 Dans l'onglet **Affiliation**. Vous touchez **20% de commission récurrente** sur les frais de plateforme de vos filleuls, versés directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE.
 
 **Mon Score Distributeur a baissé — pourquoi ?**
-Le score est recalculé dynamiquement. Causes fréquentes : réponse > 48h, refus répétés sans contre-proposition, volumes distribués inférieurs aux engagements, CPM jugé trop élevé vs la concurrence. → Consultez le [guide Score Distributeur](/fr/publishers/score-distributor) pour le détail critère par critère.
+Le score est recalculé dynamiquement. Causes fréquentes : réponse > 48h, refus répétés sans contre-proposition, volumes distribués inférieurs aux engagements, CPM jugé trop élevé vs la concurrence. → Consultez le [guide Score Distributeur](/docs/fr/publishers/score-distributor) pour le détail critère par critère.

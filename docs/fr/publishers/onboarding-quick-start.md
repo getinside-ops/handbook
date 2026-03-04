@@ -58,11 +58,11 @@ Renseignez au minimum :
 
 Un **appel de validation** avec l'équipe getinside confirme votre mise en ligne sur la marketplace. Dès lors, vous recevrez des **propositions de campagnes** directement sur la plateforme.
 
-**Règle d'or à retenir :** Vous avez **48h ouvrées** pour répondre à chaque proposition. Au-delà, elle expire et peut impacter votre [Score Distributeur](/fr/publishers/score-distributor).
+**Règle d'or à retenir :** Vous avez **48h ouvrées** pour répondre à chaque proposition. Au-delà, elle expire et peut impacter votre [Score Distributeur](/docs/fr/publishers/score-distributor).
 
 ---
 
 **Prochaines étapes :**
-- [Processus complet d'onboarding](/fr/publishers/onboarding-process) — le fonctionnement détaillé
-- [Score Distributeur](/fr/publishers/score-distributor) — comment maximiser votre visibilité
-- [Paiements & Wallet](/fr/publishers/payouts) — comprendre quand et comment vous serez payé
+- [Processus complet d'onboarding](/docs/fr/publishers/onboarding-process) — le fonctionnement détaillé
+- [Score Distributeur](/docs/fr/publishers/score-distributor) — comment maximiser votre visibilité
+- [Paiements & Wallet](/docs/fr/publishers/payouts) — comprendre quand et comment vous serez payé

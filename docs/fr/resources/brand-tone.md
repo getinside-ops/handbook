@@ -111,4 +111,4 @@ Ramenez le débat sur la technique :
 
 ---
 
-**Voir aussi :** [Studio Créatif](/fr/resources/studio) · [Mentions Légales Insertion Colis](/fr/advertisers/sponsored-mail/design-guide/legal)
+**Voir aussi :** [Studio Créatif](/docs/fr/resources/studio) · [Mentions Légales Insertion Colis](/docs/fr/advertisers/sponsored-mail/design-guide/legal)

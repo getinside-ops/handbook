@@ -95,4 +95,4 @@ Oui. Les annonceurs voient votre note et le badge "Top Distributeur" si applicab
 
 ---
 
-**Prochaine étape :** Gérez vos [audiences et données](/fr/publishers/audience-setup) pour attirer les campagnes les plus pertinentes.
+**Prochaine étape :** Gérez vos [audiences et données](/docs/fr/publishers/audience-setup) pour attirer les campagnes les plus pertinentes.

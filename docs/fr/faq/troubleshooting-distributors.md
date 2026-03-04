@@ -165,4 +165,4 @@ Précisez dans votre message : l'ID de la campagne concernée, le montant en que
 
 ---
 
-**Voir aussi :** [Gestion des Revenus et Paiements](/fr/publishers/payouts) · [Processus d'Onboarding](/fr/publishers/onboarding-process)
+**Voir aussi :** [Gestion des Revenus et Paiements](/docs/fr/publishers/payouts) · [Processus d'Onboarding](/docs/fr/publishers/onboarding-process)

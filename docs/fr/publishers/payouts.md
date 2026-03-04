@@ -58,7 +58,7 @@ Nous encourageons le regroupement des paiements pour limiter les frictions admin
   </div>
 </div>
 
-> **Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/fr/publishers/pricing).
+> **Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/docs/fr/publishers/pricing).
 
 ### Délais de Paiement
 
@@ -149,8 +149,8 @@ Si vous ne vous connectez pas **ET** ne retirez pas vos revenus pendant **12 moi
 
 Votre solde ne correspond pas à vos attentes ? Un retrait tarde ?
 
-→ Consultez le guide [Problèmes Wallet & Paiements](/fr/faq/troubleshooting-distributors) pour les cas fréquents et leur solution.
+→ Consultez le guide [Problèmes Wallet & Paiements](/docs/fr/faq/troubleshooting-distributors) pour les cas fréquents et leur solution.
 
 ---
 
-**Prochaine étape :** Boostez vos revenus avec le [Score Distributeur](/fr/publishers/score-distributor) — plus votre score est élevé, plus vous recevez de campagnes.
+**Prochaine étape :** Boostez vos revenus avec le [Score Distributeur](/docs/fr/publishers/score-distributor) — plus votre score est élevé, plus vous recevez de campagnes.
