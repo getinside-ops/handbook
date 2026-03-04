@@ -1,105 +1,111 @@
 ---
-title: Spécifications Print
+title: Spécifications Techniques
 ---
 
 # Spécifications Techniques
 
-Les contraintes impératives pour garantir une qualité d'impression et de distribution optimale.
+Les contraintes à respecter pour garantir une qualité d'impression optimale et un tracking performant.
 
-<hr />
-<h2>📐 Formats Papier (Flyers)</h2>
+---
 
-| Format | Format fini (Découpé) | Format fichier (Avec fond perdu) | Zone tranquille |
+## Formats Papier
+
+| Format | Fini (découpé) | Fichier (avec fond perdu) | Zone tranquille |
 | :--- | :--- | :--- | :--- |
-| **A5** | 148 x 210 mm | **152 x 214 mm** | 3 mm internes |
-| **A6** | 105 x 148 mm | **109 x 152 mm** | 3 mm internes |
-| **Carte** | 105 x 148 mm | **109 x 152 mm** | Voir Gabarit |
+| **A5** | 148 × 210 mm | **152 × 214 mm** | 3 mm internes |
+| **A6** | 105 × 148 mm | **109 × 152 mm** | 3 mm internes |
+| **Carte** | 105 × 148 mm | **109 × 152 mm** | Voir gabarit |
 
-<br />
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="flex: 1; background: var(--gi-tint-red-bg); border: 1px solid var(--gi-tint-red-text); padding: 15px; border-radius: 6px;">
-    <strong class="text-red-200">Fond Perdu (Bleed) : 2mm</strong><br />
-    La matière (image/fond) doit déborder de 2mm à l'extérieur pour éviter les liserés blancs.
+:::warning Fond perdu (Bleed) : 2 mm obligatoire
+La matière (image ou fond coloré) doit déborder de **2 mm à l'extérieur** du format fini. Sans fond perdu, un liseré blanc apparaît après découpe.
+:::
+
+:::tip Zone tranquille : 3 mm
+Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm du bord intérieur**. Ce qui est trop proche du bord risque d'être rogné.
+:::
+
+---
+
+## Fichiers & Colorimétrie
+
+| Critère | Spécification |
+| :--- | :--- |
+| **Format de fichier** | PDF/X (vectoriel) — à privilégier. JPG ou PNG acceptés. |
+| **Résolution** | **300 DPI minimum** |
+| **Mode colorimétrique** | **CMJN obligatoire** (pas de RVB) |
+| **Profil ICC** | Coated FOGRA39 |
+| **Taux d'encrage** | **Maximum 300%** |
+
+:::tip Astuce — Noir Profond
+Pour un noir riche sur les aplats (fonds noirs larges) : utilisez **C30% M30% J30% N100%**.
+Pour les textes fins et petits caractères : utilisez **N100% seul** pour éviter le décalage à l'impression.
+:::
+
+---
+
+## Papier
+
+:::info Spécifications papier recommandées
+- **Grammage :** 250 à 300 g/m²
+- **Type :** Couché mat ou couché demi-mat
+- **Certification :** FSC ou PEFC
+- **Pelliculage :** Non — le pelliculage rend les QR codes moins lisibles
+:::
+
+---
+
+## QR Code getinside
+
+:::danger QR code propriétaire obligatoire
+Vous **ne pouvez pas** utiliser un QR code généré par vos soins. Vous devez impérativement intégrer le fichier **`.svg`** fourni par la plateforme getinside.
+
+**Pourquoi ?** Ce QR code unique certifie la distribution, permet le monitoring en temps réel et active votre tableau de bord de performance.
+:::
+
+**Taille minimum : 25 × 25 mm** (en dessous, le QR code n'est pas lisible par tous les smartphones).
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>✨ QR Code Dynamique</strong>
+    <p>L'URL de destination n'est pas gravée dans le motif du code.</p>
+    <p>Vous pouvez modifier la landing page à tout moment depuis la plateforme — <strong>même après l'impression des flyers</strong>. Idéal pour corriger une erreur d'URL ou prolonger une offre.</p>
   </div>
-  <div style="flex: 1; background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 15px; border-radius: 6px;">
-    <strong>Zone Tranquille : 3mm</strong><br />
-    Aucun texte ni logo important ne doit se trouver à moins de 3mm du bord intérieur.
+  <div class="gi-value-card">
+    <strong>🎯 Tracking & UTM</strong>
+    <p>getinside mesure les scans. Pour suivre les <strong>ventes</strong> dans Google Analytics, configurez l'URL avec des paramètres UTM :</p>
+    <p><code>monsite.com?utm_source=getinside&utm_medium=insertion-colis&utm_campaign=printemps</code></p>
+    <p>Ajoutez aussi un <strong>code promo unique</strong> par distributeur pour l'attribution offline.</p>
   </div>
 </div>
-<h2>🎁 Formats Échantillons (Sampling)</h2>
-<p>getinside permet la distribution d'échantillons seuls ou assemblés.</p>
 
-| Taille | Poids Max | Développé Max (H + l + L) |
+---
+
+## Formats Échantillons (Sampling)
+
+getinside permet la distribution d'échantillons seuls ou assemblés avec un flyer.
+
+| Format | Poids max | Développé max (H + l + L) |
 | :--- | :--- | :--- |
-| **Format S** | Jusqu'à **15g** | Jusqu'à **15 cm** |
-| **Format M** | Jusqu'à **100g** | Jusqu'à **30 cm** |
-| **Format L** | Jusqu'à **450g** | Jusqu'à **40 cm** |
+| **Format S** | 15 g | 15 cm |
+| **Format M** | 100 g | 30 cm |
+| **Format L** | 450 g | 40 cm |
 
-<br />
-<div style="margin-top: 20px; border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden;">
-  <div style="background: var(--vp-c-bg-soft); padding: 15px; border-bottom: 1px solid var(--vp-c-divider); font-weight: bold;">
-    ✨ Service d'Assemblage (Flyer + Échantillon)
-  </div>
-  <div style="padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>Option "Duo" (Format S uniquement)</h3>
-    <p>Nous pouvons coller votre échantillon (taille S) sur un flyer A5 ou A6 pour maximiser l'impact visuel.</p>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
-      <div>
-        <strong>Technique :</strong><br />
-        Utilisation d'un point de <strong>colle fugitive</strong> (repositionnable) qui permet de détacher l'échantillon sans abîmer le flyer.
-      </div>
-      <div>
-        <strong>Engagement RSE :</strong><br />
-        Cette prestation est réalisée par des <strong>Entreprises Adaptées (EA)</strong>.
-      </div>
-    </div>
-  </div>
-</div>
-<h2>🌐 Fichiers & Couleurs</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h3>📁 Type de fichier</h3>
-    <ul>
-      <li><strong>PDF/X (Vectoriel) :</strong> À privilégier.</li>
-      <li><strong>JPG / PNG :</strong> 300 DPI minimum.</li>
-    </ul>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h3>🎨 Colorimétrie</h3>
-    <ul>
-      <li><strong>Mode :</strong> CMJN obligatoire.</li>
-      <li><strong>Profil :</strong> Coated FOGRA39.</li>
-      <li><strong>Taux d'encrage :</strong> Max 300%.</li>
-    </ul>
-  </div>
-</div>
+:::info Option "Duo" — Assemblage Flyer + Échantillon (Format S)
+L'échantillon est collé sur un flyer A5 ou A6 via un point de **colle fugitive** (repositionnable), permettant de le détacher sans abîmer le flyer.
 
-<h2>📋 Gestion des Surplus & Avaries</h2>
+Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisant l'emploi de travailleurs handicapés.
+:::
 
-<div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); margin-bottom: 30px;">
-  <h3>Article 38 - Code des Usages de l'Industrie Graphique (UIIC)</h3>
-  <p>La réception de tout tirage est soumise à la tolérance d'écart fixée par l'industrie de l'imprimerie.</p>
-  <div style="margin-top: 15px; padding: 15px; background: var(--vp-c-bg-elv); border-radius: 6px;">
-    <strong>Écarts acceptés :</strong>
-    <ul style="margin: 0.5rem 0 0;">
-      <li><strong>Tirages ≤ 2 000 ex :</strong> ±10%</li>
-      <li><strong>Tirages 2 000-10 000 ex :</strong> ±5%</li>
-      <li><strong>Tirages 10 000-100 000 ex :</strong> ±3%</li>
-      <li><strong>Tirages > 100 000 ex :</strong> ±2%</li>
-    </ul>
-    <p style="margin: 1rem 0 0; font-size: 0.9em; color: var(--vp-c-text-2);"><em>Example : Pour un tirage de 10 000 unités, une production entre 9 500 et 10 500 unités est conforme.</em></p>
-  </div>
-</div>
+---
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h3>✅ Surplus Acceptés</h3>
-    <p>Les écarts de production sont normaux et légalement acceptés conformément à l'Article 38 UIIC.</p>
-    <p><strong>Aucune pénalité ou remise n'est applicable.</strong></p>
-  </div>
-  <div style="border: 1px solid var(--gi-tint-red-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-red-bg);">
-    <h3>⚠️ Avaries Mineures</h3>
-    <p>Une avarie mineure (< 1% du volume) ne doit pas bloquer la distribution.</p>
-    <p>L'impact sur votre budget est limité ; continuez la diffusion.</p>
-  </div>
-</div>
+## Checklist BAT
+
+À vérifier avant chaque soumission :
+
+1. Les dimensions incluent **+2 mm de fond perdu** et respectent **-3 mm de zone tranquille**.
+2. Le fichier est en **CMJN (FOGRA39)**, résolution ≥ **300 DPI**, taux d'encrage ≤ **300%**.
+3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm**.
+4. Les mentions légales universelles sont incluses : identification annonceur, Triman, logo getinside, CGV.
+5. Les mentions sectorielles obligatoires (si applicable) sont lisibles.
+
+→ [Télécharger la Check-list complète](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}

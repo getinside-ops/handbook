@@ -94,9 +94,8 @@ export default withMermaid(
                   collapsed: true,
                   items: [
                     { text: 'Introduction', link: '/docs/fr/advertisers/sponsored-mail/design-guide/' },
-                    { text: 'Spécifications d\'impression', link: '/docs/fr/advertisers/sponsored-mail/design-guide/print-specs' },
+                    { text: 'Spécifications techniques', link: '/docs/fr/advertisers/sponsored-mail/design-guide/print-specs' },
                     { text: 'Mentions légales', link: '/docs/fr/advertisers/sponsored-mail/design-guide/legal' },
-                    { text: 'Stratégie créative', link: '/docs/fr/advertisers/sponsored-mail/design-guide/strategy' },
                   ],
                 },
               ],

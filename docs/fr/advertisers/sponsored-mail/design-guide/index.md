@@ -2,71 +2,122 @@
 title: Guide de Conception
 ---
 
-# Guide de conception
+# Guide de Conception
 
-De la stratégie créative à la validation technique : tout pour réussir vos visuels.
+De la stratégie créative à la validation technique : tout ce qu'il faut savoir pour créer un flyer qui convertit.
 
-<!-- LIENS RAPIDES INTERNES -->
-<div>
-  <a href="./strategy" class="btn btn-primary mr-2">Stratégie & Offre</a>
-  <a href="./print-specs" class="btn btn-outline">Specs Techniques</a>
-</div>
-<hr />
-<!-- OPTION STUDIO -->
-<div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 30px; position: relative; margin-bottom: 40px; background: var(--gi-tint-blue-bg);">
-  <div style="position: absolute; top: -12px; left: 30px; background: var(--gi-accent); color: white; padding: 2px 12px; border-radius: 12px; font-weight: bold; font-size: 14px;">OPTION STUDIO</div>
-  <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 2; min-width: 300px;">
-      <h2>Délégation Créative</h2>
-      <p>Pas de graphiste ? Déléguez la création à notre Studio.</p>
-      <p>Nous gérons la direction artistique, l'exécution graphique et la mise aux normes techniques pour un forfait unique.</p>
-    </div>
-    <div style="flex: 1; min-width: 200px; text-align: center; background: white; padding: 20px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
-      <div>550€ HT</div>
-      <div>par campagne</div>
-      <a href="mailto:studio@getinside.fr" class="btn btn-purple">Contacter le Studio</a>
-    </div>
+:::warning Validation obligatoire
+Aucun contenu n'est diffusé à un distributeur sans validation préalable de getinside via la plateforme. Soumettez votre BAT numérique avant toute impression.
+:::
+
+---
+
+## Process de validation
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Stratégie</h3>
+    <p>Définissez votre mécanique (promo, jeu, contenu…) et votre offre. C'est la base de tout.</p>
   </div>
 </div>
-<h2>🧪 Process de validation</h2>
-<!-- TIMELINE HORIZONTALE -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: var(--gi-accent); margin-bottom: 10px;">1</div>
-    <strong>Stratégie</strong><br /><span>Mécanique & Offre</span>
-  </div>
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: var(--gi-accent); margin-bottom: 10px;">2</div>
-    <strong>Création</strong><br /><span>Respect des Specs</span>
-  </div>
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: var(--gi-accent); margin-bottom: 10px;">3</div>
-    <strong>Légal</strong><br /><span>Mentions & QR</span>
-  </div>
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <div style="font-size: 24px; font-weight: bold; color: var(--gi-tint-green-text); margin-bottom: 10px;">4</div>
-    <strong>Validation</strong><br /><span>BAT Numérique</span>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Création</h3>
+    <p>Créez votre visuel en respectant les <a href="./print-specs">spécifications techniques</a> (formats, colorimétrie, QR code).</p>
   </div>
 </div>
-<div class="bg-yellow-000" style="border-color: var(--gi-tint-yellow-text);">
-  <strong>⚠️ Important :</strong> Aucun contenu n’est soumis à un distributeur sans la validation préalable de getinside via la plateforme.
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Légal</h3>
+    <p>Intégrez toutes les <a href="./legal">mentions légales</a> obligatoires (identification, Triman, mentions sectorielles).</p>
+  </div>
 </div>
-<h2>📥 Ressources à télécharger</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
-  <!-- LIEN INSPIRATIONS -->
-  <a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit?slide=id.g2985b8a2c53_1_57#slide=id.g2985b8a2c53_1_57" target="_blank" class="btn btn-outline" style="text-align: left; border-color: var(--gi-accent); color: var(--gi-accent);">
-    ✨ <strong>Exemples & Inspirations</strong> <span>(Google Slides)</span>
-  </a>
-  <!-- LIEN GABARITS -->
-  <a href="https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe" target="_blank" class="btn btn-outline" style="text-align: left;">
-    📂 <strong>Gabarits .ai/.pdf</strong> <span>(Google Drive)</span>
-  </a>
-  <!-- LIEN LOGOS -->
-  <a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank" class="btn btn-outline" style="text-align: left;">
-    🖼️ <strong>Logos Obligatoires</strong> <span>(Google Drive)</span>
-  </a>
-  <!-- LIEN CHECKLIST -->
-  <a href="https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit?tab=t.0#heading=h.m93s6ypeh0l3" target="_blank" class="btn btn-outline" style="text-align: left;">
-    ✅ <strong>Check-list de Contrôle</strong> <span>(Google Doc)</span>
-  </a>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>BAT & Validation</h3>
+    <p>Soumettez votre BAT numérique sur la plateforme. getinside valide avant toute impression.</p>
+  </div>
 </div>
+
+---
+
+## Stratégie & Mécaniques
+
+Choisissez la mécanique adaptée à votre objectif. Toutes fonctionnent avec un QR code comme point d'entrée.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🏷️ Promotion</strong>
+    <p><em>"Scannez pour obtenir une offre exclusive"</em></p>
+    <p>Idéal pour la conversion immédiate en ligne. La mécanique la plus directe.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🏪 Drive to Store</strong>
+    <p><em>"Présentez cette carte en boutique pour un café offert"</em></p>
+    <p>Génère du trafic physique. Fonctionne aussi en hybride Web + Magasin.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📚 Contenu Éducatif</strong>
+    <p><em>"Scannez pour découvrir nos 5 recettes de saison"</em></p>
+    <p>Pour l'image de marque et l'engagement long terme.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🎲 Jeux / Concours</strong>
+    <p><em>"Flashez pour tourner la roue"</em></p>
+    <p>Idéal pour la collecte de leads qualifiés.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📱 Drive to App</strong>
+    <p><em>"Téléchargez l'app pour débloquer vos points"</em></p>
+    <p>Pour l'acquisition d'utilisateurs mobiles.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>⭐ Feedback</strong>
+    <p><em>"Donnez votre avis contre un cadeau"</em></p>
+    <p>Pour enrichir la connaissance client et générer des avis vérifiés.</p>
+  </div>
+</div>
+
+---
+
+## L'Offre : ce qui fait la différence
+
+:::tip Privilégiez la valeur monétaire
+**"10€ offerts"** convertit beaucoup mieux que "-10% de réduction". La valeur concrète est immédiatement perçue. Un produit offert ou un cadeau fonctionnent aussi très bien — le levier psychologique du cadeau surpasse celui de l'économie.
+:::
+
+:::info Durée de validité
+Prévoyez une validité d'**au moins 3 mois**. Les destinataires conservent souvent les flyers plusieurs semaines avant de les scanner. Une offre expirée = une opportunité perdue.
+:::
+
+---
+
+## Mobile First
+
+L'expérience post-scan se fait à **99% sur smartphone**. Votre landing page doit être prête avant l'impression.
+
+:::info 3 règles non négociables
+1. **Responsive** — la page doit s'adapter parfaitement aux petits écrans.
+2. **Rapide** — le chargement doit être immédiat même en 3G/4G.
+3. **Simple** — un seul formulaire court, un seul appel à l'action.
+:::
+
+---
+
+## Ressources
+
+- **[✨ Exemples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}** — Google Slides avec des campagnes réussies.
+- **[📂 Gabarits .ai/.pdf](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}** — Formats A5 et A6 avec fond perdu et zones tranquilles pré-tracées.
+- **[🖼️ Logos Obligatoires](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}** — Logo getinside, Triman, Info-tri (Loi AGEC).
+- **[✅ Check-list de Contrôle](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** — À compléter avant chaque soumission de BAT.
+
+:::info Pas de graphiste en interne ?
+Notre **Studio Créatif** prend en charge la direction artistique, l'exécution et la mise aux normes — pour un forfait de **550€ HT** par campagne. → [Contacter le Studio](/docs/fr/resources/studio)
+:::
