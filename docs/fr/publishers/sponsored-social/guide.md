@@ -6,6 +6,10 @@ title: Guide de Publication
 
 Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activer les options de partenariat lors de la publication.
 
+::: tip Pourquoi ces étapes sont obligatoires ?
+Quand vous cochez "Autoriser le partenaire à booster", l'annonceur peut diffuser votre contenu comme une publicité depuis son propre compte (sans le republier). Sans cette autorisation, **la campagne ne peut pas démarrer** et **votre rémunération est bloquée**.
+:::
+
 <hr />
 <h2>Sur Instagram (Partnership Ads)</h2>
 <div style="border-left: 4px solid var(--gi-tint-red-text); padding-left: 20px;">
@@ -53,6 +57,16 @@ Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activ
   </div>
 </div>
 <hr />
+<h2>✅ Checklist Avant Publication</h2>
+<div style="border: 2px solid var(--gi-tint-green-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-green-bg); margin-bottom: 24px;">
+  <strong style="color: var(--gi-tint-green-text);">Vérifiez chaque point avant de publier :</strong>
+  <ul style="margin: 0.75rem 0 0; padding-left: 1.25rem;">
+    <li style="margin-bottom: 0.5rem;"><strong>Instagram :</strong> Label "Partenariat rémunéré" activé + compte annonceur identifié + case "Autoriser le partenaire à booster" cochée</li>
+    <li style="margin-bottom: 0.5rem;"><strong>TikTok :</strong> Option "Autorisation de publicité" activée + code généré et transmis via la messagerie plateforme</li>
+    <li><strong>Les deux :</strong> Publiez, puis confirmez la diffusion sur <a href="https://app.getinside.media/">app.getinside.media</a> pour déclencher le paiement</li>
+  </ul>
+</div>
+
 <h2>Bonnes Pratiques Éditoriales</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
   <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
