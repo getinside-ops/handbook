@@ -2,55 +2,54 @@
 title: Process & Validation
 ---
 
-# Workflow de campagne
+# Workflow de Campagne
 
 Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumission à la diffusion.
 
-<hr />
-<!-- ETAPE 1 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
-  <div>
-    <h3>Envoi des éléments</h3>
-    <p>L'Annonceur fournit les éléments créatifs au Distributeur (via getinside ou en direct selon le canal défini) :</p>
+---
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Envoi des éléments créatifs</h3>
+    <p>Transmettez au distributeur (via la plateforme getinside) :</p>
     <ul>
-      <li><strong>Le Visuel :</strong> Une image (JPG, PNG ou GIF) respectant les spécifications.</li>
-      <li><strong>Le Lien de destination :</strong> L'URL de la Landing Page vers laquelle renvoyer le trafic.</li>
+      <li><strong>Le visuel</strong> — une image JPG, PNG ou GIF respectant les <a href="./specs">spécifications techniques</a>.</li>
+      <li><strong>Le lien de destination</strong> — l'URL de la landing page vers laquelle rediriger les clics.</li>
     </ul>
   </div>
 </div>
-<!-- ETAPE 2 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
     <h3>Configuration du Tracking</h3>
-    <p>L'équipe <strong>getinside</strong> intervient pour rendre la campagne mesurable :</p>
-    <div style="background: var(--gi-tint-blue-bg); border: 1px solid var(--vp-c-divider); padding: 15px; border-radius: 6px;">
-      <ol>
-        <li>Nous générons un <strong>lien de redirection tracké</strong> (<code>gtinsi.de</code>).</li>
-        <li>Ce lien est transmis au Distributeur.</li>
-        <li>C'est ce lien unique qui permettra de compter les clics.</li>
-      </ol>
-    </div>
+    <p>L'équipe getinside génère un <strong>lien de redirection tracké unique</strong> (format <code>gtinsi.de</code>) et le transmet au distributeur. Ce lien comptabilise chaque clic sur votre bannière.</p>
+    <p>Pour mesurer les ventes dans Google Analytics, ajoutez des paramètres UTM à votre URL finale :<br /><code>monsite.com?utm_source=getinside&utm_medium=display-email&utm_campaign=printemps</code></p>
   </div>
 </div>
-<!-- ETAPE 3 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
     <h3>Intégration et Validation (BAT)</h3>
-    <p>Le Distributeur intègre votre image dans sa newsletter.</p>
-    <ul>
-      <li>Il vous envoie un <strong>BAT</strong> (Bon à Tirer) ou un lien de prévisualisation.</li>
-      <li><strong>Action requise :</strong> Vérifiez le rendu (notamment sur mobile) et cliquez sur le bouton <strong>"Valider la campagne"</strong> dans votre espace <a href="https://app.getinside.media/">app.getinside.media</a>.</li>
-    </ul>
+    <p>Le distributeur intègre votre image dans sa newsletter et vous envoie un BAT (Bon à Tirer) pour prévisualisation.</p>
+    <p>Vérifiez le rendu — notamment sur mobile — puis validez sur la plateforme.</p>
   </div>
 </div>
-<!-- ETAPE 4 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-green-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>
-  <div>
+
+:::warning Action requise pour débloquer l'envoi
+1. Connectez-vous sur [app.getinside.media](https://app.getinside.media/){target="_blank"}.
+2. Ouvrez la campagne concernée.
+3. Cliquez sur le bouton **"Valider la campagne"**.
+
+Tant que vous ne validez pas, la newsletter ne sera pas envoyée.
+:::
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
     <h3>Diffusion</h3>
-    <p>Une fois les deux validations enregistrées (Annonceur + Distributeur), la newsletter est envoyée à la date prévue.</p>
+    <p>Une fois les deux validations enregistrées (annonceur + distributeur), la newsletter est envoyée à la date prévue. Suivez les clics en temps réel depuis votre tableau de bord.</p>
   </div>
 </div>

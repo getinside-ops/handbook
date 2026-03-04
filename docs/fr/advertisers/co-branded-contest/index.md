@@ -1,71 +1,143 @@
 ---
-title: Co-Branded Contest
+title: Jeu Concours Co-brandé
 ---
 
 # Jeu Concours Co-brandé
 
-Le dispositif puissant qui combine **notoriété** et **acquisition de leads (Data)**.
+Le dispositif qui combine **notoriété**, **acquisition de leads qualifiés** et **conversion immédiate** — grâce à la caution d'un e-commerçant partenaire.
 
-<!-- BOUTONS D'ACTION -->
-<div>
-  <a href="workflow" class="btn btn-primary mr-2">Voir le Process & Data</a>
-</div>
-<hr />
-<h2>Pourquoi lancer un jeu concours ?</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; width: 100%; margin-bottom: 40px;">
-  <!-- CARTE DATA -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>📊 Acquisition de Leads (Opt-in)</h3>
-    <p>Un e-commerçant partenaire héberge un jeu sur son site. En échange de la participation, l'utilisateur accepte de recevoir vos offres.</p>
-    <div style="margin-top: 10px;">
-      <span style="background: var(--gi-tint-green-bg); border: 1px solid var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; color: var(--gi-tint-green-text);">Objectif : Enrichir votre CRM</span>
-    </div>
+---
+
+## Mécaniques disponibles
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🎟️ Ticket d'Or</strong>
+    <p>Un ticket gagnant est inséré directement dans les colis du distributeur. La surprise au moment de l'unboxing maximise l'impact émotionnel.</p>
   </div>
-  <!-- CARTE CONVERSION -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>💰 Conversion Massive</h3>
-    <p>Ne laissez aucun perdant ! Chaque participant reçoit un <strong>code promotionnel</strong> de "consolation" à la fin du jeu (ex: -15%). Cela transforme une mécanique gratuite en ventes immédiates.</p>
+  <div class="gi-value-card">
+    <strong>🎡 Roue de la Fortune</strong>
+    <p>Mécanique ludique activée via un QR code (<em>"Flashez pour tourner la roue"</em>). Fort taux de participation et viralité naturelle.</p>
   </div>
-  <!-- CARTE ENGAGEMENT -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>❤️ Engagement Fort</h3>
-    <p>La mécanique de jeu (Gamification) crée un lien émotionnel positif. Vous bénéficiez de l'image de marque du Distributeur qui "offre" ce jeu à sa communauté.</p>
+  <div class="gi-value-card">
+    <strong>🧠 Quiz / Profil</strong>
+    <p>Format interactif (<em>"Quel est votre profil ?"</em>) qui génère un engagement exceptionnel et qualifie les leads en même temps.</p>
   </div>
 </div>
-<h2>Votre Investissement</h2>
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); margin-bottom: 40px;">
-  <p>Outre le budget média, vous devez fournir :</p>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
-    <div style="display: flex; align-items: start; gap: 15px;">
-      <div style="font-size: 24px;">🏆</div>
-      <div>
-        <strong>La Dotation (Gros lots)</strong><br />
-        <span>Ce qui attire les joueurs (ex: 3 x 100€ de produits). Vous gérez l'envoi aux gagnants.</span>
-      </div>
-    </div>
-    <div style="display: flex; align-items: start; gap: 15px;">
-      <div style="font-size: 24px;">🎟️</div>
-      <div>
-        <strong>La Récompense (Consolation)</strong><br />
-        <span>Un code promo générique (ex: MERCI15) pour tous les participants.</span>
-      </div>
-    </div>
+
+:::tip Exemple terrain
+AJY (marque bien-être) a obtenu un **taux de scan de 21,6%** avec un quiz *"Découvrez votre Dosha"* — l'un des meilleurs scores observés sur le réseau.
+:::
+
+---
+
+## Pourquoi lancer un jeu concours ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>📊 Acquisition de Leads (Opt-in)</strong>
+    <p>En échange de leur participation, les joueurs acceptent de recevoir vos offres. Vous enrichissez votre CRM avec des contacts <strong>consentants et qualifiés</strong> par le comportement d'achat du distributeur.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>💰 Conversion : aucun perdant</strong>
+    <p>Chaque participant reçoit un <strong>code promo de consolation</strong> (ex: MERCI15). Cela transforme une mécanique gratuite en ventes immédiates — même pour ceux qui ne gagnent pas le gros lot.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>❤️ Engagement Fort</strong>
+    <p>La gamification crée un lien émotionnel positif entre votre marque et l'audience du distributeur. Vous bénéficiez de sa crédibilité auprès de sa communauté.</p>
   </div>
 </div>
-<h2>Pourquoi passer par getinside ?</h2>
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">⚡</div>
-    <div>
-      <h3>Solution Clé en Main</h3>
-      <p>Nous coordonnons la mise en place technique avec le distributeur (Landing Page, Flux). Vous n'avez qu'à fournir les lots et les visuels.</p>
-    </div>
+
+---
+
+## Votre investissement
+
+En dehors du budget média, vous fournissez deux éléments :
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🏆 La Dotation (Gros lots)</strong>
+    <p>Le produit d'appel qui attire les joueurs. Exemple : <em>"Gagnez un an de produits"</em> ou <em>"3 × 100€ de bons d'achat"</em>. Vous gérez l'envoi aux gagnants après le tirage au sort.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">⚖️</div>
-    <div>
-      <h3>Conformité RGPD</h3>
-      <p>La collecte de données est sensible. Nous nous assurons que le mécanisme d'Opt-in (consentement) mis en place par l'éditeur est parfaitement conforme pour que vous puissiez exploiter la base légalement.</p>
-    </div>
+  <div class="gi-value-card">
+    <strong>🎟️ La Récompense de consolation</strong>
+    <p>Un code promo générique (ex: <code>MERCI15</code>) offert à <em>tous</em> les participants. Simple à préparer, fort impact sur la conversion.</p>
+  </div>
+</div>
+
+---
+
+## Workflow en 5 étapes
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Brief & Définition de l'offre</h3>
+    <p>Via la plateforme, fournissez les lots (dotation + code promo de consolation), les visuels (packshots, logo HD) et choisissez le distributeur partenaire.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Mise en place (Distributeur)</h3>
+    <p>Le distributeur crée une landing page co-brandée sur son site et active ses canaux de trafic (newsletter, bannières, push web) pour diriger sa communauté vers le jeu.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Collecte de l'Opt-in (RGPD)</h3>
+    <p>À l'inscription, le participant coche une case explicite :</p>
+    <blockquote><em>☑ J'accepte de recevoir les offres commerciales du partenaire [Nom de votre Marque].</em></blockquote>
+    <p>Seuls les participants ayant coché cette case vous sont transmis et facturés.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">4</div>
+  <div class="gi-step-body">
+    <h3>Transfert de Data & Activation</h3>
+    <p>À la fin de la campagne, le distributeur vous transmet le fichier CSV sécurisé des leads opt-in via getinside. Intégrez-les dans votre CRM (Mailchimp, Klaviyo…) et envoyez <strong>immédiatement</strong> l'email de bienvenue avec le code promo promis — le timing est clé pour maximiser la conversion.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">5</div>
+  <div class="gi-step-body">
+    <h3>Tirage au sort</h3>
+    <p>Vous effectuez le tirage au sort des gagnants des gros lots et gérez l'expédition des récompenses directement auprès d'eux.</p>
+  </div>
+</div>
+
+:::warning RGPD — règles impératives
+- La case opt-in ne doit **jamais** être pré-cochée.
+- Seuls les participants l'ayant cochée volontairement vous sont transmis.
+- getinside fournit les modèles de mentions légales validés par des juristes.
+:::
+
+---
+
+## Tarification
+
+| Poste | Coût |
+| :--- | :--- |
+| **Frais de plateforme** | 12% du budget média investi |
+| **Studio Créatif** (optionnel) | Forfait 550€ HT par campagne |
+| **Dotation** | À votre charge (lots + expédition aux gagnants) |
+
+---
+
+## Pourquoi passer par getinside ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>⚡ Clé en Main</strong>
+    <p>getinside coordonne la mise en place technique avec le distributeur (landing page, flux de données). Vous fournissez les lots et les visuels — c'est tout.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>⚖️ Conformité RGPD</strong>
+    <p>La collecte de données partagées est un enjeu juridique majeur. Nos modèles d'opt-in validés par des juristes vous protègent et garantissent l'exploitabilité de la base collectée.</p>
   </div>
 </div>

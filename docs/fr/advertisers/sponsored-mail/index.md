@@ -4,108 +4,165 @@ title: Insertion Colis
 
 # Insertion Colis (Sponsored Mail)
 
-Insérez votre offre (flyer, carte, échantillon) au cœur de l'expérience colis de grandes marques e-commerce.
+Glissez votre offre (flyer, carte, échantillon) à l'intérieur des colis d'e-commerçants soigneusement sélectionnés — et touchez vos clients au moment de l'unboxing.
 
-<!-- BOUTONS D'ACTION -->
-<div>
-  <a href="./design-guide/" class="btn btn-primary mr-2">📘 Voir le Guide de Conception</a>
-  <a href="https://app.getinside.media/" target="_blank" class="btn btn-outline">Créer une campagne</a>
-</div>
-<hr />
-<h2>Ressources & Documentation</h2>
-<!-- LISTE VERTICALE PLEINE LARGEUR -->
-<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
-  <!-- GUIDE (Mis en avant) -->
-  <a href="./design-guide/" style="text-decoration: none; color: inherit;">
-    <div style="border: 2px solid var(--gi-accent); border-radius: 8px; padding: 24px; background: var(--gi-tint-blue-bg); display: flex; align-items: center; gap: 20px; transition: transform 0.2s;" class="gi-tile-lift">
-      <div style="font-size: 40px;">📘</div>
-      <div>
-        <h3>Guide de Conception (Start)</h3>
-        <p>Le point de départ obligatoire. Processus de validation, option Studio et checklist avant envoi.</p>
-      </div>
-    </div>
-  </a>
-  <!-- STRATEGIE -->
-  <a href="./design-guide/strategy" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 24px; min-width: 40px; text-align: center;">🧠</div>
-      <div>
-        <strong class="d-block">Stratégie & Offre</strong>
-        <span>Définir une mécanique engageante.</span>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
-    </div>
-  </a>
-  <!-- SPECS -->
-  <a href="./design-guide/print-specs" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 24px; min-width: 40px; text-align: center;">📐</div>
-      <div>
-        <strong class="d-block">Specs Techniques</strong>
-        <span>Formats A5/A6, Bords perdus, 300 DPI.</span>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
-    </div>
-  </a>
-  <!-- LEGAL -->
-  <a href="./design-guide/legal" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 24px; min-width: 40px; text-align: center;">⚖️</div>
-      <div>
-        <strong class="d-block">Légal & QR</strong>
-        <span>Mentions obligatoires et tracking.</span>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
-    </div>
-  </a>
-</div>
-<h2>Pourquoi ce levier est incontournable ?</h2>
-<!-- LISTE VERTICALE PLEINE LARGEUR -->
-<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
-    <div style="font-size: 30px; min-width: 40px;">📦</div>
-    <div>
-      <strong class="d-block">100% d'Ouverture</strong>
-      <p>Le seul média physique avec un taux de prise en main absolu. Le client attend son colis avec impatience.</p>
-    </div>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
-    <div style="font-size: 30px; min-width: 40px;">🎯</div>
-    <div>
-      <strong class="d-block">Ciblage Affinitaire</strong>
-      <p>Associez votre image à des marques (Beauté, Tech, Food) dont l'audience correspond à votre persona.</p>
-    </div>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); display: flex; align-items: flex-start; gap: 20px;">
-    <div style="font-size: 30px; min-width: 40px;">🛡️</div>
-    <div>
-      <strong class="d-block">Cookie-less</strong>
-      <p>Un levier contextuel puissant, non impacté par le RGPD ou la fin des cookies tiers.</p>
-    </div>
+---
+
+## Comment ça marche ?
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Sélectionnez vos distributeurs</h3>
+    <p>Parcourez le réseau de +250 e-commerçants partenaires. Filtrez par secteur, panier moyen, géographie et profil B2B/B2C pour construire votre plan média ciblé.</p>
   </div>
 </div>
-<h2>Pourquoi passer par getinside ?</h2>
-<!-- LISTE VERTICALE PLEINE LARGEUR -->
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🌐</div>
-    <div>
-      <h3>Réseau Exclusif</h3>
-      <p>Accédez en un clic à un inventaire de <strong>+250 e-commerçants</strong> et des audiences de niche souvent inaccessibles en direct.</p>
-    </div>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🏭</div>
-    <div>
-      <h3>Logistique Intégrée</h3>
-      <p>Impression Made in France, conditionnement et respect des délais de livraison en entrepôt : nous gérons toute la complexité opérationnelle.</p>
-    </div>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">📊</div>
-    <div>
-      <h3>Pilotage Centralisé</h3>
-      <p>Fini les échanges d'emails. Suivez l'avancement des distributions (reporting hebdo) et vos performances (scans) sur un dashboard unique.</p>
-    </div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Créez vos supports</h3>
+    <p>Concevez votre flyer en respectant les <a href="./design-guide/print-specs">spécifications techniques</a> et les <a href="./design-guide/legal">mentions légales</a>. Intégrez le QR Code dynamique fourni par getinside — c'est votre outil de tracking.</p>
   </div>
 </div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Livraison en entrepôt</h3>
+    <p>Vous expédiez vos supports (ou confiez l'impression à notre Studio). getinside gère la logistique et l'acheminement directement aux entrepôts des distributeurs.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Pilotez en temps réel</h3>
+    <p>Suivez les scans QR et les volumes distribués depuis votre tableau de bord. Reporting hebdomadaire mis à jour par chaque distributeur.</p>
+  </div>
+</div>
+
+---
+
+## Pourquoi ce levier est incontournable
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>📦 100% d'Ouverture</strong>
+    <p>Le seul média physique avec un taux de prise en main absolu. Le client attend son colis avec impatience — votre flyer est vu, tenu en main, dans un moment d'attention maximale.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🎯 Ciblage Comportemental</strong>
+    <p>Vous touchez des acheteurs réels, qualifiés par leurs habitudes de consommation — pas des internautes anonymes. Secteur, panier moyen, géographie : le ciblage est précis et mesurable.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🛡️ Cookie-less & RGPD</strong>
+    <p>Canal 100% offline : aucune dépendance aux cookies tiers, aucune restriction RGPD sur le ciblage. Un levier durable face à la saturation et à la hausse des coûts du digital.</p>
+  </div>
+</div>
+
+---
+
+## Ciblage & Audiences
+
+Sélectionnez vos distributeurs selon quatre critères :
+
+| Critère | Options disponibles |
+| :--- | :--- |
+| **Univers produit** | Beauté, Food, Tech, Maison, Sport, Mode, Bien-être… |
+| **Panier moyen (AOV)** | High-end, Mass Market, Discounter, Économe |
+| **Profil acheteur** | B2C (particuliers) ou B2B (professionnels) |
+| **Géographie** | France, Belgique, Espagne, Allemagne… |
+
+:::info Exclusivité sectorielle garantie
+Votre offre est toujours insérée chez un e-commerçant **non concurrent**. Et dans un même colis, deux offres concurrentes ne peuvent jamais coexister.
+:::
+
+---
+
+## Formats
+
+### Flyers & Cartes
+
+| Format | Dimensions finies | Usage recommandé |
+| :--- | :--- | :--- |
+| **A5** | 148 × 210 mm | Format standard — idéal pour les offres détaillées |
+| **A6** | 105 × 148 mm | Format compact — idéal pour les codes promo |
+| **Carte** | 105 × 148 mm | Format carte cadeau ou fidélité |
+
+### Échantillons (Sampling)
+
+| Format | Poids max | Développé max |
+| :--- | :--- | :--- |
+| **S** | 15 g | 15 cm |
+| **M** | 100 g | 30 cm |
+| **L** | 450 g | 40 cm |
+
+:::tip Option Duo — Flyer + Échantillon
+Un échantillon Format S peut être fixé sur un flyer A5/A6 via un point de colle fugitive (repositionnable). Réalisé par des Entreprises Adaptées (EA).
+:::
+
+---
+
+## Performances & ROI
+
+Les benchmarks observés sur le réseau getinside :
+
+| Indicateur | Benchmark réseau |
+| :--- | :--- |
+| **Taux de scan (CTR)** | 1% à 10% |
+| **Taux de conversion post-scan (CVR)** | 10% à 30% |
+
+:::tip Maximiser le ROI
+- **Valeur monétaire** : *"10€ offerts"* convertit bien mieux que *"-10%"*. La valeur concrète est immédiatement perçue.
+- **QR Code + UTM** : combinez le QR code getinside avec des paramètres UTM (`utm_source=getinside&utm_medium=insertion-colis`) pour tracker les ventes dans Google Analytics.
+- **Code promo unique** : ajoutez un code spécifique par distributeur pour l'attribution offline.
+- **Durée de validité** : prévoyez au moins 3 mois — les destinataires conservent souvent les flyers plusieurs semaines avant de les scanner.
+:::
+
+---
+
+## Tarification
+
+| Poste | Coût |
+| :--- | :--- |
+| **Accès à la plateforme** | Gratuit, sans abonnement |
+| **Frais de plateforme** | 12% du budget média investi |
+| **Impression** (optionnel) | Tarifs dégressifs en achat groupé — Made in France, certifié Imprim'Vert |
+| **Studio Créatif** (optionnel) | Forfait 550€ HT par campagne |
+
+:::info Pas d'engagement minimum
+Vous lancez votre première campagne quand vous voulez, avec le budget que vous choisissez. Les frais de plateforme ne s'appliquent qu'au budget réellement engagé.
+:::
+
+---
+
+## Pourquoi passer par getinside ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🌐 Réseau Exclusif</strong>
+    <p>+250 e-commerçants partenaires avec des audiences de niche souvent inaccessibles en direct. Un seul interlocuteur pour l'ensemble du réseau.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🏭 Logistique Intégrée</strong>
+    <p>Impression Made in France (Imprim'Vert, FSC), conditionnement et livraison en entrepôt gérés par getinside. Vous vous concentrez sur votre campagne.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📊 Pilotage Centralisé</strong>
+    <p>Un dashboard unique pour suivre les distributions (reporting hebdo) et les performances QR (scans en temps réel). Zéro email de coordination.</p>
+  </div>
+</div>
+
+---
+
+## Démarrer
+
+**Prêt à lancer votre première campagne ?**
+
+- [📘 Guide de Conception](./design-guide/) — Spécifications techniques, mentions légales, stratégie créative.
+- [🚀 Créer une campagne](https://app.getinside.media/){target="_blank"} — Accédez à la plateforme directement.
+
+:::info Besoin d'aide ?
+Notre Studio Créatif prend en charge la direction artistique et l'exécution pour **550€ HT** par campagne. → [Contacter le Studio](/docs/fr/resources/studio)
+:::

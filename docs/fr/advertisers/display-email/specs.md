@@ -4,44 +4,43 @@ title: Spécifications Bannières
 
 # Spécifications Bannières
 
-Pour garantir un affichage optimal sur tous les clients mails (Outlook, Gmail, Apple Mail...), merci de respecter ces standards IAB.
+Standards à respecter pour garantir un affichage optimal sur tous les clients mail (Outlook, Gmail, Apple Mail…).
 
-<hr />
-<h2>Formats Standards</h2>
-<p>Les formats dépendent de l'emplacement négocié dans la newsletter du partenaire.</p>
-<!-- Tableau en Markdown natif (Corrige le bug d'affichage) -->
+---
 
-| Format | Dimensions (L x H) | Usage fréquent |
+## Formats Standards
+
+| Format | Dimensions (L × H) | Emplacement typique |
 | :--- | :--- | :--- |
-| **Bannière Large**<br /><span>(Leaderboard)</span> | **600 x 150 px**<br />(parfois 640px de large) | Header ou Cœur de mail.<br /><em>Format le plus impactant.</em> |
-| **Pavé**<br /><span>(Rectangle)</span> | **300 x 250 px** | Colonne latérale ou fin de mail.<br /><em>Format compact.</em> |
+| **Bannière Large** (Leaderboard) | **600 × 150 px** *(parfois 640 px)* | Header ou cœur de mail — format le plus impactant |
+| **Pavé** (Rectangle) | **300 × 250 px** | Colonne latérale ou pied de mail — format compact |
 
-<br />
-<h2>Contraintes Techniques</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
-    <h3>📁 Fichiers</h3>
-    <ul>
-      <li><strong>Type :</strong> JPG, PNG ou GIF.</li>
-      <li><strong>Couleurs :</strong> RVB.</li>
-      <li><strong>Poids :</strong> Max <strong>150 Ko</strong>.<br /><em>Recommandé < 80 Ko pour un chargement rapide sur mobile.</em></li>
-    </ul>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background-color: var(--vp-c-bg-elv);">
-    <h3>🎬 GIF Animés</h3>
-    <p>Acceptés, mais attention à <strong>Outlook</strong> (versions bureau) qui n'affiche que la première image.</p>
-    <div style="background: var(--gi-tint-yellow-bg); border: 1px solid var(--gi-tint-yellow-bg); padding: 10px; border-radius: 4px; color: var(--gi-tint-yellow-text); font-size: 0.9em;">
-      <strong>Règle d'or :</strong> L'information principale et le Call-to-Action doivent figurer sur la <strong>première frame</strong>.
-    </div>
-  </div>
-</div>
-<h2>💡 Bonnes Pratiques Design</h2>
-<div style="border-left: 4px solid var(--gi-accent); background: var(--gi-tint-blue-bg); padding: 20px; border-radius: 0 8px 8px 0; margin-bottom: 20px;">
-  <h3>La Bordure (Border)</h3>
-  <p>Si votre bannière a un fond blanc, elle risque de se fondre dans le fond de l'email et de devenir invisible.</p>
-  <p>👉 <strong>Ajoutez une fine bordure grise de 1px</strong> (<code>#cccccc</code>) tout autour de votre créa pour bien la délimiter.</p>
-</div>
-<div style="border-left: 4px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); padding: 20px; border-radius: 0 8px 8px 0;">
-  <h3>Lisibilité Mobile</h3>
-  <p>Sur mobile, votre bannière de 600px sera réduite à ~350px de large. Évitez les polices trop fines ou trop petites (minimum 16px recommandé).</p>
-</div>
+---
+
+## Contraintes Techniques
+
+| Critère | Spécification |
+| :--- | :--- |
+| **Type de fichier** | JPG, PNG ou GIF |
+| **Mode colorimétrique** | RVB |
+| **Poids maximum** | 150 Ko — recommandé < **80 Ko** pour un chargement rapide sur mobile |
+
+:::warning GIF animés — règle de la première frame
+Les GIFs animés sont acceptés, mais **Outlook (versions bureau) n'affiche que la première image**.
+
+→ L'information principale et le Call-to-Action doivent impérativement figurer sur la **première frame**.
+:::
+
+---
+
+## Bonnes Pratiques Design
+
+:::tip Fond blanc : ajoutez une bordure
+Si votre bannière a un fond blanc, elle risque de se fondre dans l'arrière-plan de l'email et de devenir invisible.
+
+Ajoutez une **bordure grise de 1 px** (`#cccccc`) tout autour de votre visuel pour bien la délimiter.
+:::
+
+:::tip Lisibilité mobile
+Sur mobile, une bannière 600 px est réduite à ~350 px de large. Évitez les polices trop fines ou trop petites — **taille minimum recommandée : 16 px**.
+:::

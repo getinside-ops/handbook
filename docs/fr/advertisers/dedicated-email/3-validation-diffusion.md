@@ -4,53 +4,53 @@ title: 3. Validation & Diffusion
 
 # Étape 3 : Validation et Diffusion
 
-La création est terminée ? Il ne reste plus qu'à valider le BAT (Bon à Tirer) pour autoriser l'envoi.
+La création est terminée. Il ne reste plus qu'à valider le BAT (Bon à Tirer) pour autoriser l'envoi.
 
-<hr />
-<!-- ETAPE 1 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
-  <div>
+---
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
     <h3>Configuration du Tracking</h3>
-    <p>Cette étape est transparente pour vous. L'équipe getinside et le Distributeur intègrent les pixels et les liens de redirection.</p>
-    <div style="background: var(--gi-tint-blue-bg); border: 1px solid var(--gi-accent); padding: 15px; border-radius: 6px;">
-      <strong>💡 Rappel important :</strong><br />
-      Vos liens de redirection sont <strong>dynamiques</strong>. Vous pouvez modifier l'URL de destination finale à tout moment (même après la validation) dans l'onglet <strong>"Configuration et Suivi"</strong>.
-    </div>
+    <p>Cette étape est transparente pour vous. L'équipe getinside et le distributeur intègrent les pixels d'ouverture et les liens de redirection trackés.</p>
+    <p><strong>Rappel :</strong> vos liens sont dynamiques — vous pouvez modifier l'URL de destination à tout moment dans l'onglet <strong>"Configuration et Suivi"</strong>, même après validation.</p>
   </div>
 </div>
-<!-- ETAPE 2 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">2</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
     <h3>Réception du BAT</h3>
-    <p>Dès que le Distributeur a finalisé l'email et que nous l'avons vérifié techniquement, vous recevez une notification par email.</p>
-    <p>Vous accédez alors à une <strong>prévisualisation statique</strong> de la campagne pour vérifier le respect du brief.</p>
+    <p>Dès que le distributeur a finalisé l'email et que getinside l'a vérifié techniquement, vous recevez une notification par email.</p>
+    <p>Vous accédez à une <strong>prévisualisation statique</strong> de la campagne pour vérifier le respect du brief (offre, visuels, wording).</p>
   </div>
 </div>
-<!-- ETAPE 3 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-red-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
     <h3>Votre Validation (Action Requise)</h3>
-    <p>Si la création vous convient :</p>
-    <div style="border: 2px solid var(--gi-tint-red-text); background: var(--gi-tint-red-bg); padding: 20px; border-radius: 8px;">
-      <h4 class="text-red-200">⚠️ Pour débloquer l'envoi :</h4>
-      <ol>
-        <li>Connectez-vous à <a href="https://app.getinside.media/">app.getinside.media</a>.</li>
-        <li>Allez sur la campagne concernée.</li>
-        <li>Cliquez sur le bouton <strong>"Valider la campagne"</strong>.</li>
-      </ol>
-    </div>
-    <p><em>Tant que vous ne cliquez pas, la campagne reste bloquée et ne sera pas diffusée.</em></p>
+    <p>Si la création vous convient, vous devez valider sur la plateforme pour débloquer l'envoi.</p>
   </div>
 </div>
-<!-- ETAPE 4 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-green-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>
-  <div>
+
+:::warning Action requise pour débloquer l'envoi
+1. Connectez-vous sur [app.getinside.media](https://app.getinside.media/){target="_blank"}.
+2. Ouvrez la campagne concernée.
+3. Cliquez sur le bouton **"Valider la campagne"**.
+
+Tant que vous ne validez pas, la campagne reste bloquée — elle ne sera pas diffusée.
+:::
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
     <h3>Diffusion</h3>
-    <p>Une fois les deux validations enregistrées (la vôtre + celle du Distributeur), la campagne est programmée.</p>
-    <p>Vous pourrez suivre les statistiques (Ouvertures, Clics) directement depuis votre tableau de bord.</p>
+    <p>Une fois les deux validations enregistrées (la vôtre + celle du distributeur), la campagne est programmée et envoyée à l'audience ciblée.</p>
+    <p>Suivez les statistiques (ouvertures, clics) en temps réel depuis votre tableau de bord.</p>
   </div>
 </div>
+
+:::tip Renvoi aux non-ouvreurs
+Certains distributeurs proposent un renvoi automatique de la campagne aux abonnés qui n'ont pas ouvert l'email lors du premier envoi. Demandez-le lors du brief pour maximiser la couverture.
+:::

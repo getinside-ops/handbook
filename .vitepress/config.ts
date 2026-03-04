@@ -121,21 +121,9 @@ export default withMermaid(
             },
             {
               text: '📱 Social Ads',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/advertisers/sponsored-social/' },
-                { text: 'Spécifications', link: '/docs/fr/advertisers/sponsored-social/specs' },
-                { text: 'Workflow', link: '/docs/fr/advertisers/sponsored-social/workflow' },
-              ],
+              link: '/docs/fr/advertisers/sponsored-social/',
             },
-            {
-              text: '🎁 Jeu Concours',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/advertisers/co-branded-contest/' },
-                { text: 'Workflow', link: '/docs/fr/advertisers/co-branded-contest/workflow' },
-              ],
-            },
+            { text: '🎁 Jeu Concours Co-brandé', link: '/docs/fr/advertisers/co-branded-contest/' },
             { text: 'Service Impression & RSE', link: '/docs/fr/advertisers/printing-services' },
             { text: 'Tarifs Annonceurs', link: '/docs/fr/advertisers/pricing' },
           ],

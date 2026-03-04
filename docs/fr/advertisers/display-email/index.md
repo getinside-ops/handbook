@@ -4,69 +4,89 @@ title: Display Email
 
 # Encart Newsletter (Display Email)
 
-Insérez une bannière publicitaire au sein des communications d'un partenaire. Un format de notoriété efficace et non intrusif.
+Insérez une bannière publicitaire au sein des communications d'un partenaire. Un format de notoriété efficace et non intrusif — vous ne fournissez qu'une image et un lien.
 
-<!-- BOUTONS D'ACTION -->
-<div>
-  <a href="workflow" class="btn btn-primary mr-2">Voir le Process</a>
-  <a href="specs" class="btn btn-outline">Specs Bannières</a>
-</div>
-<hr />
-<h2>Où diffuser votre bannière ?</h2>
-<!-- GRILLE SCENARIOS -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 40px; width: 100%;">
-  <!-- SCENARIO 1 -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>📢 Blast (Newsletter Édito)</h3>
-    <p>Votre bannière s'insère dans la newsletter hebdomadaire du média ou de l'e-commerçant.</p>
-    <p><em>Ex: Header ou Cœur de contenu.</em></p>
+---
+
+## Où diffuser votre bannière ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>📢 Blast (Newsletter Édito)</strong>
+    <p>Votre bannière s'insère dans la newsletter hebdomadaire du partenaire. Emplacement Header ou cœur de contenu.</p>
+    <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Notoriété" /></p>
   </div>
-  <!-- SCENARIO 2 -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>🛍️ Post-Purchase (Transac)</h3>
-    <p>Votre bannière apparaît dans l'email de confirmation de commande ou de livraison.</p>
-    <p><em>Ex: "Profitez de cette offre partenaire en attendant votre colis".</em></p>
+  <div class="gi-value-card">
+    <strong>🛍️ Post-Purchase (Transac)</strong>
+    <p>Votre bannière apparaît dans l'email de confirmation de commande ou de livraison. Taux d'ouverture <strong>> 60%</strong>.</p>
+    <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="TO max" /></p>
   </div>
-  <!-- SCENARIO 3 -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>👋 Welcome Email</h3>
-    <p>Présence dans l'email de bienvenue envoyé aux nouveaux inscrits.</p>
-    <p><em>Ex: Encart en bas de mail pour une offre complémentaire.</em></p>
+  <div class="gi-value-card">
+    <strong>👋 Welcome Email</strong>
+    <p>Présence dans l'email de bienvenue des nouveaux inscrits. Premier contact dans un moment de forte attention.</p>
+    <p><Badge type="warning" text="Engagement" /> <Badge type="warning" text="Acquisition" /></p>
   </div>
 </div>
-<h2>Pourquoi choisir ce format ?</h2>
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="flex: 1; min-width: 250px; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-soft);">
-    <h3>⚡ Simplicité de Production</h3>
-    <p>Contrairement à l'email dédié, <strong>vous ne fournissez qu'une image</strong>. Pas besoin de coder un email HTML complet.</p>
+
+---
+
+## Pourquoi choisir ce format ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>⚡ Simplicité de production</strong>
+    <p>Contrairement à l'email dédié, vous ne fournissez qu'une image (JPG/PNG/GIF) et un lien. Pas de HTML à coder, pas de brief créatif élaboré.</p>
   </div>
-  <div style="flex: 1; min-width: 250px; border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-soft);">
-    <h3>🛡️ Non Intrusif</h3>
-    <p>Votre marque s'insère dans un contenu que l'abonné attend, sans perturber sa lecture.</p>
-  </div>
-</div>
-<h2>Pourquoi passer par getinside ?</h2>
-<!-- LISTE VERTICALE AVANTAGES GETINSIDE -->
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🌐</div>
-    <div>
-      <h3>Inventaire Unifié</h3>
-      <p>Plus besoin de négocier avec chaque média ou e-commerçant. Accédez à un inventaire fragmenté de <strong>+250 partenaires</strong> via une seule plateforme.</p>
-    </div>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🛡️</div>
-    <div>
-      <h3>Brand Safety & Contexte</h3>
-      <p>Contrairement au Display programmatique (open web), votre marque s'affiche ici dans un environnement <strong>fermé, sûr et cautionné</strong> par l'éditeur (la marque partenaire).</p>
-    </div>
-  </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">📊</div>
-    <div>
-      <h3>Tracking Centralisé</h3>
-      <p>Nous générons et uniformisons les liens de tracking pour toutes vos campagnes. Suivez les clics de 10 newsletters différentes sur un seul tableau de bord.</p>
-    </div>
+  <div class="gi-value-card">
+    <strong>🛡️ Non intrusif & Brand Safe</strong>
+    <p>Votre marque s'insère dans un contenu que l'abonné attend, dans un environnement fermé cautionné par l'éditeur — à l'opposé du display programmatique open web.</p>
   </div>
 </div>
+
+---
+
+## Performances
+
+| Scénario | Taux d'ouverture | Remarque |
+| :--- | :--- | :--- |
+| **Post-Purchase** | > 60% | Emplacement le plus premium |
+| **Welcome Email** | Élevé | Moment d'attention maximale |
+| **Blast (Newsletter)** | Variable | Dépend de la base et du secteur |
+
+:::info Tracking : clics uniquement
+Pour ce format, il n'y a **pas de pixel d'ouverture** — seuls les clics sont comptabilisés (lien tracké `gtinsi.de`). Ajoutez des paramètres UTM à votre URL finale pour mesurer le trafic dans Google Analytics.
+:::
+
+---
+
+## Tarification
+
+| Poste | Coût |
+| :--- | :--- |
+| **Modèle de vente** | CPM (Coût Pour Mille impressions) |
+| **Frais de plateforme** | 12% du budget média investi |
+| **Studio Créatif** (optionnel) | Forfait 550€ HT — si vous n'avez pas de bannière prête |
+
+---
+
+## Pourquoi passer par getinside ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🌐 Inventaire Unifié</strong>
+    <p>+250 partenaires accessibles via une seule plateforme. Plus besoin de négocier individuellement avec chaque média ou e-commerçant.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🛡️ Brand Safety & Contexte</strong>
+    <p>Votre marque s'affiche dans un environnement fermé, sûr et cautionné par l'éditeur — aucune mauvaise surprise contextuelle contrairement au display programmatique.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📊 Tracking Centralisé</strong>
+    <p>Liens de tracking générés et uniformisés pour toutes vos campagnes. Suivez les clics de 10 newsletters différentes sur un seul tableau de bord.</p>
+  </div>
+</div>
+
+---
+
+- [📋 Workflow de campagne](./workflow) — Étapes de la soumission à la diffusion.
+- [📐 Spécifications Bannières](./specs) — Formats, poids et bonnes pratiques créatives.
