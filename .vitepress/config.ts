@@ -84,7 +84,7 @@ export default withMermaid(
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/advertisers/' },
             {
-              text: '📦 Asile Colis',
+              text: '📦 Insertion Colis',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/advertisers/sponsored-mail/' },
@@ -146,7 +146,7 @@ export default withMermaid(
             { text: 'Vue d\'ensemble', link: '/docs/fr/publishers/' },
             { text: '🚀 Guide de Démarrage', link: '/docs/fr/publishers/onboarding-process' },
             {
-              text: '📦 Asile Colis',
+              text: '📦 Insertion Colis',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/publishers/sponsored-mail/' },
@@ -209,6 +209,7 @@ export default withMermaid(
             { text: 'Vue d\'ensemble', link: '/docs/fr/resources/' },
             { text: 'Études de Cas', link: '/docs/fr/resources/case-studies' },
             { text: 'Bibliothèque', link: '/docs/fr/resources/library' },
+            { text: '🎨 Charte Graphique', link: '/docs/fr/resources/brand-tone' },
             { text: 'Studio Créatif', link: '/docs/fr/resources/studio' },
           ],
         },
