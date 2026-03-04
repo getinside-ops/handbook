@@ -187,6 +187,7 @@ export default withMermaid(
                 { text: 'Guide de Setup', link: '/docs/fr/publishers/co-branded-contest/setup-guide' },
               ],
             },
+            { text: '⭐ Score Distributeur', link: '/docs/fr/publishers/score-distributor' },
             { text: 'Audiences & Données', link: '/docs/fr/publishers/audience-setup' },
             { text: 'Paiements & Wallet', link: '/docs/fr/publishers/payouts' },
             { text: "Programme d'Affiliation", link: '/docs/fr/publishers/affiliation' },
