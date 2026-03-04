@@ -7,10 +7,10 @@ title: Setup & RGPD
 Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conforme.
 
 <hr />
-<!-- ETAPE 1 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
     <h3>Création de la Landing Page (LP)</h3>
     <p>Vous êtes responsable de l'hébergement du jeu pour rassurer votre client.</p>
     <ul>
@@ -19,27 +19,26 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
     </ul>
   </div>
 </div>
-<!-- ETAPE 2 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-red-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
     <h3>Le Formulaire & RGPD (Critique)</h3>
     <p>Pour monétiser la donnée (vendre le lead à l'annonceur), le formulaire doit respecter strictement le RGPD.</p>
-    <div style="background: var(--vp-c-bg-elv); border: 2px dashed var(--gi-tint-red-text); padding: 20px; border-radius: 8px; margin-top: 15px;">
-      <p>Mention obligatoire à insérer :</p>
-      <div style="display: flex; gap: 10px; align-items: center;">
-        <div style="width: 20px; height: 20px; border: 1px solid var(--vp-c-divider); border-radius: 3px;"></div>
-        <div style="font-style: italic;">J'accepte de recevoir les offres commerciales du partenaire [Nom de l'Annonceur].</div>
-      </div>
-      <p>⚠️ Cette case ne doit <strong>JAMAIS</strong> être pré-cochée.</p>
-    </div>
+
+:::danger Mention obligatoire — case non pré-cochée
+☐ _J'accepte de recevoir les offres commerciales du partenaire [Nom de l'Annonceur]._
+
+⚠️ Cette case ne doit **JAMAIS** être pré-cochée.
+:::
+
     <p><em>Note : Seuls les participants cochant cette case seront facturés à l'Annonceur. Les autres jouent mais ne sont pas monétisables.</em></p>
   </div>
 </div>
-<!-- ETAPE 3 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
     <h3>Plan d'activation</h3>
     <p>Pour garantir le volume de leads (et donc vos revenus), activez vos leviers puissants :</p>
     <ul>
@@ -49,18 +48,19 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
     </ul>
   </div>
 </div>
-<!-- ETAPE 4 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-green-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">✓</div>
-  <div>
+
+<div class="gi-step">
+  <div class="gi-step-num">4</div>
+  <div class="gi-step-body">
     <h3>Transfert des données</h3>
     <p>À la clôture du jeu :</p>
     <ol>
       <li>Exportez la liste des participants <strong>avec l'opt-in partenaire</strong> (CSV/Excel).</li>
       <li>Transmettez le fichier de manière sécurisée à l'Annonceur (via getinside).</li>
     </ol>
-    <div style="background: var(--gi-tint-green-bg); padding: 10px; border-radius: 4px; border-left: 4px solid var(--gi-tint-green-text); margin-top: 10px;">
-      <strong>Bonne nouvelle :</strong> Une fois le fichier envoyé, votre travail est terminé. L'Annonceur gère l'envoi des emails de consolation et des codes promos.
-    </div>
+
+:::tip Votre travail s'arrête ici
+Une fois le fichier envoyé, l'Annonceur gère l'envoi des emails de consolation et des codes promos.
+:::
   </div>
 </div>

@@ -9,30 +9,29 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
 ## Suivi du P&L (Wallet)
 
 <div class="gi-accent-box">
-  <p style="margin: 0 0 0.5rem;">Vos revenus sont visibles en temps réel sur la plateforme.</p>
-  <p style="margin: 0;">Consultez à tout moment votre <strong>Solde Disponible</strong> = <em>(Revenus validés) - (Retraits effectués)</em>.</p>
+  <p>Vos revenus sont visibles en temps réel sur la plateforme.</p>
+  <p>Consultez à tout moment votre <strong>Solde Disponible</strong> = <em>(Revenus validés) - (Retraits effectués)</em>.</p>
 </div>
 
 ### Quand mes revenus deviennent disponibles ?
 
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv); margin-bottom: 20px;">
-  <strong>📅 Timeline de validation</strong>
-  <ol style="margin: 0.75rem 0 0; padding-left: 1.25rem;">
-    <li style="margin-bottom: 0.5rem;"><strong>Campagne distribuée :</strong> Le jour où vous confirmez la distribution (lot expédié, scans QR validés).</li>
-    <li style="margin-bottom: 0.5rem;"><strong>Délai de protection (30 jours) :</strong> Votre revenu reste en <em>attente</em> pendant 30 jours après la distribution → permet de détecter les anomalies (cartons perdus, campagne interrompue).</li>
-    <li><strong>✅ Revenu validé :</strong> Après 30 jours sans incident, le montant passe en <em>Solde Disponible</em> et peut être retiré.</li>
-  </ol>
+<div class="gi-info-box">
+
+**📅 Timeline de validation**
+
+1. **Campagne distribuée :** Le jour où vous confirmez la distribution (lot expédié, volumes déclarés).
+2. **Délai de protection (30 jours) :** Votre revenu reste en *attente* pendant 30 jours → permet de détecter les anomalies (cartons perdus, campagne interrompue).
+3. **✅ Revenu validé :** Après 30 jours sans incident, le montant passe en *Solde Disponible* et peut être retiré.
+
 </div>
 
-<div style="border: 2px solid var(--gi-tint-green-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-green-bg); margin-bottom: 20px;">
-  <strong>🟢 Cas normal (pas de problème)</strong>
-  <p style="margin: 0.5rem 0 0;">J1: Distribution confirmée → J31: Revenu devient disponible → Vous pouvez retirer</p>
-</div>
+::: tip Cas normal (pas de problème)
+J1 : Distribution confirmée → J31 : Revenu devient disponible → Vous pouvez retirer.
+:::
 
-<div style="border: 2px solid var(--gi-tint-red-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-red-bg); margin-bottom: 20px;">
-  <strong>⚠️ Cas d'anomalie détectée pendant les 30 jours</strong>
-  <p style="margin: 0.5rem 0 0;">Ex: Cartons perdus, campagne bloquée → Nous vous contactons immédiatement pour résoudre → Le délai peut être prolongé jusqu'à règlement</p>
-</div>
+::: warning Anomalie détectée pendant les 30 jours
+Ex : cartons perdus, campagne bloquée → Nous vous contactons pour résoudre. Le délai peut être prolongé jusqu'à règlement.
+:::
 
 ## Politique de Retrait et Frais
 
@@ -40,43 +39,27 @@ Nous encourageons le regroupement des paiements pour limiter les frictions admin
 
 ### Structure Tarifaire selon votre Offre
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🟡 Offre Starter</strong>
-    <p style="margin: 0.5rem 0; font-size: 0.875rem; color: var(--vp-c-text-2);">Contrat de Commercialisation</p>
-    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem;">
-      <li>1er retrait de l'année civile : <strong>GRATUIT</strong></li>
-      <li>Retraits suivants : <strong>5% de frais</strong></li>
-      <li style="color: var(--vp-c-text-2); margin-top: 0.25rem;"><em>Ex: 1 000€ retirés → 950€ reçus</em></li>
-    </ul>
-  </div>
-  <div class="gi-value-card" style="border-color: var(--gi-tint-green-text); background: var(--gi-tint-green-bg);">
-    <strong style="color: var(--gi-tint-green-text);">🟢 Offres Plateforme & Managed</strong>
-    <p style="margin: 0.5rem 0; font-size: 0.875rem; color: var(--gi-tint-green-text);">Contrat de Prestation de Services</p>
-    <div style="font-size: 1.5rem; font-weight: 800; color: var(--gi-tint-green-text); line-height: 1.2; margin: 0.5rem 0;">GRATUIT</div>
-    <p style="margin: 0; font-size: 0.875rem;">Tous les retraits sont <strong>gratuits et illimités</strong>, sans restriction.</p>
-  </div>
-</div>
+| Offre | Frais de retrait |
+|-------|-----------------|
+| 🟡 Starter | 1er retrait/an : **GRATUIT** · Suivants : **5%** (ex : 1 000€ retirés → 950€ reçus) |
+| 🟢 Plateforme & Managed | **GRATUIT** — tous les retraits, illimité |
 
 > **Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/docs/fr/publishers/pricing).
 
 ### Délais de Paiement
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h4>📄 Pré-requis</h4>
-    <p style="margin: 0 0 0.5rem;">Soumettez votre <strong>facture conforme</strong> depuis la plateforme avec la demande de retrait</p>
-    <p style="margin: 0; font-size: 0.875rem; color: var(--vp-c-text-2);">Sans facture valide, le paiement ne peut pas être traité.</p>
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>📄 Pré-requis</strong>
+    <p>Soumettez votre <strong>facture conforme</strong> avec la demande de retrait. Sans facture valide, le paiement ne peut pas être traité.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h4>🏦 Délai de Paiement</h4>
-    <p style="margin: 0 0 0.5rem;"><strong>30 jours fin de mois</strong></p>
-    <p style="margin: 0; font-size: 0.875rem; color: var(--vp-c-text-2);">Ex : demande validée en mars → paiement avant fin avril.</p>
+  <div class="gi-value-card">
+    <strong>🏦 Délai de Paiement</strong>
+    <p><strong>30 jours fin de mois</strong> après validation de votre demande.<br>Ex : demande validée en mars → paiement avant fin avril.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px; background: var(--vp-c-bg-elv);">
-    <h4>💰 Montant Minimum</h4>
-    <p style="margin: 0 0 0.5rem;"><strong>Pas de minimum imposé</strong></p>
-    <p style="margin: 0; font-size: 0.875rem; color: var(--vp-c-text-2);">Retirez dès que vous avez un solde disponible.</p>
+  <div class="gi-value-card">
+    <strong>💰 Montant Minimum</strong>
+    <p><strong>Pas de minimum imposé.</strong> Retirez dès que vous avez un solde disponible.</p>
   </div>
 </div>
 
@@ -86,44 +69,31 @@ Nous encourageons le regroupement des paiements pour limiter les frictions admin
 Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part** selon le format :
 :::
 
-<div class="gi-value-grid">
-  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>📦 Insertion Colis</strong>
-    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Chaque <strong>lundi ou mardi</strong>, déclarez le volume exact de colis distribués la semaine précédente sur la plateforme.</p>
-    <p style="margin: 0.5rem 0 0; font-size: 0.8rem; color: var(--vp-c-text-2);">Sans cette déclaration → fonds séquestrés, campagne non comptabilisée.</p>
-  </div>
-  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>📧 Emailing (Dédié ou Display)</strong>
-    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Après avoir routé l'email, cliquez sur <strong>"Valider la diffusion"</strong> dans la plateforme.</p>
-    <p style="margin: 0.5rem 0 0; font-size: 0.8rem; color: var(--vp-c-text-2);">Sans cette validation → fonds séquestrés, campagne non clôturée.</p>
-  </div>
-</div>
+| Format | Action requise | Où sur la plateforme |
+|--------|---------------|----------------------|
+| 📦 Insertion Colis | Déclarez les volumes chaque **lundi ou mardi** | Mes Campagnes → campagne → Déclarer le volume |
+| 📧 Emailing (Dédié ou Display) | Cliquez sur **"Valider la diffusion"** après l'envoi | Mes Campagnes → campagne → Valider la diffusion |
 
 ## Comment éviter les frais de 5% ? *(Offre Starter uniquement)*
 
 <div class="gi-value-grid">
-  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
+  <div class="gi-value-card">
     <strong>Option A : Le "Cumul"</strong>
-    <p>Laissez vos revenus s'accumuler sur votre cagnotte.</p>
-    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
-      <li><strong>Avantage :</strong> En espaçant vos retraits, retirez vos revenus une fois par an, en un retrait groupé <strong>sans frais</strong>.</li>
-    </ul>
+    <p>Laissez vos revenus s'accumuler sur votre cagnotte. En espaçant vos retraits, retirez vos revenus une fois par an — un retrait groupé <strong>sans frais</strong>.</p>
   </div>
-  <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
+  <div class="gi-value-card">
     <strong>Option B : Le Réinvestissement</strong>
-    <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Insertion Colis ou Emailing).</p>
-    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
-      <li><strong>Avantage :</strong> 1€ gagné = 1€ réinvesti en trafic. Aucune friction bancaire, transfert immédiat.</li>
-    </ul>
+    <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Insertion Colis ou Emailing). 1€ gagné = 1€ réinvesti en trafic, sans friction bancaire.</p>
   </div>
 </div>
 
 <div class="gi-info-box">
-  <h4>💡 Pourquoi cette politique ?</h4>
-  <ol style="margin: 0; padding-left: 1.25rem;">
-    <li style="margin-bottom: 0.5rem;"><strong>Réduction de l'Admin :</strong> Limiter le volume de petits virements nous permet de maintenir des coûts de plateforme bas.</li>
-    <li><strong>Sécurité (Buffer) :</strong> Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.</li>
-  </ol>
+
+**💡 Pourquoi cette politique ?**
+
+1. **Réduction de l'Admin :** Limiter le volume de petits virements nous permet de maintenir des coûts de plateforme bas.
+2. **Sécurité (Buffer) :** Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.
+
 </div>
 
 ## ⚠️ Règle d'expiration des fonds
@@ -140,10 +110,10 @@ Si vous ne vous connectez pas **ET** ne retirez pas vos revenus pendant **12 moi
 2. Accédez à **Mon Compte → Wallet / P&L**
 3. Vérifiez votre **Solde Disponible** (uniquement ce montant est retirable)
 4. Cliquez sur **Demander un virement**
-5. Renseignez le montant souhaité (minimum 50€) et confirmez votre IBAN
+5. Renseignez le montant souhaité et confirmez votre IBAN
 6. Validez la demande → vous recevrez un email de confirmation
 
-**Délai total** : 5-8 jours ouvrables (traitement 2-3j + virement SEPA 3-5j)
+**Délai :** 30 jours fin de mois après validation de votre demande et réception de votre facture.
 
 ## En cas de problème
 

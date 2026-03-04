@@ -10,47 +10,39 @@ Les procédures opérationnelles pour la réception, l'insertion et le reporting
   <a href="logistics" class="btn btn-primary mr-2">Guide Logistique</a>
   <a href="reporting" class="btn btn-outline">Suivi Hebdomadaire</a>
 </div>
-<hr />
-<h2>Gestion Opérationnelle</h2>
-<!-- Utilisation de Flex Column pour garantir la pleine largeur -->
-<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px;">
-  <!-- CARTE LOGISTIQUE -->
-  <a href="logistics" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">🏭</div>
-      <div>
-        <h3>Logistique & Insertion</h3>
-        <p>Réception des palettes, règles d'insertion "On-Top" et gestion des exclusions concurrentielles.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
+
+---
+
+## Gestion Opérationnelle
+
+<div class="gi-nav-list">
+  <a href="logistics" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🏭</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Logistique & Insertion</p>
+      <p class="gi-nav-card-desc">Réception des palettes, règles d'insertion "On-Top" et gestion des exclusions concurrentielles.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <!-- CARTE REPORTING -->
-  <a href="reporting" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px; transition: background 0.2s;" class="gi-tile">
-      <div style="font-size: 32px; min-width: 50px; text-align: center;">📊</div>
-      <div>
-        <h3>Suivi & Reporting</h3>
-        <p>L'obligation de déclaration hebdomadaire des volumes distribués pour déclencher la facturation.</p>
-      </div>
-      <div style="margin-left: auto; color: var(--vp-c-text-3);">➝</div>
+  <a href="reporting" class="gi-nav-card">
+    <span class="gi-nav-card-icon">📊</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Suivi & Reporting</p>
+      <p class="gi-nav-card-desc">L'obligation de déclaration hebdomadaire des volumes distribués pour déclencher la facturation.</p>
     </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
 </div>
-<h2>Pourquoi valoriser vos colis via getinside ?</h2>
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🚛</div>
-    <div>
-      <h3>Flux Tendu Optimisé</h3>
-      <p>Notre algorithme prend en compte votre <strong>Lead Time</strong> (délai d'ingestion) et vos capacités de stockage. Vous ne recevez la marchandise que quand vous en avez besoin.</p>
-    </div>
+
+## Pourquoi valoriser vos colis via getinside ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🚛 Flux Tendu Optimisé</strong>
+    <p>Notre algorithme prend en compte votre <strong>Lead Time</strong> (délai d'ingestion) et vos capacités de stockage. Vous ne recevez la marchandise que quand vous en avez besoin.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">💸</div>
-    <div>
-      <h3>Garantie de Paiement</h3>
-      <p>Plus de risque d'impayé. getinside sécurise les fonds en amont. Dès que vous déclarez les volumes distribués, votre revenu est validé.</p>
-    </div>
+  <div class="gi-value-card">
+    <strong>💸 Garantie de Paiement</strong>
+    <p>Plus de risque d'impayé. getinside sécurise les fonds en amont. Dès que vous déclarez les volumes distribués, votre revenu est validé.</p>
   </div>
 </div>

@@ -9,22 +9,22 @@ title: Découvrir getinside
 ## Un écosystème double
 
 <div class="gi-format-grid">
-  <div class="gi-format-card" style="pointer-events: none;">
+  <div class="gi-format-card">
     <span class="gi-format-card-icon">🛍️</span>
-    <span class="gi-format-card-title" style="color: var(--vp-c-brand-1);">Pour les Annonceurs</span>
+    <span class="gi-format-card-title">Pour les Annonceurs</span>
     <p class="gi-format-card-desc">Toucher des acheteurs avérés au cœur de leur expérience d'achat, via la recommandation d'une marque tiers.</p>
   </div>
-  <div class="gi-format-card" style="pointer-events: none;">
+  <div class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title" style="color: var(--gi-violet);">Pour les E-commerçants</span>
+    <span class="gi-format-card-title">Pour les E-commerçants</span>
     <p class="gi-format-card-desc">Transformer vos centres de coûts (Logistique, CRM) en centres de profits en monétisant vos actifs.</p>
   </div>
 </div>
 
 <div class="gi-accent-box">
-  <strong style="display: block; margin-bottom: 0.75rem; font-size: 1rem;">🔄 Le Modèle getinside : Monétiser pour Réinvestir</strong>
-  <p style="margin: 0 0 1rem; color: var(--vp-c-text-2); font-size: 0.9375rem;">La force de la plateforme réside dans la fluidité entre vos revenus et vos dépenses.</p>
-  <div class="gi-value-grid" style="margin-bottom: 0;">
+  <strong>🔄 Le Modèle getinside : Monétiser pour Réinvestir</strong>
+  <p>La force de la plateforme réside dans la fluidité entre vos revenus et vos dépenses.</p>
+  <div class="gi-value-grid">
     <div class="gi-value-card">
       <strong>1. Gagnez</strong>
       <p>Monétisez vos colis et emails sortants.</p>
@@ -102,20 +102,20 @@ title: Découvrir getinside
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong style="color: var(--vp-c-brand-1);">⚡ Réactivité = Confiance</strong>
+    <strong>⚡ Réactivité = Confiance</strong>
     <p>Les processus standardisés rassurent les grandes marques.</p>
   </div>
   <div class="gi-value-card">
-    <strong style="color: var(--vp-c-brand-1);">✅ Zéro Erreur = Brand Safety</strong>
+    <strong>✅ Zéro Erreur = Brand Safety</strong>
     <p>Le respect strict des workflows garantit l'image de marque de l'annonceur.</p>
   </div>
   <div class="gi-value-card">
-    <strong style="color: var(--vp-c-brand-1);">📈 Data Fiable = Renouvellement</strong>
+    <strong>📈 Data Fiable = Renouvellement</strong>
     <p>Un tracking fiable prouve le ROI — condition sine qua non pour qu'un annonceur re-signe.</p>
   </div>
 </div>
 
 <div class="gi-danger-box">
   <strong>⚠️ Impact direct sur vos revenus</strong>
-  <p style="font-size: 0.875rem; color: var(--vp-c-text-2); margin: 0;">Notre algorithme prend en compte votre fiabilité historique. Des manquements (retards, tracking défaillant) réduisent votre <strong>score de qualité</strong> et vos chances de recevoir de futures campagnes.</p>
+  <p>Notre algorithme prend en compte votre fiabilité historique. Des manquements (retards, tracking défaillant) réduisent votre <strong>score de qualité</strong> et vos chances de recevoir de futures campagnes.</p>
 </div>

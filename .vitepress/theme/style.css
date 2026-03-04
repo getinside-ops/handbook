@@ -1009,7 +1009,120 @@
 }
 
 /* ============================================================
-   17. PRINT
+   17. PRICE DISPLAY
+   ============================================================ */
+.gi-price {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: var(--vp-c-brand-1);
+  margin: 0.5rem 0 0.75rem;
+}
+.gi-price-unit {
+  font-size: 0.9375rem;
+  font-weight: 400;
+  color: var(--vp-c-text-2);
+  margin-left: 4px;
+}
+
+/* ============================================================
+   18. CASE STUDY CARDS
+   ============================================================ */
+.gi-case-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 24px;
+  background: var(--vp-c-bg-elv);
+  margin-bottom: 30px;
+}
+.gi-case-img {
+  flex: 0 0 250px;
+  min-width: 250px;
+}
+.gi-case-img img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid var(--vp-c-divider);
+  object-fit: cover;
+  cursor: zoom-in;
+}
+.gi-case-body {
+  flex: 1;
+  min-width: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.gi-case-body h2 {
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin: 0 0 0.25rem !important;
+  font-size: 1.125rem !important;
+}
+.gi-case-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+.gi-case-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin: 15px 0 20px;
+}
+.gi-case-stats > div strong {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--vp-c-text-2);
+  margin-bottom: 2px;
+}
+.gi-case-quote {
+  background: var(--vp-c-bg-soft);
+  padding: 15px;
+  border-radius: 6px;
+  border-left: 3px solid var(--vp-c-divider);
+  font-style: italic;
+  margin-top: auto;
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+}
+
+/* Lightbox */
+.gi-lightbox {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.9);
+  justify-content: center;
+  align-items: center;
+}
+.gi-lightbox-close {
+  position: absolute;
+  top: 20px; right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  line-height: 1;
+}
+.gi-lightbox-close:hover { opacity: 0.7; }
+.gi-lightbox img {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+  max-height: 90vh;
+}
+
+/* ============================================================
+   18. PRINT
    ============================================================ */
 @media print {
   .VPNav, .VPSidebar, .VPDocFooter { display: none !important; }
