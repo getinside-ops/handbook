@@ -334,7 +334,7 @@
   border-radius: 10px;
   background: var(--vp-c-bg-elv);
 }
-.gi-value-card strong {
+.gi-value-card > strong {
   display: block;
   font-size: 0.9375rem;
   margin-bottom: 0.4rem;
@@ -987,6 +987,7 @@
   margin-bottom: 0.25rem;
 }
 .gi-pricing-price.featured { color: var(--vp-c-brand-1); }
+.gi-pricing-price span { font-size: 1rem; font-weight: 400; color: var(--vp-c-text-2); }
 .gi-pricing-desc { font-size: 0.875rem; color: var(--vp-c-text-2); margin: 0 0 1rem; }
 .gi-pricing-divider { margin: 0 0 1rem; border: none; border-top: 1px solid var(--vp-c-divider); }
 .gi-pricing-features {

@@ -4,57 +4,69 @@ title: Suivi & Reporting
 
 # Suivi des Volumes (Reporting)
 
-Le reporting régulier est indispensable pour assurer le suivi de la consommation des stocks et la facturation.
+Le reporting hebdomadaire est obligatoire pour assurer le suivi des stocks et **déclencher votre facturation**.
 
-<hr />
-<h2>📅 L'obligation hebdomadaire</h2>
-<div style="border: 2px solid var(--gi-accent); background: var(--gi-tint-blue-bg); padding: 24px; border-radius: 8px; margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 40px;">🗓️</div>
-    <div>
-      <h3>Chaque début de semaine</h3>
-      <p>Vous devez déclarer le volume exact d'asiles distribués au cours de la semaine précédente (Lundi ou Mardi).</p>
-    </div>
+:::warning Obligation hebdomadaire — Lundi ou Mardi
+Chaque début de semaine, déclarez le volume exact d'asiles distribués la semaine précédente. Cette déclaration conditionne directement votre paiement.
+:::
+
+---
+
+## Comment déclarer les volumes ?
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Se connecter à la plateforme</h3>
+    <p>Rendez-vous sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>.</p>
   </div>
 </div>
-<h2>Comment déclarer les volumes ?</h2>
-<!-- ETAPE 1 -->
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">1</div>
-  <div>Connectez-vous à <a href="https://app.getinside.media/">app.getinside.media</a>.</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Accéder à la campagne</h3>
+    <p>Allez dans <strong>"Mes Campagnes"</strong> et sélectionnez la campagne active.</p>
+  </div>
 </div>
-<!-- ETAPE 2 -->
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">2</div>
-  <div>Allez dans <strong>"Mes Campagnes"</strong> et sélectionnez la campagne active.</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Ouvrir le suivi</h3>
+    <p>Ouvrez l'onglet <strong>"Configuration et suivi"</strong>.</p>
+  </div>
 </div>
-<!-- ETAPE 3 -->
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">3</div>
-  <div>Ouvrez l'onglet <strong>"Configuration et suivi"</strong>.</div>
-</div>
-<!-- ETAPE 4 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 30px; height: 30px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">4</div>
-  <div>
-    Dans le tableau de suivi, saisissez :
+
+<div class="gi-step">
+  <div class="gi-step-num">4</div>
+  <div class="gi-step-body">
+    <h3>Saisir le volume distribué</h3>
+    <p>Dans le tableau de suivi, renseignez :</p>
     <ul>
-      <li>La période (ex: Semaine 42).</li>
-      <li>La quantité insérée.</li>
+      <li>La période (ex : Semaine 42)</li>
+      <li>La quantité insérée</li>
     </ul>
   </div>
 </div>
-<h2>Fin de campagne</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
-    <h3>Cas A : Stock Épuisé</h3>
-    <p>Vous avez distribué tous les supports reçus. La campagne s'arrête naturellement.</p>
+
+---
+
+## Clôturer une campagne
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>📦 Cas A — Stock Épuisé</strong>
+    <p>Vous avez distribué l'intégralité des supports reçus. La campagne s'arrête naturellement.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
-    <h3>Cas B : Objectif Atteint</h3>
-    <p>Le volume commandé (Capped) est atteint, même s'il reste du stock (sauf instruction contraire pour écouler le reliquat).</p>
+  <div class="gi-value-card">
+    <strong>🏁 Cas B — Objectif Atteint (Capped)</strong>
+    <p>Le volume commandé est atteint. Clôturez la campagne même s'il reste du stock, sauf instruction contraire pour écouler le reliquat.</p>
   </div>
 </div>
-<div style="margin-top: 20px; text-align: center;">
-  <p>Une fois terminée, cliquez sur le bouton <strong>"Clôturer la campagne"</strong> pour valider la prestation.</p>
-</div>
+
+Une fois la campagne terminée, cliquez sur **"Clôturer la campagne"** pour valider la prestation.
+
+:::tip Déclenchement du paiement
+La clôture de campagne valide la prestation et déclenche le crédit de votre revenu sur le Wallet — disponible 30 jours après la fin de campagne.
+:::

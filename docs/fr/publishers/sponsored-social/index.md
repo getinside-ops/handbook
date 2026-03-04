@@ -1,52 +1,59 @@
 ---
-title: Sponsored Social (publisher)
+title: Social Ads (publisher)
 ---
 
-# Sponsored Social
+# Social Ads (Partnership Ads)
 
-Monétisez votre audience sociale (Instagram, TikTok) sans polluer votre ligne éditoriale grâce aux "Partnership Ads".
+Monétisez votre audience sociale (Instagram, TikTok) sans polluer votre ligne éditoriale grâce aux Partnership Ads.
 
-<div>
-  <a href="guide" class="btn btn-primary">Voir le Guide de Publication</a>
+<div class="gi-quick-links">
+  <a href="guide" class="btn btn-primary">Guide de Publication →</a>
 </div>
-<hr />
-<h2>Le principe : "Partnership Ads"</h2>
-<div style="background: var(--gi-tint-blue-bg); border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; margin-bottom: 40px;">
-  <p>Contrairement à l'influence classique, nous utilisons la <strong>Sponsorisation</strong>.</p>
-  <ul>
-    <li>Vous postez un contenu qualitatif (en partenariat avec une marque).</li>
-    <li>L'Annonceur investit son propre budget média pour diffuser <strong>votre</strong> post auprès de milliers de nouvelles personnes.</li>
-  </ul>
+
+---
+
+## Le principe
+
+<div class="gi-accent-box">
+
+Contrairement à l'influence classique, nous utilisons la **Sponsorisation** :
+
+1. Vous créez et publiez un contenu qualitatif (avec mention "Partenariat rémunéré").
+2. L'annonceur investit son propre budget média pour diffuser **votre post** auprès de milliers de nouvelles personnes.
+3. Vous partagez le lien de publication — getinside transmet à l'annonceur pour lancer l'amplification.
+
 </div>
-<h2>Vos Avantages</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; width: 100%; margin-bottom: 40px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>💰 Rémunération</h3>
-    <p>Vous êtes payé pour la création du contenu et/ou sa publication.</p>
+
+---
+
+## Vos avantages
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>💰 Rémunération</strong>
+    <p>Vous êtes rémunéré pour la création du contenu et/ou sa publication. Revenus crédités sur votre Wallet 30 jours après la fin de campagne.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>📈 Croissance Gratuite</h3>
-    <p>L'annonceur paie pour montrer <strong>VOTRE profil</strong> à une large audience. C'est de l'acquisition d'abonnés gratuite pour vous.</p>
+  <div class="gi-value-card">
+    <strong>📈 Croissance Gratuite</strong>
+    <p>L'annonceur paie pour diffuser <strong>votre profil</strong> à une large audience. Acquisition d'abonnés gratuite sans dépenser votre propre budget.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv);">
-    <h3>✨ Qualité Préservée</h3>
-    <p>Comme le post est amplifié en média (Dark post ou Boost), pas besoin de spammer votre feed organique.</p>
+  <div class="gi-value-card">
+    <strong>✨ Qualité Préservée</strong>
+    <p>Le post est amplifié depuis votre compte (Dark post ou Boost). Pas besoin de spammer votre feed organique.</p>
   </div>
 </div>
-<h2>Pourquoi passer par getinside ?</h2>
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">⚙️</div>
-    <div>
-      <h3>Setup Simplifié</h3>
-      <p>La configuration des droits publicitaires sur Meta ou TikTok est un cauchemar. Nous vous guidons pas à pas pour lier les comptes sans erreur.</p>
-    </div>
+
+---
+
+## Pourquoi passer par getinside ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>⚙️ Setup Simplifié</strong>
+    <p>La configuration des droits publicitaires sur Meta ou TikTok est complexe. Nous vous guidons pas à pas pour activer les autorisations sans erreur.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 24px; background: var(--vp-c-bg-elv); display: flex; align-items: center; gap: 20px;">
-    <div style="font-size: 32px; min-width: 50px; text-align: center;">🤝</div>
-    <div>
-      <h3>Marques Premium</h3>
-      <p>Collaborez avec des annonceurs vérifiés qui cherchent de la performance long terme, pas des "coups" d'un jour.</p>
-    </div>
+  <div class="gi-value-card">
+    <strong>🤝 Marques Premium</strong>
+    <p>Collaborez avec des annonceurs vérifiés qui recherchent de la performance long terme, pas des opérations ponctuelles.</p>
   </div>
 </div>

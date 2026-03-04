@@ -4,81 +4,107 @@ title: Guide de Publication
 
 # Guide de Publication & Tagging
 
-Pour que l'Annonceur puisse payer la diffusion, vous devez impérativement activer les options de partenariat lors de la publication.
+Pour que l'annonceur puisse payer la diffusion, vous devez impérativement activer les options de partenariat lors de la publication.
 
-::: tip Pourquoi ces étapes sont obligatoires ?
-Quand vous cochez "Autoriser le partenaire à booster", l'annonceur peut diffuser votre contenu comme une publicité depuis son propre compte (sans le republier). Sans cette autorisation, **la campagne ne peut pas démarrer** et **votre rémunération est bloquée**.
+:::tip Pourquoi ces étapes sont obligatoires ?
+En cochant "Autoriser le partenaire à booster", l'annonceur peut diffuser votre contenu comme une publicité depuis son propre compte. Sans cette autorisation, **la campagne ne peut pas démarrer** et **votre rémunération est bloquée**.
 :::
 
-<hr />
-<h2>Sur Instagram (Partnership Ads)</h2>
-<div style="border-left: 4px solid var(--gi-tint-red-text); padding-left: 20px;">
-  <div style="margin-bottom: 20px;">
-    <h3>1. Préparez le post</h3>
+---
+
+## Instagram — Partnership Ads
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Préparer le post</h3>
     <p>Créez votre Post ou Reel normalement. Arrivez à l'étape finale (juste avant de cliquer sur "Partager").</p>
   </div>
-  <div style="margin-bottom: 20px;">
-    <h3>2. Paramètres Avancés</h3>
-    <p>Descendez tout en bas et cliquez sur <strong>"Paramètres avancés"</strong>.</p>
-  </div>
-  <div style="margin-bottom: 20px;">
-    <h3>3. Ajouter le label</h3>
-    <p>Activez l'option <strong>"Ajouter un label Partenariat rémunéré"</strong>.</p>
-  </div>
-  <div style="margin-bottom: 20px;">
-    <h3>4. Identifier la marque</h3>
-    <p>Cliquez sur <strong>"Ajouter des partenaires de marque"</strong> et recherchez le nom du compte de l'Annonceur (indiqué dans le brief).</p>
-  </div>
-  <div style="background: var(--gi-tint-red-bg); border: 1px dashed var(--gi-tint-red-text); padding: 15px; border-radius: 8px;">
-    <h3 class="text-red-200">⚠️ ÉTAPE CRITIQUE</h3>
-    <p>Vous devez absolument activer l'option :<br />
-    <strong>"Autoriser le partenaire de marque à booster"</strong> (Allow brand partner to boost).</p>
-    <p><em>Sans cette case cochée, nous ne pouvons pas lancer la campagne média et votre rémunération peut être bloquée.</em></p>
-  </div>
-</div>
-<hr />
-<h2>Sur TikTok (Spark Ads)</h2>
-<div style="border-left: 4px solid var(--vp-c-text-1); padding-left: 20px;">
-  <div style="margin-bottom: 20px;">
-    <h3>1. Paramètres de publicité</h3>
-    <p>Publiez la vidéo. Allez dessus, cliquez sur les <strong>3 points (...)</strong> en bas à droite, puis faites défiler jusqu'à <strong>"Paramètres de publicité"</strong> (Ad settings).</p>
-  </div>
-  <div style="margin-bottom: 20px;">
-    <h3>2. Autorisation</h3>
-    <p>Activez l'option <strong>"Autorisation de publicité"</strong> (Ad authorization).</p>
-  </div>
-  <div style="margin-bottom: 20px;">
-    <h3>3. Générer le code</h3>
-    <p>Cliquez sur <strong>"Générer un code"</strong>, choisissez une durée (30 ou 60 jours) et copiez le code.</p>
-  </div>
-  <div style="background-color: var(--vp-c-bg-soft); border: 1px solid var(--vp-c-divider); padding: 15px; border-radius: 8px;">
-    <strong>📨 Action finale :</strong><br />
-    Collez ce code dans la messagerie de la campagne sur <a href="https://app.getinside.media/">app.getinside.media</a> pour que l'annonceur puisse lier la vidéo.
-  </div>
-</div>
-<hr />
-<h2>✅ Checklist Avant Publication</h2>
-<div style="border: 2px solid var(--gi-tint-green-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-green-bg); margin-bottom: 24px;">
-  <strong style="color: var(--gi-tint-green-text);">Vérifiez chaque point avant de publier :</strong>
-  <ul style="margin: 0.75rem 0 0; padding-left: 1.25rem;">
-    <li style="margin-bottom: 0.5rem;"><strong>Instagram :</strong> Label "Partenariat rémunéré" activé + compte annonceur identifié + case "Autoriser le partenaire à booster" cochée</li>
-    <li style="margin-bottom: 0.5rem;"><strong>TikTok :</strong> Option "Autorisation de publicité" activée + code généré et transmis via la messagerie plateforme</li>
-    <li><strong>Les deux :</strong> Publiez, puis confirmez la diffusion sur <a href="https://app.getinside.media/">app.getinside.media</a> pour déclencher le paiement</li>
-  </ul>
 </div>
 
-<h2>Bonnes Pratiques Éditoriales</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
-    <strong>Authenticité</strong>
-    <p>Utilisez votre ton habituel. Ne jouez pas un rôle, c'est ce que l'Annonceur recherche.</p>
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Paramètres Avancés</h3>
+    <p>Descendez tout en bas et cliquez sur <strong>"Paramètres avancés"</strong>.</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
-    <strong>Transparence</strong>
-    <p>L'outil de partenariat ajoute automatiquement la mention "Partenariat rémunéré", ce qui vous met en conformité avec la réglementation française sur la publicité.</p>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Ajouter le label + identifier la marque</h3>
+    <p>Activez <strong>"Ajouter un label Partenariat rémunéré"</strong>, puis cliquez sur <strong>"Ajouter des partenaires de marque"</strong> et recherchez le compte de l'annonceur (indiqué dans le brief).</p>
   </div>
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 20px;">
-    <strong>Performance</strong>
-    <p>Partagez le lien de votre publication avec votre gestionnaire de campagne getinside pour le suivi des performances.</p>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">4</div>
+  <div class="gi-step-body">
+    <h3>Autoriser le boost — Étape critique</h3>
+    <p>Activez l'option <strong>"Autoriser le partenaire de marque à booster"</strong> (Allow brand partner to boost).</p>
+  </div>
+</div>
+
+:::danger Autorisation de boost obligatoire (Instagram)
+Sans cette case cochée, l'annonceur ne peut pas lancer la campagne média et votre rémunération est bloquée.
+
+En cas de problème après publication : retournez sur le post → 3 points (…) → "Modifier" → vérifiez les deux options.
+:::
+
+---
+
+## TikTok — Spark Ads
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Accéder aux paramètres de publicité</h3>
+    <p>Publiez la vidéo. Allez dessus → cliquez sur les <strong>3 points (...)</strong> en bas à droite → faites défiler jusqu'à <strong>"Paramètres de publicité"</strong> (Ad settings).</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Activer l'autorisation</h3>
+    <p>Activez l'option <strong>"Autorisation de publicité"</strong> (Ad authorization).</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Générer et transmettre le code</h3>
+    <p>Cliquez sur <strong>"Générer un code"</strong>, choisissez une durée (30 ou 60 jours), copiez le code et collez-le dans la messagerie de la campagne sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>.</p>
+  </div>
+</div>
+
+---
+
+## Checklist avant publication
+
+:::tip Vérifiez chaque point avant de publier
+- **Instagram :** Label "Partenariat rémunéré" activé + compte annonceur identifié + **"Autoriser le partenaire à booster"** coché
+- **TikTok :** "Autorisation de publicité" activée + code généré et transmis via la messagerie plateforme
+- **Les deux :** Après publication, confirmez la diffusion sur [app.getinside.media](https://app.getinside.media/) pour déclencher le paiement
+:::
+
+---
+
+## Bonnes pratiques éditoriales
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🎯 Authenticité</strong>
+    <p>Utilisez votre ton habituel. Ne jouez pas un rôle — c'est précisément ce que l'annonceur recherche chez vous.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>⚖️ Transparence</strong>
+    <p>Le label "Partenariat rémunéré" est ajouté automatiquement, vous assurant la conformité avec la réglementation française sur la publicité.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📊 Performance</strong>
+    <p>Partagez le lien de votre publication avec votre gestionnaire de campagne getinside pour le suivi des performances et l'optimisation.</p>
   </div>
 </div>

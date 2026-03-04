@@ -60,7 +60,7 @@ Les étapes techniques et juridiques pour lancer un jeu concours co-brandé conf
     </ol>
 
 :::tip Votre travail s'arrête ici
-Une fois le fichier envoyé, l'Annonceur gère l'envoi des emails de consolation et des codes promos.
+Une fois le fichier transmis, l'annonceur intègre les leads dans son CRM et envoie **immédiatement** l'email de bienvenue avec le code promo de consolation promis. La rapidité est clé pour maximiser les ventes.
 :::
   </div>
 </div>

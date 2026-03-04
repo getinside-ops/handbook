@@ -4,106 +4,67 @@ title: 1. Création & Design
 
 # Étape 1 : Conception de l'Email
 
-Une fois notifié d'une nouvelle campagne, vous devez concevoir l'email. L'Annonceur fournit le fond (l'offre), vous fournissez la forme (le ton).
+Une fois notifié d'une nouvelle campagne, vous concevez l'email. L'annonceur fournit le fond (l'offre), vous apportez la forme (le ton).
 
-<hr />
-<h2>Accéder au Brief</h2>
-<div style="display: flex; gap: 20px; align-items: center; margin-bottom: 40px; background-color: var(--vp-c-bg-elv); padding: 20px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
-  <div style="flex-shrink: 0; width: 50px; height: 50px; background: var(--vp-code-block-bg); color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 24px;">📝</div>
-  <div>
-    <h3>Tout est sur la plateforme</h3>
-    <p>Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> pour récupérer : l'offre commerciale, les visuels produits HD et les arguments clés.</p>
-  </div>
-</div>
-<h2>Stratégie de Co-branding</h2>
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-green-text); background: var(--gi-tint-green-bg); border-radius: 8px; padding: 20px;">
-    <h3>✅ À FAIRE (Endorsement)</h3>
+---
+
+## Accéder au Brief
+
+Connectez-vous sur [app.getinside.media](https://app.getinside.media/) → onglet **"Campagnes"** → sélectionnez la campagne active. Vous y trouverez :
+
+- L'offre commerciale et les arguments clés
+- Les visuels produits (logos, packshots HD)
+- Les liens de redirection de l'annonceur
+
+---
+
+## Stratégie de Co-branding
+
+L'objectif est l'**endorsement natif** : le message doit être perçu comme une recommandation sincère de votre part, pas comme une publicité externe.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>✅ À FAIRE — Endorsement</strong>
     <p>Vos abonnés doivent sentir que le message vient de vous.</p>
     <ul>
       <li><strong>Header :</strong> Utilisez votre en-tête habituel.</li>
-      <li><strong>Édito :</strong> Rédigez une intro : <em>"Chers clients, voici une offre coup de cœur..."</em>.</li>
-      <li><strong>Design :</strong> Intégrez les visuels de l'Annonceur mais gardez vos polices et boutons.</li>
+      <li><strong>Édito :</strong> Rédigez une intro — <em>"Chers clients, voici un coup de cœur…"</em></li>
+      <li><strong>Design :</strong> Intégrez les visuels de l'annonceur mais gardez vos polices et boutons.</li>
     </ul>
   </div>
-  <div style="flex: 1; min-width: 300px; border: 1px solid var(--gi-tint-red-text); background: var(--gi-tint-red-bg); border-radius: 8px; padding: 20px;">
-    <h3>❌ À ÉVITER (Pub Brute)</h3>
+  <div class="gi-value-card">
+    <strong>❌ À ÉVITER — Pub Brute</strong>
     <p>Ne transformez pas votre newsletter en panneau publicitaire.</p>
     <ul>
-      <li>Ne copiez-collez pas un code HTML fourni par la marque.</li>
+      <li>Ne copiez-collez pas un HTML fourni par la marque.</li>
       <li>Ne supprimez pas votre logo.</li>
-      <li>Si le mail ne vous ressemble pas, votre audience se désabonnera.</li>
+      <li>Si l'email ne vous ressemble pas, votre audience se désabonnera.</li>
     </ul>
   </div>
 </div>
-<h2>📧 Dedicated Email (Exemples Live)</h2>
-<p>Cliquez pour visualiser le rendu réel dans le navigateur (Responsive, Co-branding, Endorsement).</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-bottom: 60px;">
-  <!-- EXEMPLE 1 : CAATS -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
-    <div style="height: 180px; background-color: var(--vp-c-bg-soft); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--vp-c-divider);">
-      <span style="font-size: 50px;">🐱</span>
-    </div>
-    <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
-      <div style="margin-bottom: 10px;">
-        <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
-      </div>
-      <h3>Caats x Les Petits Culottés</h3>
-      <p>Campagne Petfood ciblée auprès d'une audience Parents / Famille.</p>
-      <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
-      </div>
-    </div>
-  </div>
-  <!-- EXEMPLE 2 : HELLOFRESH -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
-    <div style="height: 180px; background-color: var(--vp-c-bg-soft); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--vp-c-divider);">
-      <span style="font-size: 50px;">🥘</span>
-    </div>
-    <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
-      <div style="margin-bottom: 10px;">
-        <span style="background: var(--gi-tint-green-bg); color: var(--gi-tint-green-text); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Acquisition</span>
-      </div>
-      <h3>HelloFresh x Berceau Magique</h3>
-      <p>Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</p>
-      <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
-      </div>
-    </div>
-  </div>
-  <!-- EXEMPLE 3 : CHARITY -->
-  <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; overflow: hidden; background: var(--vp-c-bg-elv); display: flex; flex-direction: column;">
-    <div style="height: 180px; background-color: var(--vp-c-bg-soft); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--vp-c-divider);">
-      <span style="font-size: 50px;">🤝</span>
-    </div>
-    <div style="padding: 24px; flex-grow: 1; display: flex; flex-direction: column;">
-      <div style="margin-bottom: 10px;">
-        <span style="background: var(--gi-tint-blue-bg); color: var(--gi-accent); padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase;">Caritatif</span>
-      </div>
-      <h3>Les Petits Frères des Pauvres</h3>
-      <p>Campagne de collecte de fonds diffusée par <em>Mieux que des Fleurs</em>.</p>
-      <div style="margin-top: auto;">
-        <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline" style="width: 100%; text-align: center;">👁️ Voir le rendu en ligne</a>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- BLOC STUDIO CORRIGÉ -->
-<div style="border: 2px solid var(--vp-c-divider); border-radius: 8px; padding: 30px 24px 24px 24px; position: relative; margin-bottom: 40px; background: var(--vp-c-bg-elv);">
-  <!-- Badge Absolute -->
-  <div style="position: absolute; top: -12px; left: 24px; background: var(--vp-code-block-bg); color: white; padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px; text-transform: uppercase;">Option Délégation</div>
-  <!-- Contenu Flex avec Wrap pour éviter la casse -->
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;">
-    <!-- Partie Gauche : Texte -->
-    <div style="flex: 1 1 300px;">
-      <h2>Pas le temps de créer ?</h2>
-      <p>Déléguez la création au <strong>Studio getinside</strong>.<br />Nous créons l'email à vos couleurs, rédigeons l'édito et gérons l'intégration technique.</p>
-    </div>
-    <!-- Partie Droite : Prix & Bouton -->
-    <div style="text-align: right; flex: 0 0 auto; background: var(--vp-c-bg-soft); padding: 15px; border-radius: 6px; border: 1px solid var(--vp-c-divider);">
-      <div style="font-size: 20px; font-weight: 800; line-height: 1;">550€ HT</div>
-      <div style="font-size: 12px; color: var(--vp-c-text-2); margin-bottom: 10px;">déduit de vos revenus</div>
-      <a href="mailto:studio@getinside.fr" class="btn btn-purple">Contacter le Studio</a>
-    </div>
-  </div>
-</div>
+
+---
+
+## Exemples de campagnes
+
+Des rendus réels en ligne (responsive, co-branding, endorsement) :
+
+| Campagne | Contexte | Rendu |
+| :--- | :--- | :--- |
+| **Caats × Les Petits Culottés** | Petfood — audience Parents/Famille | [Voir](https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html){target="_blank"} |
+| **HelloFresh × Berceau Magique** | Box repas — cible Jeunes Parents | [Voir](https://benoit-prentout.github.io/archive-news/71541edf985d/index.html){target="_blank"} |
+| **Les Petits Frères des Pauvres** | Caritatif — collecte de fonds | [Voir](https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html){target="_blank"} |
+
+---
+
+## Option — Délégation Studio
+
+:::info Pas le temps de créer ?
+Déléguez au **Studio getinside** : création de l'email à vos couleurs, rédaction de l'édito et intégration technique.
+
+**550€ HT** par campagne (déduit de vos revenus) → [studio@getinside.fr](mailto:studio@getinside.fr)
+:::
+
+---
+
+→ [Étape 2 : Tracking & Envoi](./2-tracking-sending)

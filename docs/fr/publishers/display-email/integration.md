@@ -4,60 +4,64 @@ title: Intégration & Envoi
 
 # Intégration et Diffusion
 
-Le processus est très rapide. Assurez-vous simplement d'utiliser le bon lien de redirection pour être payé.
+Le processus est rapide — assurez-vous simplement d'utiliser le bon lien de redirection pour être payé.
 
-<hr />
-<!-- ETAPE 1 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">1</div>
-  <div>
-    <h3>Réception des éléments</h3>
-    <p>L'Annonceur vous transmet son visuel (JPG/PNG/GIF).</p>
+---
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Réception du visuel</h3>
+    <p>L'annonceur vous transmet sa bannière (JPG, PNG ou GIF, max 150 Ko).</p>
     <ul>
-      <li>Vérifiez que le format correspond à votre emplacement (ex: 600px de large).</li>
+      <li>Vérifiez que le format correspond à votre emplacement (ex : 600 × 150 px pour un Leaderboard).</li>
       <li>Vérifiez la lisibilité sur mobile.</li>
     </ul>
   </div>
 </div>
-<!-- ETAPE 2 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-red-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">!</div>
-  <div>
-    <h3>Récupération du Tracking (Obligatoire)</h3>
-    <p>Pour que les clics soient comptabilisés (et rémunérés), vous ne devez <strong>pas</strong> utiliser le lien brut de l'annonceur.</p>
-    <div style="background: var(--vp-c-bg-elv); border: 2px dashed var(--gi-tint-red-text); padding: 20px; border-radius: 8px;">
-      <ol>
-        <li>Connectez-vous à <a href="https://app.getinside.media/">app.getinside.media</a>.</li>
-        <li>Allez dans l'onglet <strong>"Configuration et suivi"</strong> de la campagne.</li>
-        <li>Copiez le <strong>"Lien tracké"</strong> unique (format <code>https://gtinsi.de/...</code>).</li>
-      </ol>
-    </div>
-    <p><em>Note : Contrairement à l'email dédié, il n'y a pas de "Pixel d'ouverture" à installer ici. Seuls les clics comptent.</em></p>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Récupération du Lien Tracké</h3>
+    <p>Sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, ouvrez l'onglet <strong>"Configuration et suivi"</strong> de la campagne et copiez le <strong>lien tracké</strong> (format <code>https://gtinsi.de/…</code>).</p>
+    <p><em>Contrairement à l'email dédié, il n'y a pas de pixel d'ouverture à installer. Seuls les clics sont comptabilisés pour ce format.</em></p>
   </div>
 </div>
-<!-- ETAPE 3 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">3</div>
-  <div>
+
+:::danger Lien tracké obligatoire
+N'utilisez **jamais** le lien brut de l'annonceur. Sans le lien <code>gtinsi.de</code>, les clics ne sont pas comptabilisés et vous ne serez pas rémunéré.
+:::
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
     <h3>Insertion dans votre routeur</h3>
-    <p>Dans votre outil d'emailing habituel (Mailchimp, Brevo, Klaviyo...) :</p>
+    <p>Dans votre outil d'emailing (Mailchimp, Brevo, Klaviyo…) :</p>
     <ol>
-      <li>Insérez l'image de l'annonceur à l'endroit prévu.</li>
+      <li>Insérez l'image de l'annonceur à l'emplacement prévu.</li>
       <li>Ajoutez un lien sur cette image.</li>
-      <li><strong>Collez le lien tracké</strong> <code>gtinsi.de</code> comme URL de destination.</li>
+      <li>Collez le lien tracké <code>gtinsi.de</code> comme URL de destination.</li>
     </ol>
   </div>
 </div>
-<!-- ETAPE 4 -->
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <div style="flex-shrink: 0; width: 40px; height: 40px; background: var(--gi-tint-green-text); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px;">🚀</div>
-  <div>
-    <h3>Validation & Diffusion</h3>
-    <p>Dernière ligne droite :</p>
-    <ul>
-      <li>Envoyez un email de test à <code>benoit+news@getinside.fr</code> pour validation.</li>
-      <li>Sur la plateforme, cliquez sur <strong>"Valider la campagne"</strong>.</li>
-      <li>Une fois l'envoi terminé, revenez cliquer sur <strong>"Valider la diffusion"</strong> pour déclencher la facturation.</li>
-    </ul>
+
+<div class="gi-step">
+  <div class="gi-step-num">4</div>
+  <div class="gi-step-body">
+    <h3>Test BAT & Validation</h3>
+    <p>Envoyez un email de test à <code>benoit+news@getinside.fr</code> pour validation. Sur la plateforme, cliquez sur <strong>"Valider la campagne"</strong> puis attendez la validation côté annonceur.</p>
   </div>
 </div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">✓</div>
+  <div class="gi-step-body">
+    <h3>Diffusion & Validation Finale</h3>
+    <p>Routez l'email à votre base. Une fois l'envoi terminé, retournez sur la plateforme et cliquez sur <strong>"Valider la diffusion"</strong>.</p>
+  </div>
+</div>
+
+:::warning Action bloquante — Valider la diffusion
+Sans ce clic, les fonds restent séquestrés. C'est cette action qui déclenche la facturation et le crédit sur votre Wallet (disponible 30 jours après la fin de campagne).
+:::

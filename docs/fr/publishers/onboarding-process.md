@@ -26,10 +26,10 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-body">
     <h3>Configuration Logistique</h3>
     <p>Avant de créer vos audiences, définissez vos contraintes logistiques (indispensable pour l'algorithme).</p>
-    <div class="gi-info-box">
-      <strong>📍 Adresse de l'entrepôt :</strong> Lieu de livraison des supports.<br />
-      <strong>⏱️ Délai d'ingestion (Lead Time) :</strong> Délai minimum entre la livraison et le début de la diffusion (automatiquement pris en compte par la plateforme).
-    </div>
+    <ul>
+      <li><strong>📍 Adresse de l'entrepôt</strong> — Lieu de livraison des supports physiques (flyers, échantillons).</li>
+      <li><strong>⏱️ Lead Time (Délai d'ingestion)</strong> — Délai incompressible entre la réception des palettes et le début de l'insertion. Pris en compte automatiquement par l'algorithme pour synchroniser les livraisons.</li>
+    </ul>
   </div>
 </div>
 
@@ -37,8 +37,8 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Création des Audiences</h3>
-    <p>Dans l'onglet <strong>Monétisation</strong>, l'équipe e-commerçant crée ses audiences.</p>
-    <a href="audience-setup" class="btn btn-outline">Voir le guide détaillé de la Fiche Audience & Score →</a>
+    <p>Dans l'onglet <strong>Monétisation</strong>, créez vos fiches audience : panier moyen, typologie B2B/B2C, profil du persona, visuels (logo, bannière). Une fiche complète améliore votre <strong>Score Distributeur</strong> (sur 5 étoiles) et votre visibilité sur la marketplace.</p>
+    <a href="audience-setup" class="btn btn-outline">Guide détaillé — Fiche Audience & Score →</a>
   </div>
 </div>
 
@@ -93,19 +93,13 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-body">
     <h3>Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
-    <div class="gi-info-box">
-      <strong>Règle des 48 heures (Critique)</strong>
-      <p>Vous devez répondre à toute proposition de campagne dans un délai de <strong>48 heures ouvrées</strong>. Passé ce délai, l'absence de réponse vaut <strong>refus tacite</strong> et entraîne une <strong>pénalité équivalente à la commission</strong> que nous aurions perçue.</p>
-    </div>
-    <div class="gi-info-box">
-      <strong>Ne refusez pas, négociez !</strong>
-      <p>L'objectif est de remplir votre inventaire. Plutôt que de refuser une offre :</p>
-      <ul>
-        <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire.</li>
-        <li><strong>📅 Dates indisponibles ?</strong> Proposez une autre période de diffusion.</li>
-        <li><strong>📦 Volume inadapté ?</strong> Ajustez la quantité proposée.</li>
-      </ul>
-    </div>
+    <p><strong>⏱️ Règle des 48 heures (Critique)</strong> — Répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité égale à la commission perdue.</p>
+    <p><strong>Ne refusez pas, négociez !</strong> L'objectif est de remplir votre inventaire :</p>
+    <ul>
+      <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire.</li>
+      <li><strong>📅 Dates indisponibles ?</strong> Proposez une autre période de diffusion.</li>
+      <li><strong>📦 Volume inadapté ?</strong> Ajustez la quantité proposée.</li>
+    </ul>
     <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec l'annonceur, argumenter votre prix ou demander des précisions.</p>
   </div>
 </div>
@@ -133,7 +127,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
       <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.
       <ul>
         <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
-        <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis.</li>
+        <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis — <strong>0% de frais de régie</strong> avec les offres Plateforme ou Managed.</li>
       </ul>
     </div>
   </div>

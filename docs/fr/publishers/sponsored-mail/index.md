@@ -4,7 +4,7 @@ title: Sponsored Mail (publisher)
 
 # Insertion Colis (Sponsored Mail)
 
-Les procédures opérationnelles pour la réception, l'insertion et le reporting des campagnes.
+Les procédures opérationnelles pour la réception, l'insertion et le reporting des campagnes. Taux de lecture **100% garanti** — vos colis assurent la visibilité maximale.
 
 <div>
   <a href="logistics" class="btn btn-primary mr-2">Guide Logistique</a>
@@ -43,6 +43,6 @@ Les procédures opérationnelles pour la réception, l'insertion et le reporting
   </div>
   <div class="gi-value-card">
     <strong>💸 Garantie de Paiement</strong>
-    <p>Plus de risque d'impayé. getinside sécurise les fonds en amont. Dès que vous déclarez les volumes distribués, votre revenu est validé.</p>
+    <p>getinside sécurise les fonds en amont. Déclarez les volumes distribués → votre revenu est validé et crédité sur votre Wallet sous 30 jours.</p>
   </div>
 </div>

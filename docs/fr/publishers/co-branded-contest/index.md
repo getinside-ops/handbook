@@ -13,7 +13,7 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>💰 Revenus Média</strong>
-    <p>L'Annonceur finance tout (dotations + coûts). C'est une source de revenus additionnelle sans risque.</p>
+    <p>L'annonceur finance tout — dotations, lots, coûts opérationnels. Source de revenus 100% additionnel, sans risque pour vous.</p>
   </div>
   <div class="gi-value-card">
     <strong>🎉 Animation Commerciale</strong>
@@ -21,7 +21,7 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
   </div>
   <div class="gi-value-card">
     <strong>📊 Qualification Data</strong>
-    <p>Profitez du jeu pour réactiver des clients inactifs ou collecter de nouveaux opt-ins sur votre propre base.</p>
+    <p>Réactivez des clients inactifs et collectez des leads opt-in ultra-qualifiés — qualifiés par le comportement d'achat de votre propre audience.</p>
   </div>
 </div>
 

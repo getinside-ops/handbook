@@ -16,27 +16,27 @@ title: Espace Annonceurs
   <a href="sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Insertion Colis</span>
-    <p class="gi-format-card-desc">Insérez vos flyers et échantillons au cœur de l'expérience unboxing.</p>
+    <p class="gi-format-card-desc">100% de taux de lecture. Flyers et échantillons au cœur de l'expérience unboxing.</p>
   </a>
   <a href="dedicated-email/" class="gi-format-card">
     <span class="gi-format-card-icon">📧</span>
     <span class="gi-format-card-title">Emailing Dédié</span>
-    <p class="gi-format-card-desc">Profitez de l'endorsement du distributeur pour toucher sa base abonnés.</p>
+    <p class="gi-format-card-desc">Endorsement du distributeur. Taux d'ouverture >50% sur les envois post-achat.</p>
   </a>
   <a href="display-email/" class="gi-format-card">
     <span class="gi-format-card-icon">🖼️</span>
     <span class="gi-format-card-title">Encart Newsletter</span>
-    <p class="gi-format-card-desc">Une bannière simple et efficace dans les newsletters partenaires.</p>
+    <p class="gi-format-card-desc">Bannière non-intrusive dans les newsletters partenaires. Zéro production côté annonceur.</p>
   </a>
   <a href="sponsored-social/" class="gi-format-card">
     <span class="gi-format-card-icon">📱</span>
     <span class="gi-format-card-title">Social Ads</span>
-    <p class="gi-format-card-desc">Sponsorisez les posts Instagram/TikTok des marques partenaires.</p>
+    <p class="gi-format-card-desc">Partnership Ads sur les comptes Instagram et TikTok de nos partenaires. Sur demande.</p>
   </a>
   <a href="co-branded-contest/" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
     <span class="gi-format-card-title">Jeu Concours</span>
-    <p class="gi-format-card-desc">Collectez des leads qualifiés via une mécanique co-brandée.</p>
+    <p class="gi-format-card-desc">Leads opt-in qualifiés + code promo de consolation pour tous les participants.</p>
   </a>
 </div>
 

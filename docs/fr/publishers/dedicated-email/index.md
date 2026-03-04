@@ -20,17 +20,17 @@ Vous pouvez proposer 3 types de campagnes dédiées :
   <div class="gi-value-card">
     <strong>📢 Blast (Newsletter)</strong>
     <p>Vous envoyez un email dédié à tout ou partie de votre base active.</p>
-    <span class="label label-green">Volume Fort</span>
+    <Badge type="tip" text="Volume Fort" />
   </div>
   <div class="gi-value-card">
     <strong>🛍️ Post-Purchase</strong>
     <p>Un email dédié envoyé automatiquement après une commande.</p>
-    <span class="label label-green">Taux d'ouverture &gt; 50%</span>
+    <Badge type="tip" text="TO > 50%" />
   </div>
   <div class="gi-value-card">
     <strong>👋 Welcome Pack</strong>
     <p>Présentation d'un partenaire dans la séquence de bienvenue.</p>
-    <span class="label label-green">Fidélisation</span>
+    <Badge type="tip" text="Fidélisation" />
   </div>
 </div>
 
@@ -41,7 +41,7 @@ Vous pouvez proposer 3 types de campagnes dédiées :
     <span class="gi-nav-card-icon">🎨</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">1. Création & Design</p>
-      <p class="gi-nav-card-desc">Récupération du brief et co-branding.</p>
+      <p class="gi-nav-card-desc">Récupération des assets annonceurs, stratégie d'endorsement natif et exemples.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -49,7 +49,7 @@ Vous pouvez proposer 3 types de campagnes dédiées :
     <span class="gi-nav-card-icon">🚀</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">2. Tracking & Envoi</p>
-      <p class="gi-nav-card-desc">Intégration du pixel, validation BAT et diffusion.</p>
+      <p class="gi-nav-card-desc">Pixel d'ouverture, liens trackés gtinsi.de, BAT par email et validation finale.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

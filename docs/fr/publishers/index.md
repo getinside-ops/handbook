@@ -45,27 +45,27 @@ title: Espace Éditeurs
   <a href="sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Insertion Colis</span>
-    <p class="gi-format-card-desc">Réception, insertion en entrepôt et reporting.</p>
+    <p class="gi-format-card-desc">100% de taux de lecture garanti. Réception, insertion et déclaration hebdomadaire.</p>
   </a>
   <a href="dedicated-email/" class="gi-format-card">
     <span class="gi-format-card-icon">📧</span>
     <span class="gi-format-card-title">Emailing Dédié</span>
-    <p class="gi-format-card-desc">Création, endorsement et tracking.</p>
+    <p class="gi-format-card-desc">Taux d'ouverture >50% post-achat. Création co-brandée, endorsement et tracking.</p>
   </a>
   <a href="display-email/" class="gi-format-card">
     <span class="gi-format-card-icon">🖼️</span>
     <span class="gi-format-card-title">Encart Newsletter</span>
-    <p class="gi-format-card-desc">Intégration bannière simple.</p>
+    <p class="gi-format-card-desc">Revenu passif — zéro production. Intégration bannière en quelques minutes.</p>
   </a>
   <a href="sponsored-social/" class="gi-format-card">
     <span class="gi-format-card-icon">📱</span>
     <span class="gi-format-card-title">Social Ads</span>
-    <p class="gi-format-card-desc">Sponsorisation de posts (Partnership Ads).</p>
+    <p class="gi-format-card-desc">Partnership Ads rémunérés. L'annonceur finance la diffusion de vos posts.</p>
   </a>
   <a href="co-branded-contest/" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
     <span class="gi-format-card-title">Jeu Concours</span>
-    <p class="gi-format-card-desc">Animation et collecte de leads.</p>
+    <p class="gi-format-card-desc">Animez votre audience. L'annonceur fournit les lots, le budget et la page co-brandée.</p>
   </a>
 </div>
 
@@ -75,7 +75,7 @@ title: Espace Éditeurs
   <a href="pricing" class="gi-format-card">
     <span class="gi-format-card-icon">💎</span>
     <span class="gi-format-card-title">Abonnements & Offres</span>
-    <p class="gi-format-card-desc">Starter, Standard ou Managed.</p>
+    <p class="gi-format-card-desc">Starter (gratuit), Plateforme ou Managed — choisissez votre niveau.</p>
   </a>
   <a href="payouts" class="gi-format-card">
     <span class="gi-format-card-icon">💸</span>
