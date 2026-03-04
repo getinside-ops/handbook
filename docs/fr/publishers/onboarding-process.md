@@ -201,3 +201,24 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <li>Toute demande de données supplémentaires requiert une validation légale.</li>
   </ul>
 </div>
+
+### Droit de Veto Distributeur
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 2rem;">
+  <div style="border: 2px solid var(--gi-tint-green-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-green-bg);">
+    <h3>✅ Vous Pouvez Refuser</h3>
+    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem;">
+      <li><strong>La MARQUE :</strong> Raisons éthiques ou de concurrence.</li>
+      <li><strong>Légalité :</strong> Si le contenu porte atteinte aux lois.</li>
+      <li><strong>Image Marque :</strong> Si la campagne contredit vos valeurs.</li>
+    </ul>
+  </div>
+  <div style="border: 2px solid var(--gi-tint-red-text); border-radius: 8px; padding: 20px; background: var(--gi-tint-red-bg);">
+    <h3>❌ Vous Ne Pouvez Pas Refuser</h3>
+    <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.875rem;">
+      <li><strong>Direction artistique :</strong> Si le visuel respecte les spécifications techniques.</li>
+      <li><strong>Préférences subjectives :</strong> "Je ne trouve pas ça beau" n'est pas un motif valide.</li>
+      <li><strong>Raisons commerciales seules :</strong> Prix trop bas → Négociez plutôt que refuser.</li>
+    </ul>
+  </div>
+</div>
