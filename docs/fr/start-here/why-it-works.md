@@ -6,29 +6,34 @@ title: Comment ça fonctionne ?
 
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 
-<div class="gi-accent-box">
+<div class="gi-ecosystem-flow">
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center; margin-bottom: 1.75rem;">
+    <div style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 0.5rem; padding: 1.25rem; text-align: center;">
+      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">📦</span>
+      <strong style="font-size: 0.9375rem;">L'E-COMMERÇANT</strong>
+      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Envoie ses colis et emails à ses clients.</p>
+    </div>
+    <div style="color: var(--vp-c-divider); font-size: 1.5rem;">→</div>
+    <div style="background: #fbfaff; border: 2px dashed #5B4DFF; border-radius: 0.5rem; padding: 1.25rem; text-align: center;">
+      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">⚡</span>
+      <strong style="font-size: 0.9375rem; color: #5B4DFF;">LA PLATEFORME</strong>
+      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Connecte l'inventaire aux marques partenaires.</p>
+    </div>
+  </div>
 
-```mermaid
-flowchart TD
-    classDef defaultCard fill:#ffffff,stroke:#e1e4e8,stroke-width:2px,color:#333;
-    classDef techCard fill:#fbfaff,stroke:#5B4DFF,stroke-width:2px,stroke-dasharray: 5 5,color:#5B4DFF;
-    classDef growthCard fill:#f0fdf4,stroke:#4CAF50,stroke-width:2px,color:#1b5e20;
-
-    Node_Distri["📦 L'E-COMMERÇANT\nEnvoie ses colis et emails à ses clients."]
-    Node_Plat["⚡ LA PLATEFORME\nConnecte l'inventaire aux marques partenaires."]
-    Node_Adv["📢 L'ANNONCEUR\nAchète cet espace pour diffuser son offre."]
-    Node_Fund["📈 SMART FUNDING\nLes revenus financent votre propre acquisition !"]
-
-    Node_Distri --> Node_Plat
-    Node_Plat --> Node_Adv
-    Node_Adv --> Node_Fund
-    Node_Fund -->|"💰 Finance l'acquisition client"| Node_Distri
-
-    class Node_Distri,Node_Adv defaultCard;
-    class Node_Plat techCard;
-    class Node_Fund growthCard;
-```
-
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center; margin-bottom: 1.75rem;">
+    <div style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 0.5rem; padding: 1.25rem; text-align: center; order: 2;">
+      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">📢</span>
+      <strong style="font-size: 0.9375rem;">L'ANNONCEUR</strong>
+      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Achète cet espace pour diffuser son offre.</p>
+    </div>
+    <div style="color: var(--vp-c-divider); font-size: 1.5rem; order: 1;">→</div>
+    <div style="background: #f0fdf4; border: 2px solid #4CAF50; border-radius: 0.5rem; padding: 1.25rem; text-align: center; order: 0;">
+      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">💰</span>
+      <strong style="font-size: 0.9375rem; color: #1b5e20;">LE RÉINVESTISSEMENT</strong>
+      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Les revenus financent votre propre acquisition.</p>
+    </div>
+  </div>
 </div>
 
 ## Le Transfert de Confiance (Endorsement)
