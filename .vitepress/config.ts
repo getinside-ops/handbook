@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 import path from 'path'
 
-export default withMermaid(
+const config: any = withMermaid(
   defineConfig({
     title: 'getinside Handbook',
     description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.',
@@ -13,14 +13,6 @@ export default withMermaid(
       root: {
         label: 'Français',
         lang: 'fr-FR',
-        themeConfig: {
-          nav: [
-            { text: '🛍️ Annonceurs', link: '/advertisers/' },
-            { text: '📦 Retailers', link: '/publishers/' },
-            { text: '❓ FAQ', link: '/faq/' },
-            { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
-          ],
-        }
       },
       en: {
         label: 'English',
@@ -33,7 +25,7 @@ export default withMermaid(
             { text: '❓ FAQ', link: '/en/faq/' },
             { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
           ],
-        }
+        },
       },
     },
 
@@ -112,13 +104,30 @@ export default withMermaid(
                 },
               },
             },
+            en: {
+              translations: {
+                button: { buttonText: 'Search', buttonAriaLabel: 'Search' },
+                modal: {
+                  noResultsText: 'No results for',
+                  resetButtonTitle: 'Reset',
+                  footer: {
+                    selectText: 'to select',
+                    navigateText: 'to navigate',
+                    closeText: 'to close',
+                  },
+                },
+              },
+            },
           },
         },
       },
 
-
-
-      sidebar: {
+      nav: [
+        { text: '🛍️ Annonceurs', link: '/advertisers/' },
+        { text: '📦 Retailers', link: '/publishers/' },
+        { text: '❓ FAQ', link: '/faq/' },
+        { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
+      ], sidebar: {
         '/': [
           {
             text: 'Découvrir getinside',
@@ -393,7 +402,6 @@ export default withMermaid(
       },
 
       editLink: undefined,
-      lastUpdated: false,
     },
 
     mermaid: {
@@ -401,3 +409,16 @@ export default withMermaid(
     },
   })
 )
+
+if (!config.locales) config.locales = {}
+if (!config.locales.en) config.locales.en = { label: 'English', lang: 'en-US', link: '/en/' }
+config.locales.en.themeConfig = {
+  nav: [
+    { text: '🛍️ Advertisers', link: '/en/advertisers/' },
+    { text: '📦 Retailers', link: '/en/publishers/' },
+    { text: '❓ FAQ', link: '/en/faq/' },
+    { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
+  ],
+}
+
+export default config
