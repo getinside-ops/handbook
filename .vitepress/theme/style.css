@@ -491,13 +491,20 @@
   justify-content: center;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin-top: 3px;
+  margin-top: 0;
 }
 .gi-step-num.done { background: var(--gi-tint-green-text); }
 .gi-step-body { flex: 1; min-width: 0; }
 .gi-step-body > h3:first-child {
   margin: 0 0 0.4rem !important;
+  padding-top: 0 !important;
   font-size: 0.9375rem !important;
+}
+.gi-step-body .header-anchor {
+  display: none;
+}
+h2 + .gi-step {
+  margin-top: 1.25rem;
 }
 
 /* ============================================================
