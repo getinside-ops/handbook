@@ -16,8 +16,6 @@ image: /images/gi-keyvisual.svg
 
 Rejoignez **+250 e-commerçants** et **+300 annonceurs** qui utilisent getinside pour monétiser directement leurs audiences. **+950 campagnes** opérées avec succès.
 
-![getinside - Plateforme Retail Media](/images/gi-keyvisual.svg)
-
 ---
 
 ## Les 4 Piliers de getinside
