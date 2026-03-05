@@ -28,18 +28,18 @@ hero:
       link: https://app.getinside.media/
 
 features:
-  - icon: 📊
-    title: Pour les Retailers — Revenus sans Effort
-    details: Monétisez vos colis & emails. **+2-20% de chiffre d'affaires additionnel** avec **65-70% de marge nette**. Aucune intégration technique lourde. Contrôle total.
+  - icon: 📦
+    title: Retailers — +2 à 20% de revenus additionnels
+    details: Monétisez vos colis et emails sortants. Marge nette 65-70%, aucune intégration technique lourde, contrôle total des marques diffusées.
     link: /docs/fr/publishers/
   - icon: 🎯
-    title: Pour les Annonceurs — Acquisition Haute Performance
-    details: "**100% taux d'ouverture** (insertion colis), jusqu'à **10% CTR**, **824% ROAS**. Contournez la saturation Google/Meta. Targeting behavioral ultra-ciblé."
+    title: Annonceurs — 100% d'ouverture, 824% ROAS
+    details: Insertion colis, emailing dédié, social ads. Ciblage comportemental sur audiences acheteurs réels. Contournez la saturation Google et Meta.
     link: /docs/fr/advertisers/
   - icon: 🤝
-    title: Un Seul Contrat, Une Plateforme
-    details: "**+250 retailers** & **300+ annonceurs**. 1 contrat, 1 facturation, paiements garantis. **950+ campagnes** réussies. Tiers de confiance centralisé."
-  - icon: 🌍
-    title: Omnicanal & Eco-Responsable
-    details: "Asile colis, Emailing, Bannières, Social Ads. Studio créatif in-house. Impression **Made in France, Imprim'Vert certifiée**. Clé en main."
+    title: 250+ retailers, 1 contrat, paiements garantis
+    details: Tiers de confiance centralisé. 300+ annonceurs actifs, 950+ campagnes réussies. Une facturation unique, des paiements sécurisés avant diffusion.
+  - icon: 🛠️
+    title: Clé en main — Studio, Tracking, Logistique
+    details: Asile colis, Emailing, Bannières, Social Ads. Studio créatif intégré. Impression Made in France, certifiée Imprim'Vert. Tracking propriétaire QR codes dynamiques.
 ---
