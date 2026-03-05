@@ -45,7 +45,7 @@ La valeur de l'Insertion Colis repose sur l'expérience d'ouverture. Pour garant
 
 Le support publicitaire doit impérativement être déposé **sur les produits**, face visible. Il doit être la première chose que le client voit.
 
-![Bonnes pratiques insertion Insertion Colis](/images/asile-colis-do-dont.webp)
+![Bonnes pratiques insertion Insertion Colis](/handbook/images/asile-colis-do-dont.webp)
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

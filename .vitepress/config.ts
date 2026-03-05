@@ -17,12 +17,8 @@ export default withMermaid(
     vue: {
       template: {
         transformAssetUrls: {
-          // Don't transform img/video/source src as module imports — images
-          // live in publicDir (assets/) and must stay as static URL strings.
-          img: [],
           video: [],
           source: [],
-          image: [],
           use: [],
         },
       },
