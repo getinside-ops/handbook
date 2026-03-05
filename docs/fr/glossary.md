@@ -54,7 +54,7 @@ Définitions des termes techniques et acronymes de la plateforme.
 <hr />
 <h2 id="d">D</h2>
 <dl>
-  <dt>Distributeur (Publisher/Éditeur)</dt>
+  <dt>Distributeur (Publisher/Retailer)</dt>
   <dd>E-commerçant ou Média qui monétise son audience en diffusant les publicités d'annonceurs tiers.</dd>
   <dt>DNVB</dt>
   <dd>Digital Native Vertical Brand. Marque née sur internet vendant en direct.</dd>

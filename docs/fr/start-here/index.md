@@ -88,7 +88,7 @@ title: Découvrir getinside
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Sécurité Financière</strong>
-    <p>Les fonds sont sécurisés avant le lancement. Éditeur et annonceur sont protégés.</p>
+    <p>Les fonds sont sécurisés avant le lancement. Retailer et annonceur sont protégés.</p>
   </div>
   <div class="gi-value-card">
     <strong>⚙️ Tech & Logistique</strong>

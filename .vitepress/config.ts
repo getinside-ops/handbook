@@ -58,7 +58,7 @@ export default withMermaid(
 
       nav: [
         { text: '🛍️ Annonceurs', link: '/docs/fr/advertisers/' },
-        { text: '📦 Éditeurs', link: '/docs/fr/publishers/' },
+        { text: '📦 Retailers', link: '/docs/fr/publishers/' },
         { text: '❓ FAQ', link: '/docs/fr/faq/' },
         {
           text: 'Accéder au SaaS',
@@ -125,7 +125,7 @@ export default withMermaid(
           ],
         },
         {
-          text: '📦 Espace Éditeurs',
+          text: '📦 Espace Retailers',
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/publishers/' },
             { text: '🚀 Démarrage Rapide', link: '/docs/fr/publishers/onboarding-quick-start' },

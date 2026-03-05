@@ -36,7 +36,7 @@ flowchart TD
 Le point commun entre un colis, une newsletter et un post social d'une marque :
 
 - **La Relation Client :** Le consommateur a déjà acheté ou s'est abonné volontairement.
-- **La Crédibilité :** Il fait confiance à l'éditeur (le e-commerçant).
+- **La Crédibilité :** Il fait confiance au retailer (le e-commerçant).
 - **L'Attention :** Il attend ce contenu (suivi de commande, nouveautés).
 
 <div class="gi-accent-box">

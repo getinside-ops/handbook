@@ -6,7 +6,7 @@ title: Gestion des Campagnes
 
 ## Quel est le délai de réponse attendu ?
 
-Vous devez répondre sous **48 heures ouvrées**. La réactivité est la clé pour remporter les campagnes face aux autres éditeurs. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom et d'appliquer une pénalité correspondante aux frais de plateforme prévus.
+Vous devez répondre sous **48 heures ouvrées**. La réactivité est la clé pour remporter les campagnes face aux autres retailers. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom et d'appliquer une pénalité correspondante aux frais de plateforme prévus.
 
 ## Puis-je annuler une campagne déjà acceptée ?
 
@@ -35,7 +35,7 @@ Allez sur la fiche de l'audience concernée et ajoutez un type de campagne. Pour
 
 ## Où voir l'historique de mes campagnes ?
 
-- **Campagnes reçues (Éditeur) :** Monétisation → Gestionnaire de campagne (filtrez par statut : Accepté, Refusé…)
+- **Campagnes reçues (Retailer) :** Monétisation → Gestionnaire de campagne (filtrez par statut : Accepté, Refusé…)
 - **Vos propres campagnes (Annonceur) :** Campagnes → Toutes les campagnes
 
 ## Comment suivre les performances de ma campagne ?

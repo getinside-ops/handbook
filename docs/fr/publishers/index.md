@@ -1,8 +1,8 @@
 ---
-title: Espace Éditeurs
+title: Espace Retailers
 ---
 
-# Espace Éditeurs & E-commerçants
+# Espace Retailers & E-commerçants
 
 <p class="gi-page-intro">Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additionnel.</p>
 

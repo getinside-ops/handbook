@@ -39,7 +39,7 @@ Insérez une bannière publicitaire au sein des communications d'un partenaire. 
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Non intrusif & Brand Safe</strong>
-    <p>Votre marque s'insère dans un contenu que l'abonné attend, dans un environnement fermé cautionné par l'éditeur — à l'opposé du display programmatique open web.</p>
+    <p>Votre marque s'insère dans un contenu que l'abonné attend, dans un environnement fermé cautionné par le retailer — à l'opposé du display programmatique open web.</p>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ Pour ce format, il n'y a **pas de pixel d'ouverture** — seuls les clics sont c
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Brand Safety & Contexte</strong>
-    <p>Votre marque s'affiche dans un environnement fermé, sûr et cautionné par l'éditeur — aucune mauvaise surprise contextuelle contrairement au display programmatique.</p>
+    <p>Votre marque s'affiche dans un environnement fermé, sûr et cautionné par le retailer — aucune mauvaise surprise contextuelle contrairement au display programmatique.</p>
   </div>
   <div class="gi-value-card">
     <strong>📊 Tracking Centralisé</strong>
