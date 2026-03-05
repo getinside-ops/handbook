@@ -11,8 +11,8 @@ keywords:
 
 hero:
   name: "getinside"
-  text: "Revenus additionnels. Clients qualifiés."
-  tagline: "Touchez des acheteurs réels via +250 e-commerçants partenaires. Ou monétisez vos audiences avec 65 à 70% de marge nette. Une plateforme, deux leviers de croissance."
+  text: "Le Retail Media accessible."
+  tagline: "Revenus pour e-commerçants. Audiences exclusives pour annonceurs."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
