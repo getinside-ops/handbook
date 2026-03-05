@@ -18,6 +18,9 @@ hero:
     alt: getinside
   actions:
     - theme: brand
+      text: Démarrer ici
+      link: /start-here/
+    - theme: alt
       text: Espace Annonceurs
       link: /advertisers/
     - theme: alt
