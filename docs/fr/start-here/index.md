@@ -4,11 +4,13 @@ title: Découvrir getinside
 
 # Découvrir le Retail Media
 
-<p class="gi-page-intro">Définition des concepts et opportunités pour votre marque — annonceur ou e-commerçant.</p>
+*Définition des concepts et opportunités pour votre marque — annonceur ou e-commerçant.*
 
 ![gi-keyvisual](/images/gi-keyvisual.svg)
 
 ## Un écosystème double
+
+Le retail media est **la 3e vague de la publicité digitale** après le search (Google Ads) et le social (Facebook, Instagram). Il place l'acheteur au cœur du moment décisionnel — au moment où il fait confiance au retailer.
 
 <div class="gi-format-grid">
   <div class="gi-format-card">
@@ -23,28 +25,31 @@ title: Découvrir getinside
   </div>
 </div>
 
-<div class="gi-accent-box">
-  <strong>🔄 Le Modèle getinside : Monétiser pour Réinvestir</strong>
-  <p>La force de la plateforme réside dans la fluidité entre vos revenus et vos dépenses.</p>
-  <div class="gi-value-grid">
-    <div class="gi-value-card">
-      <strong>1. Gagnez</strong>
-      <p>Monétisez vos colis et emails sortants.</p>
-    </div>
-    <div class="gi-value-card">
-      <strong>2. Financez</strong>
-      <p>Utilisez ce solde (Wallet) sans sortir de trésorerie.</p>
-    </div>
-    <div class="gi-value-card">
-      <strong>3. Croissez</strong>
-      <p>Achetez du trafic qualifié pour votre propre site.</p>
-    </div>
+::: tip 🔄 Le Modèle getinside : Monétiser pour Réinvestir
+
+La force de la plateforme réside dans la fluidité entre vos revenus et vos dépenses.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>1. Gagnez</strong>
+    <p>Monétisez vos colis et emails sortants.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>2. Financez</strong>
+    <p>Utilisez ce solde (Wallet) sans sortir de trésorerie.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>3. Croissez</strong>
+    <p>Achetez du trafic qualifié pour votre propre site.</p>
   </div>
 </div>
 
+:::
+
+
 ## La Valeur Ajoutée de la Plateforme
 
-<p>getinside agit comme un tiers de confiance pour sécuriser et fluidifier les échanges.</p>
+getinside agit comme un tiers de confiance pour sécuriser et fluidifier les échanges. Pour les e-commerçants, la monétisation retail media offre des **marges nettes de 65-70%**, car les coûts fixes sont déjà amortis par l'infrastructure logistique existante.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -63,7 +68,7 @@ title: Découvrir getinside
 
 ## L'Excellence Opérationnelle
 
-<p>La confiance des annonceurs se gagne sur l'<strong>exécution sans faille</strong>.</p>
+La confiance des annonceurs se gagne sur l'**exécution sans faille**. Notre **Score Distributeur** — un système algorithmique évaluant 7 critères clés — détermine votre visibilité dans le moteur de recherche de la plateforme. Une excellente exécution renforce ce score et augmente votre accès aux opportunités.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -80,7 +85,8 @@ title: Découvrir getinside
   </div>
 </div>
 
-<div class="gi-danger-box">
-  <strong>⚠️ Impact direct sur vos revenus</strong>
-  <p>Notre algorithme prend en compte votre fiabilité historique. Des manquements (retards, tracking défaillant) réduisent votre <strong>score de qualité</strong> et vos chances de recevoir de futures campagnes.</p>
-</div>
+::: danger ⚠️ Impact direct sur vos revenus
+
+Notre algorithme prend en compte votre fiabilité historique. Des manquements (retards, tracking défaillant) réduisent votre **score de qualité** et vos chances de recevoir de futures campagnes.
+
+:::

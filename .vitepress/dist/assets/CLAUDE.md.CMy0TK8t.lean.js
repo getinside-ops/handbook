@@ -1,0 +1,1 @@
+import{_ as i,o as s,c as a,a2 as t}from"./chunks/framework.D2pTuMig.js";const u=JSON.parse('{"title":"CLAUDE.md","description":"","frontmatter":{},"headers":[],"relativePath":"CLAUDE.md","filePath":"CLAUDE.md"}'),n={name:"CLAUDE.md"};function o(d,e,r,l,c,h){return s(),a("div",null,[...e[0]||(e[0]=[t("",13)])])}const m=i(n,[["render",o]]);export{u as __pageData,m as default};

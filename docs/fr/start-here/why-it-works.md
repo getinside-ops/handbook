@@ -6,35 +6,18 @@ title: Comment ça fonctionne ?
 
 Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
 
-<div class="gi-ecosystem-flow">
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center; margin-bottom: 1.75rem;">
-    <div style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 0.5rem; padding: 1.25rem; text-align: center;">
-      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">📦</span>
-      <strong style="font-size: 0.9375rem;">L'E-COMMERÇANT</strong>
-      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Envoie ses colis et emails à ses clients.</p>
-    </div>
-    <div style="color: var(--vp-c-divider); font-size: 1.5rem;">→</div>
-    <div style="background: #fbfaff; border: 2px dashed #5B4DFF; border-radius: 0.5rem; padding: 1.25rem; text-align: center;">
-      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">⚡</span>
-      <strong style="font-size: 0.9375rem; color: #5B4DFF;">LA PLATEFORME</strong>
-      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Connecte l'inventaire aux marques partenaires.</p>
-    </div>
-  </div>
+| Acteur | Action | Flux |
+|--------|--------|------|
+| 📦 **E-commerçant** | Envoie ses colis et emails à ses clients | Inventaire disponible |
+| ⚡ **Plateforme** | Connecte l'inventaire aux marques partenaires | Matching contextuel |
+| 📢 **Annonceur** | Achète cet espace pour diffuser son offre | Campagnes distribuées |
+| 💰 **Réinvestissement** | Les revenus financent votre propre acquisition | Croissance auto-alimentée |
 
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center; margin-bottom: 1.75rem;">
-    <div style="background: #ffffff; border: 2px solid #e1e4e8; border-radius: 0.5rem; padding: 1.25rem; text-align: center; order: 2;">
-      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">📢</span>
-      <strong style="font-size: 0.9375rem;">L'ANNONCEUR</strong>
-      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Achète cet espace pour diffuser son offre.</p>
-    </div>
-    <div style="color: var(--vp-c-divider); font-size: 1.5rem; order: 1;">→</div>
-    <div style="background: #f0fdf4; border: 2px solid #4CAF50; border-radius: 0.5rem; padding: 1.25rem; text-align: center; order: 0;">
-      <span style="font-size: 2rem; display: block; margin-bottom: 0.5rem;">💰</span>
-      <strong style="font-size: 0.9375rem; color: #1b5e20;">LE RÉINVESTISSEMENT</strong>
-      <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.5rem 0 0;">Les revenus financent votre propre acquisition.</p>
-    </div>
-  </div>
-</div>
+::: info Le Cycle Vertueux
+
+L'e-commerçant monétise ses colis et emails, reçoit des revenus immédiatement accessibles via son Wallet, puis les réinvestit pour acquérir sa propre audience chez des partenaires complémentaires. Un cycle fermé qui transforme les centres de coûts en moteurs de croissance.
+
+:::
 
 ## Le Transfert de Confiance (Endorsement)
 
@@ -44,139 +27,102 @@ Le point commun entre un colis, une newsletter et un post social d'une marque :
 - **La Crédibilité :** Il fait confiance au retailer (le e-commerçant).
 - **L'Attention :** Il attend ce contenu (suivi de commande, nouveautés).
 
-<div class="gi-accent-box">
-  <strong>L'Effet de Halo</strong>
-  <p style="margin: 0.5rem 0 0;">En vous insérant dans cet écosystème, votre marque bénéficie instantanément de ce capital confiance. Vous n'êtes plus un intrus, vous êtes un <strong>partenaire recommandé</strong>.</p>
-</div>
+::: tip L'Effet de Halo
+
+En vous insérant dans cet écosystème, votre marque bénéficie instantanément de ce capital confiance. Vous n'êtes plus un intrus, vous êtes un **partenaire recommandé**.
+
+Le format **Emailing Dédié** pousse cet effet au maximum : le retailer rédige lui-même le message à la 1ère personne ("Chers clients, voici notre coup de cœur..."), transformant la marque partenaire en extension naturelle de ses recommandations.
+
+:::
 
 ## Pour l'E-commerçant : La logique économique
 
-<div class="gi-accent-box" style="border-color: var(--gi-tint-green-border);">
-  <strong>Le cercle vertueux du Réinvestissement</strong>
-  <p style="color: var(--vp-c-text-2); font-size: 0.9375rem; margin: 0.25rem 0 1rem;">getinside n'est pas seulement une régie, c'est un accélérateur de croissance.</p>
-  <div class="gi-value-grid" style="margin-bottom: 0;">
-    <div class="gi-value-card">
-      <strong>1. Monétisation</strong>
-      <p>Vos colis et emails génèrent du cash grâce aux annonceurs tiers.</p>
-    </div>
-    <div class="gi-value-card">
-      <strong>2. Transfert Instantané</strong>
-      <p>Vos revenus sont disponibles sur votre Wallet. Pas besoin d'attendre un virement bancaire.</p>
-    </div>
-    <div class="gi-value-card">
-      <strong>3. Acquisition</strong>
-      <p>Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
-    </div>
+::: info Le cercle vertueux du Réinvestissement
+
+getinside n'est pas seulement une régie, c'est un accélérateur de croissance. Ces revenus contribuent directement à votre **EBITDA**, avec des **marges nettes de 65-70%** qui reflètent l'efficacité de vos actifs logistiques existants.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>1. Monétisation</strong>
+    <p>Vos colis et emails génèrent du cash grâce aux annonceurs tiers.</p>
   </div>
-  <p style="margin: 1rem 0 0; font-size: 0.875rem; color: var(--vp-c-text-2);"><em>Résultat : Vous financez votre acquisition client... grâce à vos propres colis !</em></p>
+  <div class="gi-value-card">
+    <strong>2. Transfert Instantané</strong>
+    <p>Vos revenus sont disponibles sur votre Wallet. Pas besoin d'attendre un virement bancaire.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>3. Acquisition</strong>
+    <p>Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
+  </div>
 </div>
+
+*Résultat : Vous financez votre acquisition client... grâce à vos propres colis !*
+
+:::
 
 ## 3 Leviers, 1 Écosystème
 
 Ne laissez aucun asset inexploité. getinside valorise vos points de contact physiques et digitaux pour maximiser la couverture.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card" style="display: flex; gap: 1rem; align-items: flex-start;">
-    <span style="font-size: 1.75rem; flex-shrink: 0;">📦</span>
-    <div>
-      <strong>Insertion Colis</strong>
-      <p>Force : <strong>Attention (100%)</strong>. Rôle : Ancrage mémoriel, prise en main physique, conversion.</p>
-    </div>
-  </div>
-  <div class="gi-value-card" style="display: flex; gap: 1rem; align-items: flex-start;">
-    <span style="font-size: 1.75rem; flex-shrink: 0;">📧</span>
-    <div>
-      <strong>Emailing Dédié</strong>
-      <p>Force : <strong>Volume & Réactivité</strong>. Rôle : Trafic immédiat, offre "Flash", ciblage comportemental.</p>
-    </div>
-  </div>
-  <div class="gi-value-card" style="display: flex; gap: 1rem; align-items: flex-start;">
-    <span style="font-size: 1.75rem; flex-shrink: 0;">📱</span>
-    <div>
-      <strong>Social Ads</strong>
-      <p>Force : <strong>Viralité & Data</strong>. Rôle : Notoriété, preuve sociale, recrutement jeune.</p>
-    </div>
-  </div>
-</div>
+| Levier | Force Clé | Rôle Stratégique |
+|--------|-----------|-----------------|
+| 📦 **Insertion Colis** | **100% d'attention** — hyper-concentration du consommateur pendant l'unboxing | Ancrage mémoriel, prise en main physique, conversion maximale |
+| 📧 **Emailing Dédié** | **Volume & Réactivité** | Trafic immédiat, offres "Flash", ciblage comportemental |
+| 📱 **Social Ads** | **Viralité & Data** | Notoriété, preuve sociale, recrutement jeune |
 
 ## L'Expertise getinside : Votre Accélérateur
 
 Le Retail Media est puissant, mais complexe à opérer seul.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🚫 Sans getinside</strong>
-    <ul style="margin: 0.5rem 0 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
-      <li>Négocier avec 50 sites un par un.</li>
-      <li>Gérer 50 factures et contrats.</li>
-      <li>Risque de qualité d'impression.</li>
-      <li>Aucune standardisation des formats.</li>
-      <li>Reporting éparpillé.</li>
-    </ul>
-  </div>
-  <div class="gi-value-card">
-    <strong>✅ Avec getinside</strong>
-    <ul style="margin: 0.5rem 0 0; padding-left: 1.25rem; font-size: 0.875rem; color: var(--vp-c-text-2);">
-      <li>Un interlocuteur unique.</li>
-      <li>Une facture unique centralisée.</li>
-      <li>Processus logistique et RSE certifié.</li>
-      <li>Tracking uniformisé.</li>
-      <li>Conseil stratégique inclus.</li>
-    </ul>
-  </div>
-</div>
+| 🚫 Sans getinside | ✅ Avec getinside |
+|---|---|
+| Négocier avec 50 sites un par un. | Un interlocuteur unique. |
+| Gérer 50 factures et contrats. | Une facture unique centralisée. |
+| Risque de qualité d'impression. | Processus logistique et RSE certifié. |
+| Aucune standardisation des formats. | Tracking uniformisé. |
+| Reporting éparpillé. | Conseil stratégique inclus. |
 
-## Le "Smart Matching" : La pertinence avant tout
+## La Qualité comme Moteur de Croissance
+
+::: warning ⭐ Le Score Distributeur : Votre clé d'accès
+
+Chaque partenaire e-commerçant reçoit un **Score Distributeur** (1-5 étoiles) basé sur **7 critères clés** : respect des délais, qualité de tracking, taux d'erreur, conformité RGPD, taux de réclamations, intégration API et réactivité.
+
+Ce score détermine votre **visibilité dans le moteur de recherche de la plateforme** et votre accès prioritaire aux campagnes premium. Une excellente exécution renforce ce score, crée une confiance durable avec les annonceurs, et ouvre les portes à des opportunités de revenus croissants.
+
+:::
+
+## Le Matching Contextuel : La pertinence avant tout
 
 La puissance de getinside réside dans la **cohérence contextuelle**. Nous proposons des **offres complémentaires** au moment précis où le consommateur en a besoin.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-      <span style="font-size: 1.5rem;">🍷</span>
-      <div>
-        <strong>L'épicurien (Newsletter)</strong>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Achat de fromage affiné.</p>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Une box de vins sélectionnés.</p>
-      </div>
-    </div>
+    <span>🍷 **L'épicurien** (Newsletter)</span>
+    <p>Déclencheur : Achat de fromage affiné.</p>
+    <p>➔ Offre poussée : Une box de vins sélectionnés.</p>
   </div>
   <div class="gi-value-card">
-    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-      <span style="font-size: 1.5rem;">🏃</span>
-      <div>
-        <strong>Le Sportif (Social Ads)</strong>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Follower d'une marque d'équipement running.</p>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Programme de nutrition & récupération.</p>
-      </div>
-    </div>
+    <span>🏃 **Le Sportif** (Social Ads)</span>
+    <p>Déclencheur : Follower d'une marque d'équipement running.</p>
+    <p>➔ Offre poussée : Programme de nutrition & récupération.</p>
   </div>
   <div class="gi-value-card">
-    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-      <span style="font-size: 1.5rem;">👶</span>
-      <div>
-        <strong>Les Jeunes Parents (Insertion Colis)</strong>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Commande de jouets d'éveil.</p>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Vêtements bio pour enfants.</p>
-      </div>
-    </div>
+    <span>👶 **Les Jeunes Parents** (Insertion Colis)</span>
+    <p>Déclencheur : Commande de jouets d'éveil.</p>
+    <p>➔ Offre poussée : Vêtements bio pour enfants.</p>
   </div>
   <div class="gi-value-card">
-    <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-      <span style="font-size: 1.5rem;">🪴</span>
-      <div>
-        <strong>Home Sweet Home (Insertion Colis)</strong>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0.25rem 0;">Déclencheur : Achat de linge de lit en lin.</p>
-        <p style="font-size: 0.8125rem; color: var(--vp-c-brand-1); margin: 0;">➔ Offre poussée : Abonnement fleurs fraîches.</p>
-      </div>
-    </div>
+    <span>🪴 **Home Sweet Home** (Insertion Colis)</span>
+    <p>Déclencheur : Achat de linge de lit en lin.</p>
+    <p>➔ Offre poussée : Abonnement fleurs fraîches.</p>
   </div>
 </div>
 
-<div class="gi-accent-box" style="text-align: center; margin-top: 2.5rem;">
-  <h2 style="margin: 0 0 0.75rem; font-size: 1.375rem; border: none !important; padding: 0 !important;">Prêt à activer votre croissance ?</h2>
-  <p style="max-width: 600px; margin: 0 auto 1.5rem; color: var(--vp-c-text-2);">
-    Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
-  </p>
-  <a href="mailto:studio@getinside.com" class="btn btn-primary">Discuter de mon projet</a>
-</div>
+::: tip Prêt à activer votre croissance ?
+
+Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
+
+[Discuter de mon projet](mailto:studio@getinside.com)
+
+:::
