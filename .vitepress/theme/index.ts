@@ -23,8 +23,8 @@ function updateOpenGraph(page: any) {
   const { title, description, image, frontmatter } = page
   const pageTitle = frontmatter?.title || title || 'getinside Handbook'
   const pageDescription = frontmatter?.description || description || 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.'
-  const pageImage = frontmatter?.image || image || 'https://anthropics.github.io/handbook/images/og-image.png'
-  const pageUrl = `https://anthropics.github.io${page.relativePath.replace(/\.md$/, '').replace(/index$/, '') || '/'}`
+  const pageImage = frontmatter?.image || image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
+  const pageUrl = `https://getinside-ops.github.io${page.relativePath.replace(/\.md$/, '').replace(/index$/, '') || '/'}`
 
   // Mettre à jour OG Title
   let ogTitle = document.querySelector('meta[property="og:title"]')
@@ -76,8 +76,8 @@ function injectSchemaOrg(page: any) {
   const { frontmatter, title } = page
   const pageTitle = frontmatter?.title || title || 'getinside Handbook'
   const pageDescription = frontmatter?.description || 'Guides opérationnels pour retail media'
-  const pageUrl = `https://anthropics.github.io${page.relativePath.replace(/\.md$/, '').replace(/index$/, '') || '/'}`
-  const pageImage = frontmatter?.image || 'https://anthropics.github.io/handbook/images/og-image.png'
+  const pageUrl = `https://getinside-ops.github.io${page.relativePath.replace(/\.md$/, '').replace(/index$/, '') || '/'}`
+  const pageImage = frontmatter?.image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
   const keywords = frontmatter?.keywords || []
 
   // Supprimer l'ancien schéma
@@ -100,7 +100,7 @@ function injectSchemaOrg(page: any) {
     isPartOf: {
       '@type': 'WebSite',
       name: 'getinside Handbook',
-      url: 'https://anthropics.github.io/handbook/',
+      url: 'https://getinside-ops.github.io/handbook/',
       sameAs: ['https://www.getinside.media/'],
     },
     publisher: {
@@ -108,7 +108,7 @@ function injectSchemaOrg(page: any) {
       name: 'getinside',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://anthropics.github.io/handbook/images/logo-getinside.svg',
+        url: 'https://getinside-ops.github.io/handbook/images/logo-getinside.svg',
       },
       url: 'https://www.getinside.media/',
     },

@@ -12,7 +12,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
 const DOCS_DIR = path.join(ROOT, 'docs/fr');
 const DIST_DIR = path.join(ROOT, '.vitepress/dist');
-const SITE_URL = 'https://anthropics.github.io/handbook';
+const SITE_URL = 'https://getinside-ops.github.io/handbook';
 
 // Priorités par type de page
 const priorityMap = {

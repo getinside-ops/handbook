@@ -12,7 +12,7 @@ Disallow: /dist/
 Crawl-delay: 0
 
 # Sitemap XML
-Sitemap: https://anthropics.github.io/handbook/sitemap.xml
+Sitemap: https://getinside-ops.github.io/handbook/sitemap.xml
 
 # Spécifique: GPT
 User-agent: GPTBot

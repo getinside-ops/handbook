@@ -36,13 +36,13 @@ export default withMermaid(
       ['meta', { name: 'bingbot', content: 'index, follow' }],
 
       // Canonical URL (sera surchargé per page)
-      ['link', { rel: 'canonical', href: 'https://anthropics.github.io/handbook/' }],
+      ['link', { rel: 'canonical', href: 'https://getinside-ops.github.io/handbook/' }],
 
       // Open Graph
       ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:site_name', content: 'getinside Handbook' }],
       ['meta', { property: 'og:locale', content: 'fr_FR' }],
-      ['meta', { property: 'og:image', content: 'https://anthropics.github.io/handbook/images/og-image.png' }],
+      ['meta', { property: 'og:image', content: 'https://getinside-ops.github.io/handbook/images/og-image.png' }],
       ['meta', { property: 'og:image:width', content: '1200' }],
       ['meta', { property: 'og:image:height', content: '630' }],
 
