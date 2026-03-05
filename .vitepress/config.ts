@@ -239,7 +239,7 @@ export default withMermaid(
       footer: {
         message:
           'Contact Opérations : <a href="mailto:benoit@getinside.fr">benoit@getinside.fr</a> · Studio : <a href="mailto:studio@getinside.fr">studio@getinside.fr</a>',
-        copyright: '© 2024 getinside. Tous droits réservés.',
+        copyright: '© 2026 getinside. Tous droits réservés.',
       },
 
       editLink: undefined,

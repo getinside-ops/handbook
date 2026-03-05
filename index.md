@@ -11,8 +11,8 @@ keywords:
 
 hero:
   name: "getinside"
-  text: "Retail Media Platform"
-  tagline: "Monétisez vos audiences ou atteignez vos clients via +250 retailers partners. Guides, spécifications techniques et processus."
+  text: "Revenus additionnels. Clients qualifiés."
+  tagline: "Touchez des acheteurs réels via +250 e-commerçants partenaires. Ou monétisez vos audiences avec 65 à 70% de marge nette. Une plateforme, deux leviers de croissance."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -29,19 +29,19 @@ hero:
 
 features:
   - icon: 📦
-    title: Retailers — +2 à 20% de revenus additionnels
-    details: Monétisez vos colis et emails sortants. Marge nette 65-70%, aucune intégration technique lourde, contrôle total des marques diffusées.
+    title: Retailers — Vos colis et emails génèrent de la marge
+    details: Transformez vos coûts d'expédition en revenus récurrents. +2% à +20% de chiffre d'affaires additionnel, marge nette 65-70%, zéro intégration technique lourde.
     link: /docs/fr/publishers/
   - icon: 🎯
-    title: Annonceurs — 100% d'ouverture, 824% ROAS
-    details: Insertion colis, emailing dédié, social ads. Ciblage comportemental sur audiences acheteurs réels. Contournez la saturation Google et Meta.
+    title: Annonceurs — Touchez vos clients là où ils achètent
+    details: Insertion colis, emailing dédié, social ads sur audiences acheteurs réels. 100% de taux d'ouverture, ROAS moyen 824%. Loin de la saturation Google et Meta.
     link: /docs/fr/advertisers/
   - icon: 🤝
-    title: 250+ retailers, 1 contrat, paiements garantis
-    details: Tiers de confiance centralisé. 300+ annonceurs actifs, 950+ campagnes réussies. Une facturation unique, des paiements sécurisés avant diffusion.
+    title: Un réseau. Un contrat. Tout sécurisé.
+    details: 250+ e-commerçants, 300+ annonceurs actifs, 950+ campagnes réussies. Facturation unique, paiements garantis avant diffusion, conformité RGPD incluse.
     link: /docs/fr/publishers/payouts
   - icon: 🛠️
-    title: Clé en main — Studio, Tracking, Logistique
-    details: Asile colis, Emailing, Bannières, Social Ads. Studio créatif intégré. Impression Made in France, certifiée Imprim'Vert. Tracking propriétaire QR codes dynamiques.
+    title: Studio créatif, tracking et logistique intégrés
+    details: Visuels, impression Made in France certifiée Imprim'Vert, routage, QR codes dynamiques. Vous validez — on produit et on diffuse.
     link: /docs/fr/resources/studio
 ---
