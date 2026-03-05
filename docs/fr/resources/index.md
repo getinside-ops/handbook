@@ -7,14 +7,6 @@ title: Ressources
 <p class="gi-page-intro">Accédez aux outils, fichiers, inspirations et guides pour gérer vos opérations en autonomie.</p>
 
 <div class="gi-nav-list">
-  <a href="brand-tone" class="gi-nav-card">
-    <span class="gi-nav-card-icon">✍️</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Charte Graphique & Ton</p>
-      <p class="gi-nav-card-desc">Vocabulaire officiel, ton de marque, formules DO's/DON'Ts et règles d'écriture.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
   <a href="library/" class="gi-nav-card">
     <span class="gi-nav-card-icon">📥</span>
     <div class="gi-nav-card-body">

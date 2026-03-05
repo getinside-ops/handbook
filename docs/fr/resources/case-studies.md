@@ -4,7 +4,7 @@ title: Inspirations & Case Studies
 
 # Inspirations & Case Studies
 
-Découvrez comment d'autres marques utilisent getinside pour atteindre leurs objectifs d'acquisition.
+Découvrez comment d'autres marques et distributeurs utilisent getinside pour atteindre leurs objectifs d'acquisition et de monétisation.
 
 <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer ma campagne</a>
 
@@ -19,19 +19,19 @@ Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
     <span class="gi-format-card-icon">🐱</span>
     <span class="gi-format-card-title">Caats x Les Petits Culottés</span>
     <span class="gi-format-card-desc">Campagne Petfood ciblée auprès d'une audience Parents / Famille.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline" style="margin-top: 1rem;">👁️ Voir le rendu</a>
+    <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🥘</span>
     <span class="gi-format-card-title">HelloFresh x Berceau Magique</span>
     <span class="gi-format-card-desc">Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline" style="margin-top: 1rem;">👁️ Voir le rendu</a>
+    <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🤝</span>
     <span class="gi-format-card-title">Les Petits Frères des Pauvres</span>
     <span class="gi-format-card-desc">Campagne de collecte de fonds diffusée par Mieux que des Fleurs.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline" style="margin-top: 1rem;">👁️ Voir le rendu</a>
+    <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>AVÈNE</h2>
-      <span class="label label-green">Notoriété</span>
+      <Badge type="tip" text="Notoriété" />
     </div>
     <p>Développer la notoriété et générer du trafic.</p>
     <hr />
@@ -69,7 +69,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>NOCIBÉ</h2>
-      <span class="label">Omnicanal</span>
+      <Badge type="info" text="Omnicanal" />
     </div>
     <p>Générer des conversions en ligne et en magasin (Drive-to-Store).</p>
     <hr />
@@ -90,7 +90,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>HELLOFRESH</h2>
-      <span class="label label-yellow">Acquisition</span>
+      <Badge type="warning" text="Acquisition" />
     </div>
     <p>Recruter de nouveaux clients à l'échelle (Scale).</p>
     <hr />
@@ -111,7 +111,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>BAM KARAOKE</h2>
-      <span class="label label-blue">Notoriété</span>
+      <Badge type="info" text="Notoriété" />
     </div>
     <p>Développer la notoriété et faire découvrir son offre B2B/B2C.</p>
     <hr />
@@ -132,7 +132,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>ULTRA PREMIUM</h2>
-      <span class="label label-yellow">Conquête</span>
+      <Badge type="warning" text="Conquête" />
     </div>
     <p>Stratégie de conquête ciblée sur les Familles & CSP+.</p>
     <hr />
@@ -153,7 +153,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>TOTAL WASH</h2>
-      <span class="label label-blue">Drive to App</span>
+      <Badge type="info" text="Drive to App" />
     </div>
     <p>Faire télécharger l'application et acquérir de nouveaux clients.</p>
     <hr />
@@ -174,7 +174,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>NESPRESSO</h2>
-      <span class="label">Trade Marketing</span>
+      <Badge type="info" text="Trade Marketing" />
     </div>
     <p>Développer la collaboration avec les distributeurs (Boulanger).</p>
     <hr />
@@ -195,7 +195,7 @@ Cliquez sur les images pour zoomer.
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>JAPHY</h2>
-      <span class="label label-green">Notoriété</span>
+      <Badge type="tip" text="Notoriété" />
     </div>
     <p>Faire découvrir et tester un nouveau produit (Sampling).</p>
     <hr />
