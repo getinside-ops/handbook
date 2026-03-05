@@ -109,12 +109,13 @@ export default withMermaid(
           ],
         },
         {
-          text: '🛍️ Espace Annonceurs',
+          text: 'Espace Annonceurs',
+          collapsed: false,
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/advertisers/' },
-            { text: '🚀 Démarrage Rapide', link: '/docs/fr/advertisers/onboarding-quick-start' },
+            { text: 'Démarrage Rapide', link: '/docs/fr/advertisers/onboarding-quick-start' },
             {
-              text: '📦 Insertion Colis',
+              text: 'Insertion Colis',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/advertisers/sponsored-mail/' },
@@ -130,7 +131,7 @@ export default withMermaid(
               ],
             },
             {
-              text: '📧 Emailing Dédié',
+              text: 'Emailing Dédié',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/advertisers/dedicated-email/' },
@@ -140,7 +141,7 @@ export default withMermaid(
               ],
             },
             {
-              text: '📩 Display Email',
+              text: 'Display Email',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/advertisers/display-email/' },
@@ -149,22 +150,23 @@ export default withMermaid(
               ],
             },
             {
-              text: '📱 Social Ads',
+              text: 'Social Ads',
               link: '/docs/fr/advertisers/sponsored-social/',
             },
-            { text: '🎁 Jeu Concours', link: '/docs/fr/advertisers/co-branded-contest/' },
+            { text: 'Jeu Concours', link: '/docs/fr/advertisers/co-branded-contest/' },
             { text: 'Service Impression & RSE', link: '/docs/fr/advertisers/printing-services' },
             { text: 'Tarifs Annonceurs', link: '/docs/fr/advertisers/pricing' },
           ],
         },
         {
-          text: '📦 Espace Retailers',
+          text: 'Espace Retailers',
+          collapsed: false,
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/publishers/' },
-            { text: '🚀 Démarrage Rapide', link: '/docs/fr/publishers/onboarding-quick-start' },
+            { text: 'Démarrage Rapide', link: '/docs/fr/publishers/onboarding-quick-start' },
             { text: 'Guide de Démarrage Complet', link: '/docs/fr/publishers/onboarding-process' },
             {
-              text: '📦 Insertion Colis',
+              text: 'Insertion Colis',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/publishers/sponsored-mail/' },
@@ -173,7 +175,7 @@ export default withMermaid(
               ],
             },
             {
-              text: '📧 Emailing Dédié',
+              text: 'Emailing Dédié',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/publishers/dedicated-email/' },
@@ -182,7 +184,7 @@ export default withMermaid(
               ],
             },
             {
-              text: '📩 Display Email',
+              text: 'Display Email',
               collapsed: true,
               items: [
                 { text: 'Présentation', link: '/docs/fr/publishers/display-email/' },
@@ -190,25 +192,32 @@ export default withMermaid(
               ],
             },
             {
-              text: '📱 Social Ads',
+              text: 'Social Ads',
               link: '/docs/fr/publishers/sponsored-social/',
             },
             {
-              text: '🎁 Jeu Concours',
+              text: 'Jeu Concours',
               link: '/docs/fr/publishers/co-branded-contest/',
             },
-            { text: '⭐ Score Distributeur', link: '/docs/fr/publishers/score-distributor' },
-            { text: 'Audiences & Données', link: '/docs/fr/publishers/audience-setup' },
-            { text: 'Paiements & Wallet', link: '/docs/fr/publishers/payouts' },
-            { text: "Programme d'Affiliation", link: '/docs/fr/publishers/affiliation' },
-            { text: 'Offres & Abonnements', link: '/docs/fr/publishers/pricing' },
+            {
+              text: 'Gestion & Revenus',
+              collapsed: false,
+              items: [
+                { text: 'Score Distributeur', link: '/docs/fr/publishers/score-distributor' },
+                { text: 'Audiences & Données', link: '/docs/fr/publishers/audience-setup' },
+                { text: 'Paiements & Wallet', link: '/docs/fr/publishers/payouts' },
+                { text: "Programme d'Affiliation", link: '/docs/fr/publishers/affiliation' },
+                { text: 'Offres & Abonnements', link: '/docs/fr/publishers/pricing' },
+              ],
+            },
           ],
         },
         {
           text: 'FAQ',
+          collapsed: false,
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/faq/' },
-            { text: '🔧 Problèmes Distributeurs', link: '/docs/fr/faq/troubleshooting-distributors' },
+            { text: 'Problèmes Distributeurs', link: '/docs/fr/faq/troubleshooting-distributors' },
             { text: 'Audiences & Compte', link: '/docs/fr/faq/account-audiences' },
             { text: 'Facturation', link: '/docs/fr/faq/billing' },
             { text: 'Gestion de Campagnes', link: '/docs/fr/faq/campaign-management' },
@@ -217,11 +226,12 @@ export default withMermaid(
         },
         {
           text: 'Ressources',
+          collapsed: false,
           items: [
             { text: 'Vue d\'ensemble', link: '/docs/fr/resources/' },
             { text: 'Études de Cas', link: '/docs/fr/resources/case-studies' },
             { text: 'Bibliothèque', link: '/docs/fr/resources/library' },
-            { text: '🎨 Charte Graphique', link: '/docs/fr/resources/brand-tone' },
+            { text: 'Charte Graphique', link: '/docs/fr/resources/brand-tone' },
             { text: 'Studio Créatif', link: '/docs/fr/resources/studio' },
           ],
         },
