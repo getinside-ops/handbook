@@ -1,8 +1,8 @@
 ---
-title: Jeu Concours Co-brandé
+title: Jeu Concours
 ---
 
-# Jeu Concours Co-brandé
+# Jeu Concours
 
 Le dispositif qui combine **notoriété**, **acquisition de leads qualifiés** et **conversion immédiate** — grâce à la caution d'un e-commerçant partenaire.
 

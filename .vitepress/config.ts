@@ -152,7 +152,7 @@ export default withMermaid(
               text: '📱 Social Ads',
               link: '/docs/fr/advertisers/sponsored-social/',
             },
-            { text: '🎁 Jeu Concours Co-brandé', link: '/docs/fr/advertisers/co-branded-contest/' },
+            { text: '🎁 Jeu Concours', link: '/docs/fr/advertisers/co-branded-contest/' },
             { text: 'Service Impression & RSE', link: '/docs/fr/advertisers/printing-services' },
             { text: 'Tarifs Annonceurs', link: '/docs/fr/advertisers/pricing' },
           ],
@@ -191,19 +191,11 @@ export default withMermaid(
             },
             {
               text: '📱 Social Ads',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/publishers/sponsored-social/' },
-                { text: 'Guide', link: '/docs/fr/publishers/sponsored-social/guide' },
-              ],
+              link: '/docs/fr/publishers/sponsored-social/',
             },
             {
               text: '🎁 Jeu Concours',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/publishers/co-branded-contest/' },
-                { text: 'Guide de Setup', link: '/docs/fr/publishers/co-branded-contest/setup-guide' },
-              ],
+              link: '/docs/fr/publishers/co-branded-contest/',
             },
             { text: '⭐ Score Distributeur', link: '/docs/fr/publishers/score-distributor' },
             { text: 'Audiences & Données', link: '/docs/fr/publishers/audience-setup' },
