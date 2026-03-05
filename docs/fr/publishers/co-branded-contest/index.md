@@ -27,11 +27,11 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
 
 ## Le Concept
 
-<div class="gi-accent-box">
-  <p>Vous hébergez une <strong>page de jeu sur votre site</strong> (ou une page dédiée externe).<br />
-  Vous dirigez du trafic dessus via vos canaux habituels (Email, Push, Social).<br />
-  L'Annonceur récupère les leads "Opt-in" à la fin de l'opération.</p>
-</div>
+::: tip
+Vous hébergez une **page de jeu sur votre site** (ou une page dédiée externe).
+Vous dirigez du trafic dessus via vos canaux habituels (Email, Push, Social).
+L'Annonceur récupère les leads "Opt-in" à la fin de l'opération.
+:::
 
 ## Pourquoi passer par getinside ?
 

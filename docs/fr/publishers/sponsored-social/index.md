@@ -14,15 +14,13 @@ Monétisez votre audience sociale (Instagram, TikTok) sans polluer votre ligne �
 
 ## Le principe
 
-<div class="gi-accent-box">
-
+::: tip
 Contrairement à l'influence classique, nous utilisons la **Sponsorisation** :
 
 1. Vous créez et publiez un contenu qualitatif (avec mention "Partenariat rémunéré").
 2. L'annonceur investit son propre budget média pour diffuser **votre post** auprès de milliers de nouvelles personnes.
 3. Vous partagez le lien de publication — getinside transmet à l'annonceur pour lancer l'amplification.
-
-</div>
+:::
 
 ---
 

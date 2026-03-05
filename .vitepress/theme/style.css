@@ -842,22 +842,22 @@
 
 /* Mint blob — top-left */
 .VPHero .image-container::before {
-  width: 360px;
-  height: 360px;
+  width: 280px;
+  height: 280px;
   top: 50%;
   left: 50%;
-  transform: translate(-62%, -58%);
-  background: radial-gradient(circle, rgba(106, 231, 200, 0.40) 0%, transparent 68%);
+  transform: translate(-55%, -55%);
+  background: radial-gradient(circle, rgba(106, 231, 200, 0.50) 0%, transparent 68%);
 }
 
 /* Violet blob — bottom-right */
 .VPHero .image-container::after {
-  width: 300px;
-  height: 300px;
+  width: 240px;
+  height: 240px;
   top: 50%;
   left: 50%;
-  transform: translate(-32%, -38%);
-  background: radial-gradient(circle, rgba(201, 144, 252, 0.32) 0%, transparent 68%);
+  transform: translate(-42%, -42%);
+  background: radial-gradient(circle, rgba(201, 144, 252, 0.40) 0%, transparent 68%);
 }
 
 /* Image sits above the blobs */
@@ -867,9 +867,9 @@
   drop-shadow: 0 8px 32px rgba(106, 231, 200, 0.18);
 }
 
-/* Light mode: subtle drop-shadow */
+/* Light mode: mint glow + subtle yellow accent */
 .VPHero .image-container .VPImage {
-  filter: drop-shadow(0 6px 24px rgba(106, 231, 200, 0.25));
+  filter: drop-shadow(0 0 40px rgba(106, 231, 200, 0.5)) drop-shadow(0 8px 60px rgba(252, 247, 88, 0.2));
 }
 
 /* Dark mode: stronger mint glow + more intense blobs */

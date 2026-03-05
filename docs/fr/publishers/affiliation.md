@@ -47,10 +47,11 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 
 ## Votre Rémunération
 
-<div class="gi-accent-box">
-  <div class="gi-price">20% <span class="gi-price-unit">des frais de plateforme générés par vos filleuls</span></div>
-  <p>Cette commission est créditée sur votre <strong>Wallet</strong> à chaque facture payée par le filleul. Elle s'applique aux filleuls Distributeurs comme Annonceurs.</p>
-</div>
+::: tip
+<div class="gi-price">20% <span class="gi-price-unit">des frais de plateforme générés par vos filleuls</span></div>
+
+Cette commission est créditée sur votre **Wallet** à chaque facture payée par le filleul. Elle s'applique aux filleuls Distributeurs comme Annonceurs.
+:::
 
 :::tip Revenus récurrents
 La commission est versée à chaque renouvellement ou paiement de votre filleul — tant qu'il reste actif sur la plateforme.

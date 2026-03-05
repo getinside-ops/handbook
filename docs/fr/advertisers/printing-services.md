@@ -10,25 +10,25 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
 
 ## Une qualité certifiée
 
-<div class="gi-accent-box">
-  <div class="gi-cert-row">
-    <div class="gi-cert-item">
-      <span class="gi-cert-icon">🇫🇷</span>
-      <strong>Made in France</strong>
-      <span>100% de la production en ateliers français.</span>
-    </div>
-    <div class="gi-cert-item">
-      <span class="gi-cert-icon">🌱</span>
-      <strong>Éco-responsabilité</strong>
-      <span>Certification Imprim'Vert · Encres végétales · Papier FSC et PEFC.</span>
-    </div>
-    <div class="gi-cert-item">
-      <span class="gi-cert-icon">✅</span>
-      <strong>Normes ISO</strong>
-      <span>ISO 9001 (Qualité) et ISO 14001 (Environnement).</span>
-    </div>
+::: tip
+<div class="gi-cert-row">
+  <div class="gi-cert-item">
+    <span class="gi-cert-icon">🇫🇷</span>
+    <strong>Made in France</strong>
+    <span>100% de la production en ateliers français.</span>
+  </div>
+  <div class="gi-cert-item">
+    <span class="gi-cert-icon">🌱</span>
+    <strong>Éco-responsabilité</strong>
+    <span>Certification Imprim'Vert · Encres végétales · Papier FSC et PEFC.</span>
+  </div>
+  <div class="gi-cert-item">
+    <span class="gi-cert-icon">✅</span>
+    <strong>Normes ISO</strong>
+    <span>ISO 9001 (Qualité) et ISO 14001 (Environnement).</span>
   </div>
 </div>
+:::
 
 ---
 

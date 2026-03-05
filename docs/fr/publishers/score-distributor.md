@@ -4,7 +4,7 @@ title: Score Distributeur
 
 # Score Distributeur
 
-<p class="gi-page-intro">Votre Score Distributeur détermine votre visibilité auprès des annonceurs — et donc le volume de campagnes que vous recevez. Comprenez-le pour maximiser vos revenus.</p>
+Votre Score Distributeur détermine votre visibilité auprès des annonceurs — et donc le volume de campagnes que vous recevez. Comprenez-le pour maximiser vos revenus.
 
 ## C'est quoi le Score Distributeur ?
 
@@ -12,9 +12,9 @@ Le Score Distributeur est une **note sur 5 étoiles** qui évalue la qualité et
 
 Il est recalculé **dynamiquement** en temps réel et **détermine votre classement dans le moteur de recherche** que les annonceurs utilisent pour choisir leurs distributeurs.
 
-<div class="gi-accent-box">
-  <p style="margin: 0;">Un score élevé = plus de visibilité = plus de propositions de campagnes = plus de revenus.</p>
-</div>
+::: tip
+Un score élevé = plus de visibilité = plus de propositions de campagnes = plus de revenus.
+:::
 
 ## Impact selon votre score
 

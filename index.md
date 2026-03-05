@@ -39,7 +39,9 @@ features:
   - icon: 🤝
     title: 250+ retailers, 1 contrat, paiements garantis
     details: Tiers de confiance centralisé. 300+ annonceurs actifs, 950+ campagnes réussies. Une facturation unique, des paiements sécurisés avant diffusion.
+    link: /docs/fr/publishers/payouts
   - icon: 🛠️
     title: Clé en main — Studio, Tracking, Logistique
     details: Asile colis, Emailing, Bannières, Social Ads. Studio créatif intégré. Impression Made in France, certifiée Imprim'Vert. Tracking propriétaire QR codes dynamiques.
+    link: /docs/fr/resources/studio
 ---

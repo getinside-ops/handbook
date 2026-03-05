@@ -4,11 +4,11 @@ title: Démarrage Rapide — Distributeurs
 
 # Démarrage Rapide — Distributeurs
 
-<p class="gi-page-intro">Vous venez de rejoindre getinside. En 3 étapes (10 minutes), votre profil est prêt à recevoir vos premières campagnes.</p>
+Vous venez de rejoindre getinside. En 3 étapes (10 minutes), votre profil est prêt à recevoir vos premières campagnes.
 
-<div class="gi-accent-box">
-  <strong>Ce guide est pour vous si :</strong> vous avez reçu l'email d'invitation getinside et souhaitez démarrer rapidement.
-</div>
+::: tip
+**Ce guide est pour vous si :** vous avez reçu l'email d'invitation getinside et souhaitez démarrer rapidement.
+:::
 
 ---
 

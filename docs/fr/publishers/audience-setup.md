@@ -14,10 +14,9 @@ C'est la première chose que l'annonceur voit. Soignez la présentation pour dé
 - **Engagements RSE :** Cochez les cases (Made in France, Colis réutilisables...) uniquement si vous pouvez le prouver.
 - **Visuels :** Uploadez un logo et une bannière qui représentent votre univers.
 
-<div class="gi-accent-box">
-  <strong>💡 Le conseil de l'équipe</strong>
-  <p style="margin: 0.5rem 0 0;">Dans le champ <strong>"Persona"</strong>, soyez descriptif : <em>"Jardinier amateur ou expert cherchant des produits durables pour entretenir son potager."</em> Cela aide les annonceurs à mieux comprendre qui sont vos clients.</p>
-</div>
+::: tip 💡 Le conseil de l'équipe
+Dans le champ **"Persona"**, soyez descriptif : *"Jardinier amateur ou expert cherchant des produits durables pour entretenir son potager."* Cela aide les annonceurs à mieux comprendre qui sont vos clients.
+:::
 
 ## 2. Les Données Démographiques (Data)
 

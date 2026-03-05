@@ -8,22 +8,21 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
 
 ## Suivi du P&L (Wallet)
 
-<div class="gi-accent-box">
-  <p>Vos revenus sont visibles en temps réel sur la plateforme.</p>
-  <p>Consultez à tout moment votre <strong>Solde Disponible</strong> = <em>(Revenus validés) - (Retraits effectués)</em>.</p>
-</div>
+::: tip
+Vos revenus sont visibles en temps réel sur la plateforme.
+
+Consultez à tout moment votre **Solde Disponible** = *(Revenus validés) - (Retraits effectués)*.
+:::
 
 ### Quand mes revenus deviennent disponibles ?
 
-<div class="gi-info-box">
-
+::: info
 **📅 Timeline de validation**
 
 1. **Campagne distribuée :** Le jour où vous confirmez la distribution (lot expédié, volumes déclarés).
 2. **Délai de protection (30 jours) :** Votre revenu reste en *attente* pendant 30 jours → permet de détecter les anomalies (cartons perdus, campagne interrompue).
 3. **✅ Revenu validé :** Après 30 jours sans incident, le montant passe en *Solde Disponible* et peut être retiré.
-
-</div>
+:::
 
 ::: tip Cas normal (pas de problème)
 J1 : Distribution confirmée → J31 : Revenu devient disponible → Vous pouvez retirer.
@@ -87,14 +86,12 @@ Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part*
   </div>
 </div>
 
-<div class="gi-info-box">
-
+::: info
 **💡 Pourquoi cette politique ?**
 
 1. **Réduction de l'Admin :** Limiter le volume de petits virements nous permet de maintenir des coûts de plateforme bas.
 2. **Sécurité (Buffer) :** Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.
-
-</div>
+:::
 
 ## ⚠️ Règle d'expiration des fonds
 

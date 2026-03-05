@@ -111,22 +111,22 @@ La puissance de getinside réside dans la **cohérence contextuelle**. Nous prop
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <span>🍷 **L'épicurien** (Newsletter)</span>
+    <span>🍷 <strong>L'épicurien</strong> (Newsletter)</span>
     <p>Déclencheur : Achat de fromage affiné.</p>
     <p>➔ Offre poussée : Une box de vins sélectionnés.</p>
   </div>
   <div class="gi-value-card">
-    <span>🏃 **Le Sportif** (Social Ads)</span>
+    <span>🏃 <strong>Le Sportif</strong> (Social Ads)</span>
     <p>Déclencheur : Follower d'une marque d'équipement running.</p>
     <p>➔ Offre poussée : Programme de nutrition & récupération.</p>
   </div>
   <div class="gi-value-card">
-    <span>👶 **Les Jeunes Parents** (Insertion Colis)</span>
+    <span>👶 <strong>Les Jeunes Parents</strong> (Insertion Colis)</span>
     <p>Déclencheur : Commande de jouets d'éveil.</p>
     <p>➔ Offre poussée : Vêtements bio pour enfants.</p>
   </div>
   <div class="gi-value-card">
-    <span>🪴 **Home Sweet Home** (Insertion Colis)</span>
+    <span>🪴 <strong>Home Sweet Home</strong> (Insertion Colis)</span>
     <p>Déclencheur : Achat de linge de lit en lin.</p>
     <p>➔ Offre poussée : Abonnement fleurs fraîches.</p>
   </div>

@@ -22,16 +22,14 @@ getinside est une plateforme en libre-service. Accès gratuit, modèle transpare
 
 ## Frais de Plateforme
 
-<div class="gi-accent-box">
-
+::: tip
 <div class="gi-price">12% <span class="gi-price-unit">du budget média investi</span></div>
 
 - ✅ **Pas d'abonnement** — L'accès à la plateforme est gratuit.
 - ✅ **Pas de budget minimum** — Testez avec de petits montants.
 - ✅ **Accès illimité** à l'inventaire de +250 audiences exclusives.
 - ✅ **Facture unique et centralisée** — quel que soit le nombre d'audiences achetées.
-
-</div>
+:::
 
 :::info Quand est générée la facture ?
 La facturation est déclenchée dès que vous validez définitivement le **Bon de Commande** sur la plateforme. Aucune facturation avant votre validation.
