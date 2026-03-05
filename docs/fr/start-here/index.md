@@ -6,6 +6,8 @@ title: Découvrir getinside
 
 <p class="gi-page-intro">Définition des concepts et opportunités pour votre marque — annonceur ou e-commerçant.</p>
 
+![gi-keyvisual](/images/gi-keyvisual.svg)
+
 ## Un écosystème double
 
 <div class="gi-format-grid">
@@ -38,43 +40,6 @@ title: Découvrir getinside
       <p>Achetez du trafic qualifié pour votre propre site.</p>
     </div>
   </div>
-</div>
-
-## Un écosystème complet
-
-<div class="gi-nav-list">
-  <a href="../advertisers/sponsored-mail" class="gi-nav-card">
-    <span class="gi-nav-card-icon">📦</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">L'Insertion Colis (Physique)</p>
-      <p class="gi-nav-card-desc">Glissez un flyer dans le colis. <strong>L'atout :</strong> 100% de taux d'ouverture et prise en main physique.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-  <a href="../advertisers/dedicated-email" class="gi-nav-card">
-    <span class="gi-nav-card-icon">📧</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">L'Emailing (Digital)</p>
-      <p class="gi-nav-card-desc">Une marque partenaire recommande vos produits à sa base. <strong>L'atout :</strong> Puissance de l'endorsement et du volume.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-  <a href="../advertisers/sponsored-social" class="gi-nav-card">
-    <span class="gi-nav-card-icon">📱</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Social Ads (Influence)</p>
-      <p class="gi-nav-card-desc">Diffusez via les comptes sociaux (Insta/TikTok) des retailers. <strong>L'atout :</strong> Crédibilité de la marque hôte.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-  <a href="../advertisers/co-branded-contest" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🎁</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Jeu Concours (Lead Gen)</p>
-      <p class="gi-nav-card-desc">Collectez des emails qualifiés via une mécanique ludique. <strong>L'atout :</strong> Enrichissement rapide de votre base CRM.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
 </div>
 
 ## La Valeur Ajoutée de la Plateforme
