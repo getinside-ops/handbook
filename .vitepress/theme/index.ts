@@ -62,6 +62,20 @@ function updateOpenGraph(page: any) {
   }
   canonical.setAttribute('href', pageUrl)
 
+  // Hreflang alternate links
+  const isEnglish = page.relativePath.startsWith('docs/en/')
+  const toPath = (p: string) =>
+    `https://getinside-ops.github.io/handbook/${p.replace(/\.md$/, '').replace(/\/index$/, '/')}`
+  const frRelative = page.relativePath.replace(/^docs\/en\//, 'docs/fr/')
+  const enRelative = page.relativePath.replace(/^docs\/fr\//, 'docs/en/')
+
+  setHreflang('fr', toPath(frRelative))
+  setHreflang('en', toPath(enRelative))
+  setHreflang('x-default', toPath(frRelative))
+
+  // Update <html lang> attribute
+  document.documentElement.lang = isEnglish ? 'en' : 'fr'
+
   // Mettre à jour la description meta
   let metaDesc = document.querySelector('meta[name="description"]')
   if (!metaDesc) {
@@ -70,6 +84,17 @@ function updateOpenGraph(page: any) {
     document.head.appendChild(metaDesc)
   }
   metaDesc.setAttribute('content', pageDescription)
+}
+
+function setHreflang(lang: string, href: string) {
+  let link = document.querySelector(`link[rel="alternate"][hreflang="${lang}"]`)
+  if (!link) {
+    link = document.createElement('link')
+    link.setAttribute('rel', 'alternate')
+    link.setAttribute('hreflang', lang)
+    document.head.appendChild(link)
+  }
+  link.setAttribute('href', href)
 }
 
 function injectSchemaOrg(page: any) {

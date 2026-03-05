@@ -94,149 +94,295 @@ export default withMermaid(
         { text: '📦 Retailers', link: '/docs/fr/publishers/' },
         { text: '❓ FAQ', link: '/docs/fr/faq/' },
         {
+          text: 'FR | EN',
+          items: [
+            { text: 'Français', link: '/docs/fr/' },
+            { text: 'English', link: '/docs/en/' },
+          ],
+        },
+        {
           text: 'Accéder au SaaS',
           link: 'https://app.getinside.media/',
           target: '_blank',
         },
       ],
 
-      sidebar: [
-        {
-          text: 'Découvrir getinside',
-          items: [
-            { text: 'Introduction', link: '/docs/fr/start-here/' },
-            { text: 'Pourquoi ça marche ?', link: '/docs/fr/start-here/why-it-works' },
-          ],
-        },
-        {
-          text: 'Espace Annonceurs',
-          collapsed: false,
-          items: [
-            { text: 'Vue d\'ensemble', link: '/docs/fr/advertisers/' },
-            { text: 'Démarrage Rapide', link: '/docs/fr/advertisers/onboarding-quick-start' },
-            {
-              text: 'Insertion Colis',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/advertisers/sponsored-mail/' },
-                {
-                  text: 'Guide Design',
-                  collapsed: true,
-                  items: [
-                    { text: 'Introduction', link: '/docs/fr/advertisers/sponsored-mail/design-guide/' },
-                    { text: 'Spécifications techniques', link: '/docs/fr/advertisers/sponsored-mail/design-guide/print-specs' },
-                    { text: 'Mentions légales', link: '/docs/fr/advertisers/sponsored-mail/design-guide/legal' },
-                  ],
-                },
-              ],
-            },
-            {
-              text: 'Emailing Dédié',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/advertisers/dedicated-email/' },
-                { text: 'Brief Annonceur', link: '/docs/fr/advertisers/dedicated-email/1-brief-annonceur' },
-                { text: 'Création Distributeur', link: '/docs/fr/advertisers/dedicated-email/2-creation-distributeur' },
-                { text: 'Validation & Diffusion', link: '/docs/fr/advertisers/dedicated-email/3-validation-diffusion' },
-              ],
-            },
-            {
-              text: 'Display Email',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/advertisers/display-email/' },
-                { text: 'Spécifications', link: '/docs/fr/advertisers/display-email/specs' },
-                { text: 'Workflow', link: '/docs/fr/advertisers/display-email/workflow' },
-              ],
-            },
-            {
-              text: 'Social Ads',
-              link: '/docs/fr/advertisers/sponsored-social/',
-            },
-            { text: 'Jeu Concours', link: '/docs/fr/advertisers/co-branded-contest/' },
-            { text: 'Service Impression & RSE', link: '/docs/fr/advertisers/printing-services' },
-            { text: 'Tarifs Annonceurs', link: '/docs/fr/advertisers/pricing' },
-          ],
-        },
-        {
-          text: 'Espace Retailers',
-          collapsed: false,
-          items: [
-            { text: 'Vue d\'ensemble', link: '/docs/fr/publishers/' },
-            { text: 'Démarrage Rapide', link: '/docs/fr/publishers/onboarding-quick-start' },
-            { text: 'Guide de Démarrage Complet', link: '/docs/fr/publishers/onboarding-process' },
-            {
-              text: 'Insertion Colis',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/publishers/sponsored-mail/' },
-                { text: 'Logistique', link: '/docs/fr/publishers/sponsored-mail/logistics' },
-                { text: 'Reporting', link: '/docs/fr/publishers/sponsored-mail/reporting' },
-              ],
-            },
-            {
-              text: 'Emailing Dédié',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/publishers/dedicated-email/' },
-                { text: 'Design', link: '/docs/fr/publishers/dedicated-email/1-design' },
-                { text: 'Tracking & Envoi', link: '/docs/fr/publishers/dedicated-email/2-tracking-sending' },
-              ],
-            },
-            {
-              text: 'Display Email',
-              collapsed: true,
-              items: [
-                { text: 'Présentation', link: '/docs/fr/publishers/display-email/' },
-                { text: 'Intégration', link: '/docs/fr/publishers/display-email/integration' },
-              ],
-            },
-            {
-              text: 'Social Ads',
-              link: '/docs/fr/publishers/sponsored-social/',
-            },
-            {
-              text: 'Jeu Concours',
-              link: '/docs/fr/publishers/co-branded-contest/',
-            },
-            {
-              text: 'Gestion & Revenus',
-              collapsed: false,
-              items: [
-                { text: 'Score Distributeur', link: '/docs/fr/publishers/score-distributor' },
-                { text: 'Audiences & Données', link: '/docs/fr/publishers/audience-setup' },
-                { text: 'Paiements & Wallet', link: '/docs/fr/publishers/payouts' },
-                { text: "Programme d'Affiliation", link: '/docs/fr/publishers/affiliation' },
-                { text: 'Offres & Abonnements', link: '/docs/fr/publishers/pricing' },
-              ],
-            },
-          ],
-        },
-        {
-          text: 'FAQ',
-          collapsed: false,
-          items: [
-            { text: 'Vue d\'ensemble', link: '/docs/fr/faq/' },
-            { text: 'Problèmes Distributeurs', link: '/docs/fr/faq/troubleshooting-distributors' },
-            { text: 'Audiences & Compte', link: '/docs/fr/faq/account-audiences' },
-            { text: 'Facturation', link: '/docs/fr/faq/billing' },
-            { text: 'Gestion de Campagnes', link: '/docs/fr/faq/campaign-management' },
-            { text: 'Logistique & Tech', link: '/docs/fr/faq/logistics-tech' },
-          ],
-        },
-        {
-          text: 'Ressources',
-          collapsed: false,
-          items: [
-            { text: 'Vue d\'ensemble', link: '/docs/fr/resources/' },
-            { text: 'Études de Cas', link: '/docs/fr/resources/case-studies' },
-            { text: 'Bibliothèque', link: '/docs/fr/resources/library' },
-            { text: 'Charte Graphique', link: '/docs/fr/resources/brand-tone' },
-            { text: 'Studio Créatif', link: '/docs/fr/resources/studio' },
-          ],
-        },
-        { text: 'Glossaire', link: '/docs/fr/glossary' },
-      ],
+      sidebar: {
+        '/docs/fr/': [
+          {
+            text: 'Découvrir getinside',
+            items: [
+              { text: 'Introduction', link: '/docs/fr/start-here/' },
+              { text: 'Pourquoi ça marche ?', link: '/docs/fr/start-here/why-it-works' },
+            ],
+          },
+          {
+            text: 'Espace Annonceurs',
+            collapsed: false,
+            items: [
+              { text: 'Vue d\'ensemble', link: '/docs/fr/advertisers/' },
+              { text: 'Démarrage Rapide', link: '/docs/fr/advertisers/onboarding-quick-start' },
+              {
+                text: 'Insertion Colis',
+                collapsed: true,
+                items: [
+                  { text: 'Présentation', link: '/docs/fr/advertisers/sponsored-mail/' },
+                  {
+                    text: 'Guide Design',
+                    collapsed: true,
+                    items: [
+                      { text: 'Introduction', link: '/docs/fr/advertisers/sponsored-mail/design-guide/' },
+                      { text: 'Spécifications techniques', link: '/docs/fr/advertisers/sponsored-mail/design-guide/print-specs' },
+                      { text: 'Mentions légales', link: '/docs/fr/advertisers/sponsored-mail/design-guide/legal' },
+                    ],
+                  },
+                ],
+              },
+              {
+                text: 'Emailing Dédié',
+                collapsed: true,
+                items: [
+                  { text: 'Présentation', link: '/docs/fr/advertisers/dedicated-email/' },
+                  { text: 'Brief Annonceur', link: '/docs/fr/advertisers/dedicated-email/1-brief-annonceur' },
+                  { text: 'Création Distributeur', link: '/docs/fr/advertisers/dedicated-email/2-creation-distributeur' },
+                  { text: 'Validation & Diffusion', link: '/docs/fr/advertisers/dedicated-email/3-validation-diffusion' },
+                ],
+              },
+              {
+                text: 'Display Email',
+                collapsed: true,
+                items: [
+                  { text: 'Présentation', link: '/docs/fr/advertisers/display-email/' },
+                  { text: 'Spécifications', link: '/docs/fr/advertisers/display-email/specs' },
+                  { text: 'Workflow', link: '/docs/fr/advertisers/display-email/workflow' },
+                ],
+              },
+              {
+                text: 'Social Ads',
+                link: '/docs/fr/advertisers/sponsored-social/',
+              },
+              { text: 'Jeu Concours', link: '/docs/fr/advertisers/co-branded-contest/' },
+              { text: 'Service Impression & RSE', link: '/docs/fr/advertisers/printing-services' },
+              { text: 'Tarifs Annonceurs', link: '/docs/fr/advertisers/pricing' },
+            ],
+          },
+          {
+            text: 'Espace Retailers',
+            collapsed: false,
+            items: [
+              { text: 'Vue d\'ensemble', link: '/docs/fr/publishers/' },
+              { text: 'Démarrage Rapide', link: '/docs/fr/publishers/onboarding-quick-start' },
+              { text: 'Guide de Démarrage Complet', link: '/docs/fr/publishers/onboarding-process' },
+              {
+                text: 'Insertion Colis',
+                collapsed: true,
+                items: [
+                  { text: 'Présentation', link: '/docs/fr/publishers/sponsored-mail/' },
+                  { text: 'Logistique', link: '/docs/fr/publishers/sponsored-mail/logistics' },
+                  { text: 'Reporting', link: '/docs/fr/publishers/sponsored-mail/reporting' },
+                ],
+              },
+              {
+                text: 'Emailing Dédié',
+                collapsed: true,
+                items: [
+                  { text: 'Présentation', link: '/docs/fr/publishers/dedicated-email/' },
+                  { text: 'Design', link: '/docs/fr/publishers/dedicated-email/1-design' },
+                  { text: 'Tracking & Envoi', link: '/docs/fr/publishers/dedicated-email/2-tracking-sending' },
+                ],
+              },
+              {
+                text: 'Display Email',
+                collapsed: true,
+                items: [
+                  { text: 'Présentation', link: '/docs/fr/publishers/display-email/' },
+                  { text: 'Intégration', link: '/docs/fr/publishers/display-email/integration' },
+                ],
+              },
+              {
+                text: 'Social Ads',
+                link: '/docs/fr/publishers/sponsored-social/',
+              },
+              {
+                text: 'Jeu Concours',
+                link: '/docs/fr/publishers/co-branded-contest/',
+              },
+              {
+                text: 'Gestion & Revenus',
+                collapsed: false,
+                items: [
+                  { text: 'Score Distributeur', link: '/docs/fr/publishers/score-distributor' },
+                  { text: 'Audiences & Données', link: '/docs/fr/publishers/audience-setup' },
+                  { text: 'Paiements & Wallet', link: '/docs/fr/publishers/payouts' },
+                  { text: "Programme d'Affiliation", link: '/docs/fr/publishers/affiliation' },
+                  { text: 'Offres & Abonnements', link: '/docs/fr/publishers/pricing' },
+                ],
+              },
+            ],
+          },
+          {
+            text: 'FAQ',
+            collapsed: false,
+            items: [
+              { text: 'Vue d\'ensemble', link: '/docs/fr/faq/' },
+              { text: 'Problèmes Distributeurs', link: '/docs/fr/faq/troubleshooting-distributors' },
+              { text: 'Audiences & Compte', link: '/docs/fr/faq/account-audiences' },
+              { text: 'Facturation', link: '/docs/fr/faq/billing' },
+              { text: 'Gestion de Campagnes', link: '/docs/fr/faq/campaign-management' },
+              { text: 'Logistique & Tech', link: '/docs/fr/faq/logistics-tech' },
+            ],
+          },
+          {
+            text: 'Ressources',
+            collapsed: false,
+            items: [
+              { text: 'Vue d\'ensemble', link: '/docs/fr/resources/' },
+              { text: 'Études de Cas', link: '/docs/fr/resources/case-studies' },
+              { text: 'Bibliothèque', link: '/docs/fr/resources/library' },
+              { text: 'Charte Graphique', link: '/docs/fr/resources/brand-tone' },
+              { text: 'Studio Créatif', link: '/docs/fr/resources/studio' },
+            ],
+          },
+          { text: 'Glossaire', link: '/docs/fr/glossary' },
+        ],
+        '/docs/en/': [
+          {
+            text: 'Discover getinside',
+            items: [
+              { text: 'Introduction', link: '/docs/en/start-here/' },
+              { text: 'Why It Works', link: '/docs/en/start-here/why-it-works' },
+            ],
+          },
+          {
+            text: 'Advertisers',
+            collapsed: false,
+            items: [
+              { text: 'Overview', link: '/docs/en/advertisers/' },
+              { text: 'Quick Start', link: '/docs/en/advertisers/onboarding-quick-start' },
+              {
+                text: 'Parcel Inserts',
+                collapsed: true,
+                items: [
+                  { text: 'Presentation', link: '/docs/en/advertisers/sponsored-mail/' },
+                  {
+                    text: 'Design Guide',
+                    collapsed: true,
+                    items: [
+                      { text: 'Introduction', link: '/docs/en/advertisers/sponsored-mail/design-guide/' },
+                      { text: 'Print Specs', link: '/docs/en/advertisers/sponsored-mail/design-guide/print-specs' },
+                      { text: 'Legal', link: '/docs/en/advertisers/sponsored-mail/design-guide/legal' },
+                    ],
+                  },
+                ],
+              },
+              {
+                text: 'Dedicated Email',
+                collapsed: true,
+                items: [
+                  { text: 'Overview', link: '/docs/en/advertisers/dedicated-email/' },
+                  { text: 'Advertiser Brief', link: '/docs/en/advertisers/dedicated-email/1-brief-annonceur' },
+                  { text: 'Retailer Creation', link: '/docs/en/advertisers/dedicated-email/2-creation-distributeur' },
+                  { text: 'Validation & Delivery', link: '/docs/en/advertisers/dedicated-email/3-validation-diffusion' },
+                ],
+              },
+              {
+                text: 'Display Email',
+                collapsed: true,
+                items: [
+                  { text: 'Overview', link: '/docs/en/advertisers/display-email/' },
+                  { text: 'Specs', link: '/docs/en/advertisers/display-email/specs' },
+                  { text: 'Workflow', link: '/docs/en/advertisers/display-email/workflow' },
+                ],
+              },
+              {
+                text: 'Social Ads',
+                link: '/docs/en/advertisers/sponsored-social/',
+              },
+              { text: 'Co-branded Contest', link: '/docs/en/advertisers/co-branded-contest/' },
+              { text: 'Printing & CSR Services', link: '/docs/en/advertisers/printing-services' },
+              { text: 'Advertiser Pricing', link: '/docs/en/advertisers/pricing' },
+            ],
+          },
+          {
+            text: 'Retailers',
+            collapsed: false,
+            items: [
+              { text: 'Overview', link: '/docs/en/publishers/' },
+              { text: 'Quick Start', link: '/docs/en/publishers/onboarding-quick-start' },
+              { text: 'Full Onboarding Guide', link: '/docs/en/publishers/onboarding-process' },
+              {
+                text: 'Parcel Inserts',
+                collapsed: true,
+                items: [
+                  { text: 'Overview', link: '/docs/en/publishers/sponsored-mail/' },
+                  { text: 'Logistics', link: '/docs/en/publishers/sponsored-mail/logistics' },
+                  { text: 'Reporting', link: '/docs/en/publishers/sponsored-mail/reporting' },
+                ],
+              },
+              {
+                text: 'Dedicated Email',
+                collapsed: true,
+                items: [
+                  { text: 'Overview', link: '/docs/en/publishers/dedicated-email/' },
+                  { text: 'Design', link: '/docs/en/publishers/dedicated-email/1-design' },
+                  { text: 'Tracking & Sending', link: '/docs/en/publishers/dedicated-email/2-tracking-sending' },
+                ],
+              },
+              {
+                text: 'Display Email',
+                collapsed: true,
+                items: [
+                  { text: 'Overview', link: '/docs/en/publishers/display-email/' },
+                  { text: 'Integration', link: '/docs/en/publishers/display-email/integration' },
+                ],
+              },
+              {
+                text: 'Social Ads',
+                link: '/docs/en/publishers/sponsored-social/',
+              },
+              {
+                text: 'Co-branded Contest',
+                link: '/docs/en/publishers/co-branded-contest/',
+              },
+              {
+                text: 'Management & Revenue',
+                collapsed: false,
+                items: [
+                  { text: 'Retailer Score', link: '/docs/en/publishers/score-distributor' },
+                  { text: 'Audiences & Data', link: '/docs/en/publishers/audience-setup' },
+                  { text: 'Payments & Wallet', link: '/docs/en/publishers/payouts' },
+                  { text: 'Affiliation Program', link: '/docs/en/publishers/affiliation' },
+                  { text: 'Offers & Subscriptions', link: '/docs/en/publishers/pricing' },
+                ],
+              },
+            ],
+          },
+          {
+            text: 'FAQ',
+            collapsed: false,
+            items: [
+              { text: 'Overview', link: '/docs/en/faq/' },
+              { text: 'Retailer Issues', link: '/docs/en/faq/troubleshooting-distributors' },
+              { text: 'Audiences & Account', link: '/docs/en/faq/account-audiences' },
+              { text: 'Billing', link: '/docs/en/faq/billing' },
+              { text: 'Campaign Management', link: '/docs/en/faq/campaign-management' },
+              { text: 'Logistics & Tech', link: '/docs/en/faq/logistics-tech' },
+            ],
+          },
+          {
+            text: 'Resources',
+            collapsed: false,
+            items: [
+              { text: 'Overview', link: '/docs/en/resources/' },
+              { text: 'Case Studies', link: '/docs/en/resources/case-studies' },
+              { text: 'Library', link: '/docs/en/resources/library' },
+              { text: 'Brand Guidelines', link: '/docs/en/resources/brand-tone' },
+              { text: 'Creative Studio', link: '/docs/en/resources/studio' },
+            ],
+          },
+          { text: 'Glossary', link: '/docs/en/glossary' },
+        ],
+      },
 
       footer: {
         message:

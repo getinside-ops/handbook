@@ -11,6 +11,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
 const DOCS_DIR = path.join(ROOT, 'docs/fr');
+const DOCS_EN_DIR = path.join(ROOT, 'docs/en');
 const DIST_DIR = path.join(ROOT, '.vitepress/dist');
 const SITE_URL = 'https://getinside-ops.github.io/handbook';
 
@@ -91,6 +92,11 @@ function getLastModified(filePath) {
 
 function generateSitemap() {
   const mdFiles = walkDir(DOCS_DIR);
+
+  // Include EN files if docs/en/ exists
+  if (fs.existsSync(DOCS_EN_DIR)) {
+    walkDir(DOCS_EN_DIR, mdFiles);
+  }
 
   // Ajouter aussi les pages root
   const extraPages = [
