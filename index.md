@@ -1,11 +1,18 @@
 ---
 title: getinside Handbook
 layout: home
+description: Plateforme SaaS de retail media pour monétiser vos audiences (colis, emails, réseaux sociaux) ou acquérir vos clients de manière ultra-performante.
+keywords:
+  - retail media
+  - monétisation audience
+  - acquisition digitale
+  - plateforme e-commerce
+  - getinside
 
 hero:
   name: "getinside"
-  text: "Handbook Retail Media"
-  tagline: "Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences."
+  text: "Retail Media Platform"
+  tagline: "Monétisez vos audiences ou atteignez vos clients via +250 retailers partners. Guides, spécifications techniques et processus."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -14,22 +21,25 @@ hero:
       text: Espace Annonceurs
       link: /docs/fr/advertisers/
     - theme: alt
-      text: Espace Éditeurs
+      text: Espace Retailers
       link: /docs/fr/publishers/
     - theme: alt
-      text: Accéder au SaaS ↗
+      text: Plateforme SaaS ↗
       link: https://app.getinside.media/
 
 features:
-  - icon: 🛡️
-    title: Paiement Garanti
-    details: Les fonds sont sécurisés avant le lancement. Fini les relances et les impayés — votre rémunération est garantie dès la validation de la diffusion.
-    link: /docs/fr/publishers/payouts
-  - icon: ⚡
-    title: Un Seul Contrat
-    details: Accédez à +250 distributeurs via un contrat et une facture uniques. Nous centralisons la complexité administrative pour vous.
-  - icon: 🔄
-    title: Wallet Retail Media
-    details: Monétisez vos colis et emails sortants, puis réinvestissez ce solde en acquisitions — sans sortie de trésorerie.
-    link: /docs/fr/publishers/payouts
+  - icon: 📊
+    title: Pour les Retailers — Revenus sans Effort
+    details: Monétisez vos colis & emails. **+2-20% de chiffre d'affaires additionnel** avec **65-70% de marge nette**. Aucune intégration technique lourde. Contrôle total.
+    link: /docs/fr/publishers/
+  - icon: 🎯
+    title: Pour les Annonceurs — Acquisition Haute Performance
+    details: "**100% taux d'ouverture** (insertion colis), jusqu'à **10% CTR**, **824% ROAS**. Contournez la saturation Google/Meta. Targeting behavioral ultra-ciblé."
+    link: /docs/fr/advertisers/
+  - icon: 🤝
+    title: Un Seul Contrat, Une Plateforme
+    details: "**+250 retailers** & **300+ annonceurs**. 1 contrat, 1 facturation, paiements garantis. **950+ campagnes** réussies. Tiers de confiance centralisé."
+  - icon: 🌍
+    title: Omnicanal & Eco-Responsable
+    details: "Asile colis, Emailing, Bannières, Social Ads. Studio créatif in-house. Impression **Made in France, Imprim'Vert certifiée**. Clé en main."
 ---
