@@ -15,7 +15,7 @@ npm run docs:preview  # Preview built site locally
 **VitePress documentation site** for getinside Retail Media platform. Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/`.
 
 **Core files:**
-- `.vitepress/config.ts` — Site config: sidebar nav, Mermaid plugin, French locale, base path `/handbook/`, meta tags (robots, OpenGraph, Twitter Card, Schema.org)
+- `.vitepress/config.ts` — Site config: sidebar nav (menus collapsed by default), Mermaid plugin, locales (French & English), base path `/handbook/`, meta tags (robots, OpenGraph, Twitter Card, Schema.org)
 - `.vitepress/theme/index.ts` — Custom Vue theme: on every page mount, reads `route.data.frontmatter` and dynamically injects/updates OG tags, meta description, canonical URL, and a `<script type="application/ld+json">` Schema.org WebPage block in `<head>`
 - `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles; organized with section comments (`2h4. STEP LIST`, `2i. QUICK LINKS`, etc.)
 - `assets/images/` — All images (SVG + WebP); referenced as `/images/filename.ext`
@@ -24,7 +24,7 @@ npm run docs:preview  # Preview built site locally
 
 ## Content Structure
 
-All markdown lives under `docs/fr/` with two main audience branches:
+The documentation is bilingual. French markdown files live directly under `docs/`, and English translations mirror the exact structure under `docs/en/`. Both feature two main audience branches:
 
 - **`advertisers/`** — Guides for brands: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Co-branded Contests, Pricing
 - **`publishers/`** — Guides for e-retailers: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Co-branded Contests, Audiences & Data, Payouts & Wallet, Affiliation
@@ -52,7 +52,7 @@ The theme hook in `index.ts` reads these fields at runtime to update all metadat
 
 ## Content Conventions
 
-All content is in **French**. Use VitePress container directives for callouts:
+Content spans **French and English**. Ensure language parity across both folders. Use VitePress container directives for callouts:
 - `::: tip` — Positive highlight (mint accent)
 - `::: info` — Information callout
 - `::: warning` — Caution/attention

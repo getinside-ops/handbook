@@ -138,7 +138,7 @@ const config: any = withMermaid(
           },
           {
             text: 'Espace Annonceurs',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/advertisers/' },
               { text: 'Démarrage Rapide', link: '/advertisers/onboarding-quick-start' },
@@ -188,7 +188,7 @@ const config: any = withMermaid(
           },
           {
             text: 'Espace Retailers',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/publishers/' },
               { text: 'Démarrage Rapide', link: '/publishers/onboarding-quick-start' },
@@ -229,7 +229,7 @@ const config: any = withMermaid(
               },
               {
                 text: 'Gestion & Revenus',
-                collapsed: false,
+                collapsed: true,
                 items: [
                   { text: 'Score Distributeur', link: '/publishers/score-distributor' },
                   { text: 'Audiences & Données', link: '/publishers/audience-setup' },
@@ -242,7 +242,7 @@ const config: any = withMermaid(
           },
           {
             text: 'FAQ',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/faq/' },
               { text: 'Problèmes Distributeurs', link: '/faq/troubleshooting-distributors' },
@@ -254,7 +254,7 @@ const config: any = withMermaid(
           },
           {
             text: 'Ressources',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/resources/' },
               { text: 'Études de Cas', link: '/resources/case-studies' },
@@ -275,7 +275,7 @@ const config: any = withMermaid(
           },
           {
             text: 'Advertisers',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Overview', link: '/en/advertisers/' },
               { text: 'Quick Start', link: '/en/advertisers/onboarding-quick-start' },
@@ -322,7 +322,7 @@ const config: any = withMermaid(
           },
           {
             text: 'Retailers',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Overview', link: '/en/publishers/' },
               { text: 'Quick Start', link: '/en/publishers/onboarding-quick-start' },
@@ -357,7 +357,7 @@ const config: any = withMermaid(
               { text: 'Co-branded Contest', link: '/en/publishers/co-branded-contest/' },
               {
                 text: 'Management & Revenue',
-                collapsed: false,
+                collapsed: true,
                 items: [
                   { text: 'Retailer Score', link: '/en/publishers/score-distributor' },
                   { text: 'Audiences & Data', link: '/en/publishers/audience-setup' },
@@ -370,7 +370,7 @@ const config: any = withMermaid(
           },
           {
             text: 'FAQ',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Overview', link: '/en/faq/' },
               { text: 'Retailer Issues', link: '/en/faq/troubleshooting-distributors' },
@@ -382,7 +382,7 @@ const config: any = withMermaid(
           },
           {
             text: 'Resources',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Overview', link: '/en/resources/' },
               { text: 'Case Studies', link: '/en/resources/case-studies' },
