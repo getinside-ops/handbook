@@ -13,10 +13,27 @@ export default withMermaid(
       root: {
         label: 'Français',
         lang: 'fr-FR',
+        themeConfig: {
+          nav: [
+            { text: '🛍️ Annonceurs', link: '/advertisers/' },
+            { text: '📦 Retailers', link: '/publishers/' },
+            { text: '❓ FAQ', link: '/faq/' },
+            { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
+          ],
+        }
       },
       en: {
         label: 'English',
         lang: 'en-US',
+        link: '/en/',
+        themeConfig: {
+          nav: [
+            { text: '🛍️ Advertisers', link: '/en/advertisers/' },
+            { text: '📦 Retailers', link: '/en/publishers/' },
+            { text: '❓ FAQ', link: '/en/faq/' },
+            { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
+          ],
+        }
       },
     },
 
@@ -99,16 +116,7 @@ export default withMermaid(
         },
       },
 
-      nav: [
-        { text: '🛍️ Annonceurs', link: '/advertisers/' },
-        { text: '📦 Retailers', link: '/publishers/' },
-        { text: '❓ FAQ', link: '/faq/' },
-        {
-          text: 'Accéder au SaaS',
-          link: 'https://app.getinside.media/',
-          target: '_blank',
-        },
-      ],
+
 
       sidebar: {
         '/': [
