@@ -24,7 +24,8 @@ function updateOpenGraph(page: any) {
   const pageTitle = frontmatter?.title || title || 'getinside Handbook'
   const pageDescription = frontmatter?.description || description || 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.'
   const pageImage = frontmatter?.image || image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
-  const pageUrl = `https://getinside-ops.github.io${page.relativePath.replace(/\.md$/, '').replace(/index$/, '') || '/'}`
+  const relUrl = page.relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
+  const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`
 
   // Mettre à jour OG Title
   let ogTitle = document.querySelector('meta[property="og:title"]')
@@ -63,18 +64,17 @@ function updateOpenGraph(page: any) {
   canonical.setAttribute('href', pageUrl)
 
   // Hreflang alternate links
-  const isEnglish = page.relativePath.startsWith('docs/en/')
-  const toPath = (p: string) =>
-    `https://getinside-ops.github.io/handbook/${p.replace(/\.md$/, '').replace(/\/index$/, '/')}`
-  const frRelative = page.relativePath.replace(/^docs\/en\//, 'docs/fr/')
-  const enRelative = page.relativePath.replace(/^docs\/fr\//, 'docs/en/')
+  const isEnglish = page.relativePath.startsWith('en/')
+  const toUrl = (rel: string) => {
+    const p = rel.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
+    return `https://getinside-ops.github.io/handbook/${p}`
+  }
+  const frRelative = page.relativePath.replace(/^en\//, '')
+  const enRelative = isEnglish ? page.relativePath : `en/${page.relativePath}`
 
-  setHreflang('fr', toPath(frRelative))
-  setHreflang('en', toPath(enRelative))
-  setHreflang('x-default', toPath(frRelative))
-
-  // Update <html lang> attribute
-  document.documentElement.lang = isEnglish ? 'en' : 'fr'
+  setHreflang('fr', toUrl(frRelative))
+  setHreflang('en', toUrl(enRelative))
+  setHreflang('x-default', toUrl(frRelative))
 
   // Mettre à jour la description meta
   let metaDesc = document.querySelector('meta[name="description"]')
@@ -101,7 +101,8 @@ function injectSchemaOrg(page: any) {
   const { frontmatter, title } = page
   const pageTitle = frontmatter?.title || title || 'getinside Handbook'
   const pageDescription = frontmatter?.description || 'Guides opérationnels pour retail media'
-  const pageUrl = `https://getinside-ops.github.io${page.relativePath.replace(/\.md$/, '').replace(/index$/, '') || '/'}`
+  const relUrl = page.relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
+  const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`
   const pageImage = frontmatter?.image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
   const keywords = frontmatter?.keywords || []
 

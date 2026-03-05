@@ -10,7 +10,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
-const DOCS_DIR = path.join(ROOT, 'docs/fr');
+const DOCS_DIR = path.join(ROOT, 'docs');
 const DOCS_EN_DIR = path.join(ROOT, 'docs/en');
 const DIST_DIR = path.join(ROOT, '.vitepress/dist');
 const SITE_URL = 'https://getinside-ops.github.io/handbook';
@@ -45,15 +45,17 @@ function getChangefreq(relativePath) {
   return 'monthly';
 }
 
-function walkDir(dir, fileList = []) {
+function walkDir(dir, fileList = [], exclude = []) {
+  if (!fs.existsSync(dir)) return fileList;
   const files = fs.readdirSync(dir);
 
   files.forEach((file) => {
     const filepath = path.join(dir, file);
+    if (exclude.includes(filepath)) return;
     const stat = fs.statSync(filepath);
 
     if (stat.isDirectory()) {
-      walkDir(filepath, fileList);
+      walkDir(filepath, fileList, exclude);
     } else if (file.endsWith('.md')) {
       fileList.push(filepath);
     }
@@ -63,17 +65,24 @@ function walkDir(dir, fileList = []) {
 }
 
 function mdToUrlPath(mdFilePath) {
-  // /handbook/docs/fr/start-here/index.md → /handbook/docs/fr/start-here/
-  // /handbook/docs/fr/start-here/why-it-works.md → /handbook/docs/fr/start-here/why-it-works
+  // docs/advertisers/index.md → advertisers/
+  // docs/advertisers/pricing.md → advertisers/pricing
+  // docs/en/advertisers/index.md → en/advertisers/
   let relativePath = path.relative(ROOT, mdFilePath);
 
   // Remplacer backslashes par slashes (Windows compatibility)
   relativePath = relativePath.replace(/\\/g, '/');
 
+  // Supprimer le préfixe 'docs/' (srcDir)
+  relativePath = relativePath.replace(/^docs\//, '');
+
   // Supprimer l'extension .md
   relativePath = relativePath.replace(/\.md$/, '');
 
   // Pour les index.md, garder juste le répertoire
+  if (relativePath === 'index') {
+    return '';
+  }
   if (relativePath.endsWith('/index')) {
     relativePath = relativePath.slice(0, -6) + '/';
   }
@@ -91,7 +100,8 @@ function getLastModified(filePath) {
 }
 
 function generateSitemap() {
-  const mdFiles = walkDir(DOCS_DIR);
+  // Walk docs/ but skip docs/en/ — it's included separately
+  const mdFiles = walkDir(DOCS_DIR, [], [DOCS_EN_DIR]);
 
   // Include EN files if docs/en/ exists
   if (fs.existsSync(DOCS_EN_DIR)) {
