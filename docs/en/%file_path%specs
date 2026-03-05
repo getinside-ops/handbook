@@ -1,0 +1,46 @@
+the s---
+title: Banned Speeches
+---
+
+# Banned Speeches
+
+Standards to ensure optimal display on all mail clients (Outlook, Gmail, Apple Mail…).
+
+---
+
+## Standard formats
+
+| Format                                             | Dimensions (L × H)                    | Typical location                              |
+| :------------------------------------------------- | :------------------------------------------------------- | :-------------------------------------------- |
+| **Banned Banner** (Leaderboard) | **600 × 150 px** _(sometimes 640 px)_ | Header or Email Heart — Most Impactful Format |
+| **Pave** (Rectangle)            | **300 × 250 px**                                         | Late column or email footer — compact format  |
+
+---
+
+## Technical Constraints
+
+| Crite                 | Specification                                                                      |
+| :-------------------- | :--------------------------------------------------------------------------------- |
+| **File type**         | JPG, PNG or GIF                                                                    |
+| **Colorimetric mode** | [currency symbol] RGB          |
+| **Maximum Weight**    | 150 KB — recommended < **80 KB** for fast mobile charging |
+
+:::warning GIF animated — first frame regeneration
+animated GIFs are accepted, but **Outlook (desktop versions) only displays the first image**.
+
+→ Main information and Call-to-Action must not appear on the **first frame**.
+:::
+
+---
+
+## Best Design Practices
+
+:::tip White background: add border
+If your banner has a white background, it may melt into the email background, and become invisible.
+
+Add a **grey border of 1 px** (`#cccccccc`) all around your design to define it correctly.
+:::
+
+:::tip Mobile readability
+On mobile, a 600 px banner is reduced to ~350 px wide. Avoid too thin or too small fonts — **recommended minimum size: 16 px**.
+:::

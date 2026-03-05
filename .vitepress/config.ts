@@ -96,8 +96,8 @@ export default withMermaid(
         {
           text: 'FR | EN',
           items: [
-            { text: 'Français', link: '/docs/fr/' },
-            { text: 'English', link: '/docs/en/' },
+            { text: 'Français', link: '/docs/fr/start-here/' },
+            { text: 'English', link: '/docs/en/start-here/' },
           ],
         },
         {
