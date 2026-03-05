@@ -1,0 +1,27 @@
+# getinside Handbook - robots.txt
+# Autorise tous les crawlers (Google, Bing, ChatGPT, Claude, Gemini, etc.)
+
+User-agent: *
+Allow: /handbook/
+Allow: /images/
+Disallow: /node_modules/
+Disallow: /.vitepress/
+Disallow: /dist/
+
+# Crawl delay (ms)
+Crawl-delay: 0
+
+# Sitemap XML
+Sitemap: https://anthropics.github.io/handbook/sitemap.xml
+
+# Spécifique: GPT
+User-agent: GPTBot
+Allow: /handbook/
+
+# Spécifique: Claude/Anthropic
+User-agent: Claude-Web
+Allow: /handbook/
+
+# Spécifique: Gemini/Google
+User-agent: Googlebot
+Allow: /handbook/

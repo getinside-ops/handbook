@@ -1,12 +1,24 @@
 ---
-title: Découvrir getinside
+title: Découvrir getinside - Plateforme Retail Media
+description: Découvrez comment getinside monétise vos colis et emails tout en finançant votre acquisition. La plateforme retail media pour annonceurs et e-commerçants.
+keywords:
+  - retail media
+  - monétisation
+  - colis
+  - email marketing
+  - e-commerce
+  - plateforme publicitaire
+  - getinside
+image: /images/gi-keyvisual.svg
 ---
 
 # Découvrir le Retail Media
 
-*Définition des concepts et opportunités pour votre marque — annonceur ou e-commerçant.*
+*Découvrez getinside, la plateforme retail media qui transforme vos audiences en revenus additionnels — que vous soyez annonceur cherchant des acheteurs qualifiés ou e-commerçant monétisant colis et emails.*
 
-![gi-keyvisual](/images/gi-keyvisual.svg)
+![getinside - Plateforme Retail Media](/images/gi-keyvisual.svg)
+
+**getinside** est la seule plateforme retail media qui connecte **+250 e-commerçants** avec **+500 annonceurs** pour des campagnes dans 4 formats clés : insertion colis, emailing dédié, display email et social ads. Monétisez vos audiences avec des marges nettes de 65-70%.
 
 ## Un écosystème double
 

@@ -25,9 +25,42 @@ export default withMermaid(
     },
 
     head: [
+      // Fonts
       ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
       ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
       ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap', rel: 'stylesheet' }],
+
+      // SEO & Robots
+      ['meta', { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' }],
+      ['meta', { name: 'googlebot', content: 'index, follow' }],
+      ['meta', { name: 'bingbot', content: 'index, follow' }],
+
+      // Canonical URL (sera surchargé per page)
+      ['link', { rel: 'canonical', href: 'https://anthropics.github.io/handbook/' }],
+
+      // Open Graph
+      ['meta', { property: 'og:type', content: 'website' }],
+      ['meta', { property: 'og:site_name', content: 'getinside Handbook' }],
+      ['meta', { property: 'og:locale', content: 'fr_FR' }],
+      ['meta', { property: 'og:image', content: 'https://anthropics.github.io/handbook/images/og-image.png' }],
+      ['meta', { property: 'og:image:width', content: '1200' }],
+      ['meta', { property: 'og:image:height', content: '630' }],
+
+      // Twitter Card
+      ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+      ['meta', { name: 'twitter:site', content: '@getinsideMedia' }],
+
+      // Mobile
+      ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+      ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+      ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+
+      // Author & Verification
+      ['meta', { name: 'author', content: 'getinside' }],
+      ['meta', { name: 'publisher', content: 'getinside' }],
+
+      // LLM-specific
+      ['meta', { name: 'ChatGPT-content', content: 'Retail media platform documentation - comprehensive guides for advertisers and e-commerce retailers' }],
     ],
 
     themeConfig: {

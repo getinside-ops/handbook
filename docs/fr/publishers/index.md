@@ -1,5 +1,19 @@
 ---
-title: Espace Retailers
+title: Monétisation E-commerce - Plateforme Retail Media pour Retailers - getinside
+description: Transformez vos colis et emails en revenus avec getinside. Monétisez votre audience auprès de +500 annonceurs. Marges 65-70%. Plateforme retail media.
+keywords:
+  - retail media
+  - monétisation e-commerce
+  - retailers
+  - marketplace
+  - insertion colis
+  - email monetization
+  - audience data
+  - getinside
+  - e-commerce growth
+  - advertiser network
+  - sponsored mail
+image: /images/gi-keyvisual.svg
 ---
 
 # Espace Retailers & E-commerçants

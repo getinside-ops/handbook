@@ -1,10 +1,23 @@
 ---
-title: Comment ça fonctionne ?
+title: Comment fonctionne le Retail Media - getinside
+description: Comprenez l'écosystème retail media de getinside. Du transfert de confiance au matching contextuel, découvrez les 3 leviers de monétisation.
+keywords:
+  - retail media
+  - matching contextuel
+  - endorsed advertising
+  - monétisation colis
+  - plateforme d'affiliation
+  - trust transfer
+  - getinside
+  - e-commerce growth
+image: /images/gi-keyvisual.svg
 ---
 
-# Comment ça fonctionne ?
+# Comment ça fonctionne ? L'Écosystème Retail Media de getinside
 
-Du fonctionnement opérationnel aux leviers de performance : comprendre l'écosystème getinside.
+Comprendre le fonctionnement opérationnel de **getinside**, la plateforme retail media qui crée un cycle vertueux entre **monétisation** (pour retailers) et **acquisition qualifiée** (pour annonceurs).
+
+**getinside** utilise le **matching contextuel** — le placement intelligent d'offres complémentaires auprès de consommateurs au moment exact où ils sont les plus réceptifs — pour créer des campagnes endorsed (recommandées par le retailer) avec des **taux de conversion jusqu'à 5x supérieurs** au display classique.
 
 | Acteur | Action | Flux |
 |--------|--------|------|

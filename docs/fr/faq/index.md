@@ -1,5 +1,15 @@
 ---
-title: FAQ
+title: FAQ Retail Media - getinside
+description: Réponses aux questions fréquentes sur getinside. Logistique, tracking, facturation, campagnes, audience data et intégration technique.
+keywords:
+  - retail media FAQ
+  - getinside support
+  - tracking
+  - logistique
+  - facturation
+  - intégration API
+  - troubleshooting
+  - audience management
 ---
 
 # Foire Aux Questions

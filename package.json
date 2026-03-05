@@ -3,7 +3,7 @@
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "docs:build": "vitepress build && node scripts/generate-sitemap.js",
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {

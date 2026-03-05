@@ -1,5 +1,18 @@
 ---
-title: Espace Annonceurs
+title: Plateforme Publicitaire Retail Media pour Annonceurs - getinside
+description: Rejoignez +250 retailers et touchex des acheteurs avérés via insertion colis, email dédié, display email et social ads. Plateforme retail media certifiée.
+keywords:
+  - retail media
+  - annonceurs
+  - plateforme publicitaire
+  - insertion colis
+  - email marketing
+  - social ads
+  - sponsored mail
+  - trusted advertising
+  - getinside
+  - B2C marketing
+image: /images/gi-keyvisual.svg
 ---
 
 # Espace Annonceurs
