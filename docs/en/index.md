@@ -20,15 +20,6 @@ hero:
     - theme: brand
       text: Start Here
       link: /en/start-here/
-    - theme: alt
-      text: Advertiser Portal
-      link: /en/advertisers/
-    - theme: alt
-      text: Retailer Portal
-      link: /en/publishers/
-    - theme: alt
-      text: SaaS Platform ↗
-      link: https://app.getinside.media/
 
 features:
   - icon: 📦
