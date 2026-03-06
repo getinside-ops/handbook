@@ -123,12 +123,11 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-body">
     <h3>Trade Marketing (Vos Marques)</h3>
     <p>Ne dépendez pas uniquement des annonceurs externes. Soyez proactif avec vos propres fournisseurs !</p>
-::: tip Le concept
-Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.
-
-- ✅ **Simplification :** Centralisez toute la gestion et la facturation au même endroit.
-- ✅ **Rentabilité :** Générez des revenus additionnels sur des partenaires déjà acquis — **0% de frais de régie** avec les offres Plateforme ou Managed.
-:::
+    <p><strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.</p>
+    <ul>
+      <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
+      <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis — <strong>0% de frais de régie</strong> avec les offres Plateforme ou Managed.</li>
+    </ul>
   </div>
 </div>
 
