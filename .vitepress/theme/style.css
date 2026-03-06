@@ -92,6 +92,13 @@
 
 /* ── Dark mode: VitePress defaults + mint accent ───────────── */
 .dark {
+  /* Backgrounds — explicitly set to beat :root source-order (same specificity) */
+  --vp-c-bg: #1b1b1f;
+  --vp-c-bg-soft: #202127;
+  --vp-c-bg-mute: #26262c;
+  --vp-c-bg-elv: #252529;
+  --vp-c-bg-alt: #161618;
+
   /* Mint brand — full brightness for accent on dark */
   --vp-c-brand-1: #6AE7C8;
   --vp-c-brand-2: #4ecfb4;
