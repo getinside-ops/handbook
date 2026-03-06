@@ -52,7 +52,7 @@ Le format **Emailing Dédié** pousse cet effet au maximum : le retailer rédige
 
 ::: info Le cercle vertueux du Réinvestissement
 
-getinside n'est pas seulement une régie, c'est un accélérateur de croissance. Ces revenus contribuent directement à votre **EBITDA**, avec des **marges nettes de 65-70%** qui reflètent l'efficacité de vos actifs logistiques existants.
+getinside n'est pas seulement une régie, c'est un accélérateur de croissance. Ces revenus contribuent directement à votre **EBITDA**, avec une **marge nette supérieure à 75%** qui reflète l'efficacité de vos actifs logistiques existants.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -76,6 +76,8 @@ getinside n'est pas seulement une régie, c'est un accélérateur de croissance.
 ## 3 Leviers, 1 Écosystème
 
 Ne laissez aucun asset inexploité. getinside valorise vos points de contact physiques et digitaux pour maximiser la couverture.
+
+Le réseau getinside couvre **40 millions de consommateurs** actifs accessibles via les +250 e-commerçants partenaires — sans achat de données tiers.
 
 | Levier | Force Clé | Rôle Stratégique |
 |--------|-----------|-----------------|
@@ -129,6 +131,25 @@ La puissance de getinside réside dans la **cohérence contextuelle**. Nous prop
     <span>🪴 <strong>Home Sweet Home</strong> (Insertion Colis)</span>
     <p>Déclencheur : Achat de linge de lit en lin.</p>
     <p>➔ Offre poussée : Abonnement fleurs fraîches.</p>
+  </div>
+</div>
+
+## L'IA au Service du Matching
+
+**getinside** intègre l'intelligence artificielle pour automatiser et optimiser chaque mise en relation entre annonceurs et audiences.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🤖 Smart Matching</strong>
+    <p>L'algorithme connecte les annonceurs aux audiences les plus pertinentes en croisant univers produit, panier moyen, profil acheteur et performances historiques.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📈 Prédiction CPA</strong>
+    <p>Avant le lancement, la plateforme prédit le Coût Par Acquisition attendu — l'annonceur valide la rentabilité de sa campagne avant d'engager le moindre budget.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>⚖️ Tarification Optimale</strong>
+    <p>L'IA trouve l'équilibre entre les attentes de revenus du distributeur et les objectifs ROAS de l'annonceur — pour que chaque accord soit gagnant-gagnant.</p>
   </div>
 </div>
 

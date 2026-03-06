@@ -57,6 +57,22 @@ Cette commission est créditée sur votre **Wallet** à chaque facture payée pa
 La commission est versée à chaque renouvellement ou paiement de votre filleul — tant qu'il reste actif sur la plateforme.
 :::
 
+## Conditions d'éligibilité
+
+### Pour vous (le Parrain)
+
+- Disposer d'un compte **actif** sur la plateforme et avoir accepté les Conditions Générales de Parrainage.
+- Être **à jour de vos paiements** envers getinside — en cas de facture impayée, le versement de vos commissions est suspendu jusqu'à régularisation.
+
+### Pour votre Filleul
+
+::: info Critères d'éligibilité
+- S'inscrire **exclusivement via votre lien d'invitation** unique.
+- Être un professionnel n'ayant **jamais utilisé** la plateforme getinside auparavant.
+- Être établi en **France ou dans l'Espace Économique Européen (EEE)**.
+- Ne partager **aucun lien capitalistique** avec votre entreprise (pas de filiale commune, pas de dirigeants partagés).
+:::
+
 ## Utilisation des gains
 
 <div class="gi-value-grid">

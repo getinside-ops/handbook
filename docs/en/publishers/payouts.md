@@ -84,6 +84,10 @@ The Wallet balance is only updated **after a manual action on your part** depend
     <strong>Option B: Reinvestment</strong>
     <p>Use your balance to finance your own acquisition campaigns (Parcel Insert or Emailing). 1€ earned = 1€ reinvested in traffic, without banking friction.</p>
   </div>
+  <div class="gi-value-card">
+    <strong>Option C: Upgrade to Platform</strong>
+    <p>Permanently eliminate withdrawal fees (499€ HT/month). Cost-effective once your withdrawals exceed ~850€/month, and you also gain direct access to prospecting 300+ advertisers.</p>
+  </div>
 </div>
 
 ::: info

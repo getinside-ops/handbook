@@ -33,7 +33,7 @@ Diversifiez vos canaux d'acquisition face à la saturation de Google et Meta. B�
 
 ### 📦 Pour les Retailers : Revenus & Contrôle
 
-**+2% à +20% de chiffre d'affaires additionnel** composé quasi-intégralement de **marge nette 65-70%**.
+**1-2% de chiffre d'affaires additionnel** composé quasi-intégralement de **marge nette >75%**.
 
 Générez des revenus sans effort tout en gardant un contrôle absolu sur les marques que vous acceptez de diffuser à vos clients. Aucune intégration technique lourde.
 
@@ -60,7 +60,13 @@ getinside centralise l'écosystème complet : intégration tech, impression, rou
 
 ---
 
-::: info Prêt à démarrer ?
+::: info 🏦 getinside accélère — Levée de fonds 3,2M€ (Février 2026)
+**La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover** et **Founders Future** ont rejoint getinside pour accélérer le développement technologique de la plateforme et rendre le Retail Media accessible à tous les e-commerçants.
+:::
+
+---
+
+::: tip Prêt à démarrer ?
 
 - **Annonceur** : Touchez vos futurs clients via des audiences hautement qualifiées
 - **Retailer** : Transformez vos colis en chiffre d'affaires additionnel

@@ -123,13 +123,25 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-body">
     <h3>Trade Marketing (Vos Marques)</h3>
     <p>Ne dépendez pas uniquement des annonceurs externes. Soyez proactif avec vos propres fournisseurs !</p>
-    <div class="gi-accent-box">
-      <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.
-      <ul>
-        <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
-        <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis — <strong>0% de frais de régie</strong> avec les offres Plateforme ou Managed.</li>
-      </ul>
-    </div>
+::: tip Le concept
+Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.
+
+- ✅ **Simplification :** Centralisez toute la gestion et la facturation au même endroit.
+- ✅ **Rentabilité :** Générez des revenus additionnels sur des partenaires déjà acquis — **0% de frais de régie** avec les offres Plateforme ou Managed.
+:::
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">🎯</div>
+  <div class="gi-step-body">
+    <h3>Prospection Active <Badge type="tip" text="Plateforme & Managed" /></h3>
+    <p>Ne vous contentez pas d'attendre les campagnes inbound — allez chercher les annonceurs qui correspondent à votre audience.</p>
+::: tip Accès à la base +300 annonceurs
+Depuis votre espace Plateforme, parcourez le catalogue des annonceurs actifs et envoyez une proposition directement via la messagerie intégrée : univers produit, disponibilités, tarifs, exemples de campagnes passées.
+
+C'est le levier le plus puissant pour doubler vos revenus — disponible uniquement avec les offres **Plateforme** et **Managed**.
+:::
   </div>
 </div>
 

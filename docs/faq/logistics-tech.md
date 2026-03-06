@@ -25,6 +25,18 @@ title: Logistique & Technique
 3. Vérifier que l'option **"Autoriser le partenaire de marque à booster"** est active.
 :::
 
+::: details Je n'arrive pas à activer les Spark Ads TikTok
+**Cause :** L'autorisation de publicité n'a pas été générée depuis le compte TikTok du distributeur.
+
+**Solution :**
+1. Sur TikTok, allez dans **Paramètres du compte → Créateur → Paramètres de publicité**.
+2. Activez l'option **"Autorisation de publicité"**.
+3. Cliquez sur **"Générer un code"** — ce code est valable 60 jours.
+4. Transmettez le code à l'équipe getinside via la **messagerie de la campagne** sur la plateforme.
+
+getinside utilise ce code pour activer le Spark Ad depuis le Business Center TikTok. Sans ce code, la campagne ne peut pas être lancée.
+:::
+
 ::: details L'image de ma newsletter ne s'affiche pas
 **Cause :** Problème d'hébergement ou de lien.
 

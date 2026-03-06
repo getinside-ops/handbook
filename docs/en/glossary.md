@@ -20,6 +20,7 @@ Definitions of technical terms and acronyms of the platform.
   <a href="#r">R</a>
   <a href="#t">T</a>
   <a href="#u">U</a>
+  <a href="#w">W</a>
   <a href="#z">Z</a>
 </div>
 <h2 id="a">A</h2>
@@ -70,6 +71,8 @@ Definitions of technical terms and acronyms of the platform.
 <hr />
 <h2 id="f">F</h2>
 <dl>
+  <dt>First Party Data</dt>
+  <dd>Behavioral data collected directly by the Retailer: purchase history, opt-in emails, on-site browsing. An exclusive asset of the Retailer — not transferable to Advertisers. getinside operates as a Trusted Third Party: data never leaves the Retailer's secure environment.</dd>
   <dt>FOGRA39</dt>
   <dd>Standard colorimetric profile for offset printing in Europe.</dd>
   <dt>Bleed (Fond Perdu)</dt>
@@ -122,6 +125,12 @@ Definitions of technical terms and acronyms of the platform.
 <dl>
   <dt>UTM</dt>
   <dd>Parameters added at the end of a URL (e.g. `?utm_source=getinside`) to track the source of the traffic.</dd>
+</dl>
+<hr />
+<h2 id="w">W</h2>
+<dl>
+  <dt>Wallet</dt>
+  <dd>Virtual earnings account on the getinside platform. Funds are credited 30 days after a campaign ends. The Wallet can be used for a bank withdrawal (transfer) or reinvested directly into acquisition campaigns via the Exchange — with no intermediary transfer needed.</dd>
 </dl>
 <hr />
 <h2 id="z">Z</h2>

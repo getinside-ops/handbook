@@ -18,8 +18,10 @@ Définitions des termes techniques et acronymes de la plateforme.
   <a href="#p">P</a>
   <a href="#q">Q</a>
   <a href="#r">R</a>
+  <a href="#s">S</a>
   <a href="#t">T</a>
   <a href="#u">U</a>
+  <a href="#w">W</a>
   <a href="#z">Z</a>
 </div>
 <h2 id="a">A</h2>
@@ -66,10 +68,14 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Distribution gratuite d'un produit en format réduit pour le faire tester.</dd>
   <dt>Endorsement</dt>
   <dd>Caution apportée par le Distributeur à l'Annonceur. Le fait que l'e-commerçant "parle" de la marque renforce la confiance.</dd>
+  <dt>Exchange (Wallet)</dt>
+  <dd>Fonctionnalité de la plateforme permettant de réinvestir directement les revenus disponibles dans son Wallet pour financer ses propres campagnes d'acquisition — sans virement bancaire intermédiaire.</dd>
 </dl>
 <hr />
 <h2 id="f">F</h2>
 <dl>
+  <dt>First Party Data</dt>
+  <dd>Données comportementales collectées en propre par le Distributeur : historique d'achats, emails opt-in, navigation sur site. Actif exclusif du Distributeur — non transférable aux Annonceurs. getinside opère comme Tiers de Confiance : les données ne quittent jamais l'environnement sécurisé du Distributeur.</dd>
   <dt>FOGRA39</dt>
   <dd>Profil colorimétrique standard pour l'impression offset en Europe.</dd>
   <dt>Fond Perdu (Bleed)</dt>
@@ -92,6 +98,8 @@ Définitions des termes techniques et acronymes de la plateforme.
 <hr />
 <h2 id="p">P</h2>
 <dl>
+  <dt>Partnership Ads</dt>
+  <dd>Format publicitaire Meta (Instagram, Facebook) permettant à un annonceur de sponsoriser un post publié depuis le compte d'un partenaire (e-commerçant). Équivalent TikTok : Spark Ads.</dd>
   <dt>Pixel de Tracking</dt>
   <dd>Petit morceau de code (image 1x1) inséré dans un email pour comptabiliser les ouvertures.</dd>
 </dl>
@@ -108,6 +116,18 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Dispositifs publicitaires présents sur les parcours d'achat des e-commerçants (Colis, Web, Email).</dd>
   <dt>ROI</dt>
   <dd>Retour sur Investissement.</dd>
+  <dt>ROAS (Return On Ad Spend)</dt>
+  <dd>Revenu généré pour chaque euro dépensé en publicité. Un ROAS de 5 signifie 5€ de chiffre d'affaires pour 1€ investi.</dd>
+</dl>
+<hr />
+<h2 id="s">S</h2>
+<dl>
+  <dt>Score Distributeur</dt>
+  <dd>Note sur 5 étoiles attribuée à chaque e-commerçant partenaire. Elle détermine sa visibilité dans la marketplace getinside. Calculée dynamiquement sur 7 critères : tarification, volume, attractivité de marque, fiabilité inventaire, réactivité audience, historique campagnes, communication & reporting.</dd>
+  <dt>Smart Matching</dt>
+  <dd>Algorithme IA de getinside qui connecte automatiquement annonceurs et audiences en croisant données comportementales, univers produit et performances historiques pour maximiser la pertinence de chaque campagne.</dd>
+  <dt>Spark Ads</dt>
+  <dd>Format publicitaire TikTok permettant à un annonceur d'amplifier un post natif publié depuis le compte d'un partenaire. Équivalent Meta : Partnership Ads.</dd>
 </dl>
 <hr />
 <h2 id="t">T</h2>
@@ -122,6 +142,12 @@ Définitions des termes techniques et acronymes de la plateforme.
 <dl>
   <dt>UTM</dt>
   <dd>Paramètres ajoutés à la fin d'une URL (ex: `?utm_source=getinside`) pour tracker la source du trafic.</dd>
+</dl>
+<hr />
+<h2 id="w">W</h2>
+<dl>
+  <dt>Wallet</dt>
+  <dd>Portefeuille virtuel de revenus disponibles sur la plateforme getinside. Les fonds y sont crédités 30 jours après la fin d'une campagne. Le Wallet peut être utilisé pour un retrait bancaire (virement) ou réinvesti directement dans des campagnes d'acquisition via l'Exchange — sans virement intermédiaire.</dd>
 </dl>
 <hr />
 <h2 id="z">Z</h2>

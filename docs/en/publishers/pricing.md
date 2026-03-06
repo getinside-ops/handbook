@@ -26,10 +26,10 @@ getinside offers three levels of support adapted to your maturity, your revenue 
   <div class="gi-pricing-card featured">
     <h3 class="gi-pricing-title-featured">Platform <Badge type="tip" text="Popular" /></h3>
     <div class="gi-pricing-price featured">499€ <span>HT/month</span></div>
-    <p class="gi-pricing-desc">Develop your own network and increase your margins.</p>
+    <p class="gi-pricing-desc">Become your own ad network: proactively reach 300+ advertisers directly, maximize your margins, and withdraw revenue without fees.</p>
     <hr class="gi-pricing-divider" />
     <ul class="gi-pricing-features">
-      <li><strong>Active prospecting:</strong> Access to the base of +350 advertisers.</li>
+      <li><strong>Active prospecting:</strong> Contact 300+ advertisers directly from the platform — without waiting for them to come to you.</li>
       <li><strong>Direct collaboration:</strong> Your Trade & Self-promo partners at <strong>0% fees</strong>.</li>
       <li><strong>Unlimited and free withdrawals.</strong></li>
     </ul>

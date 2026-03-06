@@ -77,6 +77,8 @@ getinside is not just an ad network, it's a growth accelerator. These revenues c
 
 Leave no asset unexploited. getinside values your physical and digital touchpoints to maximize coverage.
 
+The getinside network covers **40 million active consumers** accessible through 250+ partner e-retailers — no third-party data purchase required.
+
 | Lever | Key Strength | Strategic Role |
 |--------|-----------|-----------------|
 | 📦 **Parcel Insert** | **100% attention** — hyper-concentration of the consumer during unboxing | Memory anchoring, physical handling, maximum conversion |

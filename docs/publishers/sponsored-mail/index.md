@@ -34,6 +34,25 @@ Les procédures opérationnelles pour la réception, l'insertion et le reporting
   </a>
 </div>
 
+## Pourquoi l'Insertion Colis est le format phare ?
+
+L'Insertion Colis est le format le plus performant du réseau getinside — et pour cause : c'est le seul format publicitaire avec un taux de lecture de **100%**.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>100% de lecture garantie</strong>
+    <p>Chaque colis est ouvert par son destinataire. Le flyer est physiquement entre ses mains — impossible à ignorer comme une bannière ou un email.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>CTR 2,64% vs 0,90% (Meta)</strong>
+    <p>Le CTR moyen réseau dépasse de 3x la moyenne Meta Ads. L'attention maximale au moment de l'unboxing explique cet écart.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Conversion 10–30%</strong>
+    <p>Le contexte de satisfaction post-achat rend le consommateur réceptif aux offres complémentaires — taux de conversion jusqu'à 5x supérieur au display classique.</p>
+  </div>
+</div>
+
 ## Pourquoi valoriser vos colis via getinside ?
 
 <div class="gi-value-grid">

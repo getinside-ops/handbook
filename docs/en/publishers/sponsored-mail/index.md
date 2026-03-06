@@ -34,6 +34,25 @@ The operational procedures for receiving, inserting, and reporting campaigns. **
   </a>
 </div>
 
+## Why is Parcel Insert the flagship format?
+
+Parcel Insert is the highest-performing format in the getinside network — and for good reason: it is the only advertising format with a **100% read rate**.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>100% guaranteed read rate</strong>
+    <p>Every parcel is opened by its recipient. The flyer is physically in their hands — impossible to ignore like a banner or an email.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>CTR 2.64% vs 0.90% (Meta)</strong>
+    <p>The average network CTR is 3x higher than the Meta Ads average. Maximum attention during unboxing explains this gap.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Conversion 10–30%</strong>
+    <p>The post-purchase satisfaction context makes consumers receptive to complementary offers — conversion rates up to 5x higher than traditional display.</p>
+  </div>
+</div>
+
 ## Why monetize your parcels via getinside?
 
 <div class="gi-value-grid">

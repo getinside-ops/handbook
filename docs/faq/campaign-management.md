@@ -11,7 +11,7 @@ Vous devez répondre sous **48 heures ouvrées**. La réactivité est la clé po
 ::: details Puis-je annuler une campagne déjà acceptée ?
 L'annulation est fortement déconseillée. Sauf force majeure, des pénalités s'appliquent :
 
-- Pénalité forfaitaire de **250€**
+- Pénalité forfaitaire de **550€ HT**
 - \+ Remboursement des frais de plateforme perdus
 - \+ Remboursement des frais de production (si imprimé) et de studio engagés
 :::

@@ -134,6 +134,19 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
 </div>
 
 <div class="gi-step">
+  <div class="gi-step-num">🎯</div>
+  <div class="gi-step-body">
+    <h3>Active Prospecting <Badge type="tip" text="Platform & Managed" /></h3>
+    <p>Don't just wait for inbound campaigns — go find the advertisers that match your audience.</p>
+::: tip Access to 300+ advertisers
+From your Platform workspace, browse the active advertiser catalog and send a proposal directly via the integrated messaging: product universe, availability, rates, examples of past campaigns.
+
+This is the most powerful lever to double your revenue — available exclusively with the **Platform** and **Managed** offers.
+:::
+  </div>
+</div>
+
+<div class="gi-step">
   <div class="gi-step-num">🤝</div>
   <div class="gi-step-body">
     <h3>Affiliation & Sponsorship</h3>

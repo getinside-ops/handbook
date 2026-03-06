@@ -26,10 +26,10 @@ getinside propose trois niveaux d'accompagnement adaptés à votre maturité, vo
   <div class="gi-pricing-card featured">
     <h3 class="gi-pricing-title-featured">Plateforme <Badge type="tip" text="Populaire" /></h3>
     <div class="gi-pricing-price featured">499€ <span>HT/mois</span></div>
-    <p class="gi-pricing-desc">Développez votre propre réseau et augmentez vos marges.</p>
+    <p class="gi-pricing-desc">Devenez votre propre régie : prospectez en direct les +300 annonceurs du réseau, maximisez vos marges et retirez vos revenus sans frais.</p>
     <hr class="gi-pricing-divider" />
     <ul class="gi-pricing-features">
-      <li><strong>Prospection active :</strong> Accès à la base de +350 annonceurs.</li>
+      <li><strong>Prospection active :</strong> Contactez les +300 annonceurs en direct depuis la plateforme — sans attendre qu'ils viennent à vous.</li>
       <li><strong>Collaboration directe :</strong> Vos partenaires Trade & Autopromo à <strong>0% de frais</strong>.</li>
       <li><strong>Retraits illimités et gratuits.</strong></li>
     </ul>
@@ -84,4 +84,8 @@ Les revenus sont crédités sur votre Wallet **30 jours après la fin de la camp
 Le solde peut être **réinvesti sans frais** pour financer vos propres campagnes d'acquisition (Smart Funding).
 
 ⚠️ Tout solde non retiré après **12 mois consécutifs d'inactivité** est définitivement acquis à getinside.
+:::
+
+::: info Cadre contractuel — Mise à jour mars 2026
+Depuis le **1er mars 2026**, le contrat Starter indépendant n'est plus proposé — il est désormais directement intégré aux **Conditions Générales d'Utilisation et de Commercialisation (CGUC)**. Le cadre contractuel repose sur quatre documents : CGUC · CGV · Conditions Générales de Parrainage · Politique de confidentialité.
 :::

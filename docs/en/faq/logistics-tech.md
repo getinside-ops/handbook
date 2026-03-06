@@ -25,6 +25,18 @@ title: Logistics & Tech
 3. Verify that the **"Allow brand partner to boost"** option is active.
 :::
 
+::: details I can't activate TikTok Spark Ads
+**Cause:** The ad authorization code has not been generated from the retailer's TikTok account.
+
+**Solution:**
+1. On TikTok, go to **Account Settings → Creator → Ad Settings**.
+2. Enable the **"Ad authorization"** option.
+3. Click **"Generate a code"** — this code is valid for 60 days.
+4. Send the code to the getinside team via the **campaign messaging** on the platform.
+
+getinside uses this code to activate the Spark Ad from the TikTok Business Center. Without this code, the campaign cannot be launched.
+:::
+
 ::: details The image in my newsletter is not displaying
 **Cause:** Hosting or link issue.
 

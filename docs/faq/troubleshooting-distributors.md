@@ -59,7 +59,7 @@ Si vous êtes sur Plateforme ou Managed et que des frais ont été prélevés �
 
 :::: details "Des fonds ont été prélevés de mon Wallet sans que je l'aie demandé"
 ::: warning Pénalités automatiques prélevées sur votre Wallet
-- **Annulation d'une campagne validée :** pénalité forfaitaire 250€ + frais de plateforme
+- **Annulation d'une campagne validée :** pénalité forfaitaire **550€ HT** + frais de plateforme
 - **Non-réponse sous 48h à une proposition :** pénalité appliquée selon contrat
 - **Réponse tardive sans motif valable :** peut entraîner une pénalité
 :::

@@ -20,7 +20,7 @@ In the **"Persona"** field, be descriptive: *"Amateur or expert gardener looking
 
 ## 2. Demographic Data
 
-These fields feed the getinside algorithm for matching.
+These fields feed directly into the **Smart Matching AI algorithm** — they are how the platform automatically connects you with the most relevant advertisers. An incomplete profile mechanically reduces your visibility in matching results.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

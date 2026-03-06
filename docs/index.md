@@ -24,7 +24,7 @@ hero:
 features:
   - icon: 📦
     title: Retailers — Vos colis et emails génèrent de la marge
-    details: Transformez vos coûts d'expédition en revenus récurrents. +2% à +20% de chiffre d'affaires additionnel, marge nette 65-70%, zéro intégration technique lourde.
+    details: Transformez vos coûts d'expédition en revenus récurrents. 1-2% de chiffre d'affaires additionnel, marge nette >75%, zéro intégration technique lourde.
     link: /publishers/
   - icon: 🎯
     title: Annonceurs — Touchez vos clients là où ils achètent

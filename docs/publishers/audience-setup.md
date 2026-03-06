@@ -20,7 +20,7 @@ Dans le champ **"Persona"**, soyez descriptif : *"Jardinier amateur ou expert ch
 
 ## 2. Les Données Démographiques (Data)
 
-Ces champs alimentent l'algorithme de getinside pour le matching.
+Ces champs alimentent directement l'**algorithme IA de Smart Matching** — c'est grâce à eux que la plateforme vous connecte automatiquement aux annonceurs les plus pertinents. Une fiche incomplète réduit mécaniquement votre visibilité dans les résultats de matching.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

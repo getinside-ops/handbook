@@ -84,6 +84,10 @@ Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part*
     <strong>Option B : Le Réinvestissement</strong>
     <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Insertion Colis ou Emailing). 1€ gagné = 1€ réinvesti en trafic, sans friction bancaire.</p>
   </div>
+  <div class="gi-value-card">
+    <strong>Option C : Passer à l'offre Plateforme</strong>
+    <p>Supprimez définitivement les frais de retrait (499€ HT/mois). Rentable dès que vos retraits dépassent ~850€/mois, et vous accédez en prime à la prospection active des +300 annonceurs.</p>
+  </div>
 </div>
 
 ::: info
