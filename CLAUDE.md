@@ -15,12 +15,12 @@ npm run docs:preview  # Preview built site locally
 **VitePress documentation site** for getinside Retail Media platform. Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/`.
 
 **Core files:**
-- `.vitepress/config.ts` — Site config: sidebar nav (menus collapsed by default), Mermaid plugin, locales (French & English), base path `/handbook/`, meta tags (robots, OpenGraph, Twitter Card, Schema.org, MS Clarity, Google Site Verification)
-- `.vitepress/theme/index.ts` — Custom Vue theme: on every page mount, reads `route.data.frontmatter` and dynamically injects/updates OG tags, meta description, canonical URL, and a `<script type="application/ld+json">` Schema.org WebPage block in `<head>`
-- `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles; organized with section comments (`2h4. STEP LIST`, `2i. QUICK LINKS`, etc.)
-- `assets/images/` — All images (SVG + WebP); referenced as `/images/filename.ext`
-- `scripts/generate-sitemap.js` — Node.js post-build script: generates `sitemap.xml` with priority weighting (start-here=0.9, advertisers/publishers=0.8, faq=0.7, resources=0.6)
-- `.vitepress/SEO-GUIDELINES.md` — Reference for SEO conventions on new pages
+- `.vitepress/config.ts` — Site config: sidebar nav, Mermaid plugin, locales, base path `/handbook/`. Includes `transformHead` for SSR-optimized meta tags (OpenGraph, description, AI-specific tags like `citation_title`) and MS Clarity / Google Search Console tags.
+- `.vitepress/theme/index.ts` — Custom Vue theme: dynamic metadata injection and enhanced Schema.org JSON-LD (WebPage, Organization, BreadcrumbList).
+- `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles.
+- `assets/` — Public assets (images, `humans.txt`, `security.txt`).
+- `scripts/generate-sitemap.js` — Node.js post-build script for `sitemap.xml`.
+- `robots.txt` — Optimized for SEO and AI crawlers (GPT, Claude, Perplexity, Applebot, etc.).
 
 ## Content Structure
 
@@ -48,7 +48,7 @@ image: /images/og-image.png  # optional, overrides site default
 ---
 ```
 
-The theme hook in `index.ts` reads these fields at runtime to update all metadata. Sidebar is manually configured in `.vitepress/config.ts` — add new pages to `themeConfig.sidebar` when creating new files.
+Both `config.ts` (via `transformHead` for SSR) and the theme hook in `index.ts` (for runtime updates) use these fields to manage SEO metadata and Schema.org data. Sidebar is manually configured in `.vitepress/config.ts` — add new pages to `themeConfig.sidebar` when creating new files.
 
 ## Content Conventions
 
