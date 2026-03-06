@@ -135,13 +135,10 @@ Invitez les marques que vous distribuez à acheter de la visibilité chez vous (
 <div class="gi-step">
   <div class="gi-step-num">🎯</div>
   <div class="gi-step-body">
-    <h3>Prospection Active <Badge type="tip" text="Plateforme & Managed" /></h3>
+    <h3>Prospection Active <em>(Plateforme & Managed)</em></h3>
     <p>Ne vous contentez pas d'attendre les campagnes inbound — allez chercher les annonceurs qui correspondent à votre audience.</p>
-::: tip Accès à la base +300 annonceurs
-Depuis votre espace Plateforme, parcourez le catalogue des annonceurs actifs et envoyez une proposition directement via la messagerie intégrée : univers produit, disponibilités, tarifs, exemples de campagnes passées.
-
-C'est le levier le plus puissant pour doubler vos revenus — disponible uniquement avec les offres **Plateforme** et **Managed**.
-:::
+    <p>Depuis votre espace Plateforme, parcourez le catalogue des annonceurs actifs et envoyez une proposition directement via la messagerie intégrée : univers produit, disponibilités, tarifs, exemples de campagnes passées.</p>
+    <p>C'est le levier le plus puissant pour doubler vos revenus — disponible uniquement avec les offres <strong>Plateforme</strong> et <strong>Managed</strong>.</p>
   </div>
 </div>
 
