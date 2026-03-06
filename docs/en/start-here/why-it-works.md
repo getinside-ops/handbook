@@ -13,7 +13,9 @@ keywords:
 image: /images/gi-keyvisual.svg
 ---
 
-# How does it work? The getinside Retail Media Ecosystem
+# How does it work? 
+
+## The getinside Retail Media Ecosystem
 
 Understand the operational functioning of **getinside**, the retail media platform that creates a virtuous cycle between **monetization** (for retailers) and **qualified acquisition** (for advertisers).
 

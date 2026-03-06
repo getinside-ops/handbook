@@ -13,7 +13,9 @@ keywords:
 image: /images/gi-keyvisual.svg
 ---
 
-# Comment ça fonctionne ? L'Écosystème Retail Media de getinside
+# Comment ça fonctionne ?
+
+ ## L'Écosystème Retail Media de getinside
 
 Comprendre le fonctionnement opérationnel de **getinside**, la plateforme retail media qui crée un cycle vertueux entre **monétisation** (pour retailers) et **acquisition qualifiée** (pour annonceurs).
 
