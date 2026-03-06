@@ -22,7 +22,7 @@ getinside est une plateforme en libre-service. Accès gratuit, modèle transpare
 
 ## Frais de Plateforme
 
-::: tip
+::: tip Ce qui est inclus
 <div class="gi-price">12% <span class="gi-price-unit">du budget média investi</span></div>
 
 - ✅ **Pas d'abonnement** — L'accès à la plateforme est gratuit.

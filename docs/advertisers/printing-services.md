@@ -10,7 +10,6 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
 
 ## Une qualité certifiée
 
-::: tip
 <div class="gi-cert-row">
   <div class="gi-cert-item">
     <span class="gi-cert-icon">🇫🇷</span>
@@ -28,7 +27,6 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
     <span>ISO 9001 (Qualité) et ISO 14001 (Environnement).</span>
   </div>
 </div>
-:::
 
 ---
 

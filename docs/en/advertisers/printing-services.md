@@ -10,7 +10,6 @@ getinside acts as a **central purchasing office** to pool volumes, reduce your c
 
 ## Certified Quality
 
-::: tip
 <div class="gi-cert-row">
   <div class="gi-cert-item">
     <span class="gi-cert-icon">🇫🇷</span>
@@ -28,7 +27,6 @@ getinside acts as a **central purchasing office** to pool volumes, reduce your c
     <span>ISO 9001 (Quality) and ISO 14001 (Environment).</span>
   </div>
 </div>
-:::
 
 ---
 

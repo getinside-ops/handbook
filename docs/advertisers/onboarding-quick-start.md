@@ -6,7 +6,7 @@ title: Démarrage Rapide — Annonceurs
 
 Vous souhaitez lancer votre première campagne sur getinside. En 4 étapes (15 minutes), vous avez une campagne en cours de diffusion.
 
-::: tip
+::: tip À qui s'adresse ce guide ?
 **Ce guide est pour vous si :** vous avez un compte getinside (ou êtes en train d'en créer un) et voulez lancer votre première campagne rapidement.
 :::
 

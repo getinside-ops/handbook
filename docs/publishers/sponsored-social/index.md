@@ -18,7 +18,7 @@ Monétisez votre audience sociale (Instagram, TikTok) sans polluer votre ligne �
 
 ## Le principe
 
-::: tip
+::: tip Sponsorisation vs Influence classique
 Contrairement à l'influence classique, nous utilisons la **Sponsorisation** :
 
 1. Vous créez et publiez un contenu qualitatif (avec mention "Partenariat rémunéré").

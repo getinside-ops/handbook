@@ -6,7 +6,7 @@ title: Quick Start — Distributors
 
 You have just joined getinside. In 3 steps (10 minutes), your profile is ready to receive your first campaigns.
 
-::: tip
+::: tip Who is this guide for?
 **This guide is for you if:** you received the getinside invitation email and want to start quickly.
 :::
 

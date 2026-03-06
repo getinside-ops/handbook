@@ -178,7 +178,7 @@ Passé ce délai, l'absence de réponse = refus tacite et entraîne une **pénal
 
 ### Protection des Données (RGPD & First Party Data)
 
-::: tip
+::: tip 🛡️ Données exclusivement vôtres
 **🛡️ Les données sont exclusivement vôtres**
 
 getinside agit comme un **Tiers de Confiance**. Aucun transfert de fichier client vers un Annonceur n'est autorisé sans un nouvel Opt-in RGPD spécifique.

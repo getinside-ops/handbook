@@ -37,7 +37,7 @@ Engage your community while monetizing your audience through operations funded b
 
 ## The Concept
 
-::: tip
+::: tip How it works
 You host a **game page on your site** (or a dedicated external page).
 You drive traffic to it via your usual channels (Email, Push, Social).
 The Advertiser retrieves the "Opt-in" leads at the end of the operation.

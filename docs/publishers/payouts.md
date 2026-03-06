@@ -8,7 +8,7 @@ Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les 
 
 ## Suivi du P&L (Wallet)
 
-::: tip
+::: tip Solde disponible en temps réel
 Vos revenus sont visibles en temps réel sur la plateforme.
 
 Consultez à tout moment votre **Solde Disponible** = *(Revenus validés) - (Retraits effectués)*.

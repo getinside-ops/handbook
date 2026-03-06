@@ -12,7 +12,7 @@ Le Score Distributeur est une **note sur 5 étoiles** qui évalue la qualité et
 
 Il est recalculé **dynamiquement** en temps réel et **détermine votre classement dans le moteur de recherche** que les annonceurs utilisent pour choisir leurs distributeurs.
 
-::: tip
+::: tip L'équation gagnante
 Un score élevé = plus de visibilité = plus de propositions de campagnes = plus de revenus.
 :::
 

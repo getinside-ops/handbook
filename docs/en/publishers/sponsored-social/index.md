@@ -18,7 +18,7 @@ Monetize your social audience (Instagram, TikTok) without polluting your editori
 
 ## The concept
 
-::: tip
+::: tip Sponsorship vs classic influencer marketing
 Unlike classic influencer marketing, we use **Sponsorship**:
 
 1. You create and publish quality content (with the "Paid partnership" label).

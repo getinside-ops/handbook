@@ -8,7 +8,7 @@ Track your earnings in real-time and optimize your cash flow to avoid fees.
 
 ## P&L Tracking (Wallet)
 
-::: tip
+::: tip Available balance in real-time
 Your revenue is visible in real-time on the platform.
 
 Check your **Available Balance** at any time = *(Validated revenue) - (Made withdrawals)*.

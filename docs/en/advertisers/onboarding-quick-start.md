@@ -6,7 +6,7 @@ title: Quick Start — Advertisers
 
 You want to launch your first campaign on getinside. In 4 steps (15 minutes), you have a campaign running.
 
-::: tip
+::: tip Who is this guide for?
 **This guide is for you if:** you have a getinside account (or are creating one) and want to launch your first campaign quickly.
 :::
 

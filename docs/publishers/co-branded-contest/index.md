@@ -37,7 +37,7 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
 
 ## Le Concept
 
-::: tip
+::: tip Comment ça fonctionne
 Vous hébergez une **page de jeu sur votre site** (ou une page dédiée externe).
 Vous dirigez du trafic dessus via vos canaux habituels (Email, Push, Social).
 L'Annonceur récupère les leads "Opt-in" à la fin de l'opération.

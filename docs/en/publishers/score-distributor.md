@@ -12,7 +12,7 @@ The Distributor Score is a **5-star rating** that evaluates the quality and reli
 
 It is recalculated **dynamically** in real-time and **determines your ranking in the search engine** that advertisers use to choose their distributors.
 
-::: tip
+::: tip The winning equation
 High score = more visibility = more campaign proposals = more revenue.
 :::
 

@@ -510,6 +510,10 @@
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 1.25rem;
   margin: 1rem 0 0;
+  background: var(--vp-c-brand-soft);
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 8px;
+  padding: 1.25rem;
 }
 
 .gi-cert-item {
@@ -583,6 +587,14 @@
 
 h2+.gi-step {
   margin-top: 1.25rem;
+}
+
+.gi-step + .custom-block {
+  margin-top: 0;
+}
+
+.custom-block + .gi-step {
+  margin-top: 0;
 }
 
 /* ============================================================

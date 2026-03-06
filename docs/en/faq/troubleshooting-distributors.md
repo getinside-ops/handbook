@@ -39,7 +39,7 @@ If your funds remain "pending" after 30 days → contact support with the campai
 3. **Is the IBAN on your account correct?** → Check in Settings → Bank details.
 4. **Are you within the normal timeframe?** → Payment is issued **30 days end of month** after validation of your request.
 
-If everything is in order and the transfer is still missing → contact [support@getinside.io](mailto:support@getinside.io) with:
+If everything is in order and the transfer is still missing → contact [support@getinside.fr](mailto:support@getinside.fr) with:
 - The date of the request
 - The requested amount
 - Your IBAN
@@ -118,17 +118,14 @@ The payment of affiliation commissions is **automatically suspended** if you hav
 ::: details "My account is suspended or blocked"
 Possible causes: unpaid invoices, non-compliance with platform rules, suspicious activity detected.
 
-Contact support at [support@getinside.io](mailto:support@getinside.io) indicating your account email and the displayed error message.
+Contact support at [support@getinside.fr](mailto:support@getinside.fr) indicating your account email and the displayed error message.
 :::
 
 ---
 
 ## Can't find your answer?
 
-- **Email:** [support@getinside.io](mailto:support@getinside.io)
-- **Via platform:** Menu → Support → New ticket
-
-Specify: the campaign ID, the amount in question, and a screenshot if possible.
+- **Email:** [support@getinside.fr](mailto:support@getinside.fr)
 
 ---
 

@@ -22,7 +22,7 @@ getinside is a self-service platform. Free access, transparent model, no commitm
 
 ## Platform Fee
 
-::: tip
+::: tip What's included
 <div class="gi-price">12% <span class="gi-price-unit">of invested media budget</span></div>
 
 - ✅ **No subscription** — Platform access is free.

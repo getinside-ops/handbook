@@ -39,7 +39,7 @@ Si vos fonds restent en "attente" après 30 jours → contactez le support avec 
 3. **L'IBAN sur votre compte est-il correct ?** → Vérifiez dans Paramètres → Coordonnées bancaires.
 4. **Êtes-vous dans le délai normal ?** → Le paiement est émis à **30 jours fin de mois** après validation de votre demande.
 
-Si tout est en ordre et le virement est toujours absent → contactez [support@getinside.io](mailto:support@getinside.io) avec :
+Si tout est en ordre et le virement est toujours absent → contactez [support@getinside.fr](mailto:support@getinside.fr) avec :
 - La date de la demande
 - Le montant demandé
 - Votre IBAN
@@ -118,17 +118,14 @@ Le versement des commissions d'affiliation est **suspendu automatiquement** si v
 ::: details "Mon compte est suspendu ou bloqué"
 Causes possibles : factures impayées, non-conformité aux règles de la plateforme, activité suspecte détectée.
 
-Contactez le support à [support@getinside.io](mailto:support@getinside.io) en indiquant votre email de compte et le message d'erreur affiché.
+Contactez le support à [support@getinside.fr](mailto:support@getinside.fr) en indiquant votre email de compte et le message d'erreur affiché.
 :::
 
 ---
 
 ## Vous ne trouvez pas votre réponse ?
 
-- **Email :** [support@getinside.io](mailto:support@getinside.io)
-- **Via la plateforme :** Menu → Support → Nouveau ticket
-
-Précisez : l'ID de la campagne, le montant en question, et une capture d'écran si possible.
+- **Email :** [support@getinside.fr](mailto:support@getinside.fr)
 
 ---
 
