@@ -32,6 +32,13 @@
   --vp-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --vp-font-family-heading: 'Garnett', 'Inter', system-ui, sans-serif;
 
+  /* ── Off-white background (light mode) ──────────────────── */
+  --vp-c-bg: #F7F6F3;
+  --vp-c-bg-soft: #EEECEA;
+  --vp-c-bg-mute: #E5E3DF;
+  --vp-c-bg-elv: #FFFFFF;
+  --vp-c-bg-alt: #EEECEA;
+
   /* ── Mint/Teal brand (light mode) ────────────────────────── */
   --vp-c-brand-1: #0aaa8e;
   /* mint-dark — legible on white */
@@ -83,52 +90,24 @@
   --gi-tint-purple-text: #7b1fa2;
 }
 
-/* ── Dark mode: full neon/tech overrides ──────────────────── */
+/* ── Dark mode: VitePress defaults + mint accent ───────────── */
 .dark {
-  /* Mint brand — close to light mode for visual consistency */
+  /* Mint brand — full brightness for accent on dark */
   --vp-c-brand-1: #6AE7C8;
-  /* mint — full brightness on dark */
   --vp-c-brand-2: #4ecfb4;
-  /* mint-dim */
   --vp-c-brand-3: #8df0da;
-  /* mint-bright */
   --vp-c-brand-soft: rgba(106, 231, 200, 0.15);
 
-  /* Deep dark backgrounds */
-  --vp-c-bg: #020617;
-  /* slate-950 */
-  --vp-c-bg-soft: #0a1628;
-  /* deep navy */
-  --vp-c-bg-mute: #1e293b;
-  /* slate-800 */
-  --vp-c-bg-elv: #0a1628;
-  --vp-c-bg-alt: #0a1628;
-
-  /* Mint-tinted dark borders */
-  --vp-c-divider: rgba(106, 231, 200, 0.14);
-  --vp-c-border: rgba(106, 231, 200, 0.14);
-  --vp-c-gutter: #020617;
-
-  /* Frosted nav + sidebar */
-  --vp-nav-bg-color: rgba(2, 6, 23, 0.88);
-  --vp-sidebar-bg-color: #020617;
-
-  /* Code blocks */
-  --vp-code-block-bg: #0a1628;
+  /* Code inline — mint tint */
   --vp-code-color: #6AE7C8;
   --vp-code-bg: rgba(106, 231, 200, 0.10);
 
-  /* Text */
-  --vp-c-text-1: #e2e8f0;
-  --vp-c-text-2: #94a3b8;
-  --vp-c-text-3: #475569;
-
-  /* VitePress hero button — neon cyan, very dark text ───────── */
-  --vp-button-brand-text: #020617;
+  /* VitePress hero button */
+  --vp-button-brand-text: #1b1b1f;
   --vp-button-brand-bg: var(--vp-c-brand-1);
-  --vp-button-brand-hover-text: #020617;
+  --vp-button-brand-hover-text: #1b1b1f;
   --vp-button-brand-hover-bg: var(--vp-c-brand-2);
-  --vp-button-brand-active-text: #020617;
+  --vp-button-brand-active-text: #1b1b1f;
   --vp-button-brand-active-bg: var(--vp-c-brand-1);
 
   /* Semantic tint tokens — mint-adapted dark mode */
@@ -147,23 +126,23 @@
   --gi-tint-purple-text: #e9d5ff;
 }
 
-/* ── Mint glow effects (dark mode only) ──────────────────── */
+/* ── Mint accent effects (dark mode only) ────────────────── */
 .dark .btn-primary {
-  box-shadow: 0 0 18px rgba(106, 231, 200, 0.30);
+  box-shadow: 0 0 14px rgba(106, 231, 200, 0.20);
 }
 
 .dark .btn-primary:hover {
-  box-shadow: 0 0 28px rgba(106, 231, 200, 0.55), 0 2px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 22px rgba(106, 231, 200, 0.35), 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 .dark .gi-card:hover {
   border-color: rgba(106, 231, 200, 0.40) !important;
-  box-shadow: 0 0 28px rgba(106, 231, 200, 0.10), 0 4px 20px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 20px rgba(106, 231, 200, 0.08), 0 4px 16px rgba(0, 0, 0, 0.3);
 }
 
 .dark .gi-tile:hover {
-  background: rgba(106, 231, 200, 0.06) !important;
-  border-color: rgba(106, 231, 200, 0.38) !important;
+  background: rgba(106, 231, 200, 0.05) !important;
+  border-color: rgba(106, 231, 200, 0.35) !important;
 }
 
 /* ============================================================
