@@ -132,11 +132,16 @@ function injectSchemaOrg(page: any) {
     publisher: {
       '@type': 'Organization',
       name: 'getinside',
+      alternateName: 'getinside Media',
       logo: {
         '@type': 'ImageObject',
         url: 'https://getinside-ops.github.io/handbook/images/logo-getinside.svg',
       },
       url: 'https://www.getinside.media/',
+    },
+    breadcrumb: {
+      '@type': 'BreadcrumbList',
+      itemListElement: generateBreadcrumbs(page.relativePath),
     },
   }
 
@@ -149,4 +154,38 @@ function injectSchemaOrg(page: any) {
   script.setAttribute('data-schema', 'main')
   script.textContent = JSON.stringify(schema, null, 2)
   document.head.appendChild(script)
+}
+function generateBreadcrumbs(relativePath: string) {
+  const parts = relativePath.split('/').filter(Boolean)
+  const breadcrumbs = [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Handbook',
+      item: 'https://getinside-ops.github.io/handbook/',
+    },
+  ]
+
+  let currentPath = 'https://getinside-ops.github.io/handbook/'
+  parts.forEach((part, index) => {
+    if (part.endsWith('.md')) {
+      const name = part.replace('.md', '').replace(/-/g, ' ')
+      breadcrumbs.push({
+        '@type': 'ListItem',
+        position: index + 2,
+        name: name.charAt(0).toUpperCase() + name.slice(1),
+        item: currentPath + part.replace('.md', ''),
+      })
+    } else {
+      currentPath += part + '/'
+      breadcrumbs.push({
+        '@type': 'ListItem',
+        position: index + 2,
+        name: part.charAt(0).toUpperCase() + part.slice(1),
+        item: currentPath,
+      })
+    }
+  })
+
+  return breadcrumbs
 }

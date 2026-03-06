@@ -14,14 +14,28 @@ Crawl-delay: 0
 # Sitemap XML
 Sitemap: https://getinside-ops.github.io/handbook/sitemap.xml
 
-# Spécifique: GPT
+# Specific: Perplexity
+User-agent: PerplexityBot
+Allow: /handbook/
+
+# Specific: Common Crawl (used by many LLMs)
+User-agent: CCBot
+Allow: /handbook/
+
+# Specific: OpenAI
 User-agent: GPTBot
 Allow: /handbook/
 
-# Spécifique: Claude/Anthropic
+# Specific: Claude/Anthropic
 User-agent: Claude-Web
 Allow: /handbook/
 
-# Spécifique: Gemini/Google
+# Specific: Google AI
 User-agent: Googlebot
+Allow: /handbook/
+User-agent: Google-Extended
+Allow: /handbook/
+
+# Specific: Apple AI
+User-agent: Applebot-Extended
 Allow: /handbook/

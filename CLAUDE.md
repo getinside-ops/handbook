@@ -15,7 +15,7 @@ npm run docs:preview  # Preview built site locally
 **VitePress documentation site** for getinside Retail Media platform. Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/`.
 
 **Core files:**
-- `.vitepress/config.ts` — Site config: sidebar nav (menus collapsed by default), Mermaid plugin, locales (French & English), base path `/handbook/`, meta tags (robots, OpenGraph, Twitter Card, Schema.org)
+- `.vitepress/config.ts` — Site config: sidebar nav (menus collapsed by default), Mermaid plugin, locales (French & English), base path `/handbook/`, meta tags (robots, OpenGraph, Twitter Card, Schema.org, MS Clarity, Google Site Verification)
 - `.vitepress/theme/index.ts` — Custom Vue theme: on every page mount, reads `route.data.frontmatter` and dynamically injects/updates OG tags, meta description, canonical URL, and a `<script type="application/ld+json">` Schema.org WebPage block in `<head>`
 - `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles; organized with section comments (`2h4. STEP LIST`, `2i. QUICK LINKS`, etc.)
 - `assets/images/` — All images (SVG + WebP); referenced as `/images/filename.ext`

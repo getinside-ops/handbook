@@ -421,6 +421,30 @@ const config: any = withMermaid(
     mermaid: {
       theme: 'neutral',
     },
+
+    // transformHead pour injecter les balises SEO en SSR
+    async transformHead({ pageData }) {
+      const { frontmatter, title, relativePath } = pageData
+      const pageTitle = frontmatter.title || title || 'getinside Handbook'
+      const pageDescription = frontmatter.description || 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.'
+      const pageImage = frontmatter.image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
+      const relUrl = relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
+      const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`
+
+      return [
+        ['meta', { property: 'og:title', content: pageTitle }],
+        ['meta', { property: 'og:description', content: pageDescription }],
+        ['meta', { property: 'og:image', content: pageImage }],
+        ['meta', { property: 'og:url', content: pageUrl }],
+        ['link', { rel: 'canonical', href: pageUrl }],
+        ['meta', { name: 'description', content: pageDescription }],
+        // AI & LLM specific
+        ['meta', { name: 'citation_title', content: pageTitle }],
+        ['meta', { name: 'citation_author', content: 'getinside' }],
+        ['meta', { name: 'dc.title', content: pageTitle }],
+        ['meta', { name: 'dc.description', content: pageDescription }],
+      ]
+    },
   })
 )
 
