@@ -15,7 +15,7 @@ npm run docs:preview  # Preview built site locally
 **VitePress documentation site** for getinside Retail Media platform. Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/`.
 
 **Core files:**
-- `.vitepress/config.ts` — Site config: sidebar nav, Mermaid plugin, locales, base path `/handbook/`. Includes `transformHead` for SSR-optimized meta tags (OpenGraph, description, AI-specific tags like `citation_title`) and MS Clarity / Google Search Console tags.
+- `.vitepress/config.ts` — Site config: sidebar nav, Mermaid plugin, locales, base path `/handbook/`. Includes `transformHead` for SSR-optimized meta tags (OpenGraph, description, AI-specific tags like `citation_title`), MS Clarity, Google Search Console, and Algolia site verification tags.
 - `.vitepress/theme/index.ts` — Custom Vue theme: dynamic metadata injection and enhanced Schema.org JSON-LD (WebPage, Organization, BreadcrumbList).
 - `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles.
 - `assets/` — Public assets (images, `humans.txt`, `security.txt`).

@@ -54,6 +54,7 @@ const config: any = withMermaid(
       ['meta', { name: 'googlebot', content: 'index, follow' }],
       ['meta', { name: 'bingbot', content: 'index, follow' }],
       ['meta', { name: 'google-site-verification', content: 'rYXnBrdfxUincgWiLZ2bJS8FYbU_vo3sYDa3eXMnM4Q' }],
+      ['meta', { name: 'algolia-site-verification', content: '8EFEF07F817F26A7' }],
 
       // Canonical URL (surchargé per page)
       ['link', { rel: 'canonical', href: 'https://getinside-ops.github.io/handbook/' }],
