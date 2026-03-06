@@ -41,7 +41,7 @@ keywords:
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="troubleshooting/" class="gi-nav-card">
+  <a href="../faq/troubleshooting-distributors" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting (Dépannage)</p>
