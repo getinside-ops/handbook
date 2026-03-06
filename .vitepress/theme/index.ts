@@ -8,6 +8,11 @@ export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
     'not-found': () => h(NotFound),
+    'home-hero-info-before': () => h('img', {
+      src: '/handbook/images/logo-getinside-txt.svg',
+      alt: 'getinside',
+      class: 'gi-hero-logo',
+    }),
   }),
   setup() {
     const route = useRoute()

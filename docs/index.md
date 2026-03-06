@@ -10,7 +10,6 @@ keywords:
   - getinside
 
 hero:
-  name: "getinside"
   text: "Le Retail Media accessible."
   tagline: "Revenus pour e-commerçants. Audiences exclusives pour annonceurs."
   image:

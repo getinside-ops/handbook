@@ -1449,9 +1449,23 @@ h2+.gi-step {
 }
 
 /* ============================================================
-   Homepage hero — Garnett Bold
+   Homepage hero — Logo SVG + Garnett Semibold
    ============================================================ */
-.VPHero .name,
+
+/* Masque le texte "getinside" remplacé par le logo SVG */
+.VPHero .name {
+  display: none !important;
+}
+
+/* Logo SVG — espacements pour compenser l'absence de fond perdu */
+.gi-hero-logo {
+  height: 52px;
+  width: auto;
+  display: block;
+  margin-bottom: 1.75rem;
+  margin-top: 0.25rem;
+}
+
 .VPHero .text {
   font-family: var(--vp-font-family-heading) !important;
   font-weight: 600 !important;
