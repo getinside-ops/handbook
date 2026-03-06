@@ -19,19 +19,19 @@ Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
     <span class="gi-format-card-icon">🐱</span>
     <span class="gi-format-card-title">Caats x Les Petits Culottés</span>
     <span class="gi-format-card-desc">Campagne Petfood ciblée auprès d'une audience Parents / Famille.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <a href="https://benoit-prentout.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🥘</span>
     <span class="gi-format-card-title">HelloFresh x Berceau Magique</span>
     <span class="gi-format-card-desc">Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <a href="https://benoit-prentout.github.io/archive-news/8fb31ccea9fa/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🤝</span>
     <span class="gi-format-card-title">Les Petits Frères des Pauvres</span>
     <span class="gi-format-card-desc">Campagne de collecte de fonds diffusée par Mieux que des Fleurs.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <a href="https://benoit-prentout.github.io/archive-news/0095a3e7cf89/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
 </div>
 

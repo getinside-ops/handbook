@@ -19,19 +19,19 @@ Click on the buttons to see the actual rendering in the browser.
     <span class="gi-format-card-icon">🐱</span>
     <span class="gi-format-card-title">Caats x Les Petits Culottés</span>
     <span class="gi-format-card-desc">Petfood campaign targeted at a Parents / Family audience.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <a href="https://benoit-prentout.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🥘</span>
     <span class="gi-format-card-title">HelloFresh x Berceau Magique</span>
     <span class="gi-format-card-desc">Exclusive Food offer (Cooking Box) to a Young Parents target.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <a href="https://benoit-prentout.github.io/archive-news/8fb31ccea9fa/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🤝</span>
     <span class="gi-format-card-title">Les Petits Frères des Pauvres</span>
     <span class="gi-format-card-desc">Fundraising campaign broadcast by Mieux que des Fleurs.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <a href="https://benoit-prentout.github.io/archive-news/0095a3e7cf89/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-avene.webp" alt="Avène Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-avene.webp" alt="Avène Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -64,7 +64,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-nocibe.webp" alt="Nocibé Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-nocibe.webp" alt="Nocibé Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -85,7 +85,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-hellofresh.webp" alt="HelloFresh Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-hellofresh.webp" alt="HelloFresh Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -106,7 +106,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-bam.webp" alt="Bam Karaoke Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-bam.webp" alt="Bam Karaoke Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -127,7 +127,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-upd.webp" alt="Ultra Premium Direct Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-upd.webp" alt="Ultra Premium Direct Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -148,7 +148,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-wash.webp" alt="Total Wash Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-wash.webp" alt="Total Wash Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -169,7 +169,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-nespresso.webp" alt="Nespresso Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-nespresso.webp" alt="Nespresso Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -190,7 +190,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/images/case-studies/case-japhy.webp" alt="Japhy Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-japhy.webp" alt="Japhy Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
