@@ -28,7 +28,7 @@ features:
     link: /en/publishers/
   - icon: 🎯
     title: Advertisers — Reach your customers where they buy
-    details: Benefit from the endorsement of recognized e-retailers to enhance your brand. Deploy your campaigns across multiple touchpoints. Capture maximum attention in an exclusive environment, away from the digital noise.
+    details: Benefit from the endorsement of recognized e-retailers to enhance your brand. Deploy your campaigns across multiple touchpoints.
     link: /en/advertisers/
   - icon: 🤝
     title: One network. One contract. Everything secure.

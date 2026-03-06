@@ -28,7 +28,7 @@ features:
     link: /publishers/
   - icon: 🎯
     title: Annonceurs — Touchez vos clients là où ils achètent
-    details: Bénéficiez de la caution d'e-commerçants reconnus pour valoriser votre marque. Déployez vos campagnes sur une multitude de points de contact. Captez une attention maximale dans un environnement exclusif, loin du bruit digital.
+    details: Bénéficiez de la caution d'e-commerçants reconnus pour valoriser votre marque. Déployez vos campagnes sur une multitude de points de contact.
     link: /advertisers/
   - icon: 🤝
     title: Un réseau. Un contrat. Tout sécurisé.
