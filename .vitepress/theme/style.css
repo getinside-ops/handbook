@@ -13,81 +13,90 @@
   --vp-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
 
   /* ── Mint/Teal brand (light mode) ────────────────────────── */
-  --vp-c-brand-1:    #0aaa8e;          /* mint-dark — legible on white */
-  --vp-c-brand-2:    #08937b;          /* mint-darker */
-  --vp-c-brand-3:    #6AE7C8;          /* mint-bright (soft effects) */
+  --vp-c-brand-1: #0aaa8e;
+  /* mint-dark — legible on white */
+  --vp-c-brand-2: #08937b;
+  /* mint-darker */
+  --vp-c-brand-3: #6AE7C8;
+  /* mint-bright (soft effects) */
   --vp-c-brand-soft: rgba(106, 231, 200, 0.14);
 
   /* ── Palette accents — vivid, for decoration ─────────────── */
-  --gi-mint:   #6AE7C8;
+  --gi-mint: #6AE7C8;
   --gi-yellow: #FCF758;
   --gi-violet: #C990FC;
 
   /* VitePress hero button — mint bg, dark text ─────────────── */
-  --vp-button-brand-border:        transparent;
-  --vp-button-brand-text:          #0a0f1e;
-  --vp-button-brand-bg:            var(--gi-mint);
-  --vp-button-brand-hover-border:  transparent;
-  --vp-button-brand-hover-text:    white;
-  --vp-button-brand-hover-bg:      var(--vp-c-brand-1);
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: #0a0f1e;
+  --vp-button-brand-bg: var(--gi-mint);
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: white;
+  --vp-button-brand-hover-bg: var(--vp-c-brand-1);
   --vp-button-brand-active-border: transparent;
-  --vp-button-brand-active-text:   white;
-  --vp-button-brand-active-bg:     var(--vp-c-brand-2);
+  --vp-button-brand-active-text: white;
+  --vp-button-brand-active-bg: var(--vp-c-brand-2);
 
   /* gi-* are thin aliases over VitePress native vars so content
      files (.md inline styles) automatically adapt to dark mode. */
-  --gi-accent:       var(--vp-c-brand-1);
+  --gi-accent: var(--vp-c-brand-1);
   --gi-accent-hover: var(--vp-c-brand-2);
   --gi-accent-light: var(--vp-c-brand-soft);
-  --gi-text:         var(--vp-c-text-1);
-  --gi-text-muted:   var(--vp-c-text-2);
-  --gi-border:       var(--vp-c-divider);
-  --gi-surface:      var(--vp-c-bg-elv);
+  --gi-text: var(--vp-c-text-1);
+  --gi-text-muted: var(--vp-c-text-2);
+  --gi-border: var(--vp-c-divider);
+  --gi-surface: var(--vp-c-bg-elv);
 
   /* Semantic tint tokens used in content (light mode) */
-  --gi-tint-blue-bg:      #e8fdf7;
-  --gi-tint-blue-text:    #0aaa8e;
-  --gi-tint-blue-border:  #6AE7C8;
-  --gi-tint-green-bg:     #f0fdf4;
-  --gi-tint-green-text:   #059669;
+  --gi-tint-blue-bg: #e8fdf7;
+  --gi-tint-blue-text: #0aaa8e;
+  --gi-tint-blue-border: #6AE7C8;
+  --gi-tint-green-bg: #f0fdf4;
+  --gi-tint-green-text: #059669;
   --gi-tint-green-border: #ccf3df;
-  --gi-tint-yellow-bg:    rgba(252, 247, 88, 0.18);
-  --gi-tint-yellow-text:  #d97706;
-  --gi-tint-red-bg:       #fff5f5;
-  --gi-tint-red-text:     #dc2626;
-  --gi-tint-red-border:   #fecdd3;
-  --gi-tint-purple-bg:    #f3e5f5;
-  --gi-tint-purple-text:  #7b1fa2;
+  --gi-tint-yellow-bg: rgba(252, 247, 88, 0.18);
+  --gi-tint-yellow-text: #d97706;
+  --gi-tint-red-bg: #fff5f5;
+  --gi-tint-red-text: #dc2626;
+  --gi-tint-red-border: #fecdd3;
+  --gi-tint-purple-bg: #f3e5f5;
+  --gi-tint-purple-text: #7b1fa2;
 }
 
 /* ── Dark mode: full neon/tech overrides ──────────────────── */
 .dark {
   /* Mint brand — close to light mode for visual consistency */
-  --vp-c-brand-1:    #6AE7C8;          /* mint — full brightness on dark */
-  --vp-c-brand-2:    #4ecfb4;          /* mint-dim */
-  --vp-c-brand-3:    #8df0da;          /* mint-bright */
+  --vp-c-brand-1: #6AE7C8;
+  /* mint — full brightness on dark */
+  --vp-c-brand-2: #4ecfb4;
+  /* mint-dim */
+  --vp-c-brand-3: #8df0da;
+  /* mint-bright */
   --vp-c-brand-soft: rgba(106, 231, 200, 0.15);
 
   /* Deep dark backgrounds */
-  --vp-c-bg:         #020617;          /* slate-950 */
-  --vp-c-bg-soft:    #0a1628;          /* deep navy */
-  --vp-c-bg-mute:    #1e293b;          /* slate-800 */
-  --vp-c-bg-elv:     #0a1628;
-  --vp-c-bg-alt:     #0a1628;
+  --vp-c-bg: #020617;
+  /* slate-950 */
+  --vp-c-bg-soft: #0a1628;
+  /* deep navy */
+  --vp-c-bg-mute: #1e293b;
+  /* slate-800 */
+  --vp-c-bg-elv: #0a1628;
+  --vp-c-bg-alt: #0a1628;
 
   /* Mint-tinted dark borders */
-  --vp-c-divider:    rgba(106, 231, 200, 0.14);
-  --vp-c-border:     rgba(106, 231, 200, 0.14);
-  --vp-c-gutter:     #020617;
+  --vp-c-divider: rgba(106, 231, 200, 0.14);
+  --vp-c-border: rgba(106, 231, 200, 0.14);
+  --vp-c-gutter: #020617;
 
   /* Frosted nav + sidebar */
-  --vp-nav-bg-color:     rgba(2, 6, 23, 0.88);
+  --vp-nav-bg-color: rgba(2, 6, 23, 0.88);
   --vp-sidebar-bg-color: #020617;
 
   /* Code blocks */
   --vp-code-block-bg: #0a1628;
-  --vp-code-color:    #6AE7C8;
-  --vp-code-bg:       rgba(106, 231, 200, 0.10);
+  --vp-code-color: #6AE7C8;
+  --vp-code-bg: rgba(106, 231, 200, 0.10);
 
   /* Text */
   --vp-c-text-1: #e2e8f0;
@@ -95,40 +104,43 @@
   --vp-c-text-3: #475569;
 
   /* VitePress hero button — neon cyan, very dark text ───────── */
-  --vp-button-brand-text:          #020617;
-  --vp-button-brand-bg:            var(--vp-c-brand-1);
-  --vp-button-brand-hover-text:    #020617;
-  --vp-button-brand-hover-bg:      var(--vp-c-brand-2);
-  --vp-button-brand-active-text:   #020617;
-  --vp-button-brand-active-bg:     var(--vp-c-brand-1);
+  --vp-button-brand-text: #020617;
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+  --vp-button-brand-hover-text: #020617;
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-active-text: #020617;
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
 
   /* Semantic tint tokens — mint-adapted dark mode */
-  --gi-tint-blue-bg:      rgba(106, 231, 200, 0.08);
-  --gi-tint-blue-text:    #6AE7C8;
-  --gi-tint-blue-border:  rgba(106, 231, 200, 0.30);
-  --gi-tint-green-bg:     rgba(16, 185, 129, 0.10);
-  --gi-tint-green-text:   #34d399;
+  --gi-tint-blue-bg: rgba(106, 231, 200, 0.08);
+  --gi-tint-blue-text: #6AE7C8;
+  --gi-tint-blue-border: rgba(106, 231, 200, 0.30);
+  --gi-tint-green-bg: rgba(16, 185, 129, 0.10);
+  --gi-tint-green-text: #34d399;
   --gi-tint-green-border: rgba(16, 185, 129, 0.28);
-  --gi-tint-yellow-bg:    rgba(217, 119, 6, 0.12);
-  --gi-tint-yellow-text:  #fde68a;
-  --gi-tint-red-bg:       rgba(220, 38, 38, 0.12);
-  --gi-tint-red-text:     #fca5a5;
-  --gi-tint-red-border:   rgba(220, 38, 38, 0.25);
-  --gi-tint-purple-bg:    rgba(168, 85, 247, 0.12);
-  --gi-tint-purple-text:  #e9d5ff;
+  --gi-tint-yellow-bg: rgba(217, 119, 6, 0.12);
+  --gi-tint-yellow-text: #fde68a;
+  --gi-tint-red-bg: rgba(220, 38, 38, 0.12);
+  --gi-tint-red-text: #fca5a5;
+  --gi-tint-red-border: rgba(220, 38, 38, 0.25);
+  --gi-tint-purple-bg: rgba(168, 85, 247, 0.12);
+  --gi-tint-purple-text: #e9d5ff;
 }
 
 /* ── Mint glow effects (dark mode only) ──────────────────── */
 .dark .btn-primary {
   box-shadow: 0 0 18px rgba(106, 231, 200, 0.30);
 }
+
 .dark .btn-primary:hover {
-  box-shadow: 0 0 28px rgba(106, 231, 200, 0.55), 0 2px 8px rgba(0,0,0,0.5);
+  box-shadow: 0 0 28px rgba(106, 231, 200, 0.55), 0 2px 8px rgba(0, 0, 0, 0.5);
 }
+
 .dark .gi-card:hover {
   border-color: rgba(106, 231, 200, 0.40) !important;
-  box-shadow: 0 0 28px rgba(106, 231, 200, 0.10), 0 4px 20px rgba(0,0,0,0.5);
+  box-shadow: 0 0 28px rgba(106, 231, 200, 0.10), 0 4px 20px rgba(0, 0, 0, 0.5);
 }
+
 .dark .gi-tile:hover {
   background: rgba(106, 231, 200, 0.06) !important;
   border-color: rgba(106, 231, 200, 0.38) !important;
@@ -140,6 +152,7 @@
 .VPImage.logo {
   filter: brightness(0);
 }
+
 .dark .VPImage.logo {
   filter: brightness(0) invert(1);
 }
@@ -161,7 +174,9 @@
   font-size: 0.875rem !important;
 }
 
-.vp-doc p, .vp-doc li, .vp-doc blockquote {
+.vp-doc p,
+.vp-doc li,
+.vp-doc blockquote {
   font-size: 0.875rem;
   line-height: 1.6;
 }
@@ -200,7 +215,8 @@
   line-height: 1.3 !important;
 }
 
-.vp-doc h5, .vp-doc h6 {
+.vp-doc h5,
+.vp-doc h6 {
   font-size: 0.875rem !important;
   font-weight: 700 !important;
   margin: 1rem 0 0.5rem !important;
@@ -208,7 +224,10 @@
 }
 
 /* Definition lists (glossary) */
-.vp-doc dl { margin: 0.5rem 0 1.25rem; }
+.vp-doc dl {
+  margin: 0.5rem 0 1.25rem;
+}
+
 .vp-doc dt {
   font-weight: 700;
   font-size: 0.875rem;
@@ -216,6 +235,7 @@
   margin-top: 1.25rem;
   margin-bottom: 0.2rem;
 }
+
 .vp-doc dd {
   margin: 0 0 0.25rem 1.25rem;
   padding-left: 0.875rem;
@@ -251,6 +271,7 @@
   gap: 0.75rem;
   margin-bottom: 1.75rem;
 }
+
 .gi-nav-card {
   display: flex;
   align-items: center;
@@ -263,23 +284,31 @@
   color: inherit !important;
   transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
 }
+
 .gi-nav-card:hover {
   border-color: var(--vp-c-brand-1);
-  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
   background: var(--vp-c-bg-soft);
 }
+
 .dark .gi-nav-card:hover {
   border-color: rgba(106, 231, 200, 0.40);
   box-shadow: 0 0 20px rgba(106, 231, 200, 0.08);
   background: rgba(106, 231, 200, 0.03);
 }
+
 .gi-nav-card-icon {
   font-size: 1.75rem;
   flex-shrink: 0;
   width: 2.5rem;
   text-align: center;
 }
-.gi-nav-card-body { flex: 1; min-width: 0; }
+
+.gi-nav-card-body {
+  flex: 1;
+  min-width: 0;
+}
+
 .gi-nav-card-title {
   font-size: 0.875rem;
   font-weight: 600;
@@ -289,18 +318,21 @@
   border: none !important;
   line-height: 1.3;
 }
+
 .gi-nav-card-desc {
   font-size: 0.8125rem;
   color: var(--vp-c-text-2);
   margin: 0 !important;
   line-height: 1.5;
 }
+
 .gi-nav-card-arrow {
   color: var(--vp-c-text-3);
   flex-shrink: 0;
   font-size: 1.1rem;
   transition: transform 0.15s, color 0.15s;
 }
+
 .gi-nav-card:hover .gi-nav-card-arrow {
   transform: translateX(3px);
   color: var(--vp-c-brand-1);
@@ -315,6 +347,7 @@
   gap: 1rem;
   margin-bottom: 1.75rem;
 }
+
 .gi-format-card {
   display: flex;
   flex-direction: column;
@@ -326,20 +359,24 @@
   color: inherit !important;
   transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
 }
+
 .gi-format-card:hover {
   border-color: var(--vp-c-brand-1);
   transform: translateY(-2px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
+
 .dark .gi-format-card:hover {
   border-color: rgba(106, 231, 200, 0.40);
   box-shadow: 0 0 24px rgba(106, 231, 200, 0.08);
 }
+
 .gi-format-card-icon {
   font-size: 1.75rem;
   margin-bottom: 0.75rem;
   display: block;
 }
+
 .gi-format-card-title {
   font-size: 0.875rem;
   font-weight: 700;
@@ -349,6 +386,7 @@
   border: none !important;
   display: block;
 }
+
 .gi-format-card-desc {
   font-size: 0.8125rem;
   color: var(--vp-c-text-2);
@@ -366,19 +404,22 @@
   gap: 1rem;
   margin-bottom: 1.75rem;
 }
+
 .gi-value-card {
   padding: 1.25rem;
   border: 1px solid var(--vp-c-divider);
   border-radius: 10px;
   background: var(--vp-c-bg-elv);
 }
-.gi-value-card > strong {
+
+.gi-value-card>strong {
   display: block;
   font-size: 0.875rem;
   margin-bottom: 0.3rem;
   color: var(--vp-c-text-1);
   font-weight: 600;
 }
+
 .gi-value-card p {
   font-size: 0.8125rem;
   color: var(--vp-c-text-2);
@@ -396,9 +437,17 @@
   padding: 1.25rem 1.5rem;
   margin-bottom: 1.75rem;
 }
-.gi-accent-box > *:first-child { margin-top: 0 !important; }
-.gi-accent-box > *:last-child  { margin-bottom: 0 !important; }
-.gi-accent-box h3, .gi-accent-box h4 {
+
+.gi-accent-box>*:first-child {
+  margin-top: 0 !important;
+}
+
+.gi-accent-box>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.gi-accent-box h3,
+.gi-accent-box h4 {
   border: none !important;
   padding: 0 !important;
 }
@@ -410,8 +459,15 @@
   padding: 1.25rem 1.5rem;
   margin-top: 0.75rem;
 }
-.gi-danger-box > *:first-child { margin-top: 0 !important; }
-.gi-danger-box > *:last-child  { margin-bottom: 0 !important; }
+
+.gi-danger-box>*:first-child {
+  margin-top: 0 !important;
+}
+
+.gi-danger-box>*:last-child {
+  margin-bottom: 0 !important;
+}
+
 .gi-danger-box strong:first-child {
   display: block;
   color: var(--gi-tint-red-text);
@@ -428,8 +484,15 @@
   padding: 1.25rem 1.5rem;
   margin: 1rem 0;
 }
-.gi-info-box > *:first-child { margin-top: 0 !important; }
-.gi-info-box > *:last-child  { margin-bottom: 0 !important; }
+
+.gi-info-box>*:first-child {
+  margin-top: 0 !important;
+}
+
+.gi-info-box>*:last-child {
+  margin-bottom: 0 !important;
+}
+
 .gi-info-box h4 {
   font-size: 0.875rem;
   font-weight: 700;
@@ -448,6 +511,7 @@
   gap: 1.25rem;
   margin: 1rem 0 0;
 }
+
 .gi-cert-item {
   display: flex;
   flex-direction: column;
@@ -455,15 +519,18 @@
   text-align: center;
   gap: 0.5rem;
 }
+
 .gi-cert-item .gi-cert-icon {
   font-size: 2rem;
   line-height: 1;
 }
+
 .gi-cert-item strong {
   font-size: 0.8125rem;
   color: var(--vp-c-text-1);
   font-weight: 600;
 }
+
 .gi-cert-item span {
   font-size: 0.75rem;
   color: var(--vp-c-text-2);
@@ -479,6 +546,7 @@
   margin-bottom: 1.5rem;
   align-items: flex-start;
 }
+
 .gi-step-num {
   flex-shrink: 0;
   width: 2.25rem;
@@ -493,17 +561,27 @@
   font-size: 0.9375rem;
   margin-top: -6px;
 }
-.gi-step-num.done { background: var(--gi-tint-green-text); }
-.gi-step-body { flex: 1; min-width: 0; }
-.gi-step-body > h3:first-child {
+
+.gi-step-num.done {
+  background: var(--gi-tint-green-text);
+}
+
+.gi-step-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.gi-step-body>h3:first-child {
   margin: 0 0 0.4rem !important;
   padding-top: 0 !important;
   font-size: 0.9375rem !important;
 }
+
 .gi-step-body .header-anchor {
   display: none;
 }
-h2 + .gi-step {
+
+h2+.gi-step {
   margin-top: 1.25rem;
 }
 
@@ -530,6 +608,7 @@ h2 + .gi-step {
   border-radius: 8px;
   border: 1px solid var(--vp-c-divider);
 }
+
 .gi-alpha-nav a {
   display: inline-flex;
   align-items: center;
@@ -545,6 +624,7 @@ h2 + .gi-step {
   border: 1px solid var(--vp-c-divider);
   transition: background 0.15s, border-color 0.15s;
 }
+
 .gi-alpha-nav a:hover {
   background: var(--vp-c-brand-soft);
   border-color: var(--vp-c-brand-1);
@@ -558,6 +638,7 @@ h2 + .gi-step {
 .gi-tile {
   transition: background 0.2s, border-color 0.2s !important;
 }
+
 .gi-tile:hover {
   background: var(--vp-c-bg-soft) !important;
   border-color: var(--vp-c-brand-1) !important;
@@ -567,6 +648,7 @@ h2 + .gi-step {
 .gi-tile-lift {
   transition: transform 0.2s !important;
 }
+
 .gi-tile-lift:hover {
   transform: translateY(-2px) !important;
 }
@@ -584,11 +666,13 @@ h2 + .gi-step {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
 }
+
 .gi-card:hover {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
   transform: translateY(-2px);
   border-color: var(--vp-c-brand-1);
 }
+
 .gi-card h2,
 .gi-card h3,
 .gi-card h4 {
@@ -617,6 +701,7 @@ h2 + .gi-step {
   transition: background 0.15s, border-color 0.15s, color 0.15s, transform 0.15s;
   white-space: nowrap;
 }
+
 .btn:hover {
   background: var(--vp-c-brand-soft);
   border-color: var(--vp-c-brand-1);
@@ -627,20 +712,25 @@ h2 + .gi-step {
 .btn-primary {
   background: var(--gi-mint) !important;
   border-color: var(--gi-mint) !important;
-  color: #0a0f1e !important;             /* dark text — bright mint needs it */
+  color: #0a0f1e !important;
+  /* dark text — bright mint needs it */
 }
+
 .btn-primary:hover {
   background: var(--vp-c-brand-1) !important;
   border-color: var(--vp-c-brand-1) !important;
   color: white !important;
   transform: translateY(-1px);
 }
+
 /* Dark mode: use neon cyan + very dark text */
 .dark .btn-primary {
-  background: var(--vp-c-brand-1) !important;   /* #22d3ee neon */
+  background: var(--vp-c-brand-1) !important;
+  /* #22d3ee neon */
   border-color: var(--vp-c-brand-1) !important;
   color: #020617 !important;
 }
+
 .dark .btn-primary:hover {
   background: var(--vp-c-brand-2) !important;
   border-color: var(--vp-c-brand-2) !important;
@@ -652,6 +742,7 @@ h2 + .gi-step {
   border-color: var(--vp-c-divider) !important;
   color: var(--vp-c-brand-1) !important;
 }
+
 .btn-outline:hover {
   background: var(--vp-c-brand-soft) !important;
   border-color: var(--vp-c-brand-1) !important;
@@ -677,27 +768,36 @@ h2 + .gi-step {
   margin: 18px 0;
   border-left: 4px solid;
 }
+
 .gi-callout.info {
   background: var(--gi-tint-blue-bg);
-  border-color: var(--gi-mint);          /* vivid mint accent */
-  color: var(--vp-c-text-1);             /* neutral text */
+  border-color: var(--gi-mint);
+  /* vivid mint accent */
+  color: var(--vp-c-text-1);
+  /* neutral text */
 }
+
 .gi-callout.success {
   background: var(--gi-tint-green-bg);
   border-color: var(--gi-tint-green-text);
   color: var(--vp-c-text-1);
 }
+
 .gi-callout.warning {
   background: var(--gi-tint-yellow-bg);
   border-color: var(--gi-tint-yellow-text);
   color: var(--vp-c-text-1);
 }
+
 .gi-callout.danger {
   background: var(--gi-tint-red-bg);
   border-color: var(--gi-tint-red-text);
   color: var(--vp-c-text-1);
 }
-.gi-callout p:last-child { margin-bottom: 0; }
+
+.gi-callout p:last-child {
+  margin-bottom: 0;
+}
 
 /* ============================================================
    7. LABEL / BADGE
@@ -712,96 +812,271 @@ h2 + .gi-step {
   border-radius: 5px;
   letter-spacing: 0.02em;
 }
-.label-blue   { background: var(--gi-tint-blue-bg);   color: var(--gi-tint-blue-text); }
-.label-green  { background: var(--gi-tint-green-bg);  color: var(--gi-tint-green-text); }
-.label-yellow { background: var(--gi-tint-yellow-bg); color: var(--gi-tint-yellow-text); }
-.label-red    { background: var(--gi-tint-red-bg);    color: var(--gi-tint-red-text); }
+
+.label-blue {
+  background: var(--gi-tint-blue-bg);
+  color: var(--gi-tint-blue-text);
+}
+
+.label-green {
+  background: var(--gi-tint-green-bg);
+  color: var(--gi-tint-green-text);
+}
+
+.label-yellow {
+  background: var(--gi-tint-yellow-bg);
+  color: var(--gi-tint-yellow-text);
+}
+
+.label-red {
+  background: var(--gi-tint-red-bg);
+  color: var(--gi-tint-red-text);
+}
 
 /* ============================================================
    8. JTD UTILITY CLASSES — text colors
    ============================================================ */
 .text-purple-200,
-.text-purple-100  { color: var(--vp-c-brand-1) !important; }
-.text-blue-200    { color: var(--gi-tint-blue-text) !important; }
-.text-green-200   { color: var(--gi-tint-green-text) !important; }
+.text-purple-100 {
+  color: var(--vp-c-brand-1) !important;
+}
+
+.text-blue-200 {
+  color: var(--gi-tint-blue-text) !important;
+}
+
+.text-green-200 {
+  color: var(--gi-tint-green-text) !important;
+}
+
 .text-grey-dk-000,
 .text-grey-dk-100,
 .text-grey-dk-200,
-.text-grey-lt-000 { color: var(--vp-c-text-2) !important; }
+.text-grey-lt-000 {
+  color: var(--vp-c-text-2) !important;
+}
+
 .text-red-100,
-.text-red-200     { color: var(--gi-tint-red-text) !important; }
-.text-yellow-200  { color: var(--gi-tint-yellow-text) !important; }
+.text-red-200 {
+  color: var(--gi-tint-red-text) !important;
+}
+
+.text-yellow-200 {
+  color: var(--gi-tint-yellow-text) !important;
+}
 
 /* ============================================================
    9. JTD UTILITY CLASSES — font sizes (compact scale, 14px standard)
    ============================================================ */
-.fs-1 { font-size: 0.7rem !important; }       /* 11px */
-.fs-2 { font-size: 0.8125rem !important; }    /* 13px */
-.fs-3 { font-size: 0.875rem !important; }     /* 14px — STANDARD */
-.fs-4 { font-size: 0.9375rem !important; }    /* 15px */
-.fs-5 { font-size: 1rem !important; }         /* 16px */
-.fs-6 { font-size: 1.125rem !important; }     /* 18px */
-.fs-7 { font-size: 1.375rem !important; }     /* 22px */
-.fs-8 { font-size: 1.75rem !important; }      /* 28px */
-.fs-9 { font-size: 2.25rem !important; }      /* 36px */
+.fs-1 {
+  font-size: 0.7rem !important;
+}
+
+/* 11px */
+.fs-2 {
+  font-size: 0.8125rem !important;
+}
+
+/* 13px */
+.fs-3 {
+  font-size: 0.875rem !important;
+}
+
+/* 14px — STANDARD */
+.fs-4 {
+  font-size: 0.9375rem !important;
+}
+
+/* 15px */
+.fs-5 {
+  font-size: 1rem !important;
+}
+
+/* 16px */
+.fs-6 {
+  font-size: 1.125rem !important;
+}
+
+/* 18px */
+.fs-7 {
+  font-size: 1.375rem !important;
+}
+
+/* 22px */
+.fs-8 {
+  font-size: 1.75rem !important;
+}
+
+/* 28px */
+.fs-9 {
+  font-size: 2.25rem !important;
+}
+
+/* 36px */
 
 /* ============================================================
    10. JTD UTILITY CLASSES — font weights
    ============================================================ */
-.fw-300 { font-weight: 300 !important; }
-.fw-400 { font-weight: 400 !important; }
-.fw-500 { font-weight: 500 !important; }
-.fw-700 { font-weight: 700 !important; }
+.fw-300 {
+  font-weight: 300 !important;
+}
+
+.fw-400 {
+  font-weight: 400 !important;
+}
+
+.fw-500 {
+  font-weight: 500 !important;
+}
+
+.fw-700 {
+  font-weight: 700 !important;
+}
 
 /* ============================================================
    11. JTD UTILITY CLASSES — display & flex
    ============================================================ */
-.d-flex        { display: flex !important; }
-.d-block       { display: block !important; }
-.d-inline      { display: inline !important; }
-.d-inline-flex { display: inline-flex !important; }
-.flex-wrap     { flex-wrap: wrap !important; }
-.flex-column   { flex-direction: column !important; }
+.d-flex {
+  display: flex !important;
+}
+
+.d-block {
+  display: block !important;
+}
+
+.d-inline {
+  display: inline !important;
+}
+
+.d-inline-flex {
+  display: inline-flex !important;
+}
+
+.flex-wrap {
+  flex-wrap: wrap !important;
+}
+
+.flex-column {
+  flex-direction: column !important;
+}
 
 /* ============================================================
    12. JTD UTILITY CLASSES — spacing
    ============================================================ */
-.mb-0 { margin-bottom: 0 !important; }
-.mb-1 { margin-bottom: 4px !important; }
-.mb-2 { margin-bottom: 8px !important; }
-.mb-3 { margin-bottom: 16px !important; }
-.mb-4 { margin-bottom: 24px !important; }
-.mb-5 { margin-bottom: 32px !important; }
-.mb-6 { margin-bottom: 48px !important; }
+.mb-0 {
+  margin-bottom: 0 !important;
+}
 
-.mt-0 { margin-top: 0 !important; }
-.mt-1 { margin-top: 4px !important; }
-.mt-2 { margin-top: 8px !important; }
-.mt-3 { margin-top: 16px !important; }
-.mt-4 { margin-top: 24px !important; }
-.mt-5 { margin-top: 32px !important; }
-.mt-6 { margin-top: 48px !important; }
+.mb-1 {
+  margin-bottom: 4px !important;
+}
 
-.mr-2 { margin-right: 8px !important; }
-.mr-4 { margin-right: 16px !important; }
-.ml-2 { margin-left: 8px !important; }
-.ml-4 { margin-left: 16px !important; }
+.mb-2 {
+  margin-bottom: 8px !important;
+}
 
-.pt-4 { padding-top: 24px !important; }
-.pb-4 { padding-bottom: 24px !important; }
-.pl-4 { padding-left: 24px !important; }
-.pr-4 { padding-right: 24px !important; }
+.mb-3 {
+  margin-bottom: 16px !important;
+}
+
+.mb-4 {
+  margin-bottom: 24px !important;
+}
+
+.mb-5 {
+  margin-bottom: 32px !important;
+}
+
+.mb-6 {
+  margin-bottom: 48px !important;
+}
+
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+.mt-1 {
+  margin-top: 4px !important;
+}
+
+.mt-2 {
+  margin-top: 8px !important;
+}
+
+.mt-3 {
+  margin-top: 16px !important;
+}
+
+.mt-4 {
+  margin-top: 24px !important;
+}
+
+.mt-5 {
+  margin-top: 32px !important;
+}
+
+.mt-6 {
+  margin-top: 48px !important;
+}
+
+.mr-2 {
+  margin-right: 8px !important;
+}
+
+.mr-4 {
+  margin-right: 16px !important;
+}
+
+.ml-2 {
+  margin-left: 8px !important;
+}
+
+.ml-4 {
+  margin-left: 16px !important;
+}
+
+.pt-4 {
+  padding-top: 24px !important;
+}
+
+.pb-4 {
+  padding-bottom: 24px !important;
+}
+
+.pl-4 {
+  padding-left: 24px !important;
+}
+
+.pr-4 {
+  padding-right: 24px !important;
+}
 
 /* ============================================================
    13. JTD UTILITY CLASSES — text & borders
    ============================================================ */
-.text-uppercase { text-transform: uppercase !important; }
-.text-left      { text-align: left !important; }
-.text-center    { text-align: center !important; }
-.no-underline   { text-decoration: none !important; }
+.text-uppercase {
+  text-transform: uppercase !important;
+}
 
-.border-top    { border-top: 1px solid var(--vp-c-divider) !important; }
-.border-bottom { border-bottom: 1px solid var(--vp-c-divider) !important; }
+.text-left {
+  text-align: left !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.no-underline {
+  text-decoration: none !important;
+}
+
+.border-top {
+  border-top: 1px solid var(--vp-c-divider) !important;
+}
+
+.border-bottom {
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
 
 /* ============================================================
    14. JTD bg-grey-lt-000 utility
@@ -871,8 +1146,8 @@ h2 + .gi-step {
 .VPHero .image-container .VPImage {
   position: relative;
   z-index: 1;
-  drop-shadow: 0 8px 32px rgba(106, 231, 200, 0.18);
 }
+
 
 /* Light mode: mint glow + subtle yellow accent */
 .VPHero .image-container .VPImage {
@@ -883,9 +1158,11 @@ h2 + .gi-step {
 .dark .VPHero .image-container::before {
   background: radial-gradient(circle, rgba(106, 231, 200, 0.30) 0%, transparent 68%);
 }
+
 .dark .VPHero .image-container::after {
   background: radial-gradient(circle, rgba(201, 144, 252, 0.22) 0%, transparent 68%);
 }
+
 .dark .VPHero .image-container .VPImage {
   filter: drop-shadow(0 0 28px rgba(106, 231, 200, 0.40));
 }
@@ -900,6 +1177,7 @@ h2 + .gi-step {
   color: var(--vp-c-brand-1);
   margin: 0.5rem 0 0.5rem;
 }
+
 .gi-price-unit {
   font-size: 0.875rem;
   font-weight: 400;
@@ -920,10 +1198,12 @@ h2 + .gi-step {
   background: var(--vp-c-bg-elv);
   margin-bottom: 30px;
 }
+
 .gi-case-img {
   flex: 0 0 250px;
   min-width: 250px;
 }
+
 .gi-case-img img {
   width: 100%;
   border-radius: 6px;
@@ -931,6 +1211,7 @@ h2 + .gi-step {
   object-fit: cover;
   cursor: zoom-in;
 }
+
 .gi-case-body {
   flex: 1;
   min-width: 280px;
@@ -938,31 +1219,36 @@ h2 + .gi-step {
   flex-direction: column;
   justify-content: center;
 }
+
 .gi-case-body h2 {
   border-left: none !important;
   padding-left: 0 !important;
   margin: 0 0 0.25rem !important;
   font-size: 1rem !important;
 }
+
 .gi-case-header {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 10px;
 }
+
 .gi-case-stats {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 15px;
   margin: 15px 0 20px;
 }
-.gi-case-stats > div strong {
+
+.gi-case-stats>div strong {
   display: block;
   font-size: 0.75rem;
   color: var(--vp-c-text-2);
   margin-bottom: 2px;
   font-weight: 600;
 }
+
 .gi-case-quote {
   background: var(--vp-c-bg-soft);
   padding: 15px;
@@ -979,16 +1265,20 @@ h2 + .gi-step {
   display: none;
   position: fixed;
   z-index: 9999;
-  left: 0; top: 0;
-  width: 100%; height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
   overflow: auto;
   background: rgba(0, 0, 0, 0.9);
   justify-content: center;
   align-items: center;
 }
+
 .gi-lightbox-close {
   position: absolute;
-  top: 20px; right: 35px;
+  top: 20px;
+  right: 35px;
   color: white;
   font-size: 40px;
   font-weight: bold;
@@ -996,7 +1286,11 @@ h2 + .gi-step {
   transition: opacity 0.2s;
   line-height: 1;
 }
-.gi-lightbox-close:hover { opacity: 0.7; }
+
+.gi-lightbox-close:hover {
+  opacity: 0.7;
+}
+
 .gi-lightbox img {
   margin: auto;
   display: block;
@@ -1014,6 +1308,7 @@ h2 + .gi-step {
   margin-bottom: 2.5rem;
   align-items: stretch;
 }
+
 .gi-pricing-card {
   border: 1px solid var(--vp-c-divider);
   border-radius: 10px;
@@ -1022,29 +1317,60 @@ h2 + .gi-step {
   flex-direction: column;
   background: var(--vp-c-bg-elv);
 }
+
 .gi-pricing-card.featured {
   border: 2px solid var(--vp-c-brand-1);
   background: var(--gi-tint-blue-bg);
 }
-.gi-pricing-card h3 { margin: 0 0 0.25rem; }
-.gi-pricing-card h3.gi-pricing-title-featured { color: var(--vp-c-brand-1); }
+
+.gi-pricing-card h3 {
+  margin: 0 0 0.25rem;
+}
+
+.gi-pricing-card h3.gi-pricing-title-featured {
+  color: var(--vp-c-brand-1);
+}
+
 .gi-pricing-price {
   font-size: 1.5rem;
   font-weight: 800;
   line-height: 1.2;
   margin-bottom: 0.25rem;
 }
-.gi-pricing-price.featured { color: var(--vp-c-brand-1); }
-.gi-pricing-price span { font-size: 0.875rem; font-weight: 400; color: var(--vp-c-text-2); }
-.gi-pricing-desc { font-size: 0.8125rem; color: var(--vp-c-text-2); margin: 0 0 1rem; }
-.gi-pricing-divider { margin: 0 0 1rem; border: none; border-top: 1px solid var(--vp-c-divider); }
+
+.gi-pricing-price.featured {
+  color: var(--vp-c-brand-1);
+}
+
+.gi-pricing-price span {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--vp-c-text-2);
+}
+
+.gi-pricing-desc {
+  font-size: 0.8125rem;
+  color: var(--vp-c-text-2);
+  margin: 0 0 1rem;
+}
+
+.gi-pricing-divider {
+  margin: 0 0 1rem;
+  border: none;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
 .gi-pricing-features {
   padding-left: 1.25rem;
   flex-grow: 1;
   margin: 0 0 1rem;
   font-size: 0.8125rem;
 }
-.gi-pricing-features li { margin-bottom: 0.4rem; }
+
+.gi-pricing-features li {
+  margin-bottom: 0.4rem;
+}
+
 .gi-pricing-badge {
   background: var(--vp-c-bg-soft);
   padding: 0.5rem;
@@ -1052,6 +1378,7 @@ h2 + .gi-step {
   text-align: center;
   font-size: 0.8125rem;
 }
+
 .gi-pricing-badge.featured {
   background: var(--gi-tint-blue-bg);
   color: var(--vp-c-brand-1);
@@ -1062,7 +1389,106 @@ h2 + .gi-step {
    20. PRINT
    ============================================================ */
 @media print {
-  .VPNav, .VPSidebar, .VPDocFooter { display: none !important; }
-  .VPContent { margin: 0 !important; padding: 0 !important; }
-  .vp-doc { max-width: 100% !important; }
+
+  .VPNav,
+  .VPSidebar,
+  .VPDocFooter {
+    display: none !important;
+  }
+
+  .VPContent {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .vp-doc {
+    max-width: 100% !important;
+  }
+}
+
+/* ============================================================
+   21. KEYBOARD NAVIGATION & FOCUS STYLES
+   Ensures :focus-visible indicators are visible on all
+   interactive elements, including VitePress native shortcuts
+   (CMD+K search, Tab navigation, arrow keys in menus).
+   ============================================================ */
+
+/* Global focus reset — never hide outlines entirely */
+*:focus {
+  outline: none;
+}
+
+/* Re-enable visible focus only when navigating via keyboard */
+*:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Nav bar links & buttons */
+.VPNavBarItem a:focus-visible,
+.VPNavBarMenuLink:focus-visible,
+.VPNavBarMenuGroup .VPNavBarMenuLink:focus-visible,
+.VPNavScreenMenu .VPNavScreenMenuLink:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Search button (CMD+K trigger) */
+.VPNavBarSearch .DocSearch-Button:focus-visible,
+.VPLocalSearchBox input:focus-visible,
+button.vp-search-btn:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Sidebar items */
+.VPSidebarItem .link:focus-visible,
+.VPSidebarItem a:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Doc content links */
+.vp-doc a:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* Custom buttons (.btn class) */
+.btn:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 3px;
+}
+
+/* Footer links */
+.VPFooter a:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* Language switcher */
+.VPNavBarTranslations button:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Dark/Light mode toggle */
+.VPNavBarAppearance button:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Social links */
+.VPSocialLink:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 4px;
 }
