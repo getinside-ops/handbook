@@ -2,9 +2,11 @@ import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import { useRoute } from 'vitepress'
 import { onMounted } from 'vue'
+import NotFound from './components/NotFound.vue'
 
 export default {
   extends: DefaultTheme,
+  NotFound,
   setup() {
     const route = useRoute()
 
