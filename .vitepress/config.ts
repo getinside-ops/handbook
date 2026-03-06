@@ -53,6 +53,7 @@ const config: any = withMermaid(
       ['meta', { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' }],
       ['meta', { name: 'googlebot', content: 'index, follow' }],
       ['meta', { name: 'bingbot', content: 'index, follow' }],
+      ['meta', { name: 'google-site-verification', content: 'rYXnBrdfxUincgWiLZ2bJS8FYbU_vo3sYDa3eXMnM4Q' }],
 
       // Canonical URL (surchargé per page)
       ['link', { rel: 'canonical', href: 'https://getinside-ops.github.io/handbook/' }],
@@ -60,10 +61,23 @@ const config: any = withMermaid(
       // Open Graph
       ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:site_name', content: 'getinside Handbook' }],
+      ['meta', { property: 'og:title', content: 'getinside Handbook - Guides & Specs' }],
+      ['meta', { property: 'og:description', content: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.' }],
       ['meta', { property: 'og:locale', content: 'fr_FR' }],
       ['meta', { property: 'og:image', content: 'https://getinside-ops.github.io/handbook/images/og-image.png' }],
       ['meta', { property: 'og:image:width', content: '1200' }],
       ['meta', { property: 'og:image:height', content: '630' }],
+
+      // Microsoft Clarity
+      [
+        'script',
+        { type: 'text/javascript' },
+        `(function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "vrgbgu1sgz");`
+      ],
 
       // Twitter Card
       ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
