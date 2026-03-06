@@ -28,7 +28,7 @@ features:
     link: /en/publishers/
   - icon: 🎯
     title: Advertisers — Reach your customers where they buy
-    details: Parcel inserts, dedicated emailing, social ads on real buyer audiences. 100% open rate, average ROAS 824%. Far from Google and Meta saturation.
+    details: Benefit from the endorsement of recognized e-retailers to enhance your brand. Deploy your campaigns across multiple touchpoints. Capture maximum attention in an exclusive environment, away from the digital noise.
     link: /en/advertisers/
   - icon: 🤝
     title: One network. One contract. Everything secure.

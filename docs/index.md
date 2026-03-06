@@ -28,7 +28,7 @@ features:
     link: /publishers/
   - icon: 🎯
     title: Annonceurs — Touchez vos clients là où ils achètent
-    details: Insertion colis, emailing dédié, social ads sur audiences acheteurs réels. 100% de taux d'ouverture, ROAS moyen 824%. Loin de la saturation Google et Meta.
+    details: Bénéficiez de la caution d'e-commerçants reconnus pour valoriser votre marque. Déployez vos campagnes sur une multitude de points de contact. Captez une attention maximale dans un environnement exclusif, loin du bruit digital.
     link: /advertisers/
   - icon: 🤝
     title: Un réseau. Un contrat. Tout sécurisé.
