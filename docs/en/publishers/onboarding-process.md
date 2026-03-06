@@ -180,8 +180,7 @@ After this period, lack of response = tacit refusal and incurs a **penalty equiv
 
 ### Data Protection (GDPR & First Party Data)
 
-::: tip 🛡️ Data exclusively yours
-**🛡️ The data is exclusively yours**
+::: tip 🛡️ The data exclusively yours
 
 getinside acts as a **Trusted Third Party**. No transfer of customer files to an Advertiser is allowed without a specific new GDPR Opt-in.
 
