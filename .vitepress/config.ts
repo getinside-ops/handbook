@@ -95,6 +95,29 @@ const config: any = withMermaid(
 
       // LLM-specific
       ['meta', { name: 'ChatGPT-content', content: 'Retail media platform documentation - comprehensive guides for advertisers and e-commerce retailers' }],
+
+      // WebSite schema statique (SSR) pour que Google affiche le bon nom de site
+      ['script', { type: 'application/ld+json' }, JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'getinside Handbook',
+        alternateName: 'getinside',
+        url: 'https://getinside-ops.github.io/handbook/',
+        description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.',
+        publisher: {
+          '@type': 'Organization',
+          name: 'getinside',
+          url: 'https://www.getinside.media/',
+        },
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: {
+            '@type': 'EntryPoint',
+            urlTemplate: 'https://getinside-ops.github.io/handbook/?search={search_term_string}',
+          },
+          'query-input': 'required name=search_term_string',
+        },
+      })],
     ],
 
     themeConfig: {
