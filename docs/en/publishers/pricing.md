@@ -85,3 +85,7 @@ The balance can be **reinvested without fees** to fund your own acquisition camp
 
 ⚠️ Any unwithdrawn balance after **12 consecutive months of inactivity** is definitively acquired by getinside.
 :::
+
+::: info Contractual framework — March 2026 update
+Since **March 1, 2026**, the standalone Starter contract is no longer offered — it is now directly integrated into the **General Terms of Use and Commercialization (CGUC)**. The contractual framework is based on four documents: CGUC · CGV · General Referral Terms · Privacy Policy.
+:::

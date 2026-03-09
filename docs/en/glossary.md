@@ -18,6 +18,7 @@ Definitions of technical terms and acronyms of the platform.
   <a href="#p">P</a>
   <a href="#q">Q</a>
   <a href="#r">R</a>
+  <a href="#s">S</a>
   <a href="#t">T</a>
   <a href="#u">U</a>
   <a href="#w">W</a>
@@ -51,6 +52,10 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Average cost spent to generate a sale or a lead.</dd>
   <dt>CPM (Cost Per Mille)</dt>
   <dd>Standard unit of measurement. A CPM of 15€ means that the advertiser pays 15€ for 1,000 impressions.</dd>
+  <dt>CTR (Click-Through Rate / Scan Rate)</dt>
+  <dd>Percentage of people who interacted with the campaign (email click or QR code scan on a flyer). The getinside network average for parcel inserts is between 1% and 10%, with an average of 2.64%.</dd>
+  <dt>CVR (Conversion Rate)</dt>
+  <dd>Percentage of users who completed a purchase or converted after scanning the QR code or clicking the link. For parcel inserts, post-scan CVR ranges from 10% to 30%.</dd>
 </dl>
 <hr />
 <h2 id="d">D</h2>
@@ -67,6 +72,8 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Free distribution of a product in a reduced format to have it tested.</dd>
   <dt>Endorsement</dt>
   <dd>Guarantee brought by the Retailer to the Advertiser. The fact that the e-retailer "talks" about the brand strengthens trust.</dd>
+  <dt>Exchange (Wallet)</dt>
+  <dd>Platform feature allowing direct reinvestment of available Wallet revenue to fund your own acquisition campaigns — with no intermediary bank transfer.</dd>
 </dl>
 <hr />
 <h2 id="f">F</h2>
@@ -95,6 +102,8 @@ Definitions of technical terms and acronyms of the platform.
 <hr />
 <h2 id="p">P</h2>
 <dl>
+  <dt>Partnership Ads</dt>
+  <dd>Meta advertising format (Instagram, Facebook) allowing an advertiser to sponsor a post published from a partner's account (e-retailer). TikTok equivalent: Spark Ads.</dd>
   <dt>Tracking Pixel</dt>
   <dd>Small piece of code (1x1 image) inserted in an email to count opens.</dd>
 </dl>
@@ -111,6 +120,18 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Advertising devices present on the purchasing paths of e-retailers (Parcels, Web, Email).</dd>
   <dt>ROI</dt>
   <dd>Return on Investment.</dd>
+  <dt>ROAS (Return On Ad Spend)</dt>
+  <dd>Revenue generated for each euro spent on advertising. A ROAS of 5 means 5€ in turnover for 1€ invested.</dd>
+</dl>
+<hr />
+<h2 id="s">S</h2>
+<dl>
+  <dt>Score Distributeur (Distributor Score)</dt>
+  <dd>Quality rating out of 5 stars assigned to each partner e-retailer. It determines their visibility in the getinside marketplace. Dynamically calculated on 7 criteria: pricing, volume, brand attractiveness, inventory reliability, audience responsiveness, campaign history, communication & reporting.</dd>
+  <dt>Smart Matching</dt>
+  <dd>getinside AI algorithm that automatically connects advertisers and audiences by cross-referencing behavioral data, product universe, and historical performance to maximize the relevance of each campaign.</dd>
+  <dt>Spark Ads</dt>
+  <dd>TikTok advertising format allowing an advertiser to amplify a native post published from a partner's account. Meta equivalent: Partnership Ads.</dd>
 </dl>
 <hr />
 <h2 id="t">T</h2>

@@ -209,6 +209,25 @@ Click on the images to zoom.
   </div>
 </div>
 
+---
+
+## 💬 Client Testimonials
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Japhy</strong>
+    <p><em>"We are diversifying our customer acquisition with the addition of this lever that does not suffer from fierce competition."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Pepette</strong>
+    <p><em>"A relevant lever with the ability to target HelloFresh's audience (food, home delivery)."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Blacksheep</strong>
+    <p><em>"2.67% scan rate and a ROAS of 824%."</em></p>
+  </div>
+</div>
+
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>
   <img id="lightbox-img">

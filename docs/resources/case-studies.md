@@ -209,6 +209,25 @@ Cliquez sur les images pour zoomer.
   </div>
 </div>
 
+---
+
+## 💬 Témoignages Clients
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Japhy</strong>
+    <p><em>"Nous diversifions notre acquisition client avec l'ajout de ce levier qui ne souffre pas d'une concurrence exacerbée."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Pepette</strong>
+    <p><em>"Levier pertinent avec la possibilité de cibler l'audience de HelloFresh (alimentation, livraison domicile)."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Blacksheep</strong>
+    <p><em>"Taux de scan de 2,67% et un ROAS de 824%."</em></p>
+  </div>
+</div>
+
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>
   <img id="lightbox-img">

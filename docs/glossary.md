@@ -52,6 +52,10 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Coût moyen dépensé pour générer une vente ou un lead.</dd>
   <dt>CPM (Coût Pour Mille)</dt>
   <dd>Unité de mesure standard. Un CPM de 15€ signifie que l'annonceur paie 15€ pour 1 000 impressions.</dd>
+  <dt>CTR (Click-Through Rate / Taux de Scan)</dt>
+  <dd>Pourcentage de personnes ayant interagi avec la campagne (clic sur un email ou scan du QR code sur un flyer). La moyenne réseau getinside en insertion colis se situe entre 1% et 10%, avec une moyenne de 2,64%.</dd>
+  <dt>CVR (Conversion Rate / Taux de Conversion)</dt>
+  <dd>Pourcentage d'utilisateurs ayant finalisé un achat ou converti après avoir scanné le QR code ou cliqué sur le lien. En insertion colis, le CVR post-scan se situe entre 10% et 30%.</dd>
 </dl>
 <hr />
 <h2 id="d">D</h2>
