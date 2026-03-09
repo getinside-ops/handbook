@@ -78,6 +78,10 @@ Result: better open rates, increased trust, and significantly higher responsiven
 Japhy achieved **1.90% interaction** on a send to 200,000 contacts via Blast. HelloFresh x Berceau Magique captured young parents via a targeted offer. Les Petits Frères des Pauvres generated donations via a Mieux que des Fleurs partnership.
 :::
 
+::: info Did you know?
+Dedicated emailing is the **most remunerative format** for distributors. Transactional emails (post-purchase) can exceed **50% open rates**, and the retailer's endorsement provides a credibility that cold emailing cannot replicate.
+:::
+
 ---
 
 ## Targeting & Audiences

@@ -54,7 +54,7 @@ Le format **Emailing Dédié** pousse cet effet au maximum : le retailer rédige
 
 ::: info Le cercle vertueux du Réinvestissement
 
-getinside n'est pas seulement une régie, c'est un accélérateur de croissance. Ces revenus contribuent directement à votre **EBITDA**, avec une **marge nette supérieure à 75%** qui reflète l'efficacité de vos actifs logistiques existants.
+getinside n'est pas seulement une régie, c'est un accélérateur de croissance. Ces revenus contribuent directement à votre **EBITDA**, avec une **marge nette de 65 à 70%** qui reflète l'efficacité de vos actifs logistiques existants.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -103,7 +103,7 @@ Le Retail Media est puissant, mais complexe à opérer seul.
 
 ::: warning ⭐ Le Score Distributeur : Votre clé d'accès
 
-Chaque partenaire e-commerçant reçoit un **Score Distributeur** (1-5 étoiles) basé sur **7 critères clés** : respect des délais, qualité de tracking, taux d'erreur, conformité RGPD, taux de réclamations, intégration API et réactivité.
+Chaque partenaire e-commerçant reçoit un **Score Distributeur** (1-5 étoiles) basé sur **7 critères clés** : tarification compétitive, volume de distribution hebdomadaire, attractivité de la marque, fiabilité de l'inventaire, réactivité de l'audience, historique de campagnes et communication/reporting.
 
 Ce score détermine votre **visibilité dans le moteur de recherche de la plateforme** et votre accès prioritaire aux campagnes premium. Une excellente exécution renforce ce score, crée une confiance durable avec les annonceurs, et ouvre les portes à des opportunités de revenus croissants.
 

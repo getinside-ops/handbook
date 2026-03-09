@@ -1,6 +1,6 @@
 ---
 title: Monétisation E-commerce - Plateforme Retail Media pour Retailers - getinside
-description: Transformez vos colis et emails en revenus avec getinside. Monétisez votre audience auprès de +300 annonceurs. Marges >75%. Plateforme retail media.
+description: Transformez vos colis et emails en revenus avec getinside. Monétisez votre audience auprès de +300 annonceurs. Marges 65-70%. Plateforme retail media.
 keywords:
   - retail media
   - monétisation e-commerce

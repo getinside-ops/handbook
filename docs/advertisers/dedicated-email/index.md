@@ -78,6 +78,10 @@ Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivi
 Japhy a obtenu **1,90% d'interaction** sur un envoi de 200 000 contacts via Blast. HelloFresh x Berceau Magique a capté des jeunes parents via une offre ciblée. Les Petits Frères des Pauvres ont généré des dons via un partenariat Mieux que des Fleurs.
 :::
 
+::: info Le saviez-vous ?
+L'emailing dédié est le **format le plus rémunérateur** pour les distributeurs. Les emails transactionnels (post-achat) peuvent dépasser les **50% de taux d'ouverture**, et l'endorsement du retailer offre une crédibilité que le cold emailing ne peut pas reproduire.
+:::
+
 ---
 
 ## Ciblage & Audiences

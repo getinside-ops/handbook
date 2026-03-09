@@ -11,7 +11,7 @@ keywords:
 
 hero:
   text: "Retail Media made accessible."
-  tagline: "Revenue for e-retailers. Exclusive audiences for advertisers."
+  tagline: "The platform connecting brands and e-retailers."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -27,12 +27,12 @@ features:
     link: /en/publishers/
   - icon: 🎯
     title: Advertisers — Reach your customers where they buy
-    details: Benefit from the endorsement of recognized e-retailers to enhance your brand. Deploy your campaigns across multiple touchpoints.
+    details: Benefit from the endorsement of recognized e-retailers to enhance your brand. Deploy your campaigns across multiple touchpoints. 100% open rate on Sponsored Mail, 1-10% CTR, 10-30% conversion.
     link: /en/advertisers/
   - icon: 🤝
     title: One network. One contract. Everything secure.
     details: 250+ e-retailers, 300+ active advertisers, 950+ successful campaigns. Single billing, guaranteed payments before broadcast, GDPR compliance included.
-    link: /en/publishers/payouts
+    link: /en/start-here/
   - icon: 🛠️
     title: Creative studio, integrated tracking and logistics
     details: Visuals, certified Made in France printing (Imprim'Vert), routing, dynamic QR codes. You approve — we produce and broadcast.

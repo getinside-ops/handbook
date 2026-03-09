@@ -1,6 +1,6 @@
 ---
 title: E-commerce Monetization - Retail Media Platform for Retailers - getinside
-description: Turn your parcels and emails into revenue with getinside. Monetize your audience with +500 advertisers. 65-70% margins. Retail media platform.
+description: Turn your parcels and emails into revenue with getinside. Monetize your audience with +300 advertisers. 65-70% margins. Retail media platform.
 keywords:
   - retail media
   - e-commerce monetization

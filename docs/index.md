@@ -11,7 +11,7 @@ keywords:
 
 hero:
   text: "Retail Media made accessible."
-  tagline: "Revenus pour e-commerçants. Audiences exclusives pour annonceurs."
+  tagline: "La plateforme qui connecte marques et e-commerçants."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -23,16 +23,16 @@ hero:
 features:
   - icon: 📦
     title: Retailers — Vos colis et emails génèrent de la marge
-    details: Transformez vos coûts d'expédition en revenus récurrents. 1-2% de chiffre d'affaires additionnel, marge nette >75%, zéro intégration technique lourde.
+    details: Transformez vos coûts d'expédition en revenus récurrents. 2 à 20% de chiffre d'affaires additionnel, marge nette 65-70%, zéro intégration technique lourde.
     link: /publishers/
   - icon: 🎯
     title: Annonceurs — Touchez vos clients là où ils achètent
-    details: Bénéficiez de la caution d'e-commerçants reconnus pour valoriser votre marque. Déployez vos campagnes sur une multitude de points de contact.
+    details: Bénéficiez de la caution d'e-commerçants reconnus pour valoriser votre marque. Déployez vos campagnes sur une multitude de points de contact. 100% de taux d'ouverture en Sponsored Mail, 1-10% de CTR, 10-30% de conversion.
     link: /advertisers/
   - icon: 🤝
     title: Un réseau. Un contrat. Tout sécurisé.
     details: 250+ e-commerçants, 300+ annonceurs actifs, 950+ campagnes réussies. Facturation unique, paiements garantis avant diffusion, conformité RGPD incluse.
-    link: /publishers/payouts
+    link: /start-here/
   - icon: 🛠️
     title: Studio créatif, tracking et logistique intégrés
     details: Visuels, impression Made in France certifiée Imprim'Vert, routage, QR codes dynamiques. Vous validez — on produit et on diffuse.

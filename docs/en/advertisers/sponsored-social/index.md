@@ -33,7 +33,7 @@ A Partnership Ad is not a classic ad — it is an ad published from an e-retaile
   </div>
   <div class="gi-value-card">
     <strong>Reduced CPA</strong>
-    <p>The post-click conversion rate is higher because the audience is pre-qualified: it already matches the retailer's universe.</p>
+    <p>The post-click conversion rate is higher because the audience is pre-qualified: it already matches the retailer's universe. The native format avoids "Banner Blindness" and encourages virality.</p>
   </div>
   <div class="gi-value-card">
     <strong>First Party Data</strong>
@@ -103,9 +103,15 @@ Rather than broadcasting a classic ad from your account, you sponsor a post publ
 
 | Format | Dimensions | Recommendation |
 | :--- | :--- | :--- |
-| **Video** (Reels/TikTok) | 9:16 — 1080 × 1920 px, 15–60 s | Recommended — safe zone 15% top/bottom |
+| **Video** (Reels/TikTok) | 9:16 — 1080 × 1920 px, 15–60 s | Recommended — safe zone 15% top/bottom — **Sound ON required** |
 | **Feed Image** | 4:5 — 1080 × 1350 px | Text ≤ 20% of surface area |
 | **Story** | 9:16 — 1080 × 1920 px, 15 s/slide | Ensure space for link sticker |
+
+---
+
+::: warning Sound required on videos
+Instagram Reels and TikTok are played **with sound on by default**. Design your videos to be impactful with sound — music, voiceover, or subtitles to guarantee accessibility.
+:::
 
 ---
 

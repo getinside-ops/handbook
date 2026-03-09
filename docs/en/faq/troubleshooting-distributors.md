@@ -59,7 +59,7 @@ If you are on Platform or Managed and a fee was deducted → it's an error, cont
 
 :::: details "Funds were deducted from my Wallet without my request"
 ::: warning Automatic penalties deducted from your Wallet
-- **Cancellation of a validated campaign:** flat penalty 250€ + platform fees
+- **Cancellation of a validated campaign:** flat penalty 550€ HT + platform fees
 - **No response within 48h to a proposal:** penalty applied according to contract
 - **Late response without valid reason:** may result in a penalty
 :::

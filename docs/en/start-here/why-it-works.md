@@ -103,7 +103,7 @@ Retail Media is powerful, but complex to operate alone.
 
 ::: warning ⭐ The Distributor Score: Your access key
 
-Each partner e-retailer receives a **Distributor Score** (1-5 stars) based on **7 key criteria**: adherence to deadlines, tracking quality, error rate, GDPR compliance, complaint rate, API integration, and responsiveness.
+Each partner e-retailer receives a **Distributor Score** (1-5 stars) based on **7 key criteria**: competitive pricing, weekly distribution volume, brand attractiveness, inventory reliability, audience responsiveness, campaign history, and communication/reporting.
 
 This score determines your **visibility in the platform's search engine** and your priority access to premium campaigns. Excellent execution strengthens this score, builds lasting trust with advertisers, and opens doors to growing revenue opportunities.
 
@@ -133,6 +133,25 @@ The power of getinside lies in its **contextual consistency**. We offer **comple
     <span>🪴 <strong>Home Sweet Home</strong> (Parcel Insert)</span>
     <p>Trigger: Purchase of linen bed sheets.</p>
     <p>➔ Offer pushed: Fresh flowers subscription.</p>
+  </div>
+</div>
+
+## AI at the Service of Matching
+
+**getinside** integrates artificial intelligence to automate and optimize every connection between advertisers and audiences.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🤖 Smart Matching</strong>
+    <p>The algorithm connects advertisers to the most relevant audiences by cross-referencing product universe, average basket, buyer profile, and historical performance.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📈 CPA Prediction</strong>
+    <p>Before launch, the platform predicts the expected Cost Per Acquisition — the advertiser validates the profitability of their campaign before committing any budget.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>⚖️ Optimal Pricing</strong>
+    <p>AI finds the balance between the distributor's revenue expectations and the advertiser's ROAS objectives — so that every deal is win-win.</p>
   </div>
 </div>
 

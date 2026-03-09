@@ -11,7 +11,7 @@ You must respond within **48 working hours**. Responsiveness is the key to winni
 ::: details Can I cancel an already accepted campaign?
 Cancellation is highly discouraged. Except in cases of force majeure, penalties apply:
 
-- Flat penalty of **250€**
+- Flat penalty of **550€ HT**
 - \+ Reimbursement of lost platform fees
 - \+ Reimbursement of production costs (if printed) and studio costs incurred
 :::

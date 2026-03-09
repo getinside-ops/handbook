@@ -60,7 +60,7 @@ Apart from the media budget, you provide two elements:
     <p>The draw product that attracts players. Example: <em>"Win a year of products"</em> or <em>"3 × 100€ in vouchers"</em>. You manage the shipping to the winners after the draw.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🎟️ Conolation Reward</strong>
+    <strong>🎟️ Consolation Reward</strong>
     <p>A generic promo code (e.g., <code>THANKS15</code>) offered to <em>all</em> participants. Simple to prepare, high impact on conversion.</p>
   </div>
 </div>

@@ -33,7 +33,7 @@ Le Partnership Ad n'est pas un ad classique — c'est un ad publié depuis le co
   </div>
   <div class="gi-value-card">
     <strong>CPA réduit</strong>
-    <p>Le taux de conversion post-clic est supérieur car l'audience est préqualifiée : elle correspond déjà à l'univers du distributeur.</p>
+    <p>Le taux de conversion post-clic est supérieur car l'audience est préqualifiée : elle correspond déjà à l'univers du distributeur. Le format natif évite la "Banner Blindness" et favorise la viralité.</p>
   </div>
   <div class="gi-value-card">
     <strong>First Party Data</strong>
