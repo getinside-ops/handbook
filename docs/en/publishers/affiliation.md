@@ -57,6 +57,22 @@ This commission is credited to your **Wallet** with every invoice paid by the re
 The commission is paid with every renewal or payment from your referral — as long as they remain active on the platform.
 :::
 
+## Eligibility Criteria
+
+### For you (the Sponsor)
+
+- Have an **active** account on the platform and have accepted the General Referral Terms.
+- Be **up to date with your payments** to getinside — in case of an unpaid invoice, your commission payments are suspended until regularization.
+
+### For your Referral
+
+::: info Eligibility criteria
+- Register **exclusively via your unique invitation link**.
+- Be a professional who has **never used** the getinside platform before.
+- Be established in **France or in the European Economic Area (EEA)**.
+- Share **no capital links** with your company (no common subsidiary, no shared directors).
+:::
+
 ## Using your earnings
 
 <div class="gi-value-grid">

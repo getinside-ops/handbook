@@ -60,6 +60,12 @@ getinside centralizes the entire ecosystem: tech integration, printing, routing,
 
 ---
 
+::: info 🏦 getinside accelerates — 3.2M€ Seed Round (February 2026)
+**La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover** and **Founders Future** have joined getinside to accelerate the platform's technological development and make Retail Media accessible to all e-retailers.
+:::
+
+---
+
 ::: info Ready to start?
 
 - **Advertiser**: Reach your future customers via highly qualified audiences

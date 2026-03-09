@@ -33,7 +33,7 @@ Diversifiez vos canaux d'acquisition face à la saturation de Google et Meta. B�
 
 ### 📦 Pour les Retailers : Revenus & Contrôle
 
-**1-2% de chiffre d'affaires additionnel** composé quasi-intégralement de **marge nette >75%**.
+**2 à 20% de chiffre d'affaires additionnel** composé quasi-intégralement de **marge nette 65-70%**.
 
 Générez des revenus sans effort tout en gardant un contrôle absolu sur les marques que vous acceptez de diffuser à vos clients. Aucune intégration technique lourde.
 

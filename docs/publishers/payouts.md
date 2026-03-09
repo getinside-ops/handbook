@@ -124,4 +124,8 @@ Votre solde ne correspond pas à vos attentes ? Un retrait tarde ?
 
 ---
 
+::: tip Maximisez vos revenus
+L'**Emailing Dédié** est le format le plus rémunérateur pour les distributeurs (CPM maximisé). Combinez-le avec l'Insertion Colis pour diversifier vos sources de revenus. Pensez aussi au [Programme d'Affiliation](/publishers/affiliation) : parrainez d'autres e-commerçants ou marques et touchez **20% de commission** sur leurs frais de plateforme — crédités directement sur votre Wallet.
+:::
+
 **Prochaine étape :** Boostez vos revenus avec le [Score Distributeur](/publishers/score-distributor) — plus votre score est élevé, plus vous recevez de campagnes.

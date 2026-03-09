@@ -74,7 +74,7 @@ For this format, there is **no open pixel** — only clicks are counted (tracked
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🌐 Unified Inventory</strong>
-    <p>+250 partners accessible via a single platform. No need to negotiate individually with each media or e-retailer.</p>
+    <p>+250 partners and +300 active advertisers accessible via a single platform, reaching 40 million consumers. No need to negotiate individually with each media or e-retailer.</p>
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Brand Safety & Context</strong>

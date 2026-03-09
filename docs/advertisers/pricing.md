@@ -27,7 +27,7 @@ getinside est une plateforme en libre-service. Accès gratuit, modèle transpare
 
 - ✅ **Pas d'abonnement** — L'accès à la plateforme est gratuit.
 - ✅ **Pas de budget minimum** — Testez avec de petits montants.
-- ✅ **Accès illimité** à l'inventaire de +250 audiences exclusives.
+- ✅ **Accès illimité** à l'inventaire de +250 audiences exclusives, **+300 annonceurs** actifs et **40 millions de consommateurs** sur le réseau.
 - ✅ **Facture unique et centralisée** — quel que soit le nombre d'audiences achetées.
 :::
 

@@ -27,8 +27,8 @@ getinside is a self-service platform. Free access, transparent model, no commitm
 
 - ✅ **No subscription** — Platform access is free.
 - ✅ **No minimum budget** — Test with small amounts.
-- ✅ **Unlimited access** to the inventory of +250 exclusive audiences.
-- ✅ **Single centered invoice** — regardless of the number of audiences purchased.
+- ✅ **Unlimited access** to the inventory of +250 exclusive audiences, **+300 active advertisers** and **40 million consumers** across the network.
+- ✅ **Single centralized invoice** — regardless of the number of audiences purchased.
 :::
 
 :::info When is the invoice generated?

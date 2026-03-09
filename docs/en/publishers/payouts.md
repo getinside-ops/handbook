@@ -124,4 +124,8 @@ Your balance does not match your expectations? A withdrawal is delayed?
 
 ---
 
+::: tip Maximize your revenue
+**Dedicated Emailing** is the most lucrative format for distributors (maximized CPM). Combine it with Parcel Inserts to diversify your revenue streams. Also consider the [Affiliate Program](/en/publishers/affiliation): refer other e-retailers or brands and earn **20% commission** on their platform fees — credited directly to your Wallet.
+:::
+
 **Next step:** Boost your revenue with the [Distributor Score](/en/publishers/score-distributor) — the higher your score, the more campaigns you receive.

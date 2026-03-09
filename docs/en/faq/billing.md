@@ -43,6 +43,13 @@ getinside contacts you directly to resolve the incident. During the resolution, 
 In common cases (volume discrepancy, non-compliant flyer), the resolution takes 48 to 72 hours. Contact [support@getinside.fr](mailto:support@getinside.fr) if you don't receive feedback within 5 working days.
 :::
 
+::: details What are the contractual penalties?
+- **Late campaign cancellation:** flat penalty of **550€ HT**.
+- **Platform circumvention** (direct contact with a partner met through getinside): penalty of **2,500€ HT** per campaign concerned.
+
+These penalties are set out in the General Terms of Use and Commercialization (CGUC).
+:::
+
 ::: details Can my funds expire?
 Yes. If you do not log in **and** do not withdraw your revenue for **12 consecutive months**, the available funds expire and are definitively acquired by getinside.
 

@@ -43,6 +43,13 @@ getinside vous contacte directement pour résoudre l'incident. Pendant la résol
 Dans les cas courants (écart de volume, flyer non conforme), la résolution prend 48 à 72h. Contactez [support@getinside.fr](mailto:support@getinside.fr) si vous n'avez pas de retour sous 5 jours ouvrés.
 :::
 
+::: details Quelles sont les pénalités contractuelles ?
+- **Annulation tardive d'une campagne :** pénalité forfaitaire de **550€ HT**.
+- **Contournement de la plateforme** (contact direct avec un partenaire rencontré via getinside) : pénalité de **2 500€ HT** par campagne concernée.
+
+Ces pénalités sont prévues dans les Conditions Générales d'Utilisation et de Commercialisation (CGUC).
+:::
+
 ::: details Mes fonds peuvent-ils expirer ?
 Oui. Si vous ne vous connectez pas **et** ne retirez pas vos revenus pendant **12 mois consécutifs**, les fonds disponibles expirent et sont définitivement acquis à getinside.
 

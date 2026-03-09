@@ -74,7 +74,7 @@ Pour ce format, il n'y a **pas de pixel d'ouverture** — seuls les clics sont c
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🌐 Inventaire Unifié</strong>
-    <p>+250 partenaires accessibles via une seule plateforme. Plus besoin de négocier individuellement avec chaque média ou e-commerçant.</p>
+    <p>+250 partenaires et +300 annonceurs actifs accessibles via une seule plateforme, touchant 40 millions de consommateurs. Plus besoin de négocier individuellement avec chaque média.</p>
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Brand Safety & Contexte</strong>
