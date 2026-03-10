@@ -122,6 +122,25 @@ Contact support at [support@getinside.fr](mailto:support@getinside.fr) indicatin
 :::
 
 ---
+## Handling Entry Errors
+
+To err is human. Here is how to correct your most frequent blunders without stress.
+
+::: details "I made a mistake in entering my weekly volume"
+Did you type 10,000 instead of 1,000? Don't panic.
+1. **Do not attempt** to re-enter immediately if the system is locked.
+2. Send an immediate message to the advertiser via the campaign messaging to let them know.
+3. Contact [support@getinside.fr](mailto:support@getinside.fr) with the campaign number and the correct value. We will correct the data manually within 24 hours.
+:::
+
+::: details "I clicked 'Validate broadcast' too early or by mistake"
+This action is normally irreversible as it triggers billing.
+*   Notify getinside immediately (via chat or support@getinside.fr).
+*   If the invoice has not yet been issued, we can cancel the action.
+*   If it has been issued, we will have to issue a credit note and restart the process.
+:::
+
+---
 
 ## Can't find your answer?
 

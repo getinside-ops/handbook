@@ -56,10 +56,28 @@ If your visual meets the technical specifications (2mm bleed, 3mm quiet zone, 30
 3. The getinside validation takes precedence over the subjective appreciation of the distributor.
 :::
 
-::: details An advertiser asks for the addresses of my customers — can I give them?
-**No, under no circumstances.** This request is contrary to GDPR and our Terms of Service.
+::: details An advertiser is asking me for my customers' addresses — can I give them?
+**No, under no circumstances.** This request is contrary to GDPR and our T&Cs.
 
-Your customer data is a **First Party** asset that belongs exclusively to you. getinside operates as a **Trusted Third Party**: the advertiser accesses your audience without ever receiving the file. No database transfer is allowed without specific opt-in from each customer.
+Your customer data is a **First Party** asset that belongs exclusively to you. getinside operates as a **Trusted Third Party**: the advertiser accesses your audience without ever receiving the file. No database transfer is authorized without specific opt-in from each customer.
 
-In case of an insistent request, contact [support@getinside.fr](mailto:support@getinside.fr) — our team handles the legal response.
+In case of persistent requests, contact [support@getinside.fr](mailto:support@getinside.fr) — our team will handle the legal response.
 :::
+
+---
+
+## Messaging: Best Practices
+
+The getinside messaging system is your direct tool for building lasting partnerships.
+
+### 1. Be Responsive
+Even for a refusal, respond quickly. A distributor who responds fast (even negatively) wins the trust of advertisers for future proposals.
+
+### 2. Logistic Precision
+If you are requesting a date postponement or reporting a delay, be precise:
+*   **❌ Avoid:** "We're running late."
+*   **✅ Prefer:** "We have an unexpected peak in activity; distribution will start next Tuesday instead of Monday. Thank you for your understanding."
+
+### 3. Partnership Spirit
+Package insertion is a human medium. Don't hesitate to send a welcome message to the advertiser upon receipt of the flyers to confirm everything is compliant and distribution is starting.
+

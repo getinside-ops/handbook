@@ -71,6 +71,19 @@ Votre score est calculé sur 7 dimensions. Voici comment les optimiser :
   </div>
 </div>
 
+---
+
+## Pourquoi optimiser votre score ?
+
+Un score de **4,5/5 ou plus** a un impact direct sur la rentabilité de vos audiences :
+
+1.  **Classement Prioritaire** : Vous apparaissez en tête des résultats de recherche lorsque les annonceurs explorent la plateforme pour trouver de nouveaux partenaires.
+2.  **Confiance des Marques "Premium"** : Les annonceurs à gros budgets (L'Oréal, Nespresso, HelloFresh...) privilégient les profils ayant les meilleurs historiques de fiabilité pour leurs campagnes d'envergure.
+3.  **Taux d'Occupation Maximal** : En étant plus visible et jugé plus fiable, vous recevez mécaniquement plus de propositions, ce qui vous permet de réduire les périodes de "creux" sans campagnes.
+4.  **Plus de Poids dans les Négociations** : Un historique de performance impeccable vous permet de justifier plus facilement des CPM dans la fourchette haute de votre secteur.
+
+---
+
 ## Où trouver votre score ?
 
 Votre score est visible dans votre espace distributeur :

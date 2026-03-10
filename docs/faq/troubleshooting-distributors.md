@@ -122,6 +122,25 @@ Contactez le support à [support@getinside.fr](mailto:support@getinside.fr) en i
 :::
 
 ---
+## Gestion des Erreurs de Saisie
+
+L'erreur est humaine. Voici comment corriger vos bévues les plus fréquentes sans stress.
+
+::: details "Je me suis trompé dans la saisie de mon volume hebdomadaire"
+Vous avez tapé 10 000 au lieu de 1 000 ? Pas de panique.
+1. **Ne tentez pas** de refaire une saisie immédiate si le système est bloqué.
+2. Envoyez un message immédiat à l'annonceur via la messagerie de la campagne pour le prévenir.
+3. Contactez [support@getinside.fr](mailto:support@getinside.fr) avec le numéro de la campagne et la valeur correcte. Nous rectifierons la donnée manuellement sous 24h.
+:::
+
+::: details "J'ai cliqué sur 'Valider la diffusion' trop tôt ou par erreur"
+Cette action est normalement irréversible car elle déclenche la facturation.
+*   Prévenez immédiatement getinside (via le chat ou support@getinside.fr).
+*   Si la facture n'est pas encore émise, nous pouvons annuler l'action.
+*   Si elle est émise, nous devrons procéder à un avoir et relancer le processus.
+:::
+
+---
 
 ## Vous ne trouvez pas votre réponse ?
 

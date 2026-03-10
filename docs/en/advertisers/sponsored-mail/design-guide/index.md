@@ -86,16 +86,53 @@ Choose the mechanic adapted to your goal. All work with a QR code as the entry p
 </div>
 
 ---
+---
+## The Offer: What Makes the Difference
 
-## The Offer: what makes the difference
-
-:::tip Prioritize monetary value
-**"10€ off"** converts much better than "-10% discount". Concrete value is immediately perceived. A free product or gift also works very well — the psychological leverage of a gift surpasses that of savings.
+:::tip Prioritize Monetary Value
+**"$10 off"** converts much better than "-10% discount". Concrete value is perceived immediately. A free product or gift also works very well — the psychological leverage of a gift surpasses that of savings.
 :::
 
-:::info Validity period
-Plan for a validity of **at least 3 months**. Recipients often keep flyers for several weeks before scanning them. An expired offer = a lost opportunity.
-:::
+---
+
+## Copywriting that Converts
+
+A flyer has less than **3 seconds** to capture attention during unboxing. Here is how to structure your message:
+
+### 1. The Hook
+Don't start with your brand name, but with the **customer benefit**.
+*   **❌ Avoid:** "Discover the new [Brand] collection"
+*   **✅ Prefer:** "Your beauty routine gifted in this package" or "Say goodbye to [Problem] today".
+
+### 2. Clear Promise
+The offer must be the most readable element of the flyer. Use action verbs: "Enjoy", "Receive", "Save".
+
+### 3. Urgency & Exclusivity
+Give a reason to act **now**. 
+*   "Offer reserved for [Partner Name] customers"
+*   "Valid for the next 500 orders only"
+
+---
+
+## Visual Ergonomics (Paper UX)
+
+Design is not just about aesthetics; it's a physical user journey.
+
+### 1. Visual Hierarchy (Reading Pattern)
+The human eye generally follows a **Z-pattern** on A6/A5 formats.
+*   **Top Left:** Partner logo (for reassurance/endorsement).
+*   **Center:** The offer and product visual.
+*   **Bottom Right:** The QR code and Call to Action. This is the natural thumb placement when holding a flyer.
+
+### 2. The QR Code: Don't Hide It
+The QR code is your only bridge to conversion. 
+*   **Contrast:** Black QR on white background (avoid light colors or textured backgrounds).
+*   **Space:** Leave room around the QR code to help the camera focus.
+*   **Instruction:** Always add a "Scan to enjoy the offer" mention next to the code.
+
+### 3. Readability & Accessibility
+*   **Font Size:** No less than **8pt** for legal mentions and **12pt** for body text.
+*   **Contrast:** Ensure text stands out sharply from the background (avoid light text on light images).
 
 ---
 

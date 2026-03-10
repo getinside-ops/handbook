@@ -63,3 +63,20 @@ Vos données clients sont un actif **First Party** qui vous appartient exclusive
 
 En cas de demande insistante, contactez [support@getinside.fr](mailto:support@getinside.fr) — notre équipe prend en charge la réponse légale.
 :::
+
+---
+
+## La Messagerie : Bonnes Pratiques
+
+La messagerie getinside est votre outil direct pour construire des partenariats durables.
+
+### 1. Soyez Réactif
+Même pour un refus, répondez rapidement. Un distributeur qui répond vite (même négativement) gagne la confiance des annonceurs pour ses futures propositions.
+
+### 2. Précision Logistique
+Si vous demandez un report de date ou signalez un retard, soyez précis :
+*   **❌ Évitez :** "On a du retard."
+*   **✅ Préférez :** "Nous avons un pic d'activité imprévu, la distribution démarrera mardi prochain au lieu de lundi. Merci de votre compréhension."
+
+### 3. Esprit de Partenariat
+L'insertion colis est un média humain. N'hésitez pas à envoyer un message de bienvenue à l'annonceur à la réception des flyers pour confirmer que tout est conforme et que la distribution commence.

@@ -50,28 +50,42 @@ Your score is calculated on 7 dimensions. Here is how to optimize them:
 | **6. Campaign History** | Number of successful campaigns via the platform | Loyalty is rewarded — continue to operate regularly |
 | **7. Communication & Reporting** | Responsiveness to requests and punctuality of declarations | Declare your volumes every Mon/Tue, reply within 48h |
 
-## The 4 actions that boost the score
+## The 4 Actions That Boost Your Score
 
 <div class="gi-value-grid">
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>⏱️ Respond in under 48h</strong>
-    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Accept or decline proposals quickly. Avoid systematic refusals without proposing an alternative.</p>
+    <strong>⏱️ Respond in Under 48h</strong>
+    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Accept or decline proposals quickly. Avoid systematic refusals without offering an alternative.</p>
   </div>
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>📊 Respect committed volumes</strong>
+    <strong>📊 Respect Committed Volumes</strong>
     <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Distribute exactly the promised volume. Provide your reporting on time (Monday/Tuesday).</p>
   </div>
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>💶 Maintain consistent pricing</strong>
+    <strong>💶 Maintain Consistent Pricing</strong>
     <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Check that your CPMs remain competitive and within your sector's range.</p>
   </div>
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
-    <strong>🎯 Optimize audience engagement</strong>
+    <strong>🎯 Optimize Audience Engagement</strong>
     <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Accept campaigns that truly match your audience — scan/click rates impact the score.</p>
   </div>
 </div>
 
-## Where to find your score?
+---
+
+## Why Optimize Your Score?
+
+A score of **4.5/5 or higher** has a direct impact on the profitability of your audiences:
+
+1.  **Priority Ranking**: You appear at the top of search results when advertisers explore the platform to find new partners.
+2.  **Trust from "Premium" Brands**: Big-budget advertisers (L'Oréal, Nespresso, HelloFresh...) prioritize profiles with the best reliability records for their large-scale campaigns.
+3.  **Maximum Occupancy Rate**: By being more visible and deemed more reliable, you naturally receive more proposals, allowing you to reduce "gap" periods without campaigns.
+4.  **More Leverage in Negotiations**: An impeccable performance record makes it easier to justify CPMs in the upper range of your sector.
+
+---
+
+## Where to Find Your Score?
+
 
 Your score is visible in your distributor portal:
 
