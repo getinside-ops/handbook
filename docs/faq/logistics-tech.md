@@ -120,6 +120,21 @@ Si les dommages dépassent 1% du volume ou si les supports sont non conformes au
 
 ---
 
+## Sécurité et Anti-Fraude
+
+getinside agit en tant que Tiers de Confiance pour garantir la réalité de la diffusion aux annonceurs. En complément du tracking data (QR codes, pixels, liens), plusieurs mesures de contrôle sont en place.
+
+::: details Comment getinside s'assure-t-il que je ne mens pas sur mes volumes ?
+La plateforme confronte systématiquement vos déclarations hebdomadaires avec les **performances réelles** (scans de QR codes, clics). En cas d'incohérence majeure, une alerte est levée. 
+
+Pour renforcer cette sécurité, getinside applique trois leviers :
+1. **Campagnes "Client Mystère" :** getinside ou l'annonceur peuvent effectuer des commandes anonymes pour vérifier physiquement la présence du support dans le colis.
+2. **Preuve de chargement :** getinside se réserve le droit de vous demander une photo ou vidéo de vos stocks ou de votre ligne de colisage pendant la campagne.
+3. **Pénalités de fraude :** Toute déclaration frauduleuse avérée entraîne le non-paiement de la campagne, la chute immédiate du Score Distributeur et peut donner lieu à une pénalité financière forfaitaire prévue aux CGU.
+:::
+
+---
+
 ## Données & RGPD
 
 ::: details Un annonceur demande les adresses des destinataires — puis-je les communiquer ?

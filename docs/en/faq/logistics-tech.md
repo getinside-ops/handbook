@@ -97,6 +97,7 @@ The buyer is **required to accept** the following delivery discrepancies, which 
 1. Distribute the surplus if possible (unchanged budget, additional volume = bonus for the advertiser).
 2. If insertion is impossible (warehouse full, campaign ended), direct to recycling.
 3. If the advertiser disputes: reference Article 38 UNIIC and your delivery slip.
+
 ---
 
 ## Transport Damage
@@ -116,6 +117,21 @@ A **minor damage** (less than 1% of the delivered volume) is considered non-bloc
 If the damage exceeds 1% of the volume or if the materials do not comply with the validated proof, **suspend the insertion** and contact `logistique@getinside.fr` before any distribution.
 :::
 ::::
+
+---
+
+## Security and Anti-Fraud
+
+getinside acts as a Trusted Third Party to guarantee the reality of distribution to advertisers. In addition to data tracking (QR codes, pixels, links), several control measures are in place.
+
+::: details How does getinside ensure that I am not lying about my volumes?
+The platform systematically compares your weekly declarations with **actual performance** (QR code scans, clicks). In the event of a major inconsistency, an alert is raised.
+
+To reinforce this security, getinside applies three levers:
+1. **"Mystery Shopping" Campaigns:** getinside or the advertiser can place anonymous orders to physically verify the presence of the insert in the package.
+2. **Proof of loading:** getinside reserves the right to ask you for a photo or video of your stocks or your packaging line during the campaign.
+3. **Fraud penalties:** Any proven fraudulent declaration leads to non-payment of the campaign, an immediate drop in the Retailer Score, and may give rise to a fixed financial penalty provided for in the T&Cs.
+:::
 
 ---
 
@@ -153,3 +169,4 @@ getinside does not place a pixel on your site. Attribution relies on two levers:
 1. **Unique Promo Code:** create a specific code (e.g., `THANKS20`).
 2. **UTM Links:** configure the URL of your QR Code with UTM parameters (e.g., `utm_source=parcel-insert`) to track traffic in Google Analytics.
 :::
+
