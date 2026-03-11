@@ -82,6 +82,9 @@ En dehors du budget média, vous fournissez deux éléments :
   <div class="gi-step-body">
     <h3>Mise en place (Distributeur)</h3>
     <p>Le distributeur crée une landing page co-brandée sur son site et active ses canaux de trafic (newsletter, bannières, push web) pour diriger sa communauté vers le jeu.</p>
+    ::: warning 💡 Hébergement & Création LP
+    L'hébergement et la création de la **Landing Page (LP)** sont à la charge exclusive du **distributeur** sur son propre domaine (ex: `votre-site.com/jeu-marque`). Cette proximité technique avec l'audience habituelle maximise le taux de conversion et la confiance.
+    :::
   </div>
 </div>
 
@@ -121,11 +124,11 @@ En dehors du budget média, vous fournissez deux éléments :
 
 ## Tarification
 
-| Poste | Coût |
-| :--- | :--- |
-| **Frais de plateforme** | 12% du budget média investi |
-| **Studio Créatif** (optionnel) | Forfait 550€ HT par campagne |
-| **Dotation** | À votre charge (lots + expédition aux gagnants) |
+| Poste | Coût | Détail |
+| :--- | :--- | :--- |
+| **Frais de plateforme** | 12% du budget média investi | Frais de service getinside |
+| **Studio Créatif** (optionnel) | Forfait **550€ HT** par campagne | Production graphique (Email, Social, Print). **Exclut la création de la Landing Page.** |
+| **Dotation** | À votre charge | Valeur marchande des lots + frais d'expédition aux gagnants |
 
 ---
 

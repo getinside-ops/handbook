@@ -82,6 +82,9 @@ Apart from the media budget, you provide two elements:
   <div class="gi-step-body">
     <h3>Setup (Distributor)</h3>
     <p>The distributor creates a co-branded landing page on their site and activates their traffic channels (newsletter, banners, web push) to direct their community to the game.</p>
+    ::: warning 💡 Hosting & LP Creation
+    Hosting and creation of the **Landing Page (LP)** are the exclusive responsibility of the **distributor** on their own domain (e.g., `your-site.com/brand-contest`). This technical proximity to the usual audience maximizes conversion rates and trust.
+    :::
   </div>
 </div>
 
@@ -121,11 +124,11 @@ Apart from the media budget, you provide two elements:
 
 ## Pricing
 
-| Item | Cost |
-| :--- | :--- |
-| **Platform Fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | Flat fee 550€ HT per campaign |
-| **Prize** | At your expense (prizes + shipping to winners) |
+| Item | Cost | Detail |
+| :--- | :--- | :--- |
+| **Platform Fee** | 12% of invested media budget | getinside service fee |
+| **Creative Studio** (optional) | Flat fee **550€ HT** per campaign | Graphic production (Email, Social, Print). **Excludes Landing Page creation.** |
+| **Prize** | At your expense | Market value of prizes + shipping to winners |
 
 ---
 

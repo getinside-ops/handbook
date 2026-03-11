@@ -99,5 +99,4 @@ getinside assure une transparence totale sur les performances de vos envois.
 ---
 
 - [📋 Guide du Brief](./1-brief-annonceur) — Comment préparer vos éléments.
-- [📐 Spécifications Techniques](./print-specs) — (Note: à adapter pour l'email).
 - [🖼️ Studio Créatif](../../resources/studio) — Déléguez la production à nos experts.

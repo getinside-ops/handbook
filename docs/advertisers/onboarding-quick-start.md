@@ -29,15 +29,21 @@ L'accès est **réservé aux professionnels** (SIRET requis).
 
 Chaque format cible un objectif différent :
 
-| Format | Objectif idéal | Délai typique |
-|--------|---------------|--------------|
-| **📦 Insertion Colis** | Acquisition physique, notoriété, trafic offline→online | 2-4 semaines |
-| **📧 Emailing Dédié** | Acquisition email, trafic direct | 1-2 semaines |
-| **📩 Display Email** | Visibilité, remarketing | 1 semaine |
-| **📱 Social Ads** | Engagement, visibilité réseaux sociaux | 1-2 semaines |
-| **🎁 Jeu Concours** | Collecte de leads qualifiés | 2-3 semaines |
+| Format | Objectif idéal | Délai typique | Studio Fee |
+|--------|---------------|--------------|------------|
+| **📦 Insertion Colis** | Acquisition physique, notoriété, trafic offline→online | 2-4 semaines | 550€ HT |
+| **📧 Emailing Dédié** | Acquisition email, trafic direct | 1-2 semaines | 550€ HT |
+| **📩 Display Email** | Visibilité, remarketing | 1 semaine | 550€ HT |
+| **📱 Social Ads** | Engagement, visibilité réseaux sociaux | 1-2 semaines | 550€ HT |
+| **🎁 Jeu Concours** | Collecte de leads qualifiés | 2-3 semaines | 550€ HT* |
 
-> Pas sûr ? Votre gestionnaire de compte getinside vous conseille selon vos objectifs lors d'un appel de 15 minutes.
+> *Le Studio ne crée pas les Landing Pages pour les jeux-concours (responsabilité du distributeur).
+
+::: tip ⚡ Réactivité Garantie (SLA)
+Grâce à la **Règle des 48 heures**, les distributeurs s'engagent à répondre à vos propositions de campagnes sous 2 jours ouvrés. C'est l'assurance d'un time-to-market ultra-rapide.
+:::
+
+> Pas sûr ? Votre gestionnaire de compte getinside conseille selon vos objectifs lors d'un appel de 15 minutes.
 
 ---
 

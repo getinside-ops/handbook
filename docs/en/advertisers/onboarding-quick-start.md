@@ -29,13 +29,19 @@ Access is **reserved for professionals** (company ID required).
 
 Each format targets a different goal:
 
-| Format | Ideal Goal | Typical Timeline |
-|--------|---------------|--------------|
-| **📦 Parcel Insert** | Physical acquisition, awareness, offline→online traffic | 2-4 weeks |
-| **📧 Dedicated Emailing** | Email acquisition, direct traffic | 1-2 weeks |
-| **📩 Display Email** | Visibility, remarketing | 1 week |
-| **📱 Social Ads** | Engagement, social media visibility | 1-2 weeks |
-| **🎁 Contest** | Qualified lead collection | 2-3 weeks |
+| Format | Ideal Goal | Typical Timeline | Studio Fee |
+|--------|---------------|--------------|------------|
+| **📦 Parcel Insert** | Physical acquisition, awareness, offline→online traffic | 2-4 weeks | 550€ HT |
+| **📧 Dedicated Emailing** | Email acquisition, direct traffic | 1-2 weeks | 550€ HT |
+| **📩 Display Email** | Visibility, remarketing | 1 week | 550€ HT |
+| **📱 Social Ads** | Engagement, social media visibility | 1-2 weeks | 550€ HT |
+| **🎁 Contest** | Qualified lead collection | 2-3 weeks | 550€ HT* |
+
+> *The Studio does not create Landing Pages for contests (distributor's responsibility).
+
+::: tip ⚡ Guaranteed Responsiveness (SLA)
+Thanks to the **48-hour Rule**, distributors commit to responding to your campaign proposals within 2 business days. This ensures an ultra-fast time-to-market.
+:::
 
 > Not sure? Your getinside account manager advises you based on your goals during a 15-minute call.
 
