@@ -83,6 +83,27 @@ image: /images/gi-keyvisual.svg
   </a>
 </div>
 
+## Network Management & Forecast
+
+<div class="gi-nav-list">
+  <a href="onboarding-process#phase-3-acceleration-autonomy" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🏗️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Partner Advertisers & Network</p>
+      <p class="gi-nav-card-desc">Manage your own pool of advertisers, invite your historical partners, and eliminate your platform fees.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+  <a href="onboarding-process#phase-3-acceleration-autonomy" class="gi-nav-card">
+    <span class="gi-nav-card-icon">📈</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Forecast & Projections</p>
+      <p class="gi-nav-card-desc">Set revenue goals per advertiser and track your YTD progress in real-time.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+</div>
+
 ## Finance & Admin
 
 <div class="gi-format-grid">

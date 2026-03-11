@@ -26,6 +26,10 @@ Définitions des termes techniques et acronymes de la plateforme.
 </div>
 <h2 id="a">A</h2>
 <dl>
+  <dt>Annonceur Partenaire (Partner Advertiser)</dt>
+  <dd>Annonceur avec lequel un Distributeur collabore directement via la plateforme. Contrairement aux annonceurs du réseau global, les partenaires directs peuvent bénéficier de conditions tarifaires préférentielles (0% de frais de plateforme sur certains abonnements).</dd>
+  <dt>Annonceur Prospect</dt>
+  <dd>Cible commerciale identifiée ou importée par le Distributeur pour piloter son pipeline d'acquisition de nouveaux annonceurs.</dd>
   <dt>Annonceur (Advertiser)</dt>
   <dd>Marque qui achète de l'espace publicitaire pour promouvoir ses produits ou services.</dd>
   <dt>Insertion Colis (Sponsored Mail)</dt>
@@ -74,10 +78,14 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Caution apportée par le Distributeur à l'Annonceur. Le fait que l'e-commerçant "parle" de la marque renforce la confiance.</dd>
   <dt>Exchange (Wallet)</dt>
   <dd>Fonctionnalité de la plateforme permettant de réinvestir directement les revenus disponibles dans son Wallet pour financer ses propres campagnes d'acquisition — sans virement bancaire intermédiaire.</dd>
+  <dt>Double Tracking</dt>
+  <dd>Système de mesure redondant utilisé pour l'emailing, combinant un pixel d'ouverture (TrackedEmail) et un lien de clic (TrackedUrl) pour garantir l'exhaustivité des statistiques.</dd>
 </dl>
 <hr />
 <h2 id="f">F</h2>
 <dl>
+  <dt>Forecast Annuel</dt>
+  <dd>Objectif de revenu annuel fixé par un Distributeur pour un annonceur spécifique. Une jauge visuelle sur la plateforme permet de suivre l'atteinte de cet objectif en temps réel (YTD).</dd>
   <dt>First Party Data</dt>
   <dd>Données comportementales collectées en propre par le Distributeur : historique d'achats, emails opt-in, navigation sur site. Actif exclusif du Distributeur — non transférable aux Annonceurs. getinside opère comme Tiers de Confiance : les données ne quittent jamais l'environnement sécurisé du Distributeur.</dd>
   <dt>FOGRA39</dt>
@@ -129,7 +137,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Score Distributeur</dt>
   <dd>Note sur 5 étoiles attribuée à chaque e-commerçant partenaire. Elle détermine sa visibilité dans la marketplace getinside. Calculée dynamiquement sur 7 critères : tarification, volume, attractivité de marque, fiabilité inventaire, réactivité audience, historique campagnes, communication & reporting.</dd>
   <dt>Smart Matching</dt>
-  <dd>Algorithme IA de getinside qui connecte automatiquement annonceurs et audiences en croisant données comportementales, univers produit et performances historiques pour maximiser la pertinence de chaque campagne.</dd>
+  <dd>Algorithme de getinside qui connecte annonceurs et audiences. Il intègre le <strong>Trust Index</strong> pour évaluer la probabilité de réussite d'une collaboration.</dd>
   <dt>Spark Ads</dt>
   <dd>Format publicitaire TikTok permettant à un annonceur d'amplifier un post natif publié depuis le compte d'un partenaire. Équivalent Meta : Partnership Ads.</dd>
 </dl>
@@ -138,6 +146,8 @@ Définitions des termes techniques et acronymes de la plateforme.
 <dl>
   <dt>Taux d'ouverture (Open Rate)</dt>
   <dd>Pourcentage de destinataires ayant ouvert l'email.</dd>
+  <dt>Trust Index</dt>
+  <dd>Score de 1 à 5 étoiles mesurant la fiabilité d'une relation entre un Annonceur et une Audience. Calculé sur l'historique des campagnes passées, il aide à prédire la probabilité d'acceptation d'une proposition.</dd>
   <dt>Triman (Info-tri)</dt>
   <dd>Logo obligatoire en France indiquant comment trier le déchet.</dd>
 </dl>

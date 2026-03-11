@@ -94,14 +94,15 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3>Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
     <p><strong>⏱️ Règle des 48 heures (Critique)</strong> — Répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité égale à la commission perdue.</p>
+    <p><strong>Simulateur & Trust Index :</strong> L'annonceur utilise un simulateur de performance en temps réel et un <strong>Trust Index (1 à 5 étoiles)</strong> basé sur votre historique commun pour ajuster son offre. Plus votre réactivité est élevée, plus votre indice de confiance grimpe.</p>
     <p><strong>Ne refusez pas, négociez !</strong> L'objectif est de remplir votre inventaire :</p>
     <ul>
-      <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire.</li>
+      <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire. La barre de probabilité indique à l'annonceur vos chances d'acceptation.</li>
       <li><strong>📅 Dates indisponibles ?</strong> Proposez une autre période de diffusion.</li>
       <li><strong>📦 Volume inadapté ?</strong> Ajustez la quantité proposée.</li>
     </ul>
-    <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec l'annonceur, argumenter votre prix ou demander des précisions.</p>
-  </div>
+    <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec l'annonceur, argumenter votre prix ou demander des précisions.
+    </div>
 </div>
 
 <div class="gi-step">
@@ -113,6 +114,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
       <li><strong>Insertion Colis :</strong> Expédition des supports (respect du délai d'ingestion).</li>
       <li><strong>Digital :</strong> Transmission des assets créatifs et intégration.</li>
     </ul>
+    <p>⚠️ <strong>Attention :</strong> Toute annulation d'une campagne validée par le distributeur entraîne une pénalité forfaitaire de <strong>550 € HT</strong> en plus de la perte de commission.</p>
   </div>
 </div>
 
@@ -121,12 +123,13 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 <div class="gi-step">
   <div class="gi-step-num">🚀</div>
   <div class="gi-step-body">
-    <h3>Trade Marketing (Vos Marques)</h3>
-    <p>Ne dépendez pas uniquement des annonceurs externes. Soyez proactif avec vos propres fournisseurs !</p>
-    <p><strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.</p>
+    <h3>Gestion de Réseau (Annonceurs Partenaires)</h3>
+    <p>Ne dépendez pas uniquement des annonceurs externes. Pilotez votre propre réseau en direct !</p>
+    <p><strong>Annonceurs Partenaires :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous via getinside. Centralisez la gestion et la facturation au même endroit. Bénéficiez de <strong>0% de frais de plateforme</strong> pour vos partenaires directs (offres Plateforme ou Managed).</p>
     <ul>
-      <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
-      <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis — <strong>0% de frais de régie</strong> avec les offres Plateforme ou Managed.</li>
+      <li>✅ <strong>Recherche SIREN/TVA :</strong> Ajoutez vos partenaires en quelques clics via le moteur de recherche intégré.</li>
+      <li>✅ <strong>Invitations personnalisées :</strong> Envoyez des emails d'invitation directement depuis l'interface.</li>
+      <li>✅ <strong>Forecast Annuel :</strong> Fixez des objectifs de revenus par partenaire et suivez votre progression YTD (Year-To-Date) via une jauge visuelle.</li>
     </ul>
   </div>
 </div>
@@ -134,10 +137,12 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 <div class="gi-step">
   <div class="gi-step-num">🎯</div>
   <div class="gi-step-body">
-    <h3>Prospection Active <em>(Plateforme & Managed)</em></h3>
-    <p>Ne vous contentez pas d'attendre les campagnes inbound — allez chercher les annonceurs qui correspondent à votre audience.</p>
-    <p>Depuis votre espace Plateforme, parcourez le catalogue des annonceurs actifs et envoyez une proposition directement via la messagerie intégrée : univers produit, disponibilités, tarifs, exemples de campagnes passées.</p>
-    <p>C'est le levier le plus puissant pour doubler vos revenus — disponible uniquement avec les offres <strong>Plateforme</strong> et <strong>Managed</strong>.</p>
+    <h3>Prospection & Prospects <em>(Plateforme & Managed)</em></h3>
+    <p>Allez chercher les annonceurs qui correspondent à votre audience grâce aux outils de conquête.</p>
+    <ul>
+      <li><strong>Prospection Active :</strong> Parcourez le catalogue des annonceurs actifs getinside et envoyez des propositions directes.</li>
+      <li><strong>Annonceurs Prospects :</strong> Importez vos listes de prospects ciblés, suivez les étapes de vente (Pipeline) et générez des revenus sur de nouveaux comptes.</li>
+    </ul>
   </div>
 </div>
 
@@ -172,19 +177,17 @@ Passé ce délai, l'absence de réponse = refus tacite et entraîne une **pénal
 
 | Situation | Montant | Détail |
 |-----------|---------|--------|
-| Annulation après Validation | **550€ HT** | Forfait + perte de commission |
+| Annulation après Validation | **550€ HT** | Forfait administratif + perte de commission |
 | Rupture Anticipée de Contrat | **1 550€ HT** | Indemnité pour engagement annuel non tenu |
-| Contournement de Plateforme | **2 500€ HT / campagne** | Contact direct Annonceur ↔ Distributeur hors plateforme |
+| Contournement de Plateforme | **2 500€ HT / campagne** | Contact direct Annonceur ↔ Distributeur hors plateforme pour un compte apporté par getinside |
 
 ### Protection des Données (RGPD & First Party Data)
 
-::: tip 🛡️ Les données exclusivement vôtres
-
-getinside agit comme un **Tiers de Confiance**. Aucun transfert de fichier client vers un Annonceur n'est autorisé sans un nouvel Opt-in RGPD spécifique.
-
-- Vous conservez la propriété de vos données client.
-- Les annonceurs ne reçoivent que les leads opt-in (jeux concours uniquement).
-- Toute demande de données supplémentaires requiert une validation légale.
+::: tip 🛡️ Sécurisation absolue des "First Party Data"
+getinside agit comme un **Tiers de Confiance** et garantit contractuellement :
+- **Aucun accès direct** à vos données clients (First Party Data).
+- **Interdiction formelle** de louer, vendre, enrichir ou rapprocher vos données.
+- Nous opérons uniquement sur des données de diffusion agrégées et anonymisées.
 :::
 
 ### Droit de Veto Distributeur

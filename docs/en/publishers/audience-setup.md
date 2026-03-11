@@ -49,7 +49,22 @@ For each created audience, independently activate the formats you wish to moneti
 
 > You can activate or deactivate a format at any time without impacting ongoing campaigns.
 
-## 4. Managing multiple audiences and sites
+## 4. Managing your Inventory and Capacity
+
+For each campaign type (particularly Parcel Insert), you must enter your projected weekly volumes over 12 months.
+
+### Mass inventory editing
+To save time, you have quick modification tools:
+- **Edit all weeks:** Apply an identical volume to your entire calendar in a single action.
+- **Empty weeks only:** Fill only the periods not yet entered without overwriting your specific entries.
+
+**Workspace:** Monetization → Catalog → [Your Audience] → [Campaign Type] → Inventory
+
+::: tip 💡 Inventory reliability
+Up-to-date inventory over 12 months is a major criterion for your **Distributor Score**. Advertisers favor audiences with guaranteed availability.
+:::
+
+## 5. Managing multiple audiences and sites
 
 **A single account is enough**, even if you operate multiple e-commerce sites. Each site can have its own audience profile with its specific data.
 

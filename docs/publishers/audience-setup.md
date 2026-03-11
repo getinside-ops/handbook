@@ -49,7 +49,22 @@ Pour chaque audience créée, activez indépendamment les formats que vous souha
 
 > Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.
 
-## 4. Gérer plusieurs audiences et sites
+## 4. Gérer votre Inventaire et vos Capacités
+
+Pour chaque type de campagne (particulièrement l'Insertion Colis), vous devez renseigner vos volumes hebdomadaires prévisionnels sur 12 mois.
+
+### Édition en masse de l'inventaire
+Pour gagner du temps, vous disposez d'outils de modification rapide :
+- **Éditer toutes les semaines :** Appliquez un volume identique à l'ensemble de votre calendrier en une seule action.
+- **Semaines vides uniquement :** Remplissez uniquement les périodes non encore renseignées sans écraser vos saisies spécifiques.
+
+**Espace :** Monétisation → Catalogue → [Votre Audience] → [Type de Campagne] → Inventaire
+
+::: tip 💡 Fiabilité de l'inventaire
+Un inventaire à jour sur 12 mois est un critère majeur de votre **Score Distributeur**. Les annonceurs privilégient les audiences dont la disponibilité est garantie.
+:::
+
+## 5. Gérer plusieurs audiences et sites
 
 **Un seul compte suffit**, même si vous opérez plusieurs sites e-commerce. Chaque site peut avoir sa propre fiche audience avec ses données spécifiques.
 

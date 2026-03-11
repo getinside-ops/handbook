@@ -26,6 +26,10 @@ Definitions of technical terms and acronyms of the platform.
 </div>
 <h2 id="a">A</h2>
 <dl>
+  <dt>Partner Advertiser (Annonceur Partenaire)</dt>
+  <dd>Advertiser with whom a Distributor collaborates directly via the platform. Unlike general network advertisers, direct partners can benefit from preferential pricing conditions (0% platform fees on certain subscriptions).</dd>
+  <dt>Prospect Advertiser (Annonceur Prospect)</dt>
+  <dd>Commercial target identified or imported by the Distributor to drive their acquisition pipeline for new advertisers.</dd>
   <dt>Advertiser (Annonceur)</dt>
   <dd>Brand that buys advertising space to promote its products or services.</dd>
   <dt>Sponsored Mail (Insertion Colis)</dt>
@@ -74,10 +78,14 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Guarantee brought by the Retailer to the Advertiser. The fact that the e-retailer "talks" about the brand strengthens trust.</dd>
   <dt>Exchange (Wallet)</dt>
   <dd>Platform feature allowing direct reinvestment of available Wallet revenue to fund your own acquisition campaigns — with no intermediary bank transfer.</dd>
+  <dt>Double Tracking</dt>
+  <dd>Redundant measurement system used for emailing, combining an open pixel (TrackedEmail) and a click link (TrackedUrl) to ensure comprehensive statistics.</dd>
 </dl>
 <hr />
 <h2 id="f">F</h2>
 <dl>
+  <dt>Annual Forecast</dt>
+  <dd>Annual revenue target set by a Distributor for a specific advertiser. A visual gauge on the platform allows tracking the attainment of this target in real-time (YTD).</dd>
   <dt>First Party Data</dt>
   <dd>Behavioral data collected directly by the Retailer: purchase history, opt-in emails, on-site browsing. An exclusive asset of the Retailer — not transferable to Advertisers. getinside operates as a Trusted Third Party: data never leaves the Retailer's secure environment.</dd>
   <dt>FOGRA39</dt>
@@ -129,7 +137,7 @@ Definitions of technical terms and acronyms of the platform.
   <dt>Score Distributeur (Distributor Score)</dt>
   <dd>Quality rating out of 5 stars assigned to each partner e-retailer. It determines their visibility in the getinside marketplace. Dynamically calculated on 7 criteria: pricing, volume, brand attractiveness, inventory reliability, audience responsiveness, campaign history, communication & reporting.</dd>
   <dt>Smart Matching</dt>
-  <dd>getinside AI algorithm that automatically connects advertisers and audiences by cross-referencing behavioral data, product universe, and historical performance to maximize the relevance of each campaign.</dd>
+  <dd>getinside algorithm that connects advertisers and audiences. It integrates the <strong>Trust Index</strong> to evaluate the probability of success for a collaboration.</dd>
   <dt>Spark Ads</dt>
   <dd>TikTok advertising format allowing an advertiser to amplify a native post published from a partner's account. Meta equivalent: Partnership Ads.</dd>
 </dl>
@@ -138,6 +146,8 @@ Definitions of technical terms and acronyms of the platform.
 <dl>
   <dt>Open Rate</dt>
   <dd>Percentage of recipients who have opened the email.</dd>
+  <dt>Trust Index</dt>
+  <dd>Score from 1 to 5 stars measuring the reliability of a relationship between an Advertiser and an Audience. Calculated on historical past campaigns, it helps predict the probability of acceptance of a proposal.</dd>
   <dt>Triman</dt>
   <dd>Mandatory logo in France indicating how to sort waste.</dd>
 </dl>

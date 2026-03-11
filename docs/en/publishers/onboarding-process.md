@@ -94,9 +94,10 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
     <h3>Reception & Negotiation</h3>
     <p>When a campaign is proposed, all your users receive a notification.</p>
     <p><strong>⏱️ 48-Hour Rule (Critical)</strong> — Respond to any proposal within <strong>48 business hours</strong>. Silence means tacit refusal and incurs a penalty equal to the lost commission.</p>
+    <p><strong>Simulator & Trust Index:</strong> The advertiser uses a real-time performance simulator and a <strong>Trust Index (1 to 5 stars)</strong> based on your common history to adjust their offer. The higher your responsiveness, the higher your trust index climbs.</p>
     <p><strong>Do not refuse, negotiate!</strong> The goal is to fill your inventory:</p>
     <ul>
-      <li><strong>💰 Price too low?</strong> Make a counter-proposal on price.</li>
+      <li><strong>💰 Price too low?</strong> Make a counter-proposal. The probability bar indicates to the advertiser your chances of acceptance.</li>
       <li><strong>📅 Dates unavailable?</strong> Suggest another broadcast period.</li>
       <li><strong>📦 Unsuitable volume?</strong> Adjust the proposed quantity.</li>
     </ul>
@@ -113,6 +114,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
       <li><strong>Parcel Insert:</strong> Shipping of materials (respecting lead time).</li>
       <li><strong>Digital:</strong> Transmission of creative assets and integration.</li>
     </ul>
+    <p>⚠️ <strong>Warning:</strong> Any cancellation of a validated campaign by the distributor incurs a flat administrative fee of <strong>550 € HT</strong> in addition to the loss of commission.</p>
   </div>
 </div>
 
@@ -121,25 +123,26 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
 <div class="gi-step">
   <div class="gi-step-num">🚀</div>
   <div class="gi-step-body">
-    <h3>Trade Marketing (Your Brands)</h3>
-    <p>Do not depend solely on external advertisers. Be proactive with your own suppliers!</p>
-    <div class="gi-accent-box">
-      <strong>The concept:</strong> Invite the brands you distribute to buy visibility with you (Parcel Insert, Email, Social) via getinside.
-      <ul>
-        <li>✅ <strong>Simplification:</strong> Centralize all management and billing in one place.</li>
-        <li>✅ <strong>Profitability:</strong> Generate additional revenue from already acquired partners — <strong>0% network fee</strong> with Platform or Managed offers.</li>
-      </ul>
-    </div>
+    <h3>Network Management (Partner Advertisers)</h3>
+    <p>Do not depend solely on external advertisers. Manage your own pool of direct partners!</p>
+    <p><strong>Partner Advertisers:</strong> Invite the brands you distribute to buy visibility with you via getinside. Centralize all management and billing in one place. Benefit from <strong>0% platform fees</strong> for your direct partners (Platform or Managed offers).</p>
+    <ul>
+      <li>✅ <strong>SIREN/VAT Search:</strong> Add your partners in a few clicks via the integrated search engine.</li>
+      <li>✅ <strong>Personalized Invitations:</strong> Send invitation emails directly from the interface.</li>
+      <li>✅ <strong>Annual Forecast:</strong> Set revenue goals per partner and track your YTD (Year-To-Date) progress via a visual gauge.</li>
+    </ul>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">🎯</div>
   <div class="gi-step-body">
-    <h3>Active Prospecting <em>(Platform & Managed)</em></h3>
-    <p>Don't just wait for inbound campaigns — go find the advertisers that match your audience.</p>
-    <p>From your Platform workspace, browse the active advertiser catalog and send a proposal directly via the integrated messaging: product universe, availability, rates, examples of past campaigns.</p>
-    <p>This is the most powerful lever to double your revenue — available exclusively with the <strong>Platform</strong> and <strong>Managed</strong> offers.</p>
+    <h3>Prospecting & Prospects <em>(Platform & Managed)</em></h3>
+    <p>Find advertisers that match your audience using conquest tools.</p>
+    <ul>
+      <li><strong>Active Prospecting:</strong> Browse the active getinside advertiser catalog and send direct proposals.</li>
+      <li><strong>Prospect Advertisers:</strong> Import your lists of targeted prospects, track sales steps (Pipeline), and generate revenue from new accounts.</li>
+    </ul>
   </div>
 </div>
 
@@ -174,19 +177,17 @@ After this period, lack of response = tacit refusal and incurs a **penalty equiv
 
 | Situation | Amount | Detail |
 |-----------|---------|--------|
-| Cancellation after Validation | **550€ HT** | Flat fee + loss of commission |
+| Cancellation after Validation | **550€ HT** | Flat administrative fee + loss of commission |
 | Early Contract Termination | **1,550€ HT** | Penalty for unfulfilled annual commitment |
-| Platform Circumvention | **2,500€ HT / campaign** | Direct Advertiser ↔ Distributor contact outside the platform |
+| Platform Circumvention | **2,500€ HT / campaign** | Direct Advertiser ↔ Distributor contact outside the platform for an account brought by getinside |
 
 ### Data Protection (GDPR & First Party Data)
 
-::: tip 🛡️ The data is exclusively yours
-
-getinside acts as a **Trusted Third Party**. No transfer of customer files to an Advertiser is allowed without a specific new GDPR Opt-in.
-
-- You retain ownership of your customer data.
-- Advertisers only receive opt-in leads (contests only).
-- Any request for additional data requires legal validation.
+::: tip 🛡️ Absolute Securitization of "First Party Data"
+getinside acts as a **Trusted Third Party** and contractually guarantees:
+- **No direct access** to your customer data (First Party Data).
+- **Formal prohibition** to rent, sell, enrich, or match your data.
+- We operate exclusively on aggregated and anonymized broadcast data.
 :::
 
 ### Distributor Veto Right

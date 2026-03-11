@@ -83,6 +83,27 @@ image: /images/gi-keyvisual.svg
   </a>
 </div>
 
+## Gestion de Réseau & Forecast
+
+<div class="gi-nav-list">
+  <a href="onboarding-process#phase-3-acceleration-autonomie" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🏗️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Annonceurs Partenaires & Réseau</p>
+      <p class="gi-nav-card-desc">Gérez votre propre vivier d'annonceurs, invitez vos partenaires historiques et supprimez vos frais de plateforme.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+  <a href="onboarding-process#phase-3-acceleration-autonomie" class="gi-nav-card">
+    <span class="gi-nav-card-icon">📈</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Forecast & Prévisions</p>
+      <p class="gi-nav-card-desc">Fixez des objectifs de revenus par annonceur et suivez votre progression YTD en temps réel.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+</div>
+
 ## Finance & Admin
 
 <div class="gi-format-grid">

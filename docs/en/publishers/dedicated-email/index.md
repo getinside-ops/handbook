@@ -14,25 +14,32 @@ Leverage your database by recommending partner brands to your community (Endorse
 
 ## Your Monetizable Inventory
 
-You can offer 3 types of dedicated campaigns:
+You can offer 2 sending models for your dedicated campaigns:
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📢 Blast (Newsletter)</strong>
-    <p>You send a dedicated email to all or part of your active database.</p>
+    <strong>📢 "Blast" Mode (One-shot)</strong>
+    <p>One-time sending to all or part of your active database (e.g., Weekly Newsletter).</p>
     <Badge type="tip" text="High Volume" />
   </div>
   <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase</strong>
-    <p>A dedicated email sent automatically after an order.</p>
+    <strong>🔄 "Dedicated" Mode (Sequences)</strong>
+    <p>Automated emails triggered by an event: <strong>Post-Purchase</strong> or <strong>Welcome Pack</strong>.</p>
     <Badge type="tip" text="OR > 50%" />
   </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Pack</strong>
-    <p>Presentation of a partner in the welcome sequence.</p>
-    <Badge type="tip" text="Loyalty" />
-  </div>
 </div>
+
+### Performance Options
+
+::: tip 📩 Resend to non-openers
+The advertiser can choose to activate an **automatic resend** to inactive recipients 72 hours after the initial send. This option maximizes the campaign's reach while generating additional revenue for you.
+:::
+
+### Integrated Double Tracking
+getinside ensures data reliability via a double tracking system:
+- **TrackedUrl:** Dedicated URL to count every click.
+- **TrackedEmail:** Invisible pixel to accurately measure open rates.
+
 
 ## The Creation Process
 

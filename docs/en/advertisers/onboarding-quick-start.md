@@ -45,29 +45,27 @@ Each format targets a different goal:
 
 **Workspace:** My Campaigns → Create a campaign
 
-You will need:
+### 🚀 Real-time Performance Simulator
+While you configure your campaign, an interactive side panel displays:
+- **Reach Estimations:** Volume of contacts, Scans/Clicks, Estimated CTR and CPC.
+- **Budget Simulator:** Real-time breakdown of costs (Audience, Studio, Logistics).
+- **Trust Index (1 to 5 stars):** A score measuring the probability of success based on the historical relationship with the distributor.
 
-**Basic information:**
-- Desired volume (number of parcels, contacts, impressions depending on format)
-- Budget and broadcast dates
-- Destination URL (with UTM if possible)
-
-**Creative material:**
-- The promise of your offer (e.g., "-20% for new customers")
-- Your visuals (according to [technical specifications](/en/advertisers/sponsored-mail/design-guide/print-specs))
-- Your key arguments
-
-> No visuals? The **getinside Studio** creates your creative assets. Contact your manager to learn more.
+### 🎯 Advanced Options
+- **Campaign Groups:** Link multiple campaigns to a global budget for consolidated tracking.
+- **Multi-audiences:** Target multiple affinity audiences simultaneously via pre-configured "Bundles".
+- **Custom Campaigns:** Flexible pricing (Flat fee or CPM) and a la carte options (e.g., creation of a dedicated landing page).
 
 ---
 
 ## Step 4 — Select your distributors and validate (5 min)
 
-1. The platform offers you a **selection of distributors** whose audience matches your criteria
-2. View profiles: sector, average basket, weekly volume
-3. Distributors receive your proposal and can **accept, refuse or counter-propose**
-4. Once agreement is reached, **validate the campaign in less than 48 business hours** → a Purchase Order is automatically generated
-5. Validate the **Proof (BAT)** — final visual and technical check before going into production
+1. The platform offers you a **selection of distributors** whose audience matches your criteria.
+2. **Acceptance Probability Bar:** By adjusting your CPM, a visual bar indicates in real-time your chances of acceptance by the distributor (from "Unlikely" to "Guaranteed").
+3. View profiles: sector, average basket, weekly volume.
+4. Distributors receive your proposal and can **accept, refuse or counter-propose**.
+5. Once agreement is reached, **validate the campaign in less than 48 business hours** → a Purchase Order is automatically generated.
+6. Validate the **Proof (BAT)** — final visual and technical check before going into production.
 
 ---
 

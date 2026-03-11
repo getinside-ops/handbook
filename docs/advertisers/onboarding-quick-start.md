@@ -45,29 +45,28 @@ Chaque format cible un objectif différent :
 
 **Espace :** Mes Campagnes → Créer une campagne
 
-Vous aurez besoin de :
+### 🚀 Simulateur de Performance en temps réel
+Pendant que vous configurez votre campagne, un panneau latéral interactif affiche :
+- **Estimations de Reach :** Volume de contacts, Scans/Clics, CTR et CPC estimés.
+- **Simulateur de Budget :** Décomposition en temps réel des coûts (Audience, Studio, Logistique).
+- **Indice de Confiance (Trust Index) :** Un score de 1 à 5 étoiles mesurant la probabilité de réussite basée sur l'historique de la relation avec le distributeur.
 
-**Informations de base :**
-- Volume souhaité (nombre de colis, contacts, impressions selon le format)
-- Budget et dates de diffusion
-- URL de destination (avec UTM si possible)
-
-**Matière créative :**
-- La promesse de votre offre (ex: "-20% pour les nouveaux clients")
-- Vos visuels (selon les [spécifications techniques](/advertisers/sponsored-mail/design-guide/print-specs))
-- Vos arguments clés
-
-> Pas de visuels ? Le **Studio getinside** crée vos supports créatifs. Contactez votre gestionnaire pour en savoir plus.
+### 🎯 Options Avancées
+- **Groupes de Campagnes :** Liez plusieurs campagnes à un budget global pour un suivi consolidé.
+- **Multi-audiences :** Touchez simultanément plusieurs audiences affinitaires via des "Bundles" pré-configurés.
+- **Campagnes Custom :** Tarification flexible (Forfait ou CPM) et options à la carte (ex: création de landing page dédiée).
 
 ---
 
 ## Étape 4 — Sélectionnez vos distributeurs et validez (5 min)
 
-1. La plateforme vous propose une **sélection de distributeurs** dont l'audience correspond à vos critères
-2. Consultez les profils : secteur, panier moyen, volume hebdomadaire
-3. Les distributeurs reçoivent votre proposition et peuvent **accepter, refuser ou contre-proposer**
-4. Une fois l'accord trouvé, **validez la campagne en moins de 48h ouvrées** → un Bon de Commande est généré automatiquement
-5. Validez le **BAT (Bon à Tirer)** — dernière vérification visuelle et technique avant la mise en production
+1. La plateforme vous propose une **sélection de distributeurs** dont l'audience correspond à vos critères.
+2. **Barre de Probabilité d'Acceptation :** En ajustant votre CPM, une barre visuelle indique en temps réel vos chances d'acceptation par le distributeur (de "Peu probable" à "Garanti").
+3. Consultez les profils : secteur, panier moyen, volume hebdomadaire.
+4. Les distributeurs reçoivent votre proposition et peuvent **accepter, refuser ou contre-proposer**.
+5. Une fois l'accord trouvé, **validez la campagne en moins de 48h ouvrées** → un Bon de Commande est généré automatiquement.
+6. Validez le **BAT (Bon à Tirer)** — dernière vérification visuelle et technique avant la mise en production.
+
 
 ---
 
