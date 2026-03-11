@@ -47,14 +47,17 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
 
 ## Votre Rémunération
 
-::: tip Votre commission
-<div class="gi-price">20% <span class="gi-price-unit">des frais de plateforme générés par vos filleuls</span></div>
+::: tip Votre commission : 20% de la marge getinside
+La commission est calculée sur les **frais de plateforme (marge)** effectivement perçus par getinside sur l'activité de votre filleul :
 
-Cette commission est créditée sur votre **Wallet** à chaque facture payée par le filleul. Elle s'applique aux filleuls Distributeurs comme Annonceurs.
+- **Filleul Distributeur :** Vous touchez 20% de la commission de commercialisation (30% à 15%) prélevée par getinside sur ses revenus.
+- **Filleul Annonceur :** Vous touchez 20% des frais de plateforme (12%) facturés par getinside sur ses budgets média.
+
+*Exemple : Votre filleul annonceur investit 10 000€. getinside perçoit 1 200€ de frais. Vous touchez 20% de ces 1 200€, soit 240€.*
 :::
 
-:::tip Revenus récurrents
-La commission est versée à chaque renouvellement ou paiement de votre filleul — tant qu'il reste actif sur la plateforme.
+:::tip Disponibilité des gains
+Comme pour vos revenus de campagnes, les commissions d'affiliation deviennent **disponibles dans votre Wallet 30 jours** après le paiement effectif de la facture par votre filleul.
 :::
 
 ## Conditions d'éligibilité

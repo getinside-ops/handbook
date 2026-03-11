@@ -45,11 +45,19 @@ For fine texts and small characters: use **K100% only** to avoid shifting during
 
 ## Paper
 
-:::info Recommended paper specifications
-- **Weight:** 250 to 300 g/m²
-- **Type:** Matte coated or semi-matte coated
-- **Certification:** FSC or PEFC
-- **Lamination:** No — lamination makes QR codes less readable
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Weight</strong>
+    <p>250 to 300 g/m² (Optimal stiffness)</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Type</strong>
+    <p>Matte coated or semi-matte coated (FSC/PEFC)</p>
+  </div>
+</div>
+
+:::danger Lamination strictly prohibited
+Do **not** add any lamination (glossy or matte) to your flyers. The plastic film creates reflections that make the dynamic QR code **unreadable** for most smartphones. A laminated flyer will be systematically refused during the Proof (BAT) validation.
 :::
 
 ---

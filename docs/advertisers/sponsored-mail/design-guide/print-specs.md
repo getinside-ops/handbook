@@ -45,11 +45,19 @@ Pour les textes fins et petits caractères : utilisez **N100% seul** pour évite
 
 ## Papier
 
-:::info Spécifications papier recommandées
-- **Grammage :** 250 à 300 g/m²
-- **Type :** Couché mat ou couché demi-mat
-- **Certification :** FSC ou PEFC
-- **Pelliculage :** Non — le pelliculage rend les QR codes moins lisibles
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Grammage</strong>
+    <p>250 à 300 g/m² (Rigidité optimale)</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Type</strong>
+    <p>Couché mat ou couché demi-mat (FSC/PEFC)</p>
+  </div>
+</div>
+
+:::danger Pelliculage strictement interdit
+N'ajoutez **aucun pelliculage** (brillant ou mat) sur vos flyers. Le film plastique crée des reflets qui rendent le QR code dynamique **illisible** pour la majorité des smartphones. Un flyer pelliculé sera systématiquement refusé lors de la validation du BAT.
 :::
 
 ---

@@ -33,17 +33,29 @@ Le Partnership Ad n'est pas un ad classique — c'est un ad publié depuis le co
   </div>
   <div class="gi-value-card">
     <strong>CPA réduit</strong>
-    <p>Le taux de conversion post-clic est supérieur car l'audience est préqualifiée : elle correspond déjà à l'univers du distributeur. Le format natif évite la "Banner Blindness" et favorise la viralité.</p>
+    <p>Le taux de conversion post-clic est supérieur car l'audience est préqualifiée. Le format natif évite la "Banner Blindness" et favorise la viralité.</p>
   </div>
   <div class="gi-value-card">
-    <strong>First Party Data</strong>
-    <p>Le ciblage s'appuie sur les données comportementales réelles des clients du distributeur — pas sur des cookies tiers.</p>
+    <strong>Crédibilité (Trust)</strong>
+    <p>La marque bénéficie de la caution morale du distributeur. C'est le format le plus puissant pour une première approche d'audience.</p>
   </div>
 </div>
 
 ---
 
+## Fonctionnement Technique
+
+### 📸 Instagram — Partnership Ads
+Le distributeur crée son Post ou Reel normalement. À l'étape finale, il active le label **"Partenariat rémunéré"** dans les paramètres avancés et identifie votre marque.
+**Étape critique :** Il doit obligatoirement cocher l'option **"Autoriser le partenaire de marque à booster"** (*Allow brand partner to boost*). Sans cela, getinside ne peut pas amplifier le contenu.
+
+### 🎥 TikTok — Spark Ads
+Le distributeur publie la vidéo. Depuis les paramètres de la vidéo, il active l'**"Autorisation de publicité"** (*Ad authorization*) et génère un **code Spark Ads** (valable 30 ou 60 jours). Ce code est transmis à getinside pour lancer l'amplification média.
+
+---
+
 ## Ce qui fait un bon Partnership Ad
+
 
 ::: tip Créatif natif = performance maximale
 Un Partnership Ad réussi ressemble à un post organique du distributeur — pas à une pub.

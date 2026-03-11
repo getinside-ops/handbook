@@ -36,21 +36,22 @@ High score = more visibility = more campaign proposals = more revenue.
   </div>
 </div>
 
-## The 7 evaluation criteria
+## The 7 evaluation criteria (2026 Details)
 
-Your score is calculated on 7 dimensions. Here is how to optimize them:
+Your score is calculated on an internal scale of **10 points** per criterion, then converted into stars for advertisers. Here are the expected performance thresholds:
 
-| Criterion | Description | How to improve |
-|---------|-------------|-------------------|
-| **1. Pricing** | Consistency of your CPMs compared to your sector's average | Regularly compare yourself to similar distributors |
-| **2. Weekly Volume (Reach)** | Stability and size of your distribution capacity | Maintain a steady volume, avoid sharp peaks/valleys |
-| **3. Brand Attractiveness** | Awareness and image of your brand in its market | Work on your brand image and complete your profile |
-| **4. Inventory Reliability** | Strict adherence to promised insertion volumes | Do not over-commit — better to promise less and deliver |
-| **5. Audience Responsiveness** | Real performance (scan rates, conversions) | Target your campaigns well according to your real audience |
-| **6. Campaign History** | Number of successful campaigns via the platform | Loyalty is rewarded — continue to operate regularly |
-| **7. Communication & Reporting** | Responsiveness to requests and punctuality of declarations | Declare your volumes every Mon/Tue, reply within 48h |
+| Criterion | Key Indicator (KPI) | Max Score (10/10) | Low Score (0/10) |
+|-----------|---------------------|-------------------|------------------|
+| **1. Pricing** | CPM (Cost per thousand) | < 100 € HT | > 1,000 € HT |
+| **2. Weekly Volume** | Distribution capacity | > 100,000 parcels/contacts | < 200 units |
+| **3. Attractiveness** | Brand Notoriety | Leader / Premium brand | White label / Unknown |
+| **4. Reliability** | Volume Gap | 0% gap (Delivered vs Promised) | > 20% recurring gap |
+| **5. Reactivity** | Scan / Click Rate | Top 10% of your sector | Historically zero rates |
+| **6. History** | Completed Campaigns | > 10 validated campaigns | 0 campaign (New profile) |
+| **7. Communication** | Response Time | < 24 business hours | > 72 hours or no response |
 
-## The 4 Actions That Boost Your Score
+## The 4 actions that boost the score
+
 
 <div class="gi-value-grid">
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">

@@ -40,8 +40,8 @@ Nous encourageons le regroupement des paiements pour limiter les frictions admin
 
 | Offre | Frais de retrait |
 |-------|-----------------|
-| 🟡 Starter | 1er retrait/an : **GRATUIT** · Suivants : **5%** (ex : 1 000€ retirés → 950€ reçus) |
-| 🟢 Plateforme & Managed | **GRATUIT** — tous les retraits, illimité |
+| 🟡 **Starter** | **1er retrait de l'année civile : GRATUIT** <br> Suivants : **5%** de frais de traitement |
+| 🟢 **Plateforme & Managed** | **GRATUIT & ILLIMITÉ** — aucun frais de retrait |
 
 > **Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/publishers/pricing).
 
@@ -97,12 +97,15 @@ Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part*
 2. **Sécurité (Buffer) :** Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.
 :::
 
-## ⚠️ Règle d'expiration des fonds
+## ⚠️ Règle d'expiration des fonds (Contractuelle)
 
 ::: danger Fonds expirés après 12 mois d'inactivité
-Si vous ne vous connectez pas **ET** ne retirez pas vos revenus pendant **12 mois consécutifs**, les fonds disponibles expirent et sont définitivement acquis à getinside.
+Conformément aux CGUC, si vous ne vous connectez pas à la plateforme **ET** ne retirez pas vos revenus pendant **12 mois consécutifs**, les fonds disponibles expirent et sont définitivement acquis à getinside.
 
-**Comment éviter cela :** connectez-vous régulièrement, ou activez les notifications de solde sur votre espace compte.
+**Comment éviter l'expiration :**
+1. **Connexion :** Connectez-vous au moins une fois par trimestre à votre espace.
+2. **Action :** Un retrait partiel ou un réinvestissement (Exchange) suffit à réinitialiser le compteur des 12 mois.
+3. **Notifications :** Activez les alertes de solde dans vos paramètres de compte.
 :::
 
 ## Comment effectuer un retrait ?

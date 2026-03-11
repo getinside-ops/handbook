@@ -40,8 +40,8 @@ We encourage pooling payments to limit administrative friction.
 
 | Offer | Withdrawal fee |
 |-------|-----------------|
-| 🟡 Starter | 1st withdrawal/year: **FREE** · Subsequent: **5%** (e.g., 1,000€ withdrawn → 950€ received) |
-| 🟢 Platform & Managed | **FREE** — all withdrawals, unlimited |
+| 🟡 **Starter** | **1st withdrawal of the calendar year: FREE** <br> Subsequent: **5%** processing fee |
+| 🟢 **Platform & Managed** | **FREE & UNLIMITED** — no withdrawal fees |
 
 > **Not sure about your offer?** Check your account workspace → Subscription, or consult the [Pricing page](/en/publishers/pricing).
 
@@ -97,12 +97,15 @@ The Wallet balance is only updated **after a manual action on your part** depend
 2. **Security (Buffer):** This cash flow delay secures funds in case of advertiser defaults, guaranteeing you get paid even if the advertiser is late.
 :::
 
-## ⚠️ Fund expiration rule
+## ⚠️ Fund expiration rule (Contractual)
 
 ::: danger Funds expire after 12 months of inactivity
-If you do not log in **AND** do not withdraw your revenue for **12 consecutive months**, the available funds expire and are definitively acquired by getinside.
+According to the T&Cs, if you do not log in to the platform **AND** do not withdraw your revenue for **12 consecutive months**, the available funds expire and are permanently acquired by getinside.
 
-**How to avoid this:** log in regularly, or enable balance notifications on your account space.
+**How to avoid expiration:**
+1. **Login:** Log in to your space at least once per quarter.
+2. **Action:** A partial withdrawal or a reinvestment (Exchange) is enough to reset the 12-month timer.
+3. **Notifications:** Enable balance alerts in your account settings.
 :::
 
 ## How to make a withdrawal?

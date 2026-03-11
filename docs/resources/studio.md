@@ -43,11 +43,15 @@ Pour les distributeurs : le forfait peut être déduit directement de vos revenu
 - Cartes Cadeaux et formats spéciaux
 - Export PDF/X avec fond perdu inclus
 
-### 📧 Emailing & Web
+### 📧 Emailing & Web Design
 
-- Design HTML responsive (Mobile-First)
+- HTML responsive (Mobile-First)
 - Bannières animées (GIF, vidéo)
 - Rédaction complète + Copywriting + Objet court
+
+::: warning 💡 À noter : Jeux-Concours
+Le Studio ne crée pas les **Landing Pages (LP)** dédiées aux jeux-concours co-brandés. Celles-ci doivent être hébergées et créées par le **distributeur** sur son propre domaine (ex: `votre-site.com/jeu-marque`) pour rassurer l'audience.
+:::
 
 ### 📱 Social Media
 

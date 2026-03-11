@@ -33,17 +33,29 @@ A Partnership Ad is not a classic ad — it is an ad published from an e-retaile
   </div>
   <div class="gi-value-card">
     <strong>Reduced CPA</strong>
-    <p>The post-click conversion rate is higher because the audience is pre-qualified: it already matches the retailer's universe. The native format avoids "Banner Blindness" and encourages virality.</p>
+    <p>The post-click conversion rate is higher because the audience is pre-qualified. The native format avoids "Banner Blindness" and encourages virality.</p>
   </div>
   <div class="gi-value-card">
-    <strong>First Party Data</strong>
-    <p>Targeting relies on real behavioral data from the retailer's customers — not third-party cookies.</p>
+    <strong>Credibility (Trust)</strong>
+    <p>The brand benefits from the retailer's moral endorsement. It's the most powerful format for a first audience approach.</p>
   </div>
 </div>
 
 ---
 
+## Technical Workflow
+
+### 📸 Instagram — Partnership Ads
+The distributor creates their Post or Reel normally. At the final step, they activate the **"Paid partnership"** label in advanced settings and identify your brand.
+**Critical step:** They must check the **"Allow brand partner to boost"** option. Without this, getinside cannot amplify the content.
+
+### 🎥 TikTok — Spark Ads
+The distributor publishes the video. From the video settings, they activate **"Ad authorization"** and generate a **Spark Ads code** (valid for 30 or 60 days). This code is sent to getinside to launch media amplification.
+
+---
+
 ## What makes a great Partnership Ad
+
 
 ::: tip Native creative = maximum performance
 A successful Partnership Ad looks like an organic post from the retailer — not a generic brand ad.

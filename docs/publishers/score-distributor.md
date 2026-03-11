@@ -36,19 +36,19 @@ Un score élevé = plus de visibilité = plus de propositions de campagnes = plu
   </div>
 </div>
 
-## Les 7 critères d'évaluation
+## Les 7 critères d'évaluation (Détails 2026)
 
-Votre score est calculé sur 7 dimensions. Voici comment les optimiser :
+Votre score est calculé sur une échelle interne de **10 points** par critère, puis converti en étoiles pour les annonceurs. Voici les seuils de performance attendus :
 
-| Critère | Description | Comment progresser |
-|---------|-------------|-------------------|
-| **1. Tarification** | Cohérence de vos CPM par rapport à la moyenne de votre secteur | Comparez-vous régulièrement aux distributeurs similaires |
-| **2. Volume Semaine (Reach)** | Stabilité et importance de votre capacité de diffusion | Maintenez un volume régulier, évitez les pics/creux brusques |
-| **3. Attractivité de la Marque** | Notoriété et image de votre enseigne sur son marché | Travaillez votre image de marque et complétez votre profil |
-| **4. Fiabilité de l'Inventaire** | Respect strict des volumes d'insertion promis | Ne sur-engagez pas — mieux vaut promettre moins et tenir |
-| **5. Réactivité de l'Audience** | Performances réelles (taux de scan, conversions) | Ciblez bien vos campagnes selon votre audience réelle |
-| **6. Historique de Campagnes** | Nombre de campagnes réussies via la plateforme | La fidélité est récompensée — continuez à opérer régulièrement |
-| **7. Communication & Reporting** | Réactivité aux demandes et ponctualité des déclarations | Déclarez vos volumes chaque lundi/mardi, répondez sous 48h |
+| Critère | Indicateur Clé (KPI) | Score Maximal (10/10) | Score Faible (0/10) |
+|---------|-----------------------|-----------------------|---------------------|
+| **1. Tarification** | CPM (Coût pour mille) | < 100 € HT | > 1 000 € HT |
+| **2. Volume Semaine** | Capacité de diffusion | > 100 000 colis/contacts | < 200 unités |
+| **3. Attractivité** | Notoriété Marque | Enseigne leader / Premium | Marque blanche / Inconnue |
+| **4. Fiabilité** | Écart de volume | 0% d'écart (Livré vs Promis) | > 20% d'écart récurrent |
+| **5. Réactivité** | Taux de Scan / Clic | Top 10% de votre secteur | Taux historiquement nuls |
+| **6. Historique** | Campagnes terminées | > 10 campagnes validées | 0 campagne (Nouveau profil) |
+| **7. Communication** | Délai de réponse | < 24 heures ouvrées | > 72 heures ou sans réponse |
 
 ## Les 4 actions qui font monter le score
 
