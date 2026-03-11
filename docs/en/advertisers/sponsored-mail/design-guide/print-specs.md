@@ -56,8 +56,10 @@ For fine texts and small characters: use **K100% only** to avoid shifting during
   </div>
 </div>
 
-:::danger Lamination strictly prohibited
-Do **not** add any lamination (glossy or matte) to your flyers. The plastic film creates reflections that make the dynamic QR code **unreadable** for most smartphones. A laminated flyer will be systematically refused during the Proof (BAT) validation.
+:::warning Eco-design: Lamination prohibited
+In an eco-design approach and to guarantee the **full recyclability** of your materials, lamination (adding a matte or glossy plastic layer) is prohibited. Laminated materials cannot be recycled in the standard paper industry.
+
+Opt for a machine varnish if you wish to protect the print without compromising recycling.
 :::
 
 ---

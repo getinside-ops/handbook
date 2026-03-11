@@ -56,8 +56,10 @@ Pour les textes fins et petits caractères : utilisez **N100% seul** pour évite
   </div>
 </div>
 
-:::danger Pelliculage strictement interdit
-N'ajoutez **aucun pelliculage** (brillant ou mat) sur vos flyers. Le film plastique crée des reflets qui rendent le QR code dynamique **illisible** pour la majorité des smartphones. Un flyer pelliculé sera systématiquement refusé lors de la validation du BAT.
+:::warning Éco-conception : Pelliculage interdit
+Dans une démarche d'éco-conception et pour garantir la **recyclabilité intégrale** de vos supports, le pelliculage (ajout d'une couche plastique mate ou brillante) est interdit. Un support pelliculé ne peut pas être recyclé dans la filière papier classique. 
+
+Privilégiez un vernis machine si vous souhaitez protéger l'impression sans compromettre le recyclage.
 :::
 
 ---
