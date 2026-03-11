@@ -91,6 +91,8 @@ The getinside network covers **40 million active consumers** accessible through 
 
 Retail Media is powerful, but complex to operate alone.
 
+<div class="gi-table-full">
+
 | 🚫 Without getinside | ✅ With getinside |
 |---|---|
 | Negotiating with 50 sites one by one. | A single point of contact. |
@@ -98,6 +100,8 @@ Retail Media is powerful, but complex to operate alone.
 | Print quality risk. | Certified logistics and CSR process. |
 | No format standardization. | Standardized tracking. |
 | Scattered reporting. | Strategic advice included. |
+
+</div>
 
 ## Quality as a Growth Engine
 

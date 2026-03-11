@@ -1435,6 +1435,21 @@ h2+.gi-step {
 }
 
 /* ============================================================
+   21. UTILITIES: FULL WIDTH TABLE
+   ============================================================ */
+.gi-table-full {
+  width: 100% !important;
+  margin: 1.25rem 0 !important;
+  overflow-x: auto;
+}
+
+.gi-table-full table {
+  width: 100% !important;
+  display: table !important;
+  margin: 0 !important;
+}
+
+/* ============================================================
    Homepage hero — Garnett Semibold
    ============================================================ */
 .VPHero .text {

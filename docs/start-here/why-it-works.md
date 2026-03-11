@@ -40,7 +40,7 @@ Le point commun entre un colis, une newsletter et un post social d'une marque :
 
 - **La Relation Client :** Le consommateur a déjà acheté ou s'est abonné volontairement.
 - **La Crédibilité :** Il fait confiance au retailer (le e-commerçant).
-- **L'Attention :** Il attend ce contenu (suivi de commande, nouveautés).
+- **La Attention :** Il attend ce contenu (suivi de commande, nouveautés).
 
 ::: tip L'Effet de Halo
 
@@ -91,6 +91,8 @@ Le réseau getinside couvre **40 millions de consommateurs** actifs accessibles 
 
 Le Retail Media est puissant, mais complexe à opérer seul.
 
+<div class="gi-table-full">
+
 | 🚫 Sans getinside | ✅ Avec getinside |
 |---|---|
 | Négocier avec 50 sites un par un. | Un interlocuteur unique. |
@@ -98,6 +100,8 @@ Le Retail Media est puissant, mais complexe à opérer seul.
 | Risque de qualité d'impression. | Processus logistique et RSE certifié. |
 | Aucune standardisation des formats. | Tracking uniformisé. |
 | Reporting éparpillé. | Conseil stratégique inclus. |
+
+</div>
 
 ## La Qualité comme Moteur de Croissance
 
