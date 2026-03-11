@@ -1,78 +1,52 @@
 ---
-title: Social Ads (publisher)
+title: Social Ads (Publisher)
 description: Monetize your Instagram and TikTok audience via Partnership Ads. Complete guide to activating tagging, boost rights, and triggering your payment.
-keywords:
-  - social ads
-  - partnership ads
-  - instagram
-  - tiktok
-  - audience monetization
-  - retail media
 ---
 
 # Social Ads (Partnership Ads)
 
 Monetize your social audience (Instagram, TikTok) without polluting your editorial line through Partnership Ads.
 
----
-
-## The concept
-
-::: tip Sponsorship vs classic influencer marketing
-Unlike classic influencer marketing, we use **Sponsorship**:
-
-1. You create and publish quality content (with the "Paid partnership" label).
-2. The advertiser invests their own media budget to broadcast **your post** to thousands of new people.
-3. You share the publication link — getinside transmits it to the advertiser to launch the amplification.
+::: tip Incremental Revenue & Awareness
+The advertiser pays to broadcast **your content** to a qualified audience. You earn revenue and gain new followers without spending your own media budget.
 :::
 
 ---
 
-## Your advantages
+## The Sponsorship Principle
+
+Unlike classic influencer marketing where you carry the full weight of distribution, getinside uses **Sponsorship**:
+
+1. **Native Publication** — You publish quality content with the mandatory "Paid partnership" mention.
+2. **Media Amplification** — The advertiser invests their own budget to broadcast **your post** to thousands of people (followers + similar profiles).
+3. **Guaranteed Payment** — Your compensation is credited to your getinside Wallet as soon as the campaign ends.
+
+---
+
+## Your Retailer Advantages
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>💰 Compensation</strong>
-    <p>You are paid for content creation and/or its publication. Revenue is credited to your Wallet 30 days after the campaign ends.</p>
+    <strong>💰 Direct Compensation</strong>
+    <p>Fixed revenue for creation and publication, paid 30 days after the campaign ends.</p>
   </div>
   <div class="gi-value-card">
-    <strong>📈 Free Growth</strong>
-    <p>The advertiser pays to broadcast **your profile** to a large audience. Free subscriber acquisition without spending your own budget.</p>
+    <strong>📈 Boosted Organic Growth</strong>
+    <p>Advertising amplification introduces your account to new prospects for free.</p>
   </div>
   <div class="gi-value-card">
-    <strong>✨ Quality Preserved</strong>
-    <p>The post is amplified from your account (Dark post or Boost). No need to spam your organic feed.</p>
+    <strong>⭐ Distributor Score</strong>
+    <p>Perfect and fast execution of Social Ads increases your **Internal Score (1-10)** and attracts more advertisers.</p>
   </div>
 </div>
 
 ---
 
-## Why use getinside?
+## Technical Publishing Guide
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>⚙️ Simplified Setup</strong>
-    <p>Configuring advertising rights on Meta or TikTok is complex. We guide you step-by-step to activate permissions without errors.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🤝 Premium Brands</strong>
-    <p>Collaborate with verified advertisers who seek long-term performance, not one-off operations.</p>
-  </div>
-</div>
+For the advertiser to activate broadcasting, you must imperatively configure advertising rights during publication. **Without these steps, the campaign is blocked and your payment is suspended.**
 
----
-
-## Publishing & Tagging Guide
-
-For the advertiser to pay for the broadcast, you must imperatively activate the partnership options during publication.
-
-:::tip Why are these steps mandatory?
-By checking "Allow brand partner to boost", the advertiser can broadcast your content as an ad from their own account. Without this authorization, **the campaign cannot start** and **your payment is blocked**.
-:::
-
----
-
-## Instagram — Partnership Ads
+### 📸 Instagram — Partnership Ads
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -86,85 +60,72 @@ By checking "Allow brand partner to boost", the advertiser can broadcast your co
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Advanced Settings</h3>
-    <p>Scroll to the very bottom and click on <strong>"Advanced settings"</strong>.</p>
+    <p>Go to <strong>"Advanced settings"</strong> (at the very bottom of the share screen).</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Add the label + identify the brand</h3>
-    <p>Activate <strong>"Add paid partnership label"</strong>, then click on <strong>"Add brand partners"</strong> and search for the advertiser's account (indicated in the brief).</p>
+    <h3>Label & Partner</h3>
+    <p>Enable <strong>"Add paid partnership label"</strong>, then click on <strong>"Add brand partners"</strong> and search for the advertiser's account.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
-    <h3>Allow boost — Critical step</h3>
-    <p>Activate the <strong>"Allow brand partner to boost"</strong> option.</p>
+    <h3>Allow boost (CRITICAL)</h3>
+    <p>Enable the <strong>"Allow brand partner to boost"</strong> option. This is the button that unlocks the advertiser's media budget.</p>
   </div>
 </div>
 
-:::danger Mandatory boost authorization (Instagram)
-Without this box checked, the advertiser cannot launch the media campaign and your payment is blocked.
-
-In case of a problem after publication: return to the post → 3 dots (…) → "Edit" → check the two options.
-:::
-
 ---
 
-## TikTok — Spark Ads
+### 🎥 TikTok — Spark Ads
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Access ad settings</h3>
-    <p>Publish the video. Go to it → click on the **3 dots (...)** in the bottom right → scroll to **"Ad settings"**.</p>
+    <h3>Ad Settings</h3>
+    <p>Publish the video. Go to the video → <strong>3 dots (...)</strong> → scroll to <strong>"Ad settings"</strong>.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Activate authorization</h3>
-    <p>Toggle the **"Ad authorization"** option.</p>
+    <h3>Activate Authorization</h3>
+    <p>Check <strong>"Ad authorization"</strong>.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Generate and send the code</h3>
-    <p>Click on **"Generate code"**, choose a duration (30 or 60 days), copy the code and paste it into the campaign messaging on <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>.</p>
+    <h3>Spark Ads Code</h3>
+    <p>Generate a code (duration 30 or 60 days) and transmit it to your getinside manager via the platform messaging.</p>
   </div>
 </div>
 
 ---
 
-## Pre-publication Checklist
+## Commitments & Penalties
 
-:::tip Verify each point before publishing
-- **Instagram:** "Paid partnership" label enabled + advertiser account identified + **"Allow brand partner to boost"** checked
-- **TikTok:** "Ad authorization" enabled + code generated and transmitted via platform messaging
-- **Both:** After publication, confirm the broadcast on [app.getinside.media](https://app.getinside.media/) to trigger payment
+::: danger Contractual Reminder
+A validated Social Ads campaign involves your operational responsibility.
 :::
 
+- **Publication Deadline:** You must publish the content within **48 hours** following final proof (BAT) validation.
+- **Cancellation Penalty:** Any cancellation after validation results in a flat fee penalty of **550€ HT** (processing fees and advertiser compensation).
+- **Circumvention:** Any attempt to collaborate directly with the advertiser (brought by getinside) outside the platform is sanctioned by a fine of **2,500€ HT**.
+
 ---
 
-## Editorial Best Practices
+## BAT Checklist (Final Check)
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🎯 Authenticity</strong>
-    <p>Use your usual tone. Don't play a role — that's exactly what the advertiser is looking for in you.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>⚖️ Transparency</strong>
-    <p>The "Paid partnership" label is added automatically, ensuring your compliance with French advertising regulations.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📊 Performance</strong>
-    <p>Share the link of your publication with your getinside campaign manager for performance tracking and optimization.</p>
-  </div>
-</div>
+Before clicking "Share":
+1. Visual respects safe zones (15% top/bottom free of text).
+2. Sound is enabled and of good quality.
+3. Boost rights (Instagram) or Spark code (TikTok) are ready.
+4. The advertiser has validated the final content on the platform.

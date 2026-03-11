@@ -1,92 +1,83 @@
 ---
-title: Display Email
+title: Display Email (Banners)
 ---
 
 # Newsletter Insert (Display Email)
 
-Insert an advertising banner within a partner's communications. An effective and non-intrusive awareness format — you only provide an image and a link.
+Insert an advertising banner within a partner e-retailer's communications. An effective and non-intrusive awareness format, ideal for tactical acquisition.
 
 ---
 
-## Where to broadcast your banner?
+## Two Broadcast Modes
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📢 Blast (Editorial Newsletter)</strong>
-    <p>Your banner is inserted into the partner's weekly newsletter. Header or core content placement.</p>
-    <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Awareness" /></p>
+    <strong>📢 Blast (One-Shot)</strong>
+    <p>Your banner is inserted into an editorial newsletter sent on a specific date to the partner's entire base (or a segment).</p>
+    <Badge type="tip" text="Volume" /> <Badge type="tip" text="Seasonality" />
   </div>
   <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase (Transac)</strong>
-    <p>Your banner appears in the order or delivery confirmation email. Open rate <strong>> 60%</strong>.</p>
-    <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="Max OR" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Email</strong>
-    <p>Presence in the welcome email for new subscribers. First contact in a moment of high attention.</p>
-    <p><Badge type="warning" text="Engagement" /> <Badge type="warning" text="Acquisition" /></p>
+    <strong>⚙️ Automated (Trigger)</strong>
+    <p>Your banner is integrated into automatic emails: Order confirmation (Post-Purchase), Shipping, or Welcome Pack.</p>
+    <Badge type="info" text="Max Engagement" /> <Badge type="info" text="Continuous Flow" />
   </div>
 </div>
 
 ---
 
-## Why choose this format?
+## Why choose Display Email?
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>⚡ Simplicity of production</strong>
-    <p>Unlike dedicated email, you only provide an image (JPG/PNG/GIF) and a link. No HTML to code, no elaborate creative brief.</p>
+    <strong>⚡ Express Production</strong>
+    <p>No complex HTML. You only provide an image (JPG/PNG/GIF) and a redirection link. Ideal for launching a campaign in 48h.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Non-intrusive & Brand Safe</strong>
-    <p>Your brand is inserted into content that the subscriber expects, in a closed environment endorsed by the retailer — the opposite of open web programmatic display.</p>
+    <strong>🛡️ Brand Safe Environment</strong>
+    <p>Your brand benefits from the retailer's moral endorsement. The subscriber receives your message within content they solicited (their usual newsletter).</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🎯 1st Party Targeting</strong>
+    <p>We select newsletters based on the partner's actual buyer profile (e.g., organic cosmetics buyers, parents of young children).</p>
   </div>
 </div>
 
 ---
 
-## Performance
+## Measurement & Tracking
 
-| Scenario | Open rate | Note |
+::: warning Technical Limitation: Clicks only
+Unlike Dedicated Email, Display Email does not allow measuring the **Open Rate** via a third-party pixel (blocked by most mail clients like Apple Mail or Gmail to protect privacy).
+
+getinside precisely measures **outbound clicks** via a `gtinsi.de` tracking link.
+:::
+
+**Recommendation:** Systematically use UTM parameters to track post-click behavior (sessions, bounce rate, conversions) in your own tool (Google Analytics, Shopify).
+
+---
+
+## Formats & Specifications
+
+| Placement | Dimensions | Max Weight |
 | :--- | :--- | :--- |
-| **Post-Purchase** | > 60% | Most premium placement |
-| **Welcome Email** | High | Moment of maximum attention |
-| **Blast (Newsletter)** | Variable | Depends on the database and sector |
+| **Header Banner** | 600 × 150 px | 150 kb |
+| **Body Banner** | 600 × 300 px | 250 kb |
+| **Square Insert** | 300 × 300 px | 150 kb |
 
-:::info Tracking: clicks only
-For this format, there is **no open pixel** — only clicks are counted (tracked link `gtinsi.de`). Add UTM parameters to your final URL to measure traffic in Google Analytics.
+::: tip Creative Tip
+Your banner should include a clear visual **Call-to-Action (CTA)** (button, arrow) to encourage clicks, even if the entire image is clickable.
 :::
 
 ---
 
-## Pricing
+## Pricing & Services
 
-| Item | Cost |
-| :--- | :--- |
-| **Sales Model** | CPM (Cost Per Mille impressions) |
-| **Platform Fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | Flat fee 550€ HT — if you don't have a ready banner |
-
----
-
-## Why go through getinside?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🌐 Unified Inventory</strong>
-    <p>+250 partners and +300 active advertisers accessible via a single platform, reaching 40 million consumers. No need to negotiate individually with each media or e-retailer.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Brand Safety & Context</strong>
-    <p>Your brand appears in a closed, safe environment endorsed by the retailer — no bad contextual surprises unlike programmatic display.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📊 Centralized Tracking</strong>
-    <p>Tracking links generated and standardized for all your campaigns. Track clicks from 10 different newsletters on a single dashboard.</p>
-  </div>
-</div>
+- **Sales Model:** CPM (Cost Per Mille impressions) defined according to the partner's reach.
+- **Platform Fee:** 12% of media budget.
+- **Creative Studio (Optional):** 550€ HT for creating your banners (static or animated GIF format).
 
 ---
 
 - [📋 Campaign Workflow](./workflow) — Steps from submission to broadcast.
-- [📐 Banner Specifications](./specs) — Formats, weight, and creative best practices.
+- [📐 Technical Specifications](./specs) — Details for your designers.
+- [✉️ Dedicated Email](../dedicated-email/) — Discover the 100% exclusive format.

@@ -4,7 +4,7 @@ title: Social Ads
 
 # Social Ads (Partnership Ads)
 
-Broadcast your ads via the Instagram, TikTok, and Facebook accounts of our partner e-retailers — leveraging their credibility with their community.
+Broadcast your ads via the Instagram, TikTok, and Facebook accounts of our partner e-retailers. The distributor's **Endorsement** (moral support) allows for performance levels far superior to traditional advertising.
 
 :::info Format on demand
 This format is available by contacting our team: [studio@getinside.fr](mailto:studio@getinside.fr)
@@ -12,124 +12,93 @@ This format is available by contacting our team: [studio@getinside.fr](mailto:st
 
 ---
 
-## Objectives & Use Cases
+## Why Endorsement changes everything?
 
-| Objective | Mechanic |
-| :--- | :--- |
-| **Brand Awareness** | Reach the retailer's followers — a "warm" audience already in a relationship with a complementary brand. |
-| **Acquisition** | Target a Lookalike of the retailer's customer base — profiles similar to their best buyers. |
-| **Remarketing** | Retarget past visitors or former customers with a sponsored post from a credible third-party account. |
-
----
-
-## Performance: the Endorsed Advertising advantage
-
-A Partnership Ad is not a classic ad — it is an ad published from an e-retailer's account that the audience **knows and trusts**. This endorsement effect changes everything:
+A Partnership Ad (Meta) or Spark Ad (TikTok) is not an ordinary advertisement. It is content published by an e-retailer in whom their audience already **trusts**.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>Average network CTR</strong>
-    <p><strong>2.64%</strong> vs <strong>0.90%</strong> on classic Meta — a 3x ratio thanks to the credibility of the publishing account.</p>
+    <strong>🚀 3x CTR (2.64% Average)</strong>
+    <p>The click-through rate is 3 times higher than a standard brand advertisement (0.90% avg).</p>
   </div>
   <div class="gi-value-card">
-    <strong>Reduced CPA</strong>
-    <p>The post-click conversion rate is higher because the audience is pre-qualified. The native format avoids "Banner Blindness" and encourages virality.</p>
+    <strong>🎯 1st Party Lookalike</strong>
+    <p>We don't just target interests. We target **profiles similar (LAL) to the retailer's actual buyers**, based on their real sales data.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Credibility (Trust)</strong>
-    <p>The brand benefits from the retailer's moral endorsement. It's the most powerful format for a first audience approach.</p>
+    <strong>🛡️ Trusted Third Party</strong>
+    <p>The brand benefits from the retailer's endorsement without the retailer having to share their customer data directly (total GDPR compliance).</p>
   </div>
 </div>
+
+---
+
+## Targeting Strategies
+
+| Strategy | Mechanic | Audience |
+| :--- | :--- | :--- |
+| **Penetration** | Broadcast to the retailer's followers. | "Warm" & Engaged Audience. |
+| **Conquest (LAL)** | Targeting "digital twins" of the retailer's customers. | "Cold" Audience with high potential. |
+| **Retargeting** | Retargeting visitors of the landing page or the advertiser's site. | Intent-based Audience. |
 
 ---
 
 ## Technical Workflow
 
-### 📸 Instagram — Partnership Ads
-The distributor creates their Post or Reel normally. At the final step, they activate the **"Paid partnership"** label in advanced settings and identify your brand.
-**Critical step:** They must check the **"Allow brand partner to boost"** option. Without this, getinside cannot amplify the content.
+### 📸 Meta (Instagram / Facebook) — Partnership Ads
+1. The retailer publishes the content (Post, Reel, or Story).
+2. They add the **"Paid partnership"** label and identify your brand.
+3. **Mandatory action:** They activate the **"Allow brand partner to boost"** option.
+4. getinside takes over the Ad Manager to amplify the message.
 
 ### 🎥 TikTok — Spark Ads
-The distributor publishes the video. From the video settings, they activate **"Ad authorization"** and generate a **Spark Ads code** (valid for 30 or 60 days). This code is sent to getinside to launch media amplification.
+1. The retailer publishes the video in organic mode.
+2. They activate **"Ad authorization"** in the video settings.
+3. They generate a **Spark Ads Code** (valid for 30 or 60 days) and transmit it to getinside.
+4. getinside launches media amplification via TikTok Ads Manager.
 
 ---
 
-## What makes a great Partnership Ad
+## Creative Studio: The secret to "Native-feel"
 
+To perform, the ad must look like an organic post, not a product catalog.
 
-::: tip Native creative = maximum performance
-A successful Partnership Ad looks like an organic post from the retailer — not a generic brand ad.
-
-- **Short video (15–30 s)** in 9:16 format, sound on, hook in the first 3 seconds
-- **Editorial tone** adapted to the retailer's voice (not a generic brand message)
-- **Immediate benefit** highlighted from the first image or opening seconds
-- **Clear call-to-action**: offer, promo code, direct link
-
-If you don't have native assets, our **Creative Studio** (550€ HT) can produce content tailored to the retailer's account.
+::: tip Studio Flat Fee: 550€ HT
+Our creative team produces your Social Ads assets to guarantee a **100% native** look:
+- Dynamic editing (9:16 format mandatory).
+- Impactful hook in the first 3 seconds.
+- Integrated subtitles (accessibility).
+- **Audio Strategy:** Selection of trending music or adapted voice-over.
 :::
 
 ---
 
-## Advertiser Workflow: Brief in 3 steps
+## Measurement & Double Tracking
 
-<div class="gi-step">
-  <div class="gi-step-num">1</div>
-  <div class="gi-step-body">
-    <h3>Contact the team</h3>
-    <p>Send your brief to <a href="mailto:studio@getinside.fr">studio@getinside.fr</a> with: your objective (awareness / acquisition / remarketing), your budget, the desired period, and target retailers (product universe, geographic area).</p>
-  </div>
-</div>
+getinside applies a rigorous measurement methodology to prove the effectiveness of your Social Ads campaigns.
 
-<div class="gi-step">
-  <div class="gi-step-num">2</div>
-  <div class="gi-step-body">
-    <h3>Provide creative assets</h3>
-    <p>Submit visuals, videos, and key messages according to the specifications below — or opt for the Creative Studio. A proof will be submitted for your approval before publication.</p>
-  </div>
-</div>
-
-<div class="gi-step">
-  <div class="gi-step-num done">3</div>
-  <div class="gi-step-body">
-    <h3>Activation & Reporting</h3>
-    <p>The retailer publishes with the "Paid partnership" mention and activates amplification rights. getinside launches the Ads campaign. You receive a performance report (impressions, CTR, clicks, CPC) at the end of the campaign.</p>
-  </div>
-</div>
-
----
-
-## How does it work?
-
-Rather than broadcasting a classic ad from your account, you sponsor a post published from the distributor's account (**Partnership Ads** on Meta, **Spark Ads** on TikTok). The distributor adds the mandatory *"Paid partnership"* mention.
-
-**The 4-step workflow:**
-
-1. **Brief & Selection** — Choose the partner distributor and transmit the creative angle, visuals, and key messages.
-2. **Creation** — You provide the ready-to-post content, or the distributor / getinside Studio creates it for a native feel.
-3. **Publication** — The distributor publishes with the *"Paid partnership"* mention and activates the amplification rights.
-4. **Amplification** — getinside activates the Ads campaign on the post to reach a wider audience (followers + Lookalike).
+1. **Platform Reporting:** Impressions, Reach, Outbound Clicks, CTR, Average CPC.
+2. **UTM & Attribution:** We systematically recommend using UTM parameters to track conversions in your own tool (Google Analytics, Shopify).
+3. **Double Tracking:** Comparison of clicks recorded by the social network vs. sessions recorded by your site for total transparency.
 
 ---
 
 ## Formats & Specifications
 
-| Format | Dimensions | Recommendation |
+| Format | Dimensions | Recommended Use |
 | :--- | :--- | :--- |
-| **Video** (Reels/TikTok) | 9:16 — 1080 × 1920 px, 15–60 s | Recommended — safe zone 15% top/bottom — **Sound ON required** |
-| **Feed Image** | 4:5 — 1080 × 1350 px | Text ≤ 20% of surface area |
-| **Story** | 9:16 — 1080 × 1920 px, 15 s/slide | Ensure space for link sticker |
+| **Video 9:16** | 1080 × 1920 px | **Priority #1** (Reels & TikTok) — 15 to 30 sec. |
+| **Image 4:5** | 1080 × 1350 px | Instagram Feed — Ideal for product carousels. |
+| **Story 9:16** | 1080 × 1920 px | Quick engagement — allow 250px margin top/bottom. |
 
----
-
-::: warning Sound required on videos
-Instagram Reels and TikTok are played **with sound on by default**. Design your videos to be impactful with sound — music, voiceover, or subtitles to guarantee accessibility.
+::: warning Technical Constraint
+All videos must include **sound** (music or voice). On TikTok and Reels, sound is a major vector for algorithmic distribution.
 :::
 
 ---
 
 ## Pricing
 
-| Item | Cost |
-| :--- | :--- |
-| **Platform Fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | Flat fee 550€ HT per creation |
+- **Platform Fee:** 12% of the invested media budget (Managed Service).
+- **Creative Studio (Optional):** 550€ HT per creation / adaptation.
+- **Media Budget:** Defined according to your objectives (Recommended minimum: 1,500€ / campaign).

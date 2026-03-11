@@ -4,123 +4,100 @@ title: Emailing Dédié
 
 # Emailing Dédié (Dedicated Newsletter)
 
-Prenez la parole auprès de la base d'abonnés de nos partenaires — via la **recommandation directe** du distributeur à sa communauté.
+Prenez la parole de manière exclusive auprès de la base d'abonnés de nos partenaires e-commerçants. Ce format repose sur l'**Endorsement** : le distributeur vous recommande personnellement à sa communauté.
+
+:::info Format Premium
+L'Email Dédié offre les taux d'engagement les plus élevés du mix média (TO > 50% sur certains flux).
+:::
 
 ---
 
-## Le concept : l'Endorsement
-
-Contrairement à l'achat de base classique (cold emailing), l'emailing dédié repose sur la **recommandation**. C'est le distributeur qui s'adresse à ses abonnés pour leur présenter votre offre comme un *"privilège abonné"*.
-
-Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivité bien supérieure à de l'emailing de conquête froid.
-
----
-
-## Les 3 Scénarios d'Activation
+## Deux Stratégies d'Activation
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📢 Blast (Newsletter)</strong>
-    <p>Envoi massif sur tout ou partie de la base opt-in du distributeur. Idéal pour la notoriété et le volume.</p>
-    <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Notoriété" /></p>
+    <strong>📢 Blast (One-Shot)</strong>
+    <p>Envoi massif et ponctuel à une date précise sur tout ou partie de la base opt-in. Idéal pour un lancement de produit ou une opération saisonnière (Soldes, Black Friday).</p>
+    <Badge type="tip" text="Volume" /> <Badge type="tip" text="Notoriété" />
   </div>
   <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase</strong>
-    <p>Email automatisé envoyé juste après une commande. Le client est en attente active — taux d'ouverture <strong>> 50%</strong>.</p>
-    <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="Taux d'ouverture max" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Pack</strong>
-    <p>Intégration dans la séquence de bienvenue des nouveaux inscrits du partenaire. Premier contact dans un moment de forte attention.</p>
-    <p><Badge type="warning" text="Engagement" /> <Badge type="warning" text="Acquisition" /></p>
+    <strong>⚙️ Automated (Dedicated Trigger)</strong>
+    <p>Email 100% dédié envoyé automatiquement suite à un événement : <strong>Post-Purchase</strong> (juste après une commande) ou <strong>Welcome</strong> (inscription newsletter).</p>
+    <Badge type="info" text="Taux d'ouverture > 50%" /> <Badge type="info" text="Flux Continu" />
   </div>
 </div>
 
 ---
 
-## Workflow en 3 étapes
+## Pourquoi l'Email Dédié performe mieux ?
+
+Contrairement à l'achat de base de données classique (Cold Emailing), l'Email Dédié bénéficie de la **caution morale** du distributeur.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🛡️ Confiance Transmise</strong>
+    <p>L'abonné reçoit l'email de la part d'une marque qu'il connaît et apprécie. Votre offre est perçue comme un "privilège membre".</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🎯 Ciblage 1st Party</strong>
+    <p>Nous utilisons les données d'achat réelles (univers produit, panier moyen) pour ne diffuser votre offre qu'aux profils affinitaires.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📈 Interaction x10</strong>
+    <p>Le taux de clic (CTR) est jusqu'à 10 fois supérieur à une campagne d'acquisition froide standard.</p>
+  </div>
+</div>
+
+---
+
+## Workflow & Production
+
+La production est un travail de co-branding entre vous et le distributeur pour maximiser l'impact.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3><a href="./1-brief-annonceur">Le Brief Annonceur</a></h3>
-    <p>Vous définissez l'offre et fournissez les assets (visuels, wording, liens) via un formulaire en ligne.</p>
+    <p>Vous fournissez les assets (visuels, wording, liens) et l'URL de votre <strong>Landing Page</strong> (la création de la LP est à votre charge).</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3><a href="./2-creation-distributeur">Production & Co-branding</a></h3>
-    <p>Le distributeur conçoit l'email dans sa charte graphique, intégrant vos assets pour maximiser l'effet de recommandation.</p>
+    <h3><a href="./2-creation-distributeur">Production Distributeur</a></h3>
+    <p>Le distributeur conçoit l'email dans sa propre charte graphique, intégrant vos messages pour garantir l'effet de recommandation native.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
-    <h3><a href="./3-validation-diffusion">Validation & Diffusion</a></h3>
-    <p>Vous validez le BAT sur la plateforme. Une fois les deux validations confirmées, l'envoi est programmé.</p>
+    <h3><a href="./3-validation-diffusion">Validation & BAT</a></h3>
+    <p>Vous validez le rendu final (BAT) sur la plateforme. Le distributeur s'engage à répondre sous <strong>48h ouvrées</strong> pour garantir la fluidité de votre campagne.</p>
   </div>
 </div>
 
 ---
 
-## Performances
+## Mesure & Double Tracking
 
-| Scénario | Taux d'ouverture | Interaction (CTR) |
-| :--- | :--- | :--- |
-| **Post-Purchase** | > 50% | Élevé |
-| **Blast (Newsletter)** | Variable | ~1,9% sur 200 000 contacts |
-| **Welcome Pack** | Élevé | Fort engagement |
+getinside assure une transparence totale sur les performances de vos envois.
 
-:::tip Exemple terrain
-Japhy a obtenu **1,90% d'interaction** sur un envoi de 200 000 contacts via Blast. HelloFresh x Berceau Magique a capté des jeunes parents via une offre ciblée. Les Petits Frères des Pauvres ont généré des dons via un partenariat Mieux que des Fleurs.
-:::
-
-::: info Le saviez-vous ?
-L'emailing dédié est le **format le plus rémunérateur** pour les distributeurs. Les emails transactionnels (post-achat) peuvent dépasser les **50% de taux d'ouverture**, et l'endorsement du retailer offre une crédibilité que le cold emailing ne peut pas reproduire.
-:::
-
----
-
-## Ciblage & Audiences
-
-Le ciblage repose sur les **données First Party** réelles des acheteurs du distributeur.
-
-| Critère | Options disponibles |
-| :--- | :--- |
-| **Univers produit** | Beauté, Food, Tech, Maison, Sport, Mode… |
-| **Panier moyen (AOV)** | High-end, Mass Market, Discounter |
-| **Profil acheteur** | B2C (particuliers) ou B2B (professionnels) |
-| **Géographie** | France, Belgique, Espagne, Allemagne… |
-| **Segmentation fine** | Acheteurs actifs récents, femme, renvoi aux non-ouvreurs |
+1. **Reporting Plateforme :** Taux d'ouverture (TO), Taux de clic (CTR), Clics uniques.
+2. **Double Tracking :** Nous suivons les clics via nos liens `gtinsi.de`. Nous recommandons l'ajout systématique d'**UTM** pour réconcilier ces données avec vos ventes dans votre outil Analytics.
+3. **Reporting Post-Campagne :** Un bilan consolidé vous est transmis 7 jours après l'envoi (pour les campagnes Blast).
 
 ---
 
 ## Tarification
 
-| Poste | Coût |
-| :--- | :--- |
-| **Accès à la plateforme** | Gratuit, sans abonnement |
-| **Frais de plateforme** | 12% du budget média investi |
-| **Studio Créatif** (optionnel) | Forfait 550€ HT — si vous n'avez pas de ressource créative en interne |
+- **Frais de plateforme :** 12% du budget média investi (Managed Service).
+- **Studio Créatif (Option) :** 550€ HT pour la conception des visuels et l'aide au copywriting si besoin.
+- **Landing Page :** Non incluse (à fournir par l'annonceur).
 
 ---
 
-## Pourquoi passer par getinside ?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>💎 Inventaire Premium</strong>
-    <p>+250 e-commerçants partenaires avec des bases opt-in qualifiées, inaccessibles sur les plateformes d'affiliation classiques.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🎯 Ciblage Contextuel</strong>
-    <p>Associez votre image à une marque affinitaire. La recommandation du distributeur booste la réactivité vs. cold emailing.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Sécurité & Tracking</strong>
-    <p>Fonds sécurisés, délivrabilité vérifiée, liens trackés dynamiques (modifiables même après envoi) — tout est géré par getinside.</p>
-  </div>
-</div>
+- [📋 Guide du Brief](./1-brief-annonceur) — Comment préparer vos éléments.
+- [📐 Spécifications Techniques](./print-specs) — (Note: à adapter pour l'email).
+- [🖼️ Studio Créatif](../../resources/studio) — Déléguez la production à nos experts.
