@@ -101,8 +101,8 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
       <li><strong>📅 Dates indisponibles ?</strong> Proposez une autre période de diffusion.</li>
       <li><strong>📦 Volume inadapté ?</strong> Ajustez la quantité proposée.</li>
     </ul>
-    <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec l'annonceur, argumenter votre prix ou demander des précisions.
-    </div>
+    <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec l'annonceur, argumenter votre prix ou demander des précisions.</p>
+  </div>
 </div>
 
 <div class="gi-step">
