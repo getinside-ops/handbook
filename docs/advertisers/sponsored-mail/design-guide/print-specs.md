@@ -1,14 +1,20 @@
 ---
 title: Spécifications Techniques
+description: Formats papier, colorimétrie, QR code et contraintes d'impression pour vos flyers Sponsored Mail getinside.
+keywords:
+  - spécifications impression flyer
+  - format A5 A6 fond perdu
+  - CMJN FOGRA39 impression
+  - QR code dynamique flyer
 ---
 
 # Spécifications Techniques
 
-Les contraintes à respecter pour garantir une qualité d'impression optimale et un tracking performant.
+Les contraintes à respecter pour une impression correcte et un tracking performant.
 
 ---
 
-## Formats Papier
+## Formats papier
 
 | Format | Fini (découpé) | Fichier (avec fond perdu) | Zone tranquille |
 | :--- | :--- | :--- | :--- |
@@ -16,7 +22,7 @@ Les contraintes à respecter pour garantir une qualité d'impression optimale et
 | **A6** | 105 × 148 mm | **109 × 152 mm** | 3 mm internes |
 | **Carte** | 105 × 148 mm | **109 × 152 mm** | Voir gabarit |
 
-:::warning Fond perdu (Bleed) : 2 mm obligatoire
+:::warning Fond perdu : 2 mm obligatoire
 La matière (image ou fond coloré) doit déborder de **2 mm à l'extérieur** du format fini. Sans fond perdu, un liseré blanc apparaît après découpe.
 :::
 
@@ -36,7 +42,7 @@ Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm d
 | **Profil ICC** | Coated FOGRA39 |
 | **Taux d'encrage** | **Maximum 300%** |
 
-:::tip Astuce — Noir Profond
+:::tip Noir profond
 Pour un noir riche sur les aplats (fonds noirs larges) : utilisez **C30% M30% J30% N100%**.
 Pour les textes fins et petits caractères : utilisez **N100% seul** pour éviter le décalage à l'impression.
 :::
@@ -45,21 +51,19 @@ Pour les textes fins et petits caractères : utilisez **N100% seul** pour évite
 
 ## Papier
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Grammage</strong>
-    <p>250 à 300 g/m² (Rigidité optimale)</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Type</strong>
-    <p>Couché mat ou couché demi-mat (FSC/PEFC)</p>
-  </div>
-</div>
+| Critère | Valeur |
+| :--- | :--- |
+| **Grammage** | 250 à 300 g/m² |
+| **Type** | Couché mat ou couché demi-mat |
+| **Certification** | FSC ou PEFC |
+| **Pelliculage** | Interdit |
 
-:::warning Éco-conception : Pelliculage interdit
-Dans une démarche d'éco-conception et pour garantir la **recyclabilité intégrale** de vos supports, le pelliculage (ajout d'une couche plastique mate ou brillante) est interdit. Un support pelliculé ne peut pas être recyclé dans la filière papier classique. 
+:::warning Pelliculage interdit
+Le pelliculage (ajout d'une couche plastique mate ou brillante) est interdit pour deux raisons :
+1. Un support pelliculé ne peut pas être recyclé dans la filière papier classique.
+2. Le pelliculage réduit la lisibilité du QR code par les appareils photo de smartphones.
 
-Privilégiez un vernis machine si vous souhaitez protéger l'impression sans compromettre le recyclage.
+Si vous souhaitez protéger l'impression, utilisez un **vernis machine** — il est compatible avec le recyclage et n'affecte pas le QR code.
 :::
 
 ---
@@ -67,22 +71,24 @@ Privilégiez un vernis machine si vous souhaitez protéger l'impression sans com
 ## QR Code getinside
 
 :::danger QR code propriétaire obligatoire
-Vous **ne pouvez pas** utiliser un QR code généré par vos soins. Vous devez impérativement intégrer le fichier **`.svg`** fourni par la plateforme getinside.
+Vous **ne pouvez pas** utiliser un QR code généré par vos soins. Vous devez intégrer le fichier **`.svg`** fourni par la plateforme getinside.
 
-**Pourquoi ?** Ce QR code unique certifie la distribution, permet le monitoring en temps réel et active votre tableau de bord de performance.
+Ce QR code certifie la distribution, permet le monitoring en temps réel et active votre tableau de bord de performance.
 :::
 
-**Taille minimum : 25 × 25 mm** (en dessous, le QR code n'est pas lisible par tous les smartphones).
+**Taille minimum : 25 × 25 mm** — en dessous, le QR code n'est pas lisible par tous les smartphones.
+
+Le QR code est disponible en téléchargement dans votre espace annonceur, dans la section dédiée à la campagne, dès validation de votre proposition par le distributeur.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✨ QR Code Dynamique</strong>
+    <strong>QR Code dynamique</strong>
     <p>L'URL de destination n'est pas gravée dans le motif du code.</p>
-    <p>Vous pouvez modifier la landing page à tout moment depuis la plateforme — <strong>même après l'impression des flyers</strong>. Idéal pour corriger une erreur d'URL ou prolonger une offre.</p>
+    <p>Vous pouvez modifier la landing page à tout moment depuis la plateforme, <strong>même après l'impression des flyers</strong>. Utile pour corriger une URL ou prolonger une offre.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🎯 Tracking & UTM</strong>
-    <p>getinside mesure les scans. Pour suivre les <strong>ventes</strong> dans Google Analytics, configurez l'URL avec des paramètres UTM :</p>
+    <strong>Tracking & UTM</strong>
+    <p>getinside mesure les scans en temps réel. Pour suivre les <strong>ventes</strong> dans Google Analytics, ajoutez des paramètres UTM à votre URL :</p>
     <p><code>monsite.com?utm_source=getinside&utm_medium=insertion-colis&utm_campaign=printemps</code></p>
     <p>Ajoutez aussi un <strong>code promo unique</strong> par distributeur pour l'attribution offline.</p>
   </div>
