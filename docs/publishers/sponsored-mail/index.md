@@ -44,7 +44,7 @@ L'Insertion Colis est le format le plus performant du réseau getinside — et p
     <p>Chaque colis est ouvert par son destinataire. Le flyer est physiquement entre ses mains — impossible à ignorer comme une bannière ou un email.</p>
   </div>
   <div class="gi-value-card">
-    <strong>CTR 2,64% vs 0,90% (Meta)</strong>
+    <strong>CTR 2,87% vs 0,90% (Meta)</strong>
     <p>Le CTR moyen réseau dépasse de 3x la moyenne Meta Ads. L'attention maximale au moment de l'unboxing explique cet écart.</p>
   </div>
   <div class="gi-value-card">

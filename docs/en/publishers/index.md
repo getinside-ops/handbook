@@ -102,6 +102,14 @@ image: /images/gi-keyvisual.svg
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
+  <a href="pricing#managed-plan" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🎯</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Prospect Advertisers <Badge type="warning" text="Managed" /></p>
+      <p class="gi-nav-card-desc">Import prospect lists, track your sales pipeline, and forecast revenue from advertisers you bring to the network.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
 </div>
 
 ## Finance & Admin

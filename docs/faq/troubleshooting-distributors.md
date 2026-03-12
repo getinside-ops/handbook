@@ -4,7 +4,7 @@ title: Résolution de Problèmes — Distributeurs
 
 # Résolution de Problèmes — Distributeurs
 
-Votre Wallet ne correspond pas ? Un retrait tarde ? Une campagne pose problème ? Trouvez la réponse en moins de 2 minutes.
+Problème de Wallet, de retrait ou de campagne ? Trouvez la solution ci-dessous.
 
 ## Wallet & Paiements
 

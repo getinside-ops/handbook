@@ -32,7 +32,7 @@ You can offer 2 sending models for your dedicated campaigns:
 ### Performance Options
 
 ::: tip 📩 Resend to non-openers
-The advertiser can choose to activate an **automatic resend** to inactive recipients 72 hours after the initial send. This option maximizes the campaign's reach while generating additional revenue for you.
+The advertiser can choose to activate an **automatic resend** to inactive recipients 72 hours after the initial send. This increases the campaign's reach and generates additional revenue for you.
 :::
 
 ### Integrated Double Tracking
@@ -62,7 +62,7 @@ getinside ensures data reliability via a double tracking system:
   </a>
 </div>
 
-## Why activate this channel via getinside?
+## Why use getinside?
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

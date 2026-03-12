@@ -18,7 +18,7 @@ A Partnership Ad (Meta) or Spark Ad (TikTok) is not an ordinary advertisement. I
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🚀 3x CTR (2.64% Average)</strong>
+    <strong>🚀 3x CTR (2.87% Average)</strong>
     <p>The click-through rate is 3 times higher than a standard brand advertisement (0.90% avg).</p>
   </div>
   <div class="gi-value-card">

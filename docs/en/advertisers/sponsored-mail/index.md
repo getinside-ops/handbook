@@ -110,11 +110,11 @@ Benchmarks observed on the getinside network:
 
 | Indicator | Network benchmark |
 | :--- | :--- |
-| **Scan rate (CTR)** | 1% to 10% — **network average: 2.64%** |
+| **Scan rate (CTR)** | 1% to 10% — **network average: 2.87%** |
 | **Post-scan conversion rate (CVR)** | 10% to 30% |
 
 ::: info Average CTR vs. traditional digital
-**2.64%** average CTR on the getinside network — compared to **0.90%** for Meta Ads. Parcel inserts generate up to **3× more qualified clicks** thanks to the hyper-attention of the unboxing moment.
+**2.87%** average CTR on the getinside network — compared to **0.90%** for Meta Ads. Parcel inserts generate up to **3× more qualified clicks** thanks to the hyper-attention of the unboxing moment.
 :::
 
 :::tip Maximize ROI

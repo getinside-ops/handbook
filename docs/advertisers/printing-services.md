@@ -4,7 +4,7 @@ title: Impression & Logistique
 
 # Services d'Impression et Logistique
 
-getinside agit comme une **centrale d'achat** pour mutualiser les volumes, réduire vos coûts et garantir une production responsable.
+getinside agit comme une **centrale d'achat** pour mutualiser les volumes et réduire vos coûts d'impression responsable.
 
 ---
 

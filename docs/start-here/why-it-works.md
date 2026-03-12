@@ -17,9 +17,7 @@ image: /images/gi-keyvisual.svg
 
  ## L'Écosystème Retail Media de getinside
 
-Comprendre le fonctionnement opérationnel de **getinside**, la plateforme retail media qui crée un cycle vertueux entre **monétisation** (pour retailers) et **acquisition qualifiée** (pour annonceurs).
-
-**getinside** utilise le **matching contextuel** — le placement intelligent d'offres complémentaires auprès de consommateurs au moment exact où ils sont les plus réceptifs — pour créer des campagnes endorsed (recommandées par le retailer) avec des **taux de conversion jusqu'à 5x supérieurs** au display classique.
+**getinside** connecte retailers et annonceurs via leurs actifs communs : colis, emails, réseaux sociaux. La plateforme utilise le **matching contextuel** — le placement intelligent d'offres complémentaires auprès de consommateurs au moment exact où ils sont les plus réceptifs — pour créer des campagnes endorsed (recommandées par le retailer) avec des **taux de conversion jusqu'à 5x supérieurs** au display classique.
 
 | Acteur | Action | Flux |
 |--------|--------|------|
@@ -30,7 +28,7 @@ Comprendre le fonctionnement opérationnel de **getinside**, la plateforme retai
 
 ::: info Le Cycle Vertueux
 
-L'e-commerçant monétise ses colis et emails, reçoit des revenus immédiatement accessibles via son Wallet, puis les réinvestit pour acquérir sa propre audience chez des partenaires complémentaires. Un cycle fermé qui transforme les centres de coûts en moteurs de croissance.
+L'e-commerçant monétise ses colis et emails, reçoit des revenus immédiatement accessibles via son Wallet, puis les réinvestit pour acquérir sa propre audience chez des partenaires complémentaires. Les coûts d'expédition deviennent une source de revenus récurrents.
 
 :::
 
@@ -77,7 +75,7 @@ getinside n'est pas seulement une régie, c'est un accélérateur de croissance.
 
 ## 3 Leviers, 1 Écosystème
 
-Ne laissez aucun asset inexploité. getinside valorise vos points de contact physiques et digitaux pour maximiser la couverture.
+getinside couvre vos points de contact physiques et digitaux.
 
 Le réseau getinside couvre **40 millions de consommateurs** actifs accessibles via les +250 e-commerçants partenaires — sans achat de données tiers.
 
@@ -89,7 +87,7 @@ Le réseau getinside couvre **40 millions de consommateurs** actifs accessibles 
 
 ## L'Expertise getinside : Votre Accélérateur
 
-Le Retail Media est puissant, mais complexe à opérer seul.
+Opérer une régie retail media en solo est chronophage.
 
 <div class="gi-table-full">
 
@@ -142,7 +140,7 @@ La puissance de getinside réside dans la **cohérence contextuelle**. Nous prop
 
 ## L'IA au Service du Matching
 
-**getinside** intègre l'intelligence artificielle pour automatiser et optimiser chaque mise en relation entre annonceurs et audiences.
+**getinside** utilise l'IA pour automatiser le matching entre annonceurs et audiences.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -159,10 +157,8 @@ La puissance de getinside réside dans la **cohérence contextuelle**. Nous prop
   </div>
 </div>
 
-::: tip Prêt à activer votre croissance ?
+::: tip
 
-Que vous soyez annonceur cherchant de nouveaux clients ou e-commerçant voulant monétiser vos colis, l'écosystème getinside est conçu pour vous.
-
-[Discuter de mon projet](mailto:studio@getinside.com)
+[Discuter de mon projet →](mailto:studio@getinside.com)
 
 :::

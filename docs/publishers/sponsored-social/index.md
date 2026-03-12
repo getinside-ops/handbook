@@ -5,7 +5,7 @@ description: Monétisez votre audience Instagram et TikTok via les Partnership A
 
 # Social Ads (Partnership Ads)
 
-Monétisez votre audience sociale (Instagram, TikTok) sans polluer votre ligne éditoriale grâce aux Partnership Ads. 
+Monétisez votre audience sociale (Instagram, TikTok) via les Partnership Ads, sans impacter votre ligne éditoriale.
 
 ::: tip Revenu incrémental & Notoriété
 L'annonceur paie pour diffuser **votre contenu** auprès d'une audience qualifiée. Vous gagnez des revenus et de nouveaux abonnés sans dépenser votre propre budget média.
@@ -36,7 +36,7 @@ Contrairement à l'influence classique où vous portez tout le poids de la diffu
   </div>
   <div class="gi-value-card">
     <strong>⭐ Score Distributeur</strong>
-    <p>Une exécution parfaite et rapide des Social Ads augmente votre <strong>Score Interne (1-10)</strong> et attire plus d'annonceurs.</p>
+    <p>Une exécution parfaite et rapide des Social Ads améliore votre <strong>Score Distributeur</strong> et attire plus d'annonceurs.</p>
   </div>
 </div>
 

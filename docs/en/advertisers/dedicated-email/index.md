@@ -52,7 +52,7 @@ Unlike traditional list renting (Cold Emailing), Dedicated Emailing benefits fro
 
 ## Workflow & Production
 
-Production is a co-branding effort between you and the distributor to maximize impact.
+Production is a co-branding effort between you and the distributor.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>

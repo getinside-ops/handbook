@@ -8,7 +8,7 @@ Your audience profile is your showcase to advertisers. The more precise it is, t
 
 ## 1. The Identity of your Audience
 
-This is the first thing the advertiser sees. Take care of the presentation to trigger a "crush".
+This is the first thing the advertiser sees. Take care of the presentation — it is your first impression.
 
 - **Presentation:** Tell your story, your values, and your positioning.
 - **CSR Commitments:** Check the boxes (Made in France, Reusable parcels...) only if you can prove it.
@@ -64,7 +64,7 @@ To save time, you have quick modification tools:
 Up-to-date inventory over 12 months is a major criterion for your **Distributor Score**. Advertisers favor audiences with guaranteed availability.
 :::
 
-## 5. Managing multiple audiences and sites
+## 4. Managing multiple audiences and sites
 
 **A single account is enough**, even if you operate multiple e-commerce sites. Each site can have its own audience profile with its specific data.
 

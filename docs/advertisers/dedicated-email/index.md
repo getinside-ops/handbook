@@ -52,7 +52,7 @@ Contrairement à l'achat de base de données classique (Cold Emailing), l'Email 
 
 ## Workflow & Production
 
-La production est un travail de co-branding entre vous et le distributeur pour maximiser l'impact.
+La production est un travail de co-branding entre vous et le distributeur.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>

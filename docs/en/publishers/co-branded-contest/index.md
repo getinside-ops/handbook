@@ -25,7 +25,7 @@ Engage your community while monetizing your audience through operations funded b
   </div>
   <div class="gi-value-card">
     <strong>🎉 Commercial Animation</strong>
-    <p>Offer a fun experience and attractive gifts to your customers. This boosts your site and newsletters.</p>
+    <p>Offer a fun experience to your customers. Gamified mechanics reach up to <strong>20% CTR</strong> — boosts your newsletters and re-engages inactive customers.</p>
   </div>
   <div class="gi-value-card">
     <strong>📊 Data Qualification</strong>

@@ -56,7 +56,7 @@ At a minimum, enter:
 
 ## You are ready ✅
 
-A **checkout call** with the getinside team confirms your listing on the marketplace. From then on, you will receive **campaign proposals** directly on the platform.
+A **validation call** with the getinside team confirms your listing on the marketplace. From then on, you will receive **campaign proposals** directly on the platform.
 
 **Golden rule to remember:** You have **48 business hours** to respond to each proposal. Beyond that, it expires and can impact your [Distributor Score](/en/publishers/score-distributor).
 

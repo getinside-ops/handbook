@@ -2,6 +2,10 @@
 title: Logistics & Insertion
 ---
 
+<script setup>
+import { withBase } from 'vitepress'
+</script>
+
 # Logistics Operations
 
 From pallet reception to the customer unboxing experience.
@@ -45,7 +49,7 @@ The value of the Parcel Insert relies on the unboxing experience. To ensure Adve
 
 The advertising material must imperatively be placed **on top of the products**, face up. It must be the first thing the customer sees.
 
-![Parcel insert best practices](/handbook/images/asile-colis-do-dont.webp)
+<img :src="withBase('/images/asile-colis-do-dont.webp')" alt="Parcel insert best practices" />
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

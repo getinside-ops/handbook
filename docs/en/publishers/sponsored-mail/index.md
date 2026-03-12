@@ -44,7 +44,7 @@ Parcel Insert is the highest-performing format in the getinside network — and 
     <p>Every parcel is opened by its recipient. The flyer is physically in their hands — impossible to ignore like a banner or an email.</p>
   </div>
   <div class="gi-value-card">
-    <strong>CTR 2.64% vs 0.90% (Meta)</strong>
+    <strong>CTR 2.87% vs 0.90% (Meta)</strong>
     <p>The average network CTR is 3x higher than the Meta Ads average. Maximum attention during unboxing explains this gap.</p>
   </div>
   <div class="gi-value-card">

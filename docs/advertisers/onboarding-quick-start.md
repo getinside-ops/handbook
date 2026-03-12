@@ -55,7 +55,7 @@ Grâce à la **Règle des 48 heures**, les distributeurs s'engagent à répondre
 Pendant que vous configurez votre campagne, un panneau latéral interactif affiche :
 - **Estimations de Reach :** Volume de contacts, Scans/Clics, CTR et CPC estimés.
 - **Simulateur de Budget :** Décomposition en temps réel des coûts (Audience, Studio, Logistique).
-- **Indice de Confiance (Trust Index) :** Un score de 1 à 5 étoiles mesurant la probabilité de réussite basée sur l'historique de la relation avec le distributeur.
+- **Indice de Confiance (Trust Index) :** Score de 1 à 5 basé sur l'historique commun avec le distributeur — 1 = peu probable, 2 = possible, 3 = probable, 4 = garanti, 5 = confiance maximale. Disponible sur les offres Package et Emailing (pas Custom).
 
 ### 🎯 Options Avancées
 - **Groupes de Campagnes :** Liez plusieurs campagnes à un budget global pour un suivi consolidé.

@@ -94,7 +94,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3>Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
     <p><strong>⏱️ Règle des 48 heures (Critique)</strong> — Répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité égale à la commission perdue.</p>
-    <p><strong>Simulateur & Trust Index :</strong> L'annonceur utilise un simulateur de performance en temps réel et un <strong>Trust Index (1 à 5 étoiles)</strong> basé sur votre historique commun pour ajuster son offre. Plus votre réactivité est élevée, plus votre indice de confiance grimpe.</p>
+    <p><strong>Simulateur & Trust Index :</strong> L'annonceur utilise un simulateur de performance en temps réel et un <strong>Trust Index (1 à 5)</strong> basé sur votre historique commun — 1 = peu probable, 4 = garanti, 5 = confiance maximale. Plus votre réactivité est élevée, plus votre indice grimpe.</p>
     <p><strong>Ne refusez pas, négociez !</strong> L'objectif est de remplir votre inventaire :</p>
     <ul>
       <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire. La barre de probabilité indique à l'annonceur vos chances d'acceptation.</li>
@@ -141,7 +141,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <p>Allez chercher les annonceurs qui correspondent à votre audience grâce aux outils de conquête.</p>
     <ul>
       <li><strong>Prospection Active :</strong> Parcourez le catalogue des annonceurs actifs getinside et envoyez des propositions directes.</li>
-      <li><strong>Annonceurs Prospects :</strong> Importez vos listes de prospects ciblés, suivez les étapes de vente (Pipeline) et générez des revenus sur de nouveaux comptes.</li>
+      <li><strong>Annonceurs Prospects :</strong> Importez vos listes de prospects ciblés, suivez les étapes de vente (Pipeline) et générez des revenus sur de nouveaux comptes. <Badge type="warning" text="Bientôt disponible" /></li>
     </ul>
   </div>
 </div>

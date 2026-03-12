@@ -43,7 +43,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-avene.webp" alt="Campagne Avène" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-avene.webp')" alt="Campagne Avène" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -64,7 +64,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-nocibe.webp" alt="Campagne Nocibé" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-nocibe.webp')" alt="Campagne Nocibé" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -85,7 +85,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-hellofresh.webp" alt="Campagne Hello Fresh" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-hellofresh.webp')" alt="Campagne Hello Fresh" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -106,7 +106,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-bam.webp" alt="Campagne Bam Karaoke" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-bam.webp')" alt="Campagne Bam Karaoke" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -127,7 +127,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-upd.webp" alt="Campagne Ultra Premium Direct" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-upd.webp')" alt="Campagne Ultra Premium Direct" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -148,7 +148,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-wash.webp" alt="Campagne Total Wash" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-wash.webp')" alt="Campagne Total Wash" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -169,7 +169,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-nespresso.webp" alt="Campagne Nespresso" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-nespresso.webp')" alt="Campagne Nespresso" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -190,7 +190,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img src="/handbook/images/case-studies/case-japhy.webp" alt="Campagne Japhy" onclick="openLightbox(this.src)" loading="lazy">
+    <img :src="withBase('/images/case-studies/case-japhy.webp')" alt="Campagne Japhy" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -235,6 +235,7 @@ Cliquez sur les images pour zoomer.
 
 <script setup>
 import { onMounted } from 'vue'
+import { withBase } from 'vitepress'
 onMounted(() => {
   window.openLightbox = function(src) {
     var lightbox = document.getElementById('lightbox')

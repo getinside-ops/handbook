@@ -94,7 +94,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
     <h3>Reception & Negotiation</h3>
     <p>When a campaign is proposed, all your users receive a notification.</p>
     <p><strong>⏱️ 48-Hour Rule (Critical)</strong> — Respond to any proposal within <strong>48 business hours</strong>. Silence means tacit refusal and incurs a penalty equal to the lost commission.</p>
-    <p><strong>Simulator & Trust Index:</strong> The advertiser uses a real-time performance simulator and a <strong>Trust Index (1 to 5 stars)</strong> based on your common history to adjust their offer. The higher your responsiveness, the higher your trust index climbs.</p>
+    <p><strong>Simulator & Trust Index:</strong> The advertiser uses a real-time performance simulator and a <strong>Trust Index (1 to 5)</strong> based on your shared history — 1 = unlikely, 4 = guaranteed, 5 = maximum confidence. Higher responsiveness raises your index.</p>
     <p><strong>Do not refuse, negotiate!</strong> The goal is to fill your inventory:</p>
     <ul>
       <li><strong>💰 Price too low?</strong> Make a counter-proposal. The probability bar indicates to the advertiser your chances of acceptance.</li>
@@ -141,7 +141,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
     <p>Find advertisers that match your audience using conquest tools.</p>
     <ul>
       <li><strong>Active Prospecting:</strong> Browse the active getinside advertiser catalog and send direct proposals.</li>
-      <li><strong>Prospect Advertisers:</strong> Import your lists of targeted prospects, track sales steps (Pipeline), and generate revenue from new accounts.</li>
+      <li><strong>Prospect Advertisers:</strong> Import your lists of targeted prospects, track sales steps (Pipeline), and generate revenue from new accounts. <Badge type="warning" text="Coming soon" /></li>
     </ul>
   </div>
 </div>

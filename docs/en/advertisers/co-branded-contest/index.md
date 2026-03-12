@@ -4,7 +4,7 @@ title: Contest
 
 # Contest
 
-The mechanism that combines **awareness**, **qualified lead acquisition**, and **immediate conversion** — thanks to the endorsement of a partner e-retailer.
+The mechanism that combines **awareness**, **qualified lead acquisition**, and **immediate conversion**, thanks to the endorsement of a partner e-retailer.
 
 ---
 

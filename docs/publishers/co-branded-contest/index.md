@@ -25,7 +25,7 @@ Animez votre communauté tout en monétisant votre audience grâce à des opéra
   </div>
   <div class="gi-value-card">
     <strong>🎉 Animation Commerciale</strong>
-    <p>Offrez une expérience ludique et des cadeaux attractifs à vos clients. Cela dynamise votre site et vos newsletters.</p>
+    <p>Offrez une expérience ludique à vos clients. Les mécaniques de jeu atteignent jusqu'à <strong>20% de CTR</strong> — dynamise vos newsletters et relance les inactifs.</p>
   </div>
   <div class="gi-value-card">
     <strong>📊 Qualification Data</strong>

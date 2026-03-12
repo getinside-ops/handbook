@@ -32,7 +32,7 @@ Vous pouvez proposer 2 modèles d'envoi pour vos campagnes dédiées :
 ### Options de Performance
 
 ::: tip 📩 Renvoi aux non-ouvreurs (Resend)
-L'annonceur peut choisir d'activer un **renvoi automatique** aux inactifs 72 heures après l'envoi initial. Cette option permet de maximiser la portée de la campagne tout en générant un revenu additionnel pour vous.
+L'annonceur peut choisir d'activer un **renvoi automatique** aux inactifs 72 heures après l'envoi initial. Cela augmente la portée de la campagne et génère un revenu additionnel pour vous.
 :::
 
 ### Double Tracking Intégré
@@ -62,7 +62,7 @@ getinside assure la fiabilité des données via un double système de suivi :
   </a>
 </div>
 
-## Pourquoi activer ce levier via getinside ?
+## Pourquoi passer par getinside ?
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

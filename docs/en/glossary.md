@@ -62,7 +62,7 @@ Definitions of technical terms and acronyms of the platform.
   <dt>CPM (Cost Per Mille)</dt>
   <dd>Standard unit of measurement. A CPM of 15€ means that the advertiser pays 15€ for 1,000 impressions (parcels sent, emails received).</dd>
   <dt>CTR (Click-Through Rate / Scan Rate)</dt>
-  <dd>Percentage of people who interacted with the campaign (email click or QR code scan on a flyer). 2026 network average: 2.64%.</dd>
+  <dd>Percentage of people who interacted with the campaign (email click or QR code scan on a flyer). 2026 network average: 2.87%.</dd>
 </dl>
 
 <hr />
@@ -170,7 +170,7 @@ Definitions of technical terms and acronyms of the platform.
 <h2 id="t">T</h2>
 <dl>
   <dt>Trust Index</dt>
-  <dd>Index from 1 to 5 stars measuring the historical reliability of a relationship between an Advertiser and a specific Distributor.</dd>
+  <dd>Score from 1 to 5 measuring the reliability of an Advertiser ↔ Distributor relationship: 1 = unlikely, 2 = possible, 3 = probable, 4 = guaranteed, 5 = maximum confidence. Used for Package and Emailing offers only (not Custom). Calculated from shared campaign history.</dd>
 </dl>
 
 <hr />

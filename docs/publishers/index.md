@@ -102,6 +102,14 @@ image: /images/gi-keyvisual.svg
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
+  <a href="pricing#offre-managed" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🎯</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Annonceurs Prospects <Badge type="warning" text="Managed" /></p>
+      <p class="gi-nav-card-desc">Importez vos listes de prospects, suivez vos actions commerciales et pilotez vos revenus en cours d'acquisition.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
 </div>
 
 ## Finance & Admin

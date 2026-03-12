@@ -4,7 +4,7 @@ title: Printing & Logistics
 
 # Printing and Logistics Services
 
-getinside acts as a **central purchasing office** to pool volumes, reduce your costs, and guarantee responsible production.
+getinside acts as a **central purchasing office** to pool volumes and reduce your printing costs.
 
 ---
 

@@ -5,7 +5,7 @@ description: Monetize your Instagram and TikTok audience via Partnership Ads. Co
 
 # Social Ads (Partnership Ads)
 
-Monetize your social audience (Instagram, TikTok) without polluting your editorial line through Partnership Ads.
+Monetize your social audience (Instagram, TikTok) via Partnership Ads, without impacting your editorial line.
 
 ::: tip Incremental Revenue & Awareness
 The advertiser pays to broadcast **your content** to a qualified audience. You earn revenue and gain new followers without spending your own media budget.
@@ -36,7 +36,7 @@ Unlike classic influencer marketing where you carry the full weight of distribut
   </div>
   <div class="gi-value-card">
     <strong>⭐ Distributor Score</strong>
-    <p>Perfect and fast execution of Social Ads increases your **Internal Score (1-10)** and attracts more advertisers.</p>
+    <p>Perfect and fast execution of Social Ads improves your **Distributor Score** and attracts more advertisers.</p>
   </div>
 </div>
 

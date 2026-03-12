@@ -18,7 +18,7 @@ Le Partnership Ad (Meta) ou Spark Ad (TikTok) n'est pas une publicité ordinaire
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🚀 CTR x3 (Moyenne 2,64%)</strong>
+    <strong>🚀 CTR x3 (Moyenne 2,87%)</strong>
     <p>Le taux de clic est 3 fois supérieur à une publicité de marque standard (0,90% avg).</p>
   </div>
   <div class="gi-value-card">

@@ -34,7 +34,7 @@ E.g., lost boxes, blocked campaign → We contact you to resolve. The delay can 
 
 ## Withdrawal Policy and Fees
 
-We encourage pooling payments to limit administrative friction.
+Pool your withdrawals to reduce administrative overhead.
 
 ### Fee Structure according to your Offer
 

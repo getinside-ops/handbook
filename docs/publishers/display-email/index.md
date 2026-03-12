@@ -4,7 +4,7 @@ title: Encart Newsletter (Display Email)
 
 # Encart Newsletter (Display Email)
 
-Monétisez vos newsletters et emails transactionnels en y insérant simplement une bannière partenaire — zéro production de votre côté.
+Monétisez vos newsletters et emails transactionnels en y insérant une bannière partenaire. Zéro production de votre côté.
 
 <div class="gi-quick-links">
   <a href="integration" class="btn btn-primary">Guide d'Intégration →</a>

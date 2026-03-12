@@ -43,6 +43,8 @@ Vous disposez d'un double suivi sur votre tableau de bord getinside :
 
 1. **Performance (ROI) :** Scans de vos QR codes en temps réel.
 2. **Distribution :** Volumes de flyers insérés mis à jour chaque début de semaine par le distributeur.
+
+**Référence :** Le CTR moyen sur le réseau est de **2,87%**. Les formats gamifiés (Jeu Concours) atteignent jusqu'à **20%** de taux de scan.
 :::
 
 ::: details Un distributeur refuse mon visuel — que faire ?
@@ -68,7 +70,7 @@ En cas de demande insistante, contactez [support@getinside.fr](mailto:support@ge
 
 ## La Messagerie : Bonnes Pratiques
 
-La messagerie getinside est votre outil direct pour construire des partenariats durables.
+La messagerie getinside est votre canal direct avec les annonceurs.
 
 ### 1. Soyez Réactif
 Même pour un refus, répondez rapidement. Un distributeur qui répond vite (même négativement) gagne la confiance des annonceurs pour ses futures propositions.

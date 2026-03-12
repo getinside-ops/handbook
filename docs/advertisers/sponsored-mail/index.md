@@ -110,11 +110,11 @@ Les benchmarks observés sur le réseau getinside :
 
 | Indicateur | Benchmark réseau |
 | :--- | :--- |
-| **Taux de scan (CTR)** | 1% à 10% — **moyenne réseau : 2,64%** |
+| **Taux de scan (CTR)** | 1% à 10% — **moyenne réseau : 2,87%** |
 | **Taux de conversion post-scan (CVR)** | 10% à 30% |
 
 ::: info CTR moyen vs. digital classique
-**2,64%** de CTR moyen sur le réseau getinside — contre **0,90%** pour les Meta Ads. L'insertion colis génère jusqu'à **3× plus de clics qualifiés** grâce à l'hyper-attention du moment d'unboxing.
+**2,87%** de CTR moyen sur le réseau getinside — contre **0,90%** pour les Meta Ads. L'insertion colis génère jusqu'à **3× plus de clics qualifiés** grâce à l'hyper-attention du moment d'unboxing.
 :::
 
 :::tip Maximiser le ROI

@@ -34,7 +34,7 @@ Ex : cartons perdus, campagne bloquée → Nous vous contactons pour résoudre. 
 
 ## Politique de Retrait et Frais
 
-Nous encourageons le regroupement des paiements pour limiter les frictions administratives.
+Regroupez vos retraits pour réduire les formalités administratives.
 
 ### Structure Tarifaire selon votre Offre
 

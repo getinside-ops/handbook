@@ -43,6 +43,8 @@ You have dual tracking on your getinside dashboard:
 
 1. **Performance (ROI):** Scans of your QR codes in real-time.
 2. **Distribution:** Volumes of inserted flyers updated every beginning of the week by the distributor.
+
+**Reference:** Average CTR on the network is **2.87%**. Gamified formats (Contest) reach up to **20%** scan rate.
 :::
 
 ::: details A distributor refuses my visual — what to do?
@@ -68,7 +70,7 @@ In case of persistent requests, contact [support@getinside.fr](mailto:support@ge
 
 ## Messaging: Best Practices
 
-The getinside messaging system is your direct tool for building lasting partnerships.
+The getinside messaging system is your direct channel with advertisers.
 
 ### 1. Be Responsive
 Even for a refusal, respond quickly. A distributor who responds fast (even negatively) wins the trust of advertisers for future proposals.

@@ -2,6 +2,10 @@
 title: Logistique & Insertion
 ---
 
+<script setup>
+import { withBase } from 'vitepress'
+</script>
+
 # Opérations Logistiques
 
 De la réception des palettes à l'expérience d'ouverture client (Unboxing).
@@ -45,7 +49,7 @@ La valeur de l'Insertion Colis repose sur l'expérience d'ouverture. Pour garant
 
 Le support publicitaire doit impérativement être déposé **sur les produits**, face visible. Il doit être la première chose que le client voit.
 
-![Bonnes pratiques insertion Insertion Colis](/handbook/images/asile-colis-do-dont.webp)
+<img :src="withBase('/images/asile-colis-do-dont.webp')" alt="Bonnes pratiques insertion Insertion Colis" />
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

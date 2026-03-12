@@ -17,9 +17,7 @@ image: /images/gi-keyvisual.svg
 
 ## The getinside Retail Media Ecosystem
 
-Understand the operational functioning of **getinside**, the retail media platform that creates a virtuous cycle between **monetization** (for retailers) and **qualified acquisition** (for advertisers).
-
-**getinside** uses **contextual matching** — the intelligent placement of complementary offers to consumers at the exact moment they are most receptive — to create endorsed campaigns (recommended by the retailer) with **conversion rates up to 5x higher** than traditional display.
+**getinside** connects retailers and advertisers through shared assets: parcels, emails, social media. The platform uses **contextual matching** — the intelligent placement of complementary offers to consumers at the exact moment they are most receptive — to create endorsed campaigns (recommended by the retailer) with **conversion rates up to 5x higher** than traditional display.
 
 | Actor | Action | Flow |
 |--------|--------|------|
@@ -30,7 +28,7 @@ Understand the operational functioning of **getinside**, the retail media platfo
 
 ::: info The Virtuous Cycle
 
-The e-retailer monetizes its parcels and emails, receives immediately accessible revenue via its Wallet, then reinvests it to acquire its own audience from complementary partners. A closed cycle that transforms cost centers into growth engines.
+The e-retailer monetizes its parcels and emails, receives immediately accessible revenue via its Wallet, then reinvests it to acquire its own audience from complementary partners. Shipping costs become a recurring revenue stream.
 
 :::
 
@@ -54,7 +52,7 @@ The **Dedicated Emailing** format pushes this effect to the maximum: the retaile
 
 ::: info The virtuous circle of Reinvestment
 
-getinside is not just an ad network, it's a growth accelerator. These revenues contribute directly to your **EBITDA**, with **net margins of 65-70%** that reflect the efficiency of your existing logistics assets.
+These revenues feed your **EBITDA** directly, with **65-70% net margins** from your existing logistics assets.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -77,7 +75,7 @@ getinside is not just an ad network, it's a growth accelerator. These revenues c
 
 ## 3 Levers, 1 Ecosystem
 
-Leave no asset unexploited. getinside values your physical and digital touchpoints to maximize coverage.
+getinside covers your physical and digital touchpoints.
 
 The getinside network covers **40 million active consumers** accessible through 250+ partner e-retailers — no third-party data purchase required.
 
@@ -89,7 +87,7 @@ The getinside network covers **40 million active consumers** accessible through 
 
 ## getinside Expertise: Your Accelerator
 
-Retail Media is powerful, but complex to operate alone.
+Running retail media in-house takes time.
 
 <div class="gi-table-full">
 
@@ -142,7 +140,7 @@ The power of getinside lies in its **contextual consistency**. We offer **comple
 
 ## AI at the Service of Matching
 
-**getinside** integrates artificial intelligence to automate and optimize every connection between advertisers and audiences.
+**getinside** uses AI to match advertisers with audiences automatically.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -159,10 +157,8 @@ The power of getinside lies in its **contextual consistency**. We offer **comple
   </div>
 </div>
 
-::: tip Ready to activate your growth?
+::: tip
 
-Whether you are an advertiser looking for new customers or an e-retailer wanting to monetize your parcels, the getinside ecosystem is designed for you.
-
-[Discuss my project](mailto:studio@getinside.com)
+[Discuss my project →](mailto:studio@getinside.com)
 
 :::

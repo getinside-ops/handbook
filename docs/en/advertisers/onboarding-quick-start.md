@@ -55,7 +55,7 @@ Thanks to the **48-hour Rule**, distributors commit to responding to your campai
 While you configure your campaign, an interactive side panel displays:
 - **Reach Estimations:** Volume of contacts, Scans/Clicks, Estimated CTR and CPC.
 - **Budget Simulator:** Real-time breakdown of costs (Audience, Studio, Logistics).
-- **Trust Index (1 to 5 stars):** A score measuring the probability of success based on the historical relationship with the distributor.
+- **Trust Index:** Score from 1 to 5 based on your shared history with the distributor — 1 = unlikely, 2 = possible, 3 = probable, 4 = guaranteed, 5 = maximum confidence. Available for Package and Emailing offers (not Custom).
 
 ### 🎯 Advanced Options
 - **Campaign Groups:** Link multiple campaigns to a global budget for consolidated tracking.

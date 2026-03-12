@@ -8,7 +8,7 @@ Votre fiche audience est votre vitrine auprès des annonceurs. Plus elle est pr�
 
 ## 1. L'Identité de votre Audience
 
-C'est la première chose que l'annonceur voit. Soignez la présentation pour déclencher le "coup de cœur".
+C'est la première chose que l'annonceur voit. Soignez la présentation : c'est votre première impression.
 
 - **Présentation :** Racontez votre histoire, vos valeurs et votre positionnement.
 - **Engagements RSE :** Cochez les cases (Made in France, Colis réutilisables...) uniquement si vous pouvez le prouver.
@@ -64,7 +64,7 @@ Pour gagner du temps, vous disposez d'outils de modification rapide :
 Un inventaire à jour sur 12 mois est un critère majeur de votre **Score Distributeur**. Les annonceurs privilégient les audiences dont la disponibilité est garantie.
 :::
 
-## 5. Gérer plusieurs audiences et sites
+## 4. Gérer plusieurs audiences et sites
 
 **Un seul compte suffit**, même si vous opérez plusieurs sites e-commerce. Chaque site peut avoir sa propre fiche audience avec ses données spécifiques.
 

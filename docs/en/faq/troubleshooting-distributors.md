@@ -4,7 +4,7 @@ title: Troubleshooting — Distributors
 
 # Troubleshooting — Distributors
 
-Your Wallet doesn't match? A withdrawal is delayed? A campaign is causing a problem? Find the answer in less than 2 minutes.
+Wallet issue, delayed withdrawal, or campaign problem? Find the solution below.
 
 ## Wallet & Payments
 

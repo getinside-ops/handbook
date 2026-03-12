@@ -14,7 +14,7 @@ image: /images/gi-keyvisual.svg
 
 # Transform your audiences into revenue
 
-Join **+250 e-retailers** and **+300 advertisers** who use getinside to directly monetize their audiences. **+950 campaigns** successfully operated.
+Join **+250 e-retailers** and **+300 advertisers** using getinside to monetize their audiences directly. **+950 campaigns** successfully completed.
 
 ---
 
@@ -25,7 +25,9 @@ Join **+250 e-retailers** and **+300 advertisers** who use getinside to directly
 **100% open rate** on parcel inserts thanks to the hyper-attention of unboxing.
 **1-10% CTR** and **10-30% post-scan conversion** — the highest performance on the market.
 
-Diversify your acquisition channels against Google and Meta saturation. Benefit from the trust (Endorsement) of the e-retailer towards its community.
+Diversify your acquisition channels beyond Google and Meta. Benefit from the trust (Endorsement) of the e-retailer towards its community.
+
+Real numbers: **824% ROAS** for Blacksheep, **16:1 ROI** for Nocibé.
 
 [Go to the Advertiser Portal →](/en/advertisers/)
 
@@ -60,8 +62,8 @@ getinside centralizes the entire ecosystem: tech integration, printing, routing,
 
 ---
 
-::: info 🏦 getinside accelerates — 3.2M€ Seed Round (February 2026)
-**La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover** and **Founders Future** have joined getinside to accelerate the platform's technological development and make Retail Media accessible to all e-retailers.
+::: info 🏦 getinside accelerates — €3.2M Seed Round (February 2026)
+**La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover** and **Founders Future** have backed getinside to expand the platform and bring Retail Media within reach of every e-retailer. Already operating in France, Belgium and Spain.
 :::
 
 ---

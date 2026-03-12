@@ -4,7 +4,7 @@ title: Newsletter Insert (Display Email)
 
 # Newsletter Insert (Display Email)
 
-Monetize your newsletters and transactional emails by simply inserting a partner banner — zero production on your side.
+Monetize your newsletters and transactional emails by inserting a partner banner. Zero production on your side.
 
 <div class="gi-quick-links">
   <a href="integration" class="btn btn-primary">Integration Guide →</a>

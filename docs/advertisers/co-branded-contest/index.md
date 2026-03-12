@@ -4,7 +4,7 @@ title: Jeu Concours
 
 # Jeu Concours
 
-Le dispositif qui combine **notoriété**, **acquisition de leads qualifiés** et **conversion immédiate** — grâce à la caution d'un e-commerçant partenaire.
+Le dispositif qui combine **notoriété**, **acquisition de leads qualifiés** et **conversion immédiate**, grâce à la caution d'un e-commerçant partenaire.
 
 ---
 

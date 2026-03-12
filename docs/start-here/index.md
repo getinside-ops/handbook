@@ -27,6 +27,8 @@ Rejoignez **+250 e-commerçants** et **+300 annonceurs** qui utilisent getinside
 
 Diversifiez vos canaux d'acquisition face à la saturation de Google et Meta. Bénéficiez de la confiance (Endorsement) de l'e-commerçant envers sa communauté.
 
+Quelques chiffres réels : **824% de ROAS** pour Blacksheep, **ROI de 16:1** pour Nocibé.
+
 [Accéder à l'espace Annonceurs →](/advertisers/)
 
 ---
@@ -61,7 +63,7 @@ getinside centralise l'écosystème complet : intégration tech, impression, rou
 ---
 
 ::: info 🏦 getinside accélère — Levée de fonds 3,2M€ (Février 2026)
-**La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover** et **Founders Future** ont rejoint getinside pour accélérer le développement technologique de la plateforme et rendre le Retail Media accessible à tous les e-commerçants.
+**La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover** et **Founders Future** ont rejoint getinside pour accélérer le développement de la plateforme et rendre le Retail Media accessible à tous les e-commerçants. Déjà présent en France, Belgique et Espagne.
 :::
 
 ---
