@@ -101,6 +101,10 @@ Use `<div class="gi-step-num done">` for completed steps (green circle).
 </div>
 ```
 
+## Tables
+
+All markdown tables render full width by default (`.vp-doc table { width: 100% }` in `style.css`). No wrapper class needed. The legacy `gi-table-full` class still works but is unnecessary for new content.
+
 ## Knowledge Base Integration
 
 Content is enriched from NotebookLM notebook (ID: `9b86dd27-355e-453c-aee2-af40cb58f59c`) via MCP. Key metrics to include:

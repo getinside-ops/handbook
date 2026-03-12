@@ -1437,6 +1437,14 @@ h2+.gi-step {
 /* ============================================================
    21. UTILITIES: FULL WIDTH TABLE
    ============================================================ */
+
+/* Global: all markdown tables are full width */
+.vp-doc table {
+  width: 100%;
+  display: table;
+}
+
+/* Legacy helper class (kept for backward compat) */
 .gi-table-full {
   width: 100% !important;
   margin: 1.25rem 0 !important;
