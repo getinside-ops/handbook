@@ -23,11 +23,11 @@ hero:
 features:
   - icon: 📦
     title: Retailers — Your parcels and emails generate margin
-    details: Turn your shipping costs into recurring revenue. +2% to +20% additional turnover, 65-70% net margin, zero heavy technical integration.
+    details: Your shipping costs become a revenue stream. +2% to +20% additional revenue, 65-70% net margin, no technical integration needed.
     link: /en/publishers/
   - icon: 🎯
     title: Advertisers — Reach your customers where they buy
-    details: Benefit from the endorsement of recognized e-retailers to enhance your brand. Deploy your campaigns across multiple touchpoints. 100% open rate on Sponsored Mail, 1-10% CTR, 10-30% conversion.
+    details: Your campaigns run through e-retailers your customers already buy from. 100% open rate on Sponsored Mail, 1-10% CTR, 10-30% conversion.
     link: /en/advertisers/
   - icon: 🤝
     title: One network. One contract. Everything secure.
@@ -35,6 +35,6 @@ features:
     link: /en/start-here/
   - icon: 🛠️
     title: Creative studio, integrated tracking and logistics
-    details: Visuals, certified Made in France printing (Imprim'Vert), routing, dynamic QR codes. You approve — we produce and broadcast.
+    details: Visuals, certified Made in France printing (Imprim'Vert), routing, dynamic QR codes. You approve. We produce and broadcast.
     link: /en/resources/studio
 ---

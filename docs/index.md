@@ -23,11 +23,11 @@ hero:
 features:
   - icon: 📦
     title: Retailers — Vos colis et emails génèrent de la marge
-    details: Transformez vos coûts d'expédition en revenus récurrents. 2 à 20% de chiffre d'affaires additionnel, marge nette 65-70%, zéro intégration technique lourde.
+    details: Vos coûts d'expédition deviennent une source de revenus. +2 à +20% de CA additionnel, marge nette 65-70%, sans intégration technique.
     link: /publishers/
   - icon: 🎯
     title: Annonceurs — Touchez vos clients là où ils achètent
-    details: Bénéficiez de la caution d'e-commerçants reconnus pour valoriser votre marque. Déployez vos campagnes sur une multitude de points de contact. 100% de taux d'ouverture en Sponsored Mail, 1-10% de CTR, 10-30% de conversion.
+    details: Vos campagnes sont diffusées par des e-commerçants que vos clients connaissent déjà. 100% de taux d'ouverture en Sponsored Mail, 1-10% de CTR, 10-30% de conversion.
     link: /advertisers/
   - icon: 🤝
     title: Un réseau. Un contrat. Tout sécurisé.
@@ -35,6 +35,6 @@ features:
     link: /start-here/
   - icon: 🛠️
     title: Studio créatif, tracking et logistique intégrés
-    details: Visuels, impression Made in France certifiée Imprim'Vert, routage, QR codes dynamiques. Vous validez — on produit et on diffuse.
+    details: Visuels, impression Made in France certifiée Imprim'Vert, routage, QR codes dynamiques. Vous validez, on produit et on diffuse.
     link: /resources/studio
 ---
