@@ -105,6 +105,23 @@ Use `<div class="gi-step-num done">` for completed steps (green circle).
 
 All markdown tables render full width by default (`.vp-doc table { width: 100% }` in `style.css`). No wrapper class needed. The legacy `gi-table-full` class still works but is unnecessary for new content.
 
+## Design Guide Structure (Advertisers)
+
+The advertiser design guides (e.g., `advertisers/sponsored-mail/design-guide/`) follow this structure:
+1. **Offer** — Monetary value vs %, validity period (min 3 months), promo codes (unique per retailer)
+2. **Mechanic** — 6 types (Promotion, Drive to Store, Content, Games/Contests, Drive to App, Feedback)
+3. **Audience alignment** — "Why is this content for this audience?" test
+4. **Copywriting** — Hook (benefit first), Promise, Urgency
+5. **Paper UX** — Visual hierarchy (Z-pattern), QR code placement, readability
+6. **Post-scan** — Mobile-first landing page (responsive, fast, simple)
+7. **FAQ** — Use `::: details` sections for common Q&As (e.g., distributor veto rule, performance tracking)
+
+**Key QR code rules:**
+- Minimum **25 × 25 mm**, black on white, with clear instruction text
+- **Dynamic** (URL changeable post-print via platform)
+- Must be getinside proprietary `.svg` (not user-generated)
+- Unaffected by lamination: use machine varnish instead (lamination blocks scanning + reduces recyclability)
+
 ## Knowledge Base Integration
 
 Content is enriched from NotebookLM notebook (ID: `9b86dd27-355e-453c-aee2-af40cb58f59c`) via MCP. Key metrics to include:
@@ -112,3 +129,6 @@ Content is enriched from NotebookLM notebook (ID: `9b86dd27-355e-453c-aee2-af40c
 - **Retailer economics:** 2-20% additional revenue, 65-70% net margins
 - **Network scale:** 250+ e-commerçants, 300+ advertisers, 950+ successful campaigns
 - **Quality system:** Score Distributeur (1-5 stars, 7 evaluation criteria)
+- **Gamified content CTR:** Up to 20% (games, contests)
+- **Promo code rules:** Unique per retailer, short, no special chars, ideally include retailer name
+- **Offer validity:** Min 3 months (recipients keep flyers weeks before scanning)
