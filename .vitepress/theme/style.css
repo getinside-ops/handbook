@@ -605,6 +605,19 @@ h2+.gi-step {
   margin-top: 1.25rem;
 }
 
+h3+.gi-step,
+h4+.gi-step,
+h3+.gi-value-grid,
+h4+.gi-value-grid,
+h3+.gi-format-grid,
+h4+.gi-format-grid,
+h3+.gi-nav-list,
+h4+.gi-nav-list,
+h3+.gi-cert-row,
+h4+.gi-cert-row {
+  margin-top: 0.85rem;
+}
+
 .gi-step + .custom-block {
   margin-top: 0;
 }
