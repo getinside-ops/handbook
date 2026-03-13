@@ -43,7 +43,7 @@ const config: any = defineConfig({
 
     head: [
       // Favicon
-      ['link', { rel: 'icon', type: 'image/svg+xml', href: '/images/gi-keyvisual.svg' }],
+      ['link', { rel: 'icon', type: 'image/svg+xml', href: '/handbook/images/gi-keyvisual.svg' }],
 
       // Fonts
       ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
