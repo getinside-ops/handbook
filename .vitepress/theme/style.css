@@ -1563,9 +1563,8 @@ h4+.gi-cert-row {
 
 /* Global: all markdown tables — full width + horizontal scroll on mobile */
 .vp-doc table {
-  display: block;
-  width: max-content;
-  min-width: 100%;
+  display: table;
+  width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
