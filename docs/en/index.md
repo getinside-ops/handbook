@@ -10,8 +10,8 @@ keywords:
   - sponsored mail
 
 hero:
-  text: "Your parcels and emails become campaigns."
-  tagline: "getinside places campaigns inside e-retailers' parcels and emails. This handbook covers how it works, for advertisers and retailers."
+  text: "Retail media, explained."
+  tagline: "Broadcasting or monetizing? This handbook covers both."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -26,18 +26,18 @@ hero:
 features:
   - icon: 📦
     title: "Retailers: monetize your shipments"
-    details: "Your parcels and transactional emails carry advertiser campaigns. Across the network, that means +2% to +20% additional revenue, 65-70% net margin. No technical integration."
+    details: "+2% to +20% additional revenue, 65-70% net margin. Zero technical integration."
     link: /en/publishers/
   - icon: 🎯
     title: "Advertisers: reach customers where they buy"
-    details: "Your campaigns go through e-retailers your customers already buy from. With Sponsored Mail: 100% open rate, 1-10% CTR, 10-30% conversion."
+    details: "E-retailers your customers already buy from. 100% open rate on Sponsored Mail, 1-10% CTR."
     link: /en/advertisers/
   - icon: 📋
     title: "One network, one contract, a clear framework"
-    details: "250+ e-retailers, 300+ advertisers, 950+ campaigns. One invoice, payment before broadcast, GDPR handled by the platform."
+    details: "250+ e-retailers, single invoice, GDPR handled by the platform."
     link: /en/start-here/
   - icon: 🖨️
     title: "Production included, from design to delivery"
-    details: "Visuals, Made in France printing (Imprim'Vert), dynamic QR codes, full tracking. You approve the proof, getinside handles the rest."
+    details: "Design, Imprim'Vert printing, dynamic QR codes. You approve the proof, we ship."
     link: /en/resources/studio
 ---
