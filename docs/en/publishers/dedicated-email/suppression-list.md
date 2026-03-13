@@ -23,30 +23,25 @@ This is not systematic — many campaigns don't include one. But when an adverti
 :::danger Personal data — secure channel required
 Suppression lists contain **personal data** under GDPR. Don't request them by email or Slack. Don't send them through those channels either.
 
-Any file containing addresses (even hashed) must go through one of the protocols below.
+Any file containing addresses (even hashed) must go through a secure protocol.
 :::
-
----
-
-## What you need to do
-
-When an advertiser tells you they have a suppression list to share:
-
-1. Provide a secure access point for them to deposit the file (see below)
-2. Share connection details **outside messaging apps**
-3. Import the suppressions into your ESP before routing
 
 ---
 
 ## Receiving the file
 
-Choose the method that fits your infrastructure.
+The recommended method is SFTP file transfer using **FileZilla** on the advertiser's side.
 
-:::details SFTP with FileZilla (recommended for non-technical advertisers)
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
+    <strong>FileZilla</strong>
+    <p>Free, open source, available on Windows, macOS, and Linux. The advertiser uploads the file through a visual interface — no command line, just drag and drop.</p>
+    <p><a href="https://filezilla-project.org/" target="_blank">Download FileZilla →</a></p>
+  </div>
+</div>
 
-This is the simplest method for the advertiser. You create an SFTP access on your server, and the advertiser uploads the file with [**FileZilla**](https://filezilla-project.org/) — a free app available on Windows, macOS, and Linux, no command line needed.
-
-Information to share with the advertiser:
+Create an SFTP access on your server and share these details with the advertiser:
 
 | Field | What you provide |
 |-------|-----------------|
@@ -60,27 +55,22 @@ Information to share with the advertiser:
 Use a password manager with secure sharing (1Password, Bitwarden…) or a one-time link (One-Time Secret).
 :::
 
-:::
+:::details My infrastructure is different (S3, Azure, GCP, SSH key, API…)
 
-:::details SFTP with SSH key
+**SFTP with SSH key**
 
-A more secure option, best suited for recurring work with the same advertiser. The advertiser generates an SSH key pair and sends you their public key — your technical team adds it to the server. FileZilla also supports this method on the advertiser side.
-
-Information to share with the advertiser:
+A more secure option, best suited for recurring work with the same advertiser. The advertiser generates an SSH key pair and sends you their public key — your technical team adds it to the server. FileZilla also supports this method.
 
 | Field | What you provide |
 |-------|-----------------|
 | Host | Your SFTP server address |
 | Port | Usually `22` |
 | Path | Deposit directory |
-| Public SSH key | The advertiser's `.pub` file, to be added to your server by your technical team |
+| Public SSH key | The advertiser's `.pub` file, to be added by your technical team |
 
-Test access with the advertiser before D-2.
-:::
+---
 
-:::details S3 bucket (AWS)
-
-If you use AWS, you can create restricted access to an S3 bucket. To be configured with your technical team.
+**S3 bucket (AWS)**
 
 | Field | What you provide |
 |-------|-----------------|
@@ -89,34 +79,35 @@ If you use AWS, you can create restricted access to an S3 bucket. To be configur
 | Directory | Destination prefix (e.g. `suppression/`) |
 | Access Key ID | Dedicated access key (write permissions only) |
 | Secret Access Key | To be shared outside messaging apps |
-:::
 
-:::details GCP bucket (Google Cloud Storage)
+---
 
-If you use GCP, create a service account with the `Storage Object Creator` role on the relevant directory. To be configured with your technical team.
+**GCP bucket (Google Cloud Storage)**
 
 | Field | What you provide |
 |-------|-----------------|
 | Bucket | GCS bucket name |
-| Auth token | Service account JSON file |
-:::
+| Auth token | Service account JSON file with `Storage Object Creator` role |
 
-:::details Azure Blob Storage
+---
 
-If you use Azure, generate a SAS Token restricted to the `Write` operation, valid for 48 hours. To be configured with your technical team. Renew the token for each campaign.
+**Azure Blob Storage**
+
+Generate a SAS Token restricted to the `Write` operation, valid for 48 hours. Renew it for each campaign.
 
 | Field | What you provide |
 |-------|-----------------|
 | Storage account | Your Azure account name |
 | Container | Blob container name |
 | SAS Token | Signed access token (Write only, 48h) |
-:::
 
-:::details API / Endpoint (Eulerian or other)
+---
+
+**API / Endpoint (Eulerian or other)**
 
 If you use Eulerian, the integration with the advertiser is native — no file to manage.
 
-For any other ESP or DMP with an audience API, share your endpoint documentation with the advertiser and create the required access. This is the least friction option if you work regularly with the same advertiser.
+For any other ESP or DMP with an audience API, share your endpoint documentation with the advertiser and create the required access.
 :::
 
 ---

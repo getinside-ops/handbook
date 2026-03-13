@@ -23,30 +23,25 @@ Ce n'est pas systématique — beaucoup de campagnes n'en ont pas. Mais quand un
 :::danger Données personnelles — canal sécurisé obligatoire
 Les listes de suppression contiennent des **données personnelles** au sens du RGPD. Ne les demandez pas par email ou Slack. Ne les transmettez pas non plus par ces canaux.
 
-Tout fichier contenant des adresses (même hashées) doit passer par l'un des protocoles ci-dessous.
+Tout fichier contenant des adresses (même hashées) doit passer par un protocole sécurisé.
 :::
-
----
-
-## Ce que vous devez faire
-
-Quand un annonceur vous signale qu'il a une liste de suppression à transmettre :
-
-1. Fournissez-lui un accès sécurisé pour déposer le fichier (cf. ci-dessous)
-2. Communiquez les infos de connexion **hors messagerie**
-3. Importez les suppressions dans votre ESP avant de router
 
 ---
 
 ## Recevoir le fichier
 
-Choisissez la méthode qui correspond à votre infrastructure.
+La méthode recommandée est le transfert SFTP avec **FileZilla** côté annonceur.
 
-:::details SFTP avec FileZilla (recommandé pour les annonceurs non techniques)
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
+    <strong>FileZilla</strong>
+    <p>Gratuit, open source, disponible sur Windows, macOS et Linux. L'annonceur dépose le fichier via une interface graphique — pas de ligne de commande, juste un glisser-déposer.</p>
+    <p><a href="https://filezilla-project.org/" target="_blank">Télécharger FileZilla →</a></p>
+  </div>
+</div>
 
-C'est la méthode la plus simple côté annonceur. Vous créez un accès SFTP sur votre serveur, l'annonceur dépose le fichier avec [**FileZilla**](https://filezilla-project.org/) — un logiciel gratuit, disponible sur Windows, macOS et Linux, sans ligne de commande.
-
-Informations à communiquer à l'annonceur :
+Créez un accès SFTP sur votre serveur et communiquez ces informations à l'annonceur :
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
@@ -60,27 +55,22 @@ Informations à communiquer à l'annonceur :
 Utilisez un gestionnaire de mots de passe avec partage sécurisé (1Password, Bitwarden…) ou un lien à usage unique (One-Time Secret).
 :::
 
-:::
+:::details Mon infrastructure est différente (S3, Azure, GCP, clé SSH, API…)
 
-:::details SFTP avec clé SSH
+**SFTP avec clé SSH**
 
-Option plus sécurisée, à privilégier si vous travaillez régulièrement avec le même annonceur. L'annonceur génère une paire de clés SSH et vous transmet sa clé publique — votre équipe technique l'ajoute au serveur. FileZilla supporte aussi cette méthode côté annonceur.
-
-Informations à communiquer à l'annonceur :
+Option plus sécurisée, à privilégier si vous travaillez régulièrement avec le même annonceur. L'annonceur génère une paire de clés SSH et vous transmet sa clé publique — votre équipe technique l'ajoute au serveur. FileZilla supporte aussi cette méthode.
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
 | Hôte | Adresse de votre serveur SFTP |
 | Port | Généralement `22` |
 | Chemin | Répertoire de dépôt |
-| Clé SSH publique | La clé `.pub` de l'annonceur, à ajouter à votre serveur par votre équipe technique |
+| Clé SSH publique | La clé `.pub` de l'annonceur, à ajouter par votre équipe technique |
 
-Testez l'accès avec l'annonceur avant J-2.
-:::
+---
 
-:::details Bucket S3 (AWS)
-
-Si vous utilisez AWS, vous pouvez créer un accès restreint à un bucket S3. À configurer avec votre équipe technique.
+**Bucket S3 (AWS)**
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
@@ -89,34 +79,35 @@ Si vous utilisez AWS, vous pouvez créer un accès restreint à un bucket S3. À
 | Répertoire | Préfixe de destination (ex. `suppression/`) |
 | Access Key ID | Clé d'accès dédiée (droits écriture uniquement) |
 | Secret Access Key | À transmettre hors messagerie |
-:::
 
-:::details Bucket GCP (Google Cloud Storage)
+---
 
-Si vous utilisez GCP, créez un compte de service avec le rôle `Storage Object Creator` sur le répertoire concerné. À configurer avec votre équipe technique.
+**Bucket GCP (Google Cloud Storage)**
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
 | Bucket | Nom du bucket GCS |
-| Token d'authentification | Fichier JSON du compte de service |
-:::
+| Token d'authentification | Fichier JSON d'un compte de service avec rôle `Storage Object Creator` |
 
-:::details Azure Blob Storage
+---
 
-Si vous utilisez Azure, générez un SAS Token restreint à l'opération `Write`, valable 48h. À configurer avec votre équipe technique. Renouvelez le token à chaque campagne.
+**Azure Blob Storage**
+
+Générez un SAS Token restreint à l'opération `Write`, valable 48h. Renouvelez-le à chaque campagne.
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
 | Compte de stockage | Nom de votre compte Azure |
 | Conteneur | Nom du conteneur Blob |
 | SAS Token | Jeton d'accès signé (Write uniquement, 48h) |
-:::
 
-:::details API / Endpoint (Eulerian ou autre)
+---
+
+**API / Endpoint (Eulerian ou autre)**
 
 Si vous utilisez Eulerian, l'intégration avec l'annonceur est native — pas de fichier à gérer.
 
-Pour tout autre ESP ou DMP avec une API d'audience, transmettez la documentation de votre endpoint à l'annonceur et créez les accès nécessaires. C'est l'option la moins contraignante si vous travaillez régulièrement avec le même annonceur.
+Pour tout autre ESP ou DMP avec une API d'audience, transmettez la documentation de votre endpoint à l'annonceur et créez les accès nécessaires.
 :::
 
 ---
