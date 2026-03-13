@@ -1563,8 +1563,9 @@ h4+.gi-cert-row {
 
 /* Global: all markdown tables — full width + horizontal scroll on mobile */
 .vp-doc table {
-  width: 100%;
   display: block;
+  width: max-content;
+  min-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
@@ -1600,13 +1601,6 @@ h4+.gi-cert-row {
   color: var(--vp-c-text-2) !important;
 }
 
-/* Trait de nesting en mint pour les sous-sections ouvertes */
-.VPSidebarItem.level-1.is-active > .item,
-.VPSidebarItem.level-2.is-active > .item {
-  border-left: 2px solid var(--vp-c-brand-1);
-  padding-left: 0.75rem;
-  margin-left: -0.75rem;
-}
 
 /* ============================================================
    24. Homepage hero — Garnett Semibold
