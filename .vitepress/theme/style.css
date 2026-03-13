@@ -99,6 +99,10 @@
   --vp-c-bg-elv: #252529;
   --vp-c-bg-alt: #161618;
 
+  /* Bump text-2 from 0.60 → 0.72 opacity — VitePress default is ~3.6:1 on our
+     dark bg (#202127), this brings it to ~4.5:1 to meet WCAG AA */
+  --vp-c-text-2: rgba(235, 235, 245, 0.72);
+
   /* Mint brand — full brightness for accent on dark */
   --vp-c-brand-1: #6AE7C8;
   --vp-c-brand-2: #4ecfb4;
@@ -1295,6 +1299,22 @@ h4+.gi-cert-row {
   min-width: 250px;
 }
 
+@media (max-width: 640px) {
+  .gi-case-card {
+    flex-direction: column;
+  }
+
+  .gi-case-img {
+    flex: 0 0 auto;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .gi-case-body {
+    min-width: 0;
+  }
+}
+
 .gi-case-img img {
   width: 100%;
   border-radius: 6px;
@@ -1477,7 +1497,31 @@ h4+.gi-cert-row {
 }
 
 /* ============================================================
-   20. FOCUS VISIBLE — keyboard navigation accessibility
+   20. REDUCED MOTION — disable animations for users who prefer it
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  .gi-format-card,
+  .gi-nav-card,
+  .gi-card,
+  .btn,
+  .gi-tile,
+  .gi-tile-lift,
+  .gi-alpha-nav a,
+  .gi-nav-card-arrow {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  .gi-format-card:hover,
+  .gi-card:hover,
+  .btn:hover,
+  .gi-tile-lift:hover {
+    transform: none !important;
+  }
+}
+
+/* ============================================================
+   20b. FOCUS VISIBLE — keyboard navigation accessibility
    ============================================================ */
 .gi-format-card:focus-visible,
 .gi-nav-card:focus-visible,
