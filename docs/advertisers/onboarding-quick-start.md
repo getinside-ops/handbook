@@ -21,7 +21,9 @@ L'accès est **réservé aux professionnels** (SIRET requis).
 3. Renseignez vos informations : nom, email, SIRET, coordonnées de facturation
 4. Validez votre email → votre compte est activé
 
-> Si vous avez été invité par votre gestionnaire de compte, ouvrez l'email d'invitation et cliquez sur le lien d'activation.
+::: info
+Si vous avez été invité par votre gestionnaire de compte, ouvrez l'email d'invitation et cliquez sur le lien d'activation.
+:::
 
 ---
 
@@ -37,13 +39,15 @@ Chaque format cible un objectif différent :
 | **📱 Social Ads** | Engagement, visibilité réseaux sociaux | 1-2 semaines | 550€ HT |
 | **🎁 Jeu Concours** | Collecte de leads qualifiés | 2-3 semaines | 550€ HT* |
 
-> *Le Studio ne crée pas les Landing Pages pour les jeux-concours (responsabilité du distributeur).
+<p class="gi-footnote">* Le Studio ne crée pas les Landing Pages pour les jeux-concours (responsabilité du distributeur).</p>
 
 ::: tip ⚡ Réactivité Garantie (SLA)
 Grâce à la **Règle des 48 heures**, les distributeurs s'engagent à répondre à vos propositions de campagnes sous 2 jours ouvrés. C'est l'assurance d'un time-to-market ultra-rapide.
 :::
 
-> Pas sûr ? Votre gestionnaire de compte getinside conseille selon vos objectifs lors d'un appel de 15 minutes.
+::: tip
+Pas sûr ? Votre gestionnaire de compte getinside conseille selon vos objectifs lors d'un appel de 15 minutes.
+:::
 
 ---
 

@@ -21,7 +21,9 @@ Access is **reserved for professionals** (company ID required).
 3. Enter your information: name, email, company ID, billing details
 4. Validate your email → your account is activated
 
-> If you were invited by your account manager, open the invitation email and click the activation link.
+::: info
+If you were invited by your account manager, open the invitation email and click the activation link.
+:::
 
 ---
 
@@ -37,13 +39,15 @@ Each format targets a different goal:
 | **📱 Social Ads** | Engagement, social media visibility | 1-2 weeks | 550€ HT |
 | **🎁 Contest** | Qualified lead collection | 2-3 weeks | 550€ HT* |
 
-> *The Studio does not create Landing Pages for contests (distributor's responsibility).
+<p class="gi-footnote">* The Studio does not create Landing Pages for contests (distributor's responsibility).</p>
 
 ::: tip ⚡ Guaranteed Responsiveness (SLA)
 Thanks to the **48-hour Rule**, distributors commit to responding to your campaign proposals within 2 business days. This ensures an ultra-fast time-to-market.
 :::
 
-> Not sure? Your getinside account manager advises you based on your goals during a 15-minute call.
+::: tip
+Not sure? Your getinside account manager advises you based on your goals during a 15-minute call.
+:::
 
 ---
 

@@ -43,7 +43,9 @@ Pool your withdrawals to reduce administrative overhead.
 | 🟡 **Starter** | **1st withdrawal of the calendar year: FREE** <br> Subsequent: **5%** processing fee |
 | 🟢 **Platform & Managed** | **FREE & UNLIMITED** — no withdrawal fees |
 
-> **Not sure about your offer?** Check your account workspace → Subscription, or consult the [Pricing page](/en/publishers/pricing).
+::: tip
+**Not sure about your offer?** Check your account workspace → Subscription, or consult the [Pricing page](/en/publishers/pricing).
+:::
 
 ### Payment Delays
 

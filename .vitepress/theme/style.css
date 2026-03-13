@@ -187,6 +187,50 @@
   line-height: 1.6;
 }
 
+.vp-doc blockquote p {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin: 0;
+  color: var(--vp-c-text-2);
+  font-style: italic;
+}
+
+.vp-doc details {
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.vp-doc details summary {
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.vp-doc th,
+.vp-doc td {
+  font-size: 0.875rem;
+}
+
+.vp-doc :not(pre) > code {
+  font-size: 0.8125rem;
+}
+
+.custom-block .custom-block-title {
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
+/* ── Table footnote ──────────────────────────────────────── */
+.gi-footnote {
+  font-size: 0.8125rem;
+  color: var(--vp-c-text-2);
+  font-style: italic;
+  margin: -0.5rem 0 1rem;
+  padding-left: 0.5rem;
+  border-left: 2px solid var(--vp-c-divider);
+  line-height: 1.5;
+}
+
 /* h1, h2 — Garnett Semibold */
 .vp-doc h1,
 .vp-doc h2 {
@@ -232,11 +276,17 @@
   line-height: 1.3 !important;
 }
 
-.vp-doc h5,
+.vp-doc h5 {
+  font-size: 0.9375rem !important;
+  margin: 1rem 0 0.5rem !important;
+  line-height: 1.3 !important;
+}
+
 .vp-doc h6 {
   font-size: 0.875rem !important;
   margin: 1rem 0 0.5rem !important;
   line-height: 1.3 !important;
+  color: var(--vp-c-text-2);
 }
 
 /* Definition lists (glossary) */

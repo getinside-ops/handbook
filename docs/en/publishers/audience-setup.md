@@ -47,7 +47,9 @@ For each created audience, independently activate the formats you wish to moneti
 - **📱 Social Ads** — Sponsored Instagram / TikTok posts
 - **🎁 Contest** — Lead collection mechanic
 
-> You can activate or deactivate a format at any time without impacting ongoing campaigns.
+::: info
+You can activate or deactivate a format at any time without impacting ongoing campaigns.
+:::
 
 ## 4. Managing your Inventory and Capacity
 

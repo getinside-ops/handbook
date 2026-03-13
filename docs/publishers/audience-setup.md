@@ -47,7 +47,9 @@ Pour chaque audience créée, activez indépendamment les formats que vous souha
 - **📱 Social Ads** — Publications sponsorisées Instagram / TikTok
 - **🎁 Jeu Concours** — Mécanique de collecte de leads
 
-> Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.
+::: info
+Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.
+:::
 
 ## 4. Gérer votre Inventaire et vos Capacités
 

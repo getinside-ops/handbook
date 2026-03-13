@@ -19,7 +19,9 @@ You have just joined getinside. In 3 steps (10 minutes), your profile is ready t
 3. Set your password
 4. Log in at [app.getinside.media](https://app.getinside.media/)
 
-> Your account was created by the getinside team during your demo. If you didn't receive the email, check your spam folder or contact your manager.
+::: info
+Your account was created by the getinside team during your demo. If you didn't receive the email, check your spam folder or contact your manager.
+:::
 
 ---
 
@@ -34,7 +36,9 @@ Before receiving campaigns, the algorithm needs two pieces of information:
 | **Warehouse address** | The address where physical materials (boxes, flyers) will be delivered |
 | **Lead Time** | The minimum delay between reception and start of distribution (e.g., 3 days) |
 
-> This data allows the platform to only offer you campaigns that you can honor according to your real constraints.
+::: info
+This data allows the platform to only offer you campaigns that you can honor according to your real constraints.
+:::
 
 ---
 
@@ -50,7 +54,9 @@ At a minimum, enter:
 - **Category** of your products
 - **Weekly volume** of parcels (for Parcel Insert)
 
-> A complete and precise audience profile is the main attractiveness factor for advertisers. Take the time to fill it out carefully.
+::: tip
+A complete and precise audience profile is the main attractiveness factor for advertisers. Take the time to fill it out carefully.
+:::
 
 ---
 

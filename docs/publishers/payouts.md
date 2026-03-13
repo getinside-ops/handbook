@@ -43,7 +43,9 @@ Regroupez vos retraits pour réduire les formalités administratives.
 | 🟡 **Starter** | **1er retrait de l'année civile : GRATUIT** <br> Suivants : **5%** de frais de traitement |
 | 🟢 **Plateforme & Managed** | **GRATUIT & ILLIMITÉ** — aucun frais de retrait |
 
-> **Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/publishers/pricing).
+::: tip
+**Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/publishers/pricing).
+:::
 
 ### Délais de Paiement
 
