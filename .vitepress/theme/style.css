@@ -1477,7 +1477,23 @@ h4+.gi-cert-row {
 }
 
 /* ============================================================
-   20. PRINT
+   20. FOCUS VISIBLE — keyboard navigation accessibility
+   ============================================================ */
+.gi-format-card:focus-visible,
+.gi-nav-card:focus-visible,
+.gi-alpha-nav a:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+.btn:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px var(--vp-c-brand-soft);
+}
+
+/* ============================================================
+   21. PRINT
    ============================================================ */
 @media print {
 
@@ -1498,13 +1514,15 @@ h4+.gi-cert-row {
 }
 
 /* ============================================================
-   21. UTILITIES: FULL WIDTH TABLE
+   22. UTILITIES: FULL WIDTH TABLE
    ============================================================ */
 
-/* Global: all markdown tables are full width */
+/* Global: all markdown tables — full width + horizontal scroll on mobile */
 .vp-doc table {
   width: 100%;
-  display: table;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* Legacy helper class (kept for backward compat) */
@@ -1521,7 +1539,7 @@ h4+.gi-cert-row {
 }
 
 /* ============================================================
-   Homepage hero — Garnett Semibold
+   23. Homepage hero — Garnett Semibold
    ============================================================ */
 .VPHero .text {
   font-family: var(--vp-font-family-heading) !important;
