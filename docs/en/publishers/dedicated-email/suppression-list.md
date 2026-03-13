@@ -1,21 +1,20 @@
 ---
 title: Managing opt-out suppression lists
-description: How to configure a secure endpoint to receive advertiser opt-out suppression lists, and apply them in your ESP before sending a campaign.
+description: How to receive and apply an advertiser's opt-out suppression list before sending a Dedicated Email campaign.
 keywords:
   - suppression list
   - opt-out
   - GDPR
   - SFTP
-  - S3
   - ESP
   - hashed email SHA-256
 ---
 
 # Managing opt-out suppression lists
 
-When an advertiser runs a Dedicated Email campaign through getinside, they may send you a suppression list: the email addresses of contacts who have opted out from their brand. These addresses must not receive the campaign, even if they're in your base.
+Some advertisers will send you a suppression list before a Dedicated Email campaign: these are addresses of their contacts who have opted out from their brand, and who must not receive the mailing.
 
-You need to configure a secure receiving endpoint and apply the suppressions in your router before sending.
+This is not systematic — many campaigns don't include one. But when an advertiser sends one, here's how to receive and apply it.
 
 ---
 
@@ -31,19 +30,21 @@ Any file containing addresses (even hashed) must go through one of the protocols
 
 ## What you need to do
 
-Before the campaign send date, the advertiser will give you a CSV file with the addresses to exclude (plain text or SHA-256 hashed). Your role:
+When an advertiser tells you they have a suppression list to share:
 
-1. Provide a secure receiving endpoint (see below)
-2. Share connection details with the advertiser **outside messaging apps**
+1. Provide a secure access point for them to deposit the file (see below)
+2. Share connection details **outside messaging apps**
 3. Import the suppressions into your ESP before routing
 
 ---
 
-## Configure your receiving endpoint
+## Receiving the file
 
-Choose based on your infrastructure.
+Choose the method that fits your infrastructure.
 
-:::details SFTP with SSH key (recommended)
+:::details SFTP with FileZilla (recommended for non-technical advertisers)
+
+This is the simplest method for the advertiser. You create an SFTP access on your server, and the advertiser uploads the file with [**FileZilla**](https://filezilla-project.org/) — a free app available on Windows, macOS, and Linux, no command line needed.
 
 Information to share with the advertiser:
 
@@ -52,19 +53,18 @@ Information to share with the advertiser:
 | Host | Your SFTP server address (e.g. `sftp.yourdomain.com`) |
 | Port | Usually `22` |
 | Path | Deposit directory (e.g. `/suppression/incoming/`) |
-| Public SSH key | The advertiser's `.pub` file, to add to your `authorized_keys` |
+| Login | Dedicated SFTP username |
+| Password | Generated, shared outside messaging apps |
 
-To authorize the advertiser's SSH key:
-```bash
-# On your SFTP server, add the key provided by the advertiser
-echo "ssh-ed25519 AAAA... suppression-list@advertiser.com" >> ~/.ssh/authorized_keys
-chmod 600 ~/.ssh/authorized_keys
-```
-
-Test access with the advertiser before D-2.
+:::warning Share credentials outside messaging apps
+Use a password manager with secure sharing (1Password, Bitwarden…) or a one-time link (One-Time Secret).
 :::
 
-:::details SFTP with login/password
+:::
+
+:::details SFTP with SSH key
+
+A more secure option, best suited for recurring work with the same advertiser. The advertiser generates an SSH key pair and sends you their public key — your technical team adds it to the server. FileZilla also supports this method on the advertiser side.
 
 Information to share with the advertiser:
 
@@ -73,104 +73,50 @@ Information to share with the advertiser:
 | Host | Your SFTP server address |
 | Port | Usually `22` |
 | Path | Deposit directory |
-| Login | SFTP username dedicated to suppression |
-| Password | Generated preferably, shared outside messaging apps |
+| Public SSH key | The advertiser's `.pub` file, to be added to your server by your technical team |
 
-:::warning Share credentials outside messaging apps
-Use a password manager with secure sharing (1Password, Bitwarden…) or a one-time link (Passbolt, One-Time Secret).
-:::
+Test access with the advertiser before D-2.
 :::
 
 :::details S3 bucket (AWS)
 
-Information to share with the advertiser:
+If you use AWS, you can create restricted access to an S3 bucket. To be configured with your technical team.
 
 | Field | What you provide |
 |-------|-----------------|
 | Endpoint | e.g. `s3.eu-west-1.amazonaws.com` |
 | Bucket | Your bucket name |
 | Directory | Destination prefix (e.g. `suppression/`) |
-| Access Key ID | Dedicated access key (`PutObject` rights on this directory only) |
+| Access Key ID | Dedicated access key (write permissions only) |
 | Secret Access Key | To be shared outside messaging apps |
-
-To create a restricted IAM user:
-```bash
-aws iam create-user --user-name suppression-advertiser
-aws iam put-user-policy --user-name suppression-advertiser \
-  --policy-name SuppressionsOnly \
-  --policy-document '{
-    "Version": "2012-10-17",
-    "Statement": [{
-      "Effect": "Allow",
-      "Action": ["s3:PutObject"],
-      "Resource": "arn:aws:s3:::bucket-name/suppression/*"
-    }]
-  }'
-```
 :::
 
 :::details GCP bucket (Google Cloud Storage)
 
-Information to share with the advertiser:
+If you use GCP, create a service account with the `Storage Object Creator` role on the relevant directory. To be configured with your technical team.
 
 | Field | What you provide |
 |-------|-----------------|
-| Project ID | Your GCP project identifier |
-| Project name | Human-readable name |
 | Bucket | GCS bucket name |
-| Auth token | Service account JSON file with `Storage Object Creator` role |
-
-To create the service account and generate the key:
-```bash
-gcloud iam service-accounts create suppression-advertiser \
-  --display-name "Suppression list upload"
-
-gcloud projects add-iam-policy-binding MY_PROJECT \
-  --member="serviceAccount:suppression-advertiser@MY_PROJECT.iam.gserviceaccount.com" \
-  --role="roles/storage.objectCreator" \
-  --condition="resource.name.startsWith(\"projects/_/buckets/bucket-name/objects/suppression/\")"
-
-gcloud iam service-accounts keys create suppression-key.json \
-  --iam-account=suppression-advertiser@MY_PROJECT.iam.gserviceaccount.com
-```
-
-Share `suppression-key.json` outside messaging apps.
+| Auth token | Service account JSON file |
 :::
 
 :::details Azure Blob Storage
 
-Information to share with the advertiser:
+If you use Azure, generate a SAS Token restricted to the `Write` operation, valid for 48 hours. To be configured with your technical team. Renew the token for each campaign.
 
 | Field | What you provide |
 |-------|-----------------|
 | Storage account | Your Azure account name |
 | Container | Blob container name |
-| SAS Token | Signed access token (`Write` only, 48h duration) |
-| Directory | Destination prefix |
-
-To generate a restricted SAS Token:
-```bash
-az storage container generate-sas \
-  --account-name account-name \
-  --name suppression \
-  --permissions w \
-  --expiry $(date -u -d "+48 hours" +%Y-%m-%dT%H:%MZ) \
-  --output tsv
-```
-
-Renew the SAS Token for each campaign. An expired token blocks the upload with no visible error on the advertiser's side.
+| SAS Token | Signed access token (Write only, 48h) |
 :::
 
 :::details API / Endpoint (Eulerian or other)
 
 If you use Eulerian, the integration with the advertiser is native — no file to manage.
 
-For any other ESP or DMP with an audience API:
-- Share your endpoint documentation with the advertiser
-- Create the required access (API key, OAuth token…)
-- Specify the expected schema (fields, types, email format)
-
-If you work regularly with the same advertiser, this is the least friction option over time.
+For any other ESP or DMP with an audience API, share your endpoint documentation with the advertiser and create the required access. This is the least friction option if you work regularly with the same advertiser.
 :::
 
 ---
@@ -216,7 +162,7 @@ Once you receive the file, import it into your router **before** scheduling the 
 ## FAQ
 
 :::details The file contains SHA-256 hashed emails — what should I do?
-Most modern ESPs (Mailchimp, Brevo, Klaviyo, Mailjet…) accept SHA-256 suppressions — check your router's documentation. If not, ask the advertiser for a plain-text file via a secure channel (SFTP or encrypted bucket).
+Most modern ESPs (Mailchimp, Brevo, Klaviyo, Mailjet…) accept SHA-256 suppressions — check your router's documentation. If not, ask the advertiser for a plain-text file via a secure channel (SFTP).
 :::
 
 :::details The advertiser wants to send the list by email — what do I say?

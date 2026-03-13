@@ -1,21 +1,20 @@
 ---
 title: Gérer les listes de suppression opt-out
-description: Comment configurer un endpoint sécurisé pour recevoir les listes de suppression opt-out des annonceurs, et les appliquer dans votre ESP avant l'envoi de campagne.
+description: Comment recevoir et appliquer une liste de suppression opt-out d'un annonceur avant l'envoi d'une campagne Email Dédié.
 keywords:
   - suppression list
   - opt-out
   - RGPD
   - SFTP
-  - S3
   - ESP
   - email hashé SHA-256
 ---
 
 # Gérer les listes de suppression opt-out
 
-Quand un annonceur lance une campagne Email Dédié via getinside, il peut vous envoyer une liste de suppression : les adresses de contacts qui ont opt-out auprès de sa marque. Ces adresses ne doivent pas recevoir la campagne, même si elles sont dans votre base.
+Certains annonceurs souhaitent vous transmettre une liste de suppression avant l'envoi d'une campagne Email Dédié : ce sont les adresses de leurs contacts qui ont opt-out auprès de leur marque, et qui ne doivent pas recevoir le mailing.
 
-À vous de configurer un endpoint sécurisé et d'appliquer les suppressions dans votre routeur avant l'envoi.
+Ce n'est pas systématique — beaucoup de campagnes n'en ont pas. Mais quand un annonceur en envoie une, voici comment la recevoir et l'appliquer.
 
 ---
 
@@ -31,19 +30,21 @@ Tout fichier contenant des adresses (même hashées) doit passer par l'un des pr
 
 ## Ce que vous devez faire
 
-Avant l'envoi de la campagne, l'annonceur vous transmet un fichier CSV avec les adresses à exclure (en clair ou hashées SHA-256). Votre rôle :
+Quand un annonceur vous signale qu'il a une liste de suppression à transmettre :
 
-1. Fournir un endpoint de réception sécurisé (cf. ci-dessous)
-2. Communiquer les infos de connexion à l'annonceur **hors messagerie**
-3. Importer les suppressions dans votre ESP avant de router
+1. Fournissez-lui un accès sécurisé pour déposer le fichier (cf. ci-dessous)
+2. Communiquez les infos de connexion **hors messagerie**
+3. Importez les suppressions dans votre ESP avant de router
 
 ---
 
-## Configurer votre endpoint de réception
+## Recevoir le fichier
 
-Choisissez selon votre infrastructure.
+Choisissez la méthode qui correspond à votre infrastructure.
 
-:::details SFTP avec clé SSH (recommandé)
+:::details SFTP avec FileZilla (recommandé pour les annonceurs non techniques)
+
+C'est la méthode la plus simple côté annonceur. Vous créez un accès SFTP sur votre serveur, l'annonceur dépose le fichier avec [**FileZilla**](https://filezilla-project.org/) — un logiciel gratuit, disponible sur Windows, macOS et Linux, sans ligne de commande.
 
 Informations à communiquer à l'annonceur :
 
@@ -52,19 +53,18 @@ Informations à communiquer à l'annonceur :
 | Hôte | Adresse de votre serveur SFTP (ex. `sftp.mondomaine.com`) |
 | Port | Généralement `22` |
 | Chemin | Répertoire de dépôt (ex. `/suppression/incoming/`) |
-| Clé SSH publique | La clé `.pub` de l'annonceur, à ajouter dans votre `authorized_keys` |
+| Login | Identifiant SFTP dédié |
+| Mot de passe | Généré, transmis hors messagerie |
 
-Pour autoriser la clé SSH de l'annonceur :
-```bash
-# Sur votre serveur SFTP, ajoutez la clé fournie par l'annonceur
-echo "ssh-ed25519 AAAA... suppression-list@annonceur.com" >> ~/.ssh/authorized_keys
-chmod 600 ~/.ssh/authorized_keys
-```
-
-Testez l'accès avec l'annonceur avant J-2.
+:::warning Transmettez les credentials hors messagerie
+Utilisez un gestionnaire de mots de passe avec partage sécurisé (1Password, Bitwarden…) ou un lien à usage unique (One-Time Secret).
 :::
 
-:::details SFTP avec login/password
+:::
+
+:::details SFTP avec clé SSH
+
+Option plus sécurisée, à privilégier si vous travaillez régulièrement avec le même annonceur. L'annonceur génère une paire de clés SSH et vous transmet sa clé publique — votre équipe technique l'ajoute au serveur. FileZilla supporte aussi cette méthode côté annonceur.
 
 Informations à communiquer à l'annonceur :
 
@@ -73,104 +73,50 @@ Informations à communiquer à l'annonceur :
 | Hôte | Adresse de votre serveur SFTP |
 | Port | Généralement `22` |
 | Chemin | Répertoire de dépôt |
-| Login | Identifiant SFTP dédié à la suppression |
-| Mot de passe | Généré de préférence, transmis hors messagerie |
+| Clé SSH publique | La clé `.pub` de l'annonceur, à ajouter à votre serveur par votre équipe technique |
 
-:::warning Transmettez les credentials hors messagerie
-Utilisez un gestionnaire de mots de passe avec partage sécurisé (1Password, Bitwarden…) ou un lien à usage unique (Passbolt, One-Time Secret).
-:::
+Testez l'accès avec l'annonceur avant J-2.
 :::
 
 :::details Bucket S3 (AWS)
 
-Informations à communiquer à l'annonceur :
+Si vous utilisez AWS, vous pouvez créer un accès restreint à un bucket S3. À configurer avec votre équipe technique.
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
 | Endpoint | Ex. `s3.eu-west-1.amazonaws.com` |
 | Bucket | Nom de votre bucket |
 | Répertoire | Préfixe de destination (ex. `suppression/`) |
-| Access Key ID | Clé d'accès dédiée (droits `PutObject` sur ce répertoire uniquement) |
+| Access Key ID | Clé d'accès dédiée (droits écriture uniquement) |
 | Secret Access Key | À transmettre hors messagerie |
-
-Pour créer un utilisateur IAM restreint :
-```bash
-aws iam create-user --user-name suppression-advertiser
-aws iam put-user-policy --user-name suppression-advertiser \
-  --policy-name SuppressionsOnly \
-  --policy-document '{
-    "Version": "2012-10-17",
-    "Statement": [{
-      "Effect": "Allow",
-      "Action": ["s3:PutObject"],
-      "Resource": "arn:aws:s3:::nom-du-bucket/suppression/*"
-    }]
-  }'
-```
 :::
 
 :::details Bucket GCP (Google Cloud Storage)
 
-Informations à communiquer à l'annonceur :
+Si vous utilisez GCP, créez un compte de service avec le rôle `Storage Object Creator` sur le répertoire concerné. À configurer avec votre équipe technique.
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
-| ID Projet | Votre identifiant de projet GCP |
-| Nom du projet | Nom lisible |
 | Bucket | Nom du bucket GCS |
-| Token d'authentification | Fichier JSON d'un compte de service avec rôle `Storage Object Creator` |
-
-Pour créer le compte de service et générer la clé :
-```bash
-gcloud iam service-accounts create suppression-advertiser \
-  --display-name "Suppression list upload"
-
-gcloud projects add-iam-policy-binding MON_PROJET \
-  --member="serviceAccount:suppression-advertiser@MON_PROJET.iam.gserviceaccount.com" \
-  --role="roles/storage.objectCreator" \
-  --condition="resource.name.startsWith(\"projects/_/buckets/nom-du-bucket/objects/suppression/\")"
-
-gcloud iam service-accounts keys create suppression-key.json \
-  --iam-account=suppression-advertiser@MON_PROJET.iam.gserviceaccount.com
-```
-
-Transmettez `suppression-key.json` hors messagerie.
+| Token d'authentification | Fichier JSON du compte de service |
 :::
 
 :::details Azure Blob Storage
 
-Informations à communiquer à l'annonceur :
+Si vous utilisez Azure, générez un SAS Token restreint à l'opération `Write`, valable 48h. À configurer avec votre équipe technique. Renouvelez le token à chaque campagne.
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
 | Compte de stockage | Nom de votre compte Azure |
 | Conteneur | Nom du conteneur Blob |
-| SAS Token | Jeton d'accès signé (opération `Write` uniquement, durée 48h) |
-| Répertoire | Préfixe de destination |
-
-Pour générer un SAS Token restreint :
-```bash
-az storage container generate-sas \
-  --account-name nom-du-compte \
-  --name suppression \
-  --permissions w \
-  --expiry $(date -u -d "+48 hours" +%Y-%m-%dT%H:%MZ) \
-  --output tsv
-```
-
-Renouvelez le SAS Token à chaque campagne. Un token expiré bloque le dépôt sans erreur visible côté annonceur.
+| SAS Token | Jeton d'accès signé (Write uniquement, 48h) |
 :::
 
 :::details API / Endpoint (Eulerian ou autre)
 
 Si vous utilisez Eulerian, l'intégration avec l'annonceur est native — pas de fichier à gérer.
 
-Pour tout autre ESP ou DMP avec une API d'audience :
-- Fournissez la documentation de votre endpoint à l'annonceur
-- Créez les accès nécessaires (API key, token OAuth…)
-- Précisez le schéma attendu (champs, types, format d'email)
-
-Si vous travaillez régulièrement avec le même annonceur, c'est l'option la moins contraignante sur la durée.
+Pour tout autre ESP ou DMP avec une API d'audience, transmettez la documentation de votre endpoint à l'annonceur et créez les accès nécessaires. C'est l'option la moins contraignante si vous travaillez régulièrement avec le même annonceur.
 :::
 
 ---
@@ -216,7 +162,7 @@ Une fois le fichier reçu, importez-le dans votre routeur **avant** de programme
 ## FAQ
 
 :::details Le fichier contient des emails hashés SHA-256, que faire ?
-La plupart des ESP modernes (Mailchimp, Brevo, Klaviyo, Mailjet…) acceptent les suppressions en SHA-256 — vérifiez dans la doc de votre routeur. Si ce n'est pas le cas, demandez à l'annonceur un fichier en clair via un canal sécurisé (SFTP ou bucket chiffré).
+La plupart des ESP modernes (Mailchimp, Brevo, Klaviyo, Mailjet…) acceptent les suppressions en SHA-256 — vérifiez dans la doc de votre routeur. Si ce n'est pas le cas, demandez à l'annonceur un fichier en clair via un canal sécurisé (SFTP).
 :::
 
 :::details L'annonceur veut envoyer la liste par email — que répondre ?
