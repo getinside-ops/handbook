@@ -1,9 +1,7 @@
 import { defineConfig } from 'vitepress'
-import { withMermaid } from 'vitepress-plugin-mermaid'
 import path from 'path'
 
-const config: any = withMermaid(
-  defineConfig({
+const config: any = defineConfig({
     title: 'getinside Handbook',
     description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.',
     base: '/handbook/',
@@ -54,7 +52,6 @@ const config: any = withMermaid(
       ['meta', { name: 'googlebot', content: 'index, follow' }],
       ['meta', { name: 'bingbot', content: 'index, follow' }],
       ['meta', { name: 'google-site-verification', content: 'rYXnBrdfxUincgWiLZ2bJS8FYbU_vo3sYDa3eXMnM4Q' }],
-      ['meta', { name: 'algolia-site-verification', content: '8EFEF07F817F26A7' }],
 
       // Canonical URL (surchargé per page)
       ['link', { rel: 'canonical', href: 'https://getinside-ops.github.io/handbook/' }],
@@ -444,10 +441,6 @@ const config: any = withMermaid(
       editLink: undefined,
     },
 
-    mermaid: {
-      theme: 'neutral',
-    },
-
     // transformHead pour injecter les balises SEO en SSR
     async transformHead({ pageData }) {
       const { frontmatter, title, relativePath } = pageData
@@ -471,18 +464,6 @@ const config: any = withMermaid(
         ['meta', { name: 'dc.description', content: pageDescription }],
       ]
     },
-  })
-)
-
-if (!config.locales) config.locales = {}
-if (!config.locales.en) config.locales.en = { label: 'English', lang: 'en-US', link: '/en/' }
-config.locales.en.themeConfig = {
-  nav: [
-    { text: '🛍️ Advertisers', link: '/en/advertisers/' },
-    { text: '📦 Retailers', link: '/en/publishers/' },
-    { text: '❓ FAQ', link: '/en/faq/' },
-    { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
-  ],
-}
+})
 
 export default config
