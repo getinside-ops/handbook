@@ -1,210 +1,111 @@
 ---
 title: Opt-out suppression list
-description: How to send your opt-out suppression list to a getinside partner retailer. Guide to secure transfer methods (SFTP, S3, GCP, Azure, API) and GDPR best practices.
+description: How to send your opt-out suppression list to a getinside partner retailer via FileZilla or other secure protocols.
 keywords:
   - suppression list
   - opt-out
   - GDPR
   - hashed email SHA-256
   - SFTP
-  - S3
-  - secure file transfer
+  - FileZilla
 ---
 
 # Opt-out suppression list
 
-Before any Dedicated Email campaign is sent, you need to give the retailer the list of addresses to **exclude** — contacts who have opted out from your brand. If you skip this step, the send is not GDPR-compliant.
+Some retailers may ask you for a suppression list before sending a Dedicated Email campaign — these are the contacts who have opted out from your brand and should not receive the mailing.
+
+It's not always required. But when a retailer asks for one, here's how to send the file.
 
 ---
 
-## Never share email addresses via messaging apps
+## Never share addresses via messaging apps
 
 :::danger Personal data — secure channel required
-Email address lists are **personal data** under GDPR. Sending them by email, Slack, WhatsApp, or WeTransfer is **prohibited**.
+Suppression lists contain **personal data** under GDPR. Do not send them by email, Slack, WhatsApp, or WeTransfer.
 
-Use only the secure methods listed below. If you don't have the infrastructure, contact your getinside account manager.
+Any file containing addresses — even hashed — must go through a secure protocol.
 :::
 
 ---
 
-## File format
+## Sending the file
 
-Before choosing your transfer method, agree with the retailer on these parameters:
+The recommended method is SFTP transfer with **FileZilla**.
 
-| Parameter | Recommended value |
-|-----------|-------------------|
-| Encoding | UTF-8 without BOM |
-| Separator | `,` (comma) or `;` (semicolon) |
-| Header | Yes — `email_sha256` or `email` |
-| File name | `suppression_YYYYMMDD.csv` |
-| Identifier type | SHA-256 hashed email (recommended) |
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
+    <strong>FileZilla</strong>
+    <p>Free, open source, available on Windows, macOS, and Linux. Drop your file using a graphical interface — no command line, just drag and drop.</p>
+    <p><a href="https://filezilla-project.org/" target="_blank">Download FileZilla →</a></p>
+  </div>
+</div>
 
-### Plain text or hashed?
+The retailer will provide the SFTP connection details:
 
-Use **SHA-256 hashing**: the retailer uses the hash to suppress addresses in their ESP without ever seeing them in plain text. It's a one-way fingerprint.
-
-```bash
-# Hash an email address to SHA-256 (Linux/macOS)
-echo -n "user@example.com" | sha256sum
-# → a1b2c3d4e5f6...
-```
-
-If your platform only supports plain-text emails, that's technically acceptable — but depositing on a secure channel (SFTP or encrypted bucket) then becomes non-negotiable.
-
----
-
-## Frequency and timing
-
-- **One-shot** before the send: deliver the file **at least D-2** before the scheduled send date.
-- Specify a preferred delivery time if the retailer requires it (e.g. before 8am on D-2).
-- For automated campaigns (post-purchase trigger), a weekly update is possible — to be agreed with the retailer.
-
----
-
-## Transfer methods
-
-Choose based on your infrastructure or your technical partner's (e.g. FDJ).
-
-:::details SFTP with SSH key (recommended)
-
-Information to provide to the retailer:
-
-| Field | Description |
-|-------|-------------|
-| Host | Domain name or IP of your SFTP server |
+| Field | What the retailer provides |
+|-------|---------------------------|
+| Host | SFTP server address (e.g. `sftp.theirdomain.com`) |
 | Port | Usually `22` |
-| Path | Deposit directory (e.g. `/suppression/incoming/`) |
-| Public SSH key | Your `.pub` file to add to `authorized_keys` on the retailer's side |
+| Path | Upload directory (e.g. `/suppression/incoming/`) |
+| Login | SFTP username |
+| Password | Shared outside messaging apps |
 
-No password in circulation — auth relies on a key pair. This is the most secure method.
+**File format:** CSV, UTF-8 encoding, header `email_sha256` or `email`, filename `suppression_YYYYMMDD.csv`. Prefer SHA-256 hashed emails — the retailer can suppress addresses without ever seeing them in plain text.
 
-To generate your key pair:
+:::details My infrastructure is different (SSH key SFTP, S3, Azure, GCP, API…)
+
+**SFTP with SSH key**
+
+More secure, no password. Generate a key pair and share your public key with the retailer — FileZilla supports this method too.
+
 ```bash
 ssh-keygen -t ed25519 -C "suppression-list@yourdomain.com"
 # Share only the .pub file with the retailer
 ```
-:::
-
-:::details SFTP with login/password
-
-Information to provide:
-
-| Field | Description |
-|-------|-------------|
-| Host | Domain name or IP |
-| Port | Usually `22` |
-| Path | Deposit directory |
-| Login | SFTP username |
-| Password | To be shared outside messaging apps |
-
-:::warning Never send credentials by email or Slack
-Use a password manager with secure sharing (1Password, Bitwarden…) or a one-time link (Passbolt, One-Time Secret).
-:::
-:::
-
-:::details FTP (not recommended)
-
-FTP transmits credentials and data **in plain text** over the network. Reserve this for situations where no other option exists, and only over a private network or VPN.
-
-Information to provide:
-
-| Field | Description |
-|-------|-------------|
-| Host | Domain name or IP |
-| Port | Usually `21` |
-| Path | Deposit directory |
-| Login / Password | FTP credentials |
-| Mode | Active or passive (specify) |
-:::
-
-:::details S3 bucket (AWS)
-
-Information to provide:
-
-| Field | Description |
-|-------|-------------|
-| Endpoint | e.g. `s3.eu-west-1.amazonaws.com` |
-| Bucket | Bucket name |
-| Directory | Destination prefix (e.g. `suppression/`) |
-| Access Key ID | AWS access key |
-| Secret Access Key | To be shared outside messaging apps |
-
-Example with AWS CLI:
-```bash
-aws s3 cp suppression_20260313.csv s3://bucket-name/suppression/ \
-  --sse AES256
-```
-
-Create a dedicated IAM user with rights scoped to that bucket and directory only. No root keys.
-:::
-
-:::details GCP bucket (Google Cloud Storage)
-
-Information to provide:
-
-| Field | Description |
-|-------|-------------|
-| Project ID | Your GCP project identifier |
-| Project name | Human-readable name |
-| Bucket | GCS bucket name |
-| Auth token | Service account JSON file (outside messaging apps) |
-
-Example with gsutil:
-```bash
-gsutil cp suppression_20260313.csv gs://bucket-name/suppression/
-```
-
-Create a dedicated service account with the `Storage Object Creator` role on this bucket only. No admin account.
-:::
-
-:::details Azure Blob Storage
-
-Information to provide:
-
-| Field | Description |
-|-------|-------------|
-| Storage account | Azure account name |
-| Container | Blob container name |
-| SAS Token | Signed access token, scoped in time and permissions |
-| Directory | Destination prefix |
-
-Example with Azure CLI:
-```bash
-az storage blob upload \
-  --account-name account-name \
-  --container-name suppression \
-  --name "suppression_20260313.csv" \
-  --file suppression_20260313.csv \
-  --sas-token "?sv=2022-..."
-```
-
-Generate a short-lived SAS Token (24-48h), restricted to the `Write` operation on this container.
-:::
-
-:::details API / Endpoint (Eulerian or other)
-
-If you use Eulerian, let the retailer know — the integration is native, no file transfer needed.
-
-For any other ESP or DMP, provide:
-- Endpoint documentation (request format, authentication)
-- Access credentials for audience creation (API key, OAuth token…)
-- Data schema (fields, types)
-
-If your lists change every week, this is by far the best option — no file, no manual upload.
-:::
 
 ---
 
-## Which method should you choose?
+**S3 bucket (AWS)**
 
-| Situation | Method |
-|-----------|--------|
-| You have an SFTP server | SFTP + SSH key |
-| You're on AWS | S3 with scoped IAM |
-| You're on GCP | GCS with dedicated service account |
-| You're on Azure | Blob Storage + SAS Token |
-| You use Eulerian | Native API |
-| No infrastructure available | Contact getinside |
+| Field | What you provide |
+|-------|-----------------|
+| Endpoint | e.g. `s3.eu-west-1.amazonaws.com` |
+| Bucket | Bucket name |
+| Directory | Destination prefix (e.g. `suppression/`) |
+| Access Key ID | Dedicated IAM key (write only) |
+| Secret Access Key | To be shared outside messaging apps |
+
+---
+
+**GCP bucket (Google Cloud Storage)**
+
+| Field | What you provide |
+|-------|-----------------|
+| Bucket | GCS bucket name |
+| Auth token | Service account JSON file with `Storage Object Creator` role |
+
+---
+
+**Azure Blob Storage**
+
+Generate a SAS Token restricted to the `Write` operation, valid for 48h.
+
+| Field | What you provide |
+|-------|-----------------|
+| Storage account | Your Azure account name |
+| Container | Blob container name |
+| SAS Token | Signed access token (Write only, 48h) |
+
+---
+
+**API / Endpoint (Eulerian or other)**
+
+If you use Eulerian, let the retailer know — the integration is native, no file transfer needed.
+
+For any other ESP or DMP, share your endpoint documentation and the necessary access credentials.
+
+:::
 
 ---
 
