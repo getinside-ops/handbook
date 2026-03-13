@@ -203,6 +203,7 @@ const config: any = withMermaid(
                   { text: 'Présentation', link: '/advertisers/dedicated-email/' },
                   { text: 'Brief Annonceur', link: '/advertisers/dedicated-email/1-brief-annonceur' },
                   { text: 'Création Distributeur', link: '/advertisers/dedicated-email/2-creation-distributeur' },
+                  { text: 'Liste de suppression', link: '/advertisers/dedicated-email/suppression-list' },
                   { text: 'Validation & Diffusion', link: '/advertisers/dedicated-email/3-validation-diffusion' },
                 ],
               },
@@ -246,6 +247,7 @@ const config: any = withMermaid(
                 items: [
                   { text: 'Présentation', link: '/publishers/dedicated-email/' },
                   { text: 'Design', link: '/publishers/dedicated-email/1-design' },
+                  { text: 'Liste de suppression', link: '/publishers/dedicated-email/suppression-list' },
                   { text: 'Tracking & Envoi', link: '/publishers/dedicated-email/2-tracking-sending' },
                 ],
               },
@@ -339,6 +341,7 @@ const config: any = withMermaid(
                   { text: 'Overview', link: '/en/advertisers/dedicated-email/' },
                   { text: 'Advertiser Brief', link: '/en/advertisers/dedicated-email/1-brief-annonceur' },
                   { text: 'Retailer Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
+                  { text: 'Suppression List', link: '/en/advertisers/dedicated-email/suppression-list' },
                   { text: 'Validation & Delivery', link: '/en/advertisers/dedicated-email/3-validation-diffusion' },
                 ],
               },
@@ -379,6 +382,7 @@ const config: any = withMermaid(
                 items: [
                   { text: 'Overview', link: '/en/publishers/dedicated-email/' },
                   { text: 'Design', link: '/en/publishers/dedicated-email/1-design' },
+                  { text: 'Suppression list', link: '/en/publishers/dedicated-email/suppression-list' },
                   { text: 'Tracking & Sending', link: '/en/publishers/dedicated-email/2-tracking-sending' },
                 ],
               },

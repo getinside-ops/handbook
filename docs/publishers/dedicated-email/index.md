@@ -52,10 +52,18 @@ getinside assure la fiabilité des données via un double système de suivi :
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
+  <a href="suppression-list" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🚫</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">2. Listes de suppression</p>
+      <p class="gi-nav-card-desc">Configurer un endpoint sécurisé pour recevoir les opt-out annonceurs et les appliquer avant l'envoi.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
   <a href="2-tracking-sending" class="gi-nav-card">
     <span class="gi-nav-card-icon">🚀</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">2. Tracking & Envoi</p>
+      <p class="gi-nav-card-title">3. Tracking & Envoi</p>
       <p class="gi-nav-card-desc">Pixel d'ouverture, liens trackés gtinsi.de, BAT par email et validation finale.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>

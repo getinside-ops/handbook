@@ -71,7 +71,15 @@ La production est un travail de co-branding entre vous et le distributeur.
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num done">3</div>
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3><a href="./suppression-list">Liste de suppression opt-out</a></h3>
+    <p>Transmettez au retailer la liste des adresses à exclure (contacts ayant opt-out auprès de votre marque). Étape obligatoire pour la conformité RGPD.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3><a href="./3-validation-diffusion">Validation & BAT</a></h3>
     <p>Vous validez le rendu final (BAT) sur la plateforme. Le distributeur s'engage à répondre sous <strong>48h ouvrées</strong> pour garantir la fluidité de votre campagne.</p>

@@ -71,7 +71,15 @@ Production is a co-branding effort between you and the distributor.
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num done">3</div>
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3><a href="./suppression-list">Opt-out suppression list</a></h3>
+    <p>Send the retailer the list of addresses to exclude (contacts who have opted out from your brand). Required for GDPR compliance.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3><a href="./3-validation-diffusion">Validation & Proof (BAT)</a></h3>
     <p>You validate the final rendering (Proof) on the platform. The distributor commits to responding within **48 business hours** to ensure your campaign's fluidity.</p>
