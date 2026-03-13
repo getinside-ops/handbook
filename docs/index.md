@@ -24,14 +24,14 @@ hero:
       link: /publishers/
 
 features:
-  - icon: 📦
-    title: "Retailers : rentabilisez vos expéditions"
-    details: "+2 à +20% de CA additionnel, 65-70% de marge nette. Zéro intégration technique."
-    link: /publishers/
   - icon: 🎯
     title: "Annonceurs : diffusez là où vos clients achètent"
     details: "Des e-commerçants que vos clients connaissent déjà. 100% d'ouverture en Sponsored Mail, 1-10% de CTR."
     link: /advertisers/
+  - icon: 📦
+    title: "Retailers : rentabilisez vos expéditions"
+    details: "+2 à +20% de CA additionnel, 65-70% de marge nette. Zéro intégration technique."
+    link: /publishers/
   - icon: 📋
     title: "Un réseau, un contrat, un cadre clair"
     details: "250+ e-commerçants, facture unique, RGPD géré par la plateforme."

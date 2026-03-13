@@ -24,14 +24,14 @@ hero:
       link: /en/publishers/
 
 features:
-  - icon: 📦
-    title: "Retailers: monetize your shipments"
-    details: "+2% to +20% additional revenue, 65-70% net margin. Zero technical integration."
-    link: /en/publishers/
   - icon: 🎯
     title: "Advertisers: reach customers where they buy"
     details: "E-retailers your customers already buy from. 100% open rate on Sponsored Mail, 1-10% CTR."
     link: /en/advertisers/
+  - icon: 📦
+    title: "Retailers: monetize your shipments"
+    details: "+2% to +20% additional revenue, 65-70% net margin. Zero technical integration."
+    link: /en/publishers/
   - icon: 📋
     title: "One network, one contract, a clear framework"
     details: "250+ e-retailers, single invoice, GDPR handled by the platform."
