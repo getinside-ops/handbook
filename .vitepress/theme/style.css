@@ -1583,7 +1583,33 @@ h4+.gi-cert-row {
 }
 
 /* ============================================================
-   23. Homepage hero — Garnett Semibold
+   23. SIDEBAR
+   ============================================================ */
+
+/* Items légèrement plus compacts que le corps (13px) */
+.VPSidebarItem .text {
+  font-size: 0.8125rem !important;
+}
+
+/* Section headers — alignés sur h6 (muted, même taille) */
+.VPSidebarItem.level-0 > .item > .text {
+  font-size: 0.75rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+  color: var(--vp-c-text-2) !important;
+}
+
+/* Trait de nesting en mint pour les sous-sections ouvertes */
+.VPSidebarItem.level-1.is-active > .item,
+.VPSidebarItem.level-2.is-active > .item {
+  border-left: 2px solid var(--vp-c-brand-1);
+  padding-left: 0.75rem;
+  margin-left: -0.75rem;
+}
+
+/* ============================================================
+   24. Homepage hero — Garnett Semibold
    ============================================================ */
 .VPHero .text {
   font-family: var(--vp-font-family-heading) !important;
