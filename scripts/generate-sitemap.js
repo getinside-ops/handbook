@@ -121,8 +121,12 @@ function generateSitemap() {
     }
   });
 
+  // Pages à exclure du sitemap (pages d'erreur, etc.)
+  const EXCLUDED_PAGES = ['404.md'];
+
   // Générer les URLs
   const urls = mdFiles
+    .filter((mdFile) => !EXCLUDED_PAGES.includes(path.basename(mdFile)))
     .map((mdFile) => {
       const urlPath = mdToUrlPath(mdFile);
       const fullUrl = `${SITE_URL}/${urlPath}`;
