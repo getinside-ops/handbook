@@ -15,20 +15,20 @@ keywords:
 
 # Liste d'exclusion de contacts
 
-Avant l'envoi d'un Email Dédié, getinside peut appliquer une liste d'exclusion pour retirer certains contacts de la diffusion. La demande peut venir du retailer, de l'annonceur, ou des deux.
+Avant l'envoi, getinside peut appliquer une liste d'exclusion pour écarter certains contacts de la diffusion. La demande peut venir de vous, du retailer, ou des deux à la fois.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Contacts opt-out</strong>
-    <p>Des contacts ont désabonné de votre marque. Le retailer ou vous-même demandez leur exclusion pour rester en conformité RGPD.</p>
+    <p>Des contacts se sont désabonnés de vos communications. Leur exclusion est obligatoire pour rester conforme au RGPD.</p>
   </div>
   <div class="gi-value-card">
     <strong>Clients existants</strong>
-    <p>Vous souhaitez exclure vos acheteurs actuels d'une campagne d'acquisition — inutile de cibler quelqu'un qui vous connaît déjà.</p>
+    <p>Vous souhaitez cibler uniquement de nouveaux prospects et exclure vos clients actuels — pas besoin de démarcher quelqu'un qui vous connaît déjà.</p>
   </div>
   <div class="gi-value-card">
     <strong>Les deux</strong>
-    <p>Opt-out + clients existants : les deux listes sont fusionnées côté getinside avant la diffusion.</p>
+    <p>Opt-out et clients existants : getinside fusionne les deux listes avant la diffusion.</p>
   </div>
 </div>
 
@@ -37,7 +37,7 @@ Avant l'envoi d'un Email Dédié, getinside peut appliquer une liste d'exclusion
 ## Ne jamais envoyer des adresses via messagerie
 
 :::danger Données personnelles — canal sécurisé obligatoire
-Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les transmettez pas par email, Slack, WhatsApp ou WeTransfer.
+Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les transmettez pas par email, messagerie getinside ou WeTransfer.
 
 Tout fichier contenant des adresses (même hashées) doit passer par un protocole sécurisé.
 :::

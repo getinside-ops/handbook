@@ -15,20 +15,20 @@ keywords:
 
 # Gérer les listes d'exclusion de contacts
 
-Avant l'envoi d'une campagne Email Dédié, un annonceur peut vous transmettre une liste d'exclusion pour retirer certains contacts de la diffusion. Deux cas de figure :
+Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour écarter certains contacts de la diffusion. Deux cas de figure :
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Contacts opt-out</strong>
-    <p>Des contacts ont désabonné de la marque de l'annonceur. Leur exclusion est obligatoire pour rester conforme au RGPD.</p>
+    <p>Des contacts se sont désabonnés des communications de l'annonceur. Leur exclusion est obligatoire pour rester conforme au RGPD.</p>
   </div>
   <div class="gi-value-card">
     <strong>Clients existants</strong>
-    <p>L'annonceur veut exclure ses acheteurs actuels d'une campagne d'acquisition — inutile de cibler quelqu'un qui le connaît déjà.</p>
+    <p>L'annonceur souhaite cibler uniquement de nouveaux prospects et exclure ses clients actuels — pas besoin de démarcher quelqu'un qui le connaît déjà.</p>
   </div>
   <div class="gi-value-card">
     <strong>Les deux</strong>
-    <p>Opt-out + clients existants : les deux listes peuvent être fusionnées par getinside avant de vous être transmises.</p>
+    <p>Opt-out et clients existants : getinside fusionne les deux listes avant de vous les transmettre.</p>
   </div>
 </div>
 
@@ -39,7 +39,7 @@ Ce n'est pas systématique — beaucoup de campagnes n'en ont pas. Mais quand un
 ## Ne jamais échanger des emails via messagerie
 
 :::danger Données personnelles — canal sécurisé obligatoire
-Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les demandez pas par email ou Slack. Ne les transmettez pas non plus par ces canaux.
+Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les demandez pas par email ou messagerie getinside. Ne les transmettez pas non plus par ces canaux.
 
 Tout fichier contenant des adresses (même hashées) doit passer par un protocole sécurisé.
 :::
