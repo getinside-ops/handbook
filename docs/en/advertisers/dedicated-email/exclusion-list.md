@@ -15,7 +15,7 @@ keywords:
 
 # Contact exclusion list
 
-Before sending a Dedicated Email, getinside can apply an exclusion list to remove certain contacts from the mailing. The request can come from the retailer, the advertiser, or both.
+Before sending, you can pass an exclusion list to the retailer to remove certain contacts from the mailing. The request can come from you, the retailer, or both.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

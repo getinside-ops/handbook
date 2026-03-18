@@ -15,7 +15,7 @@ keywords:
 
 # Gérer les listes d'exclusion de contacts
 
-Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour écarter certains contacts de la diffusion. Deux cas de figure :
+Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour écarter certains contacts de la diffusion — c'est vous qui l'appliquez dans votre ESP. Deux cas de figure :
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

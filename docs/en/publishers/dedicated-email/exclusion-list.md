@@ -15,7 +15,7 @@ keywords:
 
 # Managing contact exclusion lists
 
-Before a Dedicated Email campaign, an advertiser may send you an exclusion list to remove certain contacts from the mailing. Two scenarios:
+Before a Dedicated Email campaign, an advertiser may send you an exclusion list to remove certain contacts from the mailing — you apply it in your ESP. Two scenarios:
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
