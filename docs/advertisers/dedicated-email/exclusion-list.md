@@ -1,0 +1,130 @@
+---
+title: Liste d'exclusion de contacts
+description: Comment transmettre une liste d'exclusion à un retailer partenaire getinside — contacts opt-out RGPD ou clients existants à exclure d'une campagne d'acquisition.
+keywords:
+  - liste d'exclusion
+  - suppression list
+  - opt-out
+  - clients existants
+  - exclusion campagne
+  - RGPD
+  - email hashé SHA-256
+  - SFTP
+  - FileZilla
+---
+
+# Liste d'exclusion de contacts
+
+Avant l'envoi d'un Email Dédié, getinside peut appliquer une liste d'exclusion pour retirer certains contacts de la diffusion. La demande peut venir du retailer, de l'annonceur, ou des deux.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Contacts opt-out</strong>
+    <p>Des contacts ont désabonné de votre marque. Le retailer ou vous-même demandez leur exclusion pour rester en conformité RGPD.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Clients existants</strong>
+    <p>Vous souhaitez exclure vos acheteurs actuels d'une campagne d'acquisition — inutile de cibler quelqu'un qui vous connaît déjà.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Les deux</strong>
+    <p>Opt-out + clients existants : les deux listes sont fusionnées côté getinside avant la diffusion.</p>
+  </div>
+</div>
+
+---
+
+## Ne jamais envoyer des adresses via messagerie
+
+:::danger Données personnelles — canal sécurisé obligatoire
+Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les transmettez pas par email, Slack, WhatsApp ou WeTransfer.
+
+Tout fichier contenant des adresses (même hashées) doit passer par un protocole sécurisé.
+:::
+
+---
+
+## Transmettre le fichier
+
+La méthode recommandée est le dépôt SFTP avec **FileZilla**.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
+    <strong>FileZilla</strong>
+    <p>Gratuit, open source, disponible sur Windows, macOS et Linux. Déposez votre fichier via une interface graphique — pas de ligne de commande, juste un glisser-déposer.</p>
+    <p><a href="https://filezilla-project.org/" target="_blank">Télécharger FileZilla →</a></p>
+  </div>
+</div>
+
+Le retailer vous communique les informations de connexion SFTP :
+
+| Champ | Ce que le retailer vous fournit |
+|-------|--------------------------------|
+| Hôte | Adresse du serveur SFTP (ex. `sftp.mondomaine.com`) |
+| Port | Généralement `22` |
+| Chemin | Répertoire de dépôt (ex. `/suppression/incoming/`) |
+| Login | Identifiant SFTP |
+| Mot de passe | Transmis hors messagerie |
+
+**Format du fichier :** CSV, encodage UTF-8, header `email_sha256` ou `email`, nom `exclusion_YYYYMMDD.csv`. Préférez les emails hashés SHA-256 — le retailer peut exclure les adresses sans les voir en clair.
+
+:::details Mon infrastructure est différente (SFTP clé SSH, S3, Azure, GCP, API…)
+
+**SFTP avec clé SSH**
+
+Option plus sécurisée, sans mot de passe. Générez une paire de clés et transmettez votre clé publique au retailer — FileZilla supporte aussi cette méthode.
+
+```bash
+ssh-keygen -t ed25519 -C "exclusion-list@votredomaine.com"
+# Partagez uniquement le fichier .pub avec le retailer
+```
+
+---
+
+**Bucket S3 (AWS)**
+
+| Champ | Ce que vous fournissez |
+|-------|------------------------|
+| Endpoint | Ex. `s3.eu-west-1.amazonaws.com` |
+| Bucket | Nom du bucket |
+| Répertoire | Préfixe de destination (ex. `exclusion/`) |
+| Access Key ID | Clé IAM dédiée (écriture uniquement) |
+| Secret Access Key | À transmettre hors messagerie |
+
+---
+
+**Bucket GCP (Google Cloud Storage)**
+
+| Champ | Ce que vous fournissez |
+|-------|------------------------|
+| Bucket | Nom du bucket GCS |
+| Token d'authentification | Fichier JSON d'un compte de service avec rôle `Storage Object Creator` |
+
+---
+
+**Azure Blob Storage**
+
+Générez un SAS Token restreint à l'opération `Write`, valable 48h.
+
+| Champ | Ce que vous fournissez |
+|-------|------------------------|
+| Compte de stockage | Nom de votre compte Azure |
+| Conteneur | Nom du conteneur Blob |
+| SAS Token | Jeton d'accès signé (Write uniquement, 48h) |
+
+---
+
+**API / Endpoint (Eulerian ou autre)**
+
+Si vous utilisez Eulerian, signalez-le au retailer — l'intégration est native, pas de fichier à transmettre.
+
+Pour tout autre ESP ou DMP, partagez la documentation de votre endpoint et les accès nécessaires.
+
+:::
+
+---
+
+## Étape suivante
+
+Fichier déposé et confirmé par le retailer ? Passez à [Validation & Diffusion](./3-validation-diffusion).

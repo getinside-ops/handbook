@@ -73,8 +73,8 @@ Production is a co-branding effort between you and the distributor.
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3><a href="./suppression-list">Opt-out suppression list</a></h3>
-    <p>Send the retailer the list of addresses to exclude (contacts who have opted out from your brand). Required for GDPR compliance.</p>
+    <h3><a href="./exclusion-list">Contact exclusion list</a></h3>
+    <p>Send the retailer the list of addresses to exclude (GDPR opt-outs or existing customers to remove from an acquisition campaign).</p>
   </div>
 </div>
 

@@ -73,8 +73,8 @@ La production est un travail de co-branding entre vous et le distributeur.
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3><a href="./suppression-list">Liste de suppression opt-out</a></h3>
-    <p>Transmettez au retailer la liste des adresses à exclure (contacts ayant opt-out auprès de votre marque). Étape obligatoire pour la conformité RGPD.</p>
+    <h3><a href="./exclusion-list">Liste d'exclusion de contacts</a></h3>
+    <p>Transmettez au retailer la liste des adresses à exclure (opt-out RGPD ou clients existants à écarter d'une campagne d'acquisition).</p>
   </div>
 </div>
 

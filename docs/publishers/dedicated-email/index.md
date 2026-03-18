@@ -52,11 +52,11 @@ getinside assure la fiabilité des données via un double système de suivi :
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="suppression-list" class="gi-nav-card">
+  <a href="exclusion-list" class="gi-nav-card">
     <span class="gi-nav-card-icon">🚫</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">2. Listes de suppression</p>
-      <p class="gi-nav-card-desc">Configurer un endpoint sécurisé pour recevoir les opt-out annonceurs et les appliquer avant l'envoi.</p>
+      <p class="gi-nav-card-title">2. Listes d'exclusion</p>
+      <p class="gi-nav-card-desc">Configurer un endpoint sécurisé pour recevoir les exclusions annonceurs (opt-out RGPD ou clients existants) et les appliquer avant l'envoi.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

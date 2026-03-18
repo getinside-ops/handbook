@@ -52,10 +52,18 @@ getinside ensures data reliability via a double tracking system:
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
+  <a href="exclusion-list" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🚫</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">2. Exclusion lists</p>
+      <p class="gi-nav-card-desc">Set up a secure endpoint to receive advertiser exclusions (GDPR opt-outs or existing customers) and apply them before sending.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
   <a href="2-tracking-sending" class="gi-nav-card">
     <span class="gi-nav-card-icon">🚀</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">2. Tracking & Sending</p>
+      <p class="gi-nav-card-title">3. Tracking & Sending</p>
       <p class="gi-nav-card-desc">Open pixel, tracked gtinsi.de links, email Proof, and final validation.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
