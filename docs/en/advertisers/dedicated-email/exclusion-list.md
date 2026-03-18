@@ -28,7 +28,7 @@ Before sending a Dedicated Email, getinside can apply an exclusion list to remov
   </div>
   <div class="gi-value-card">
     <strong>Both</strong>
-    <p>Opt-outs + existing customers: both lists are merged by getinside before delivery.</p>
+    <p>Opt-outs + existing customers: merge both lists into a single file before sending it over.</p>
   </div>
 </div>
 

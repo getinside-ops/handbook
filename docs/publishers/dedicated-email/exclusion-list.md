@@ -28,7 +28,7 @@ Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour éc
   </div>
   <div class="gi-value-card">
     <strong>Les deux</strong>
-    <p>Opt-out et clients existants : getinside fusionne les deux listes avant de vous les transmettre.</p>
+    <p>Opt-out et clients existants : l'annonceur fusionne les deux listes en un seul fichier avant de vous le transmettre.</p>
   </div>
 </div>
 

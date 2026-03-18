@@ -28,7 +28,7 @@ Avant l'envoi, getinside peut appliquer une liste d'exclusion pour écarter cert
   </div>
   <div class="gi-value-card">
     <strong>Les deux</strong>
-    <p>Opt-out et clients existants : getinside fusionne les deux listes avant la diffusion.</p>
+    <p>Opt-out et clients existants : vous fusionnez les deux listes en un seul fichier avant de le transmettre.</p>
   </div>
 </div>
 

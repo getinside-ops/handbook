@@ -28,7 +28,7 @@ Before a Dedicated Email campaign, an advertiser may send you an exclusion list 
   </div>
   <div class="gi-value-card">
     <strong>Both</strong>
-    <p>Opt-outs + existing customers: both lists can be merged by getinside before being sent to you.</p>
+    <p>Opt-outs + existing customers: the advertiser merges both lists into a single file before sending it over.</p>
   </div>
 </div>
 
