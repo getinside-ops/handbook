@@ -15,7 +15,7 @@ keywords:
 
 # Contact exclusion list
 
-Before sending, you can pass an exclusion list to the retailer to remove certain contacts from the mailing. The request can come from you, the retailer, or both.
+Before sending, you can pass an exclusion list to the retailer to remove certain contacts from the mailing.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

@@ -15,7 +15,7 @@ keywords:
 
 # Liste d'exclusion de contacts
 
-Avant l'envoi, vous pouvez transmettre au retailer une liste d'exclusion pour écarter certains contacts de la diffusion. La demande peut venir de vous, du retailer, ou des deux à la fois.
+Avant l'envoi, vous pouvez transmettre au retailer une liste d'exclusion pour écarter certains contacts de la diffusion.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
