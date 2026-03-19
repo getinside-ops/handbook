@@ -220,6 +220,7 @@ const config: any = defineConfig({
                 text: 'Social Ads',
                 link: '/advertisers/sponsored-social/',
               },
+              { text: 'Bundles & Kits Média', link: '/advertisers/bundles' },
               { text: 'Jeu Concours', link: '/advertisers/co-branded-contest/' },
               { text: 'Service Impression & RSE', link: '/advertisers/printing-services' },
               { text: 'Tarifs Annonceurs', link: '/advertisers/pricing' },

@@ -56,6 +56,12 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
 - **Ciblage** : Audience lookalike, demographic, interest-based
 - **Metrics** : Impressions, clicks, conversions, ROAS
 
+#### **5. Bundles & Kits Média**
+- **Dispositif 360** : Combinaison de plusieurs leviers (Colis + Email + Social + Web)
+- **Objectif** : Fil rouge de communication, répétition du message
+- **Pricing** : Vente au forfait (Flat Fee) vs CPM
+- **Engagement** : Souvent lié à un jeu-concours pour maximiser la conversion
+
 ### **Concepts Clés**
 
 #### **Transfert de Confiance (Trust Transfer)**
