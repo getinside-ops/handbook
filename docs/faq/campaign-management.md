@@ -44,7 +44,7 @@ Vous disposez d'un double suivi sur votre tableau de bord getinside :
 1. **Performance (ROI) :** Scans de vos QR codes en temps réel.
 2. **Distribution :** Volumes de flyers insérés mis à jour chaque début de semaine par le distributeur.
 
-**Référence :** Le CTR moyen sur le réseau est de **2,87%**. Les formats gamifiés (Jeu Concours) atteignent jusqu'à **20%** de taux de scan.
+**Référence :** Le CTR moyen sur le réseau est de **2,87%**. Les formats gamifiés (Bundle) atteignent jusqu'à **20%** de taux de scan.
 :::
 
 ::: details Un distributeur refuse mon visuel — que faire ?

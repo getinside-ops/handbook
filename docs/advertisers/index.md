@@ -46,10 +46,10 @@ image: /images/gi-keyvisual.svg
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Partnership Ads sur les comptes Instagram et TikTok de nos partenaires. Sur demande.</p>
   </a>
-  <a href="co-branded-contest/" class="gi-format-card">
+  <a href="bundles" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
-    <span class="gi-format-card-title">Jeu Concours</span>
-    <p class="gi-format-card-desc">Leads opt-in qualifiés + code promo de consolation pour tous les participants.</p>
+    <span class="gi-format-card-title">Bundle</span>
+    <p class="gi-format-card-desc">Dispositif multi-leviers avec jeu intégré : leads opt-in qualifiés, code promo de consolation et notoriété 360°.</p>
   </a>
 </div>
 

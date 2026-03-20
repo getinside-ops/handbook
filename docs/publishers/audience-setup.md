@@ -45,7 +45,7 @@ Pour chaque audience créée, activez indépendamment les formats que vous souha
 - **📧 Emailing Dédié** — Recommandation via votre newsletter
 - **📩 Display Email** — Bannières dans vos emails
 - **📱 Social Ads** — Publications sponsorisées Instagram / TikTok
-- **🎁 Jeu Concours** — Mécanique de collecte de leads
+- **🎁 Bundle** — Jeu intégré et collecte de leads opt-in
 
 ::: info
 Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.

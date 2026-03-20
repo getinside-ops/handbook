@@ -76,10 +76,10 @@ image: /images/gi-keyvisual.svg
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Partnership Ads rémunérés. L'annonceur finance la diffusion de vos posts.</p>
   </a>
-  <a href="co-branded-contest/" class="gi-format-card">
+  <a href="bundles" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
-    <span class="gi-format-card-title">Jeu Concours</span>
-    <p class="gi-format-card-desc">Animez votre audience. L'annonceur fournit les lots, le budget et la page co-brandée.</p>
+    <span class="gi-format-card-title">Bundle</span>
+    <p class="gi-format-card-desc">Animez votre audience avec un jeu intégré. L'annonceur fournit les lots et le budget. Jusqu'à 20% de CTR.</p>
   </a>
 </div>
 

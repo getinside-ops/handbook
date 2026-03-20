@@ -37,7 +37,7 @@ Each format targets a different goal:
 | **📧 Dedicated Emailing** | Email acquisition, direct traffic | 1-2 weeks | 550€ HT |
 | **📩 Display Email** | Visibility, remarketing | 1 week | 550€ HT |
 | **📱 Social Ads** | Engagement, social media visibility | 1-2 weeks | 550€ HT |
-| **🎁 Contest** | Qualified lead collection | 2-3 weeks | 550€ HT* |
+| **🎁 Bundle** | Qualified lead collection, integrated game | 2-3 weeks | 550€ HT* |
 
 <p class="gi-footnote">* The Studio does not create Landing Pages for contests (distributor's responsibility).</p>
 

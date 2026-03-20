@@ -9,6 +9,9 @@ keywords:
   - flat fee advertising
   - package insert
   - newsletter sponsorship
+  - opt-in
+  - leads
+  - animation
 ---
 
 # Selling Bundles & Media Kits
@@ -21,7 +24,7 @@ Bundling allows you to **monetize spaces that are hard to sell alone** (like a h
 
 ## Structuring Your Bundle Offer
 
-An attractive Bundle offer generally combines **volume** (your traffic/shipments) and **engagement** (your brand image).
+An attractive Bundle offer generally combines **volume** (your traffic/shipments) and **engagement** (your brand image). The Bundle mechanic — promotion, contest, brand content, etc. — is chosen based on the advertiser's objective. You can suggest a mechanic based on your audience, but the advertiser decides.
 
 ### Ingredients of a Good Media Kit
 
@@ -34,15 +37,93 @@ An attractive Bundle offer generally combines **volume** (your traffic/shipments
 
 ## The "Contest" Strategy
 
-To sell a Bundle at a premium price (flat fee), the most effective angle is the **100% Winner Contest**.
+To sell a Bundle at a premium price (flat fee), the most effective angle is the **100% Winner Contest** — the most premium mechanic in the Bundle catalog.
 
 **Your value proposition to the advertiser:**
 > *"Don't just advertise. Offer an experience to my customers. You provide the prizes, I provide the audience."*
 
 **Benefits for you (Publisher):**
 1.  **Free Commercial Animation:** The advertiser funds the prizes that delight your customers.
-2.  **Engaging Content:** Your customers prefer seeing a contest rather than a simple product ad.
+2.  **Engaging Content:** Your customers prefer seeing a contest rather than a simple product ad. Gamified formats reach up to **20% CTR**.
 3.  **High Revenue:** This type of "turnkey" operation sells for more than a simple CPM campaign.
+
+::: tip The Concept
+You host the **game page on your site**. You drive traffic to it via your usual channels (Email, Push, Social). The Advertiser retrieves the "Opt-in" leads at the end of the operation — you do not send prizes to winners (that's the advertiser's job).
+:::
+
+## Contest Setup Guide
+
+The technical and legal steps to launch a compliant contest within a Bundle.
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Landing Page (LP) Creation</h3>
+    <p>You are responsible for hosting the game to reassure your customer.</p>
+    <ul>
+      <li><strong>URL:</strong> On your domain (e.g., <code>your-site.com/brand-contest</code>).</li>
+      <li><strong>Design:</strong> Co-branded (Your usual header + the Advertiser's visual universe).</li>
+    </ul>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>The Form & GDPR (Critical)</h3>
+    <p>To monetize the data (sell the lead to the advertiser), the form must strictly respect the GDPR.</p>
+
+:::danger Mandatory notice — unchecked box
+☐ _I agree to receive commercial offers from the partner [Advertiser Name]._
+
+⚠️ This box must **NEVER** be pre-checked.
+:::
+
+    <p><em>Note: GDPR compliance is the responsibility of the advertiser and the distributor. getinside provides example clause templates as indicative guidance only. Only participants checking this box will be billed to the Advertiser.</em></p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Activation Plan</h3>
+    <p>To guarantee the volume of leads (and therefore your revenue), activate your powerful channels:</p>
+    <ul>
+      <li><strong>📧 Dedicated Newsletter:</strong> "Try to win XXX€ at [Brand]".</li>
+      <li><strong>🔔 Web Push Notification.</strong></li>
+      <li><strong>🖼️ Home Page Banners.</strong></li>
+    </ul>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Data Transfer</h3>
+    <p>At the end of the game:</p>
+    <ol>
+      <li>Export the list of participants <strong>with the partner opt-in</strong> (CSV/Excel).</li>
+      <li>Securely transmit the file to the Advertiser (via getinside).</li>
+    </ol>
+
+::: tip Your work stops here
+Once the file is transmitted, the advertiser integrates the leads into their CRM and **immediately** sends the welcome email with the promised consolation promo code. Speed is key to maximizing sales.
+:::
+  </div>
+</div>
+
+## Why use getinside?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>🤝 Simplified Management</strong>
+    <p>getinside coordinates the technical setup with the advertiser. You host the game — the advertiser sends prizes to winners, not you.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>📋 Support</strong>
+    <p>getinside provides GDPR clause templates as indicative guidance only. The advertiser and distributor remain responsible for compliance under applicable law.</p>
+  </div>
+</div>
 
 ## Pricing: Moving to Flat Fee
 

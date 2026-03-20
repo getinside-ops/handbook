@@ -49,8 +49,8 @@ For distributors: the flat rate can be directly deducted from your campaign reve
 - Animated banners (GIF, video)
 - Full copywriting + Short subject line
 
-::: warning 💡 Note: Co-branded Contests
-The Studio does not create the **Landing Pages (LP)** dedicated to co-branded contests. These must be hosted and created by the **distributor** on their own domain (e.g., `your-site.com/contest-brand`) to reassure the audience.
+::: warning 💡 Note: Bundles with integrated game
+The Studio does not create the **Landing Pages (LP)** for Bundles with an integrated game. These must be hosted and created by the **distributor** on their own domain (e.g., `your-site.com/contest-brand`) to reassure the audience.
 :::
 
 ### 📱 Social Media

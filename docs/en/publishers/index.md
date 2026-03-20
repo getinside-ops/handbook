@@ -76,10 +76,10 @@ image: /images/gi-keyvisual.svg
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Paid Partnership Ads. The advertiser funds the promotion of your posts.</p>
   </a>
-  <a href="co-branded-contest/" class="gi-format-card">
+  <a href="bundles" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
-    <span class="gi-format-card-title">Contest</span>
-    <p class="gi-format-card-desc">Engage your audience. The advertiser provides the prizes, budget, and co-branded page.</p>
+    <span class="gi-format-card-title">Bundle</span>
+    <p class="gi-format-card-desc">Engage your audience with an integrated game. The advertiser provides the prizes and budget. Up to 20% CTR.</p>
   </a>
 </div>
 

@@ -44,7 +44,7 @@ You have dual tracking on your getinside dashboard:
 1. **Performance (ROI):** Scans of your QR codes in real-time.
 2. **Distribution:** Volumes of inserted flyers updated every beginning of the week by the distributor.
 
-**Reference:** Average CTR on the network is **2.87%**. Gamified formats (Contest) reach up to **20%** scan rate.
+**Reference:** Average CTR on the network is **2.87%**. Gamified formats (Bundle) reach up to **20%** scan rate.
 :::
 
 ::: details A distributor refuses my visual — what to do?

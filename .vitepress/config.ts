@@ -221,7 +221,6 @@ const config: any = defineConfig({
                 link: '/advertisers/sponsored-social/',
               },
               { text: 'Bundles & Kits Média', link: '/advertisers/bundles' },
-              { text: 'Jeu Concours', link: '/advertisers/co-branded-contest/' },
               { text: 'Service Impression & RSE', link: '/advertisers/printing-services' },
               { text: 'Tarifs Annonceurs', link: '/advertisers/pricing' },
             ],
@@ -264,10 +263,7 @@ const config: any = defineConfig({
                 text: 'Social Ads',
                 link: '/publishers/sponsored-social/',
               },
-              {
-                text: 'Jeu Concours',
-                link: '/publishers/co-branded-contest/',
-              },
+              { text: 'Bundles & Kits Média', link: '/publishers/bundles' },
               {
                 text: 'Gestion & Revenus',
                 collapsed: true,
@@ -356,7 +352,7 @@ const config: any = defineConfig({
                 ],
               },
               { text: 'Social Ads', link: '/en/advertisers/sponsored-social/' },
-              { text: 'Co-branded Contest', link: '/en/advertisers/co-branded-contest/' },
+              { text: 'Bundles & Media Kits', link: '/en/advertisers/bundles' },
               { text: 'Printing & CSR Services', link: '/en/advertisers/printing-services' },
               { text: 'Advertiser Pricing', link: '/en/advertisers/pricing' },
             ],
@@ -396,7 +392,7 @@ const config: any = defineConfig({
                 ],
               },
               { text: 'Social Ads', link: '/en/publishers/sponsored-social/' },
-              { text: 'Co-branded Contest', link: '/en/publishers/co-branded-contest/' },
+              { text: 'Bundles & Media Kits', link: '/en/publishers/bundles' },
               {
                 text: 'Management & Revenue',
                 collapsed: true,

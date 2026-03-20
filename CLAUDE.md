@@ -28,8 +28,8 @@ npm run docs:preview  # Preview built site locally
 
 The documentation is bilingual. French markdown files live directly under `docs/`, and English translations mirror the exact structure under `docs/en/`. Both feature two main audience branches:
 
-- **`advertisers/`** — Guides for brands: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Co-branded Contests, Pricing, Printing Services, Onboarding Quick Start
-- **`publishers/`** — Guides for e-retailers: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Co-branded Contests, Audiences & Data, Payouts & Wallet, Affiliation, Score Distributeur, Onboarding Process/Quick Start, Pricing
+- **`advertisers/`** — Guides for brands: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Bundles & Media Kits, Pricing, Printing Services, Onboarding Quick Start
+- **`publishers/`** — Guides for e-retailers: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Bundles & Media Kits, Audiences & Data, Payouts & Wallet, Affiliation, Score Distributeur, Onboarding Process/Quick Start, Pricing
 
 Supporting sections: `start-here/` (homepage), `faq/`, `resources/`, `glossary.md`
 
