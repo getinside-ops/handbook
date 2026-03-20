@@ -16,22 +16,28 @@ Click on the buttons to see the actual rendering in the browser.
 
 <div class="gi-format-grid">
   <div class="gi-format-card">
+    <span class="gi-format-card-icon">💛</span>
+    <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
+    <span class="gi-format-card-desc">Charity campaign broadcast by Mieux que des Fleurs for Les Pièces Jaunes.</span>
+    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+  </div>
+  <div class="gi-format-card">
+    <span class="gi-format-card-icon">🐾</span>
+    <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
+    <span class="gi-format-card-desc">Premium petfood campaign broadcast by La Redoute.</span>
+    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+  </div>
+  <div class="gi-format-card">
     <span class="gi-format-card-icon">🐱</span>
-    <span class="gi-format-card-title">Caats x Les Petits Culottés</span>
-    <span class="gi-format-card-desc">Petfood campaign targeted at a Parents / Family audience.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
+    <span class="gi-format-card-desc">Children's fashion campaign broadcast by Caats, targeted at a Parents / Family audience.</span>
+    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
   <div class="gi-format-card">
-    <span class="gi-format-card-icon">🥘</span>
-    <span class="gi-format-card-title">HelloFresh x Berceau Magique</span>
-    <span class="gi-format-card-desc">Exclusive Food offer (Cooking Box) to a Young Parents target.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/8fb31ccea9fa/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🤝</span>
-    <span class="gi-format-card-title">Les Petits Frères des Pauvres</span>
-    <span class="gi-format-card-desc">Fundraising campaign broadcast by Mieux que des Fleurs.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/0095a3e7cf89/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <span class="gi-format-card-icon">🥦</span>
+    <span class="gi-format-card-title">Yooji x HelloFresh</span>
+    <span class="gi-format-card-desc">Baby food campaign broadcast by HelloFresh, targeting Young Parents.</span>
+    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
 </div>
 

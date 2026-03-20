@@ -51,9 +51,10 @@ Des rendus réels en ligne (responsive, co-branding, endorsement) :
 
 | Campagne | Contexte | Rendu |
 | :--- | :--- | :--- |
-| **Caats × Les Petits Culottés** | Petfood — audience Parents/Famille | [Voir](https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html){target="_blank"} |
-| **HelloFresh × Berceau Magique** | Box repas — cible Jeunes Parents | [Voir](https://benoit-prentout.github.io/archive-news/71541edf985d/index.html){target="_blank"} |
-| **Les Petits Frères des Pauvres** | Caritatif — collecte de fonds | [Voir](https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html){target="_blank"} |
+| **Les Pièces Jaunes × Mieux que des Fleurs** | Caritatif — collecte de fonds | [Voir](https://getinside-ops.github.io/archive-news/820c70e8b537/index.html){target="_blank"} |
+| **Ultra Premium Direct × La Redoute** | Petfood premium — cible Propriétaires d'animaux | [Voir](https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html){target="_blank"} |
+| **Les Petits Culottés × Caats** | Mode enfant — audience Parents/Famille | [Voir](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
+| **Yooji × HelloFresh** | Alimentation bébé — cible Jeunes Parents | [Voir](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
 
 ---
 
