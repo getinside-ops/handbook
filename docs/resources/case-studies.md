@@ -10,6 +10,23 @@ Découvrez comment d'autres marques et distributeurs utilisent getinside pour at
 
 ---
 
+## 📊 Meilleures Campagnes Sponsored Mail
+
+Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSTqmfiDpw7W6dGz9ef2ex3PR1pKhdm3hAbLcvtthrniRtdpDWf4l1meTaySmi9QaQ3CXlMrdh57acp/pubembed?start=false&loop=false&delayms=30000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
 ## 📧 Dedicated Email (Exemples Live)
 
 Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
