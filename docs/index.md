@@ -17,11 +17,8 @@ hero:
     alt: getinside
   actions:
     - theme: brand
-      text: Guide annonceurs
-      link: /advertisers/
-    - theme: alt
-      text: Guide retailers
-      link: /publishers/
+      text: Par où commencer ?
+      link: /start-here/
 
 features:
   - icon: 🎯
