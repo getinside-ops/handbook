@@ -48,10 +48,6 @@ For a rich black on solid areas (large black backgrounds): use **C30% M30% Y30% 
 For fine texts and small characters: use **K100% only** to avoid color shifting during printing.
 :::
 
-:::info Accepted software
-Adobe Illustrator (vector), Photoshop (raster, 300 DPI), InDesign (page layout) are recommended. Any software capable of exporting PDF/X CMYK (Affinity Publisher, Canva Pro, etc.) is accepted.
-:::
-
 ---
 
 ## Paper & Printing

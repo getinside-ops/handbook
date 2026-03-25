@@ -45,11 +45,7 @@ Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm d
 
 :::tip Noir profond
 Pour un noir riche sur les aplats (fonds noirs larges) : utilisez **C30% M30% J30% N100%**.
-Pour les textes fins et petits caractères : utilisez **N100% seul** pour éviter le décalage à l'impression.
-:::
-
-:::info Logiciels acceptés
-Adobe Illustrator (vectoriel), Photoshop (matriciel, 300 DPI), InDesign (mise en page) sont recommandés. Tout logiciel permettant d'exporter en PDF/X CMJN (Affinity Publisher, Canva Pro, etc.) est accepté.
+Pour les textes fins et petits caractères : utilisez **N100% seul** pour éviter le décalage à l'impression.
 :::
 
 ---

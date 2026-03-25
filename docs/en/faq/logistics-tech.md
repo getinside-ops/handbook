@@ -157,6 +157,14 @@ Yes. As a central purchasing office, we offer all our members negotiated rates â
 
 ---
 
+## Design & Specifications
+
+::: details Which software should I use to create my visuals?
+Adobe Illustrator (vector), Photoshop (raster, 300 DPI), InDesign (page layout) are recommended. Any software capable of exporting PDF/X CMYK (Affinity Publisher, Canva Pro, etc.) is accepted.
+:::
+
+---
+
 ## Creation & Tracking
 
 ::: details Can getinside create my visuals?

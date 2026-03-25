@@ -157,6 +157,14 @@ Oui. En tant que centrale d'achat, nous faisons bénéficier tous nos membres de
 
 ---
 
+## Design & Spécifications
+
+::: details Quels logiciels utiliser pour créer mes visuels ?
+Adobe Illustrator (vectoriel), Photoshop (matriciel, 300 DPI), InDesign (mise en page) sont recommandés. Tout logiciel permettant d'exporter en PDF/X CMJN (Affinity Publisher, Canva Pro, etc.) est accepté.
+:::
+
+---
+
 ## Création & Tracking
 
 ::: details Est-ce que getinside peut créer mes visuels ?
