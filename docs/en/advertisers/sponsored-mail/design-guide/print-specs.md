@@ -57,15 +57,6 @@ For fine texts and small characters: use **K100% only** to avoid color shifting 
 | **Weight** | 250 to 300 g/m² |
 | **Type** | Matte coated or semi-matte coated |
 | **Certification** | FSC or PEFC |
-| **Lamination** | Prohibited |
-
-:::warning Lamination prohibited
-Lamination (matte or glossy plastic coating) is prohibited for two reasons:
-1. Laminated paper cannot be recycled through standard paper recycling.
-2. Lamination reduces QR code readability by smartphone cameras.
-
-To protect the print, use **machine varnish** instead — it is recyclable and does not affect QR code scanning.
-:::
 
 :::info Mandatory environmental certification
 **If getinside handles your printing:** the following notice must be printed on the flyer:
@@ -91,24 +82,6 @@ This QR code certifies distribution and enables real-time monitoring.
 
 :::info Dynamic QR Code
 The destination URL is not embedded in the code's pattern. You can update the landing page at any time from the platform, **even after printing**.
-:::
-
----
-
-## Sample formats (Sampling)
-
-getinside allows the distribution of samples alone or assembled with a flyer.
-
-| Format | Max weight | Max developed (H + W + L) |
-| :--- | :--- | :--- |
-| **Format S** | 15 g | 15 cm |
-| **Format M** | 100 g | 30 cm |
-| **Format L** | 450 g | 40 cm |
-
-:::info "Duo" option — Flyer + Sample assembly (Format S)
-The sample is attached to an A5 or A6 flyer via a dot of **fugitive glue** (repositionable), allowing it to be detached without damaging the flyer.
-
-This service is performed by **Adapted Enterprises (EA)**, supporting the employment of disabled workers.
 :::
 
 ---

@@ -16,7 +16,7 @@ Tout ce qu'il faut vérifier pour valider qu'une création est conforme à l'imp
 
 ## Formats papier
 
-| Format | Fini (découpé) | Fichier (avec fond perdu) | Zone tranquille |
+| Format | Fini (découpé) | Fichier (avec fond perdu) | Zone tranquille |
 | :--- | :--- | :--- | :--- |
 | **A5** | 148 × 210 mm | **152 × 214 mm** | 3 mm internes |
 | **A6** | 105 × 148 mm | **109 × 152 mm** | 3 mm internes |
@@ -45,7 +45,7 @@ Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm d
 
 :::tip Noir profond
 Pour un noir riche sur les aplats (fonds noirs larges) : utilisez **C30% M30% J30% N100%**.
-Pour les textes fins et petits caractères : utilisez **N100% seul** pour éviter le décalage à l'impression.
+Pour les textes fins et petits caractères : utilisez **N100% seul** pour éviter le décalage à l'impression.
 :::
 
 ---
@@ -57,15 +57,6 @@ Pour les textes fins et petits caractères : utilisez **N100% seul** pour évite
 | **Grammage** | 250 à 300 g/m² |
 | **Type** | Couché mat ou couté demi-mat |
 | **Certification** | FSC ou PEFC |
-| **Pelliculage** | Interdit |
-
-:::warning Pelliculage interdit
-Le pelliculage (ajout d'une couche plastique mate ou brillante) est interdit pour deux raisons :
-1. Un support pelliculé ne peut pas être recyclé dans la filière papier classique.
-2. Le pelliculage réduit la lisibilité du QR code par les appareils photo de smartphones.
-
-Si vous souhaitez protéger l'impression, utilisez un **vernis machine** — il est compatible avec le recyclage et n'affecte pas le QR code.
-:::
 
 :::info Certification environnementale obligatoire
 **Si getinside réalise l'impression :** la mention suivante doit être imprimée sur le flyer :
@@ -91,24 +82,6 @@ Ce QR code certifie la distribution et permet le monitoring en temps réel.
 
 :::info QR Code dynamique
 L'URL de destination n'est pas gravée dans le motif du code. Vous pouvez modifier la landing page à tout moment depuis la plateforme, **même après l'impression des flyers**.
-:::
-
----
-
-## Formats Échantillons (Sampling)
-
-getinside permet la distribution d'échantillons seuls ou assemblés avec un flyer.
-
-| Format | Poids max | Développé max (H + l + L) |
-| :--- | :--- | :--- |
-| **Format S** | 15 g | 15 cm |
-| **Format M** | 100 g | 30 cm |
-| **Format L** | 450 g | 40 cm |
-
-:::info Option "Duo" — Assemblage Flyer + Échantillon (Format S)
-L'échantillon est collé sur un flyer A5 ou A6 via un point de **colle fugitive** (repositionnable), permettant de le détacher sans abîmer le flyer.
-
-Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisant l'emploi de travailleurs handicapés.
 :::
 
 ---
