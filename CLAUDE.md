@@ -139,6 +139,35 @@ Content is enriched from NotebookLM notebook (ID: `9b86dd27-355e-453c-aee2-af40c
 - **Promo code rules:** Unique per retailer, short, no special chars, ideally include retailer name
 - **Offer validity:** Min 3 months (recipients keep flyers weeks before scanning)
 
+## jdocmunch MCP
+
+jdocmunch indexes the local `docs/` folder and enables section-level search, TOC retrieval, and targeted section reads — more efficient than Grep when navigating content structure across ~80 bilingual files.
+
+**When to use it:**
+- Before adding content: check for existing coverage or find the right file to edit
+- Bilingual parity checks: compare FR vs EN section structures
+- Cross-file content audits (e.g., "all pages mentioning Score Distributeur")
+- Getting a structural overview before planning edits
+
+**When NOT to use it** (use Grep/Read instead):
+- Exact string/regex searches
+- Reading a specific known file
+
+**Workflow — lazy-index pattern:**
+```
+1. index_local(path="/Users/benoitprentout/handbook/docs", name="handbook-docs")
+   → incremental by default; only re-indexes changed files
+2. Use search/TOC tools as needed
+```
+
+**Tool quick-reference (`repo="handbook-docs"`):**
+- `index_local` — Index or refresh the docs folder (run once per session before first search)
+- `search_sections(query="...")` — Find sections by topic across FR + EN
+- `get_toc` — Full flat TOC (all headings, all files)
+- `get_toc_tree` — Hierarchical TOC
+- `get_section(...)` — Retrieve a specific section by heading path
+- `get_section_context(...)` — Section with surrounding context
+
 <!-- rtk-instructions v2 -->
 # RTK (Rust Token Killer) - Token-Optimized Commands
 
