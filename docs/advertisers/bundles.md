@@ -1,9 +1,8 @@
 ---
-title: Bundles & Kits Média - Publicité Multi-Leviers
-description: "Découvrez le format \"Bundle\" (ou Kit Média) : une stratégie publicitaire 360° combinant asilage colis, email, social et web pour maximiser l'impact et la conversion."
+title: Bundles - Publicité Multi-Leviers
+description: "Découvrez le format \"Bundle\" : une stratégie publicitaire 360° combinant asilage colis, email, social et web pour maximiser l'impact et la conversion."
 keywords:
   - bundle
-  - kit média
   - dispositif 360
   - multi-leviers
   - asilage colis
@@ -16,15 +15,24 @@ keywords:
   - drive-to-store
 ---
 
-# Bundles & Kits Média
+# Bundles
 
-Le format **Bundle** (aussi appelé **Kit Média** ou **Dispositif 360**) est une stratégie publicitaire complète qui permet d'activer simultanément plusieurs leviers marketing chez un même e-commerçant partenaire.
+Le format **Bundle** est une stratégie publicitaire complète qui permet d'activer simultanément plusieurs leviers marketing chez un même e-commerçant partenaire.
 
 Au lieu d'acheter un seul canal (comme l'insertion colis), vous achetez un **dispositif scénarisé** qui touche l'audience du retailer à plusieurs moments clés de son parcours d'achat.
 
 ::: tip LE CONCEPT CLÉ
 L'objectif est de créer un **fil rouge** entre votre marque et celle du distributeur. La répétition du message sur différents canaux (physique et digital) renforce la mémorisation et **multiplie les taux de conversion**.
 :::
+
+## Exemples de Bundles
+
+<div style="text-align: right; margin-bottom: 0.4rem;">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pub" target="_blank" rel="noopener" style="display: inline-block; background: #1a73e8; color: #fff; padding: 5px 12px; border-radius: 4px; font-size: 13px; text-decoration: none;">⛶ Plein écran</a>
+</div>
+<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 0 0 1.5rem;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
 
 ## Pourquoi choisir un Bundle ?
 
@@ -35,7 +43,7 @@ L'objectif est de créer un **fil rouge** entre votre marque et celle du distrib
 | **🎁 Engagement (Lead Gen)** | Souvent articulés autour d'un jeu intégré, les bundles permettent de récolter des leads qualifiés (emails) en plus des ventes directes. |
 | **💰 Tarif au Forfait** | Contrairement au CPM classique, les bundles sont souvent vendus à un **prix fixe (forfait)**, permettant de maîtriser son budget d'acquisition. |
 
-## Composition d'un Kit Média Type
+## Composition d'un Bundle
 
 Un Bundle est conçu pour couvrir l'ensemble du cycle de vie client chez le distributeur. Voici les briques standard que vous pouvez retrouver :
 
@@ -63,12 +71,6 @@ Un Bundle est conçu pour couvrir l'ensemble du cycle de vie client chez le dist
 </div>
 
 D'autres leviers peuvent s'ajouter selon le partenaire : articles de blog (SEO), pages dédiées, SMS marketing, etc.
-
-## Exemples de Bundles
-
-<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
-</div>
 
 ## Mécaniques d'un Bundle
 
@@ -245,4 +247,4 @@ Le Bundle simplifie l'achat média via une approche au **Forfait (Flat Fee)**.
 
 Ces offres sont identifiées dans le catalogue getinside par un **pictogramme dédié** ou regroupées dans la catégorie **"Offres Multi-leviers"**.
 
-Contactez votre Account Manager pour identifier les retailers proposant les Kits Média les plus pertinents pour votre audience.
+Contactez votre Account Manager pour identifier les retailers proposant les Bundles les plus pertinents pour votre audience.

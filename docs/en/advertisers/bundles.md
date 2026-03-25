@@ -1,9 +1,8 @@
 ---
-title: Bundles & Media Kits - Multi-Channel Advertising
-description: "Discover the \"Bundle\" format (or Media Kit): a 360° advertising strategy combining package inserts, email, social, and web to maximize impact and conversion."
+title: Bundles — Multi-Channel Advertising
+description: "Discover the \"Bundle\" format: a 360° advertising strategy combining package inserts, email, social, and web to maximize impact and conversion."
 keywords:
   - bundle
-  - media kit
   - 360 campaign
   - multi-channel
   - package insert
@@ -16,15 +15,24 @@ keywords:
   - drive-to-store
 ---
 
-# Bundles & Media Kits
+# Bundles
 
-The **Bundle** format (also called **Media Kit** or **360° Campaign**) is a comprehensive advertising strategy that allows you to simultaneously activate multiple marketing channels with a single e-commerce partner.
+The **Bundle** format is a comprehensive advertising strategy that allows you to simultaneously activate multiple marketing channels with a single e-commerce partner.
 
 Instead of buying a single channel (like package inserts), you purchase a **scripted campaign** that reaches the retailer's audience at several key moments in their shopping journey.
 
 ::: tip KEY CONCEPT
 The goal is to create a **red thread** between your brand and the retailer's brand. Repeating the message across different channels (physical and digital) reinforces memorability and **multiplies conversion rates**.
 :::
+
+## Bundle Examples
+
+<div style="text-align: right; margin-bottom: 0.4rem;">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pub" target="_blank" rel="noopener" style="display: inline-block; background: #1a73e8; color: #fff; padding: 5px 12px; border-radius: 4px; font-size: 13px; text-decoration: none;">⛶ Fullscreen</a>
+</div>
+<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 0 0 1.5rem;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
 
 ## Why Choose a Bundle?
 
@@ -35,7 +43,7 @@ The goal is to create a **red thread** between your brand and the retailer's bra
 | **🎁 Engagement (Lead Gen)** | Often centered around an integrated game, bundles allow you to collect qualified leads (emails) in addition to direct sales. |
 | **💰 Flat Rate Pricing** | Unlike standard CPM, bundles are often sold at a **fixed price (flat fee)**, allowing you to control your acquisition budget. |
 
-## Typical Media Kit Composition
+## Bundle Composition
 
 A Bundle is designed to cover the entire customer lifecycle with the retailer. Here are the standard building blocks you might find:
 
@@ -63,12 +71,6 @@ A Bundle is designed to cover the entire customer lifecycle with the retailer. H
 </div>
 
 Other channels may be added depending on the partner: blog articles (SEO), dedicated pages, SMS marketing, etc.
-
-## Bundle Examples
-
-<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
-</div>
 
 ## Bundle Mechanics
 
@@ -245,4 +247,4 @@ Bundles simplify media buying via a **Flat Fee** approach.
 
 These offers are identified in the getinside catalog by a **dedicated icon** or grouped in the **"Multi-channel Offers"** category.
 
-Contact your Account Manager to identify the retailers offering the most relevant Media Kits for your audience.
+Contact your Account Manager to identify the retailers offering the most relevant Bundles for your audience.

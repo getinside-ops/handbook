@@ -1,9 +1,8 @@
 ---
-title: Vendre des Bundles & Kits Média
+title: Vendre des Bundles
 description: "Guide pour les e-commerçants (publishers) : comment structurer et vendre des offres \"Bundle\" multi-leviers pour augmenter vos revenus publicitaires."
 keywords:
   - monétisation audience
-  - kit média
   - offre bundle
   - revenu additionnel
   - forfait publicitaire
@@ -14,19 +13,28 @@ keywords:
   - animation
 ---
 
-# Vendre des Bundles & Kits Média
+# Vendre des Bundles
 
-Le **Bundle** (ou Kit Média) est un levier puissant pour augmenter votre revenu moyen par campagne (panier moyen). Il consiste à **packager** plusieurs de vos inventaires publicitaires pour proposer une offre globale et scénarisée aux annonceurs.
+Le **Bundle** est un levier puissant pour augmenter votre revenu moyen par campagne (panier moyen). Il consiste à **packager** plusieurs de vos inventaires publicitaires pour proposer une offre globale et scénarisée aux annonceurs.
 
 ::: tip POURQUOI C'EST RENTABLE ?
 Le Bundle permet de **monétiser des espaces difficiles à vendre seuls** (comme une slide en homepage ou un post social) en les associant à vos best-sellers (l'insertion colis). C'est le principe du "Sponsoring" global.
 :::
 
+## Exemples de Bundles
+
+<div style="text-align: right; margin-bottom: 0.4rem;">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pub" target="_blank" rel="noopener" style="display: inline-block; background: #1a73e8; color: #fff; padding: 5px 12px; border-radius: 4px; font-size: 13px; text-decoration: none;">⛶ Plein écran</a>
+</div>
+<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 0 0 1.5rem;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
+
 ## Structurer votre Offre Bundle
 
 Une offre Bundle attractive combine généralement du **volume** (votre trafic/vos colis) et de **l'engagement** (votre image de marque). La mécanique du Bundle — promotion, jeu-concours, contenu de marque, etc. — est choisie en fonction de l'objectif de l'annonceur. Vous pouvez suggérer une mécanique selon votre audience, mais c'est l'annonceur qui décide.
 
-### Les ingrédients d'un bon Kit Média
+### Les ingrédients d'un bon Bundle
 
 | Type | Inventaire | Intérêt pour l'annonceur |
 | :--- | :--- | :--- |
@@ -34,12 +42,6 @@ Une offre Bundle attractive combine généralement du **volume** (votre trafic/v
 | **🎯 Ciblage & Data** | **Email Dédié / Newsletter** | Permet d'activer votre base CRM et de générer du trafic immédiat. |
 | **🤝 Caution Marque** | **Social Media (Post/Story)** | Votre communauté vous fait confiance. Un post sponsorisé transfère cette confiance à l'annonceur. |
 | **🌐 Visibilité Web** | **Bannière Homepage / Checkout** | Offre une visibilité "fil rouge" pendant toute la durée de l'opération. |
-
-## Exemples de Bundles
-
-<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
-</div>
 
 ## La Stratégie du "Jeu-Concours"
 
@@ -84,10 +86,10 @@ Les étapes techniques et juridiques pour lancer un jeu concours conforme au sei
 
 ⚠️ Cette case ne doit **JAMAIS** être pré-cochée.
 :::
-
-    <p><em>Note : La conformité RGPD est sous la responsabilité de l'annonceur et du distributeur. getinside fournit des exemples de clauses à titre indicatif. Seuls les participants cochant cette case seront facturés à l'Annonceur.</em></p>
   </div>
 </div>
+
+*Note : La conformité RGPD est sous la responsabilité de l'annonceur et du distributeur. getinside fournit des exemples de clauses à titre indicatif. Seuls les participants cochant cette case seront facturés à l'Annonceur.*
 
 <div class="gi-step">
   <div class="gi-step-num">3</div>

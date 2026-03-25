@@ -1,9 +1,8 @@
 ---
-title: Selling Bundles & Media Kits
+title: Selling Bundles
 description: "Guide for e-retailers (publishers) on how to structure and sell multi-channel \"Bundle\" offers to increase your advertising revenue."
 keywords:
   - audience monetization
-  - media kit
   - bundle offer
   - additional revenue
   - flat fee advertising
@@ -14,19 +13,28 @@ keywords:
   - animation
 ---
 
-# Selling Bundles & Media Kits
+# Selling Bundles
 
-The **Bundle** (or Media Kit) is a powerful lever to increase your average revenue per campaign (average basket size). It consists of **packaging** several of your advertising inventories to propose a global and scripted offer to advertisers.
+The **Bundle** is a powerful lever to increase your average revenue per campaign (average basket size). It consists of **packaging** several of your advertising inventories to propose a global and scripted offer to advertisers.
 
 ::: tip WHY IS IT PROFITABLE?
 Bundling allows you to **monetize spaces that are hard to sell alone** (like a homepage slide or a social post) by associating them with your best-sellers (package inserts). This is the principle of global "Sponsorship".
 :::
 
+## Bundle Examples
+
+<div style="text-align: right; margin-bottom: 0.4rem;">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pub" target="_blank" rel="noopener" style="display: inline-block; background: #1a73e8; color: #fff; padding: 5px 12px; border-radius: 4px; font-size: 13px; text-decoration: none;">⛶ Fullscreen</a>
+</div>
+<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 0 0 1.5rem;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
+
 ## Structuring Your Bundle Offer
 
 An attractive Bundle offer generally combines **volume** (your traffic/shipments) and **engagement** (your brand image). The Bundle mechanic — promotion, contest, brand content, etc. — is chosen based on the advertiser's objective. You can suggest a mechanic based on your audience, but the advertiser decides.
 
-### Ingredients of a Good Media Kit
+### What Makes a Good Bundle
 
 | Type | Inventory | Benefit for the Advertiser |
 | :--- | :--- | :--- |
@@ -34,12 +42,6 @@ An attractive Bundle offer generally combines **volume** (your traffic/shipments
 | **🎯 Targeting & Data** | **Dedicated Email / Newsletter** | Activates your CRM base and generates immediate traffic. |
 | **🤝 Brand Endorsement** | **Social Media (Post/Story)** | Your community trusts you. A sponsored post transfers this trust to the advertiser. |
 | **🌐 Web Visibility** | **Homepage Banner / Checkout** | Offers "red thread" visibility throughout the duration of the operation. |
-
-## Bundle Examples
-
-<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
-</div>
 
 ## The "Contest" Strategy
 
@@ -84,10 +86,10 @@ The technical and legal steps to launch a compliant contest within a Bundle.
 
 ⚠️ This box must **NEVER** be pre-checked.
 :::
-
-    <p><em>Note: GDPR compliance is the responsibility of the advertiser and the distributor. getinside provides example clause templates as indicative guidance only. Only participants checking this box will be billed to the Advertiser.</em></p>
   </div>
 </div>
+
+*Note: GDPR compliance is the responsibility of the advertiser and the distributor. getinside provides example clause templates as indicative guidance only. Only participants checking this box will be billed to the Advertiser.*
 
 <div class="gi-step">
   <div class="gi-step-num">3</div>
