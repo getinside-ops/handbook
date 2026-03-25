@@ -6,6 +6,7 @@ const config: any = defineConfig({
     description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.',
     base: '/handbook/',
     srcDir: 'docs',
+    cleanUrls: true,
 
     locales: {
       root: {

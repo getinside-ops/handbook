@@ -2,8 +2,7 @@
 # Autorise tous les crawlers (Google, Bing, ChatGPT, Claude, Gemini, etc.)
 
 User-agent: *
-Allow: /handbook/
-Allow: /images/
+Allow: /
 Disallow: /node_modules/
 Disallow: /.vitepress/
 Disallow: /dist/
@@ -16,26 +15,26 @@ Sitemap: https://getinside-ops.github.io/handbook/sitemap.xml
 
 # Specific: Perplexity
 User-agent: PerplexityBot
-Allow: /handbook/
+Allow: /
 
 # Specific: Common Crawl (used by many LLMs)
 User-agent: CCBot
-Allow: /handbook/
+Allow: /
 
 # Specific: OpenAI
 User-agent: GPTBot
-Allow: /handbook/
+Allow: /
 
 # Specific: Claude/Anthropic
 User-agent: Claude-Web
-Allow: /handbook/
+Allow: /
 
 # Specific: Google AI
 User-agent: Googlebot
-Allow: /handbook/
+Allow: /
 User-agent: Google-Extended
-Allow: /handbook/
+Allow: /
 
 # Specific: Apple AI
 User-agent: Applebot-Extended
-Allow: /handbook/
+Allow: /

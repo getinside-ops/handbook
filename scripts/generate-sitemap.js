@@ -25,21 +25,21 @@ const priorityMap = {
   'glossary': 0.6,
 };
 
-function getPriority(relativePath) {
+function getPriority(urlPath) {
+  if (urlPath === '' || urlPath === '/') return 1.0;
   for (const [key, priority] of Object.entries(priorityMap)) {
-    if (relativePath.includes(key)) {
+    if (urlPath.includes(key)) {
       return priority;
     }
   }
   return 0.5;
 }
 
-function getChangefreq(relativePath) {
-  // Pages fréquemment mises à jour
-  if (relativePath.includes('start-here') || relativePath.includes('advertisers')) {
+function getChangefreq(urlPath) {
+  if (urlPath === '' || urlPath === '/' || urlPath.includes('start-here') || urlPath.includes('advertisers')) {
     return 'weekly';
   }
-  if (relativePath.includes('resources')) {
+  if (urlPath.includes('resources')) {
     return 'monthly';
   }
   return 'monthly';
@@ -107,19 +107,6 @@ function generateSitemap() {
   if (fs.existsSync(DOCS_EN_DIR)) {
     walkDir(DOCS_EN_DIR, mdFiles);
   }
-
-  // Ajouter aussi les pages root
-  const extraPages = [
-    'index.md',
-    'sitemap.md',
-  ];
-
-  extraPages.forEach((page) => {
-    const filePath = path.join(ROOT, page);
-    if (fs.existsSync(filePath)) {
-      mdFiles.push(filePath);
-    }
-  });
 
   // Pages à exclure du sitemap (pages d'erreur, etc.)
   const EXCLUDED_PAGES = ['404.md'];
