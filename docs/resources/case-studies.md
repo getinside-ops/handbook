@@ -1,5 +1,11 @@
 ---
 title: Inspirations & Case Studies
+description: Découvrez comment les marques utilisent getinside — exemples de campagnes Sponsored Mail, Dedicated Email et Insertion Colis avec résultats mesurés.
+keywords:
+  - case study retail media
+  - exemples campagnes insertion colis
+  - résultats campagne sponsored mail
+  - success stories getinside
 ---
 
 # Inspirations & Case Studies
@@ -235,6 +241,25 @@ Cliquez sur les images pour zoomer.
 ---
 
 ## 💬 Témoignages Clients
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>CTR moyen réseau</strong>
+    <p><strong>2,64%</strong> — vs 0,90% sur Meta Ads</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>CTR record</strong>
+    <p><strong>12%</strong> — Total Wash (Drive to App, ciblage Auto-Moto)</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>ROI record</strong>
+    <p><strong>16:1</strong> — Nocibé (campagne omnicanale Drive-to-Store)</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>ROAS record</strong>
+    <p><strong>824%</strong> — Blacksheep (Insertion Colis)</p>
+  </div>
+</div>
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

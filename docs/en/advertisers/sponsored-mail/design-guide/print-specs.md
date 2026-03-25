@@ -14,6 +14,50 @@ The constraints to respect for correct printing and reliable tracking.
 
 ---
 
+## Submission process
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Define the mechanic</h3>
+    <p>Choose the campaign mechanic suited to your objective — promotion, contest, drive to store, drive to app, feedback.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Define the target experience</h3>
+    <p>Your message must be immediately understandable. The post-scan experience must be designed for mobile.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Define the offer</h3>
+    <p>Frame a tangible value offer. A monetary value is better perceived than a percentage. Plan for a minimum validity of <strong>3 months</strong> — recipients often keep flyers for several weeks.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">4</div>
+  <div class="gi-step-body">
+    <h3>Create the visual</h3>
+    <p>Follow the technical specifications on this page. Integrate the getinside QR code provided by the platform and all mandatory legal notices.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">5</div>
+  <div class="gi-step-body">
+    <h3>Submit for validation</h3>
+    <p>Upload your visual in your advertiser dashboard. No content is forwarded to a retailer without prior validation by the getinside Studio.</p>
+  </div>
+</div>
+
+:::tip getinside Studio — delegate your creation
+You can delegate the production of your visual to our Studio. Flat fee **€550 excl. VAT / campaign**. Contact: [studio@getinside.fr](mailto:studio@getinside.fr)
+:::
+
+---
+
 ## Paper formats
 
 | Format | Finished (cut) | File (with bleed) | Safe zone |
@@ -36,8 +80,9 @@ No text, logo, or important element should be less than **3 mm from the inner ed
 
 | Criterion | Specification |
 | :--- | :--- |
-| **File format** | PDF/X (vector) — preferred. JPG or PNG accepted. |
+| **File format** | PDF/X vector (ISO prepress standard) — preferred. JPG or PNG accepted. |
 | **Resolution** | **300 DPI minimum** |
+| **Raster dimensions** | A6: 1,287 × 1,795 px min · A5: 1,795 × 2,528 px min |
 | **Color mode** | **CMYK mandatory** (no RGB) |
 | **ICC Profile** | Coated FOGRA39 |
 | **Ink coverage** | **Maximum 300%** |
@@ -90,9 +135,20 @@ The QR code is available for download in your advertiser dashboard, in the campa
     <strong>Tracking & UTM</strong>
     <p>getinside tracks scans in real time. To follow <strong>sales</strong> in Google Analytics, add UTM parameters to your URL:</p>
     <p><code>mysite.com?utm_source=getinside&utm_medium=parcel-insert&utm_campaign=spring</code></p>
-    <p>Also add a <strong>unique promo code</strong> per retailer for offline attribution.</p>
+    <p>Set a <strong>specific URL per retailer</strong> to refine attribution in your analytics. For unique-code campaigns: provide <strong>1 .csv file per audience</strong>.</p>
   </div>
 </div>
+
+---
+
+## Promo codes
+
+Use a specific promo code per retailer to precisely trace the origin of your conversions.
+
+- **One code per retailer** — include the retailer brand name or abbreviation (reinforces perceived synergy)
+- **Short and memorable** — no special characters (`-` `_` `,` `.` `;` `:` should be avoided)
+- **Minimum validity: 3 months** — recipients often keep flyers for several weeks before converting
+- **Unique-code campaigns** — provide 1 `.csv` file per audience to getinside
 
 ---
 
@@ -114,6 +170,42 @@ This service is performed by **Adapted Enterprises (EA)**, supporting the employ
 
 ---
 
+## Recommended software
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Adobe Illustrator</strong>
+    <p>Creating <strong>vector</strong> illustrations and layouts. Recommended output: PDF/X.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Adobe Photoshop</strong>
+    <p>Editing <strong>raster</strong> images. Work at 300 DPI from the start.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Adobe InDesign</strong>
+    <p>Page layout. PDF/X export with built-in bleed. Ideal for complex creatives.</p>
+  </div>
+</div>
+
+:::info Other software
+Any software capable of exporting PDF/X (Affinity Publisher, Canva Pro…) is accepted, provided you follow CMYK specs and include bleed in the dimensions.
+:::
+
+---
+
+## Key checks
+
+:::warning Before submitting your file
+- **Proofread** your text, verify specs, and display overprints in your software
+- **Don't mix QR codes** — each retailer has their own, distinct code
+- **Deep black** (large solid areas): C30% M30% Y30% K100%
+- **Fine text**: K100% only to avoid color registration issues during printing
+- **Ink coverage**: the sum C+M+Y+K must not exceed **300%** per point
+- **Resolution**: all images must be at **300 DPI minimum**
+:::
+
+---
+
 ## Proof (BAT) checklist
 
 Check before each submission:
@@ -122,6 +214,6 @@ Check before each submission:
 2. File is in **CMYK (FOGRA39)**, resolution ≥ **300 DPI**, ink coverage ≤ **300%**.
 3. getinside QR code (`.svg`) is present and at least **25 × 25 mm**.
 4. Universal legal notices are included: advertiser ID, Triman, getinside logo, T&Cs.
-5. Sector-specific mandatory notices (if applicable) are legible.
+5. [Sector-specific mandatory notices](./legal) (if applicable) are present and legible.
 
 → [Download the complete checklist](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}

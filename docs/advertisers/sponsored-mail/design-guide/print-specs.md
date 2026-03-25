@@ -14,6 +14,50 @@ Les contraintes à respecter pour une impression correcte et un tracking perform
 
 ---
 
+## Process de soumission
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Définir la mécanique</h3>
+    <p>Choisissez la mécanique adaptée à votre objectif — promotion, jeu-concours, drive to store, drive to app, feedback.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Définir l'expérience cible</h3>
+    <p>Votre message doit être immédiatement compréhensible. L'expérience post-scan doit être pensée pour le mobile.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Définir l'offre</h3>
+    <p>Formulez une offre à valeur tangible. Une valeur monétaire est mieux perçue qu'un pourcentage. Prévoyez une validité minimale de <strong>3 mois</strong> — les destinataires gardent souvent les flyers plusieurs semaines.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">4</div>
+  <div class="gi-step-body">
+    <h3>Créer le visuel</h3>
+    <p>Respectez les spécifications techniques de cette page. Intégrez le QR code getinside fourni par la plateforme et les mentions légales obligatoires.</p>
+  </div>
+</div>
+<div class="gi-step">
+  <div class="gi-step-num">5</div>
+  <div class="gi-step-body">
+    <h3>Soumettre pour validation</h3>
+    <p>Déposez votre visuel sur votre espace annonceur. Aucun contenu n'est transmis à un distributeur sans validation préalable par le Studio getinside.</p>
+  </div>
+</div>
+
+:::tip Studio getinside — déléguer la création
+Vous pouvez déléguer la réalisation de votre visuel à notre Studio. Prestation forfaitaire **550€ HT / campagne**. Contact : [studio@getinside.fr](mailto:studio@getinside.fr)
+:::
+
+---
+
 ## Formats papier
 
 | Format | Fini (découpé) | Fichier (avec fond perdu) | Zone tranquille |
@@ -36,8 +80,9 @@ Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm d
 
 | Critère | Spécification |
 | :--- | :--- |
-| **Format de fichier** | PDF/X (vectoriel) — à privilégier. JPG ou PNG acceptés. |
+| **Format de fichier** | PDF/X vectoriel (norme ISO prépresse) — à privilégier. JPG ou PNG acceptés. |
 | **Résolution** | **300 DPI minimum** |
+| **Dimensions matricielles** | A6 : 1 287 × 1 795 px min · A5 : 1 795 × 2 528 px min |
 | **Mode colorimétrique** | **CMJN obligatoire** (pas de RVB) |
 | **Profil ICC** | Coated FOGRA39 |
 | **Taux d'encrage** | **Maximum 300%** |
@@ -90,9 +135,20 @@ Le QR code est disponible en téléchargement dans votre espace annonceur, dans 
     <strong>Tracking & UTM</strong>
     <p>getinside mesure les scans en temps réel. Pour suivre les <strong>ventes</strong> dans Google Analytics, ajoutez des paramètres UTM à votre URL :</p>
     <p><code>monsite.com?utm_source=getinside&utm_medium=insertion-colis&utm_campaign=printemps</code></p>
-    <p>Ajoutez aussi un <strong>code promo unique</strong> par distributeur pour l'attribution offline.</p>
+    <p>Renseignez une <strong>URL spécifique par distributeur</strong> pour affiner l'attribution dans votre analytics. Pour les campagnes à codes uniques : transmettez <strong>1 fichier .csv par audience</strong>.</p>
   </div>
 </div>
+
+---
+
+## Codes promo
+
+Utilisez un code promo spécifique par distributeur pour tracer précisément la provenance de vos conversions.
+
+- **Un code par distributeur** — incluez le nom ou une abréviation de la marque distributeur (renforce la synergie perçue)
+- **Court et mémorisable** — sans caractères spéciaux (`-` `_` `,` `.` `;` `:` sont à proscrire)
+- **Validité minimale : 3 mois** — les destinataires gardent souvent les flyers plusieurs semaines avant de convertir
+- **Campagnes à codes uniques** — transmettez 1 fichier `.csv` par audience à getinside
 
 ---
 
@@ -114,6 +170,42 @@ Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisa
 
 ---
 
+## Logiciels recommandés
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Adobe Illustrator</strong>
+    <p>Création d'illustrations et mises en page <strong>vectorielles</strong>. Format de sortie recommandé : PDF/X.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Adobe Photoshop</strong>
+    <p>Manipulation d'images <strong>matricielles</strong>. Travaillez à 300 DPI dès la création.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Adobe InDesign</strong>
+    <p>Mise en page. Export PDF/X avec fonds perdus intégrés. Idéal pour les créas complexes.</p>
+  </div>
+</div>
+
+:::info Autres logiciels
+Tout logiciel permettant d'exporter en PDF/X (Affinity Publisher, Canva Pro…) est accepté, à condition de respecter les spécifications CMJN et les dimensions avec fond perdu.
+:::
+
+---
+
+## Points d'attention
+
+:::warning Avant de soumettre votre fichier
+- **Relisez** le texte, vérifiez les specs et affichez les surimpressions dans votre logiciel
+- **Ne mélangez pas les QR codes** — chaque distributeur a le sien, distinct
+- **Noir profond** (aplats larges) : C30% M30% J30% N100%
+- **Textes fins** : N100% uniquement pour éviter le défaut de repérage à l'impression
+- **Taux d'encrage** : la somme C+M+J+N ne doit pas dépasser **300%** par point
+- **Résolution** : toutes les images doivent être à **300 DPI minimum**
+:::
+
+---
+
 ## Checklist BAT
 
 À vérifier avant chaque soumission :
@@ -122,6 +214,6 @@ Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisa
 2. Le fichier est en **CMJN (FOGRA39)**, résolution ≥ **300 DPI**, taux d'encrage ≤ **300%**.
 3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm**.
 4. Les mentions légales universelles sont incluses : identification annonceur, Triman, logo getinside, CGV.
-5. Les mentions sectorielles obligatoires (si applicable) sont lisibles.
+5. Les [mentions légales sectorielles](./legal) (si applicable) sont présentes et lisibles.
 
 → [Télécharger la Check-list complète](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}

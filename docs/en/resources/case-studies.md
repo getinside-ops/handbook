@@ -1,5 +1,11 @@
 ---
 title: Inspirations & Case Studies
+description: Discover how brands use getinside — campaign examples across Sponsored Mail, Dedicated Email, and Parcel Inserts with measured results.
+keywords:
+  - case study retail media
+  - parcel insert campaign examples
+  - sponsored mail campaign results
+  - getinside success stories
 ---
 
 # Inspirations & Case Studies
@@ -235,6 +241,25 @@ Click on the images to zoom.
 ---
 
 ## 💬 Client Testimonials
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Avg. network CTR</strong>
+    <p><strong>2.64%</strong> — vs 0.90% on Meta Ads</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Record CTR</strong>
+    <p><strong>12%</strong> — Total Wash (Drive to App, Auto-Moto targeting)</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Record ROI</strong>
+    <p><strong>16:1</strong> — Nocibé (omnichannel Drive-to-Store campaign)</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Record ROAS</strong>
+    <p><strong>824%</strong> — Blacksheep (Parcel Insert)</p>
+  </div>
+</div>
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
