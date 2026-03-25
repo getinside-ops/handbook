@@ -35,6 +35,12 @@ An attractive Bundle offer generally combines **volume** (your traffic/shipments
 | **🤝 Brand Endorsement** | **Social Media (Post/Story)** | Your community trusts you. A sponsored post transfers this trust to the advertiser. |
 | **🌐 Web Visibility** | **Homepage Banner / Checkout** | Offers "red thread" visibility throughout the duration of the operation. |
 
+## Bundle Examples
+
+<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
+
 ## The "Contest" Strategy
 
 To sell a Bundle at a premium price (flat fee), the most effective angle is the **100% Winner Contest** — the most premium mechanic in the Bundle catalog.

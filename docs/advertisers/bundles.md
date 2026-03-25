@@ -64,6 +64,12 @@ Un Bundle est conçu pour couvrir l'ensemble du cycle de vie client chez le dist
 
 D'autres leviers peuvent s'ajouter selon le partenaire : articles de blog (SEO), pages dédiées, SMS marketing, etc.
 
+## Exemples de Bundles
+
+<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
+
 ## Mécaniques d'un Bundle
 
 Un Bundle n'implique pas nécessairement un jeu-concours. La mécanique est choisie selon votre objectif et la nature de votre marque. Voici les 6 types disponibles :

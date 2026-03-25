@@ -35,6 +35,12 @@ Une offre Bundle attractive combine généralement du **volume** (votre trafic/v
 | **🤝 Caution Marque** | **Social Media (Post/Story)** | Votre communauté vous fait confiance. Un post sponsorisé transfère cette confiance à l'annonceur. |
 | **🌐 Visibilité Web** | **Bannière Homepage / Checkout** | Offre une visibilité "fil rouge" pendant toute la durée de l'opération. |
 
+## Exemples de Bundles
+
+<div style="position: relative; padding-bottom: 58.26%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzg60FFlpG6v3x1-0_57Zuzq2ndGTpDFUcjrJRqHw7s7SekkdRtGcyaufe2khth_FBX0d3MoFYMRcp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
+
 ## La Stratégie du "Jeu-Concours"
 
 Pour vendre un Bundle cher (au forfait), l'angle le plus efficace est le **Jeu-Concours 100% Gagnant** — la mécanique la plus premium du catalogue Bundle.
