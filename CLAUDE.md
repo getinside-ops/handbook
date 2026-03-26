@@ -8,7 +8,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 npm run docs:dev      # Local dev server with hot-reload
 npm run docs:build    # Build static site to .vitepress/dist/ + generate sitemap.xml
 npm run docs:preview  # Preview built site locally
+npm run generate:og   # Regenerate OG image (Playwright screenshot)
 ```
+
+## Asset Generation
+
+Static assets (OG image at 1200×630) are generated via Playwright Node.js ESM scripts in `scripts/`. Pattern:
+- Script: `scripts/generate-og-image.js` — Uses `chromium.launch()` to render HTML → PNG
+- SVG logos inlined as base64 data URIs for self-contained rendering
+- Requires: `npm install --save-dev playwright` + `npx playwright install chromium` (binaries)
+- Regenerate if design changes: edit script → `npm run generate:og` → commit both script and PNG output
+- Ensure script uses ESM (`import` syntax, not `require`) — project has `"type": "module"`
 
 ## Architecture
 
