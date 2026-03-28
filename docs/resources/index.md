@@ -1,20 +1,16 @@
 ---
-title: Ressources & Outils Retail Media - getinside
-description: Téléchargez nos guides, case studies, templates et ressources créatives pour optimiser vos campagnes retail media et maximiser vos revenus.
+title: Ressources & Outils
+description: Accédez aux gabarits, case studies, studio créatif et guides techniques pour gérer vos campagnes getinside en autonomie.
 keywords:
   - ressources retail media
-  - case studies
-  - guides marketing
-  - templates
-  - outils créatifs
-  - best practices
-  - getinside resources
-  - e-commerce guides
+  - gabarits impression
+  - case studies getinside
+  - studio créatif
 ---
 
 # Centre de Ressources
 
-<p class="gi-page-intro">Accédez aux outils, fichiers, inspirations et guides pour gérer vos opérations en autonomie.</p>
+Outils, fichiers, inspirations et guides pour gérer vos opérations en autonomie.
 
 <div class="gi-nav-list">
   <a href="library/" class="gi-nav-card">
@@ -37,7 +33,7 @@ keywords:
     <span class="gi-nav-card-icon">🎨</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Studio Créatif</p>
-      <p class="gi-nav-card-desc">Déléguez la production graphique à nos experts (offre forfaitaire).</p>
+      <p class="gi-nav-card-desc">Déléguez la production graphique à nos experts — forfait 550€ HT par campagne.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -45,7 +41,7 @@ keywords:
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting (Dépannage)</p>
-      <p class="gi-nav-card-desc">Solutions aux problèmes fréquents : tracking, QR codes, livraison.</p>
+      <p class="gi-nav-card-desc">Solutions aux problèmes fréquents : Wallet, QR codes, livraison, saisie.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

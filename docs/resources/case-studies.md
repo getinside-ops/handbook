@@ -1,6 +1,6 @@
 ---
 title: Inspirations & Case Studies
-description: Découvrez comment les marques utilisent getinside — exemples de campagnes Sponsored Mail, Dedicated Email et Insertion Colis avec résultats mesurés.
+description: Exemples de campagnes getinside avec résultats mesurés — Sponsored Mail, Dedicated Email et Insertion Colis pour des marques comme Nocibé, HelloFresh, Avène et Total Wash.
 keywords:
   - case study retail media
   - exemples campagnes insertion colis
@@ -10,15 +10,15 @@ keywords:
 
 # Inspirations & Case Studies
 
-Découvrez comment d'autres marques et distributeurs utilisent getinside pour atteindre leurs objectifs d'acquisition et de monétisation.
+Exemples de campagnes menées sur le réseau getinside avec leurs résultats mesurés.
 
 <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer ma campagne</a>
 
 ---
 
-## 📊 Meilleures Campagnes Sponsored Mail
+## Meilleures campagnes Sponsored Mail
 
-Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes.
+Sélection des meilleures campagnes Sponsored Mail par nos équipes.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -33,7 +33,7 @@ Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes.
 
 ---
 
-## 📧 Dedicated Email (Exemples Live)
+## Dedicated Email — exemples live
 
 Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
 
@@ -42,31 +42,31 @@ Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
     <span class="gi-format-card-icon">💛</span>
     <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
     <span class="gi-format-card-desc">Campagne caritative diffusée par Mieux que des Fleurs pour Les Pièces Jaunes.</span>
-    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐾</span>
     <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
-    <span class="gi-format-card-desc">Campagne Petfood premium diffusée par La Redoute.</span>
-    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <span class="gi-format-card-desc">Campagne petfood premium diffusée par La Redoute.</span>
+    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐱</span>
     <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
     <span class="gi-format-card-desc">Campagne mode enfant diffusée par Caats auprès d'une audience Parents / Famille.</span>
-    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🥦</span>
     <span class="gi-format-card-title">Yooji x HelloFresh</span>
     <span class="gi-format-card-desc">Campagne alimentation bébé diffusée par HelloFresh auprès d'une cible Jeunes Parents.</span>
-    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
   </div>
 </div>
 
 ---
 
-## 📦 Insertion Colis & Success Stories
+## Insertion Colis & succès clients
 
 Cliquez sur les images pour zoomer.
 
@@ -121,7 +121,7 @@ Cliquez sur les images pour zoomer.
       <h2>HELLOFRESH</h2>
       <Badge type="warning" text="Acquisition" />
     </div>
-    <p>Recruter de nouveaux clients à l'échelle (Scale).</p>
+    <p>Recruter de nouveaux clients à l'échelle.</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Fréquence</strong><span>25 campagnes / mois</span></div>
@@ -240,41 +240,27 @@ Cliquez sur les images pour zoomer.
 
 ---
 
-## 💬 Témoignages Clients
+## Chiffres clés du réseau
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>CTR moyen réseau</strong>
-    <p><strong>2,64%</strong> — vs 0,90% sur Meta Ads</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>CTR record</strong>
-    <p><strong>12%</strong> — Total Wash (Drive to App, ciblage Auto-Moto)</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>ROI record</strong>
-    <p><strong>16:1</strong> — Nocibé (campagne omnicanale Drive-to-Store)</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>ROAS record</strong>
-    <p><strong>824%</strong> — Blacksheep (Insertion Colis)</p>
-  </div>
-</div>
+| Indicateur | Résultat |
+|---|---|
+| CTR moyen réseau | 2,64% — vs 0,90% sur Meta Ads |
+| CTR record | 12% — Total Wash (Drive to App, ciblage Auto-Moto) |
+| ROI record | 16:1 — Nocibé (campagne omnicanale Drive-to-Store) |
+| ROAS record | 824% — Blacksheep (Insertion Colis) |
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Japhy</strong>
-    <p><em>"Nous diversifions notre acquisition client avec l'ajout de ce levier qui ne souffre pas d'une concurrence exacerbée."</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Pepette</strong>
-    <p><em>"Levier pertinent avec la possibilité de cibler l'audience de HelloFresh (alimentation, livraison domicile)."</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Blacksheep</strong>
-    <p><em>"Taux de scan de 2,67% et un ROAS de 824%."</em></p>
-  </div>
-</div>
+---
+
+## Témoignages
+
+> "Nous diversifions notre acquisition client avec l'ajout de ce levier qui ne souffre pas d'une concurrence exacerbée."
+> — **Japhy**
+
+> "Levier pertinent avec la possibilité de cibler l'audience de HelloFresh (alimentation, livraison domicile)."
+> — **Pepette**
+
+> "Taux de scan de 2,67% et un ROAS de 824%."
+> — **Blacksheep**
 
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>

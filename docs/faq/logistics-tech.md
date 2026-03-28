@@ -1,88 +1,81 @@
 ---
-title: Logistique & Technique
+title: Logistique & Technique — FAQ
+description: Réponses aux questions fréquentes sur les aspects techniques et logistiques des campagnes getinside : QR codes, social ads, impression, RGPD et anti-fraude.
+keywords:
+  - QR code getinside
+  - logistique insertion colis
+  - impression flyer
+  - RGPD retail media
+  - spark ads TikTok
 ---
 
 # Logistique, Print & Technique
 
-## Dépannage Technique
+## Dépannage technique
 
-::: details Mon QR Code renvoie vers une page 404
-**Cause probable :** L'URL de destination configurée dans la plateforme est vide ou erronée.
+::: details Mon QR code renvoie vers une page 404
+L'URL de destination configurée dans la plateforme est vide ou erronée. Pour corriger :
 
-**Solution :**
 1. Connectez-vous à [app.getinside.media](https://app.getinside.media).
-2. Allez dans la campagne concernée → onglet *Configuration*.
-3. Vérifiez le champ **"URL de redirection"**.
-4. Sauvegardez — la mise à jour est **instantanée** (pas besoin de réimprimer).
+2. Ouvrez la campagne concernée → onglet **Configuration**.
+3. Vérifiez le champ **"URL de redirection"** et sauvegardez.
+
+La mise à jour est **instantanée** — pas besoin de réimprimer.
 :::
 
 ::: details Je n'arrive pas à booster le post Instagram
-**Cause :** La case "Autoriser le partenaire à booster" n'a pas été cochée lors de la publication.
+La case "Autoriser le partenaire à booster" n'a pas été cochée lors de la publication. Pour corriger :
 
-**Solution :**
-1. Aller sur le post Instagram → 3 points → Modifier.
-2. Vérifier que le label **"Partenariat rémunéré"** est actif.
-3. Vérifier que l'option **"Autoriser le partenaire de marque à booster"** est active.
+1. Allez sur le post Instagram → 3 points → **Modifier**.
+2. Vérifiez que le label **"Partenariat rémunéré"** est actif.
+3. Vérifiez que l'option **"Autoriser le partenaire de marque à booster"** est activée.
 :::
 
 ::: details Je n'arrive pas à activer les Spark Ads TikTok
-**Cause :** L'autorisation de publicité n'a pas été générée depuis le compte TikTok du distributeur.
+L'autorisation de publicité n'a pas été générée depuis le compte TikTok du distributeur. Pour obtenir le code :
 
-**Solution :**
-1. Sur TikTok, allez dans **Paramètres du compte → Créateur → Paramètres de publicité**.
-2. Activez l'option **"Autorisation de publicité"**.
-3. Cliquez sur **"Générer un code"** — ce code est valable 60 jours.
-4. Transmettez le code à l'équipe getinside via la **messagerie de la campagne** sur la plateforme.
+1. Sur TikTok : **Paramètres du compte → Créateur → Paramètres de publicité**.
+2. Activez **"Autorisation de publicité"**.
+3. Cliquez sur **"Générer un code"** — valable 60 jours.
+4. Transmettez le code à getinside via la messagerie de la campagne.
 
-getinside utilise ce code pour activer le Spark Ad depuis le Business Center TikTok. Sans ce code, la campagne ne peut pas être lancée.
+Sans ce code, la campagne ne peut pas être lancée depuis le Business Center TikTok.
 :::
 
 ::: details L'image de ma newsletter ne s'affiche pas
-**Cause :** Problème d'hébergement ou de lien.
+Vérifiez les points suivants :
 
-Vérifiez :
-- Le lien de l'image est-il en `https` ? (Obligatoire)
-- L'image est-elle hébergée sur un serveur public ?
-- Avez-vous respecté le poids max (150 Ko) ?
+- Le lien de l'image est-il en `https` ? (obligatoire)
+- L'image est-elle hébergée sur un serveur public accessible ?
+- Le poids de l'image respecte-t-il le maximum de 150 Ko ?
 
-*Test : ouvrez l'URL de l'image seule dans un navigateur privé. Si elle ne charge pas, le problème vient de l'hébergement.*
+Test rapide : ouvrez l'URL de l'image dans un onglet de navigation privée. Si elle ne charge pas, le problème vient de l'hébergement.
 :::
 
 ---
 
-## Gestion Logistique
+## Gestion logistique
 
-::: details J'ai reçu les encarts en avance — puis-je commencer ?
-Il faut impérativement le feu vert de l'annonceur pour diffuser une campagne plus tôt que prévu. Cela peut poser problème si la landing page n'est pas encore active ou si la campagne entre en concurrence avec une autre offre.
+::: details J'ai reçu les encarts en avance — puis-je commencer la distribution ?
+Non, pas sans le feu vert de l'annonceur. Démarrer plus tôt que prévu peut poser problème si la landing page n'est pas encore active ou si la campagne entre en conflit avec une autre offre en cours. Prévenez l'annonceur via la messagerie avant toute action.
 :::
 
-::: details Les flyers sont arrivés endommagés
-**Action immédiate requise (sous 24h) :**
+::: details Les flyers sont arrivés endommagés — que faire ?
+Agissez sous 24h :
 
-1. Prenez des photos claires des cartons abîmés.
+1. Photographiez clairement les cartons abîmés.
 2. Notez des réserves précises sur le bon de livraison (BL).
-3. Envoyez le tout à `logistique@getinside.fr`.
+3. Envoyez photos et BL à [logistique@getinside.fr](mailto:logistique@getinside.fr).
 
 Ne distribuez pas les supports endommagés.
 :::
 
-::: details Écart de stock — j'ai reçu plus ou moins de flyers que prévu
-**Vous en avez reçu MOINS :** signalez-le immédiatement à l'annonceur et à getinside via la messagerie de la campagne.
+::: details J'ai reçu plus ou moins de flyers que prévu
+**Quantité insuffisante :** signalez-le immédiatement à l'annonceur et à getinside via la messagerie de la campagne.
 
-**Vous en avez reçu PLUS (surplus) :** c'est normal. Ce surplus correspond à la tolérance de gâche encadrée par l'Article 38 du Code des usages de l'industrie graphique (UNIIC). Voir la section ci-dessous pour le détail.
-:::
+**Surplus :** c'est normal. L'impression industrielle génère des variations encadrées par l'Article 38 du Code des usages de l'industrie graphique (UNIIC) :
 
----
-
-## Gestion des Surplus d'Impression (Tolérance de Gâche)
-
-L'impression industrielle génère des variations inévitables entre la quantité commandée et la quantité livrée. Ce n'est pas une erreur — c'est une norme de production codifiée.
-
-:::tip Article 38 — Code des usages de l'industrie graphique (UNIIC)
-L'acheteur est **tenu d'accepter** les écarts de livraison suivants, qui sont inhérents aux aléas de fabrication :
-:::
-
-| Volume commandé (BAT) | Tolérance légale |
+| Volume commandé | Tolérance légale |
 | :--- | :--- |
 | ≤ 2 000 ex | ± 10% |
 | ≤ 10 000 ex | ± 8% |
@@ -93,87 +86,61 @@ L'acheteur est **tenu d'accepter** les écarts de livraison suivants, qui sont i
 | ≤ 100 000 ex | ± 2,5% |
 | > 100 000 ex | ± 2% |
 
-**Marche à suivre pour le surplus :**
-1. Écoulez le surplus si possible (budget inchangé, volume supplémentaire = bonus pour l'annonceur).
-2. Si l'insertion est impossible (entrepôt plein, campagne terminée), orientez vers le recyclage.
-3. Si l'annonceur conteste : référencez l'Article 38 UNIIC et votre bon de livraison.
+Distribuez le surplus si possible (budget inchangé, volume supplémentaire = bonus pour l'annonceur). Si l'insertion est impossible, orientez vers le recyclage.
+:::
 
----
-
-## Avarie de Transport
-
-:::: details J'ai reçu quelques cartons abîmés — dois-je bloquer la campagne ?
-Non, sauf si les dommages dépassent 1% du volume total.
-
-Une **avarie mineure** (inférieure à 1% du volume livré) est considérée comme non-bloquante selon les standards logistiques du transport de marchandises. Dans ce cas :
-
-1. Prenez des photos claires des cartons abîmés.
-2. Notez des réserves sur le bon de livraison (BL).
-3. Isolez les supports endommagés.
-4. Démarrez la distribution sur le reste du stock.
-5. Envoyez les photos à `logistique@getinside.fr` pour dossier assurance si nécessaire.
+::: details J'ai reçu quelques cartons abîmés — dois-je bloquer la campagne ?
+Pas nécessairement. Une avarie inférieure à **1% du volume livré** est considérée comme non-bloquante : photographiez, notez des réserves sur le BL, isolez les supports endommagés, et démarrez la distribution sur le reste du stock.
 
 ::: warning Avarie majeure (> 1% du volume)
-Si les dommages dépassent 1% du volume ou si les supports sont non conformes au BAT validé, **suspendez l'insertion** et contactez `logistique@getinside.fr` avant toute distribution.
+Si les dommages dépassent 1% ou si les supports ne sont pas conformes au BAT, **suspendez l'insertion** et contactez [logistique@getinside.fr](mailto:logistique@getinside.fr) avant toute distribution.
 :::
-::::
 
----
-
-## Sécurité et Anti-Fraude
-
-getinside agit en tant que Tiers de Confiance pour garantir la réalité de la diffusion aux annonceurs. En complément du tracking data (QR codes, pixels, liens), plusieurs mesures de contrôle sont en place.
-
-::: details Comment getinside s'assure-t-il que je ne mens pas sur mes volumes ?
-La plateforme confronte systématiquement vos déclarations hebdomadaires avec les **performances réelles** (scans de QR codes, clics). En cas d'incohérence majeure, une alerte est levée. 
-
-Pour renforcer cette sécurité, getinside applique trois leviers :
-1. **Campagnes "Client Mystère" :** getinside ou l'annonceur peuvent effectuer des commandes anonymes pour vérifier physiquement la présence du support dans le colis.
-2. **Preuve de chargement :** getinside se réserve le droit de vous demander une photo ou vidéo de vos stocks ou de votre ligne de colisage pendant la campagne.
-3. **Pénalités de fraude :** Toute déclaration frauduleuse avérée entraîne le non-paiement de la campagne, la chute immédiate du Score Distributeur et peut donner lieu à une pénalité financière forfaitaire prévue aux CGU.
 :::
 
 ---
 
 ## Données & RGPD
 
-::: details Un annonceur demande les adresses des destinataires — puis-je les communiquer ?
+::: details Un annonceur demande les adresses de mes destinataires — puis-je les communiquer ?
 **Non.** Cette demande n'est pas autorisée, même si l'annonceur insiste.
 
-En Retail Media, les données clients sont un **actif First Party** qui appartient exclusivement au Distributeur (vous). Le transfert de fichier est juridiquement interdit sans un nouvel opt-in spécifique (RGPD).
-
-getinside opère comme **Tiers de Confiance** : nous routons le message de l'annonceur vers votre audience, mais la donnée ne quitte jamais votre environnement sécurisé.
-
-Si un annonceur vous fait cette demande, dirigez-le vers notre équipe : [support@getinside.fr](mailto:support@getinside.fr).
+Vos données clients sont un actif First Party qui vous appartient exclusivement. Le transfert de fichier est interdit sans nouvel opt-in spécifique (RGPD). getinside opère comme Tiers de Confiance : le message de l'annonceur est routé vers votre audience sans que la donnée quitte votre environnement sécurisé. Renvoyez toute demande à [support@getinside.fr](mailto:support@getinside.fr).
 :::
 
-::: details Standards RSE et Impression
-Nos partenaires imprimeurs sont certifiés **Imprim'vert**, ISO 9001/14001 et utilisent du papier FSC. L'assemblage manuel (ex : échantillons) est réalisé par des **Entreprises Adaptées (EA)** favorisant l'emploi de travailleurs handicapés.
-:::
-
-::: details Puis-je utiliser le service d'impression pour mes propres besoins ?
-Oui. En tant que centrale d'achat, nous faisons bénéficier tous nos membres de tarifs négociés — pour de l'auto-promotion ou des besoins internes.
+::: details Quels engagements RSE pour l'impression ?
+Nos partenaires imprimeurs sont certifiés Imprim'vert, ISO 9001/14001, et utilisent du papier FSC. L'assemblage manuel (ex : échantillons) est confié à des Entreprises Adaptées (EA) favorisant l'emploi de travailleurs en situation de handicap.
 :::
 
 ---
 
-## Design & Spécifications
+## Sécurité & anti-fraude
+
+::: details Comment getinside vérifie-t-il les volumes déclarés ?
+La plateforme confronte vos déclarations hebdomadaires aux performances réelles (scans QR codes, clics). En cas d'incohérence majeure, une alerte est levée. Trois leviers de contrôle sont appliqués :
+
+1. **Campagnes "Client Mystère" :** des commandes anonymes peuvent être effectuées pour vérifier physiquement la présence du support dans le colis.
+2. **Preuve de chargement :** getinside peut vous demander une photo ou vidéo de vos stocks ou de votre ligne de colisage.
+3. **Pénalités de fraude :** toute déclaration frauduleuse avérée entraîne le non-paiement, la chute immédiate du Score Distributeur, et peut donner lieu à une pénalité financière prévue aux CGU.
+:::
+
+---
+
+## Design & création
 
 ::: details Quels logiciels utiliser pour créer mes visuels ?
-Adobe Illustrator (vectoriel), Photoshop (matriciel, 300 DPI), InDesign (mise en page) sont recommandés. Tout logiciel permettant d'exporter en PDF/X CMJN (Affinity Publisher, Canva Pro, etc.) est accepté.
+Adobe Illustrator (vectoriel), Photoshop (matriciel, 300 DPI) et InDesign (mise en page) sont recommandés. Tout logiciel permettant d'exporter en PDF/X CMJN est accepté : Affinity Publisher, Canva Pro, etc.
 :::
 
----
+::: details getinside peut-il créer mes visuels ?
+Oui. Le Studio Créatif réalise vos flyers, emails ou bannières pour un forfait de **550€ HT** par campagne. Contact : [studio@getinside.fr](mailto:studio@getinside.fr)
 
-## Création & Tracking
-
-::: details Est-ce que getinside peut créer mes visuels ?
-Oui. Notre **Studio Créatif** peut réaliser vos flyers, emails ou bannières pour un forfait de **550€ HT** par campagne.
+→ [En savoir plus sur le Studio](/resources/studio)
 :::
 
-::: details Comment tracker les ventes (ROI) ?
-getinside ne place pas de pixel sur votre site. L'attribution repose sur deux leviers :
+::: details Comment mesurer le ROI de ma campagne ?
+getinside ne pose pas de pixel sur votre site. L'attribution repose sur deux leviers complémentaires :
 
-1. **Code Promo Unique :** créez un code spécifique (ex : `MERCI20`).
-2. **Liens UTM :** configurez l'URL de votre QR Code avec des paramètres UTM (ex : `utm_source=insertion-colis`) pour suivre le trafic dans Google Analytics.
+1. **Code promo unique :** créez un code spécifique à la campagne (ex : `MERCI20`).
+2. **Liens UTM :** configurez l'URL du QR code avec des paramètres UTM (ex : `utm_source=insertion-colis`) pour suivre le trafic dans Google Analytics.
 :::
