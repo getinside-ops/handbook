@@ -1,29 +1,45 @@
 ---
-title: Plateforme Publicitaire Retail Media pour Annonceurs - getinside
-description: Rejoignez +250 retailers et touchex des acheteurs avérés via insertion colis, email dédié, display email et social ads. Plateforme retail media certifiée.
+title: Espace Annonceurs — Retail Media getinside
+description: Diffusez vos campagnes auprès d'acheteurs avérés via l'insertion colis, l'email dédié, les encarts newsletter et les social ads. 250+ retailers partenaires, 40M de consommateurs.
 keywords:
-  - retail media
-  - annonceurs
-  - plateforme publicitaire
-  - insertion colis
-  - email marketing
-  - social ads
-  - sponsored mail
-  - trusted advertising
+  - annonceurs retail media
+  - insertion colis publicitaire
+  - emailing dédié
+  - campagne sponsored mail
   - getinside
-  - B2C marketing
 image: /images/gi-keyvisual.svg
 ---
 
 # Espace Annonceurs
 
-<p class="gi-page-intro">Bienvenue dans l'espace dédié aux marques. Accédez à une audience qualifiée au cœur de l'expérience colis et digitale.</p>
+getinside vous donne accès à des audiences qualifiées au moment où elles sont le plus réceptives : pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Vos campagnes bénéficient de l'endorsement du distributeur — vous n'achetez pas de l'attention, vous accédez à une relation de confiance déjà établie entre un e-commerçant et ses clients.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>100%</strong>
+    <p>Taux de lecture en insertion colis — attention maximale pendant l'unboxing.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>2,64% CTR moyen</strong>
+    <p>CTR réseau vs 0,90% sur Meta — grâce à l'endorsement du distributeur.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>10–30%</strong>
+    <p>Taux de conversion post-scan sur les meilleures campagnes du réseau.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>40M consommateurs</strong>
+    <p>Accessibles via 250+ e-commerçants partenaires, sans achat de données tiers.</p>
+  </div>
+</div>
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer une campagne →</a>
 </div>
 
-## Formats Publicitaires
+## Formats publicitaires
+
+Quatre formats couvrent l'ensemble du parcours post-achat. Choisissez selon votre objectif — notoriété, acquisition, drive-to-store — ou combinez plusieurs leviers dans un Bundle.
 
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
@@ -53,7 +69,9 @@ image: /images/gi-keyvisual.svg
   </a>
 </div>
 
-## Services & Ressources
+## Services & ressources
+
+getinside prend en charge la création, l'impression et le routage. Vous validez le BAT — la plateforme livre chez les retailers partenaires. Consultez les ressources ci-dessous pour cadrer votre budget et découvrir ce que d'autres marques ont accompli.
 
 <div class="gi-quick-links">
   <a href="printing-services" class="btn btn-outline">🖨️ Impression & Logistique</a>

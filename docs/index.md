@@ -10,8 +10,8 @@ keywords:
   - sponsored mail
 
 hero:
-  text: "Le retail media, mode d'emploi."
-  tagline: "Vous diffusez ou vous monétisez ? Ce handbook couvre les deux."
+  text: "Le retail media, sans la complexité."
+  tagline: "Annonceurs, touchez des acheteurs avérés au moment de l'achat. Retailers, monétisez vos colis et emails dès cette semaine."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -23,18 +23,18 @@ hero:
 features:
   - icon: 🎯
     title: "Annonceurs : diffusez là où vos clients achètent"
-    details: "Des e-commerçants que vos clients connaissent déjà. 100% d'ouverture en Sponsored Mail, 1-10% de CTR."
+    details: "Audiences qualifiées via 250+ e-commerçants. 100% de taux de lecture en insertion colis. CTR réseau 2,64% vs 0,90% sur Meta. Conversion 10–30%."
     link: /advertisers/
   - icon: 📦
     title: "Retailers : rentabilisez vos expéditions"
-    details: "+2 à +20% de CA additionnel, 65-70% de marge nette. Zéro intégration technique."
+    details: "+2 à +20% de CA additionnel, 65–70% de marge nette. Vous choisissez les annonceurs. Zéro intégration technique requise."
     link: /publishers/
   - icon: 📋
     title: "Un réseau, un contrat, un cadre clair"
-    details: "250+ e-commerçants, facture unique, RGPD géré par la plateforme."
+    details: "250+ e-commerçants, 300+ annonceurs, 950+ campagnes, 40M consommateurs. Facturation centralisée, RGPD géré par la plateforme."
     link: /start-here/
   - icon: 🖨️
     title: "Production incluse, de la créa au routage"
-    details: "Créa, impression Imprim'Vert, QR codes dynamiques. Vous validez le BAT, on livre."
+    details: "Créa, impression Imprim'Vert, QR codes dynamiques. Vous validez le BAT, getinside livre chez les retailers partenaires."
     link: /resources/studio
 ---

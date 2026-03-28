@@ -1,78 +1,65 @@
 ---
-title: Découvrir getinside - Plateforme Retail Media
-description: Découvrez comment getinside monétise vos colis et emails tout en finançant votre acquisition. La plateforme retail media pour annonceurs et e-commerçants.
+title: Découvrir getinside — Plateforme Retail Media
+description: getinside connecte annonceurs et e-commerçants via l'insertion colis, l'email et les réseaux sociaux. 250+ retailers, 300+ annonceurs, 40M de consommateurs accessibles.
 keywords:
   - retail media
-  - monétisation
-  - colis
-  - email marketing
-  - e-commerce
-  - plateforme publicitaire
-  - getinside
+  - monétisation colis
+  - annonceurs e-commerce
+  - plateforme getinside
+  - sponsored mail
 image: /images/gi-keyvisual.svg
 ---
 
-# Transformez vos audiences en chiffre d'affaires
+# Bienvenue sur getinside
 
-Rejoignez **+250 e-commerçants** et **+300 annonceurs** qui utilisent getinside pour monétiser directement leurs audiences. **+950 campagnes** opérées avec succès.
+getinside est une plateforme retail media qui connecte **annonceurs** et **e-commerçants** via leurs actifs communs : colis, emails transactionnels et réseaux sociaux. Le réseau compte aujourd'hui **250+ e-commerçants**, **300+ annonceurs**, **950+ campagnes** opérées et **40 millions de consommateurs** accessibles. Ce handbook couvre les deux côtés de la plateforme — choisissez votre profil ci-dessous.
 
----
+## Vous êtes annonceur ?
 
-## Les 4 Piliers de getinside
+Vous cherchez à toucher des acheteurs avérés au moment où ils sont les plus réceptifs — pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Chez getinside, vous n'achetez pas de l'audience : vous accédez à une relation de confiance déjà établie entre un distributeur et ses clients.
 
-### 🎯 Pour les Annonceurs : Performance & Confiance
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>100%</strong>
+    <p>Taux de lecture en insertion colis — contexte d'attention maximum pendant l'unboxing.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>2,64% CTR réseau</strong>
+    <p>CTR moyen du réseau vs 0,90% sur Meta — grâce à l'endorsement du distributeur.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>10–30%</strong>
+    <p>Taux de conversion post-scan, parmi les plus élevés du marché digital.</p>
+  </div>
+</div>
 
-**100% de taux d'ouverture** sur l'insertion colis grâce à l'hyper-attention du déballage.
-**1-10% de CTR** et **10-30% de conversion** post-scan — les performances les plus élevées du marché.
-
-Diversifiez vos canaux d'acquisition face à la saturation de Google et Meta. Bénéficiez de la confiance (Endorsement) de l'e-commerçant envers sa communauté.
-
-Quelques chiffres réels : **824% de ROAS** pour Blacksheep, **ROI de 16:1** pour Nocibé.
+Vos campagnes bénéficient de l'endorsement du retailer : vous n'êtes pas un intrus dans un flux publicitaire, vous êtes un partenaire recommandé à une audience qui fait confiance à l'enseigne qui vous distribue. Le matching contextuel — votre offre associée à l'univers produit du retailer — amplifie encore la pertinence.
 
 [Accéder à l'espace Annonceurs →](/advertisers/)
 
----
+## Vous êtes e-commerçant ?
 
-### 📦 Pour les Retailers : Revenus & Contrôle
+Vos colis partent chaque semaine. Vos emails transactionnels s'ouvrent régulièrement. Ces actifs ont une valeur publicitaire réelle — getinside vous permet de la capturer immédiatement, sans intégration technique lourde et avec un contrôle total sur les marques que vous acceptez.
 
-**2 à 20% de chiffre d'affaires additionnel** composé quasi-intégralement de **marge nette 65-70%**.
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>+2 à +20%</strong>
+    <p>De chiffre d'affaires additionnel généré par vos expéditions et emails existants.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>65–70%</strong>
+    <p>De marge nette sur vos revenus retail media — les actifs logistiques sont déjà en place.</p>
+  </div>
+</div>
 
-Générez des revenus sans effort tout en gardant un contrôle absolu sur les marques que vous acceptez de diffuser à vos clients. Aucune intégration technique lourde.
+Les revenus sont disponibles immédiatement sur votre Wallet. Vous pouvez les réinvestir pour financer vos propres campagnes d'acquisition chez des partenaires complémentaires — à 0% de frais de plateforme sur ce réinvestissement. Vos frais d'expédition financent directement votre propre croissance.
 
 [Accéder à l'espace Retailers →](/publishers/)
 
----
+## Comment ça fonctionne ?
 
-### 🔄 Le Modèle Smart Funding : Cercle Vertueux
+La plateforme repose sur le **matching contextuel** : chaque offre annonceur est associée à un univers produit cohérent avec l'audience du retailer. Le bon message, au bon moment, chez la bonne enseigne.
 
-Transformez vos **centres de coûts** (colis, emails) en **centres de profits**, et réinvestissez les gains immédiatement pour financer votre propre acquisition client **sans sortir de trésorerie**.
+Un seul contrat, une facturation centralisée, une gestion RGPD intégrée. getinside prend en charge l'impression, le routage, le tracking et le reporting — de bout en bout.
 
-**3 étapes :**
-1. **Gagnez** : Monétisez vos colis et emails
-2. **Financez** : Utilisez ce solde (Wallet) immédiatement
-3. **Croissez** : Achetez du trafic qualifié pour votre propre site
-
----
-
-### 🛡️ Le Tiers de Confiance : Un Seul Contrat, Tout Sécurisé
-
-Un seul contrat, une seule facturation, et des paiements garantis et sécurisés.
-
-getinside centralise l'écosystème complet : intégration tech, impression, routage, tracking, RGPD. **Fini la gestion complexe.**
-
----
-
-::: info 🏦 getinside accélère — Levée de fonds 3,2M€ (Février 2026)
-**La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover** et **Founders Future** ont rejoint getinside pour accélérer le développement de la plateforme et rendre le Retail Media accessible à tous les e-commerçants. Déjà présent en France, Belgique et Espagne.
-:::
-
----
-
-::: tip Prêt à démarrer ?
-
-- **Annonceur** : Touchez vos futurs clients via des audiences hautement qualifiées
-- **Retailer** : Transformez vos colis en chiffre d'affaires additionnel
-
-[Discuter de mon projet →](mailto:studio@getinside.com)
-
-:::
+[Comprendre le modèle →](/start-here/why-it-works)

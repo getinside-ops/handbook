@@ -1,164 +1,58 @@
 ---
-title: Comment fonctionne le Retail Media - getinside
-description: Comprenez l'écosystème retail media de getinside. Du transfert de confiance au matching contextuel, découvrez les 3 leviers de monétisation.
+title: Pourquoi ça fonctionne — Le modèle getinside
+description: Le retail media getinside repose sur trois mécanismes complémentaires : le transfert de confiance, le matching contextuel et un modèle économique circulaire pour les e-commerçants.
 keywords:
   - retail media
+  - endorsement publicitaire
   - matching contextuel
-  - endorsed advertising
-  - monétisation colis
-  - plateforme d'affiliation
-  - trust transfer
-  - getinside
-  - e-commerce growth
+  - monétisation e-commerce
+  - cercle vertueux
 image: /images/gi-keyvisual.svg
 ---
 
-# Comment ça fonctionne ?
+# Pourquoi ça fonctionne
 
- ## L'Écosystème Retail Media de getinside
+Les formats getinside surperforment parce qu'ils combinent trois mécanismes que la publicité digitale classique ne réunit jamais : l'attention garantie, la confiance du distributeur et la pertinence contextuelle. Chacun de ces mécanismes est mesurable. Ensemble, ils produisent des résultats hors normes.
 
-**getinside** connecte retailers et annonceurs via leurs actifs communs : colis, emails, réseaux sociaux. La plateforme utilise le **matching contextuel** — le placement intelligent d'offres complémentaires auprès de consommateurs au moment exact où ils sont les plus réceptifs — pour créer des campagnes endorsed (recommandées par le retailer) avec des **taux de conversion jusqu'à 5x supérieurs** au display classique.
+## Le transfert de confiance
 
-| Acteur | Action | Flux |
-|--------|--------|------|
-| 📦 **E-commerçant** | Envoie ses colis et emails à ses clients | Inventaire disponible |
-| ⚡ **Plateforme** | Connecte l'inventaire aux marques partenaires | Matching contextuel |
-| 📢 **Annonceur** | Achète cet espace pour diffuser son offre | Campagnes distribuées |
-| 💰 **Réinvestissement** | Les revenus financent votre propre acquisition | Croissance auto-alimentée |
+Quand un e-commerçant distribue votre offre dans ses colis ou dans son email post-achat, il vous prête sa relation client. Le consommateur a déjà acheté chez ce retailer — il lui fait confiance. Cette confiance se transfère à votre marque.
 
-::: info Le Cycle Vertueux
+C'est ce qu'on appelle l'**endorsement** : vous n'êtes pas un intrus dans un flux publicitaire, vous êtes un partenaire recommandé par une enseigne que l'acheteur connaît et respecte. L'effet est directement mesurable : le CTR réseau moyen atteint **2,64%**, contre 0,90% sur Meta. Ce n'est pas une différence marginale — c'est un facteur multiplicateur sur votre ROI.
 
-L'e-commerçant monétise ses colis et emails, reçoit des revenus immédiatement accessibles via son Wallet, puis les réinvestit pour acquérir sa propre audience chez des partenaires complémentaires. Les coûts d'expédition deviennent une source de revenus récurrents.
+## Le matching contextuel
 
-:::
-
-## Le Transfert de Confiance (Endorsement)
-
-Le point commun entre un colis, une newsletter et un post social d'une marque :
-
-- **La Relation Client :** Le consommateur a déjà acheté ou s'est abonné volontairement.
-- **La Crédibilité :** Il fait confiance au retailer (le e-commerçant).
-- **La Attention :** Il attend ce contenu (suivi de commande, nouveautés).
-
-::: tip L'Effet de Halo
-
-En vous insérant dans cet écosystème, votre marque bénéficie instantanément de ce capital confiance. Vous n'êtes plus un intrus, vous êtes un **partenaire recommandé**.
-
-Le format **Emailing Dédié** pousse cet effet au maximum : le retailer rédige lui-même le message à la 1ère personne ("Chers clients, voici notre coup de cœur..."), transformant la marque partenaire en extension naturelle de ses recommandations.
-
-:::
-
-## Pour l'E-commerçant : La logique économique
-
-::: info Le cercle vertueux du Réinvestissement
-
-getinside n'est pas seulement une régie, c'est un accélérateur de croissance. Ces revenus contribuent directement à votre **EBITDA**, avec une **marge nette de 65 à 70%** qui reflète l'efficacité de vos actifs logistiques existants.
+La plateforme ne diffuse pas au hasard. Chaque campagne est associée à un univers produit cohérent avec l'audience du retailer. Le bon message arrive à la bonne personne, dans le bon contexte.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>1. Monétisation</strong>
-    <p>Vos colis et emails génèrent du cash grâce aux annonceurs tiers.</p>
+    <strong>Complémentarité produit</strong>
+    <p>Une marque de nutrition sportive chez un retailer d'équipement running. Une box vin chez un épicier fine.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2. Transfert Instantané</strong>
-    <p>Vos revenus sont disponibles sur votre Wallet. Pas besoin d'attendre un virement bancaire.</p>
+    <strong>Moment d'attention maximum</strong>
+    <p>L'insertion colis est lue pendant l'unboxing — taux de lecture de 100%, sans compétition pour l'attention.</p>
   </div>
   <div class="gi-value-card">
-    <strong>3. Acquisition</strong>
-    <p>Vous réinvestissez ce budget pour diffuser VOS campagnes chez des partenaires complémentaires.</p>
+    <strong>Audience qualifiée</strong>
+    <p>40 millions de consommateurs accessibles via 250+ e-commerçants — sans achat de données tiers.</p>
   </div>
 </div>
 
-*Résultat : Vous financez votre acquisition client... grâce à vos propres colis !*
+Le résultat direct : **10 à 30% de conversion post-scan**, des niveaux que le display standard ne peut pas atteindre. Les campagnes getinside touchent des acheteurs actifs, dans un moment d'ouverture émotionnelle — l'unboxing, la lecture d'un email attendu.
+
+## Le modèle économique circulaire pour les retailers
+
+Pour les e-commerçants, getinside transforme des centres de coûts (expéditions, emails) en sources de revenus récurrents. Ces revenus sont disponibles immédiatement sur le Wallet de la plateforme, sans délai de facturation.
+
+Ce Wallet peut être réinvesti directement pour acheter des campagnes d'acquisition chez des partenaires complémentaires — à 0% de frais de plateforme sur le réinvestissement. Vos frais d'expédition financent votre propre croissance.
+
+La marge nette sur ces revenus atteint **65 à 70%**, parce que les actifs — logistique, base email — existent déjà. Il n'y a pas d'infrastructure supplémentaire à construire. Chaque colis expédié génère un revenu publicitaire en plus de son rôle logistique.
+
+::: tip Score Distributeur
+
+Votre visibilité dans le moteur de recherche de la plateforme dépend de votre **Score Distributeur** (1 à 5 étoiles). Il mesure 7 critères : tarification, volume hebdo, attractivité marque, fiabilité inventaire, réactivité audience, historique campagnes, communication. Un score élevé attire les annonceurs premium et augmente vos revenus.
 
 :::
 
-## 3 Leviers, 1 Écosystème
-
-getinside couvre vos points de contact physiques et digitaux.
-
-Le réseau getinside couvre **40 millions de consommateurs** actifs accessibles via les +250 e-commerçants partenaires — sans achat de données tiers.
-
-| Levier | Force Clé | Rôle Stratégique |
-|--------|-----------|-----------------|
-| 📦 **Insertion Colis** | **100% d'attention** — hyper-concentration du consommateur pendant l'unboxing | Ancrage mémoriel, prise en main physique, conversion maximale |
-| 📧 **Emailing Dédié** | **Volume & Réactivité** | Trafic immédiat, offres "Flash", ciblage comportemental |
-| 📱 **Social Ads** | **Viralité & Data** | Notoriété, preuve sociale, recrutement jeune |
-
-## L'Expertise getinside : Votre Accélérateur
-
-Opérer une régie retail media en solo est chronophage.
-
-<div class="gi-table-full">
-
-| 🚫 Sans getinside | ✅ Avec getinside |
-|---|---|
-| Négocier avec 50 sites un par un. | Un interlocuteur unique. |
-| Gérer 50 factures et contrats. | Une facture unique centralisée. |
-| Risque de qualité d'impression. | Processus logistique et RSE certifié. |
-| Aucune standardisation des formats. | Tracking uniformisé. |
-| Reporting éparpillé. | Conseil stratégique inclus. |
-
-</div>
-
-## La Qualité comme Moteur de Croissance
-
-::: warning ⭐ Le Score Distributeur : Votre clé d'accès
-
-Chaque partenaire e-commerçant reçoit un **Score Distributeur** (1-5 étoiles) basé sur **7 critères clés** : tarification compétitive, volume de distribution hebdomadaire, attractivité de la marque, fiabilité de l'inventaire, réactivité de l'audience, historique de campagnes et communication/reporting.
-
-Ce score détermine votre **visibilité dans le moteur de recherche de la plateforme** et votre accès prioritaire aux campagnes premium. Une excellente exécution renforce ce score, crée une confiance durable avec les annonceurs, et ouvre les portes à des opportunités de revenus croissants.
-
-:::
-
-## Le Matching Contextuel : La pertinence avant tout
-
-La puissance de getinside réside dans la **cohérence contextuelle**. Nous proposons des **offres complémentaires** au moment précis où le consommateur en a besoin.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <span>🍷 <strong>L'épicurien</strong> (Newsletter)</span>
-    <p>Déclencheur : Achat de fromage affiné.</p>
-    <p>➔ Offre poussée : Une box de vins sélectionnés.</p>
-  </div>
-  <div class="gi-value-card">
-    <span>🏃 <strong>Le Sportif</strong> (Social Ads)</span>
-    <p>Déclencheur : Follower d'une marque d'équipement running.</p>
-    <p>➔ Offre poussée : Programme de nutrition & récupération.</p>
-  </div>
-  <div class="gi-value-card">
-    <span>👶 <strong>Les Jeunes Parents</strong> (Insertion Colis)</span>
-    <p>Déclencheur : Commande de jouets d'éveil.</p>
-    <p>➔ Offre poussée : Vêtements bio pour enfants.</p>
-  </div>
-  <div class="gi-value-card">
-    <span>🪴 <strong>Home Sweet Home</strong> (Insertion Colis)</span>
-    <p>Déclencheur : Achat de linge de lit en lin.</p>
-    <p>➔ Offre poussée : Abonnement fleurs fraîches.</p>
-  </div>
-</div>
-
-## L'IA au Service du Matching
-
-**getinside** utilise l'IA pour automatiser le matching entre annonceurs et audiences.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🤖 Smart Matching</strong>
-    <p>L'algorithme connecte les annonceurs aux audiences les plus pertinentes en croisant univers produit, panier moyen, profil acheteur et performances historiques.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📈 Prédiction CPA</strong>
-    <p>Avant le lancement, la plateforme prédit le Coût Par Acquisition attendu — l'annonceur valide la rentabilité de sa campagne avant d'engager le moindre budget.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>⚖️ Tarification Optimale</strong>
-    <p>L'IA trouve l'équilibre entre les attentes de revenus du distributeur et les objectifs ROAS de l'annonceur — pour que chaque accord soit gagnant-gagnant.</p>
-  </div>
-</div>
-
-::: tip
-
-[Discuter de mon projet →](mailto:studio@getinside.com)
-
-:::
+[Voir l'espace Annonceurs →](/advertisers/) · [Voir l'espace Retailers →](/publishers/)

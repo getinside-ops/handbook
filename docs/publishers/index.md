@@ -1,30 +1,41 @@
 ---
-title: Monétisation E-commerce - Plateforme Retail Media pour Retailers - getinside
-description: Transformez vos colis et emails en revenus avec getinside. Monétisez votre audience auprès de +300 annonceurs. Marges 65-70%. Plateforme retail media.
+title: Espace Retailers — Monétisation E-commerce getinside
+description: Transformez vos colis et emails en revenus récurrents. 65–70% de marge nette, contrôle total sur les annonceurs acceptés, zéro intégration technique.
 keywords:
-  - retail media
   - monétisation e-commerce
-  - retailers
-  - marketplace
-  - insertion colis
-  - email monetization
-  - audience data
-  - getinside
-  - e-commerce growth
-  - advertiser network
-  - sponsored mail
+  - retailers retail media
+  - insertion colis revenus
+  - wallet getinside
+  - score distributeur
 image: /images/gi-keyvisual.svg
 ---
 
 # Espace Retailers & E-commerçants
 
-<p class="gi-page-intro">Bienvenue sur getinside. Transformez votre audience en chiffre d'affaires additionnel.</p>
+Vos colis partent chaque semaine. Vos emails transactionnels s'ouvrent régulièrement. Ces actifs ont une valeur publicitaire que getinside vous permet de monétiser immédiatement — sans intégration technique lourde, avec un contrôle total sur les marques que vous acceptez. Vous décidez quels annonceurs accèdent à votre audience. La plateforme gère le reste.
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>+2 à +20%</strong>
+    <p>De chiffre d'affaires additionnel généré par vos expéditions et emails existants.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>65–70%</strong>
+    <p>De marge nette sur vos revenus retail media — les actifs logistiques sont déjà en place.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>300+ annonceurs</strong>
+    <p>Marques disponibles dans le réseau. Vous choisissez lesquelles accèdent à votre audience.</p>
+  </div>
+</div>
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Accéder à mon Espace →</a>
 </div>
 
-## Configuration & Démarrage
+## Configuration & démarrage
+
+Votre onboarding suit trois phases : activation des formats, trade marketing avec vos annonceurs partenaires, puis accélération en autonomie. Le guide de démarrage couvre chaque étape — de la création de votre fiche distribueur à la gestion des revenus en temps réel.
 
 <div class="gi-nav-list">
   <a href="onboarding-process" class="gi-nav-card">
@@ -53,7 +64,9 @@ image: /images/gi-keyvisual.svg
   </a>
 </div>
 
-## Formats & Opérations
+## Formats & opérations
+
+Cinq formats couvrent vos actifs existants : colis, emails transactionnels, newsletters et réseaux sociaux. Chaque format a ses propres règles opérationnelles — consultez les guides dédiés pour les détails de mise en œuvre.
 
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
@@ -83,7 +96,7 @@ image: /images/gi-keyvisual.svg
   </a>
 </div>
 
-## Gestion de Réseau & Forecast
+## Gestion de réseau & forecast
 
 <div class="gi-nav-list">
   <a href="onboarding-process#phase-3-acceleration-autonomie" class="gi-nav-card">
@@ -112,7 +125,7 @@ image: /images/gi-keyvisual.svg
   </a>
 </div>
 
-## Finance & Admin
+## Finance & admin
 
 <div class="gi-format-grid">
   <a href="pricing" class="gi-format-card">
