@@ -286,6 +286,7 @@ const config: any = defineConfig({
             items: [
               { text: 'Vue d\'ensemble', link: '/faq/' },
               { text: 'Problèmes Distributeurs', link: '/faq/troubleshooting-distributors' },
+              { text: 'Problèmes Annonceurs', link: '/faq/troubleshooting-advertisers' },
               { text: 'Audiences & Compte', link: '/faq/account-audiences' },
               { text: 'Facturation', link: '/faq/billing' },
               { text: 'Gestion de Campagnes', link: '/faq/campaign-management' },
@@ -417,6 +418,7 @@ const config: any = defineConfig({
             items: [
               { text: 'Overview', link: '/en/faq/' },
               { text: 'Retailer Issues', link: '/en/faq/troubleshooting-distributors' },
+              { text: 'Advertiser Issues', link: '/en/faq/troubleshooting-advertisers' },
               { text: 'Audiences & Account', link: '/en/faq/account-audiences' },
               { text: 'Billing', link: '/en/faq/billing' },
               { text: 'Campaign Management', link: '/en/faq/campaign-management' },
