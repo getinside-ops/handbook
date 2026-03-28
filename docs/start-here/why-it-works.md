@@ -1,6 +1,6 @@
 ---
 title: Pourquoi ça fonctionne — Le modèle getinside
-description: Le retail media getinside repose sur trois mécanismes complémentaires : le transfert de confiance, le matching contextuel et un modèle économique circulaire pour les e-commerçants.
+description: "Le retail media getinside repose sur trois mécanismes complémentaires : le transfert de confiance, le matching contextuel et un modèle économique circulaire pour les e-commerçants."
 keywords:
   - retail media
   - endorsement publicitaire

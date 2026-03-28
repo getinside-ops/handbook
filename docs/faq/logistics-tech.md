@@ -1,6 +1,6 @@
 ---
 title: Logistique & Technique — FAQ
-description: Réponses aux questions fréquentes sur les aspects techniques et logistiques des campagnes getinside : QR codes, social ads, impression, RGPD et anti-fraude.
+description: "Réponses aux questions fréquentes sur les aspects techniques et logistiques des campagnes getinside : QR codes, social ads, impression, RGPD et anti-fraude."
 keywords:
   - QR code getinside
   - logistique insertion colis

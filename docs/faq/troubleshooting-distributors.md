@@ -1,6 +1,6 @@
 ---
 title: Résolution de problèmes — Distributeurs
-description: Solutions aux problèmes courants rencontrés par les distributeurs getinside : Wallet, paiements, campagnes, erreurs de saisie et gestion de compte.
+description: "Solutions aux problèmes courants rencontrés par les distributeurs getinside : Wallet, paiements, campagnes, erreurs de saisie et gestion de compte."
 keywords:
   - dépannage distributeur
   - wallet getinside

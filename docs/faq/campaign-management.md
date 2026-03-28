@@ -1,6 +1,6 @@
 ---
 title: Gestion des Campagnes — FAQ
-description: Réponses aux questions fréquentes sur la gestion des campagnes : délais de réponse, annulation, refus de visuels, suivi des performances et données clients.
+description: "Réponses aux questions fréquentes sur la gestion des campagnes : délais de réponse, annulation, refus de visuels, suivi des performances et données clients."
 keywords:
   - gestion campagne getinside
   - annulation campagne

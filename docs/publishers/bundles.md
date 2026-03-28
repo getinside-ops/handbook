@@ -42,7 +42,7 @@ Un Bundle consiste à packager plusieurs de vos inventaires publicitaires — in
 <div class="gi-step">
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
-    <h3>Transmettez les leads et clôturez</html>
+    <h3>Transmettez les leads et clôturez</h3>
     <p>À la fin de l'opération, exportez la liste des participants ayant coché l'opt-in partenaire et transmettez-la à l'annonceur via getinside. L'annonceur envoie les lots aux gagnants — pas vous.</p>
   </div>
 </div>
