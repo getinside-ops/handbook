@@ -1,43 +1,26 @@
 ---
 title: Contact exclusion list
-description: How to send a contact exclusion list to a getinside partner retailer — GDPR opt-outs or existing customers to exclude from an acquisition campaign.
+description: How to send a contact exclusion list to a getinside partner retailer — GDPR opt-out contacts or existing customers to exclude from an acquisition campaign.
 keywords:
   - exclusion list
   - suppression list
-  - opt-out
-  - existing customers
-  - campaign exclusion
-  - GDPR
-  - hashed email SHA-256
-  - SFTP
-  - FileZilla
+  - GDPR opt-out
+  - SHA-256 hashed email
+  - SFTP exclusion
 ---
 
 # Contact exclusion list
 
-Before sending, you can pass an exclusion list to the retailer to remove certain contacts from the mailing.
+Before sending, you can pass an exclusion list to the retailer to remove certain contacts from the broadcast.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Opt-out contacts</strong>
-    <p>Contacts who have unsubscribed from your brand. The retailer or you request their exclusion to stay GDPR-compliant.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Existing customers</strong>
-    <p>You want to exclude current buyers from an acquisition campaign — no point targeting someone who already knows you.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Both</strong>
-    <p>Opt-outs + existing customers: merge both lists into a single file before sending it over.</p>
-  </div>
-</div>
+| Use case | Description |
+| :--- | :--- |
+| **Opt-out contacts** | Contacts who have unsubscribed from your communications. Their exclusion is mandatory to remain GDPR-compliant. |
+| **Existing customers** | You want to target new prospects only and exclude your current customers. |
+| **Both** | Merge both lists into a single file before sending it. |
 
----
-
-## Never share addresses via messaging apps
-
-:::danger Personal data — secure channel required
-Exclusion lists contain **personal data** under GDPR. Do not send them by email, Slack, WhatsApp, or WeTransfer.
+:::danger Personal data — secure channel mandatory
+Exclusion lists contain **personal data** under GDPR. Do not send them by email, getinside messaging, or WeTransfer.
 
 Any file containing addresses — even hashed — must go through a secure protocol.
 :::
@@ -46,16 +29,7 @@ Any file containing addresses — even hashed — must go through a secure proto
 
 ## Sending the file
 
-The recommended method is SFTP transfer with **FileZilla**.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
-    <strong>FileZilla</strong>
-    <p>Free, open source, available on Windows, macOS, and Linux. Drop your file using a graphical interface — no command line, just drag and drop.</p>
-    <p><a href="https://filezilla-project.org/" target="_blank">Download FileZilla →</a></p>
-  </div>
-</div>
+The recommended method is SFTP transfer with **FileZilla** ([Download FileZilla](https://filezilla-project.org/){target="_blank"} — free, Windows / macOS / Linux).
 
 The retailer will provide the SFTP connection details:
 
@@ -127,4 +101,4 @@ For any other ESP or DMP, share your endpoint documentation and the necessary ac
 
 ## Next step
 
-File delivered and confirmed by the retailer? Move on to [Validation & Delivery](./3-validation-diffusion).
+File delivered and confirmed by the retailer? Move on to [Validation & Broadcast](./3-validation-diffusion).

@@ -1,93 +1,100 @@
 ---
 title: Quick Start — Advertisers
+description: Launch your first getinside campaign in 4 steps and under 15 minutes.
+keywords:
+  - advertiser onboarding
+  - quick start
+  - first campaign
+  - getinside advertiser
 ---
 
-# Quick Start — Advertisers
+You want to launch your first campaign on getinside. In 4 steps and 15 minutes, your campaign is live.
 
-You want to launch your first campaign on getinside. In 4 steps (15 minutes), you have a campaign running.
+## Step 1 — Create your account
 
-::: tip Who is this guide for?
-**This guide is for you if:** you have a getinside account (or are creating one) and want to launch your first campaign quickly.
-:::
+Access is **reserved for professionals** (company registration number required).
 
----
-
-## Step 1 — Create your account (3 min)
-
-Access is **reserved for professionals** (company ID required).
-
-1. Go to [app.getinside.media](https://app.getinside.media/)
-2. Click on **"Create an account"**
-3. Enter your information: name, email, company ID, billing details
-4. Validate your email → your account is activated
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Create your account</h3>
+    <p>Go to <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, click <strong>"Create an account"</strong>, and fill in your details: name, email, company registration number, billing information. Validate your email — your account is activated.</p>
+  </div>
+</div>
 
 ::: info
 If you were invited by your account manager, open the invitation email and click the activation link.
 :::
 
----
+## Step 2 — Choose your format
 
-## Step 2 — Choose your format (2 min)
+Each format targets a different objective:
 
-Each format targets a different goal:
+| Format | Ideal objective | Typical timeline | Studio fee |
+|--------|----------------|-----------------|------------|
+| **Parcel Insert** | Physical acquisition, awareness, offline→online traffic | 2–4 weeks | 550€ excl. VAT |
+| **Dedicated Email** | Email acquisition, direct traffic | 1–2 weeks | 550€ excl. VAT |
+| **Display Email** | Visibility, remarketing | 1 week | 550€ excl. VAT |
+| **Social Ads** | Engagement, social media visibility | 1–2 weeks | 550€ excl. VAT |
+| **Bundle** | Qualified lead collection, integrated game | 2–3 weeks | 550€ excl. VAT* |
 
-| Format | Ideal Goal | Typical Timeline | Studio Fee |
-|--------|---------------|--------------|------------|
-| **📦 Parcel Insert** | Physical acquisition, awareness, offline→online traffic | 2-4 weeks | 550€ HT |
-| **📧 Dedicated Emailing** | Email acquisition, direct traffic | 1-2 weeks | 550€ HT |
-| **📩 Display Email** | Visibility, remarketing | 1 week | 550€ HT |
-| **📱 Social Ads** | Engagement, social media visibility | 1-2 weeks | 550€ HT |
-| **🎁 Bundle** | Qualified lead collection, integrated game | 2-3 weeks | 550€ HT* |
+<p class="gi-footnote">* The Studio does not create Landing Pages for contests (retailer's responsibility).</p>
 
-<p class="gi-footnote">* The Studio does not create Landing Pages for contests (distributor's responsibility).</p>
-
-::: tip ⚡ Guaranteed Responsiveness (SLA)
-Thanks to the **48-hour Rule**, distributors commit to responding to your campaign proposals within 2 business days. This ensures an ultra-fast time-to-market.
+::: tip Guaranteed responsiveness (SLA)
+Thanks to the **48-hour Rule**, retailers commit to responding to your proposals within 2 business days.
 :::
 
-::: tip
-Not sure? Your getinside account manager advises you based on your goals during a 15-minute call.
-:::
+## Step 3 — Submit your brief
 
----
+**Space:** My Campaigns → Create a campaign
 
-## Step 3 — Submit your brief (5 min)
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Configure your campaign</h3>
+    <p>During configuration, an interactive side panel displays real-time reach estimates (contact volume, CTR, estimated CPC) and a budget breakdown (Audience, Studio, Logistics).</p>
+  </div>
+</div>
 
-**Workspace:** My Campaigns → Create a campaign
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Check the Trust Index</h3>
+    <p>A score from 1 to 5 based on your shared history with the retailer — 1 = unlikely, 4 = guaranteed, 5 = maximum confidence. Available on Package and Emailing offers (not Custom).</p>
+  </div>
+</div>
 
-### 🚀 Real-time Performance Simulator
-While you configure your campaign, an interactive side panel displays:
-- **Reach Estimations:** Volume of contacts, Scans/Clicks, Estimated CTR and CPC.
-- **Budget Simulator:** Real-time breakdown of costs (Audience, Studio, Logistics).
-- **Trust Index:** Score from 1 to 5 based on your shared history with the distributor — 1 = unlikely, 2 = possible, 3 = probable, 4 = guaranteed, 5 = maximum confidence. Available for Package and Emailing offers (not Custom).
+## Step 4 — Select your retailers and validate
 
-### 🎯 Advanced Options
-- **Campaign Groups:** Link multiple campaigns to a global budget for consolidated tracking.
-- **Multi-audiences:** Target multiple affinity audiences simultaneously via pre-configured "Bundles".
-- **Custom Campaigns:** Flexible pricing (Flat fee or CPM) and a la carte options (e.g., creation of a dedicated landing page).
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Choose your retailers</h3>
+    <p>The platform suggests retailers whose audience matches your criteria. Review their profile: sector, average basket, weekly volume. By adjusting your CPM, a visual bar shows your acceptance likelihood in real time.</p>
+  </div>
+</div>
 
----
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Wait for their response</h3>
+    <p>Retailers receive your proposal and can accept, decline, or counter-propose.</p>
+  </div>
+</div>
 
-## Step 4 — Select your distributors and validate (5 min)
+<div class="gi-step">
+  <div class="gi-step-num done">3</div>
+  <div class="gi-step-body">
+    <h3>Validate within 48 business hours</h3>
+    <p>Once agreement is reached, validate the campaign — a Purchase Order is generated automatically. Then validate the <strong>Proof (BAT)</strong> for production. Validation within 48 hours is contractual: after this deadline, the campaign may be cancelled.</p>
+  </div>
+</div>
 
-1. The platform offers you a **selection of distributors** whose audience matches your criteria.
-2. **Acceptance Probability Bar:** By adjusting your CPM, a visual bar indicates in real-time your chances of acceptance by the distributor (from "Unlikely" to "Guaranteed").
-3. View profiles: sector, average basket, weekly volume.
-4. Distributors receive your proposal and can **accept, refuse or counter-propose**.
-5. Once agreement is reached, **validate the campaign in less than 48 business hours** → a Purchase Order is automatically generated.
-6. Validate the **Proof (BAT)** — final visual and technical check before going into production.
+## Your campaign is live
 
----
-
-## Your campaign is launched ✅
-
-Track performance in real-time in **My Campaigns → Statistics**.
-
-**Important reminder:** Validation within 48h is contractual — after this period, the campaign may be canceled and fees may apply.
-
----
+Track performance in real time in **My Campaigns → Statistics**.
 
 **Next steps:**
-- [Parcel Insert Guide](/en/advertisers/sponsored-mail/) — technical and creative specs
-- [Pricing & Offers](/en/advertisers/pricing) — rates and service levels
-- [Creative Studio](/en/resources/studio) — delegate the creation of your materials
+- [Parcel Insert Guide](/advertisers/sponsored-mail/) — technical specs and creative
+- [Pricing & Plans](/advertisers/pricing) — rates and service levels
+- [Creative Studio](/resources/studio) — delegate your materials creation
