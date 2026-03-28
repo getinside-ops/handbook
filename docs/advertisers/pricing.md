@@ -26,10 +26,14 @@ getinside est une plateforme en libre-service. Accès gratuit, modèle transpare
 ## Frais de plateforme
 
 ::: tip Ce qui est inclus dans les 12%
-- Pas d'abonnement — l'accès est gratuit.
+- Pas d'abonnement côté annonceur — l'accès est gratuit.
 - Pas de budget minimum — testez avec de petits montants.
 - Accès à +250 audiences exclusives, +300 annonceurs actifs, 40 millions de consommateurs.
 - Facture unique et centralisée quel que soit le nombre d'audiences achetées.
+:::
+
+::: info Vous êtes aussi e-commerçant ?
+Si vous monétisez vos colis ou emailings via getinside, votre abonnement distributeur (Starter, Plateforme, Managed) est distinct de vos achats campagnes. → [Voir les offres distributeurs](/publishers/pricing)
 :::
 
 ::: info Quand est générée la facture ?
