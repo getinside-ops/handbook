@@ -92,24 +92,6 @@ Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part*
   </div>
 </div>
 
-::: info
-**💡 Pourquoi cette politique ?**
-
-1. **Réduction de l'Admin :** Limiter le volume de petits virements nous permet de maintenir des coûts de plateforme bas.
-2. **Sécurité (Buffer) :** Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.
-:::
-
-## ⚠️ Règle d'expiration des fonds (Contractuelle)
-
-::: danger Fonds expirés après 12 mois d'inactivité
-Conformément aux CGUC, si vous ne vous connectez pas à la plateforme **ET** ne retirez pas vos revenus pendant **12 mois consécutifs**, les fonds disponibles expirent et sont définitivement acquis à getinside.
-
-**Comment éviter l'expiration :**
-1. **Connexion :** Connectez-vous au moins une fois par trimestre à votre espace.
-2. **Action :** Un retrait partiel ou un réinvestissement (Exchange) suffit à réinitialiser le compteur des 12 mois.
-3. **Notifications :** Activez les alertes de solde dans vos paramètres de compte.
-:::
-
 ## Comment effectuer un retrait ?
 
 1. Connectez-vous sur **[app.getinside.media](https://app.getinside.media/)**
@@ -141,10 +123,3 @@ Votre solde ne correspond pas à vos attentes ? Un retrait tarde ?
 
 → Consultez le guide [Problèmes Wallet & Paiements](/faq/troubleshooting-distributors) pour les cas fréquents et leur solution.
 
----
-
-::: tip Maximisez vos revenus
-L'**Emailing Dédié** est le format le plus rémunérateur pour les distributeurs (CPM maximisé). Combinez-le avec l'Insertion Colis pour diversifier vos sources de revenus. Pensez aussi au [Programme d'Affiliation](/publishers/affiliation) : parrainez d'autres e-commerçants ou marques et touchez **20% de commission** sur leurs frais de plateforme — crédités directement sur votre Wallet.
-:::
-
-**Prochaine étape :** Boostez vos revenus avec le [Score Distributeur](/publishers/score-distributor) — plus votre score est élevé, plus vous recevez de campagnes.

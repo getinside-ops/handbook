@@ -92,24 +92,6 @@ The Wallet balance is only updated **after a manual action on your part** depend
   </div>
 </div>
 
-::: info
-**💡 Why this policy?**
-
-1. **Admin Reduction:** Limiting the volume of small transfers allows us to maintain low platform costs.
-2. **Security (Buffer):** This cash flow delay secures funds in case of advertiser defaults, guaranteeing you get paid even if the advertiser is late.
-:::
-
-## ⚠️ Fund expiration rule (Contractual)
-
-::: danger Funds expire after 12 months of inactivity
-According to the T&Cs, if you do not log in to the platform **AND** do not withdraw your revenue for **12 consecutive months**, the available funds expire and are permanently acquired by getinside.
-
-**How to avoid expiration:**
-1. **Login:** Log in to your space at least once per quarter.
-2. **Action:** A partial withdrawal or a reinvestment (Exchange) is enough to reset the 12-month timer.
-3. **Notifications:** Enable balance alerts in your account settings.
-:::
-
 ## How to make a withdrawal?
 
 1. Log in at **[app.getinside.media](https://app.getinside.media/)**
@@ -141,10 +123,3 @@ Your balance does not match your expectations? A withdrawal is delayed?
 
 → Consult the [Wallet & Payments Troubleshooting](/en/faq/troubleshooting-distributors) guide for common cases and their solutions.
 
----
-
-::: tip Maximize your revenue
-**Dedicated Emailing** is the most lucrative format for distributors (maximized CPM). Combine it with Parcel Inserts to diversify your revenue streams. Also consider the [Affiliate Program](/en/publishers/affiliation): refer other e-retailers or brands and earn **20% commission** on their platform fees — credited directly to your Wallet.
-:::
-
-**Next step:** Boost your revenue with the [Distributor Score](/en/publishers/score-distributor) — the higher your score, the more campaigns you receive.
