@@ -181,6 +181,7 @@ const config: any = defineConfig({
             items: [
               { text: 'Vue d\'ensemble', link: '/advertisers/' },
               { text: 'Démarrage Rapide', link: '/advertisers/onboarding-quick-start' },
+              { text: 'Comparer les formats', link: '/advertisers/compare-formats' },
               {
                 text: 'Insertion Colis',
                 collapsed: true,
@@ -316,6 +317,7 @@ const config: any = defineConfig({
             items: [
               { text: 'Overview', link: '/en/advertisers/' },
               { text: 'Quick Start', link: '/en/advertisers/onboarding-quick-start' },
+              { text: 'Compare Formats', link: '/en/advertisers/compare-formats' },
               {
                 text: 'Parcel Inserts',
                 collapsed: true,
