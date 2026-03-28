@@ -1,45 +1,28 @@
 ---
 title: Managing contact exclusion lists
-description: How to receive and apply an advertiser's exclusion list before sending a Dedicated Email campaign — GDPR opt-out contacts or existing customers to remove from an acquisition campaign.
+description: How to receive and apply an advertiser's exclusion list before sending a Dedicated Email campaign — GDPR opt-out contacts or existing customers to remove from the mailing.
 keywords:
   - exclusion list
   - suppression list
-  - opt-out
-  - existing customers
-  - campaign exclusion
-  - GDPR
-  - SFTP
-  - ESP
-  - hashed email SHA-256
+  - GDPR opt-out
+  - SHA-256 hashed email
+  - SFTP exclusion ESP
 ---
 
 # Managing contact exclusion lists
 
-Before a Dedicated Email campaign, an advertiser may send you an exclusion list to remove certain contacts from the mailing — you apply it in your ESP. Two scenarios:
+Before sending, an advertiser may provide you with an exclusion list to remove certain contacts from the mailing — you apply it in your ESP.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Opt-out contacts</strong>
-    <p>Contacts who have unsubscribed from the advertiser's brand. Their exclusion is mandatory to stay GDPR-compliant.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Existing customers</strong>
-    <p>The advertiser wants to remove current buyers from an acquisition campaign — no point targeting someone who already knows them.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Both</strong>
-    <p>Opt-outs + existing customers: the advertiser merges both lists into a single file before sending it over.</p>
-  </div>
-</div>
+| Use case | Description |
+| :--- | :--- |
+| **Opt-out contacts** | Contacts who have unsubscribed from the advertiser's communications. Their exclusion is mandatory to remain GDPR-compliant. |
+| **Existing customers** | The advertiser wants to target only new prospects and exclude their current customers. |
+| **Both** | The advertiser merges both lists into a single file before sending it to you. |
 
-This is not systematic — many campaigns don't include one. But when an advertiser sends one, here's how to receive and apply it.
-
----
-
-## Never exchange email addresses via messaging apps
+This is not systematic — many campaigns do not include one. But when an advertiser sends one, here is how to receive and apply it.
 
 :::danger Personal data — secure channel required
-Exclusion lists contain **personal data** under GDPR. Don't request them by email or Slack. Don't send them through those channels either.
+Exclusion lists contain **personal data** under GDPR. Do not request them by email or getinside messaging.
 
 Any file containing addresses (even hashed) must go through a secure protocol.
 :::
@@ -48,16 +31,7 @@ Any file containing addresses (even hashed) must go through a secure protocol.
 
 ## Receiving the file
 
-The recommended method is SFTP file transfer using **FileZilla** on the advertiser's side.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
-    <strong>FileZilla</strong>
-    <p>Free, open source, available on Windows, macOS, and Linux. The advertiser uploads the file through a visual interface — no command line, just drag and drop.</p>
-    <p><a href="https://filezilla-project.org/" target="_blank">Download FileZilla →</a></p>
-  </div>
-</div>
+The recommended method is SFTP file transfer using **FileZilla** on the advertiser's side ([Download FileZilla](https://filezilla-project.org/){target="_blank"} — free, Windows / macOS / Linux).
 
 Create an SFTP access on your server and share these details with the advertiser:
 
@@ -77,7 +51,7 @@ Use a password manager with secure sharing (1Password, Bitwarden…) or a one-ti
 
 **SFTP with SSH key**
 
-A more secure option, best suited for recurring work with the same advertiser. The advertiser generates an SSH key pair and sends you their public key — your technical team adds it to the server. FileZilla also supports this method.
+A more secure option, best suited for recurring work with the same advertiser. The advertiser generates an SSH key pair and sends you their public key — your technical team adds it to the server.
 
 | Field | What you provide |
 |-------|-----------------|
@@ -125,20 +99,20 @@ Generate a SAS Token restricted to the `Write` operation, valid for 48 hours. Re
 
 If you use Eulerian, the integration with the advertiser is native — no file to manage.
 
-For any other ESP or DMP with an audience API, share your endpoint documentation with the advertiser and create the required access.
+For any other ESP or DMP with an audience API, share your endpoint documentation with the advertiser.
 :::
 
 ---
 
 ## Apply exclusions in your ESP
 
-Once you receive the file, import it into your router **before** scheduling the send.
+Import the file into your router **before** scheduling the send.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Check the received file</h3>
-    <p>Verify the encoding (UTF-8), separator, and header. If the file contains SHA-256 hashed emails, check that your ESP handles this format — most do, but not all.</p>
+    <p>Verify the encoding (UTF-8), separator, and header. If the file contains SHA-256 hashed emails, check that your ESP handles this format.</p>
   </div>
 </div>
 
@@ -146,7 +120,7 @@ Once you receive the file, import it into your router **before** scheduling the 
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Create a dedicated exclusion list</h3>
-    <p>Don't mix advertiser exclusions with your own unsubscribes. Create a separate list with an explicit name (e.g. <code>EXCLUSION_ADVERTISER_NAME_YYYYMMDD</code>).</p>
+    <p>Do not mix advertiser exclusions with your own unsubscribes. Create a separate list with an explicit name (e.g. <code>EXCLUSION_ADVERTISER_NAME_YYYYMMDD</code>).</p>
   </div>
 </div>
 
@@ -154,7 +128,7 @@ Once you receive the file, import it into your router **before** scheduling the 
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Apply the exclusion at send time</h3>
-    <p>In the send settings, activate the exclusion list for this campaign. Check that the final send volume reflects the exclusions — if the numbers don't change, the exclusion didn't take.</p>
+    <p>In the send settings, activate the exclusion list for this campaign. Verify that the final send volume reflects the exclusions — if the numbers don't change, the exclusion did not take effect.</p>
   </div>
 </div>
 
@@ -162,7 +136,7 @@ Once you receive the file, import it into your router **before** scheduling the 
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Confirm to the advertiser</h3>
-    <p>Let the advertiser know it's done. If anything is wrong (incorrect format, unexpected volume), flag it to getinside immediately.</p>
+    <p>Let the advertiser know it is done. If anything is wrong (incorrect format, unexpected volume), flag it to getinside immediately.</p>
   </div>
 </div>
 
@@ -175,19 +149,19 @@ Most modern ESPs (Mailchimp, Brevo, Klaviyo, Mailjet…) accept SHA-256 exclusio
 :::
 
 :::details The advertiser wants to send the list by email — what do I say?
-Decline and point them to this page. Email addresses are personal data: sending them via messaging apps is not GDPR-compliant. Offer one of the secure methods listed here.
+Decline and point them to this page. Email addresses are personal data: sending them via messaging is not GDPR-compliant.
 :::
 
 :::details Do I need to keep the file after the send?
-No. Once the exclusions are imported and the send is confirmed, delete the file from your server. The list in your ESP has no use after the send — archive or delete it.
+No. Once the exclusions are imported and the send is confirmed, delete the file from your server.
 :::
 
 :::details What if I receive the file on the day of the send?
-Apply the exclusions before routing, even if it delays the send slightly. Sending to opted-out contacts risks complaints and damages your sender reputation. If in doubt, call getinside.
+Apply the exclusions before sending, even if it delays the send. Sending to opted-out contacts risks complaints and damages your sender reputation. If in doubt, contact getinside.
 :::
 
 ---
 
 ## Next step
 
-Exclusions applied? Go back to [Tracking & Sending](./2-tracking-sending) to finalize.
+Exclusions applied? Go back to [Tracking & Sending](./2-tracking-sending) to finalise.

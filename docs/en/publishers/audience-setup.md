@@ -1,108 +1,106 @@
 ---
-title: Audience & Score
+title: Audience Setup
+description: Your audience profile is your showcase to advertisers. Fill it in precisely to maximise your visibility in the Smart Matching algorithm.
+keywords:
+  - audience publisher
+  - audience profile
+  - smart matching
+  - package insert inventory
+  - platform setup
 ---
 
-# Audience & Score Setup
+# Audience Setup
 
-Your audience profile is your showcase to advertisers. The more precise it is, the more relevant proposals you will receive.
+Your audience profile is the first thing advertisers see when they find you on the platform. A complete, accurate profile directly improves your Retailer Score and your visibility in the Smart Matching algorithm.
 
-## 1. The Identity of your Audience
+## How it works
 
-This is the first thing the advertiser sees. Take care of the presentation — it is your first impression.
-
-- **Presentation:** Tell your story, your values, and your positioning.
-- **CSR Commitments:** Check the boxes (Made in France, Reusable parcels...) only if you can prove it.
-- **Visuals:** Upload a logo and a banner that represent your universe.
-
-::: tip 💡 The team's advice
-In the **"Persona"** field, be descriptive: *"Amateur or expert gardener looking for sustainable products to maintain their vegetable garden."* This helps advertisers better understand who your customers are.
-:::
-
-## 2. Demographic Data
-
-These fields feed directly into the **Smart Matching AI algorithm** — they are how the platform automatically connects you with the most relevant advertisers. An incomplete profile mechanically reduces your visibility in matching results.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Average Order Value</strong>
-    <p>Indicate the average amount excl. tax. This allows advertisers to target by purchasing power.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Typology (B2C/B2B)</strong>
-    <p>Excluding criterion. Make sure it is correct.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Buyer Profile</strong>
-    <p><em>Discounter, Budget, Median, High-end.</em> Position yourself in relation to your market.</p>
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Fill in your audience identity</h3>
+    <p>Present your site, your values, and your positioning. In the <strong>Persona</strong> field, be descriptive: <em>"Amateur or expert gardener looking for sustainable products to maintain their vegetable garden."</em> Upload a logo and banner that represent your universe. Only check RSE/CSR commitments if you can substantiate them.</p>
   </div>
 </div>
 
-## 3. Activate formats for this audience
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Complete demographic data</h3>
+    <p>These fields feed directly into the Smart Matching algorithm. An incomplete profile mechanically reduces your visibility in matching results.</p>
+  </div>
+</div>
 
-For each created audience, independently activate the formats you wish to monetize:
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Activate formats</h3>
+    <p>For each audience, activate the formats you want to monetise: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Bundle. You can activate or deactivate a format at any time without impacting ongoing campaigns.</p>
+  </div>
+</div>
 
-- **📦 Parcel Insert** — Flyers or samples in your parcels
-- **📧 Dedicated Emailing** — Recommendation via your newsletter
-- **📩 Display Email** — Banners in your emails
-- **📱 Social Ads** — Sponsored Instagram / TikTok posts
-- **🎁 Bundle** — Integrated game and opt-in lead collection
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Enter your 12-month inventory</h3>
+    <p>For Sponsored Mail, declare your projected weekly volumes. Use <strong>Edit all weeks</strong> to apply a single volume in one action, or <strong>Empty weeks only</strong> to fill gaps without overwriting specific entries.</p>
+    <p><strong>Location:</strong> Monetisation → Catalogue → [Your Audience] → [Campaign Type] → Inventory</p>
+  </div>
+</div>
 
-::: info
-You can activate or deactivate a format at any time without impacting ongoing campaigns.
+## Key demographic data
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Average order value</strong>
+    <p>Enter the average amount excl. VAT. Lets advertisers target by purchasing power.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>B2C / B2B typology</strong>
+    <p>Excluding criterion. Make sure it is correct — an error reduces relevant proposals.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Buyer profile</strong>
+    <p>Discounter, Budget, Mid-range, or Premium. Position yourself relative to your market.</p>
+  </div>
+</div>
+
+::: tip Up-to-date inventory = higher score
+A 12-month inventory is a major Retailer Score criterion. Advertisers favour audiences with guaranteed availability in advance.
 :::
 
-## 4. Managing your Inventory and Capacity
+## Managing multiple audiences and sites
 
-For each campaign type (particularly Parcel Insert), you must enter your projected weekly volumes over 12 months.
+A single account is sufficient, even if you operate several e-commerce sites. Each site can have its own audience profile with its specific data.
 
-### Mass inventory editing
-To save time, you have quick modification tools:
-- **Edit all weeks:** Apply an identical volume to your entire calendar in a single action.
-- **Empty weeks only:** Fill only the periods not yet entered without overwriting your specific entries.
+**Location:** Monetisation → Catalogue → + New audience
 
-**Workspace:** Monetization → Catalog → [Your Audience] → [Campaign Type] → Inventory
+Best practices for a multi-audience catalogue:
+- Name each audience clearly (e.g. "Women's Fashion Site", "B2C Garden Site").
+- Enter distinct data per site — do not pool figures.
+- Only activate formats you can genuinely fulfil on that site.
 
-::: tip 💡 Inventory reliability
-Up-to-date inventory over 12 months is a major criterion for your **Distributor Score**. Advertisers favor audiences with guaranteed availability.
-:::
+getinside operates across Europe. Add your European audiences to receive country-targeted campaigns.
 
-## 4. Managing multiple audiences and sites
-
-**A single account is enough**, even if you operate multiple e-commerce sites. Each site can have its own audience profile with its specific data.
-
-**Workspace:** Monetization → Catalog → + New audience
-
-Best practices for a multi-audience catalog:
-- Clearly name each audience (e.g., "Women's Fashion Site", "B2C Garden Site")
-- Provide distinct data per site — do not pool the numbers
-- Only activate formats that you can actually honor on this site
-
-**International:** getinside operates throughout Europe. Add your European audiences to receive campaigns targeted by country.
-
-## 5. Your Distributor Score
-
-Your audience profile is directly linked to your Distributor Score — the 5-star rating that determines your visibility to advertisers.
+## Retailer Score and audience profile
 
 | Score | Visibility |
-|-------|-----------|
-| < 3/5 | Low visibility audience — action required |
+| :--- | :--- |
+| < 3/5 | Low-visibility audience — action required |
 | 3–4/5 | Standard — regular proposals |
-| > 4/5 | 🏆 Top Distributor — priority in results |
+| > 4/5 | Top Retailer — priority in results |
 
-A well-filled audience profile (detailed persona, precise data, polished visuals) directly improves several of the 7 rating criteria.
+A complete profile (detailed persona, precise data, polished visuals) directly improves several of the 7 scoring criteria.
 
-→ [Complete Guide: Distributor Score](/en/publishers/score-distributor)
+→ [Full guide: Retailer Score](/publishers/score-distributor)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-**How to add a user to my account?**
-Go to **My Organization → Team** → `+ Add a member`. Recommended: always have a backup to ensure responsiveness within 48h.
+**How do I add a user to my account?**
+My Organisation → Team → + Add a member. Recommended: always have a backup to ensure responses within 48h.
 
-**Can I manage multiple sites from a single account?**
+**Can I manage multiple sites from one account?**
 Yes. A getinside account can host as many audiences as you want — one per site or per customer segment.
 
-**Where to track my referrals (affiliation)?**
-In the **Affiliation** tab. You earn a **20% recurring commission** on your referrals' platform fees, paid directly into your Wallet. Referrals must be established in France or the EEA.
-
-**My Distributor Score has dropped — why?**
-The score is dynamically recalculated. Common causes: response > 48h, repeated refusals without counter-proposal, distributed volumes lower than commitments, CPM deemed too high vs competition. → Consult the [Distributor Score guide](/en/publishers/score-distributor) for details criterion by criterion.
+**Where do I track my referrals?**
+In the Affiliation tab. You earn a 20% recurring commission on your referrals' platform fees. → [Affiliate Programme](/publishers/affiliation)

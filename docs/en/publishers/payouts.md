@@ -1,125 +1,96 @@
 ---
-title: Revenue Payment
+title: Payments & Wallet
+description: Track your revenue in real time, manage your withdrawals, and optimise your cash flow. Reinvestment is available at 0% fees.
+keywords:
+  - wallet publisher
+  - revenue withdrawal
+  - retailer payment
+  - withdrawal fees
+  - reinvestment
 ---
 
-# Revenue and Payment Management
+# Payments & Wallet
 
-Track your earnings in real-time and optimize your cash flow to avoid fees.
+Your campaign revenue accumulates in your Wallet as distributions are completed. You decide when to withdraw or reinvest.
 
-## P&L Tracking (Wallet)
+## Wallet Tracking
 
-::: tip Available balance in real-time
-Your revenue is visible in real-time on the platform.
-
-Check your **Available Balance** at any time = *(Validated revenue) - (Made withdrawals)*.
+::: tip Available balance in real time
+Check your Available Balance at any time = *(Validated revenue) - (Withdrawals made)* from your Payments dashboard.
 :::
 
 ### When does my revenue become available?
 
-::: info
-**📅 Validation timeline**
-
-1. **Distributed campaign:** The day you confirm distribution (batch shipped, volumes declared).
-2. **Buffer period (30 days):** Your revenue remains *pending* for 30 days → allows detecting anomalies (lost boxes, interrupted campaign).
-3. **✅ Validated revenue:** After 30 days without incident, the amount moves to *Available Balance* and can be withdrawn.
-:::
-
-::: tip Normal case (no problem)
-Day 1: Distribution confirmed → Day 31: Revenue becomes available → You can withdraw.
-:::
-
-::: warning Anomaly detected during the 30 days
-E.g., lost boxes, blocked campaign → We contact you to resolve. The delay can be extended until settlement.
-:::
-
-## Withdrawal Policy and Fees
-
-Pool your withdrawals to reduce administrative overhead.
-
-### Fee Structure according to your Offer
-
-| Offer | Withdrawal fee |
-|-------|-----------------|
-| 🟡 **Starter** | **1st withdrawal of the calendar year: FREE** <br> Subsequent: **5%** processing fee |
-| 🟢 **Platform & Managed** | **FREE & UNLIMITED** — no withdrawal fees |
-
-::: tip
-**Not sure about your offer?** Check your account workspace → Subscription, or consult the [Pricing page](/en/publishers/pricing).
-:::
-
-### Payment Delays
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📄 Prerequisites</strong>
-    <p>Submit your <strong>compliant invoice</strong> with the withdrawal request. Without a valid invoice, the payment cannot be processed.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🏦 Payment Delay</strong>
-    <p><strong>30 days end of month</strong> after validation of your request.<br>E.g., request validated in March → payment before end of April.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>💰 Minimum Amount</strong>
-    <p><strong>No set minimum.</strong> Withdraw as soon as you have an available balance.</p>
-  </div>
-</div>
-
-### Required actions to credit your Wallet
+1. **Distribution confirmed** — You declare the distributed volumes (Monday or Tuesday for Sponsored Mail) or click "Validate broadcast" (email).
+2. **Protection period (30 days)** — Revenue stays pending to allow anomaly detection.
+3. **Revenue validated** — After 30 days without incident, the amount moves to Available Balance and can be withdrawn.
 
 ::: warning Your revenue is not credited automatically
-The Wallet balance is only updated **after a manual action on your part** depending on the format:
+The Wallet is only updated after a manual action on your part: volume declaration (Sponsored Mail) or broadcast validation (Email).
 :::
 
-| Format | Required action | Where on the platform |
-|--------|---------------|----------------------|
-| 📦 Parcel Insert | Declare volumes every **Monday or Tuesday** | My Campaigns → campaign → Declare volume |
-| 📧 Emailing (Dedicated or Display) | Click on **"Validate broadcast"** after sending | My Campaigns → campaign → Validate broadcast |
+## Withdrawal fees
 
-## How to avoid the 5% fees? *(Starter Offer only)*
+| Plan | Withdrawal fees |
+| :--- | :--- |
+| **Starter** | First withdrawal of the calendar year free, then **5%** |
+| **Platform & Managed** | Free and unlimited |
+
+**Payment timeline:** 30 days end of month after validation of your request and receipt of your compliant invoice.
+
+## How to avoid the 5% fee (Starter plan)
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>Option A: The "Rollover"</strong>
-    <p>Let your revenue accumulate in your pot. By spacing your withdrawals, withdraw your revenue once a year — a pooled withdrawal <strong>without fees</strong>.</p>
+    <strong>Accumulate and withdraw once a year</strong>
+    <p>Let your revenue build up and make a single annual withdrawal — the first withdrawal of the calendar year is free.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Option B: Reinvestment</strong>
-    <p>Use your balance to finance your own acquisition campaigns (Parcel Insert or Emailing). 1€ earned = 1€ reinvested in traffic, without banking friction.</p>
+    <strong>Reinvest at 0% fees</strong>
+    <p>Use your balance to fund your own acquisition campaigns (Sponsored Mail, email). 1€ earned = 1€ invested with no banking friction.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Option C: Upgrade to Platform</strong>
-    <p>Permanently eliminate withdrawal fees (499€ HT/month). Cost-effective once your withdrawals exceed ~850€/month, and you also gain direct access to prospecting 300+ advertisers.</p>
+    <strong>Upgrade to Platform</strong>
+    <p>499€ excl. VAT/month — unlimited and free withdrawals, plus direct access to prospecting 300+ advertisers. → <a href="/publishers/pricing">View plans</a></p>
   </div>
 </div>
 
-## How to make a withdrawal?
+## How to make a withdrawal
 
-1. Log in at **[app.getinside.media](https://app.getinside.media/)**
-2. Click on **Paiements** in the left menu
-3. Check your **Available Balance** (shown under "Revenus à transférer vers le wallet ou à retirer") — only this amount is withdrawable
-4. Click **Retirer** to open the 3-step withdrawal form:
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Check your available balance</h3>
+    <p>Log in to <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> → Payments menu. Only the amount shown under "Revenue to transfer to wallet or withdraw" is withdrawable.</p>
+  </div>
+</div>
 
-**Step 1 — Amount**
-Enter the amount you wish to withdraw. Applicable withdrawal fees are displayed automatically.
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Enter the amount</h3>
+    <p>Click Withdraw. Applicable fees are displayed automatically before confirmation.</p>
+  </div>
+</div>
 
-**Step 2 — Invoice**
-Edit your invoice using the getinside details shown on screen (company, address, SIRET, VAT number, reference, amount excl. and incl. VAT).
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Submit your invoice</h3>
+    <p>Issue your invoice using the getinside billing details shown on screen (company, address, registration number, VAT, reference, amount excl. and incl. VAT). Only compliant invoices are processed.</p>
+  </div>
+</div>
 
-::: warning
-Please ensure your invoice matches these details exactly, particularly the reference and total amount. Only compliant invoices will be processed and paid.
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Upload your bank details</h3>
+    <p>Upload your invoice (PDF) and your bank account details. Check the certification box and click Validate. The request appears in Payments → Exchange tab.</p>
+  </div>
+</div>
+
+::: info Cancellation penalty
+Any campaign cancelled after commitment is subject to a penalty of **550€ excl. VAT**. Only confirm campaigns you are able to fulfil.
 :::
 
-**Step 3 — Bank details**
-Upload your invoice (PDF) and your bank identity statement (RIB).
-
-5. Check the certification box and click **Valider**
-6. The request then appears in **Paiements → Exchange tab**
-
-**Delay:** 30 days end of month after validation of your request and receipt of your compliant invoice.
-
-## In case of problem
-
-Your balance does not match your expectations? A withdrawal is delayed?
-
-→ Consult the [Wallet & Payments Troubleshooting](/en/faq/troubleshooting-distributors) guide for common cases and their solutions.
-
+For any issues, consult the [Wallet & Payments Troubleshooting](/faq/troubleshooting-distributors) guide.

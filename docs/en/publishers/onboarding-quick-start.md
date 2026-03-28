@@ -1,74 +1,74 @@
 ---
-title: Quick Start — Distributors
+title: Quick Start — Retailers
+description: Activate your getinside account and configure your profile to receive your first campaigns in 3 steps.
+keywords:
+  - retailer onboarding
+  - quick start
+  - profile setup
+  - getinside retailer
 ---
 
-# Quick Start — Distributors
+You have just joined getinside. In 3 steps and 10 minutes, your profile is ready to receive campaigns.
 
-You have just joined getinside. In 3 steps (10 minutes), your profile is ready to receive your first campaigns.
+## Step 1 — Activate your access
 
-::: tip Who is this guide for?
-**This guide is for you if:** you received the getinside invitation email and want to start quickly.
-:::
-
----
-
-## Step 1 — Activate your access (2 min)
-
-1. Open the **invitation email** received from getinside
-2. Click the activation link
-3. Set your password
-4. Log in at [app.getinside.media](https://app.getinside.media/)
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Activate your account</h3>
+    <p>Open the <strong>invitation email</strong> from getinside, click the activation link, set your password, and log in at <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>.</p>
+  </div>
+</div>
 
 ::: info
-Your account was created by the getinside team during your demo. If you didn't receive the email, check your spam folder or contact your manager.
+Your account was created by the getinside team during your demo. If you did not receive the email, check your spam folder or contact your account manager.
 :::
 
----
+## Step 2 — Configure your logistics profile
 
-## Step 2 — Configure your logistics profile (5 min)
+**Location:** Settings → Logistics
 
-Before receiving campaigns, the algorithm needs two pieces of information:
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Enter your warehouse address</h3>
+    <p>Provide the address where physical materials (boxes, flyers) will be delivered for your Sponsored Mail campaigns.</p>
+  </div>
+</div>
 
-**Workspace:** Settings → Logistics
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Set your Lead Time</h3>
+    <p>Enter the minimum delay between pallet receipt and the start of distribution (e.g. 3 days). The algorithm takes this into account automatically to synchronise deliveries.</p>
+  </div>
+</div>
 
-| Field | What to define |
-|-------|----------------|
-| **Warehouse address** | The address where physical materials (boxes, flyers) will be delivered |
-| **Lead Time** | The minimum delay between reception and start of distribution (e.g., 3 days) |
+## Step 3 — Create your first audience
 
-::: info
-This data allows the platform to only offer you campaigns that you can honor according to your real constraints.
-:::
+Your audience is what you offer advertisers. The more precise it is, the more relevant campaigns you receive.
 
----
+**Location:** Monetisation → Create an audience
 
-## Step 3 — Create your first audience (3 min)
-
-Your audience is what you sell to advertisers. The more precise it is, the more relevant campaigns you receive.
-
-**Workspace:** Monetization → Create an audience
-
-At a minimum, enter:
-- **Audience name**: e.g. "Women's fashion e-commerce customers 25-45 yo"
-- **Average Order Value** of your customers
-- **Category** of your products
-- **Weekly volume** of parcels (for Parcel Insert)
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Fill in the essential fields</h3>
+    <p>Audience name (e.g. "Women's fashion e-commerce customers 25–45"), average order value, product category, weekly package volume.</p>
+  </div>
+</div>
 
 ::: tip
-A complete and precise audience profile is the main attractiveness factor for advertisers. Take the time to fill it out carefully.
+A complete, accurate audience profile is the primary factor in attracting advertisers. Take the time to fill it in carefully.
 :::
 
----
-
-## You are ready ✅
+## You are ready
 
 A **validation call** with the getinside team confirms your listing on the marketplace. From then on, you will receive **campaign proposals** directly on the platform.
 
-**Golden rule to remember:** You have **48 business hours** to respond to each proposal. Beyond that, it expires and can impact your [Distributor Score](/en/publishers/score-distributor).
-
----
+**Golden rule:** You have **48 business hours** to respond to each proposal. Beyond that, it expires and can impact your [Retailer Score](/publishers/score-distributor).
 
 **Next steps:**
-- [Complete onboarding process](/en/publishers/onboarding-process) — detailed operations
-- [Distributor Score](/en/publishers/score-distributor) — how to maximize your visibility
-- [Payments & Wallet](/en/publishers/payouts) — understand when and how you will be paid
+- [Full onboarding process](/publishers/onboarding-process) — detailed operations
+- [Retailer Score](/publishers/score-distributor) — how to maximise your visibility
+- [Payments & Wallet](/publishers/payouts) — understand when and how you will be paid

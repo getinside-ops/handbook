@@ -1,39 +1,46 @@
 ---
-title: Affiliate Program
+title: Affiliate Programme
+description: Recommend getinside to other e-retailers or brands and earn a 20% recurring commission on your referrals' platform fees.
+keywords:
+  - affiliation
+  - referral
+  - recurring commission
+  - passive income
+  - referral programme
 ---
 
-# Affiliate Program
+# Affiliate Programme
 
-Recommend getinside to your network (E-retailers or Brands) and generate recurring passive income.
+Recommend getinside to your network and earn a recurring commission on every invoice paid by your referrals. The commission applies to each referral's activity for as long as they remain active on the platform.
 
 ## Who to refer?
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Other E-retailers</strong>
-    <p>Do you know other sites that ship parcels or have an email database? Invite them to monetize their audience.</p>
+    <strong>Other e-retailers</strong>
+    <p>Do you know sites that ship packages or have an email database? Invite them to monetise their audience on getinside.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛍️ Brands (Advertisers)</strong>
-    <p>Invite your suppliers or partners to use getinside for their acquisition campaigns. Ideal for digitizing your Trade Marketing.</p>
+    <strong>Brands (advertisers)</strong>
+    <p>Invite your suppliers or partners to use getinside for their acquisition campaigns. Ideal for digitalising your Trade Marketing.</p>
   </div>
 </div>
 
-## How does it work?
+## How it works
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Refer</h3>
-    <p>Send your unique referral link available in your account workspace.</p>
+    <p>Send your unique referral link available in your account dashboard.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>They activate</h3>
-    <p>Your referral creates their account, lists their audience, and launches their first campaigns.</p>
+    <h3>Your referral activates</h3>
+    <p>They create their account exclusively via your link, list their audience, and launch their first campaigns.</p>
   </div>
 </div>
 
@@ -41,50 +48,47 @@ Recommend getinside to your network (E-retailers or Brands) and generate recurri
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>You earn</h3>
-    <p>You automatically earn a recurring commission on their activity, credited with every paid invoice.</p>
+    <p>You automatically receive a recurring commission credited to your Wallet with every invoice paid by your referral.</p>
   </div>
 </div>
 
-## Your Compensation
+## Your compensation
 
-::: tip Your commission: 20% of getinside's margin
-The commission is calculated on the **platform fees (margin)** actually collected by getinside on your referral's activity:
+::: tip Commission: 20% of getinside platform fees
+- **Retailer referral:** 20% of the commercialisation commission (30% to 15%) collected by getinside on their revenue.
+- **Advertiser referral:** 20% of the platform fees (12%) billed on their media budgets.
 
-- **Distributor Referral:** You earn 20% of the commercialization commission (30% to 15%) collected by getinside on their revenue.
-- **Advertiser Referral:** You earn 20% of the platform fees (12%) invoiced by getinside on their media budgets.
-
-*Example: Your advertiser referral invests €10,000. getinside collects €1,200 in fees. You earn 20% of those €1,200, which is €240.*
+Example: your advertiser referral invests €10,000. getinside collects €1,200 in fees. You earn 20% of those €1,200 = **€240**.
 :::
 
-:::tip Earnings availability
-As with your campaign revenue, affiliate commissions become **available in your Wallet 30 days** after the referral's invoice is actually paid.
-:::
-
-## Eligibility Criteria
-
-### For you (the Sponsor)
-
-- Have an **active** account on the platform and have accepted the General Referral Terms.
-- Be **up to date with your payments** to getinside — in case of an unpaid invoice, your commission payments are suspended until regularization.
-
-### For your Referral
-
-::: info Eligibility criteria
-- Register **exclusively via your unique invitation link**.
-- Be a professional who has **never used** the getinside platform before.
-- Be established in **France or in the European Economic Area (EEA)**.
-- Share **no capital links** with your company (no common subsidiary, no shared directors).
-:::
+Commissions become available in your Wallet **30 days after the effective payment** of the invoice by your referral. The control period is **30 days**.
 
 ## Using your earnings
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🏦 Bank Withdrawal</strong>
-    <p>Retrieve your earnings via standard bank transfer (subject to standard management fees depending on your offer).</p>
+    <strong>Bank withdrawal</strong>
+    <p>Retrieve your earnings via standard bank transfer, subject to standard management fees based on your plan.</p>
   </div>
   <div class="gi-value-card">
-    <strong>♻️ Reinvestment (0% fee)</strong>
-    <p>Use your pot to finance your own acquisition campaigns — 1€ earned = 1€ invested without banking friction.</p>
+    <strong>Reinvestment at 0% fees</strong>
+    <p>Use your balance to fund your own acquisition campaigns. 1€ earned = 1€ invested with no banking friction.</p>
   </div>
 </div>
+
+## Eligibility conditions
+
+**For you (the referrer):**
+- Active account on the platform with the General Referral Terms accepted.
+- Up to date with your payments to getinside — commissions are suspended in case of an unpaid invoice until settled.
+
+::: info For your referral
+- Registration exclusively via your unique invitation link.
+- Professional who has never used the getinside platform before.
+- Established in France or in the European Economic Area (EEA).
+- No capital links with your company (no common subsidiary, no shared directors).
+:::
+
+## Getting started
+
+Access your referral link from your account dashboard on [app.getinside.media](https://app.getinside.media/){target="_blank"} → **Affiliation** tab.

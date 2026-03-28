@@ -1,16 +1,18 @@
 ---
 title: Logistics & Insertion
+description: Receive physical materials and insert them correctly into your packages to guarantee campaign performance.
+keywords:
+  - sponsored mail logistics
+  - materials receipt
+  - insertion best practices
+  - package insert
 ---
 
 <script setup>
 import { withBase } from 'vitepress'
 </script>
 
-# Logistics Operations
-
-From pallet reception to the customer unboxing experience.
-
-<hr />
+From pallet receipt to the customer unboxing experience.
 
 ## 1. Receiving materials
 
@@ -18,53 +20,52 @@ From pallet reception to the customer unboxing experience.
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Check upon arrival</h3>
-    <p>The materials (flyers, samples) are delivered to your warehouse address provided on the platform.</p>
-    <ul>
-      <li>Check the condition of the pallets and boxes.</li>
-      <li>Verify that the quantity matches the delivery note (BL).</li>
-    </ul>
+    <p>Materials (flyers, samples) are delivered to your warehouse address registered on the platform. Check the condition of pallets and boxes, then confirm that the quantity matches the delivery note.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Confirmation of Receipt</h3>
-    <p><strong>Mandatory action:</strong> Log in to <a href="https://app.getinside.media/">app.getinside.media</a> and click on <strong>"Validate reception"</strong>.</p>
-    <p>This notifies the Advertiser that the merchandise has safely arrived and is ready for distribution.</p>
+    <h3>Confirm receipt</h3>
+    <p>Log in at <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> and click <strong>"Validate receipt"</strong>. This action notifies the advertiser that the materials have arrived and are ready for distribution.</p>
   </div>
 </div>
 
-:::warning Delivery problem?
-If the materials are damaged, take photos and report it immediately to [logistique@getinside.fr](mailto:logistique@getinside.fr) **before any distribution**.
+::: warning Delivery problem?
+If materials are damaged, take photos and report it immediately to [logistique@getinside.fr](mailto:logistique@getinside.fr) **before any distribution**.
 :::
-
----
 
 ## 2. Insertion best practices
 
-The value of the Parcel Insert relies on the unboxing experience. To ensure Advertiser satisfaction, follow these golden rules.
+The value of Sponsored Mail rests on the unboxing experience. These rules guarantee advertiser satisfaction.
 
-### ✅ The "On-Top" Rule
-
-The advertising material must imperatively be placed **on top of the products**, face up. It must be the first thing the customer sees.
-
-<img :src="withBase('/images/asile-colis-do-dont.webp')" alt="Parcel insert best practices" />
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📄 Invoice management</strong>
-    <p>If you insert a packing slip or a paper invoice: place the offer **on top**. It must never be hidden inside a folded document.</p>
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Apply the "On-Top" rule</h3>
+    <p>The advertising material must be placed <strong>on top of the products</strong>, face visible. It must be the first thing the customer sees when opening their package.</p>
   </div>
-  <div class="gi-value-card">
-    <strong>🚫 Exclusions & Quality</strong>
-    <ul>
-      <li><strong>Competition:</strong> Never two competing offers in the same parcel.</li>
-      <li><strong>Condition:</strong> Do not insert a crumpled or dog-eared flyer.</li>
-    </ul>
+</div>
+
+<img :src="withBase('/images/asile-colis-do-dont.webp')" alt="Sponsored Mail insertion best practices" />
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Manage the invoice correctly</h3>
+    <p>If you insert a packing slip or paper invoice, place the offer <strong>on top</strong>. It must never be hidden inside a folded document.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Respect quality exclusions</h3>
+    <p>Never insert two competing offers in the same package. Never insert a crumpled or dog-eared flyer — replace it.</p>
   </div>
 </div>
 
 ## 3. Storage
 
-The materials must be stored in a dry and clean place (away from humidity and dust) to prevent any deterioration before insertion.
+Store materials in a dry, clean place away from moisture and dust to prevent deterioration before insertion.

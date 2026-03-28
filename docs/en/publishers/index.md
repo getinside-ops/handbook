@@ -1,30 +1,41 @@
 ---
-title: E-commerce Monetization - Retail Media Platform for Retailers - getinside
-description: Turn your parcels and emails into revenue with getinside. Monetize your audience with +300 advertisers. 65-70% margins. Retail media platform.
+title: Retailers & Publishers — E-commerce Monetisation with getinside
+description: Turn your packages and emails into recurring revenue. 65–70% net margins, full control over accepted advertisers, zero heavy technical integration.
 keywords:
-  - retail media
-  - e-commerce monetization
-  - retailers
-  - marketplace
-  - parcel insert
-  - email monetization
-  - audience data
-  - getinside
-  - e-commerce growth
-  - advertiser network
-  - sponsored mail
+  - e-commerce monetisation
+  - retail media publishers
+  - package insert revenue
+  - wallet getinside
+  - retailer score
 image: /images/gi-keyvisual.svg
 ---
 
-# Retailers & E-retailers Portal
+# Retailers & E-commerce Publishers
 
-<p class="gi-page-intro">Welcome to getinside. Turn your audience into additional revenue.</p>
+Your packages ship every week. Your transactional emails are opened regularly. These assets have advertising value that getinside lets you monetise immediately — no heavy technical integration, with full control over the brands you accept. You decide which advertisers access your audience. The platform handles the rest.
 
-<div class="gi-quick-links">
-  <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Access my Portal →</a>
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>+2 to +20%</strong>
+    <p>Additional revenue generated from your existing shipments and emails.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>65–70%</strong>
+    <p>Net margin on your retail media revenue — the logistics assets are already in place.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>300+ advertisers</strong>
+    <p>Brands available in the network. You choose which ones access your audience.</p>
+  </div>
 </div>
 
-## Configuration & Getting Started
+<div class="gi-quick-links">
+  <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Access my Dashboard →</a>
+</div>
+
+## Setup & Getting Started
+
+Your onboarding follows three phases: format activation, trade marketing with your advertiser partners, then independent scaling. The getting started guide covers every step — from creating your retailer profile to managing revenue in real time.
 
 <div class="gi-nav-list">
   <a href="onboarding-process" class="gi-nav-card">
@@ -39,7 +50,7 @@ image: /images/gi-keyvisual.svg
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Audience & Score</p>
-      <p class="gi-nav-card-desc">How to fill out your profile to be visible and optimize your distributor score.</p>
+      <p class="gi-nav-card-desc">How to fill in your profile to be visible and optimise your Retailer Score.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -47,7 +58,7 @@ image: /images/gi-keyvisual.svg
     <span class="gi-nav-card-icon">🤝</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Affiliation</p>
-      <p class="gi-nav-card-desc">Invite partners and earn a 20% commission on their revenue.</p>
+      <p class="gi-nav-card-desc">Invite partners and earn 20% commission on their revenue.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -55,58 +66,60 @@ image: /images/gi-keyvisual.svg
 
 ## Formats & Operations
 
+Five formats cover your existing assets: packages, transactional emails, newsletters, and social media. Each format has its own operational rules — consult the dedicated guides for implementation details.
+
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Parcel Insert</span>
-    <p class="gi-format-card-desc">100% guaranteed read rate. Reception, insertion, and weekly reporting.</p>
+    <span class="gi-format-card-title">Sponsored Mail</span>
+    <p class="gi-format-card-desc">100% guaranteed readership. Weekly receipt, insertion, and reporting.</p>
   </a>
   <a href="dedicated-email/" class="gi-format-card">
     <span class="gi-format-card-icon">📧</span>
-    <span class="gi-format-card-title">Dedicated Emailing</span>
-    <p class="gi-format-card-desc">Open rate >50% post-purchase. Co-branded creation, endorsement, and tracking.</p>
+    <span class="gi-format-card-title">Dedicated Email</span>
+    <p class="gi-format-card-desc">>50% post-purchase open rate. Co-branded creation, endorsement, and tracking.</p>
   </a>
   <a href="display-email/" class="gi-format-card">
     <span class="gi-format-card-icon">🖼️</span>
-    <span class="gi-format-card-title">Newsletter Insert</span>
+    <span class="gi-format-card-title">Newsletter Display</span>
     <p class="gi-format-card-desc">Passive income — zero production. Banner integration in minutes.</p>
   </a>
   <a href="sponsored-social/" class="gi-format-card">
     <span class="gi-format-card-icon">📱</span>
     <span class="gi-format-card-title">Social Ads</span>
-    <p class="gi-format-card-desc">Paid Partnership Ads. The advertiser funds the promotion of your posts.</p>
+    <p class="gi-format-card-desc">Paid Partnership Ads. The advertiser funds the boost on your posts.</p>
   </a>
   <a href="bundles" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
     <span class="gi-format-card-title">Bundle</span>
-    <p class="gi-format-card-desc">Engage your audience with an integrated game. The advertiser provides the prizes and budget. Up to 20% CTR.</p>
+    <p class="gi-format-card-desc">Engage your audience with an integrated game. The advertiser provides prizes and budget. Up to 20% CTR.</p>
   </a>
 </div>
 
-## Network Management & Forecast
+## Network Management & Forecasting
 
 <div class="gi-nav-list">
-  <a href="onboarding-process#phase-3-acceleration-autonomy" class="gi-nav-card">
+  <a href="onboarding-process#phase-3-acceleration-autonomie" class="gi-nav-card">
     <span class="gi-nav-card-icon">🏗️</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Partner Advertisers & Network</p>
-      <p class="gi-nav-card-desc">Manage your own pool of advertisers, invite your historical partners, and eliminate your platform fees.</p>
+      <p class="gi-nav-card-desc">Manage your own advertiser pool, invite your existing partners, and eliminate platform fees.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="onboarding-process#phase-3-acceleration-autonomy" class="gi-nav-card">
+  <a href="onboarding-process#phase-3-acceleration-autonomie" class="gi-nav-card">
     <span class="gi-nav-card-icon">📈</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Forecast & Projections</p>
-      <p class="gi-nav-card-desc">Set revenue goals per advertiser and track your YTD progress in real-time.</p>
+      <p class="gi-nav-card-desc">Set revenue targets by advertiser and track your YTD progress in real time.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="pricing#managed-plan" class="gi-nav-card">
+  <a href="pricing#offre-managed" class="gi-nav-card">
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Prospect Advertisers <Badge type="warning" text="Managed" /></p>
-      <p class="gi-nav-card-desc">Import prospect lists, track your sales pipeline, and forecast revenue from advertisers you bring to the network.</p>
+      <p class="gi-nav-card-desc">Import your prospect lists, track your sales actions, and manage in-acquisition revenue.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -117,8 +130,8 @@ image: /images/gi-keyvisual.svg
 <div class="gi-format-grid">
   <a href="pricing" class="gi-format-card">
     <span class="gi-format-card-icon">💎</span>
-    <span class="gi-format-card-title">Subscriptions & Offers</span>
-    <p class="gi-format-card-desc">Starter (free), Platform, or Managed — choose your level.</p>
+    <span class="gi-format-card-title">Subscriptions & Plans</span>
+    <p class="gi-format-card-desc">Starter (free), Platform, or Managed — choose your tier.</p>
   </a>
   <a href="payouts" class="gi-format-card">
     <span class="gi-format-card-icon">💸</span>
@@ -128,6 +141,6 @@ image: /images/gi-keyvisual.svg
   <a href="affiliation" class="gi-format-card">
     <span class="gi-format-card-icon">🤝</span>
     <span class="gi-format-card-title">Affiliation</span>
-    <p class="gi-format-card-desc">Refer and earn a 20% commission.</p>
+    <p class="gi-format-card-desc">Refer others and earn 20% commission.</p>
   </a>
 </div>

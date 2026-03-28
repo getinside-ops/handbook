@@ -1,18 +1,20 @@
 ---
-title: Tracking & Reporting
+title: Volume Tracking & Reporting
+description: Declare your weekly insertion volumes and close your campaigns to trigger payment.
+keywords:
+  - sponsored mail reporting
+  - volume declaration
+  - campaign closure
+  - retailer payment
 ---
 
-# Volume Tracking (Reporting)
+Weekly reporting is mandatory to ensure inventory tracking and trigger your billing.
 
-Weekly reporting is mandatory to ensure inventory tracking and **trigger your billing**.
-
-:::warning Weekly obligation — Monday or Tuesday
-At the beginning of each week, declare the exact volume of inserts distributed the previous week. This declaration directly conditions your payment.
+::: warning Weekly obligation — Monday or Tuesday
+At the start of each week, declare the exact volume of inserts distributed the previous week. This declaration directly conditions your payment.
 :::
 
----
-
-## How to declare volumes?
+## Declaring volumes
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -42,31 +44,25 @@ At the beginning of each week, declare the exact volume of inserts distributed t
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
     <h3>Enter the distributed volume</h3>
-    <p>In the tracking table, enter:</p>
-    <ul>
-      <li>The period (e.g., Week 42)</li>
-      <li>The quantity inserted</li>
-    </ul>
+    <p>In the tracking table, enter the period (e.g. Week 42) and the quantity inserted.</p>
   </div>
 </div>
-
----
 
 ## Closing a campaign
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📦 Case A — Out of Stock</strong>
-    <p>You have distributed all the materials received. The campaign naturally stops.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🏁 Case B — Goal Reached (Capped)</strong>
-    <p>The ordered volume is reached. Close the campaign even if stock remains, unless instructed otherwise to clear the balance.</p>
+Two scenarios lead to closure:
+
+- **Stock exhausted** — You have distributed all received materials. The campaign ends naturally.
+- **Target reached (Capped)** — The ordered volume is reached. Close the campaign even if stock remains, unless instructed otherwise to clear the remainder.
+
+<div class="gi-step">
+  <div class="gi-step-num done">✓</div>
+  <div class="gi-step-body">
+    <h3>Validate closure</h3>
+    <p>Once the campaign is complete, click <strong>"Close campaign"</strong> to validate the service.</p>
   </div>
 </div>
 
-Once the campaign is over, click on **"Close campaign"** to validate the service.
-
-:::tip Payment trigger
+::: tip Payment trigger
 Closing the campaign validates the service and triggers the credit of your revenue to the Wallet — available 30 days after the campaign ends.
 :::
