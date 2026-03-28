@@ -47,6 +47,10 @@ The homepage (`index.md` at root) uses VitePress `layout: home` with `hero` and 
 
 ## Frontmatter & SEO
 
+**Every content page MUST also begin with an H1 heading** (`# Title`) immediately after the frontmatter block. VitePress does NOT auto-render `frontmatter.title` as a visible heading — the H1 must be explicit in the markdown body. Exception: the root `index.md` which uses `layout: home`.
+
+Audit command: `for f in $(find docs -name "*.md" -not -path "*/superpowers/*"); do if ! grep -q "^# " "$f" && ! grep -q "^layout:" "$f"; then echo "MISSING H1: $f"; fi; done`
+
 **Every page MUST include YAML frontmatter** with:
 ```yaml
 ---
