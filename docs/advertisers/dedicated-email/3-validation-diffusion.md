@@ -8,6 +8,8 @@ keywords:
   - campagne email dédié
 ---
 
+# Étape 3 : Validation & Diffusion
+
 La création est terminée. Votre action est requise pour débloquer l'envoi.
 
 ## Processus de validation

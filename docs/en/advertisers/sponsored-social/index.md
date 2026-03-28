@@ -8,6 +8,8 @@ keywords:
   - social advertising advertiser
 ---
 
+# Social Ads (Advertiser)
+
 Amplify your message through partner retailers' social accounts — their audience already trusts them.
 
 ::: info Format on request

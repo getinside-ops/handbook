@@ -8,6 +8,8 @@ keywords:
   - weekly reporting
 ---
 
+# Sponsored Mail (Package Insert)
+
 Manage your Sponsored Mail campaigns from flyer receipt through to distributed volume reporting.
 
 <div class="gi-format-grid">

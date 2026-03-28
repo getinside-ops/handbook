@@ -8,6 +8,8 @@ keywords:
   - campagne email annonceur
 ---
 
+# Emailing Dédié (Annonceur)
+
 Diffusez votre message en exclusivité auprès d'une audience qualifiée, portée par la recommandation du distributeur.
 
 <div class="gi-format-grid">

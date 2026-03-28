@@ -8,6 +8,8 @@ keywords:
   - social media monetisation
 ---
 
+# Social Ads (Publisher)
+
 Generate incremental revenue by granting selected advertisers the right to boost your posts — without impacting your editorial line.
 
 ::: tip Guaranteed revenue

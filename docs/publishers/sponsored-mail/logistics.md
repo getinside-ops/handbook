@@ -8,6 +8,8 @@ keywords:
   - asile colis
 ---
 
+# Logistique & Insertion
+
 <script setup>
 import { withBase } from 'vitepress'
 </script>

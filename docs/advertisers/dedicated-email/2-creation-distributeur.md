@@ -8,6 +8,8 @@ keywords:
   - email dédié annonceur
 ---
 
+# Étape 2 : Production & Co-branding
+
 Une fois votre brief envoyé, le distributeur prend le relais pour concevoir l'email. Cette étape ne nécessite aucune action de votre part.
 
 ## Pourquoi le distributeur crée l'email

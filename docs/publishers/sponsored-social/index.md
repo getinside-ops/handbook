@@ -8,6 +8,8 @@ keywords:
   - monétisation réseaux sociaux
 ---
 
+# Social Ads (Éditeur)
+
 Générez des revenus incrémentiels en accordant à des annonceurs sélectionnés le droit de booster vos publications — sans impacter votre ligne éditoriale.
 
 ::: tip Revenu garanti

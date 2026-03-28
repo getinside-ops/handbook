@@ -8,6 +8,8 @@ keywords:
   - package insert
 ---
 
+# Logistics & Insertion
+
 <script setup>
 import { withBase } from 'vitepress'
 </script>

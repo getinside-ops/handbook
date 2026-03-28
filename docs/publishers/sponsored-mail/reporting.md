@@ -8,6 +8,8 @@ keywords:
   - paiement distributeur
 ---
 
+# Suivi & Reporting des Volumes
+
 Le reporting hebdomadaire est obligatoire pour assurer le suivi des stocks et déclencher votre facturation.
 
 ::: warning Obligation hebdomadaire — Lundi ou Mardi

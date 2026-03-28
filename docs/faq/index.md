@@ -9,6 +9,8 @@ keywords:
   - logistique
 ---
 
+# FAQ — Questions fréquentes
+
 Trouvez rapidement des réponses par thématique.
 
 <div class="gi-format-grid">

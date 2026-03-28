@@ -8,6 +8,8 @@ keywords:
   - pixel ouverture
 ---
 
+# Étape 2 : Tracking, Validation & Envoi
+
 Votre maquette est prête. Intégrez le tracking, soumettez un BAT et gérez la diffusion.
 
 ## Processus d'envoi

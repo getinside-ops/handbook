@@ -8,6 +8,8 @@ keywords:
   - brief form
 ---
 
+# Step 1: Advertiser Brief
+
 Your campaign starts here. The brief is the raw material that allows the retailer to design a high-performing email in your brand's style.
 
 ## Submit the form

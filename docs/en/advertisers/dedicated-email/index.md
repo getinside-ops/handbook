@@ -8,6 +8,8 @@ keywords:
   - advertiser email campaign
 ---
 
+# Dedicated Email (Advertiser)
+
 Broadcast your message exclusively to a qualified audience, carried by the retailer's recommendation.
 
 <div class="gi-format-grid">

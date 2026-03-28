@@ -8,6 +8,8 @@ keywords:
   - publicité sociale annonceur
 ---
 
+# Social Ads (Annonceur)
+
 Amplifiez votre message via les comptes sociaux de distributeurs partenaires — leur audience vous fait déjà confiance.
 
 ::: info Format sur demande

@@ -8,6 +8,8 @@ keywords:
   - distributeur
 ---
 
+# Emailing Dédié (Éditeur)
+
 Valorisez vos créneaux d'envoi libres en diffusant des campagnes dédiées pour le compte d'annonceurs sélectionnés.
 
 <div class="gi-format-grid">

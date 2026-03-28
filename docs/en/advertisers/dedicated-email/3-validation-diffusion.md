@@ -8,6 +8,8 @@ keywords:
   - dedicated email campaign
 ---
 
+# Step 3: Validation & Broadcast
+
 The creative is complete. Your action is required to unblock sending.
 
 ## Validation process

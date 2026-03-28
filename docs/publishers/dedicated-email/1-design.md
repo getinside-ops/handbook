@@ -8,6 +8,8 @@ keywords:
   - email dédié
 ---
 
+# Étape 1 : Conception de l'Email
+
 Une fois notifié d'une nouvelle campagne, vous concevez l'email. L'annonceur fournit le fond (l'offre), vous apportez la forme (le ton).
 
 ## Accéder au brief

@@ -8,6 +8,8 @@ keywords:
   - display email campaign advertiser
 ---
 
+# Newsletter Display (Display Email)
+
 Reach qualified buyers by inserting your banner into a partner e-retailer's emails — live within 48 hours.
 
 <div class="gi-format-grid">

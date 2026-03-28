@@ -8,6 +8,8 @@ keywords:
   - open pixel
 ---
 
+# Step 2: Tracking, Validation & Sending
+
 Your mockup is ready. Integrate tracking, submit a Print Proof (BAT), and manage the broadcast.
 
 ## Sending process

@@ -8,6 +8,8 @@ keywords:
   - monétisation newsletter
 ---
 
+# Encart Newsletter (Display Email)
+
 Insérez une bannière partenaire dans vos emails existants — zéro production de votre côté, revenu récurrent garanti.
 
 <div class="gi-format-grid">

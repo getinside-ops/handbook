@@ -8,6 +8,8 @@ keywords:
   - getinside retailer
 ---
 
+# Quick Start — Retailers
+
 You have just joined getinside. In 3 steps and 10 minutes, your profile is ready to receive campaigns.
 
 ## Step 1 — Activate your access

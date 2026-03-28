@@ -8,6 +8,8 @@ keywords:
   - reporting hebdomadaire
 ---
 
+# Insertion Colis (Sponsored Mail)
+
 Gérez vos campagnes d'insertion colis de la réception des flyers jusqu'à la déclaration des volumes distribués.
 
 <div class="gi-format-grid">

@@ -8,6 +8,8 @@ keywords:
   - dedicated email advertiser
 ---
 
+# Step 2: Production & Co-branding
+
 Once your brief is submitted, the retailer takes over to design the email. This step requires no action on your part.
 
 ## Why the retailer creates the email

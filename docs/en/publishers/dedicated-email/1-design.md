@@ -8,6 +8,8 @@ keywords:
   - dedicated email
 ---
 
+# Step 1: Email Creation
+
 Once notified of a new campaign, you design the email. The advertiser provides the substance (the offer), you provide the style (the tone).
 
 ## Access the brief

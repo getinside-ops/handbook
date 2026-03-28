@@ -8,6 +8,8 @@ keywords:
   - getinside distributeur
 ---
 
+# Démarrage Rapide — Distributeurs
+
 Vous venez de rejoindre getinside. En 3 étapes et 10 minutes, votre profil est prêt à recevoir des campagnes.
 
 ## Étape 1 — Activez votre accès

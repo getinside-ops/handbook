@@ -9,6 +9,8 @@ keywords:
   - pénalités contractuelles
 ---
 
+# Onboarding & Fonctionnement
+
 Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre régie, activez vos partenaires historiques et maximisez vos revenus.
 
 ## Phase 1 : Configuration et Activation

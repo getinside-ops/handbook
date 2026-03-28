@@ -8,6 +8,8 @@ keywords:
   - formulaire brief
 ---
 
+# Étape 1 : Brief Annonceur
+
 Votre campagne démarre ici. Le brief est la "matière première" qui permet au distributeur de concevoir un email performant à vos couleurs.
 
 ## Soumettre le formulaire

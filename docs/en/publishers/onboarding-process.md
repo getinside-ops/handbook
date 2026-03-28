@@ -9,6 +9,8 @@ keywords:
   - contractual penalties
 ---
 
+# Onboarding & Operations
+
 Don't just wait for campaigns: take control of your ad network, activate your existing partners, and maximise your revenue.
 
 ## Phase 1: Configuration and Activation

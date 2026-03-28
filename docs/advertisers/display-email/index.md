@@ -8,6 +8,8 @@ keywords:
   - campagne display annonceur
 ---
 
+# Encart Newsletter (Display Email)
+
 Touchez des acheteurs qualifiés en insérant votre bannière dans les emails d'un e-commerçant partenaire — mise en ligne en 48h.
 
 <div class="gi-format-grid">

@@ -8,6 +8,8 @@ keywords:
   - newsletter monetisation
 ---
 
+# Newsletter Display (Display Email)
+
 Insert a partner banner into your existing emails — zero production on your side, guaranteed recurring revenue.
 
 <div class="gi-format-grid">

@@ -8,6 +8,8 @@ keywords:
   - publisher
 ---
 
+# Dedicated Email (Publisher)
+
 Make the most of your available send slots by broadcasting dedicated campaigns on behalf of selected advertisers.
 
 <div class="gi-format-grid">

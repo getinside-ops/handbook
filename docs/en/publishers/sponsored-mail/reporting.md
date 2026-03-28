@@ -8,6 +8,8 @@ keywords:
   - retailer payment
 ---
 
+# Volume Tracking & Reporting
+
 Weekly reporting is mandatory to ensure inventory tracking and trigger your billing.
 
 ::: warning Weekly obligation — Monday or Tuesday
