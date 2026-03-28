@@ -112,14 +112,28 @@ According to the T&Cs, if you do not log in to the platform **AND** do not withd
 
 ## How to make a withdrawal?
 
-1. Log in to your distributor portal at **getinside.io**
-2. Go to **My Account → Wallet / P&L**
-3. Check your **Available Balance** (only this amount is withdrawable)
-4. Click on **Request a transfer**
-5. Enter the desired amount and confirm your IBAN
-6. Validate the request → you will receive a confirmation email
+1. Log in at **[app.getinside.media](https://app.getinside.media/)**
+2. Click on **Paiements** in the left menu
+3. Check your **Available Balance** (shown under "Revenus à transférer vers le wallet ou à retirer") — only this amount is withdrawable
+4. Click **Retirer** to open the 3-step withdrawal form:
 
-**Delay:** 30 days end of month after validation of your request and receipt of your invoice.
+**Step 1 — Amount**
+Enter the amount you wish to withdraw. Applicable withdrawal fees are displayed automatically.
+
+**Step 2 — Invoice**
+Edit your invoice using the getinside details shown on screen (company, address, SIRET, VAT number, reference, amount excl. and incl. VAT).
+
+::: warning
+Please ensure your invoice matches these details exactly, particularly the reference and total amount. Only compliant invoices will be processed and paid.
+:::
+
+**Step 3 — Bank details**
+Upload your invoice (PDF) and your bank identity statement (RIB).
+
+5. Check the certification box and click **Valider**
+6. The request then appears in **Paiements → Exchange tab**
+
+**Delay:** 30 days end of month after validation of your request and receipt of your compliant invoice.
 
 ## In case of problem
 

@@ -112,14 +112,28 @@ Conformément aux CGUC, si vous ne vous connectez pas à la plateforme **ET** ne
 
 ## Comment effectuer un retrait ?
 
-1. Connectez-vous à votre espace distributeur sur **getinside.io**
-2. Accédez à **Mon Compte → Wallet / P&L**
-3. Vérifiez votre **Solde Disponible** (uniquement ce montant est retirable)
-4. Cliquez sur **Demander un virement**
-5. Renseignez le montant souhaité et confirmez votre IBAN
-6. Validez la demande → vous recevrez un email de confirmation
+1. Connectez-vous sur **[app.getinside.media](https://app.getinside.media/)**
+2. Dans le menu latéral, cliquez sur **Paiements**
+3. Vérifiez votre **Solde disponible** (affiché sous "Revenus à transférer vers le wallet ou à retirer") — seul ce montant est retirable
+4. Cliquez sur **Retirer** pour ouvrir le formulaire en 3 étapes :
 
-**Délai :** 30 jours fin de mois après validation de votre demande et réception de votre facture.
+**Étape 1 — Montant**
+Renseignez le montant que vous souhaitez retirer. Les frais de retrait applicables s'affichent automatiquement.
+
+**Étape 2 — Facture**
+Éditez votre facture selon les informations getinside indiquées à l'écran (société, adresse, SIRET, numéro de TVA, référence, montant HT et TTC).
+
+::: warning
+Merci de bien vérifier que votre facture respecte ces informations, notamment sa référence et son montant total. Seules les factures conformes seront prises en compte et effectivement réglées.
+:::
+
+**Étape 3 — Coordonnées bancaires**
+Chargez votre facture (PDF) et votre relevé d'identité bancaire (RIB).
+
+5. Cochez la case de certification et cliquez sur **Valider**
+6. La demande apparaît ensuite dans **Paiements → onglet Exchange**
+
+**Délai :** 30 jours fin de mois après validation de votre demande et réception de votre facture conforme.
 
 ## En cas de problème
 
