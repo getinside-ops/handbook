@@ -22,6 +22,7 @@ Ces 3 blocs s'appliquent à **tous les annonceurs**, quel que soit le secteur.
 | :--- | :--- |
 | **Identification de l'annonceur** | Nom social · Forme juridique · Capital social · Adresse du siège · Numéro RCS + ville d'immatriculation |
 | **Logos environnement** | Cartouche Info-tri (Triman) — taille minimum **8 mm** · Logo getinside fourni avec les gabarits |
+| **Impression par getinside** | Si l'impression est réalisée par getinside : mention obligatoire *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* + logos FSC et Imprim'vert correspondants (fournis par getinside) |
 | **CGV de l'offre** | Dates de validité · Conditions particulières (ex : "valable dès 50€ d'achat") · Toute restriction d'usage |
 
 Exemple d'identification : *"ACME SAS au capital de 10 000€ — 12 rue de la Paix, 75001 Paris — RCS Paris 123 456 789"*
@@ -48,5 +49,5 @@ Si votre activité relève d'un des secteurs ci-dessous, la mention correspondan
 | **Assurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Code des Assurances |
 
 :::tip En cas de doute
-Si votre secteur n'est pas listé ou si vous hésitez sur la formulation exacte, transmettez votre BAT à [studio@getinside.fr](mailto:studio@getinside.fr) avant impression — notre équipe valide la conformité légale.
+Si votre secteur n'est pas listé ou si vous hésitez sur la formulation exacte, transmettez votre BAT à [studio@getinside.fr](mailto:studio@getinside.fr) avant impression — notre équipe valide votre créa, mais la conformité légale reste de votre responsabilité.
 :::

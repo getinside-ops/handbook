@@ -1,6 +1,6 @@
 ---
 title: Quick Start — Advertisers
-description: Launch your first getinside campaign in 4 steps and under 15 minutes.
+description: Send your first getinside campaign proposal in 4 steps and under 15 minutes.
 keywords:
   - advertiser onboarding
   - quick start
@@ -10,7 +10,7 @@ keywords:
 
 # Quick Start — Advertisers
 
-You want to launch your first campaign on getinside. In 4 steps and 15 minutes, your campaign is live.
+You want to launch your first campaign on getinside. In 4 steps and 15 minutes, your campaign proposal is sent to retailers.
 
 ## Step 1 — Create your account
 
@@ -41,10 +41,6 @@ Each format targets a different objective:
 | **Bundle** | Qualified lead collection, integrated game | 2–3 weeks | 550€ excl. VAT* |
 
 <p class="gi-footnote">* The Studio does not create Landing Pages for contests (retailer's responsibility).</p>
-
-::: tip Guaranteed responsiveness (SLA)
-Thanks to the **48-hour Rule**, retailers commit to responding to your proposals within 2 business days.
-:::
 
 ## Step 3 — Submit your brief
 

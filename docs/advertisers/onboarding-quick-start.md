@@ -1,6 +1,6 @@
 ---
 title: Démarrage Rapide — Annonceurs
-description: Lancez votre première campagne getinside en 4 étapes et moins de 15 minutes.
+description: Envoyez votre première proposition de campagne getinside en 4 étapes et moins de 15 minutes.
 keywords:
   - onboarding annonceur
   - démarrage rapide
@@ -10,7 +10,7 @@ keywords:
 
 # Démarrage Rapide — Annonceurs
 
-Vous souhaitez lancer votre première campagne sur getinside. En 4 étapes et 15 minutes, votre campagne est en cours de diffusion.
+Vous souhaitez lancer votre première campagne sur getinside. En 4 étapes et 15 minutes, votre proposition de campagne est envoyée aux retailers.
 
 ## Étape 1 — Créez votre compte
 
@@ -41,10 +41,6 @@ Chaque format cible un objectif différent :
 | **Bundle** | Collecte de leads qualifiés, jeu intégré | 2–3 semaines | 550€ HT* |
 
 <p class="gi-footnote">* Le Studio ne crée pas les Landing Pages pour les jeux-concours (responsabilité du distributeur).</p>
-
-::: tip Réactivité garantie (SLA)
-Grâce à la **Règle des 48 heures**, les distributeurs s'engagent à répondre à vos propositions sous 2 jours ouvrés.
-:::
 
 ## Étape 3 — Soumettez votre brief
 

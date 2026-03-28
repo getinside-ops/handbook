@@ -22,6 +22,7 @@ These 3 blocks apply to **all advertisers**, regardless of sector.
 | :--- | :--- |
 | **Advertiser identification** | Company name · Legal form · Share capital · Registered address · Company registration number + registration city |
 | **Environmental logos** | Info-tri (Triman) label — minimum **8 mm** · getinside logo included with the templates |
+| **Printing by getinside** | If printing is handled by getinside: mandatory notice *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* + corresponding FSC and Imprim'vert logos (provided by getinside) |
 | **Offer T&Cs** | Validity dates · Specific conditions (e.g. "valid from €50 purchase") · Any usage restrictions |
 
 Example identification: *"ACME SAS with share capital of €10,000 — 12 rue de la Paix, 75001 Paris — RCS Paris 123 456 789"*
@@ -48,5 +49,5 @@ If your business falls under one of the sectors below, the corresponding notice 
 | **Insurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Insurance Code |
 
 :::tip In case of doubt
-If your sector isn't listed or you're unsure of the exact wording, send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) before printing — our team validates legal compliance.
+If your sector isn't listed or you're unsure of the exact wording, send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) before printing — our team validates your creative, but legal compliance remains your responsibility.
 :::
