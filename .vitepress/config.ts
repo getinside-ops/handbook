@@ -182,6 +182,7 @@ const config: any = defineConfig({
               { text: 'Vue d\'ensemble', link: '/advertisers/' },
               { text: 'Démarrage Rapide', link: '/advertisers/onboarding-quick-start' },
               { text: 'Comparer les formats', link: '/advertisers/compare-formats' },
+              { text: 'Suivi & Mesure', link: '/advertisers/analytics' },
               {
                 text: 'Insertion Colis',
                 collapsed: true,
@@ -318,6 +319,7 @@ const config: any = defineConfig({
               { text: 'Overview', link: '/en/advertisers/' },
               { text: 'Quick Start', link: '/en/advertisers/onboarding-quick-start' },
               { text: 'Compare Formats', link: '/en/advertisers/compare-formats' },
+              { text: 'Analytics & Tracking', link: '/en/advertisers/analytics' },
               {
                 text: 'Parcel Inserts',
                 collapsed: true,
