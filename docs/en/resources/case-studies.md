@@ -1,8 +1,8 @@
 ---
 title: Inspirations & Case Studies
-description: Discover how brands use getinside — campaign examples across Sponsored Mail, Dedicated Email, and Parcel Inserts with measured results.
+description: getinside campaign examples with measured results — Sponsored Mail, Dedicated Email and Parcel Insert for brands including Nocibé, HelloFresh, Avène and Total Wash.
 keywords:
-  - case study retail media
+  - retail media case study
   - parcel insert campaign examples
   - sponsored mail campaign results
   - getinside success stories
@@ -10,13 +10,13 @@ keywords:
 
 # Inspirations & Case Studies
 
-Discover how other brands and distributors use getinside to achieve their acquisition and monetization goals.
+Campaign examples run on the getinside network with their measured results.
 
 <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create my campaign</a>
 
 ---
 
-## 📊 Best Sponsored Mail Campaigns
+## Best Sponsored Mail Campaigns
 
 Top Sponsored Mail campaigns selected by our teams.
 
@@ -33,40 +33,40 @@ Top Sponsored Mail campaigns selected by our teams.
 
 ---
 
-## 📧 Dedicated Email (Live Examples)
+## Dedicated Email — Live Examples
 
-Click on the buttons to see the actual rendering in the browser.
+Click the buttons to see the actual rendering in the browser.
 
 <div class="gi-format-grid">
   <div class="gi-format-card">
     <span class="gi-format-card-icon">💛</span>
     <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
     <span class="gi-format-card-desc">Charity campaign broadcast by Mieux que des Fleurs for Les Pièces Jaunes.</span>
-    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐾</span>
     <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
     <span class="gi-format-card-desc">Premium petfood campaign broadcast by La Redoute.</span>
-    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐱</span>
     <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
-    <span class="gi-format-card-desc">Children's fashion campaign broadcast by Caats, targeted at a Parents / Family audience.</span>
-    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <span class="gi-format-card-desc">Children's fashion campaign broadcast by Caats to a Parents / Family audience.</span>
+    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🥦</span>
     <span class="gi-format-card-title">Yooji x HelloFresh</span>
-    <span class="gi-format-card-desc">Baby food campaign broadcast by HelloFresh, targeting Young Parents.</span>
-    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+    <span class="gi-format-card-desc">Baby food campaign broadcast by HelloFresh targeting Young Parents.</span>
+    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">View render</a>
   </div>
 </div>
 
 ---
 
-## 📦 Parcel Insert & Success Stories
+## Parcel Insert & Customer Success
 
 Click on the images to zoom.
 
@@ -79,7 +79,7 @@ Click on the images to zoom.
       <h2>AVÈNE</h2>
       <Badge type="tip" text="Awareness" />
     </div>
-    <p>Develop awareness and generate traffic.</p>
+    <p>Develop brand awareness and generate traffic.</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Format</strong><span>Parcel Insert (Sampling)</span></div>
@@ -87,7 +87,7 @@ Click on the images to zoom.
       <div><strong>Volume</strong><span>30,000 ex.</span></div>
       <div><strong>Interaction</strong><span class="text-green-200 fw-700">5.40%</span></div>
     </div>
-    <div class="gi-case-quote">"Outsourced campaign operations and a turnkey campaign."</div>
+    <div class="gi-case-quote">"Outsourced campaign operations and a fully managed, turnkey campaign."</div>
   </div>
 </div>
 
@@ -129,7 +129,7 @@ Click on the images to zoom.
       <div><strong>Offer</strong><span>Gift Card</span></div>
       <div><strong>Conversion</strong><span>1% avg CVR</span></div>
     </div>
-    <div class="gi-case-quote">"A strategy allowing us to test all audiences and build a history."</div>
+    <div class="gi-case-quote">"A strategy allowing us to test all audiences and build a performance history."</div>
   </div>
 </div>
 
@@ -142,7 +142,7 @@ Click on the images to zoom.
       <h2>BAM KARAOKE</h2>
       <Badge type="info" text="Awareness" />
     </div>
-    <p>Develop awareness and introduce its B2B/B2C offer.</p>
+    <p>Develop awareness and introduce its B2B/B2C offering.</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Audience</strong><span>Food (Frichti)</span></div>
@@ -163,7 +163,7 @@ Click on the images to zoom.
       <h2>ULTRA PREMIUM</h2>
       <Badge type="warning" text="Conquest" />
     </div>
-    <p>Conquest strategy targeted at Families & High Income.</p>
+    <p>Conquest strategy targeting Families & Higher Income.</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Audience</strong><span>Health & Wellness</span></div>
@@ -171,7 +171,7 @@ Click on the images to zoom.
       <div><strong>Offer</strong><span>Gift Card</span></div>
       <div><strong>Interactions</strong><span class="text-green-200 fw-700">3.48%</span></div>
     </div>
-    <div class="gi-case-quote">"A logical range addition and a relevant recommendation."</div>
+    <div class="gi-case-quote">"A logical range addition and a highly relevant recommendation."</div>
   </div>
 </div>
 
@@ -234,47 +234,33 @@ Click on the images to zoom.
       <div><strong>Volume</strong><span>200,000 contacts</span></div>
       <div><strong>Interaction</strong><span class="text-green-200 fw-700">1.90%</span></div>
     </div>
-    <div class="gi-case-quote">"An effective campaign that builds brand awareness and benefits from The Bradery's image for a very accessible CPM."</div>
+    <div class="gi-case-quote">"An effective campaign that builds brand awareness and benefits from The Bradery's image at a very accessible CPM."</div>
   </div>
 </div>
 
 ---
 
-## 💬 Client Testimonials
+## Network Key Figures
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Avg. network CTR</strong>
-    <p><strong>2.64%</strong> — vs 0.90% on Meta Ads</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Record CTR</strong>
-    <p><strong>12%</strong> — Total Wash (Drive to App, Auto-Moto targeting)</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Record ROI</strong>
-    <p><strong>16:1</strong> — Nocibé (omnichannel Drive-to-Store campaign)</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Record ROAS</strong>
-    <p><strong>824%</strong> — Blacksheep (Parcel Insert)</p>
-  </div>
-</div>
+| Indicator | Result |
+|---|---|
+| Average network CTR | 2.64% — vs 0.90% on Meta Ads |
+| Record CTR | 12% — Total Wash (Drive to App, Auto-Moto targeting) |
+| Record ROI | 16:1 — Nocibé (omnichannel Drive-to-Store campaign) |
+| Record ROAS | 824% — Blacksheep (Parcel Insert) |
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Japhy</strong>
-    <p><em>"We are diversifying our customer acquisition with the addition of this lever that does not suffer from fierce competition."</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Pepette</strong>
-    <p><em>"A relevant lever with the ability to target HelloFresh's audience (food, home delivery)."</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Blacksheep</strong>
-    <p><em>"2.67% scan rate and a ROAS of 824%."</em></p>
-  </div>
-</div>
+---
+
+## Testimonials
+
+> "We are diversifying our customer acquisition with the addition of this lever that does not suffer from fierce competition."
+> — **Japhy**
+
+> "A relevant lever with the ability to target HelloFresh's audience (food, home delivery)."
+> — **Pepette**
+
+> "2.67% scan rate and a ROAS of 824%."
+> — **Blacksheep**
 
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>

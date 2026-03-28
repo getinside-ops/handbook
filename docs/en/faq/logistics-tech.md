@@ -1,88 +1,81 @@
 ---
-title: Logistics & Tech
+title: Logistics & Tech — FAQ
+description: "Answers to frequently asked questions about the technical and logistical aspects of getinside campaigns: QR codes, social ads, printing, GDPR and anti-fraud."
+keywords:
+  - getinside QR code
+  - parcel insert logistics
+  - flyer printing
+  - GDPR retail media
+  - TikTok Spark Ads
 ---
 
 # Logistics, Print & Tech
 
-## Technical Troubleshooting
+## Technical troubleshooting
 
-::: details My QR Code redirects to a 404 page
-**Probable cause:** The destination URL configured in the platform is empty or incorrect.
+::: details My QR code leads to a 404 page
+The destination URL configured in the platform is empty or incorrect. To fix:
 
-**Solution:**
 1. Log in to [app.getinside.media](https://app.getinside.media).
-2. Go to the relevant campaign → *Configuration* tab.
-3. Check the **"Redirection URL"** field.
-4. Save — the update is **instantaneous** (no need to reprint).
+2. Open the relevant campaign → **Configuration** tab.
+3. Check the **"Redirect URL"** field and save.
+
+The update is **instant** — no need to reprint.
 :::
 
-::: details I can't boost the Instagram post
-**Cause:** The "Allow partner to boost" box was not checked during publication.
+::: details I cannot boost the Instagram post
+The "Allow partner to boost" box was not checked during publication. To fix:
 
-**Solution:**
-1. Go to the Instagram post → 3 dots → Edit.
+1. Go to the Instagram post → 3 dots → **Edit**.
 2. Verify that the **"Paid partnership"** label is active.
-3. Verify that the **"Allow brand partner to boost"** option is active.
+3. Verify that the **"Allow brand partner to boost"** option is enabled.
 :::
 
-::: details I can't activate TikTok Spark Ads
-**Cause:** The ad authorization code has not been generated from the retailer's TikTok account.
+::: details I cannot activate TikTok Spark Ads
+The advertising authorisation was not generated from the distributor's TikTok account. To obtain the code:
 
-**Solution:**
-1. On TikTok, go to **Account Settings → Creator → Ad Settings**.
-2. Enable the **"Ad authorization"** option.
-3. Click **"Generate a code"** — this code is valid for 60 days.
-4. Send the code to the getinside team via the **campaign messaging** on the platform.
+1. On TikTok: **Account Settings → Creator → Ad Settings**.
+2. Enable **"Ad authorisation"**.
+3. Click **"Generate a code"** — valid for 60 days.
+4. Send the code to getinside via the campaign messaging.
 
-getinside uses this code to activate the Spark Ad from the TikTok Business Center. Without this code, the campaign cannot be launched.
+Without this code, the campaign cannot be launched from the TikTok Business Center.
 :::
 
 ::: details The image in my newsletter is not displaying
-**Cause:** Hosting or link issue.
+Check the following:
 
-Check:
-- Is the image link in `https`? (Mandatory)
-- Is the image hosted on a public server?
-- Have you respected the maximum weight (150 KB)?
+- Is the image link in `https`? (required)
+- Is the image hosted on a publicly accessible server?
+- Does the image size respect the 150 KB maximum?
 
-*Test: open the image URL alone in a private browser. If it doesn't load, the problem is with the hosting.*
+Quick test: open the image URL in a private browsing tab. If it does not load, the problem is with the hosting.
 :::
 
 ---
 
-## Logistics Management
+## Logistics management
 
-::: details I received the inserts early — can I start?
-It is imperative to have the advertiser's green light to broadcast a campaign earlier than planned. This can cause problems if the landing page is not yet active or if the campaign competes with another offer.
+::: details I received the inserts early — can I start distribution?
+No, not without the advertiser's go-ahead. Starting earlier than planned can cause problems if the landing page is not yet live or if the campaign conflicts with another offer currently running. Notify the advertiser via messaging before taking any action.
 :::
 
-::: details The flyers arrived damaged
-**Immediate action required (within 24h):**
+::: details The flyers arrived damaged — what should I do?
+Act within 24 hours:
 
 1. Take clear photos of the damaged boxes.
-2. Note specific reservations on the delivery slip (BL).
-3. Send everything to `logistique@getinside.fr`.
+2. Note specific reservations on the delivery slip.
+3. Send photos and delivery slip to [logistique@getinside.fr](mailto:logistique@getinside.fr).
 
-Do not distribute the damaged materials.
+Do not distribute damaged materials.
 :::
 
-::: details Stock discrepancy — I received more or fewer flyers than expected
-**You received FEWER:** immediately notify the advertiser and getinside via the campaign messaging.
+::: details I received more or fewer flyers than expected
+**Insufficient quantity:** report it immediately to the advertiser and getinside via the campaign messaging.
 
-**You received MORE (surplus):** this is normal. This surplus corresponds to the spoilage tolerance regulated by Article 38 of the Code of practices of the graphic industry (UNIIC). See the section below for details.
-:::
+**Surplus:** this is normal. Industrial printing generates variations regulated by Article 38 of the Code of practices of the graphic industry (UNIIC):
 
----
-
-## Management of Print Surplus (Spoilage Tolerance)
-
-Industrial printing generates inevitable variations between the quantity ordered and the quantity delivered. This is not an error — it is a codified production standard.
-
-:::tip Article 38 — Code of practices of the graphic industry (UNIIC)
-The buyer is **required to accept** the following delivery discrepancies, which are inherent to manufacturing hazards:
-:::
-
-| Ordered volume (BAT) | Legal tolerance |
+| Ordered volume | Legal tolerance |
 | :--- | :--- |
 | ≤ 2,000 ex | ± 10% |
 | ≤ 10,000 ex | ± 8% |
@@ -93,88 +86,61 @@ The buyer is **required to accept** the following delivery discrepancies, which 
 | ≤ 100,000 ex | ± 2.5% |
 | > 100,000 ex | ± 2% |
 
-**Procedure for surplus:**
-1. Distribute the surplus if possible (unchanged budget, additional volume = bonus for the advertiser).
-2. If insertion is impossible (warehouse full, campaign ended), direct to recycling.
-3. If the advertiser disputes: reference Article 38 UNIIC and your delivery slip.
-
----
-
-## Transport Damage
-
-:::: details I received a few damaged boxes — should I block the campaign?
-No, unless the damage exceeds 1% of the total volume.
-
-A **minor damage** (less than 1% of the delivered volume) is considered non-blocking according to the logistics standards of freight transport. In this case:
-
-1. Take clear photos of the damaged boxes.
-2. Note reservations on the delivery slip (BL).
-3. Isolate the damaged materials.
-4. Start distribution on the rest of the stock.
-5. Send the photos to `logistique@getinside.fr` for an insurance file if necessary.
-
-::: warning Major damage (> 1% of the volume)
-If the damage exceeds 1% of the volume or if the materials do not comply with the validated proof, **suspend the insertion** and contact `logistique@getinside.fr` before any distribution.
+Distribute the surplus if possible (budget unchanged, additional volume = bonus for the advertiser). If insertion is not possible, redirect to recycling.
 :::
-::::
 
----
+::: details I received a few damaged boxes — do I need to block the campaign?
+Not necessarily. Damage below **1% of the delivered volume** is considered non-blocking: photograph, note reservations on the delivery slip, isolate damaged materials, and start distribution on the remaining stock.
 
-## Security and Anti-Fraud
+::: warning Major damage (> 1% of volume)
+If damage exceeds 1% or if materials do not comply with the validated proof, **suspend insertion** and contact [logistique@getinside.fr](mailto:logistique@getinside.fr) before any distribution.
+:::
 
-getinside acts as a Trusted Third Party to guarantee the reality of distribution to advertisers. In addition to data tracking (QR codes, pixels, links), several control measures are in place.
-
-::: details How does getinside ensure that I am not lying about my volumes?
-The platform systematically compares your weekly declarations with **actual performance** (QR code scans, clicks). In the event of a major inconsistency, an alert is raised.
-
-To reinforce this security, getinside applies three levers:
-1. **"Mystery Shopping" Campaigns:** getinside or the advertiser can place anonymous orders to physically verify the presence of the insert in the package.
-2. **Proof of loading:** getinside reserves the right to ask you for a photo or video of your stocks or your packaging line during the campaign.
-3. **Fraud penalties:** Any proven fraudulent declaration leads to non-payment of the campaign, an immediate drop in the Retailer Score, and may give rise to a fixed financial penalty provided for in the T&Cs.
 :::
 
 ---
 
 ## Data & GDPR
 
-::: details An advertiser asks for the recipients' addresses — can I provide them?
-**No.** This request is not allowed, even if the advertiser insists.
+::: details An advertiser is asking for my recipients' addresses — can I share them?
+**No.** This request is not permitted, even if the advertiser insists.
 
-In Retail Media, customer data is a **First Party asset** that belongs exclusively to the Retailer (you). File transfer is legally prohibited without a new specific opt-in (GDPR).
-
-getinside operates as a **Trusted Third Party**: we route the advertiser's message to your audience, but the data never leaves your secure environment.
-
-If an advertiser makes this request, direct them to our team: [support@getinside.fr](mailto:support@getinside.fr).
+Your customer data is a First Party asset that belongs exclusively to you. File transfer is prohibited without a new specific opt-in (GDPR). getinside operates as a Trusted Third Party: the advertiser's message is routed to your audience without the data ever leaving your secure environment. Refer any such request to [support@getinside.fr](mailto:support@getinside.fr).
 :::
 
-::: details CSR and Printing Standards
-Our printing partners are certified **Imprim'vert**, ISO 9001/14001, and use FSC paper. Manual assembly (e.g., samples) is carried out by **Adapted Enterprises (EA)** promoting the employment of disabled workers.
-:::
-
-::: details Can I use the printing service for my own needs?
-Yes. As a central purchasing office, we offer all our members negotiated rates — for self-promotion or internal needs.
+::: details What are the CSR commitments for printing?
+Our printing partners are Imprim'vert certified, ISO 9001/14001 certified, and use FSC paper. Manual assembly (e.g., samples) is carried out by Adapted Enterprises (EA) promoting employment of workers with disabilities.
 :::
 
 ---
 
-## Design & Specifications
+## Security & anti-fraud
+
+::: details How does getinside verify declared volumes?
+The platform cross-references your weekly declarations against actual performance (QR code scans, clicks). In the event of a major discrepancy, an alert is raised. Three control mechanisms are applied:
+
+1. **"Mystery shopper" campaigns:** anonymous orders may be placed to physically verify the presence of the insert in the parcel.
+2. **Loading proof:** getinside may ask you for a photo or video of your stock or packaging line.
+3. **Fraud penalties:** any proven fraudulent declaration results in non-payment, an immediate drop in the Score Distributeur, and may give rise to a financial penalty set out in the Terms of Use.
+:::
+
+---
+
+## Design & creation
 
 ::: details Which software should I use to create my visuals?
-Adobe Illustrator (vector), Photoshop (raster, 300 DPI), InDesign (page layout) are recommended. Any software capable of exporting PDF/X CMYK (Affinity Publisher, Canva Pro, etc.) is accepted.
+Adobe Illustrator (vector), Photoshop (raster, 300 DPI) and InDesign (page layout) are recommended. Any software capable of exporting PDF/X CMYK is accepted: Affinity Publisher, Canva Pro, etc.
 :::
-
----
-
-## Creation & Tracking
 
 ::: details Can getinside create my visuals?
-Yes. Our **Creative Studio** can produce your flyers, emails, or banners for a flat fee of **550€ HT** per campaign.
+Yes. The Creative Studio produces your flyers, emails or banners for a flat fee of **550€ HT** per campaign. Contact: [studio@getinside.fr](mailto:studio@getinside.fr)
+
+→ [Learn more about the Studio](/en/resources/studio)
 :::
 
-::: details How to track sales (ROI)?
-getinside does not place a pixel on your site. Attribution relies on two levers:
+::: details How do I measure the ROI of my campaign?
+getinside does not place a pixel on your site. Attribution relies on two complementary levers:
 
-1. **Unique Promo Code:** create a specific code (e.g., `THANKS20`).
-2. **UTM Links:** configure the URL of your QR Code with UTM parameters (e.g., `utm_source=parcel-insert`) to track traffic in Google Analytics.
+1. **Unique promo code:** create a code specific to the campaign (e.g., `THANKS20`).
+2. **UTM links:** configure the QR code URL with UTM parameters (e.g., `utm_source=parcel-insert`) to track traffic in Google Analytics.
 :::
-

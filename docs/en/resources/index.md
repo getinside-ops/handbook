@@ -1,20 +1,16 @@
 ---
-title: Retail Media Resources & Tools - getinside
-description: Download our guides, case studies, templates, and creative resources to optimize your retail media campaigns and maximize your revenue.
+title: Resources & Tools
+description: Access templates, case studies, creative studio and technical guides to manage your getinside campaigns independently.
 keywords:
   - retail media resources
-  - case studies
-  - marketing guides
-  - templates
-  - creative tools
-  - best practices
-  - getinside resources
-  - e-commerce guides
+  - print templates
+  - getinside case studies
+  - creative studio
 ---
 
-# Resource Center
+# Resource Centre
 
-<p class="gi-page-intro">Access tools, files, inspirations, and guides to manage your operations independently.</p>
+Tools, files, inspirations and guides to manage your operations independently.
 
 <div class="gi-nav-list">
   <a href="library/" class="gi-nav-card">
@@ -29,7 +25,7 @@ keywords:
     <span class="gi-nav-card-icon">💡</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Inspirations & Case Studies</p>
-      <p class="gi-nav-card-desc">Real examples of campaigns (Email, Parcel) and metrics.</p>
+      <p class="gi-nav-card-desc">Real campaign examples (Email, Parcel) with measured results.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -37,7 +33,7 @@ keywords:
     <span class="gi-nav-card-icon">🎨</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Creative Studio</p>
-      <p class="gi-nav-card-desc">Delegate graphic production to our experts (flat rate offer).</p>
+      <p class="gi-nav-card-desc">Delegate graphic production to our experts — flat rate 550€ HT per campaign.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -45,7 +41,7 @@ keywords:
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting</p>
-      <p class="gi-nav-card-desc">Solutions to frequent problems: tracking, QR codes, delivery.</p>
+      <p class="gi-nav-card-desc">Solutions to frequent problems: Wallet, QR codes, delivery, data entry.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

@@ -1,164 +1,58 @@
 ---
-title: How Retail Media Works - getinside
-description: Understand the getinside retail media ecosystem. From trust transfer to contextual matching, discover the 3 levers of monetization.
+title: Why It Works — The getinside Model
+description: "The getinside retail media model rests on three complementary mechanisms: trust transfer, contextual matching and a circular economic model for e-merchants."
 keywords:
   - retail media
+  - advertising endorsement
   - contextual matching
-  - endorsed advertising
-  - parcel monetization
-  - affiliate platform
-  - trust transfer
-  - getinside
-  - e-commerce growth
+  - e-commerce monetisation
+  - virtuous circle
 image: /images/gi-keyvisual.svg
 ---
 
-# How does it work? 
+# Why It Works
 
-## The getinside Retail Media Ecosystem
+getinside formats outperform because they combine three mechanisms that classic digital advertising never brings together: guaranteed attention, retailer trust and contextual relevance. Each mechanism is measurable. Together, they produce exceptional results.
 
-**getinside** connects retailers and advertisers through shared assets: parcels, emails, social media. The platform uses **contextual matching** — the intelligent placement of complementary offers to consumers at the exact moment they are most receptive — to create endorsed campaigns (recommended by the retailer) with **conversion rates up to 5x higher** than traditional display.
+## Trust Transfer
 
-| Actor | Action | Flow |
-|--------|--------|------|
-| 📦 **E-retailer** | Sends its parcels and emails to its customers | Available inventory |
-| ⚡ **Platform** | Connects inventory to partner brands | Contextual matching |
-| 📢 **Advertiser** | Buys this space to broadcast its offer | Distributed campaigns |
-| 💰 **Reinvestment** | Earnings fund your own acquisition | Self-funded growth |
+When an e-merchant distributes your offer in their parcels or post-purchase email, they lend you their customer relationship. The consumer has already bought from that retailer — they trust them. That trust transfers to your brand.
 
-::: info The Virtuous Cycle
+This is what we call **endorsement**: you are not an intruder in an ad feed, you are a partner recommended by a retailer the buyer knows and respects. The effect is directly measurable: the average network CTR reaches **2.64%**, versus 0.90% on Meta. This is not a marginal difference — it is a multiplier on your ROI.
 
-The e-retailer monetizes its parcels and emails, receives immediately accessible revenue via its Wallet, then reinvests it to acquire its own audience from complementary partners. Shipping costs become a recurring revenue stream.
+## Contextual Matching
 
-:::
-
-## Trust Transfer (Endorsement)
-
-The common thread between a parcel, a newsletter, and a brand's social post:
-
-- **Customer Relationship:** The consumer has already purchased or voluntarily subscribed.
-- **Credibility:** They trust the retailer (the e-retailer).
-- **Attention:** They expect this content (order tracking, news).
-
-::: tip The Halo Effect
-
-By inserting yourself into this ecosystem, your brand instantly benefits from this trust capital. You are no longer an intruder, you are a **recommended partner**.
-
-The **Dedicated Emailing** format pushes this effect to the maximum: the retailer themself writes the message in the 1st person ("Dear customers, here is our favorite..."), transforming the partner brand into a natural extension of their recommendations.
-
-:::
-
-## For the E-retailer: The economic logic
-
-::: info The virtuous circle of Reinvestment
-
-These revenues feed your **EBITDA** directly, with **65-70% net margins** from your existing logistics assets.
+The platform does not distribute at random. Each campaign is paired with a product universe that is coherent with the retailer's audience. The right message reaches the right person, in the right context.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>1. Monetization</strong>
-    <p>Your parcels and emails generate cash thanks to third-party advertisers.</p>
+    <strong>Product complementarity</strong>
+    <p>A sports nutrition brand at a running equipment retailer. A wine subscription at a fine grocery store.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2. Instant Transfer</strong>
-    <p>Your earnings are available on your Wallet. No need to wait for a bank transfer.</p>
+    <strong>Maximum attention moment</strong>
+    <p>The parcel insert is read during unboxing — 100% read rate, with no competition for attention.</p>
   </div>
   <div class="gi-value-card">
-    <strong>3. Acquisition</strong>
-    <p>You reinvest this budget to broadcast YOUR campaigns to complementary partners.</p>
+    <strong>Qualified audience</strong>
+    <p>40 million consumers reachable via 250+ e-merchants — without buying third-party data.</p>
   </div>
 </div>
 
-*Result: You finance your customer acquisition... thanks to your own parcels!*
+The direct result: **10 to 30% post-scan conversion**, levels that standard display advertising cannot reach. getinside campaigns reach active buyers, in a moment of emotional openness — unboxing, reading an anticipated email.
+
+## The Circular Economic Model for Retailers
+
+For e-merchants, getinside transforms cost centres (shipments, emails) into recurring revenue streams. This revenue is available immediately in the platform Wallet, without any billing delay.
+
+This Wallet can be reinvested directly to purchase acquisition campaigns with complementary partners — at 0% platform fees on reinvestment. Your shipping costs finance your own growth.
+
+Net margin on this revenue reaches **65 to 70%**, because the assets — logistics, email list — already exist. There is no additional infrastructure to build. Every parcel shipped generates advertising revenue on top of its logistical role.
+
+::: tip Score Distributeur
+
+Your visibility in the platform's search engine depends on your **Score Distributeur** (1 to 5 stars). It measures 7 criteria: pricing, weekly volume, brand attractiveness, inventory reliability, audience responsiveness, campaign history, communication/reporting. A high score attracts premium advertisers and increases your revenues.
 
 :::
 
-## 3 Levers, 1 Ecosystem
-
-getinside covers your physical and digital touchpoints.
-
-The getinside network covers **40 million active consumers** accessible through 250+ partner e-retailers — no third-party data purchase required.
-
-| Lever | Key Strength | Strategic Role |
-|--------|-----------|-----------------|
-| 📦 **Parcel Insert** | **100% attention** — hyper-concentration of the consumer during unboxing | Memory anchoring, physical handling, maximum conversion |
-| 📧 **Dedicated Emailing** | **Volume & Responsiveness** | Immediate traffic, "Flash" offers, behavioral targeting |
-| 📱 **Social Ads** | **Virality & Data** | Brand awareness, social proof, youth recruitment |
-
-## getinside Expertise: Your Accelerator
-
-Running retail media in-house takes time.
-
-<div class="gi-table-full">
-
-| 🚫 Without getinside | ✅ With getinside |
-|---|---|
-| Negotiating with 50 sites one by one. | A single point of contact. |
-| Managing 50 invoices and contracts. | A single centralized invoice. |
-| Print quality risk. | Certified logistics and CSR process. |
-| No format standardization. | Standardized tracking. |
-| Scattered reporting. | Strategic advice included. |
-
-</div>
-
-## Quality as a Growth Engine
-
-::: warning ⭐ The Distributor Score: Your access key
-
-Each partner e-retailer receives a **Distributor Score** (1-5 stars) based on **7 key criteria**: competitive pricing, weekly distribution volume, brand attractiveness, inventory reliability, audience responsiveness, campaign history, and communication/reporting.
-
-This score determines your **visibility in the platform's search engine** and your priority access to premium campaigns. Excellent execution strengthens this score, builds lasting trust with advertisers, and opens doors to growing revenue opportunities.
-
-:::
-
-## Contextual Matching: Relevance above all
-
-The power of getinside lies in its **contextual consistency**. We offer **complementary offers** at the exact moment the consumer needs them.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <span>🍷 <strong>The Epicurean</strong> (Newsletter)</span>
-    <p>Trigger: Purchase of aged cheese.</p>
-    <p>➔ Offer pushed: A box of selected wines.</p>
-  </div>
-  <div class="gi-value-card">
-    <span>🏃 <strong>The Athlete</strong> (Social Ads)</span>
-    <p>Trigger: Follower of a running equipment brand.</p>
-    <p>➔ Offer pushed: Nutrition & recovery program.</p>
-  </div>
-  <div class="gi-value-card">
-    <span>👶 <strong>Young Parents</strong> (Parcel Insert)</span>
-    <p>Trigger: Order of early learning toys.</p>
-    <p>➔ Offer pushed: Organic clothing for kids.</p>
-  </div>
-  <div class="gi-value-card">
-    <span>🪴 <strong>Home Sweet Home</strong> (Parcel Insert)</span>
-    <p>Trigger: Purchase of linen bed sheets.</p>
-    <p>➔ Offer pushed: Fresh flowers subscription.</p>
-  </div>
-</div>
-
-## AI at the Service of Matching
-
-**getinside** uses AI to match advertisers with audiences automatically.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🤖 Smart Matching</strong>
-    <p>The algorithm connects advertisers to the most relevant audiences by cross-referencing product universe, average basket, buyer profile, and historical performance.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📈 CPA Prediction</strong>
-    <p>Before launch, the platform predicts the expected Cost Per Acquisition — the advertiser validates the profitability of their campaign before committing any budget.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>⚖️ Optimal Pricing</strong>
-    <p>AI finds the balance between the distributor's revenue expectations and the advertiser's ROAS objectives — so that every deal is win-win.</p>
-  </div>
-</div>
-
-::: tip
-
-[Discuss my project →](mailto:studio@getinside.com)
-
-:::
+[See the Advertisers section →](/en/advertisers/) · [See the Retailers section →](/en/publishers/)
