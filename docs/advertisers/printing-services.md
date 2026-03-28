@@ -1,102 +1,73 @@
 ---
 title: Impression & Logistique
+description: getinside gère l'impression, le façonnage et la livraison en entrepôt de vos supports. Made in France, certifié Imprim'Vert, tarifs dégressifs.
+keywords:
+  - impression flyer
+  - logistique colis
+  - Imprim'Vert
+  - Made in France
+  - routage entrepôt
 ---
 
-# Services d'Impression et Logistique
+# Impression & Logistique
 
-getinside agit comme une **centrale d'achat** pour mutualiser les volumes et réduire vos coûts d'impression responsable.
+getinside mutualise les volumes de tout son réseau pour vous donner accès à des tarifs d'impression industriels. Vous vous concentrez sur votre campagne — la production et la livraison sont gérées de bout en bout.
 
----
+## Comment ça marche
 
-## Une qualité certifiée
-
-<div class="gi-cert-row">
-  <div class="gi-cert-item">
-    <span class="gi-cert-icon">🇫🇷</span>
-    <strong>Made in France</strong>
-    <span>100% de la production en ateliers français.</span>
-  </div>
-  <div class="gi-cert-item">
-    <span class="gi-cert-icon">🌱</span>
-    <strong>Éco-responsabilité</strong>
-    <span>Certification Imprim'Vert · Encres végétales · Papier FSC et PEFC.</span>
-  </div>
-  <div class="gi-cert-item">
-    <span class="gi-cert-icon">✅</span>
-    <strong>Normes ISO</strong>
-    <span>ISO 9001 (Qualité) et ISO 14001 (Environnement).</span>
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Ajoutez l'option lors de la création de campagne</h3>
+    <p>L'option d'impression est proposée automatiquement sur la plateforme. Sélectionnez le format, la quantité et transmettez votre fichier conforme aux <a href="./sponsored-mail/design-guide/print-specs">spécifications techniques</a>.</p>
   </div>
 </div>
 
----
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Production en atelier français</h3>
+    <p>Vos supports sont imprimés dans nos ateliers partenaires certifiés, façonnés (découpe, pliage, assemblage échantillon) par des Entreprises Adaptées employant au moins 80% de travailleurs en situation de handicap.</p>
+  </div>
+</div>
 
-## Spécifications papier
+<div class="gi-step">
+  <div class="gi-step-num done">3</div>
+  <div class="gi-step-body">
+    <h3>Livraison synchronisée aux entrepôts</h3>
+    <p>Vos impressions sont livrées directement aux entrepôts des distributeurs, synchronisées sur leur lead time logistique. Zéro stockage de votre côté.</p>
+  </div>
+</div>
+
+## Spécifications
 
 | Critère | Spécification |
 | :--- | :--- |
 | **Formats** | A5 (148 × 210 mm), A6 (105 × 148 mm), Carte cadeau |
 | **Grammage** | 250 à 300 g/m² |
 | **Type** | Couché mat ou couché demi-mat |
-| **Certification** | FSC ou PEFC obligatoire |
-| **Pelliculage** | ❌ Non — rend les QR codes moins lisibles |
+| **Certification papier** | FSC ou PEFC obligatoire |
+| **Pelliculage** | Non — rend les QR codes moins lisibles |
 
----
-
-## Cas d'usage
+## Ce qui est inclus
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Pour vos campagnes (Sponsored Mail)</strong>
-    <p>Vous réservez une campagne chez un distributeur partenaire. getinside imprime vos supports, gère l'assemblage (ex : point de colle fugitive pour échantillon) et livre directement à l'entrepôt du distributeur.</p>
+    <strong>Made in France</strong>
+    <p>100% de la production en ateliers français, certification Imprim'Vert, encres végétales, papier FSC/PEFC, ISO 9001 et ISO 14001.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🏷️ Auto-promotion (Pour vous)</strong>
-    <p>Vous souhaitez imprimer vos propres cartes de remerciement ou flyers à insérer dans <strong>vos propres colis</strong> ? Créez une campagne "interne" via la plateforme et bénéficiez de nos tarifs de groupe industriels. Livraison en palettes chez vous.</p>
+    <strong>Tout inclus, tarif unique</strong>
+    <p>Impression + façonnage + transport. Le coût s'affiche lors de la configuration de campagne. Tarifs dégressifs : le coût unitaire baisse avec le volume.</p>
   </div>
 </div>
 
----
-
-## Modèle économique
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>💎 Transparence</strong>
-    <p>Le coût est affiché clairement lors de la configuration de la campagne. Aucune surprise.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📦 Tout inclus</strong>
-    <p>Impression + Façonnage + Transport. Un seul poste, un seul interlocuteur.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📉 Économies d'échelle</strong>
-    <p>Plus le volume est important, plus le coût unitaire baisse. Les tarifs dégressifs s'appliquent à partir des premiers milliers d'exemplaires.</p>
-  </div>
-</div>
-
-:::tip Livraison en flux tendu
-Les impressions sont livrées directement aux entrepôts des distributeurs, synchronisées sur leur **Lead Time** logistique. La marchandise arrive exactement quand le partenaire en a besoin — zéro stockage inutile de votre côté.
+::: tip Auto-promotion
+Vous souhaitez imprimer vos propres cartes de remerciement ou flyers pour vos propres colis ? Créez une campagne "interne" sur la plateforme et bénéficiez des tarifs de groupe. Livraison en palettes chez vous.
 :::
 
----
+## Démarrer
 
-## Engagement Handicap
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Partenariat Exclusif avec des Entreprises Adaptées (EA)</strong>
-    <p>Pour toutes les opérations manuelles (assemblage, collage d'échantillons, mise sous pli), nous travaillons exclusivement avec des <strong>Entreprises Adaptées</strong>, qui emploient au moins <strong>80% de travailleurs en situation de handicap</strong> dans leurs effectifs de production.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Impact Social Direct</strong>
-    <p>En confiant votre logistique à getinside, vous soutenez l'insertion professionnelle de personnes éloignées du marché du travail. Nos partenaires œuvrent notamment pour maintenir l'emploi en milieu rural et accompagner la montée en compétences de leurs salariés.</p>
-  </div>
-</div>
-
----
-
-:::info Comment commander ?
-L'option d'impression vous est proposée automatiquement lors de la création d'une campagne sur la plateforme.
+L'option est disponible directement dans le formulaire de création de campagne sur [app.getinside.media](https://app.getinside.media/){target="_blank"}.
 
 Pour une demande spécifique (formats spéciaux, assemblage sur mesure) : [studio@getinside.fr](mailto:studio@getinside.fr)
-:::

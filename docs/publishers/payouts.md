@@ -1,125 +1,96 @@
 ---
-title: Paiement des Revenus
+title: Paiements & Wallet
+description: Suivez vos revenus en temps réel, gérez vos retraits et optimisez votre trésorerie. Le réinvestissement est disponible à 0% de frais.
+keywords:
+  - wallet publisher
+  - retrait revenus
+  - paiement distributeur
+  - frais retrait
+  - réinvestissement
 ---
 
-# Gestion des Revenus et Paiements
+# Paiements & Wallet
 
-Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les frais.
+Vos revenus de campagnes s'accumulent dans votre Wallet au fil des distributions. Vous décidez quand les retirer ou les réinvestir.
 
-## Suivi du P&L (Wallet)
+## Suivi du Wallet
 
 ::: tip Solde disponible en temps réel
-Vos revenus sont visibles en temps réel sur la plateforme.
-
-Consultez à tout moment votre **Solde Disponible** = *(Revenus validés) - (Retraits effectués)*.
+Consultez à tout moment votre Solde Disponible = *(Revenus validés) - (Retraits effectués)* depuis votre espace Paiements.
 :::
 
-### Quand mes revenus deviennent disponibles ?
+### Quand mes revenus sont-ils disponibles ?
 
-::: info
-**📅 Timeline de validation**
-
-1. **Campagne distribuée :** Le jour où vous confirmez la distribution (lot expédié, volumes déclarés).
-2. **Délai de protection (30 jours) :** Votre revenu reste en *attente* pendant 30 jours → permet de détecter les anomalies (cartons perdus, campagne interrompue).
-3. **✅ Revenu validé :** Après 30 jours sans incident, le montant passe en *Solde Disponible* et peut être retiré.
-:::
-
-::: tip Cas normal (pas de problème)
-J1 : Distribution confirmée → J31 : Revenu devient disponible → Vous pouvez retirer.
-:::
-
-::: warning Anomalie détectée pendant les 30 jours
-Ex : cartons perdus, campagne bloquée → Nous vous contactons pour résoudre. Le délai peut être prolongé jusqu'à règlement.
-:::
-
-## Politique de Retrait et Frais
-
-Regroupez vos retraits pour réduire les formalités administratives.
-
-### Structure Tarifaire selon votre Offre
-
-| Offre | Frais de retrait |
-|-------|-----------------|
-| 🟡 **Starter** | **1er retrait de l'année civile : GRATUIT** <br> Suivants : **5%** de frais de traitement |
-| 🟢 **Plateforme & Managed** | **GRATUIT & ILLIMITÉ** — aucun frais de retrait |
-
-::: tip
-**Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/publishers/pricing).
-:::
-
-### Délais de Paiement
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📄 Pré-requis</strong>
-    <p>Soumettez votre <strong>facture conforme</strong> avec la demande de retrait. Sans facture valide, le paiement ne peut pas être traité.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🏦 Délai de Paiement</strong>
-    <p><strong>30 jours fin de mois</strong> après validation de votre demande.<br>Ex : demande validée en mars → paiement avant fin avril.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>💰 Montant Minimum</strong>
-    <p><strong>Pas de minimum imposé.</strong> Retirez dès que vous avez un solde disponible.</p>
-  </div>
-</div>
-
-### Actions requises pour créditer votre Wallet
+1. **Distribution confirmée** — Vous déclarez les volumes distribués (lundi ou mardi pour l'insertion colis) ou cliquez sur "Valider la diffusion" (emailing).
+2. **Délai de protection (30 jours)** — Le revenu reste en attente pour permettre la détection d'anomalies.
+3. **Revenu validé** — Après 30 jours sans incident, le montant passe en Solde Disponible et peut être retiré.
 
 ::: warning Vos revenus ne se créditent pas automatiquement
-Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part** selon le format :
+Le Wallet n'est mis à jour qu'après une action manuelle de votre part : déclaration de volume (Insertion Colis) ou validation de diffusion (Emailing).
 :::
 
-| Format | Action requise | Où sur la plateforme |
-|--------|---------------|----------------------|
-| 📦 Insertion Colis | Déclarez les volumes chaque **lundi ou mardi** | Mes Campagnes → campagne → Déclarer le volume |
-| 📧 Emailing (Dédié ou Display) | Cliquez sur **"Valider la diffusion"** après l'envoi | Mes Campagnes → campagne → Valider la diffusion |
+## Frais de retrait
 
-## Comment éviter les frais de 5% ? *(Offre Starter uniquement)*
+| Offre | Frais de retrait |
+| :--- | :--- |
+| **Starter** | 1er retrait de l'année civile gratuit, puis **5%** |
+| **Plateforme & Managed** | Gratuit et illimité |
+
+**Délai de paiement :** 30 jours fin de mois après validation de votre demande et réception de votre facture conforme.
+
+## Comment éviter les frais de 5% (Offre Starter)
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>Option A : Le "Cumul"</strong>
-    <p>Laissez vos revenus s'accumuler sur votre cagnotte. En espaçant vos retraits, retirez vos revenus une fois par an — un retrait groupé <strong>sans frais</strong>.</p>
+    <strong>Cumuler et retirer une fois par an</strong>
+    <p>Laissez vos revenus s'accumuler et effectuez un seul retrait annuel — le premier retrait de l'année civile est gratuit.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Option B : Le Réinvestissement</strong>
-    <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Insertion Colis ou Emailing). 1€ gagné = 1€ réinvesti en trafic, sans friction bancaire.</p>
+    <strong>Réinvestir à 0% de frais</strong>
+    <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (insertion colis, emailing). 1€ gagné = 1€ investi sans friction bancaire.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Option C : Passer à l'offre Plateforme</strong>
-    <p>Supprimez définitivement les frais de retrait (499€ HT/mois). Rentable dès que vos retraits dépassent ~850€/mois, et vous accédez en prime à la prospection active des +300 annonceurs.</p>
+    <strong>Passer à l'offre Plateforme</strong>
+    <p>499€ HT/mois — retraits illimités et gratuits, plus accès à la prospection active des +300 annonceurs. → <a href="/publishers/pricing">Voir les offres</a></p>
   </div>
 </div>
 
-## Comment effectuer un retrait ?
+## Comment effectuer un retrait
 
-1. Connectez-vous sur **[app.getinside.media](https://app.getinside.media/)**
-2. Dans le menu latéral, cliquez sur **Paiements**
-3. Vérifiez votre **Solde disponible** (affiché sous "Revenus à transférer vers le wallet ou à retirer") — seul ce montant est retirable
-4. Cliquez sur **Retirer** pour ouvrir le formulaire en 3 étapes :
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Vérifiez votre solde disponible</h3>
+    <p>Connectez-vous sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> → menu Paiements. Seul le montant affiché sous "Revenus à transférer vers le wallet ou à retirer" est retirable.</p>
+  </div>
+</div>
 
-**Étape 1 — Montant**
-Renseignez le montant que vous souhaitez retirer. Les frais de retrait applicables s'affichent automatiquement.
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Renseignez le montant</h3>
+    <p>Cliquez sur Retirer. Les frais applicables s'affichent automatiquement avant confirmation.</p>
+  </div>
+</div>
 
-**Étape 2 — Facture**
-Éditez votre facture selon les informations getinside indiquées à l'écran (société, adresse, SIRET, numéro de TVA, référence, montant HT et TTC).
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Soumettez votre facture</h3>
+    <p>Éditez votre facture selon les informations getinside affichées à l'écran (société, adresse, SIRET, TVA, référence, montant HT et TTC). Seules les factures conformes sont traitées.</p>
+  </div>
+</div>
 
-::: warning
-Merci de bien vérifier que votre facture respecte ces informations, notamment sa référence et son montant total. Seules les factures conformes seront prises en compte et effectivement réglées.
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Chargez vos coordonnées bancaires</h3>
+    <p>Téléchargez votre facture (PDF) et votre RIB. Cochez la case de certification et cliquez sur Valider. La demande apparaît dans Paiements → onglet Exchange.</p>
+  </div>
+</div>
+
+::: info Pénalité d'annulation
+Toute campagne annulée après engagement est soumise à une pénalité de **550€ HT**. Assurez-vous de confirmer uniquement les campagnes que vous pouvez honorer.
 :::
 
-**Étape 3 — Coordonnées bancaires**
-Chargez votre facture (PDF) et votre relevé d'identité bancaire (RIB).
-
-5. Cochez la case de certification et cliquez sur **Valider**
-6. La demande apparaît ensuite dans **Paiements → onglet Exchange**
-
-**Délai :** 30 jours fin de mois après validation de votre demande et réception de votre facture conforme.
-
-## En cas de problème
-
-Votre solde ne correspond pas à vos attentes ? Un retrait tarde ?
-
-→ Consultez le guide [Problèmes Wallet & Paiements](/faq/troubleshooting-distributors) pour les cas fréquents et leur solution.
-
+En cas de problème, consultez le guide [Problèmes Wallet & Paiements](/faq/troubleshooting-distributors).
