@@ -1,5 +1,11 @@
 ---
 title: Spécifications Bannières
+description: Formats, contraintes techniques et bonnes pratiques de design pour les bannières Display Email getinside.
+keywords:
+  - spécifications bannière email
+  - display email format
+  - leaderboard 600x150
+  - GIF animé email
 ---
 
 # Spécifications Bannières
@@ -28,7 +34,7 @@ Standards à respecter pour garantir un affichage optimal sur tous les clients m
 :::warning GIF animés — règle de la première frame
 Les GIFs animés sont acceptés, mais **Outlook (versions bureau) n'affiche que la première image**.
 
-→ L'information principale et le Call-to-Action doivent impérativement figurer sur la **première frame**.
+L'information principale et le Call-to-Action doivent impérativement figurer sur la **première frame**.
 :::
 
 ---
@@ -36,11 +42,7 @@ Les GIFs animés sont acceptés, mais **Outlook (versions bureau) n'affiche que 
 ## Bonnes Pratiques Design
 
 :::tip Fond blanc : ajoutez une bordure
-Si votre bannière a un fond blanc, elle risque de se fondre dans l'arrière-plan de l'email et de devenir invisible.
-
-Ajoutez une **bordure grise de 1 px** (`#cccccc`) tout autour de votre visuel pour bien la délimiter.
+Si votre bannière a un fond blanc, ajoutez une **bordure grise de 1 px** (`#cccccc`) tout autour pour bien la délimiter sur fond d'email.
 :::
 
-:::tip Lisibilité mobile
 Sur mobile, une bannière 600 px est réduite à ~350 px de large. Évitez les polices trop fines ou trop petites — **taille minimum recommandée : 16 px**.
-:::

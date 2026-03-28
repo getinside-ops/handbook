@@ -1,10 +1,16 @@
 ---
 title: Intégration & Envoi
+description: Comment intégrer une bannière Display Email dans votre newsletter et valider la diffusion pour déclencher la rémunération.
+keywords:
+  - intégration display email
+  - lien tracké gtinsi.de
+  - validation diffusion newsletter
+  - rémunération publisher email
 ---
 
 # Intégration et Diffusion
 
-Le processus est rapide — assurez-vous simplement d'utiliser le bon lien de redirection pour être payé.
+Le processus est rapide — assurez-vous simplement d'utiliser le bon lien de redirection pour être rémunéré.
 
 ---
 

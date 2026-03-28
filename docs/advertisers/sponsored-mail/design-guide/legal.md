@@ -18,23 +18,15 @@ Toute publicité imprimée engage votre responsabilité. Ces éléments sont obl
 
 Ces 3 blocs s'appliquent à **tous les annonceurs**, quel que soit le secteur.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>1. Identification de l'annonceur</strong>
-    <p>Nom social · Forme juridique · Capital social · Adresse du siège · Numéro RCS + ville d'immatriculation</p>
-    <p><em>Exemple : "ACME SAS au capital de 10 000€ — 12 rue de la Paix, 75001 Paris — RCS Paris 123 456 789"</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>2. Logos environnement</strong>
-    <p><strong>Cartouche Info-tri (Triman)</strong> — taille minimum 8 mm. Obligatoire depuis la Loi AGEC.</p>
-    <p><strong>Logo getinside</strong> — fourni avec les gabarits.</p>
-    <p><a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank">Télécharger le pack Logos</a></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>3. CGV de l'offre</strong>
-    <p>Dates de validité de l'offre · Conditions particulières (ex : "valable dès 50€ d'achat") · Toute restriction d'usage</p>
-  </div>
-</div>
+| Mention | Contenu requis |
+| :--- | :--- |
+| **Identification de l'annonceur** | Nom social · Forme juridique · Capital social · Adresse du siège · Numéro RCS + ville d'immatriculation |
+| **Logos environnement** | Cartouche Info-tri (Triman) — taille minimum **8 mm** · Logo getinside fourni avec les gabarits |
+| **CGV de l'offre** | Dates de validité · Conditions particulières (ex : "valable dès 50€ d'achat") · Toute restriction d'usage |
+
+Exemple d'identification : *"ACME SAS au capital de 10 000€ — 12 rue de la Paix, 75001 Paris — RCS Paris 123 456 789"*
+
+[Télécharger le pack Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
 
 ---
 

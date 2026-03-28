@@ -1,5 +1,11 @@
 ---
 title: Process & Validation
+description: Étapes de soumission, tracking et validation d'une campagne Display Email getinside — de l'envoi du visuel à la diffusion.
+keywords:
+  - workflow display email
+  - validation campagne email
+  - tracking clics bannière
+  - BAT newsletter
 ---
 
 # Workflow de Campagne
@@ -33,8 +39,7 @@ Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumi
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Intégration et Validation (BAT)</h3>
-    <p>Le distributeur intègre votre image dans sa newsletter et vous envoie un BAT (Bon à Tirer) pour prévisualisation.</p>
-    <p>Vérifiez le rendu — notamment sur mobile — puis validez sur la plateforme.</p>
+    <p>Le distributeur intègre votre image dans sa newsletter et vous envoie un BAT (Bon à Tirer) pour prévisualisation. Vérifiez le rendu — notamment sur mobile — puis validez sur la plateforme.</p>
   </div>
 </div>
 

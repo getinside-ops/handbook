@@ -1,45 +1,28 @@
 ---
 title: Gérer les listes d'exclusion de contacts
-description: Comment recevoir et appliquer une liste d'exclusion d'un annonceur avant l'envoi d'une campagne Email Dédié — contacts opt-out RGPD ou clients existants à écarter d'une campagne d'acquisition.
+description: Comment recevoir et appliquer une liste d'exclusion d'un annonceur avant l'envoi d'une campagne Email Dédié — contacts opt-out RGPD ou clients existants à écarter de la diffusion.
 keywords:
   - liste d'exclusion
   - suppression list
-  - opt-out
-  - clients existants
-  - exclusion campagne
-  - RGPD
-  - SFTP
-  - ESP
+  - opt-out RGPD
   - email hashé SHA-256
+  - SFTP exclusion ESP
 ---
 
 # Gérer les listes d'exclusion de contacts
 
-Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour écarter certains contacts de la diffusion — c'est vous qui l'appliquez dans votre ESP. Deux cas de figure :
+Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour écarter certains contacts de la diffusion — c'est vous qui l'appliquez dans votre ESP.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Contacts opt-out</strong>
-    <p>Des contacts se sont désabonnés des communications de l'annonceur. Leur exclusion est obligatoire pour rester conforme au RGPD.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Clients existants</strong>
-    <p>L'annonceur souhaite cibler uniquement de nouveaux prospects et exclure ses clients actuels — pas besoin de démarcher quelqu'un qui le connaît déjà.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Les deux</strong>
-    <p>Opt-out et clients existants : l'annonceur fusionne les deux listes en un seul fichier avant de vous le transmettre.</p>
-  </div>
-</div>
+| Cas d'usage | Description |
+| :--- | :--- |
+| **Contacts opt-out** | Des contacts se sont désabonnés des communications de l'annonceur. Leur exclusion est obligatoire pour rester conforme au RGPD. |
+| **Clients existants** | L'annonceur souhaite cibler uniquement de nouveaux prospects et exclure ses clients actuels. |
+| **Les deux** | L'annonceur fusionne les deux listes en un seul fichier avant de vous le transmettre. |
 
 Ce n'est pas systématique — beaucoup de campagnes n'en ont pas. Mais quand un annonceur en envoie une, voici comment la recevoir et l'appliquer.
 
----
-
-## Ne jamais échanger des emails via messagerie
-
 :::danger Données personnelles — canal sécurisé obligatoire
-Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les demandez pas par email ou messagerie getinside. Ne les transmettez pas non plus par ces canaux.
+Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les demandez pas par email ou messagerie getinside.
 
 Tout fichier contenant des adresses (même hashées) doit passer par un protocole sécurisé.
 :::
@@ -48,16 +31,7 @@ Tout fichier contenant des adresses (même hashées) doit passer par un protocol
 
 ## Recevoir le fichier
 
-La méthode recommandée est le transfert SFTP avec **FileZilla** côté annonceur.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
-    <strong>FileZilla</strong>
-    <p>Gratuit, open source, disponible sur Windows, macOS et Linux. L'annonceur dépose le fichier via une interface graphique — pas de ligne de commande, juste un glisser-déposer.</p>
-    <p><a href="https://filezilla-project.org/" target="_blank">Télécharger FileZilla →</a></p>
-  </div>
-</div>
+La méthode recommandée est le transfert SFTP avec **FileZilla** côté annonceur ([Télécharger FileZilla](https://filezilla-project.org/){target="_blank"} — gratuit, Windows / macOS / Linux).
 
 Créez un accès SFTP sur votre serveur et communiquez ces informations à l'annonceur :
 
@@ -77,7 +51,7 @@ Utilisez un gestionnaire de mots de passe avec partage sécurisé (1Password, Bi
 
 **SFTP avec clé SSH**
 
-Option plus sécurisée, à privilégier si vous travaillez régulièrement avec le même annonceur. L'annonceur génère une paire de clés SSH et vous transmet sa clé publique — votre équipe technique l'ajoute au serveur. FileZilla supporte aussi cette méthode.
+Option plus sécurisée, à privilégier si vous travaillez régulièrement avec le même annonceur. L'annonceur génère une paire de clés SSH et vous transmet sa clé publique — votre équipe technique l'ajoute au serveur.
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
@@ -125,20 +99,20 @@ Générez un SAS Token restreint à l'opération `Write`, valable 48h. Renouvele
 
 Si vous utilisez Eulerian, l'intégration avec l'annonceur est native — pas de fichier à gérer.
 
-Pour tout autre ESP ou DMP avec une API d'audience, transmettez la documentation de votre endpoint à l'annonceur et créez les accès nécessaires.
+Pour tout autre ESP ou DMP avec une API d'audience, transmettez la documentation de votre endpoint à l'annonceur.
 :::
 
 ---
 
 ## Appliquer les exclusions dans votre ESP
 
-Une fois le fichier reçu, importez-le dans votre routeur **avant** de programmer l'envoi.
+Importez le fichier dans votre routeur **avant** de programmer l'envoi.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Vérifier le fichier reçu</h3>
-    <p>Contrôlez l'encodage (UTF-8), le séparateur et le header. Si le fichier contient des emails hashés SHA-256, vérifiez que votre ESP gère ce format — la plupart le font, mais pas tous.</p>
+    <p>Contrôlez l'encodage (UTF-8), le séparateur et le header. Si le fichier contient des emails hashés SHA-256, vérifiez que votre ESP gère ce format.</p>
   </div>
 </div>
 
@@ -175,11 +149,11 @@ La plupart des ESP modernes (Mailchimp, Brevo, Klaviyo, Mailjet…) acceptent le
 :::
 
 :::details L'annonceur veut envoyer la liste par email — que répondre ?
-Refusez et redirigez vers cette page. Les adresses email sont des données personnelles : leur transmission via messagerie n'est pas conforme au RGPD. Proposez l'une des méthodes listées ici.
+Refusez et redirigez vers cette page. Les adresses email sont des données personnelles : leur transmission via messagerie n'est pas conforme au RGPD.
 :::
 
 :::details Dois-je conserver le fichier après l'envoi ?
-Non. Une fois les exclusions importées et l'envoi confirmé, supprimez le fichier de votre serveur. La liste dans votre ESP n'a plus d'utilité après l'envoi — archivez-la ou supprimez-la.
+Non. Une fois les exclusions importées et l'envoi confirmé, supprimez le fichier de votre serveur.
 :::
 
 :::details Que faire si je reçois le fichier le jour J ?

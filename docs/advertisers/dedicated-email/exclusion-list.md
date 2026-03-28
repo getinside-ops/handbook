@@ -4,37 +4,20 @@ description: Comment transmettre une liste d'exclusion à un retailer partenaire
 keywords:
   - liste d'exclusion
   - suppression list
-  - opt-out
-  - clients existants
-  - exclusion campagne
-  - RGPD
+  - opt-out RGPD
   - email hashé SHA-256
-  - SFTP
-  - FileZilla
+  - SFTP exclusion
 ---
 
 # Liste d'exclusion de contacts
 
 Avant l'envoi, vous pouvez transmettre au retailer une liste d'exclusion pour écarter certains contacts de la diffusion.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Contacts opt-out</strong>
-    <p>Des contacts se sont désabonnés de vos communications. Leur exclusion est obligatoire pour rester conforme au RGPD.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Clients existants</strong>
-    <p>Vous souhaitez cibler uniquement de nouveaux prospects et exclure vos clients actuels — pas besoin de démarcher quelqu'un qui vous connaît déjà.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Les deux</strong>
-    <p>Opt-out et clients existants : vous fusionnez les deux listes en un seul fichier avant de le transmettre.</p>
-  </div>
-</div>
-
----
-
-## Ne jamais envoyer des adresses via messagerie
+| Cas d'usage | Description |
+| :--- | :--- |
+| **Contacts opt-out** | Des contacts se sont désabonnés de vos communications. Leur exclusion est obligatoire pour rester conforme au RGPD. |
+| **Clients existants** | Vous souhaitez cibler uniquement de nouveaux prospects et exclure vos clients actuels. |
+| **Les deux** | Fusionnez les deux listes en un seul fichier avant de le transmettre. |
 
 :::danger Données personnelles — canal sécurisé obligatoire
 Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les transmettez pas par email, messagerie getinside ou WeTransfer.
@@ -46,16 +29,7 @@ Tout fichier contenant des adresses (même hashées) doit passer par un protocol
 
 ## Transmettre le fichier
 
-La méthode recommandée est le dépôt SFTP avec **FileZilla**.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <img src="/handbook/images/filezilla-logo.svg" alt="FileZilla" style="width: 48px; height: 48px; margin-bottom: 12px; display: block;">
-    <strong>FileZilla</strong>
-    <p>Gratuit, open source, disponible sur Windows, macOS et Linux. Déposez votre fichier via une interface graphique — pas de ligne de commande, juste un glisser-déposer.</p>
-    <p><a href="https://filezilla-project.org/" target="_blank">Télécharger FileZilla →</a></p>
-  </div>
-</div>
+La méthode recommandée est le dépôt SFTP avec **FileZilla** ([Télécharger FileZilla](https://filezilla-project.org/){target="_blank"} — gratuit, Windows / macOS / Linux).
 
 Le retailer vous communique les informations de connexion SFTP :
 
