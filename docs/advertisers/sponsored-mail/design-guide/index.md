@@ -17,6 +17,23 @@ Le déballage d'un colis est un moment à part. Le consommateur vient de recevoi
 Aucun contenu n'est diffusé à un distributeur sans validation préalable de getinside via la plateforme. Soumettez votre BAT numérique avant toute impression.
 :::
 
+## Meilleures Campagnes
+
+Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes — utilisez-les comme inspiration pour vos propres flyers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSTqmfiDpw7W6dGz9ef2ex3PR1pKhdm3hAbLcvtthrniRtdpDWf4l1meTaySmi9QaQ3CXlMrdh57acp/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
 ## Process de validation
 
 <div class="gi-step">

@@ -17,6 +17,23 @@ Unboxing is an unusual moment. The consumer just received something they ordered
 No content is distributed to a retailer without prior validation from getinside via the platform. Submit your digital proof (BAT) before any printing.
 :::
 
+## Best Performing Campaigns
+
+Top Sponsored Mail campaigns selected by our teams — use these as inspiration for your own flyers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSTqmfiDpw7W6dGz9ef2ex3PR1pKhdm3hAbLcvtthrniRtdpDWf4l1meTaySmi9QaQ3CXlMrdh57acp/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
 ## Validation process
 
 <div class="gi-step">
@@ -111,23 +128,6 @@ The retailer has veto rights over the **brand** (direct competitor, incompatible
 ::: details How do I track campaign performance?
 Your getinside advertiser dashboard gives you access to QR scans in real time and inserted flyer volumes (updated each week). Add UTM parameters to your destination URL for Google Analytics tracking, and a unique promo code per retailer for offline attribution.
 :::
-
----
-
-## Best Performing Campaigns
-
-Top Sponsored Mail campaigns selected by our teams — use these as inspiration for your own flyers.
-
-<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
-  <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vSTqmfiDpw7W6dGz9ef2ex3PR1pKhdm3hAbLcvtthrniRtdpDWf4l1meTaySmi9QaQ3CXlMrdh57acp/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    allowfullscreen="true"
-    mozallowfullscreen="true"
-    webkitallowfullscreen="true">
-  </iframe>
-</div>
 
 ---
 
