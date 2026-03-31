@@ -19,6 +19,9 @@ hero:
     - theme: brand
       text: Where to start?
       link: /en/start-here/
+    - theme: alt
+      text: Sponsored Mail Design Guide
+      link: /en/advertisers/sponsored-mail/design-guide/
 
 features:
   - icon: 🎯

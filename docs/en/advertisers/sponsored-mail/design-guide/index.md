@@ -114,6 +114,23 @@ Your getinside advertiser dashboard gives you access to QR scans in real time an
 
 ---
 
+## Best Performing Campaigns
+
+Top Sponsored Mail campaigns selected by our teams — use these as inspiration for your own flyers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSTqmfiDpw7W6dGz9ef2ex3PR1pKhdm3hAbLcvtthrniRtdpDWf4l1meTaySmi9QaQ3CXlMrdh57acp/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
 ## Resources
 
 - [Examples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"} — Successful campaigns
