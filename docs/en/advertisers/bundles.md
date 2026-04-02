@@ -13,6 +13,21 @@ keywords:
 
 A Bundle is a coordinated campaign that activates multiple inventory channels from a single e-retailer in one operation: parcel insert, email, social, display. Where a standalone campaign creates a single exposure, a Bundle creates a presence effect that multiplies conversion rates.
 
+## Bundle Examples
+
+Browse a selection of Bundles offered by our retailers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
 ## How it works
 
 <div class="gi-step">
@@ -89,21 +104,6 @@ AJY (wellness brand) achieved a 21.6% scan rate with a "Discover your Dosha" qui
 | **Prize** | Your responsibility — market value + shipping to winners |
 
 The package price is generally more cost-effective than buying the channels separately. You can adjust the contents of the pack (remove a channel, modify volume) in direct discussion with the retailer.
-
-## Bundle Examples
-
-Browse a selection of Bundles offered by our retailers.
-
-<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
-  <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    allowfullscreen="true"
-    mozallowfullscreen="true"
-    webkitallowfullscreen="true">
-  </iframe>
-</div>
 
 ## Get started
 

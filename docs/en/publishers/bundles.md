@@ -13,6 +13,21 @@ keywords:
 
 A Bundle means packaging several of your advertising inventories — Sponsored Mail, email, social, banners — into a single flat-fee offer. You monetise spaces that are hard to sell alone by pairing them with your best inventory, and you increase your average revenue per campaign.
 
+## Bundle Examples
+
+Browse a selection of Bundles offered by our retailers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
 ## How it works
 
 <div class="gi-step">
@@ -84,18 +99,3 @@ The flat fee price integrates your added value (setup, brand image, animation) b
 1. Define your standard pack (inventories + flat fee price).
 2. Contact the getinside Publisher team.
 3. Your offer is created in the catalogue with a dedicated icon.
-
-## Bundle Examples
-
-Browse a selection of Bundles offered by our retailers.
-
-<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
-  <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    allowfullscreen="true"
-    mozallowfullscreen="true"
-    webkitallowfullscreen="true">
-  </iframe>
-</div>

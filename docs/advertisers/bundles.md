@@ -13,6 +13,21 @@ keywords:
 
 Un Bundle, c'est un dispositif scénarisé qui active plusieurs inventaires d'un même e-commerçant en une seule opération : insertion colis, email, social, display. Là où une campagne isolée génère une exposition, un Bundle crée un effet de présence qui multiplie les taux de conversion.
 
+## Exemples de Bundles
+
+Découvrez une sélection de Bundles proposés par nos retailers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
 ## Comment ça marche
 
 <div class="gi-step">
@@ -89,21 +104,6 @@ AJY (marque bien-être) a obtenu 21,6% de taux de scan avec un quiz "Découvrez 
 | **Dotation** | À votre charge — valeur marchande + expédition aux gagnants |
 
 Le prix au forfait est généralement plus avantageux que la somme des leviers achetés séparément. Vous pouvez ajuster le contenu du pack (retirer un levier, modifier le volume) en discussion directe avec le retailer.
-
-## Exemples de Bundles
-
-Découvrez une sélection de Bundles proposés par nos retailers.
-
-<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
-  <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    allowfullscreen="true"
-    mozallowfullscreen="true"
-    webkitallowfullscreen="true">
-  </iframe>
-</div>
 
 ## Démarrer
 
