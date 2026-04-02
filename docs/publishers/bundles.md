@@ -84,3 +84,18 @@ Le prix forfaitaire intègre votre valeur ajoutée (mise en place, image de marq
 1. Définissez votre pack standard (inventaires + prix forfaitaire).
 2. Contactez l'équipe Publisher de getinside.
 3. Votre offre est créée dans le catalogue avec un pictogramme dédié.
+
+## Exemples de Bundles
+
+Découvrez une sélection de Bundles proposés par nos retailers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
