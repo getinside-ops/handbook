@@ -36,7 +36,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Annonceur (Advertiser)</dt>
   <dd>Marque qui achète de l'espace publicitaire pour promouvoir ses produits ou services auprès des audiences des distributeurs.</dd>
   <dt>Annonceur Partenaire (Partner Advertiser)</dt>
-  <dd>Annonceur avec lequel un distributeur collabore directement via la plateforme, sans frais de plateforme sur les offres Plateforme ou Managed.</dd>
+  <dd>Annonceur avec lequel un distributeur collabore directement via la plateforme, sans frais de plateforme sur l'offre Plateforme.</dd>
   <dt>Annonceur Prospect</dt>
   <dd>Cible commerciale identifiée ou importée par le distributeur pour piloter son pipeline d'acquisition de nouveaux annonceurs via le CRM intégré.</dd>
   <dt>Audience Lookalike (LAL 1st Party)</dt>

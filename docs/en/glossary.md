@@ -36,7 +36,7 @@ Definitions of technical terms and acronyms used on the platform.
   <dt>Advertiser (Annonceur)</dt>
   <dd>Brand that purchases advertising space to promote its products or services to retailer audiences.</dd>
   <dt>Partner Advertiser (Annonceur Partenaire)</dt>
-  <dd>Advertiser with whom a distributor collaborates directly via the platform, with no platform fees on Platform or Managed offers.</dd>
+  <dd>Advertiser with whom a distributor collaborates directly via the platform, with no platform fees on the Platform offer.</dd>
   <dt>Prospect Advertiser (Annonceur Prospect)</dt>
   <dd>Commercial target identified or imported by the distributor to manage their new-advertiser acquisition pipeline via the integrated CRM.</dd>
   <dt>Lookalike Audience (1st Party LAL)</dt>

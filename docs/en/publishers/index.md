@@ -115,11 +115,11 @@ Five formats cover your existing assets: packages, transactional emails, newslet
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="pricing#offre-managed" class="gi-nav-card">
+  <a href="pricing" class="gi-nav-card">
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Prospect Advertisers <Badge type="warning" text="Managed" /></p>
-      <p class="gi-nav-card-desc">Import your prospect lists, track your sales actions, and manage in-acquisition revenue.</p>
+      <p class="gi-nav-card-title">Prospect Network Advertisers</p>
+      <p class="gi-nav-card-desc">Access 200+ listed advertisers and send your campaign proposals in just a few clicks.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -131,7 +131,7 @@ Five formats cover your existing assets: packages, transactional emails, newslet
   <a href="pricing" class="gi-format-card">
     <span class="gi-format-card-icon">💎</span>
     <span class="gi-format-card-title">Subscriptions & Plans</span>
-    <p class="gi-format-card-desc">Starter (free), Platform, or Managed — choose your tier.</p>
+    <p class="gi-format-card-desc">Starter (free) or Platform — choose your tier.</p>
   </a>
   <a href="payouts" class="gi-format-card">
     <span class="gi-format-card-icon">💸</span>

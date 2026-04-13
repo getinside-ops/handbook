@@ -54,9 +54,8 @@ Les frais de 5% s'appliquent uniquement pour l'offre **Starter**, à partir du 2
 |-------|-----------------|
 | Starter | 1er retrait/an : gratuit · Suivants : 5% |
 | Plateforme | Tous les retraits : gratuits |
-| Managed | Tous les retraits : gratuits |
 
-Si vous êtes sur Plateforme ou Managed et que des frais ont été prélevés, contactez le support immédiatement — c'est une erreur.
+Si vous êtes sur Plateforme et que des frais ont été prélevés, contactez le support immédiatement — c'est une erreur.
 :::
 
 ::: details Des fonds ont été prélevés de mon Wallet sans que je l'aie demandé

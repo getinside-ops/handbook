@@ -54,9 +54,8 @@ The 5% fee applies only to the **Starter** offer, from the 2nd withdrawal of the
 |-------|-----------------|
 | Starter | 1st withdrawal/year: free · Subsequent: 5% |
 | Platform | All withdrawals: free |
-| Managed | All withdrawals: free |
 
-If you are on Platform or Managed and a fee was deducted, contact support immediately — this is an error.
+If you are on Platform and a fee was deducted, contact support immediately — this is an error.
 :::
 
 ::: details Funds were deducted from my Wallet without my request

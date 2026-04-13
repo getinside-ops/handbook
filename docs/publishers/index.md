@@ -115,11 +115,11 @@ Cinq formats couvrent vos actifs existants : colis, emails transactionnels, news
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="pricing#offre-managed" class="gi-nav-card">
+  <a href="pricing" class="gi-nav-card">
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Annonceurs Prospects <Badge type="warning" text="Managed" /></p>
-      <p class="gi-nav-card-desc">Importez vos listes de prospects, suivez vos actions commerciales et pilotez vos revenus en cours d'acquisition.</p>
+      <p class="gi-nav-card-title">Prospectez les Annonceurs du Réseau</p>
+      <p class="gi-nav-card-desc">Accédez à plus de 200 annonceurs référencés et adressez vos propositions de campagne en quelques clics.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -131,7 +131,7 @@ Cinq formats couvrent vos actifs existants : colis, emails transactionnels, news
   <a href="pricing" class="gi-format-card">
     <span class="gi-format-card-icon">💎</span>
     <span class="gi-format-card-title">Abonnements & Offres</span>
-    <p class="gi-format-card-desc">Starter (gratuit), Plateforme ou Managed — choisissez votre niveau.</p>
+    <p class="gi-format-card-desc">Starter (gratuit) ou Plateforme — choisissez votre niveau.</p>
   </a>
   <a href="payouts" class="gi-format-card">
     <span class="gi-format-card-icon">💸</span>

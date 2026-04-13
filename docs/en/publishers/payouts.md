@@ -34,7 +34,7 @@ The Wallet is only updated after a manual action on your part: volume declaratio
 | Plan | Withdrawal fees |
 | :--- | :--- |
 | **Starter** | First withdrawal of the calendar year free, then **5%** |
-| **Platform & Managed** | Free and unlimited |
+| **Platform** | Free and unlimited |
 
 **Payment timeline:** 30 days end of month after validation of your request and receipt of your compliant invoice.
 
@@ -51,7 +51,7 @@ The Wallet is only updated after a manual action on your part: volume declaratio
   </div>
   <div class="gi-value-card">
     <strong>Upgrade to Platform</strong>
-    <p>499€ excl. VAT/month — unlimited and free withdrawals, plus direct access to prospecting 300+ advertisers. → <a href="/publishers/pricing">View plans</a></p>
+    <p>299€ excl. VAT/month — unlimited and free withdrawals, plus direct access to prospecting 200+ advertisers. → <a href="/publishers/pricing">View plans</a></p>
   </div>
 </div>
 

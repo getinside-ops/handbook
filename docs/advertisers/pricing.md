@@ -33,7 +33,7 @@ getinside est une plateforme en libre-service. Accès gratuit, modèle transpare
 :::
 
 ::: info Vous êtes aussi e-commerçant ?
-Si vous monétisez vos colis ou emailings via getinside, votre abonnement distributeur (Starter, Plateforme, Managed) est distinct de vos achats campagnes. → [Voir les offres distributeurs](/publishers/pricing)
+Si vous monétisez vos colis ou emailings via getinside, votre abonnement distributeur (Starter ou Plateforme) est distinct de vos achats campagnes. → [Voir les offres distributeurs](/publishers/pricing)
 :::
 
 ::: info Quand est générée la facture ?

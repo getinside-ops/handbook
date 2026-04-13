@@ -1,6 +1,6 @@
 ---
 title: Tarifs & Abonnements
-description: Trois niveaux d'offre selon votre maturité et vos objectifs de revenus. Starter gratuit, Plateforme à 499€ HT/mois, Managed à 1 499€ HT/mois. Marges nettes de 65 à 70%.
+description: Deux niveaux d'offre selon votre maturité et vos objectifs de revenus. Starter gratuit, Plateforme à 299€ HT/mois. Marges nettes de 65 à 70%.
 keywords:
   - tarifs publisher
   - abonnement distributeur
@@ -11,7 +11,7 @@ keywords:
 
 # Tarifs & Abonnements
 
-getinside propose trois niveaux d'accompagnement. Vos marges nettes varient de **65 à 70%** selon votre offre et votre volume — des frais de régie dégressifs s'appliquent automatiquement à mesure que vos revenus augmentent.
+getinside propose deux niveaux d'accompagnement. Vos marges nettes varient de **65 à 70%** selon votre offre et votre volume — des frais de régie dégressifs s'appliquent automatiquement à mesure que vos revenus augmentent.
 
 ## Détail des offres
 
@@ -20,55 +20,46 @@ getinside propose trois niveaux d'accompagnement. Vos marges nettes varient de *
   <div class="gi-pricing-card">
     <h3>Starter</h3>
     <div class="gi-pricing-price">Gratuit</div>
-    <p class="gi-pricing-desc">Débutez la monétisation sans coût fixe.</p>
+    <p class="gi-pricing-desc">Aucun coût fixe.</p>
     <hr class="gi-pricing-divider" />
     <ul class="gi-pricing-features">
-      <li><strong>Commercialisation :</strong> Recevez des offres de notre régie (Inbound).</li>
-      <li><strong>Affiliation :</strong> Touchez 20% sur les gains de vos filleuls.</li>
-      <li><em>Frais de retrait : 5% (1er retrait annuel gratuit)</em></li>
+      <li><strong>Monétisez votre audience :</strong> Recevez des propositions de campagnes de notre régie intégrée, acceptez-les ou refusez-les librement.</li>
+      <li><strong>Déléguez votre prospection :</strong> Désignez les annonceurs que vous souhaitez recruter et déclenchez une prospection ciblée avec un commercial à temps partagé.</li>
+      <li><em>Premier retrait annuel gratuit puis 5% de frais de retrait</em></li>
     </ul>
-    <div class="gi-pricing-badge"><strong>30%</strong> de Frais de Régie</div>
+    <div class="gi-pricing-badge"><strong>30%</strong> de commission de commercialisation</div>
   </div>
 
   <div class="gi-pricing-card featured">
-    <h3 class="gi-pricing-title-featured">Plateforme <Badge type="tip" text="Populaire" /></h3>
-    <div class="gi-pricing-price featured">499€ <span>HT/mois</span></div>
-    <p class="gi-pricing-desc">Devenez votre propre régie : prospectez en direct les +300 annonceurs du réseau, maximisez vos marges et retirez vos revenus sans frais.</p>
+    <h3 class="gi-pricing-title-featured">Plateforme</h3>
+    <div class="gi-pricing-price featured">299€ <span>HT / mois</span></div>
+    <p class="gi-pricing-desc">Devenez votre propre régie : prospectez en direct, créez votre réseau annonceurs et réalisez de l'échange d'audience — le tout sans commission plateforme.</p>
     <hr class="gi-pricing-divider" />
     <ul class="gi-pricing-features">
-      <li><strong>Prospection active :</strong> Contactez les +300 annonceurs en direct depuis la plateforme.</li>
-      <li><strong>Collaboration directe :</strong> Vos partenaires Trade & Autopromo à <strong>0% de frais</strong>.</li>
-      <li><strong>Retraits illimités et gratuits.</strong></li>
+      <li><strong>Prospectez les annonceurs de notre réseau :</strong> Sélectionnez et adressez en quelques clics vos propositions de campagne à plus de 200 annonceurs déjà référencés sur notre plateforme.</li>
+      <li><strong>Créez et hébergez votre réseau annonceurs :</strong> Intégrez vos annonceurs, gérez vos collaborations commerciales et opérez toutes vos campagnes de Trade Marketing ou Retail Media.</li>
+      <li><strong>Réalisez de l'échange d'audience :</strong> Trouvez des audiences cibles sur la plateforme et proposez des campagnes réciproques sans transaction financière.</li>
+      <li><strong>Pilotage des revenus :</strong> Planifiez votre performance commerciale et suivez l'évolution de vos objectifs.</li>
+      <li><strong>Aucun frais de retrait.</strong></li>
     </ul>
-    <div class="gi-pricing-badge featured"><strong>30% à 15%</strong> (Dégressif*)</div>
-  </div>
-
-  <div class="gi-pricing-card">
-    <h3>Managed</h3>
-    <div class="gi-pricing-price">1 499€ <span>HT/mois</span></div>
-    <p class="gi-pricing-desc">Déléguez l'acquisition à nos experts pour un volume maximal.</p>
-    <hr class="gi-pricing-divider" />
-    <ul class="gi-pricing-features">
-      <li><strong>Account Manager dédié</strong> (Sales Ops) — 1 jour/semaine à votre service.</li>
-      <li>Volume de campagnes multiplié — acquisition totalement déléguée.</li>
-      <li><strong>Retraits illimités et gratuits.</strong></li>
-    </ul>
-    <div class="gi-pricing-badge"><strong>15%</strong> Frais de Régie fixes</div>
+    <div class="gi-pricing-badge featured"><strong>De 30% à 15%</strong> de commission de commercialisation selon vos revenus générés*</div>
   </div>
 
 </div>
 
 ## Comparatif détaillé
 
-| Services | Starter (Gratuit) | Plateforme (499€ HT/mois) | Managed (1 499€ HT/mois) |
-| :--- | :--- | :--- | :--- |
-| **Commercialisation** (Inbound) | Oui (30% frais) | Oui (30% à 15%*) | Oui (15% fixe) |
-| **Prospection Annonceurs** | Non | Oui — Accès Base | Oui — Délégué (Sales Ops) |
-| **Collaboration Directe** (Trade) | Non | Oui (0% frais) | Oui (0% frais) |
-| **Délégation Acquisition** | Non | Non | Oui — Inclus |
-| **Frais de Retrait** | 5% (après le 1er) | Aucun | Aucun |
-| **Affiliation** | Oui (20% gains) | Oui (20% gains) | Oui (20% gains) |
-| **Engagement** | 12 mois | 12 mois | 12 mois |
+| Services | Starter (Gratuit) | Plateforme (299€ HT / mois) |
+| :--- | :--- | :--- |
+| **Monétisez votre audience** | Oui | Oui |
+| **Déléguez votre prospection** | Oui | Oui |
+| **Prospectez les annonceurs de notre réseau** | Non | Oui |
+| **Créez et hébergez votre réseau annonceurs** | Non | Oui — Aucune commission plateforme |
+| **Réalisez de l'échange d'audience** | Non | Oui — Aucune commission plateforme |
+| **Pilotage des revenus** | Non | Oui |
+| **Frais de Retrait** | Premier retrait annuel gratuit puis 5% | Aucun frais de retrait |
+| **Affiliation** | Oui (20% gains) | Oui (20% gains) |
+| **Engagement** | 12 mois | 12 mois |
 
 ### * Dégressivité des frais de régie (Offre Plateforme)
 
@@ -80,7 +71,7 @@ getinside propose trois niveaux d'accompagnement. Vos marges nettes varient de *
 | Plus de 75 000€ | **15%** |
 
 ::: tip Frais de retrait
-Avec l'offre Starter, le premier retrait annuel est gratuit, puis 5% s'appliquent. Avec les offres Plateforme et Managed, les retraits sont illimités et gratuits.
+Avec l'offre Starter, le premier retrait annuel est gratuit, puis 5% de frais de retrait s'appliquent. Avec l'offre Plateforme, les retraits sont illimités et gratuits.
 :::
 
 ::: info Disponibilité des fonds & Wallet

@@ -34,7 +34,7 @@ Le Wallet n'est mis à jour qu'après une action manuelle de votre part : décla
 | Offre | Frais de retrait |
 | :--- | :--- |
 | **Starter** | 1er retrait de l'année civile gratuit, puis **5%** |
-| **Plateforme & Managed** | Gratuit et illimité |
+| **Plateforme** | Gratuit et illimité |
 
 **Délai de paiement :** 30 jours fin de mois après validation de votre demande et réception de votre facture conforme.
 
@@ -51,7 +51,7 @@ Le Wallet n'est mis à jour qu'après une action manuelle de votre part : décla
   </div>
   <div class="gi-value-card">
     <strong>Passer à l'offre Plateforme</strong>
-    <p>499€ HT/mois — retraits illimités et gratuits, plus accès à la prospection active des +300 annonceurs. → <a href="/publishers/pricing">Voir les offres</a></p>
+    <p>299€ HT/mois — retraits illimités et gratuits, plus accès à la prospection active des +200 annonceurs. → <a href="/publishers/pricing">Voir les offres</a></p>
   </div>
 </div>
 
