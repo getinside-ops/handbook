@@ -51,7 +51,7 @@ The Wallet is only updated after a manual action on your part: volume declaratio
   </div>
   <div class="gi-value-card">
     <strong>Upgrade to Platform</strong>
-    <p>299€ excl. VAT/month — unlimited and free withdrawals, plus direct access to prospecting 200+ advertisers. → <a href="/publishers/pricing">View plans</a></p>
+    <p>299€ excl. VAT/month — unlimited and free withdrawals, plus direct access to prospecting 200+ advertisers. → <a href="/en/publishers/affiliation">View program</a></p>
   </div>
 </div>
 

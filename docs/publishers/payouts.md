@@ -51,7 +51,7 @@ Le Wallet n'est mis à jour qu'après une action manuelle de votre part : décla
   </div>
   <div class="gi-value-card">
     <strong>Passer à l'offre Plateforme</strong>
-    <p>299€ HT/mois — retraits illimités et gratuits, plus accès à la prospection active des +200 annonceurs. → <a href="/publishers/pricing">Voir les offres</a></p>
+    <p>299€ HT/mois — retraits illimités et gratuits, plus accès à la prospection active des +200 annonceurs. → <a href="/publishers/affiliation">Voir le programme</a></p>
   </div>
 </div>
 

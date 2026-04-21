@@ -33,7 +33,7 @@ getinside is a self-service platform. Free access, transparent model, no commitm
 :::
 
 ::: info Are you also an e-retailer?
-If you monetize your parcels or mailings via getinside, your retailer subscription (Starter or Platform) is separate from your campaign purchases. → [See retailer plans](/publishers/pricing)
+If you monetize your parcels or mailings via getinside, your retailer subscription (Starter or Platform) is separate from your campaign purchases.
 :::
 
 ::: info When is the invoice generated?

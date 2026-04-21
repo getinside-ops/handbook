@@ -5,3 +5,12 @@ docs/.vitepress
 .DS_Store
 .env
 .worktrees
+google-cloud-sdk/
+google-cloud-cli-darwin-arm.tar.gz
+.playwright-mcp/
+.rtk/
+.superpowers/
+.qwen/
+docs/superpowers/plans/
+docs/superpowers/specs/
+tools-site.png
