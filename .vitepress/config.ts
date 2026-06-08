@@ -1,6 +1,69 @@
 import { defineConfig } from 'vitepress'
 import path from 'path'
 
+const SITE = 'https://getinside-ops.github.io/handbook'
+
+/**
+ * Construit le JSON-LD WebPage + BreadcrumbList en SSR (rendu statique).
+ * Auparavant injecté côté client uniquement (theme/index.ts) — donc invisible
+ * pour les crawlers sans JS. Émis ici à la build pour être indexable.
+ */
+function buildWebPageSchema(pageData: any) {
+  const { frontmatter, title, relativePath } = pageData
+  const pageTitle = frontmatter.title || title || 'getinside Handbook'
+  const pageDescription = frontmatter.description || 'Guides opérationnels pour retail media'
+  const relUrl = relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
+  const pageUrl = `${SITE}/${relUrl}`
+  const pageImage = frontmatter.image || `${SITE}/images/og-image.png`
+
+  // Fil d'ariane à partir du chemin (le segment feuille utilise le vrai titre)
+  const parts = relUrl.replace(/\/$/, '').split('/').filter(Boolean)
+  const itemListElement: any[] = [
+    { '@type': 'ListItem', position: 1, name: 'Handbook', item: `${SITE}/` },
+  ]
+  let acc = `${SITE}/`
+  parts.forEach((part: string, idx: number) => {
+    acc += part + '/'
+    const isLeaf = idx === parts.length - 1
+    const name = isLeaf
+      ? pageTitle
+      : part.charAt(0).toUpperCase() + part.slice(1).replace(/-/g, ' ')
+    itemListElement.push({
+      '@type': 'ListItem',
+      position: idx + 2,
+      name,
+      item: acc.replace(/\/$/, isLeaf ? '' : '/'),
+    })
+  })
+
+  const schema: Record<string, any> = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: pageTitle,
+    description: pageDescription,
+    url: pageUrl,
+    image: { '@type': 'ImageObject', url: pageImage, width: 1200, height: 630 },
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'getinside Handbook',
+      url: `${SITE}/`,
+      sameAs: ['https://www.getinside.media/'],
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'getinside',
+      alternateName: 'getinside Media',
+      logo: { '@type': 'ImageObject', url: `${SITE}/images/logo-getinside.svg` },
+      url: 'https://www.getinside.media/',
+    },
+    breadcrumb: { '@type': 'BreadcrumbList', itemListElement },
+  }
+  if (Array.isArray(frontmatter.keywords) && frontmatter.keywords.length) {
+    schema.keywords = frontmatter.keywords.join(', ')
+  }
+  return schema
+}
+
 const config: any = defineConfig({
     title: 'getinside Handbook',
     description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.',
@@ -43,8 +106,13 @@ const config: any = defineConfig({
     },
 
     head: [
-      // Favicon
+      // Favicon & PWA icons
       ['link', { rel: 'icon', type: 'image/svg+xml', href: '/handbook/images/gi-keyvisual.svg' }],
+      ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/handbook/images/icons/favicon-32.png' }],
+      ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/handbook/images/icons/favicon-16.png' }],
+      ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/handbook/images/icons/apple-touch-icon.png' }],
+      ['link', { rel: 'manifest', href: '/handbook/site.webmanifest' }],
+      ['meta', { name: 'theme-color', content: '#0aaa8e' }],
 
       // Fonts
       ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
@@ -467,6 +535,8 @@ const config: any = defineConfig({
         ['meta', { name: 'citation_author', content: 'getinside' }],
         ['meta', { name: 'dc.title', content: pageTitle }],
         ['meta', { name: 'dc.description', content: pageDescription }],
+        // Schema.org WebPage + BreadcrumbList (SSR, indexable sans JS)
+        ['script', { type: 'application/ld+json' }, JSON.stringify(buildWebPageSchema(pageData))],
       ]
     },
 })
