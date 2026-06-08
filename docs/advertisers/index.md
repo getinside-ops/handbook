@@ -1,6 +1,6 @@
 ---
 title: Espace Annonceurs — Retail Media getinside
-description: Diffusez vos campagnes auprès d'acheteurs avérés via l'insertion colis, l'email dédié, les encarts newsletter et les social ads. 250+ retailers partenaires, 40M de consommateurs.
+description: Diffusez vos campagnes auprès d'acheteurs avérés via l'insertion colis, l'email dédié, les encarts newsletter et les social ads. 250+ retailers partenaires, 350+ audiences exclusives, 40M de consommateurs.
 keywords:
   - annonceurs retail media
   - insertion colis publicitaire
@@ -12,7 +12,7 @@ image: /images/gi-keyvisual.svg
 
 # Espace Annonceurs
 
-getinside vous donne accès à des audiences qualifiées au moment où elles sont le plus réceptives : pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Vos campagnes bénéficient de l'endorsement du distributeur — vous n'achetez pas de l'attention, vous accédez à une relation de confiance déjà établie entre un e-commerçant et ses clients.
+**Recrutez vos clients là où ils achètent déjà.** getinside vous donne accès à des audiences qualifiées au moment où elles sont le plus réceptives : pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Vos campagnes bénéficient de l'endorsement du distributeur — vous n'achetez pas de l'attention, vous accédez à une relation de confiance déjà établie entre un e-commerçant et ses clients.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -31,11 +31,19 @@ getinside vous donne accès à des audiences qualifiées au moment où elles son
     <strong>40M consommateurs</strong>
     <p>Accessibles via 250+ e-commerçants partenaires, sans achat de données tiers.</p>
   </div>
+  <div class="gi-value-card">
+    <strong>350+ audiences</strong>
+    <p>Audiences exclusives qualifiées par les achats réels des distributeurs, indisponibles sur les autres canaux.</p>
+  </div>
 </div>
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer une campagne →</a>
 </div>
+
+::: tip Une activation validée, sans concurrence publicitaire
+Chaque campagne est validée par le distributeur avant diffusion. Votre marque accède donc à un placement exclusif, dans un contexte de confiance, sans se battre contre d'autres annonceurs pour l'attention. Le distributeur choisit de relayer votre offre : c'est une activation désirée, pas une publicité subie.
+:::
 
 ## Formats publicitaires
 
@@ -78,3 +86,7 @@ getinside prend en charge la création, l'impression et le routage. Vous validez
   <a href="pricing" class="btn btn-outline">💰 Tarifs & Budget</a>
   <a href="../resources/case-studies" class="btn btn-outline">🚀 Cas Clients</a>
 </div>
+
+::: info Financez votre acquisition
+Vous êtes aussi e-commerçant ? Rejoignez le réseau comme distributeur et réinvestissez les revenus que vous générez directement dans vos propres campagnes, sans frais de plateforme. → [Découvrir l'espace e-commerçant](/publishers/)
+:::

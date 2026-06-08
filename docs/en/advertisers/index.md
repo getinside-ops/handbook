@@ -1,6 +1,6 @@
 ---
 title: Advertiser Hub — getinside Retail Media
-description: Run your campaigns to verified buyers via parcel inserts, dedicated emails, newsletter display ads, and social ads. 250+ retail partners, 40M consumers.
+description: Run your campaigns to verified buyers via parcel inserts, dedicated emails, newsletter display ads, and social ads. 250+ retail partners, 350+ exclusive audiences, 40M consumers.
 keywords:
   - retail media advertisers
   - parcel insert advertising
@@ -12,7 +12,7 @@ image: /images/gi-keyvisual.svg
 
 # Advertiser Hub
 
-getinside gives you access to qualified audiences at the moment they are most receptive: during unboxing, while reading a post-purchase email, or on the social channels of a trusted retailer. Your campaigns benefit from the retailer's endorsement — you're not buying attention, you're accessing a trust relationship already established between an e-retailer and its customers.
+**Recruit your customers where they already buy.** getinside gives you access to qualified audiences at the moment they are most receptive: during unboxing, while reading a post-purchase email, or on the social channels of a trusted retailer. Your campaigns benefit from the retailer's endorsement — you're not buying attention, you're accessing a trust relationship already established between an e-retailer and its customers.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -31,11 +31,19 @@ getinside gives you access to qualified audiences at the moment they are most re
     <strong>40M consumers</strong>
     <p>Reachable via 250+ partner e-retailers, without third-party data purchasing.</p>
   </div>
+  <div class="gi-value-card">
+    <strong>350+ audiences</strong>
+    <p>Exclusive audiences qualified by retailers' real purchases, unavailable on other channels.</p>
+  </div>
 </div>
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create a campaign →</a>
 </div>
+
+::: tip A validated activation, with no advertising competition
+Every campaign is validated by the retailer before it goes out. Your brand gets an exclusive placement, in a trusted context, without fighting other advertisers for attention. The retailer chooses to relay your offer: it's a desired activation, not an interruptive ad.
+:::
 
 ## Ad formats
 
@@ -78,3 +86,7 @@ getinside handles creation, printing, and delivery. You approve the proof — th
   <a href="pricing" class="btn btn-outline">💰 Pricing & Budget</a>
   <a href="../resources/case-studies" class="btn btn-outline">🚀 Case Studies</a>
 </div>
+
+::: info Fund your acquisition
+Are you also an e-retailer? Join the network as a distributor and reinvest the revenue you generate straight into your own campaigns, with zero platform fees. → [Discover the retailer hub](/en/publishers/)
+:::

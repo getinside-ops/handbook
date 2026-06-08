@@ -105,7 +105,7 @@ Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre r�
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Gestion de réseau (Annonceurs Partenaires)</h3>
-    <p>Invitez les marques que vous distribuez à acheter de la visibilité chez vous via getinside. Bénéficiez de <strong>0% de frais de plateforme</strong> pour vos partenaires directs. Ajoutez-les via le moteur de recherche SIREN/TVA, envoyez des invitations et suivez votre progression YTD par partenaire.</p>
+    <p>Invitez les marques que vous distribuez à acheter de la visibilité chez vous via getinside. Bénéficiez de <strong>0% de frais de plateforme</strong> pour vos partenaires directs éligibles (sous conditions ; voir avec votre gestionnaire de compte). Ajoutez-les via le moteur de recherche SIREN/TVA, envoyez des invitations et suivez votre progression YTD par partenaire.</p>
   </div>
 </div>
 

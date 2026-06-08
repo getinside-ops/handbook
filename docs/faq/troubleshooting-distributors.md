@@ -86,7 +86,7 @@ Agissez le plus tôt possible — les pénalités augmentent avec le temps. Ne p
 :::
 
 ::: details Je n'ai pas répondu à une proposition de campagne dans les 48h
-La règle des 48h est contractuelle. Passé ce délai, la proposition expire automatiquement et est envoyée à un autre distributeur. Une pénalité peut être appliquée sur votre Wallet et votre Score Distributeur peut être impacté. Pour éviter cela à l'avenir, activez les notifications email/SMS dans vos **Paramètres de compte**.
+La règle des 48h est contractuelle. Passé ce délai, la proposition expire automatiquement et est envoyée à un autre distributeur. Une pénalité équivalente à la commission que nous aurions perçue sur la campagne est appliquée sur votre Wallet, et votre Score Distributeur peut être impacté. Pour éviter cela à l'avenir, activez les notifications email/SMS dans vos **Paramètres de compte**.
 :::
 
 ::: details Une campagne est incomplète ou le brief/visuel reçu est incorrect

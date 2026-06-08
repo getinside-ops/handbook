@@ -74,6 +74,8 @@ Top Sponsored Mail campaigns selected by our teams — use these as inspiration 
 
 The offer is the most important decision in your flyer. A good offer compensates for a mediocre layout. The reverse is rarely true.
 
+getinside is a **non-intentional medium**: when they discover your flyer, the consumer wasn't planning to buy from you. It's the strength of your offer that removes the last hesitations and triggers the purchase. The more generous the deal, the more it converts. You set the cursor.
+
 :::tip "€10 off" converts better than "-10%"
 A concrete value is immediately perceived. A free product works even better — the psychological pull of a gift outperforms a discount.
 :::

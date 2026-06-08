@@ -105,7 +105,7 @@ Don't just wait for campaigns: take control of your ad network, activate your ex
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Network management (Partner Advertisers)</h3>
-    <p>Invite the brands you distribute to buy visibility with you via getinside. Benefit from <strong>0% platform fees</strong> for your direct partners. Add them via the SIREN/VAT search engine, send invitations, and track your YTD progress per partner.</p>
+    <p>Invite the brands you distribute to buy visibility with you via getinside. Benefit from <strong>0% platform fees</strong> for your eligible direct partners (conditions apply; check with your account manager). Add them via the SIREN/VAT search engine, send invitations, and track your YTD progress per partner.</p>
   </div>
 </div>
 
