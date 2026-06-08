@@ -26,7 +26,7 @@ This guide applies to all French pages. English pages are adapted from French fo
 - **Avoid repetition:** Don't state the same fact twice on the same page.
 - **Canonical stats:** Always use these exact figures — never invent variations:
   - Open rate: 100%
-  - CTR réseau moyen: 2.64% (vs 0.90% Meta)
+  - CTR réseau moyen: 2.87% (vs 0.90% Meta)
   - Conversion: 10–30%
   - Additional revenue for retailers: 2–20%
   - Net margins: 65–70%

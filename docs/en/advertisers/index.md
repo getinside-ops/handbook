@@ -23,7 +23,7 @@ image: /images/gi-keyvisual.svg
     <p>Read rate on parcel inserts — maximum attention during unboxing.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2.64% avg CTR</strong>
+    <strong>2.87% avg CTR</strong>
     <p>Network CTR vs 0.90% on Meta — driven by retailer endorsement.</p>
   </div>
   <div class="gi-value-card">

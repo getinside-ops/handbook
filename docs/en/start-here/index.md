@@ -24,7 +24,7 @@ You want to reach proven buyers at the moment they are most receptive — during
     <p>Read rate for parcel inserts — maximum attention context during unboxing.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2.64% network CTR</strong>
+    <strong>2.87% network CTR</strong>
     <p>Average network CTR vs 0.90% on Meta — driven by retailer endorsement.</p>
   </div>
   <div class="gi-value-card">

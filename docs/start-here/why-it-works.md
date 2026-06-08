@@ -18,7 +18,7 @@ Les formats getinside relèvent du **retail media off-site**, et ils surperforme
 
 Quand un e-commerçant distribue votre offre dans ses colis ou dans son email post-achat, il vous prête sa relation client. Le consommateur a déjà acheté chez ce retailer — il lui fait confiance. Cette confiance se transfère à votre marque.
 
-C'est ce qu'on appelle l'**endorsement** : vous n'êtes pas un intrus dans un flux publicitaire, vous êtes un partenaire recommandé par une enseigne que l'acheteur connaît et respecte. L'effet est directement mesurable : le CTR réseau moyen atteint **2,64%**, contre 0,90% sur Meta. Ce n'est pas une différence marginale — c'est un facteur multiplicateur sur votre ROI.
+C'est ce qu'on appelle l'**endorsement** : vous n'êtes pas un intrus dans un flux publicitaire, vous êtes un partenaire recommandé par une enseigne que l'acheteur connaît et respecte. L'effet est directement mesurable : le CTR réseau moyen atteint **2,87%**, contre 0,90% sur Meta. Ce n'est pas une différence marginale — c'est un facteur multiplicateur sur votre ROI.
 
 ## Le matching contextuel
 

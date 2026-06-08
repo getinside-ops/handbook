@@ -24,7 +24,7 @@ Vous cherchez à toucher des acheteurs avérés au moment où ils sont les plus 
     <p>Taux de lecture en insertion colis — contexte d'attention maximum pendant l'unboxing.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2,64% CTR réseau</strong>
+    <strong>2,87% CTR réseau</strong>
     <p>CTR moyen du réseau vs 0,90% sur Meta — grâce à l'endorsement du distributeur.</p>
   </div>
   <div class="gi-value-card">

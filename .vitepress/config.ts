@@ -241,6 +241,7 @@ const config: any = defineConfig({
             items: [
               { text: 'Introduction', link: '/start-here/' },
               { text: 'Pourquoi ça marche ?', link: '/start-here/why-it-works' },
+              { text: 'Le retail media off-site', link: '/start-here/off-site-retail-media' },
             ],
           },
           {
@@ -378,6 +379,7 @@ const config: any = defineConfig({
             items: [
               { text: 'Introduction', link: '/en/start-here/' },
               { text: 'Why It Works', link: '/en/start-here/why-it-works' },
+              { text: 'Off-site retail media', link: '/en/start-here/off-site-retail-media' },
             ],
           },
           {

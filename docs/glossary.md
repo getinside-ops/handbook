@@ -164,7 +164,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>RMN (Retail Media Network)</dt>
   <dd>Régie publicitaire opérée par un distributeur ou un réseau de distributeurs, qui commercialise ses inventaires et ses audiences first-party auprès des annonceurs.</dd>
   <dt>ROAS (Return On Ad Spend)</dt>
-  <dd>Revenu généré pour chaque euro dépensé en publicité — moyenne réseau getinside : 4,8.</dd>
+  <dd>Revenu généré pour chaque euro dépensé en publicité.</dd>
 </dl>
 
 <hr />

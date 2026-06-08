@@ -261,7 +261,7 @@ Click on the images to zoom.
 
 | Indicator | Result |
 |---|---|
-| Average network CTR | 2.64% — vs 0.90% on Meta Ads |
+| Average network CTR | 2.87% — vs 0.90% on Meta Ads |
 | Record CTR | 12% — Total Wash (Drive to App, Auto-Moto targeting) |
 | Record ROI | 16:1 — Nocibé (omnichannel Drive-to-Store campaign) |
 | Record ROAS | 824% — Blacksheep (Parcel Insert) |

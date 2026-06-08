@@ -71,7 +71,7 @@ Browse a selection of Bundles offered by our retailers.
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Up to 20% CTR</strong>
-    <p>Gamified formats (contests, fortune wheels, quizzes) reach up to 20% click-through rate — vs 2.64% network average for standard parcel inserts.</p>
+    <p>Gamified formats (contests, fortune wheels, quizzes) reach up to 20% click-through rate — vs 2.87% network average for standard parcel inserts.</p>
   </div>
   <div class="gi-value-card">
     <strong>Qualified opt-in leads</strong>

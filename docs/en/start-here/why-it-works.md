@@ -18,7 +18,7 @@ getinside formats belong to **off-site retail media**, and they outperform becau
 
 When an e-merchant distributes your offer in their parcels or post-purchase email, they lend you their customer relationship. The consumer has already bought from that retailer — they trust them. That trust transfers to your brand.
 
-This is what we call **endorsement**: you are not an intruder in an ad feed, you are a partner recommended by a retailer the buyer knows and respects. The effect is directly measurable: the average network CTR reaches **2.64%**, versus 0.90% on Meta. This is not a marginal difference — it is a multiplier on your ROI.
+This is what we call **endorsement**: you are not an intruder in an ad feed, you are a partner recommended by a retailer the buyer knows and respects. The effect is directly measurable: the average network CTR reaches **2.87%**, versus 0.90% on Meta. This is not a marginal difference — it is a multiplier on your ROI.
 
 ## Contextual Matching
 
