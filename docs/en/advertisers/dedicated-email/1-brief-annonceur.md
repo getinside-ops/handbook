@@ -24,7 +24,7 @@ Every Dedicated Email campaign starts with submitting the brief via the dedicate
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>The offer</h3>
-    <p>Craft a clear and compelling promise: <em>"€20 off from €100 purchase"</em>. Specify the validity period — minimum 3 months recommended. Favour a monetary value over a percentage: <em>"€20 off"</em> converts better than <em>"-20%"</em>, because the benefit reads instantly.</p>
+    <p>Craft a clear and compelling promise: <em>"€20 off from €100 purchase"</em>. Specify the validity period — minimum 3 months recommended. Favour a monetary value over a percentage: <em>"€20 off"</em> converts better than <em>"-20%"</em>, because the benefit reads instantly. Remember: the recipient wasn't planning to buy from you, so it's the generosity of the offer that triggers the purchase.</p>
   </div>
 </div>
 

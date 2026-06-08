@@ -74,6 +74,8 @@ Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes — uti
 
 L'offre est la décision la plus importante de votre flyer. Une bonne offre compense une mise en page moyenne. L'inverse est rarement vrai.
 
+getinside est un **média non intentionniste** : quand il découvre votre flyer, le consommateur n'avait pas prévu d'acheter chez vous. C'est la force de votre offre qui lève les derniers freins et déclenche l'achat. Plus le deal est généreux, plus il convertit. À vous de placer le curseur.
+
 :::tip "10€ offerts" convertit mieux que "-10%"
 Une valeur concrète est perçue immédiatement. Un produit offert fonctionne encore mieux — le levier psychologique du cadeau surpasse celui de l'économie.
 :::

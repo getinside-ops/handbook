@@ -86,7 +86,7 @@ Act as early as possible — penalties increase over time. Do not cancel from th
 :::
 
 ::: details I did not respond to a campaign proposal within 48 hours
-The 48-hour rule is contractual. Past this deadline, the proposal automatically expires and is sent to another distributor. A penalty may be applied to your Wallet and your Score Distributeur may be impacted. To avoid this in future, enable email/SMS notifications in your **Account Settings**.
+The 48-hour rule is contractual. Past this deadline, the proposal automatically expires and is sent to another distributor. A penalty equal to the commission we would have earned on the campaign is applied to your Wallet, and your Score Distributeur may be impacted. To avoid this in future, enable email/SMS notifications in your **Account Settings**.
 :::
 
 ::: details A campaign is incomplete or the brief/visual received is incorrect
