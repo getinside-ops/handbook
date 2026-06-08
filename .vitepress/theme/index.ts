@@ -13,10 +13,11 @@ export default {
     const route = useRoute()
 
     onMounted(() => {
-      // Injecter Schema.org JSON-LD et mettre à jour OpenGraph
+      // Le Schema.org JSON-LD (WebPage/Breadcrumb) est rendu en SSR via
+      // transformHead (config.ts). Ici on ne met à jour que l'OpenGraph et les
+      // liens canonical/hreflang lors des navigations SPA.
       const page = route.data
       if (page) {
-        injectSchemaOrg(page)
         updateOpenGraph(page)
       }
     })
@@ -99,97 +100,4 @@ function setHreflang(lang: string, href: string) {
     document.head.appendChild(link)
   }
   link.setAttribute('href', href)
-}
-
-function injectSchemaOrg(page: any) {
-  const { frontmatter, title } = page
-  const pageTitle = frontmatter?.title || title || 'getinside Handbook'
-  const pageDescription = frontmatter?.description || 'Guides opérationnels pour retail media'
-  const relUrl = page.relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
-  const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`
-  const pageImage = frontmatter?.image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
-  const keywords = frontmatter?.keywords || []
-
-  // Supprimer l'ancien schéma
-  const oldScript = document.querySelector('script[data-schema="main"]')
-  if (oldScript) oldScript.remove()
-
-  // Créer le nouveau schéma
-  const schema: Record<string, any> = {
-    '@context': 'https://schema.org',
-    '@type': 'WebPage',
-    name: pageTitle,
-    description: pageDescription,
-    url: pageUrl,
-    image: {
-      '@type': 'ImageObject',
-      url: pageImage,
-      width: 1200,
-      height: 630,
-    },
-    isPartOf: {
-      '@type': 'WebSite',
-      name: 'getinside Handbook',
-      url: 'https://getinside-ops.github.io/handbook/',
-      sameAs: ['https://www.getinside.media/'],
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: 'getinside',
-      alternateName: 'getinside Media',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://getinside-ops.github.io/handbook/images/logo-getinside.svg',
-      },
-      url: 'https://www.getinside.media/',
-    },
-    breadcrumb: {
-      '@type': 'BreadcrumbList',
-      itemListElement: generateBreadcrumbs(page.relativePath),
-    },
-  }
-
-  if (keywords.length > 0) {
-    schema.keywords = keywords.join(', ')
-  }
-
-  const script = document.createElement('script')
-  script.type = 'application/ld+json'
-  script.setAttribute('data-schema', 'main')
-  script.textContent = JSON.stringify(schema, null, 2)
-  document.head.appendChild(script)
-}
-function generateBreadcrumbs(relativePath: string) {
-  const parts = relativePath.split('/').filter(Boolean)
-  const breadcrumbs = [
-    {
-      '@type': 'ListItem',
-      position: 1,
-      name: 'Handbook',
-      item: 'https://getinside-ops.github.io/handbook/',
-    },
-  ]
-
-  let currentPath = 'https://getinside-ops.github.io/handbook/'
-  parts.forEach((part, index) => {
-    if (part.endsWith('.md')) {
-      const name = part.replace('.md', '').replace(/-/g, ' ')
-      breadcrumbs.push({
-        '@type': 'ListItem',
-        position: index + 2,
-        name: name.charAt(0).toUpperCase() + name.slice(1),
-        item: currentPath + part.replace('.md', ''),
-      })
-    } else {
-      currentPath += part + '/'
-      breadcrumbs.push({
-        '@type': 'ListItem',
-        position: index + 2,
-        name: part.charAt(0).toUpperCase() + part.slice(1),
-        item: currentPath,
-      })
-    }
-  })
-
-  return breadcrumbs
 }

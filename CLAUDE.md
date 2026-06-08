@@ -6,9 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```bash
 npm run docs:dev      # Local dev server with hot-reload
-npm run docs:build    # Build static site to .vitepress/dist/ + generate sitemap.xml
+npm run docs:build    # Build static site to .vitepress/dist/ + sitemap.xml + JSON-LD injection + llms.txt
 npm run docs:preview  # Preview built site locally
 npm run generate:og   # Regenerate OG image (Playwright screenshot)
+npm run generate:icons # Regenerate favicon/PWA icons from the logo (Playwright)
 ```
 
 ## Asset Generation
@@ -24,12 +25,17 @@ Static assets (OG image at 1200×630) are generated via Playwright Node.js ESM s
 
 **VitePress documentation site** for getinside Retail Media platform. Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/`.
 
+**Deploy:** push to `main` → GitHub Actions builds (`npm run docs:build`) → deploys `.vitepress/dist/` to GitHub Pages. No manual step. CI runs on Node 24.
+
 **Core files:**
-- `.vitepress/config.ts` — Site config: sidebar nav, Mermaid plugin, locales, base path `/handbook/`. Includes `transformHead` for SSR-optimized meta tags (OpenGraph, description, AI-specific tags like `citation_title`), MS Clarity, Google Search Console, and Algolia site verification tags.
-- `.vitepress/theme/index.ts` — Custom Vue theme: dynamic metadata injection and enhanced Schema.org JSON-LD (WebPage, Organization, BreadcrumbList).
+- `.vitepress/config.ts` — Site config: sidebar nav, locales, base path `/handbook/`. `transformHead` emits SSR meta tags (OpenGraph, description, AI tags like `citation_title`) AND the per-page `WebPage`/`BreadcrumbList` JSON-LD (via `buildWebPageSchema`). Also wires MS Clarity, Google Search Console verification, and the static `WebSite` schema. Search is VitePress **local** search (no Algolia). No Mermaid plugin is installed.
+- `.vitepress/theme/index.ts` — Custom Vue theme: client-side OpenGraph/canonical/hreflang updates on SPA navigation (`updateOpenGraph`). Schema.org is rendered in SSR via `config.ts`, not here.
 - `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles.
-- `assets/` — Public assets (images, `humans.txt`, `security.txt`).
-- `scripts/generate-sitemap.js` — Node.js post-build script for `sitemap.xml`.
+- `assets/` — Copied verbatim to the dist root (`vite.publicDir`). Holds `images/`, `fonts/` (Garnett woff2+woff), `robots.txt`, `humans.txt`, `security.txt` (+`.well-known/`), `site.webmanifest`, favicons.
+- `scripts/generate-sitemap.js` — Post-build `sitemap.xml`.
+- `scripts/generate-structured-data.js` — Post-build: injects static `FAQPage` (FAQ pages) + `HowTo` (gi-step guides) JSON-LD into built HTML, single-sourced from the markdown.
+- `scripts/generate-llms-txt.js` — Post-build: generates `/llms.txt` (page index) + `/llms-full.txt` (full FR corpus) for AI crawlers.
+- `scripts/generate-icons.js` — Generates favicon/apple-touch/PWA PNGs from the logo (Playwright).
 - `robots.txt` — Optimized for SEO and AI crawlers (GPT, Claude, Perplexity, Applebot, etc.).
 - `seo-keywords.md` — Keyword research reference; consult when writing titles/descriptions.
 - `.vitepress/SEO-GUIDELINES.md` — FR guide for SEO conventions; read before adding new pages.
@@ -43,13 +49,15 @@ The documentation is bilingual. French markdown files live directly under `docs/
 
 Supporting sections: `start-here/` (homepage), `faq/`, `resources/`, `glossary.md`
 
+`docs/superpowers/` — Internal planning directory (plans, specs). Excluded from H1 and content audits intentionally.
+
 The homepage (`index.md` at root) uses VitePress `layout: home` with `hero` and `features` YAML blocks — not standard markdown.
 
 ## Frontmatter & SEO
 
 **Every content page MUST also begin with an H1 heading** (`# Title`) immediately after the frontmatter block. VitePress does NOT auto-render `frontmatter.title` as a visible heading — the H1 must be explicit in the markdown body. Exception: the root `index.md` which uses `layout: home`.
 
-Audit command: `for f in $(find docs -name "*.md" -not -path "*/superpowers/*"); do if ! grep -q "^# " "$f" && ! grep -q "^layout:" "$f"; then echo "MISSING H1: $f"; fi; done`
+Audit command (covers FR + EN, excludes superpowers): `for f in $(find docs -name "*.md" -not -path "*/superpowers/*"); do if ! grep -q "^# " "$f" && ! grep -q "^layout:" "$f"; then echo "MISSING H1: $f"; fi; done`
 
 **Every page MUST include YAML frontmatter** with:
 ```yaml
@@ -64,7 +72,7 @@ image: /images/og-image.png  # optional, overrides site default
 ---
 ```
 
-Both `config.ts` (via `transformHead` for SSR) and the theme hook in `index.ts` (for runtime updates) use these fields to manage SEO metadata and Schema.org data. Sidebar is manually configured in `.vitepress/config.ts` — add new pages to `themeConfig.sidebar` when creating new files.
+SEO metadata and Schema.org JSON-LD are generated in SSR by `config.ts` (`transformHead` + `buildWebPageSchema`); `theme/index.ts` only refreshes OpenGraph/canonical/hreflang during SPA navigation. Sidebar is manually configured in `.vitepress/config.ts` — add new pages to `themeConfig.sidebar` when creating new files.
 
 ## Content Conventions
 
@@ -73,8 +81,6 @@ Content spans **French and English**. Ensure language parity across both folders
 - `::: info` — Information callout
 - `::: warning` — Caution/attention
 - `::: danger` — Critical alert
-
-Mermaid diagrams: ` ```mermaid ` blocks (plugin configured in `config.ts`).
 
 **HTML → Markdown conversion rules:**
 - Replace `<p class="gi-page-intro">` → standard paragraph

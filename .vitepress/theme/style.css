@@ -8,7 +8,8 @@
    ============================================================ */
 @font-face {
   font-family: 'Garnett';
-  src: url('/handbook/fonts/Garnett-Semibold.woff') format('woff');
+  src: url('/handbook/fonts/Garnett-Semibold.woff2') format('woff2'),
+       url('/handbook/fonts/Garnett-Semibold.woff') format('woff');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -16,7 +17,8 @@
 
 @font-face {
   font-family: 'Garnett';
-  src: url('/handbook/fonts/Garnett-Bold.woff') format('woff');
+  src: url('/handbook/fonts/Garnett-Bold.woff2') format('woff2'),
+       url('/handbook/fonts/Garnett-Bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
