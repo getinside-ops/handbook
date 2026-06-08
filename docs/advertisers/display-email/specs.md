@@ -39,6 +39,24 @@ L'information principale et le Call-to-Action doivent impérativement figurer su
 
 ---
 
+## Animation GIF : bonnes pratiques
+
+Si vous optez pour un GIF animé, gardez l'animation courte et lisible :
+
+- **3 à 5 frames maximum** — une boucle simple attire l'œil sans alourdir le fichier.
+- **Durée totale de 2 à 4 secondes**, puis arrêt sur la frame qui porte l'offre et le CTA.
+- **Évitez le clignotement rapide** : il dégrade la lisibilité et gêne certains lecteurs.
+- **Première frame autoportante** : elle doit fonctionner seule, puisque Outlook ne lit que celle-ci.
+
+### Compatibilité clients mail
+
+| Client | Affichage GIF animé |
+| :--- | :--- |
+| Gmail, Apple Mail, Yahoo, mobiles iOS/Android | Animation complète |
+| Outlook (bureau, Windows) | Première frame uniquement |
+
+---
+
 ## Bonnes Pratiques Design
 
 :::tip Fond blanc : ajoutez une bordure

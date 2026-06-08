@@ -13,6 +13,10 @@ keywords:
 
 Your flyer, card, or sample slipped into a customer's parcel at the moment of unboxing. It's the only physical channel with a **100%** read rate — and a network CTR of **2.64%**, compared to 0.90% for Meta Ads.
 
+::: tip For retailers
+Are you an e-retailer looking to monetise your parcels with this format? See the [Parcel Insert guide for retailers](/en/publishers/sponsored-mail/).
+:::
+
 ## How it works
 
 <div class="gi-step">

@@ -24,7 +24,7 @@ Toute campagne Email Dédié démarre par la soumission du brief via le formulai
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>L'offre</h3>
-    <p>Formulez une promesse claire et incitative : <em>"20€ offerts dès 100€ d'achat"</em>. Précisez la durée de validité — minimum 3 mois recommandé.</p>
+    <p>Formulez une promesse claire et incitative : <em>"20€ offerts dès 100€ d'achat"</em>. Précisez la durée de validité — minimum 3 mois recommandé. Privilégiez une valeur monétaire à un pourcentage : <em>"20€ offerts"</em> convertit mieux que <em>"-20%"</em>, car le bénéfice est immédiatement lisible.</p>
   </div>
 </div>
 
@@ -32,7 +32,7 @@ Toute campagne Email Dédié démarre par la soumission du brief via le formulai
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Les visuels</h3>
-    <p>Logo en vectoriel ou HD, packshots produits sur fond blanc, visuels d'ambiance si disponibles.</p>
+    <p>Logo en vectoriel ou HD, packshots produits sur fond blanc, visuels d'ambiance si disponibles. Fournissez des fichiers en haute définition (300 dpi minimum, PNG ou JPG ; logo idéalement en SVG ou PNG transparent). Des visuels nets et détourés garantissent un rendu professionnel dans l'email.</p>
   </div>
 </div>
 

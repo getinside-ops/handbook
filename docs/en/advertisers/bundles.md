@@ -13,6 +13,10 @@ keywords:
 
 A Bundle is a coordinated campaign that activates multiple inventory channels from a single e-retailer in one operation: parcel insert, email, social, display. Where a standalone campaign creates a single exposure, a Bundle creates a presence effect that multiplies conversion rates.
 
+::: tip For retailers
+Are you an e-retailer looking to package your inventory into Bundles? See the [Selling Bundles guide](/en/publishers/bundles).
+:::
+
 ## Bundle Examples
 
 Browse a selection of Bundles offered by our retailers.

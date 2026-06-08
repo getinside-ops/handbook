@@ -13,6 +13,10 @@ keywords:
 
 Insérez une bannière partenaire dans des emails que vous envoyez déjà. La création vient de l'annonceur, vous ne produisez rien, et chaque envoi devient une source de revenu.
 
+::: tip Côté annonceur
+Vous êtes une marque et souhaitez diffuser une bannière dans les newsletters du réseau ? Consultez le [guide Encart Newsletter pour les Annonceurs](/advertisers/display-email/).
+:::
+
 ## Le principe
 
 Vos newsletters et emails transactionnels (confirmation de commande, suivi d'expédition, relance panier) partent par milliers chaque semaine. Le Display Email ajoute un emplacement publicitaire dans ces emails : l'annonceur fournit la bannière, getinside vous transmet le bloc à intégrer, vous le placez dans votre routeur. C'est tout.

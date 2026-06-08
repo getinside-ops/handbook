@@ -12,6 +12,10 @@ keywords:
 
 Amplifiez votre message via les comptes sociaux de distributeurs partenaires — leur audience vous fait déjà confiance.
 
+::: tip Côté e-commerçant
+Vous êtes distributeur et souhaitez générer des revenus avec vos comptes sociaux ? Consultez le [guide Social Ads pour les Retailers](/publishers/sponsored-social/).
+:::
+
 ## Qu'est-ce que le Social Ads getinside ?
 
 Le Social Ads getinside repose sur deux mécaniques complémentaires :

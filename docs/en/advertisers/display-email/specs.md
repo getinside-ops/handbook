@@ -39,6 +39,24 @@ The main information and the Call-to-Action must imperatively appear on the **fi
 
 ---
 
+## GIF animation best practices
+
+If you go with an animated GIF, keep the animation short and readable:
+
+- **3 to 5 frames maximum** — a simple loop catches the eye without bloating the file.
+- **Total duration of 2 to 4 seconds**, then stop on the frame carrying the offer and CTA.
+- **Avoid fast flashing**: it hurts readability and bothers some readers.
+- **Self-contained first frame**: it must work on its own, since Outlook only reads that one.
+
+### Email client compatibility
+
+| Client | Animated GIF display |
+| :--- | :--- |
+| Gmail, Apple Mail, Yahoo, iOS/Android mobile | Full animation |
+| Outlook (desktop, Windows) | First frame only |
+
+---
+
 ## Design best practices
 
 :::tip White background: add a border

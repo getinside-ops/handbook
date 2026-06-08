@@ -16,6 +16,10 @@ Générez des revenus incrémentiels en accordant à des annonceurs sélectionn�
 Votre rémunération est créditée sur votre Wallet getinside dès la fin de la campagne. L'annonceur investit son propre budget média sur votre contenu.
 :::
 
+::: tip Côté annonceur
+Vous êtes une marque et souhaitez activer ce format ? Consultez le [guide Social Ads pour les Annonceurs](/advertisers/sponsored-social/).
+:::
+
 ## Comment ça fonctionne
 
 getinside gère l'intégralité de la campagne de votre côté : sélection de l'annonceur, production créative, ciblage et pilotage. Votre rôle se limite à accorder les droits de boost et à valider le contenu.

@@ -13,6 +13,10 @@ keywords:
 
 Glissez le flyer d'un annonceur partenaire dans les colis que vous expédiez déjà. Chaque envoi devient un espace publicitaire rémunéré, sans rien changer à votre logistique de fond.
 
+::: tip Côté annonceur
+Vous êtes une marque et souhaitez diffuser un flyer dans le réseau ? Consultez le [guide Insertion Colis pour les Annonceurs](/advertisers/sponsored-mail/).
+:::
+
 ## Le principe
 
 L'annonceur produit et fait imprimer son flyer ; getinside vous livre les supports prêts à insérer. Vos équipes les ajoutent dans les colis au moment de la préparation, en mode « On-Top » (par-dessus le contenu, sans remplacer quoi que ce soit). Vous déclarez ensuite les volumes distribués, et la campagne est facturée à l'annonceur.

@@ -13,6 +13,10 @@ keywords:
 
 Un Bundle, c'est un dispositif scénarisé qui active plusieurs inventaires d'un même e-commerçant en une seule opération : insertion colis, email, social, display. Là où une campagne isolée génère une exposition, un Bundle crée un effet de présence qui multiplie les taux de conversion.
 
+::: tip Côté e-commerçant
+Vous êtes distributeur et souhaitez packager vos inventaires en Bundles ? Consultez le [guide Vendre des Bundles](/publishers/bundles).
+:::
+
 ## Exemples de Bundles
 
 Découvrez une sélection de Bundles proposés par nos retailers.

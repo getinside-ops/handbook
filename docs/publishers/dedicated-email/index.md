@@ -10,7 +10,32 @@ keywords:
 
 # Emailing Dédié (Éditeur)
 
-Valorisez vos créneaux d'envoi libres en diffusant des campagnes dédiées pour le compte d'annonceurs sélectionnés.
+Valorisez vos créneaux d'envoi libres en diffusant des campagnes dédiées pour le compte d'annonceurs sélectionnés. C'est le format le plus rémunérateur du catalogue : un envoi unique, conçu dans votre charte, qui recommande une marque partenaire à un segment de votre base.
+
+Vous restez maître de l'éditorial. Vous choisissez quels annonceurs s'adressent à vos abonnés, vous produisez l'email dans votre identité visuelle, et vous décidez du segment ciblé. L'annonceur fournit le brief et les visuels ; vous transformez un créneau d'envoi disponible en revenu direct.
+
+::: tip Côté annonceur
+Vous êtes une marque et souhaitez activer ce format ? Consultez le [guide Emailing Dédié pour les Annonceurs](/advertisers/dedicated-email/).
+:::
+
+## Pourquoi l'activer
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Le format le plus rémunérateur</strong>
+    <p>Un email dédié se vend bien plus cher qu'un simple encart. Pour un seul envoi, c'est votre meilleur levier de revenu retail media.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>65 à 70% de marge nette</strong>
+    <p>Le canal email existe déjà. Le revenu publicitaire vient en plus, sans coût d'acquisition ni infrastructure supplémentaire.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Vous gardez la main</strong>
+    <p>Choix des annonceurs, charte graphique, segment ciblé : tout reste sous votre contrôle, sans compromettre votre relation abonné.</p>
+  </div>
+</div>
+
+## Les étapes
 
 <div class="gi-format-grid">
   <a href="1-design" class="gi-format-card">

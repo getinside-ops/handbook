@@ -13,6 +13,10 @@ keywords:
 
 Un Bundle consiste à packager plusieurs de vos inventaires publicitaires — insertion colis, emailing, social, bannières — en une seule offre forfaitaire. Vous monétisez des espaces difficiles à vendre seuls en les associant à votre meilleur inventaire, et vous augmentez votre revenu moyen par campagne.
 
+::: tip Côté annonceur
+Vous êtes une marque et souhaitez activer un Bundle multicanal ? Consultez le [guide Bundles & Media Kits](/advertisers/bundles).
+:::
+
 ## Exemples de Bundles
 
 Découvrez une sélection de Bundles proposés par nos retailers.

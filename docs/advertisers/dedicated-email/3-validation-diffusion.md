@@ -46,6 +46,19 @@ La création est terminée. Votre action est requise pour débloquer l'envoi.
   </div>
 </div>
 
+::: info Délai entre validation et envoi
+Comptez en général 24 à 48h ouvrées entre votre validation et l'envoi effectif : le distributeur programme la campagne sur un créneau cohérent avec sa propre activité d'emailing. Anticipez ce délai si votre offre est liée à une date précise.
+:::
+
+## Motifs fréquents de correction
+
+Avant d'arriver jusqu'à vous, le BAT peut faire un aller-retour avec le distributeur. Les motifs les plus courants :
+
+- **Offre incohérente** : montant, seuil ou code promo qui ne correspond pas au brief.
+- **Visuel basse définition** : packshot pixelisé ou logo flou à l'affichage.
+- **Lien de destination erroné** : URL cassée ou pointant vers une page sans rapport avec l'offre.
+- **Mentions légales manquantes** : obligation propre au secteur (alcool, crédit, jeux, etc.).
+
 ::: tip Renvoi aux non-ouvreurs
 Certains distributeurs proposent un renvoi automatique de la campagne aux abonnés qui n'ont pas ouvert l'email lors du premier envoi. Demandez-le lors du brief pour maximiser la couverture.
 :::

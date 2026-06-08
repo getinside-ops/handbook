@@ -13,6 +13,10 @@ keywords:
 
 Insert a partner banner into emails you already send. The creative comes from the advertiser, you produce nothing, and every send becomes a source of revenue.
 
+::: tip For advertisers
+Are you a brand looking to run a banner across the network's newsletters? See the [Newsletter Banner guide for advertisers](/en/advertisers/display-email/).
+:::
+
 ## How it works
 
 Your newsletters and transactional emails (order confirmations, shipping updates, cart reminders) go out by the thousand every week. Display Email adds an ad placement inside them: the advertiser supplies the banner, getinside hands you the block to integrate, and you drop it into your email router. That is the whole job.

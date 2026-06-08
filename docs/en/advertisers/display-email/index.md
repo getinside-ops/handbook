@@ -12,6 +12,10 @@ keywords:
 
 Reach qualified buyers by inserting your banner in a partner retailer's emails — live in 48 hours.
 
+::: tip For retailers
+Are you an e-retailer looking to monetise your newsletters? See the [Newsletter Banner guide for retailers](/en/publishers/display-email/).
+:::
+
 ## The format
 
 A Display Email insert is your advertising banner (static image or animated GIF) embedded in a partner retailer's newsletter or transactional email. Your visual appears in an inbox — not in a social feed or web display.

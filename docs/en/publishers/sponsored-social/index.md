@@ -16,6 +16,10 @@ Generate incremental revenue by granting selected advertisers the right to boost
 Your payment is credited to your getinside Wallet as soon as the campaign ends. The advertiser invests their own media budget on your content.
 :::
 
+::: tip For advertisers
+Are you a brand looking to run this format? See the [Social Ads guide for advertisers](/en/advertisers/sponsored-social/).
+:::
+
 ## How it works
 
 getinside manages the entire campaign on your behalf: advertiser selection, creative production, targeting and campaign management. Your role is limited to granting boost rights and validating the content.

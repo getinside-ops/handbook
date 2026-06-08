@@ -12,6 +12,10 @@ keywords:
 
 Touchez des acheteurs qualifiés en insérant votre bannière dans les emails d'un e-commerçant partenaire — mise en ligne en 48h.
 
+::: tip Côté e-commerçant
+Vous êtes distributeur et souhaitez monétiser vos newsletters ? Consultez le [guide Encart Newsletter pour les Retailers](/publishers/display-email/).
+:::
+
 ## Le format
 
 Un encart Display Email, c'est votre bannière publicitaire (image statique ou GIF animé) intégrée dans la newsletter ou l'email transactionnel d'un distributeur partenaire. Votre visuel apparaît dans une boîte de réception — pas dans un flux social ou un display web.

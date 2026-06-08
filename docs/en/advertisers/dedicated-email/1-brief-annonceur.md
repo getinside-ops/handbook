@@ -24,7 +24,7 @@ Every Dedicated Email campaign starts with submitting the brief via the dedicate
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>The offer</h3>
-    <p>Craft a clear and compelling promise: <em>"€20 off from €100 purchase"</em>. Specify the validity period — minimum 3 months recommended.</p>
+    <p>Craft a clear and compelling promise: <em>"€20 off from €100 purchase"</em>. Specify the validity period — minimum 3 months recommended. Favour a monetary value over a percentage: <em>"€20 off"</em> converts better than <em>"-20%"</em>, because the benefit reads instantly.</p>
   </div>
 </div>
 
@@ -32,7 +32,7 @@ Every Dedicated Email campaign starts with submitting the brief via the dedicate
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>The visuals</h3>
-    <p>Vector or HD logo, product packshots on a white background, lifestyle visuals if available.</p>
+    <p>Vector or HD logo, product packshots on a white background, lifestyle visuals if available. Provide high-resolution files (300 dpi minimum, PNG or JPG; logo ideally as SVG or transparent PNG). Sharp, cut-out visuals ensure a professional result in the email.</p>
   </div>
 </div>
 

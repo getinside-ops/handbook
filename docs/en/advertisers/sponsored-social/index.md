@@ -12,6 +12,10 @@ keywords:
 
 Amplify your message through the social accounts of partner retailers — their audience already trusts them.
 
+::: tip For retailers
+Are you an e-retailer looking to earn from your social accounts? See the [Social Ads guide for retailers](/en/publishers/sponsored-social/).
+:::
+
 ## What is getinside Social Ads?
 
 getinside Social Ads works through two complementary mechanics:

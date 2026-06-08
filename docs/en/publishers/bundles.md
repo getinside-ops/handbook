@@ -13,6 +13,10 @@ keywords:
 
 A Bundle means packaging several of your advertising inventories — Sponsored Mail, email, social, banners — into a single flat-fee offer. You monetise spaces that are hard to sell alone by pairing them with your best inventory, and you increase your average revenue per campaign.
 
+::: tip For advertisers
+Are you a brand looking to run a multi-channel Bundle? See the [Bundles & Media Kits guide](/en/advertisers/bundles).
+:::
+
 ## Bundle Examples
 
 Browse a selection of Bundles offered by our retailers.

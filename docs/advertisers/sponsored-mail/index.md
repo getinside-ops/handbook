@@ -13,6 +13,10 @@ keywords:
 
 Votre flyer, carte ou échantillon glissé dans le colis d'un client au moment de l'unboxing. C'est le seul canal physique avec un taux de lecture de **100%** — et un CTR réseau de **2,64%**, contre 0,90% pour les Meta Ads.
 
+::: tip Côté e-commerçant
+Vous êtes distributeur et souhaitez monétiser vos colis avec ce format ? Consultez le [guide Insertion Colis pour les Retailers](/publishers/sponsored-mail/).
+:::
+
 ## Comment ça marche
 
 <div class="gi-step">
