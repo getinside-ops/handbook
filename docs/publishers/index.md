@@ -115,7 +115,7 @@ Cinq formats couvrent vos actifs existants : colis, emails transactionnels, news
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="pricing" class="gi-nav-card">
+  <a href="onboarding-process#phase-3-acceleration-autonomie" class="gi-nav-card">
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Prospectez les Annonceurs du Réseau</p>
@@ -128,11 +128,6 @@ Cinq formats couvrent vos actifs existants : colis, emails transactionnels, news
 ## Finance & admin
 
 <div class="gi-format-grid">
-  <a href="pricing" class="gi-format-card">
-    <span class="gi-format-card-icon">💎</span>
-    <span class="gi-format-card-title">Abonnements & Offres</span>
-    <p class="gi-format-card-desc">Starter (gratuit) ou Plateforme — choisissez votre niveau.</p>
-  </a>
   <a href="payouts" class="gi-format-card">
     <span class="gi-format-card-icon">💸</span>
     <span class="gi-format-card-title">Paiements & Wallet</span>

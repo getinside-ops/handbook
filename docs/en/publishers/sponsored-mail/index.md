@@ -13,6 +13,10 @@ keywords:
 
 Slip a partner advertiser's flyer into the parcels you already ship. Each shipment becomes a paid ad placement, with no change to your core logistics.
 
+::: tip For advertisers
+Are you a brand looking to distribute a flyer across the network? See the [Parcel Insert guide for advertisers](/en/advertisers/sponsored-mail/).
+:::
+
 ## How it works
 
 The advertiser produces and prints the flyer; getinside delivers the ready-to-insert materials to you. Your team adds them to parcels during fulfilment, "On-Top" (on top of the contents, replacing nothing). You then declare the distributed volumes, and the campaign is billed to the advertiser.

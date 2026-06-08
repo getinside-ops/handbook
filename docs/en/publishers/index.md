@@ -115,7 +115,7 @@ Five formats cover your existing assets: packages, transactional emails, newslet
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="pricing" class="gi-nav-card">
+  <a href="onboarding-process#phase-3-acceleration-autonomie" class="gi-nav-card">
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Prospect Network Advertisers</p>
@@ -128,11 +128,6 @@ Five formats cover your existing assets: packages, transactional emails, newslet
 ## Finance & Admin
 
 <div class="gi-format-grid">
-  <a href="pricing" class="gi-format-card">
-    <span class="gi-format-card-icon">💎</span>
-    <span class="gi-format-card-title">Subscriptions & Plans</span>
-    <p class="gi-format-card-desc">Starter (free) or Platform — choose your tier.</p>
-  </a>
   <a href="payouts" class="gi-format-card">
     <span class="gi-format-card-icon">💸</span>
     <span class="gi-format-card-title">Payments & Wallet</span>

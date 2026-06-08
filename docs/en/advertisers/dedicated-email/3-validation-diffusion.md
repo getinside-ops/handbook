@@ -46,6 +46,19 @@ The creative is complete. Your action is required to unblock sending.
   </div>
 </div>
 
+::: info Time between validation and send
+Expect 24 to 48 business hours between your validation and the actual send: the retailer schedules the campaign on a slot that fits their own emailing activity. Plan for this lead time if your offer is tied to a specific date.
+:::
+
+## Common reasons for revision
+
+Before it reaches you, the proof may go back and forth with the retailer. The most common reasons:
+
+- **Inconsistent offer**: amount, threshold, or promo code that does not match the brief.
+- **Low-resolution visual**: pixelated packshot or blurry logo on display.
+- **Wrong destination link**: broken URL, or one pointing to a page unrelated to the offer.
+- **Missing legal notices**: sector-specific requirement (alcohol, credit, gambling, etc.).
+
 ::: tip Resend to non-openers
 Some retailers offer to automatically resend the campaign to subscribers who did not open the email during the first send. Request this during the brief to maximize coverage.
 :::
