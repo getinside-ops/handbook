@@ -12,7 +12,7 @@ image: /images/gi-keyvisual.svg
 
 # Bienvenue sur getinside
 
-getinside est une plateforme retail media qui connecte **annonceurs** et **e-commerçants** via leurs actifs communs : colis, emails transactionnels et réseaux sociaux. Le réseau compte aujourd'hui **250+ e-commerçants**, **300+ annonceurs**, **950+ campagnes** opérées et **40 millions de consommateurs** accessibles. Ce handbook couvre les deux côtés de la plateforme — choisissez votre profil ci-dessous.
+getinside est une plateforme de **retail media off-site** qui connecte **annonceurs** et **e-commerçants** via leurs actifs communs : colis, emails transactionnels et réseaux sociaux. Le réseau compte aujourd'hui **250+ e-commerçants**, **300+ annonceurs**, **950+ campagnes** opérées et **40 millions de consommateurs** accessibles. Ce handbook couvre les deux côtés de la plateforme — choisissez votre profil ci-dessous.
 
 ## Vous êtes annonceur ?
 

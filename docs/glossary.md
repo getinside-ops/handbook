@@ -39,6 +39,8 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Annonceur avec lequel un distributeur collabore directement via la plateforme, sans frais de plateforme sur l'offre Plateforme.</dd>
   <dt>Annonceur Prospect</dt>
   <dd>Cible commerciale identifiée ou importée par le distributeur pour piloter son pipeline d'acquisition de nouveaux annonceurs via le CRM intégré.</dd>
+  <dt>Attribution en boucle fermée (Closed-loop attribution)</dt>
+  <dd>Méthode de mesure qui relie une exposition publicitaire à un achat vérifié grâce aux données first-party du distributeur. Chez getinside, la boucle se ferme via le scan du QR code et le code promo unique par distributeur, qui rattachent la vente à la campagne sans cookie tiers. Voir <a href="/advertisers/analytics">Suivi &amp; Mesure</a>.</dd>
   <dt>Audience Lookalike (LAL 1st Party)</dt>
   <dd>Ciblage visant des profils ayant des caractéristiques similaires (comportement d'achat, démographie) aux acheteurs réels du distributeur, construit à partir de ses données de vente.</dd>
   <dt>Insertion Colis (Sponsored Mail)</dt>
@@ -63,6 +65,8 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Limite de volume imposée à une campagne, par exemple pour restreindre la distribution à un flyer par colis maximum.</dd>
   <dt>Co-branding</dt>
   <dd>Association des marques de l'annonceur et du distributeur dans une même communication pour renforcer l'impact par effet d'endorsement.</dd>
+  <dt>Commerce Media</dt>
+  <dd>Terme parapluie désignant l'ensemble des dispositifs publicitaires activés par des données d'achat, dont le retail media fait partie.</dd>
   <dt>CPA (Coût Par Acquisition)</dt>
   <dd>Coût moyen dépensé pour générer une vente ou un lead qualifié.</dd>
   <dt>CPM (Coût Pour Mille)</dt>
@@ -107,6 +111,8 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Profil colorimétrique standard obligatoire pour l'impression offset en Europe.</dd>
   <dt>Forecast Annuel</dt>
   <dd>Objectif de revenu annuel fixé par un distributeur pour un annonceur spécifique, suivi via une jauge visuelle YTD sur la plateforme.</dd>
+  <dt>Full-funnel</dt>
+  <dd>Couverture de l'ensemble du parcours d'achat, de la notoriété à la fidélisation. Chez getinside, la combinaison des quatre formats et les <a href="/advertisers/bundles">Bundles</a> permettent d'adresser chaque étape du funnel.</dd>
 </dl>
 
 <hr />
@@ -123,6 +129,8 @@ Définitions des termes techniques et acronymes de la plateforme.
 
 <h2 id="o">O</h2>
 <dl>
+  <dt>Omnicanal (Omnichannel)</dt>
+  <dd>Approche qui coordonne plusieurs points de contact (colis, email, réseaux sociaux) au sein d'une même campagne pour accompagner l'acheteur sur tout son parcours. Voir Full-funnel.</dd>
   <dt>Opt-in</dt>
   <dd>Consentement explicite d'un internaute à recevoir des communications commerciales — obligatoire pour l'Email Dédié et le Display Email.</dd>
 </dl>
@@ -151,6 +159,10 @@ Définitions des termes techniques et acronymes de la plateforme.
 <dl>
   <dt>Retail Media</dt>
   <dd>Ensemble des dispositifs publicitaires présents sur les parcours d'achat réels des e-commerçants (colis, web, email, social).</dd>
+  <dt>Retail Media Off-site</dt>
+  <dd>Publicité achetée grâce aux données et à la confiance d'un distributeur, mais diffusée en dehors de son site web : dans le colis, l'email post-achat ou les réseaux sociaux. C'est le modèle getinside, par opposition au retail media on-site (bannières et produits sponsorisés sur le site du retailer).</dd>
+  <dt>RMN (Retail Media Network)</dt>
+  <dd>Régie publicitaire opérée par un distributeur ou un réseau de distributeurs, qui commercialise ses inventaires et ses audiences first-party auprès des annonceurs.</dd>
   <dt>ROAS (Return On Ad Spend)</dt>
   <dd>Revenu généré pour chaque euro dépensé en publicité — moyenne réseau getinside : 4,8.</dd>
 </dl>

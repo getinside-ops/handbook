@@ -26,7 +26,7 @@ hero:
 features:
   - icon: 🎯
     title: "Annonceurs : diffusez là où vos clients achètent"
-    details: "Audiences qualifiées via 250+ e-commerçants. 100% de taux de lecture en insertion colis. CTR réseau 2,64% vs 0,90% sur Meta. Conversion 10–30%."
+    details: "Retail media off-site : audiences qualifiées via 250+ e-commerçants. 100% de taux de lecture en insertion colis. CTR réseau 2,64% vs 0,90% sur Meta. Conversion 10–30%."
     link: /advertisers/
   - icon: 📦
     title: "Retailers : rentabilisez vos expéditions"

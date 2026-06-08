@@ -1,8 +1,11 @@
 ---
 title: Espace Annonceurs — Retail Media getinside
-description: Diffusez vos campagnes auprès d'acheteurs avérés via l'insertion colis, l'email dédié, les encarts newsletter et les social ads. 250+ retailers partenaires, 350+ audiences exclusives, 40M de consommateurs.
+description: "Le retail media off-site getinside : diffusez vos campagnes auprès d'acheteurs avérés via l'insertion colis, l'email dédié, les encarts newsletter et les social ads, avec une attribution en boucle fermée. 250+ retailers partenaires, 350+ audiences exclusives, 40M de consommateurs."
 keywords:
   - annonceurs retail media
+  - retail media off-site
+  - commerce media
+  - attribution en boucle fermée
   - insertion colis publicitaire
   - emailing dédié
   - campagne sponsored mail
@@ -12,7 +15,7 @@ image: /images/gi-keyvisual.svg
 
 # Espace Annonceurs
 
-**Recrutez vos clients là où ils achètent déjà.** getinside vous donne accès à des audiences qualifiées au moment où elles sont le plus réceptives : pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Vos campagnes bénéficient de l'endorsement du distributeur — vous n'achetez pas de l'attention, vous accédez à une relation de confiance déjà établie entre un e-commerçant et ses clients.
+**Recrutez vos clients là où ils achètent déjà.** getinside opère un réseau de **retail media off-site** : vous activez la donnée et la confiance d'un distributeur en dehors de son site, auprès d'audiences qualifiées au moment où elles sont le plus réceptives : pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Vos campagnes bénéficient de l'endorsement du distributeur — vous n'achetez pas de l'attention, vous accédez à une relation de confiance déjà établie entre un e-commerçant et ses clients. Chaque scan et chaque code promo étant rattachés à la campagne, vous mesurez l'impact en **boucle fermée**, du premier contact jusqu'à l'achat.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

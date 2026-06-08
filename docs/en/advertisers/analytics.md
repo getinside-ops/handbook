@@ -10,6 +10,8 @@ keywords:
 
 # Campaign Tracking & Measurement
 
+getinside off-site retail media is built on **closed-loop attribution**: the QR code scan and the unique-per-distributor promo code tie each sale back to the campaign that generated it, with no third-party cookies. This guide shows how to complete that loop with your own tracking, following the buyer from first contact to conversion.
+
 The getinside platform counts clicks and scans. To measure what happens **after** — visits, add-to-carts, conversions — you need to set up your own tracking layer.
 
 ## Why your own tracking is essential

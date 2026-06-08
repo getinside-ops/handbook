@@ -1,8 +1,11 @@
 ---
 title: Advertiser Hub — getinside Retail Media
-description: Run your campaigns to verified buyers via parcel inserts, dedicated emails, newsletter display ads, and social ads. 250+ retail partners, 350+ exclusive audiences, 40M consumers.
+description: "getinside off-site retail media: run your campaigns to verified buyers via parcel inserts, dedicated emails, newsletter display ads, and social ads, with closed-loop attribution. 250+ retail partners, 350+ exclusive audiences, 40M consumers."
 keywords:
   - retail media advertisers
+  - off-site retail media
+  - commerce media
+  - closed-loop attribution
   - parcel insert advertising
   - dedicated emailing
   - sponsored mail campaign
@@ -12,7 +15,7 @@ image: /images/gi-keyvisual.svg
 
 # Advertiser Hub
 
-**Recruit your customers where they already buy.** getinside gives you access to qualified audiences at the moment they are most receptive: during unboxing, while reading a post-purchase email, or on the social channels of a trusted retailer. Your campaigns benefit from the retailer's endorsement — you're not buying attention, you're accessing a trust relationship already established between an e-retailer and its customers.
+**Recruit your customers where they already buy.** getinside runs an **off-site retail media** network: you activate a retailer's data and trust away from its own site, reaching qualified audiences at the moment they are most receptive: during unboxing, while reading a post-purchase email, or on the social channels of a trusted retailer. Your campaigns benefit from the retailer's endorsement — you're not buying attention, you're accessing a trust relationship already established between an e-retailer and its customers. Because every scan and every promo code is tied back to the campaign, you measure impact in a **closed loop**, from first contact to purchase.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">

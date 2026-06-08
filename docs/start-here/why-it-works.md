@@ -12,7 +12,7 @@ image: /images/gi-keyvisual.svg
 
 # Pourquoi ça fonctionne
 
-Les formats getinside surperforment parce qu'ils combinent trois mécanismes que la publicité digitale classique ne réunit jamais : l'attention garantie, la confiance du distributeur et la pertinence contextuelle. Chacun de ces mécanismes est mesurable. Ensemble, ils produisent des résultats hors normes.
+Les formats getinside relèvent du **retail media off-site**, et ils surperforment parce qu'ils combinent trois mécanismes que la publicité digitale classique ne réunit jamais : l'attention garantie, la confiance du distributeur et la pertinence contextuelle. Chacun de ces mécanismes est mesurable. Ensemble, ils produisent des résultats hors normes.
 
 ## Le transfert de confiance
 
