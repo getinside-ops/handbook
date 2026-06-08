@@ -164,7 +164,7 @@ Definitions of technical terms and acronyms used on the platform.
   <dt>RMN (Retail Media Network)</dt>
   <dd>Advertising network operated by a distributor or a network of distributors, selling its inventory and first-party audiences to advertisers.</dd>
   <dt>ROAS (Return On Ad Spend)</dt>
-  <dd>Revenue generated for every euro spent on advertising — getinside network average: 4.8.</dd>
+  <dd>Revenue generated for every euro spent on advertising.</dd>
 </dl>
 
 <hr />

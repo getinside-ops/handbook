@@ -261,7 +261,7 @@ Cliquez sur les images pour zoomer.
 
 | Indicateur | Résultat |
 |---|---|
-| CTR moyen réseau | 2,64% — vs 0,90% sur Meta Ads |
+| CTR moyen réseau | 2,87% — vs 0,90% sur Meta Ads |
 | CTR record | 12% — Total Wash (Drive to App, ciblage Auto-Moto) |
 | ROI record | 16:1 — Nocibé (campagne omnicanale Drive-to-Store) |
 | ROAS record | 824% — Blacksheep (Insertion Colis) |

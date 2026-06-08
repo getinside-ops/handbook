@@ -11,7 +11,7 @@ keywords:
 
 # Insertion Colis (Sponsored Mail)
 
-Votre flyer, carte ou échantillon glissé dans le colis d'un client au moment de l'unboxing. C'est le seul canal physique avec un taux de lecture de **100%** — et un CTR réseau de **2,64%**, contre 0,90% pour les Meta Ads.
+Votre flyer, carte ou échantillon glissé dans le colis d'un client au moment de l'unboxing. C'est le seul canal physique avec un taux de lecture de **100%** — et un CTR réseau de **2,87%**, contre 0,90% pour les Meta Ads.
 
 ::: tip Côté e-commerçant
 Vous êtes distributeur et souhaitez monétiser vos colis avec ce format ? Consultez le [guide Insertion Colis pour les Retailers](/publishers/sponsored-mail/).
@@ -59,7 +59,7 @@ Vous êtes distributeur et souhaitez monétiser vos colis avec ce format ? Consu
     <p>Le seul média physique avec un taux de prise en main absolu. Le colis est attendu — votre flyer est vu dans un moment d'attention maximale.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2,64% de CTR réseau</strong>
+    <strong>2,87% de CTR réseau</strong>
     <p>Contre 0,90% pour les Meta Ads. L'insertion colis génère jusqu'à 3× plus de clics qualifiés grâce à l'hyper-attention de l'unboxing.</p>
   </div>
   <div class="gi-value-card">

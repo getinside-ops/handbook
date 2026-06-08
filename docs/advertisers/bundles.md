@@ -71,7 +71,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Jusqu'à 20% de CTR</strong>
-    <p>Les formats gamifiés (jeu-concours, roue de la fortune, quiz) atteignent jusqu'à 20% de taux de clic — contre 2,64% en moyenne réseau pour l'insertion colis standard.</p>
+    <p>Les formats gamifiés (jeu-concours, roue de la fortune, quiz) atteignent jusqu'à 20% de taux de clic — contre 2,87% en moyenne réseau pour l'insertion colis standard.</p>
   </div>
   <div class="gi-value-card">
     <strong>Leads opt-in qualifiés</strong>

@@ -23,7 +23,7 @@ image: /images/gi-keyvisual.svg
     <p>Taux de lecture en insertion colis — attention maximale pendant l'unboxing.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2,64% CTR moyen</strong>
+    <strong>2,87% CTR moyen</strong>
     <p>CTR réseau vs 0,90% sur Meta — grâce à l'endorsement du distributeur.</p>
   </div>
   <div class="gi-value-card">

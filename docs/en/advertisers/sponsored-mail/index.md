@@ -11,7 +11,7 @@ keywords:
 
 # Parcel Insert (Sponsored Mail)
 
-Your flyer, card, or sample slipped into a customer's parcel at the moment of unboxing. It's the only physical channel with a **100%** read rate — and a network CTR of **2.64%**, compared to 0.90% for Meta Ads.
+Your flyer, card, or sample slipped into a customer's parcel at the moment of unboxing. It's the only physical channel with a **100%** read rate — and a network CTR of **2.87%**, compared to 0.90% for Meta Ads.
 
 ::: tip For retailers
 Are you an e-retailer looking to monetise your parcels with this format? See the [Parcel Insert guide for retailers](/en/publishers/sponsored-mail/).
@@ -59,7 +59,7 @@ Are you an e-retailer looking to monetise your parcels with this format? See the
     <p>The only physical media with an absolute take-in rate. The parcel is expected — your flyer is seen during a moment of maximum attention.</p>
   </div>
   <div class="gi-value-card">
-    <strong>2.64% network CTR</strong>
+    <strong>2.87% network CTR</strong>
     <p>vs 0.90% for Meta Ads. Parcel inserts generate up to 3× more qualified clicks thanks to the hyper-attention of unboxing.</p>
   </div>
   <div class="gi-value-card">
