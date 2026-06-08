@@ -26,7 +26,7 @@ hero:
 features:
   - icon: 🎯
     title: "Advertisers: reach customers where they buy"
-    details: "Qualified audiences across 250+ e-merchants. 100% read rate for parcel inserts. Network CTR 2.64% vs 0.90% on Meta. Conversion 10–30%."
+    details: "Off-site retail media: qualified audiences across 250+ e-merchants. 100% read rate for parcel inserts. Network CTR 2.64% vs 0.90% on Meta. Conversion 10–30%."
     link: /en/advertisers/
   - icon: 📦
     title: "Retailers: monetise your shipments"

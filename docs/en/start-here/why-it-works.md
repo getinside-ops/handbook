@@ -12,7 +12,7 @@ image: /images/gi-keyvisual.svg
 
 # Why It Works
 
-getinside formats outperform because they combine three mechanisms that classic digital advertising never brings together: guaranteed attention, retailer trust and contextual relevance. Each mechanism is measurable. Together, they produce exceptional results.
+getinside formats belong to **off-site retail media**, and they outperform because they combine three mechanisms that classic digital advertising never brings together: guaranteed attention, retailer trust and contextual relevance. Each mechanism is measurable. Together, they produce exceptional results.
 
 ## Trust Transfer
 

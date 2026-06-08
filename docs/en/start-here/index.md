@@ -12,7 +12,7 @@ image: /images/gi-keyvisual.svg
 
 # Welcome to getinside
 
-getinside is a retail media platform that connects **advertisers** and **e-merchants** through their shared assets: parcels, transactional emails and social media. The network currently counts **250+ e-merchants**, **300+ advertisers**, **950+ campaigns** operated and **40 million consumers** reachable. This handbook covers both sides of the platform — choose your profile below.
+getinside is an **off-site retail media** platform that connects **advertisers** and **e-merchants** through their shared assets: parcels, transactional emails and social media. The network currently counts **250+ e-merchants**, **300+ advertisers**, **950+ campaigns** operated and **40 million consumers** reachable. This handbook covers both sides of the platform — choose your profile below.
 
 ## Are you an advertiser?
 

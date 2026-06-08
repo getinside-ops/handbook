@@ -13,20 +13,30 @@ Crawl-delay: 0
 # Sitemap XML
 Sitemap: https://getinside-ops.github.io/handbook/sitemap.xml
 
-# Specific: Perplexity
+# Specific: Perplexity (crawler + live user fetch)
 User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
 Allow: /
 
 # Specific: Common Crawl (used by many LLMs)
 User-agent: CCBot
 Allow: /
 
-# Specific: OpenAI
+# Specific: OpenAI (training, search, live user fetch)
 User-agent: GPTBot
 Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
 
-# Specific: Claude/Anthropic
-User-agent: Claude-Web
+# Specific: Claude / Anthropic (training, search, live user fetch)
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
 Allow: /
 
 # Specific: Google AI
@@ -37,4 +47,16 @@ Allow: /
 
 # Specific: Apple AI
 User-agent: Applebot-Extended
+Allow: /
+
+# Specific: Microsoft / Bing
+User-agent: Bingbot
+Allow: /
+
+# Specific: Amazon
+User-agent: Amazonbot
+Allow: /
+
+# Specific: Meta AI
+User-agent: Meta-ExternalAgent
 Allow: /

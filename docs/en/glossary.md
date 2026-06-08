@@ -39,6 +39,8 @@ Definitions of technical terms and acronyms used on the platform.
   <dd>Advertiser with whom a distributor collaborates directly via the platform, with no platform fees on the Platform offer.</dd>
   <dt>Prospect Advertiser (Annonceur Prospect)</dt>
   <dd>Commercial target identified or imported by the distributor to manage their new-advertiser acquisition pipeline via the integrated CRM.</dd>
+  <dt>Closed-loop attribution (Attribution en boucle fermée)</dt>
+  <dd>Measurement method that ties an ad exposure to a verified purchase using the distributor's first-party data. At getinside, the loop closes through the QR code scan and the unique-per-distributor promo code, which link the sale back to the campaign with no third-party cookies. See <a href="/en/advertisers/analytics">Tracking &amp; Measurement</a>.</dd>
   <dt>Lookalike Audience (1st Party LAL)</dt>
   <dd>Targeting aimed at profiles with similar characteristics (purchase behaviour, demographics) to the distributor's actual buyers, built from their sales data.</dd>
   <dt>Parcel Insert (Insertion Colis / Sponsored Mail)</dt>
@@ -63,6 +65,8 @@ Definitions of technical terms and acronyms used on the platform.
   <dd>Volume limit imposed on a campaign, for example to restrict distribution to a maximum of one flyer per parcel.</dd>
   <dt>Co-branding</dt>
   <dd>Association of the advertiser's and distributor's brands in a single communication to strengthen impact through endorsement.</dd>
+  <dt>Commerce Media</dt>
+  <dd>Umbrella term for all advertising activated by purchase data, of which retail media is a part.</dd>
   <dt>CPA (Cost Per Acquisition)</dt>
   <dd>Average cost spent to generate a sale or qualified lead.</dd>
   <dt>CPM (Cost Per Mille)</dt>
@@ -107,6 +111,8 @@ Definitions of technical terms and acronyms used on the platform.
   <dd>Standard colour profile mandatory for offset printing in Europe.</dd>
   <dt>Annual Forecast</dt>
   <dd>Annual revenue target set by a distributor for a specific advertiser, tracked via a visual YTD gauge on the platform.</dd>
+  <dt>Full-funnel</dt>
+  <dd>Coverage of the entire purchase journey, from awareness to loyalty. At getinside, combining the four formats and <a href="/en/advertisers/bundles">Bundles</a> lets you address every stage of the funnel.</dd>
 </dl>
 
 <hr />
@@ -123,6 +129,8 @@ Definitions of technical terms and acronyms used on the platform.
 
 <h2 id="o">O</h2>
 <dl>
+  <dt>Omnichannel (Omnicanal)</dt>
+  <dd>Approach that coordinates several touchpoints (parcel, email, social media) within a single campaign to support the buyer across the whole journey. See Full-funnel.</dd>
   <dt>Opt-in</dt>
   <dd>Explicit consent of a user to receive commercial communications — mandatory for Dedicated Email and Display Email.</dd>
 </dl>
@@ -151,6 +159,10 @@ Definitions of technical terms and acronyms used on the platform.
 <dl>
   <dt>Retail Media</dt>
   <dd>Set of advertising devices present on the actual purchase journeys of e-merchants (parcels, web, email, social).</dd>
+  <dt>Retail Media Off-site</dt>
+  <dd>Advertising bought through a distributor's data and trust, but delivered outside its own website: in the parcel, the post-purchase email or on social media. This is the getinside model, as opposed to on-site retail media (banners and sponsored products on the retailer's site).</dd>
+  <dt>RMN (Retail Media Network)</dt>
+  <dd>Advertising network operated by a distributor or a network of distributors, selling its inventory and first-party audiences to advertisers.</dd>
   <dt>ROAS (Return On Ad Spend)</dt>
   <dd>Revenue generated for every euro spent on advertising — getinside network average: 4.8.</dd>
 </dl>

@@ -10,6 +10,8 @@ keywords:
 
 # Suivi & Mesure des Campagnes
 
+Le retail media off-site getinside repose sur une **attribution en boucle fermée** : le scan du QR code et le code promo unique par distributeur rattachent chaque vente à la campagne qui l'a générée, sans cookie tiers. Ce guide explique comment compléter cette boucle avec votre propre tracking pour suivre l'acheteur du premier contact jusqu'à la conversion.
+
 La plateforme getinside comptabilise les clics et les scans. Pour mesurer ce qui se passe **après** — visites, ajouts au panier, conversions — vous devez configurer votre propre couche de tracking.
 
 ## Pourquoi votre propre tracking est indispensable

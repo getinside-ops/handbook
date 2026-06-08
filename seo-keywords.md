@@ -19,7 +19,7 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
 
 ### **Retail Media**
 - **Définition** : Plateforme publicitaire qui utilise les données et audiences des retailers (e-commerçants) pour vendre de l'espace publicitaire à des marques
-- **Termes associés** : Retail media network (RMN), publisher network, advertiser network, endorsed advertising, trusted advertising, recommendation-based marketing
+- **Termes associés** : Retail media off-site (off-site retail media), on-site retail media, commerce media, retail media network (RMN), publisher network, advertiser network, endorsed advertising, trusted advertising, recommendation-based marketing, closed-loop attribution (attribution en boucle fermée), full-funnel, omnicanal
 - **Compétiteurs** : Criteo Retail Media, Amazon Advertising, Ebay Promotions, Walmart Connect, Carrefour Ads
 - **getinside** : Plateforme européenne de retail media pour +250 retailers et +500 annonceurs
 
@@ -108,6 +108,10 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
 | Terme | Définition |
 |-------|-----------|
 | **RMN** | Retail Media Network — plateforme retail media |
+| **Retail Media Off-site** | Publicité activée par les données du distributeur mais diffusée hors de son site (colis, email, social), le modèle getinside |
+| **Commerce Media** | Terme parapluie pour toute publicité activée par des données d'achat, dont le retail media |
+| **Closed-loop Attribution** | Attribution en boucle fermée : rattacher une exposition pub à un achat vérifié via les données first-party du distributeur |
+| **Full-funnel / Omnicanal** | Couverture du parcours notoriété → conversion → fidélisation via la combinaison des formats |
 | **Retailer / Publisher** | E-commerçant qui vend espace publicitaire |
 | **Advertiser** | Marque qui achète de l'espace pour promouvoir ses produits |
 | **Endorsed Content** | Contenu recommandé/endorsé par le retailer |
@@ -186,6 +190,9 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
 
 ### **Recherches Comparatives**
 - "retail media vs display advertising"
+- "off-site vs on-site retail media"
+- "commerce media platform"
+- "closed-loop attribution retail media"
 - "endorsed advertising benefits"
 - "first-party data monetization"
 - "e-commerce growth strategies"
