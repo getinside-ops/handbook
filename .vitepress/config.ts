@@ -262,6 +262,7 @@ const config: any = defineConfig({
                     collapsed: true,
                     items: [
                       { text: 'Introduction', link: '/advertisers/sponsored-mail/design-guide/' },
+                      { text: 'Anatomie d\'un flyer performant', link: '/advertisers/sponsored-mail/design-guide/best-practices' },
                       { text: 'Spécifications techniques', link: '/advertisers/sponsored-mail/design-guide/print-specs' },
                       { text: 'Mentions légales', link: '/advertisers/sponsored-mail/design-guide/legal' },
                     ],
@@ -400,6 +401,7 @@ const config: any = defineConfig({
                     collapsed: true,
                     items: [
                       { text: 'Introduction', link: '/en/advertisers/sponsored-mail/design-guide/' },
+                      { text: 'Anatomy of a High-Performing Flyer', link: '/en/advertisers/sponsored-mail/design-guide/best-practices' },
                       { text: 'Print Specs', link: '/en/advertisers/sponsored-mail/design-guide/print-specs' },
                       { text: 'Legal', link: '/en/advertisers/sponsored-mail/design-guide/legal' },
                     ],

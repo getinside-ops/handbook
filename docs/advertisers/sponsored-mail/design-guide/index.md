@@ -48,7 +48,7 @@ Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes — uti
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Création</h3>
-    <p>Créez votre visuel en respectant les <a href="./print-specs">spécifications techniques</a> — formats, colorimétrie, QR code.</p>
+    <p>Créez votre visuel en respectant les <a href="./print-specs">spécifications techniques</a> — formats, colorimétrie, QR code. Inspirez-vous de l'<a href="./best-practices">anatomie d'un flyer performant</a> pour maximiser la conversion.</p>
   </div>
 </div>
 
@@ -87,6 +87,14 @@ Une valeur concrète est perçue immédiatement. Un produit offert fonctionne en
 | **Code promo** | Unique par distributeur, court, sans caractères spéciaux (`_`, `-`, `;`) |
 | **Format code promo** | Inclure le nom du distributeur — ex : "GREENWEEZ20", "BERCEAU15" |
 
+:::warning Annonce de réduction de prix : le prix de référence est obligatoire
+Si votre flyer annonce une réduction (pourcentage, montant barré, « avant/après »), la loi impose d'indiquer le **prix de référence** = le **prix le plus bas pratiqué dans les 30 jours** précédant l'offre (directive Omnibus, contrôlée par la DGCCRF). Une valeur monétaire offerte ou un produit cadeau ne sont pas concernés — une raison de plus de les privilégier.
+:::
+
+:::tip Protégez votre marge
+Calibrez l'offre selon votre marge et fixez une fenêtre de validité claire (minimum 3 mois). Une réduction généreuse mais bornée dans le temps convertit mieux qu'un rabais permanent qui habitue le client à attendre.
+:::
+
 ---
 
 ## La Mécanique
@@ -117,7 +125,9 @@ Avant de valider votre mécanique, posez-vous : **"Pourquoi ce contenu est-il de
 - Instruction courte à côté : "Scannez pour profiter de l'offre"
 - Positionnez en bas droite, là où le pouce tient naturellement le flyer
 
-**Landing page post-scan :** responsive, chargement rapide même en 3G, un seul appel à l'action.
+:::tip Aller plus loin
+La hiérarchie du message, la structure recto/verso, le test des 3 secondes, la landing page post-scan et la boucle de mesure sont détaillés dans **[Anatomie d'un flyer performant](./best-practices)**.
+:::
 
 ---
 

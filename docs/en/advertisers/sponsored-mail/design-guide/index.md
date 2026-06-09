@@ -48,7 +48,7 @@ Top Sponsored Mail campaigns selected by our teams — use these as inspiration 
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Creation</h3>
-    <p>Design your visual following the <a href="./print-specs">technical specifications</a> — formats, colorimetry, QR code.</p>
+    <p>Design your visual following the <a href="./print-specs">technical specifications</a> — formats, colorimetry, QR code. Take inspiration from the <a href="./best-practices">anatomy of a high-performing flyer</a> to maximize conversion.</p>
   </div>
 </div>
 
@@ -87,6 +87,14 @@ A concrete value is immediately perceived. A free product works even better — 
 | **Promo code** | Unique per retailer, short, no special characters (`_`, `-`, `;`) |
 | **Promo code format** | Include the retailer's name — e.g. "GREENWEEZ20", "BERCEAU15" |
 
+:::warning Price reduction announcements: the reference price is mandatory
+If your flyer announces a discount (percentage, struck-through price, "before/after"), French law requires you to show the **reference price** = the **lowest price applied in the 30 days** before the offer (Omnibus Directive, enforced by the DGCCRF). A free monetary value or a gift product isn't affected — one more reason to favor them.
+:::
+
+:::tip Protect your margin
+Calibrate the offer to your margin and set a clear validity window (minimum 3 months). A generous but time-bound discount converts better than a permanent rebate that trains customers to wait.
+:::
+
 ---
 
 ## The Mechanic
@@ -117,7 +125,9 @@ Before finalizing your mechanic, ask yourself: **"Why is this content meant for 
 - Short instruction next to it: "Scan to claim your offer"
 - Position in the bottom right, where the thumb naturally holds a flyer
 
-**Post-scan landing page:** responsive, fast-loading even on 3G, a single call to action.
+:::tip Go further
+The message hierarchy, front/back structure, the 3-second test, the post-scan landing page, and the measurement loop are detailed in **[Anatomy of a High-Performing Flyer](./best-practices)**.
+:::
 
 ---
 
