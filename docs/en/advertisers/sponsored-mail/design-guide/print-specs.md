@@ -95,5 +95,6 @@ Check before each submission:
 3. getinside QR code (`.svg`) is present and at least **25 × 25 mm** — each retailer has their own.
 4. Universal legal notices are included: advertiser ID, Triman, getinside logo, T&Cs. If getinside handles printing, the FSC/Imprim'vert certification notice is present.
 5. [Sector-specific mandatory notices](./legal) (if applicable) are present and legible.
+6. The destination **landing page** has been tested on mobile: responsive, loads in < 3 s, a single call to action (see [Anatomy of a High-Performing Flyer](./best-practices#the-post-scan-landing-page)).
 
 → [Download the complete checklist](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}

@@ -95,5 +95,6 @@ L'URL de destination n'est pas gravée dans le motif du code. Vous pouvez modifi
 3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm** — chaque distributeur a le sien.
 4. Les mentions légales universelles sont incluses : identification annonceur, Triman, logo getinside, CGV. Si getinside réalise l'impression, la mention de certification FSC/Imprim'vert est présente.
 5. Les [mentions légales sectorielles](./legal) (si applicable) sont présentes et lisibles.
+6. La **landing page** de destination a été testée sur mobile : responsive, chargement < 3 s, un seul appel à l'action (voir [Anatomie d'un flyer performant](./best-practices#la-landing-page-post-scan)).
 
 → [Télécharger la checklist complète](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}

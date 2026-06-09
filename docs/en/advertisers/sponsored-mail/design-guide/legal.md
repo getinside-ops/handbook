@@ -21,13 +21,17 @@ These 3 blocks apply to **all advertisers**, regardless of sector.
 | Notice | Required content |
 | :--- | :--- |
 | **Advertiser identification** | Company name · Legal form · Share capital · Registered address · Company registration number + registration city |
-| **Environmental logos** | Info-tri (Triman) label — minimum **8 mm** · getinside logo included with the templates |
+| **Environmental logos** | Triman signage **adjoined** to the sorting instruction (Info-tri) — Triman logo **≥ 10 mm** (standard version) or **6 mm** (compact version, only where space is restricted) · getinside logo included with the templates |
 | **Printing by getinside** | If printing is handled by getinside: mandatory notice *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* + corresponding FSC and Imprim'vert logos (provided by getinside) |
 | **Offer T&Cs** | Validity dates · Specific conditions (e.g. "valid from €50 purchase") · Any usage restrictions |
 
 Example identification: *"ACME SAS with share capital of €10,000 — 12 rue de la Paix, 75001 Paris — RCS Paris 123 456 789"*
 
 [Download the logo pack](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
+
+:::info Why the Triman on a flyer?
+A promotional flyer is a **graphic paper** subject to the paper EPR scheme (Citeo). Since the AGEC law, the Triman + Info-tri signage is mandatory on it. The minimum sizes (10 mm standard, 6 mm compact) follow the ADEME charter reproduced in the [Citeo Info-tri guide](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"}; the Triman and the sorting instruction are inseparable and must be enlarged proportionally.
+:::
 
 ---
 
@@ -50,4 +54,22 @@ If your business falls under one of the sectors below, the corresponding notice 
 
 :::tip In case of doubt
 If your sector isn't listed or you're unsure of the exact wording, send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) before printing — our team validates your creative, but legal compliance remains your responsibility.
+:::
+
+---
+
+## Personal data & GDPR
+
+This obligation doesn't concern the flyer itself but the **landing page** the QR code points to, as soon as it **collects data** (contest, form, newsletter sign-up, drive to app).
+
+| Requirement | What's expected |
+| :--- | :--- |
+| **Consent** | **Explicit** opt-in — no pre-checked box. Consent to receive communications is separate from entering. |
+| **Purpose** | Clearly state why the data is collected (entry, newsletter, brand communication…). |
+| **Information** | A visible link to your **privacy policy** on the page or form. |
+| **Rights** | Allow data subjects to exercise their rights (access, rectification, erasure) and state the **retention period**. |
+| **Rules** | For a contest, provide official rules covering the collection and use of data. |
+
+:::tip Reference
+The [CNIL](https://www.cnil.fr/fr/cnil-direct/question/organisation-de-jeux-concours-que-faire){target="_blank"} guidelines are authoritative. If in doubt about your setup's compliance, have it validated by your DPO or legal team.
 :::
