@@ -500,6 +500,61 @@
 }
 
 /* ============================================================
+   2g2. COMPONENT: FEATURE LIST (icon + title + text rows)
+   ============================================================ */
+.gi-feature-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin: 0 0 1.75rem;
+}
+
+.gi-feature-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.gi-feature-icon {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  padding: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--vp-c-brand-soft);
+  border-radius: 10px;
+  color: var(--vp-c-brand-1);
+}
+
+.gi-feature-icon svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.gi-feature-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.gi-feature-body strong {
+  display: block;
+  font-size: 0.95rem;
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.gi-feature-body p {
+  margin: 0 !important;
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.55;
+}
+
+/* ============================================================
    2h. COMPONENT: ACCENT & DANGER BOXES
    ============================================================ */
 .gi-accent-box {
@@ -579,13 +634,19 @@
    ============================================================ */
 .gi-cert-row {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 1.25rem;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.85rem;
   margin: 1rem 0 0;
   background: var(--vp-c-brand-soft);
   border: 1px solid var(--vp-c-brand-1);
   border-radius: 8px;
-  padding: 1.25rem;
+  padding: 1rem;
+}
+
+@media (max-width: 640px) {
+  .gi-cert-row {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
 }
 
 .gi-cert-item {
@@ -597,20 +658,36 @@
 }
 
 .gi-cert-item .gi-cert-icon {
-  font-size: 2rem;
-  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  width: 100%;
+  height: 48px;
+  padding: 0.4rem 0.6rem;
+  background: #fff;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+
+.gi-cert-item .gi-cert-logo {
+  max-height: 30px;
+  max-width: 100%;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.gi-cert-item .gi-cert-icon svg {
+  width: 26px;
+  height: 26px;
+  color: var(--vp-c-brand-1);
 }
 
 .gi-cert-item strong {
   font-size: 0.8125rem;
   color: var(--vp-c-text-1);
   font-weight: 600;
-}
-
-.gi-cert-item span {
-  font-size: 0.75rem;
-  color: var(--vp-c-text-2);
-  line-height: 1.4;
 }
 
 /* ============================================================
