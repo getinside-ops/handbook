@@ -15,7 +15,7 @@ Parcel inserts have their place in a responsible marketing strategy. The materia
 
 <div class="gi-cert-row">
   <div class="gi-cert-item">
-    <span class="gi-cert-icon"><img :src="withBase('/images/certifications/logo-PEFC.png')" alt="PEFC" class="gi-cert-logo"></span>
+    <span class="gi-cert-icon"><img :src="withBase('/images/certifications/OIP.6XJpYenr7zKgRXCXorsg7wHaHa.webp')" alt="FSC" class="gi-cert-logo"><img :src="withBase('/images/certifications/logo-PEFC.png')" alt="PEFC" class="gi-cert-logo"></span>
     <strong>FSC / PEFC</strong>
   </div>
   <div class="gi-cert-item">
@@ -62,13 +62,6 @@ Parcel inserts have their place in a responsible marketing strategy. The materia
   </div>
 </div>
 
-## A recyclable material
-
-When getinside handles printing, the paper is guaranteed free of plastic lamination: it is a single-material graphic paper that sorts like any other paper. The Triman and Info-tri signage appears on every visual — a requirement set by [article 17 of the AGEC law](https://www.ecologie.gouv.fr/info-tri) (decree no. 2021-835) — so the recipient knows what to do with it.
-
-And the recycling stream delivers: in France, nearly **67% of graphic paper is recycled** ([ADEME, 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/9282-11065-emballages-menagers-et-papiers-graphiques-donnees-2024.html)), and over **75% of paper consumed across Europe** ([CEPI, 2024](https://www.cepi.org/wp-content/uploads/2025/07/EPRC-Monitoring-Report-2024.pdf)). The recipient's sorting effort genuinely ends in actual recycling.
-
-→ The detail of the notices is in the [legal notices guide](./sponsored-mail/design-guide/legal).
 
 ::: details What FSC, PEFC, Imprim'Vert and ISO mean
 - **FSC and PEFC.** Two international standards certifying that the paper comes from sustainably managed forests: replanting, biodiversity protection, respect for local communities.

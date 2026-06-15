@@ -15,7 +15,7 @@ L'insertion colis a toute sa place dans une stratégie marketing responsable. Le
 
 <div class="gi-cert-row">
   <div class="gi-cert-item">
-    <span class="gi-cert-icon"><img :src="withBase('/images/certifications/logo-PEFC.png')" alt="PEFC" class="gi-cert-logo"></span>
+    <span class="gi-cert-icon"><img :src="withBase('/images/certifications/OIP.6XJpYenr7zKgRXCXorsg7wHaHa.webp')" alt="FSC" class="gi-cert-logo"><img :src="withBase('/images/certifications/logo-PEFC.png')" alt="PEFC" class="gi-cert-logo"></span>
     <strong>FSC / PEFC</strong>
   </div>
   <div class="gi-cert-item">
@@ -62,13 +62,6 @@ L'insertion colis a toute sa place dans une stratégie marketing responsable. Le
   </div>
 </div>
 
-## Un support recyclable
-
-Quand getinside gère l'impression, le papier est garanti sans pelliculage plastique : un papier graphique mono-matériau, qui se trie comme n'importe quel papier. La signalétique Triman et Info-tri figure sur chaque visuel — une obligation posée par l'[article 17 de la loi AGEC](https://www.ecologie.gouv.fr/info-tri) (décret n° 2021-835) — pour que le destinataire sache quoi en faire.
-
-Et la filière suit : en France, près de **67 % des papiers graphiques sont recyclés** ([ADEME, 2024](https://librairie.ademe.fr/economie-circulaire-et-dechets/9282-11065-emballages-menagers-et-papiers-graphiques-donnees-2024.html)), et plus de **75 % du papier consommé en Europe** ([CEPI, 2024](https://www.cepi.org/wp-content/uploads/2025/07/EPRC-Monitoring-Report-2024.pdf)). Le geste de tri du destinataire débouche donc bien sur un recyclage effectif.
-
-→ Le détail des mentions est dans le [guide des mentions légales](./sponsored-mail/design-guide/legal).
 
 ::: details Ce que signifient FSC, PEFC, Imprim'Vert et ISO
 - **FSC et PEFC.** Deux référentiels internationaux qui certifient que le papier vient de forêts gérées durablement : reboisement, préservation de la biodiversité, respect des populations locales.
