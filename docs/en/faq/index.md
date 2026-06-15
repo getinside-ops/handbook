@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: FAQ — Frequently Asked Questions
 description: Answers to frequently asked questions about campaign management, billing, logistics and technical integrations.
 keywords:

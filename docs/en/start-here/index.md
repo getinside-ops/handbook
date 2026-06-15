@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Discover getinside — Retail Media Platform
 description: getinside connects advertisers and e-merchants through parcel inserts, email and social media. 250+ retailers, 300+ advertisers, 40M consumers reachable.
 keywords:

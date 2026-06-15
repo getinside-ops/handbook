@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: FAQ — Questions fréquentes
 description: Réponses aux questions fréquentes sur la gestion des campagnes, la facturation, la logistique et les intégrations techniques.
 keywords:
