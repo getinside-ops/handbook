@@ -66,7 +66,7 @@ Des rendus réels en ligne (responsive, co-branding, endorsement) :
 ::: info Pas le temps de créer ?
 Déléguez au **Studio getinside** : création de l'email à vos couleurs, rédaction de l'édito et intégration technique.
 
-**550€ HT** par campagne (déduit de vos revenus) → [studio@getinside.fr](mailto:studio@getinside.fr)
+**550€ HT** par campagne (déduit de vos revenus) → [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 → [Étape 2 : Tracking & Envoi](./2-tracking-sending)

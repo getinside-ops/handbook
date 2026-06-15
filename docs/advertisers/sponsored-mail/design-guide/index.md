@@ -134,7 +134,7 @@ La hiérarchie du message, la structure recto/verso, le test des 3 secondes, la 
 ## Questions fréquentes
 
 ::: details Un distributeur refuse mon visuel — que faire ?
-Le distributeur a un droit de veto sur la **marque** (concurrent direct, catégorie incompatible), mais pas sur la direction artistique. Si votre fichier respecte les spécifications techniques, il est conforme. Transmettez votre BAT à [studio@getinside.fr](mailto:studio@getinside.fr) pour validation officielle — la validation getinside prime sur l'appréciation subjective du distributeur.
+Le distributeur a un droit de veto sur la **marque** (concurrent direct, catégorie incompatible), mais pas sur la direction artistique. Si votre fichier respecte les spécifications techniques, il est conforme. Transmettez votre BAT à [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) pour validation officielle — la validation getinside prime sur l'appréciation subjective du distributeur.
 :::
 
 ::: details Comment suivre les performances de ma campagne ?

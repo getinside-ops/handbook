@@ -135,7 +135,7 @@ Adobe Illustrator (vector), Photoshop (raster, 300 DPI) and InDesign (page layou
 :::
 
 ::: details Can getinside create my visuals?
-Yes. The Creative Studio produces your flyers, emails or banners for a flat fee of **550€ HT** per campaign. Contact: [studio@getinside.fr](mailto:studio@getinside.fr)
+Yes. The Creative Studio produces your flyers, emails or banners for a flat fee of **550€ HT** per campaign. Contact: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 
 → [Learn more about the Studio](/en/resources/studio)
 :::

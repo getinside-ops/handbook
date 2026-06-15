@@ -55,7 +55,7 @@ If your business falls under one of the sectors below, the corresponding notice 
 | **Insurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Insurance Code |
 
 :::tip In case of doubt
-If your sector isn't listed or you're unsure of the exact wording, send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) before printing — our team validates your creative, but legal compliance remains your responsibility.
+If your sector isn't listed or you're unsure of the exact wording, send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) before printing — our team validates your creative, but legal compliance remains your responsibility.
 :::
 
 ---

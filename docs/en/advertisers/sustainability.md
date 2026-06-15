@@ -104,7 +104,7 @@ Here's how to optimise your printing with 3 simple levers:
   <h3>Let's build a campaign aligned with your CSR policy</h3>
   <p>Paper choice, format, certifications, quantified data: the getinside studio frames every campaign around your responsible commitments.</p>
   <div class="gi-quick-links">
-    <a href="mailto:studio@getinside.fr" class="btn btn-primary">Talk to the studio →</a>
+    <a href="https://lp.getinside.fr/meetings/benoit-prentout" class="btn btn-primary">Talk to the studio →</a>
     <a href="./printing-services" class="btn btn-outline">Printing & Logistics</a>
   </div>
 </div>

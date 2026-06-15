@@ -66,7 +66,7 @@ Real renders online (responsive, co-branding, endorsement):
 ::: info No time to create?
 Delegate to the **getinside Studio**: email creation in your brand colours, editorial writing, and technical integration.
 
-**550€ excl. VAT** per campaign (deducted from your revenue) → [studio@getinside.fr](mailto:studio@getinside.fr)
+**550€ excl. VAT** per campaign (deducted from your revenue) → [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 → [Step 2: Tracking & Sending](./2-tracking-sending)

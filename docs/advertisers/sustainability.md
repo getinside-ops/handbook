@@ -104,7 +104,7 @@ Voici comment optimiser vos impressions grâce à 3 leviers simples :
   <h3>Construisons une campagne alignée avec votre politique RSE</h3>
   <p>Choix du papier, format, certifications, données chiffrées : le studio getinside cadre chaque campagne avec vos engagements responsables.</p>
   <div class="gi-quick-links">
-    <a href="mailto:studio@getinside.fr" class="btn btn-primary">Parler au studio →</a>
+    <a href="https://lp.getinside.fr/meetings/benoit-prentout" class="btn btn-primary">Parler au studio →</a>
     <a href="./printing-services" class="btn btn-outline">Impression & Logistique</a>
   </div>
 </div>

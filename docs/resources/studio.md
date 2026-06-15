@@ -23,7 +23,7 @@ Conception, direction artistique, rédaction et mise en conformité technique �
 - **Fichiers prêts à diffuser** aux normes imprimeur/routeur — zéro retouche de votre côté.
 
 ::: tip Commander un brief
-Contactez le Studio : **[studio@getinside.fr](mailto:studio@getinside.fr)**
+Contactez le Studio : **[studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)**
 
 Pour les distributeurs : le forfait peut être déduit directement de vos revenus de campagnes.
 :::

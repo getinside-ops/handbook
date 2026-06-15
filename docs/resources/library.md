@@ -29,7 +29,7 @@ Formats A5 et A6 avec zones de fond perdu et zones tranquilles pré-tracées. Di
 <a href="https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe" target="_blank" class="btn btn-primary btn-sm">Accéder au Drive ↗</a>
 
 ::: info Besoin d'aide créative ?
-Vous n'avez pas les logiciels Adobe ? Déléguez la création au [Studio Créatif](/resources/studio). Forfait 550€ HT par campagne — contact : [studio@getinside.fr](mailto:studio@getinside.fr)
+Vous n'avez pas les logiciels Adobe ? Déléguez la création au [Studio Créatif](/resources/studio). Forfait 550€ HT par campagne — contact : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 ---

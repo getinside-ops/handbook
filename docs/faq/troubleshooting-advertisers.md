@@ -73,7 +73,7 @@ Les modifications possibles dépendent du format :
 ::: details Comment contacter le support ?
 
 - **Support général :** [support@getinside.fr](mailto:support@getinside.fr) — délai de réponse : 24 à 48h ouvrées
-- **Studio créatif :** [studio@getinside.fr](mailto:studio@getinside.fr) — production graphique, BAT, création
+- **Studio créatif :** [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) — production graphique, BAT, création
 - **Opérations :** [benoit@getinside.fr](mailto:benoit@getinside.fr) — questions contractuelles ou urgences
 
 Précisez votre numéro de campagne dans l'objet de votre email pour accélérer le traitement.

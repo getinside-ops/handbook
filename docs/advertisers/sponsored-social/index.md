@@ -69,5 +69,5 @@ La différence avec la publicité sociale classique : vous n'apparaissez pas com
 </div>
 
 ::: info Format sur demande
-Ce format est disponible en contactant notre équipe : [studio@getinside.fr](mailto:studio@getinside.fr)
+Ce format est disponible en contactant notre équipe : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::

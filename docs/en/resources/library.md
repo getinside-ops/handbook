@@ -29,7 +29,7 @@ A5 and A6 formats with pre-drawn bleed areas and quiet zones. Available in `.ai`
 <a href="https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe" target="_blank" class="btn btn-primary btn-sm">Access Drive ↗</a>
 
 ::: info Need creative help?
-Don't have Adobe software? Delegate creation to the [Creative Studio](/en/resources/studio). Flat rate 550€ HT per campaign — contact: [studio@getinside.fr](mailto:studio@getinside.fr)
+Don't have Adobe software? Delegate creation to the [Creative Studio](/en/resources/studio). Flat rate 550€ HT per campaign — contact: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 ---

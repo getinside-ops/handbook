@@ -27,7 +27,7 @@ Cancellation is strongly discouraged. Except in cases of force majeure, it resul
 :::
 
 ::: details Can I refuse to insert a received flyer?
-Yes. Check the materials upon receipt. If flyers are damaged or do not comply with the validated proof (e.g., an undisclosed competing brand), immediately contact [studio@getinside.fr](mailto:studio@getinside.fr) and suspend insertion pending instructions.
+Yes. Check the materials upon receipt. If flyers are damaged or do not comply with the validated proof (e.g., an undisclosed competing brand), immediately contact [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) and suspend insertion pending instructions.
 :::
 
 ::: details The campaign is starting late — what should I do?
@@ -55,7 +55,7 @@ The average network CTR is **2.87%**. Gamified formats (Bundle, Games) reach up 
 ::: details A distributor is refusing my visual — what should I do?
 The distributor has a **veto right over the brand** (direct competitor, ethically incompatible category), but not over creative direction.
 
-If your file meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal notices present), it is compliant. Send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) for official validation — getinside validation takes precedence over the distributor's assessment.
+If your file meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal notices present), it is compliant. Send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation — getinside validation takes precedence over the distributor's assessment.
 
 → [Print specifications](/en/advertisers/sponsored-mail/design-guide/print-specs)
 :::

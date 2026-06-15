@@ -69,5 +69,5 @@ The difference from standard social advertising: you don't appear as an unknown 
 </div>
 
 ::: info Available on request
-This format is available by contacting our team: [studio@getinside.fr](mailto:studio@getinside.fr)
+This format is available by contacting our team: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::

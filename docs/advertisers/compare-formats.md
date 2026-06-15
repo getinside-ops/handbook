@@ -50,5 +50,5 @@ Le Social Ads utilise le compte social du distributeur (Instagram, TikTok, Faceb
 ---
 
 ::: tip Vous hésitez encore ?
-Contactez l'équipe : [studio@getinside.fr](mailto:studio@getinside.fr) — nous vous recommandons le format adapté à votre objectif et votre budget.
+Contactez l'équipe : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) — nous vous recommandons le format adapté à votre objectif et votre budget.
 :::

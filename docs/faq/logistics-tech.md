@@ -135,7 +135,7 @@ Adobe Illustrator (vectoriel), Photoshop (matriciel, 300 DPI) et InDesign (mise 
 :::
 
 ::: details getinside peut-il créer mes visuels ?
-Oui. Le Studio Créatif réalise vos flyers, emails ou bannières pour un forfait de **550€ HT** par campagne. Contact : [studio@getinside.fr](mailto:studio@getinside.fr)
+Oui. Le Studio Créatif réalise vos flyers, emails ou bannières pour un forfait de **550€ HT** par campagne. Contact : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 
 → [En savoir plus sur le Studio](/resources/studio)
 :::
