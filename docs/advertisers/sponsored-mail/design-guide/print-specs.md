@@ -66,6 +66,8 @@ Pour les textes fins et petits caractères : utilisez **N100% seul** pour évite
 **Si vous gérez votre propre impression :** seule l'intégration du **logo getinside** est requise.
 :::
 
+→ L'argumentaire RSE complet : [RSE & insertion colis](/advertisers/sustainability).
+
 ---
 
 ## QR Code getinside

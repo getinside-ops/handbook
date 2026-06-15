@@ -86,6 +86,7 @@ getinside handles creation, printing, and delivery. You approve the proof — th
 
 <div class="gi-quick-links">
   <a href="printing-services" class="btn btn-outline">🖨️ Printing & Logistics</a>
+  <a href="sustainability" class="btn btn-outline">♻️ CSR & Parcel Inserts</a>
   <a href="pricing" class="btn btn-outline">💰 Pricing & Budget</a>
   <a href="../resources/case-studies" class="btn btn-outline">🚀 Case Studies</a>
 </div>

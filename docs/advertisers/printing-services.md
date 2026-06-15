@@ -62,6 +62,10 @@ getinside mutualise les volumes de tout son réseau pour vous donner accès à d
   </div>
 </div>
 
+::: tip Une marque hésite pour des raisons RSE ?
+L'insertion colis tient face à une politique RSE : papier certifié, pas d'envoi dédié, distribution ciblée sans tirage gaspillé. → [Voir la page RSE & insertion colis](./sustainability)
+:::
+
 ::: tip Auto-promotion
 Vous souhaitez imprimer vos propres cartes de remerciement ou flyers pour vos propres colis ? Créez une campagne "interne" sur la plateforme et bénéficiez des tarifs de groupe. Livraison en palettes chez vous.
 :::

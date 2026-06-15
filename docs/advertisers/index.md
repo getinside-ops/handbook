@@ -86,6 +86,7 @@ getinside prend en charge la création, l'impression et le routage. Vous validez
 
 <div class="gi-quick-links">
   <a href="printing-services" class="btn btn-outline">🖨️ Impression & Logistique</a>
+  <a href="sustainability" class="btn btn-outline">♻️ RSE & Insertion Colis</a>
   <a href="pricing" class="btn btn-outline">💰 Tarifs & Budget</a>
   <a href="../resources/case-studies" class="btn btn-outline">🚀 Cas Clients</a>
 </div>
