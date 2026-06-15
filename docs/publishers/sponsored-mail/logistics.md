@@ -5,7 +5,7 @@ keywords:
   - logistique insertion colis
   - réception supports
   - bonnes pratiques insertion
-  - asile colis
+  - insertion colis
 ---
 
 # Logistique & Insertion
@@ -50,7 +50,7 @@ La valeur de l'Insertion Colis repose sur l'expérience d'ouverture. Ces règles
   </div>
 </div>
 
-<img :src="withBase('/images/asile-colis-do-dont.webp')" alt="Bonnes pratiques insertion Insertion Colis" />
+<img :src="withBase('/images/asile-colis-do-dont.webp')" alt="Bonnes pratiques d'insertion colis" />
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
