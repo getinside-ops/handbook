@@ -358,7 +358,7 @@
 }
 
 .gi-nav-card:hover {
-  border-color: var(--vp-c-brand-1);
+  border-color: var(--gi-mint);
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
   background: var(--vp-c-bg-soft);
 }
@@ -433,7 +433,7 @@
 }
 
 .gi-format-card:hover {
-  border-color: var(--vp-c-brand-1);
+  border-color: var(--gi-mint);
   transform: translateY(-2px);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
@@ -738,7 +738,7 @@ h4+.gi-cert-row {
 
 .gi-tile:hover {
   background: var(--vp-c-bg-soft) !important;
-  border-color: var(--vp-c-brand-1) !important;
+  border-color: var(--gi-mint) !important;
 }
 
 /* gi-tile-lift: translateY lift on hover (no background change) */
@@ -767,7 +767,13 @@ h4+.gi-cert-row {
 .gi-card:hover {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
   transform: translateY(-2px);
-  border-color: var(--vp-c-brand-1);
+  border-color: var(--gi-mint);
+}
+
+/* Homepage feature cards — bright mint hover border (matches dark mode).
+   !important to beat VitePress's scoped .VPFeature.link[data-v-*]:hover rule. */
+.VPFeature.link:hover {
+  border-color: var(--gi-mint) !important;
 }
 
 .gi-card h2,
@@ -1208,9 +1214,18 @@ h4+.gi-cert-row {
   background-image: radial-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
 }
 
+/* Homepage feature cards — warm off-white #F7F6F3 (light mode) */
+.VPHome .VPFeature {
+  background-color: #F7F6F3;
+}
+
+.dark .VPHome .VPFeature {
+  background-color: var(--vp-c-bg-soft);
+}
+
 
 /* ============================================================
-   16. HERO KEY VISUAL — gradient blobs behind the SVG
+   16. HERO KEY VISUAL — single soft mint halo behind the SVG
    ============================================================ */
 
 /* Make the container the positioning reference */
@@ -1218,60 +1233,36 @@ h4+.gi-cert-row {
   position: relative;
 }
 
-/* Hide VitePress default image-bg so our custom blobs take over */
+/* Hide VitePress default image-bg so our custom halo takes over */
 .VPHero .image-bg {
   display: none;
 }
 
-/* Two gradient blobs via ::before (mint) and ::after (violet) */
-.VPHero .image-container::before,
-.VPHero .image-container::after {
+/* One soft mint glow, centered behind the logo */
+.VPHero .image-container::before {
   content: '';
   position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 320px;
+  height: 320px;
+  transform: translate(-50%, -50%);
   border-radius: 50%;
+  background: radial-gradient(circle, rgba(106, 231, 200, 0.45) 0%, transparent 70%);
   pointer-events: none;
   z-index: 0;
 }
 
-/* Mint blob — top-left */
-.VPHero .image-container::before {
-  width: 280px;
-  height: 280px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-55%, -55%);
-  background: radial-gradient(circle, rgba(106, 231, 200, 0.50) 0%, transparent 68%);
-}
-
-/* Violet blob — bottom-right */
-.VPHero .image-container::after {
-  width: 240px;
-  height: 240px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-42%, -42%);
-  background: radial-gradient(circle, rgba(201, 144, 252, 0.40) 0%, transparent 68%);
-}
-
-/* Image sits above the blobs */
+/* Image sits above the halo */
 .VPHero .image-container .VPImage {
   position: relative;
   z-index: 1;
+  filter: drop-shadow(0 0 30px rgba(106, 231, 200, 0.35));
 }
 
-
-/* Light mode: mint glow + subtle yellow accent */
-.VPHero .image-container .VPImage {
-  filter: drop-shadow(0 0 40px rgba(106, 231, 200, 0.5)) drop-shadow(0 8px 60px rgba(252, 247, 88, 0.2));
-}
-
-/* Dark mode: stronger mint glow + more intense blobs */
+/* Dark mode: same single mint halo, tuned for the dark bg */
 .dark .VPHero .image-container::before {
-  background: radial-gradient(circle, rgba(106, 231, 200, 0.30) 0%, transparent 68%);
-}
-
-.dark .VPHero .image-container::after {
-  background: radial-gradient(circle, rgba(201, 144, 252, 0.22) 0%, transparent 68%);
+  background: radial-gradient(circle, rgba(106, 231, 200, 0.28) 0%, transparent 70%);
 }
 
 .dark .VPHero .image-container .VPImage {
@@ -1623,4 +1614,25 @@ h4+.gi-cert-row {
 .VPHero .text {
   font-family: var(--vp-font-family-heading) !important;
   font-weight: 600 !important;
+}
+
+
+/* ============================================================
+   25. SEARCH — bright mint (#6AE7C8) borders, not dark teal
+   — VitePress defaults these to --vp-c-brand-1 (#0aaa8e in light).
+   ============================================================ */
+
+/* Selected search-result border (CSS var; same #6AE7C8 in both modes) */
+:root {
+  --vp-local-search-result-selected-border: var(--gi-mint);
+}
+
+/* Nav search box hover border + modal input focus border.
+   !important beats VitePress's scoped [data-v-*] rules. */
+.DocSearch-Button:hover {
+  border-color: var(--gi-mint) !important;
+}
+
+.search-bar:focus-within {
+  border-color: var(--gi-mint) !important;
 }
