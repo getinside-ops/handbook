@@ -110,6 +110,8 @@ Vos données clients sont un actif First Party qui vous appartient exclusivement
 
 ::: details Quels engagements RSE pour l'impression ?
 Nos partenaires imprimeurs sont certifiés Imprim'vert, ISO 9001/14001, et utilisent du papier FSC. L'assemblage manuel (ex : échantillons) est confié à des Entreprises Adaptées (EA) favorisant l'emploi de travailleurs en situation de handicap.
+
+→ Argumentaire complet pour répondre à une objection RSE : [RSE & insertion colis](/advertisers/sustainability).
 :::
 
 ---

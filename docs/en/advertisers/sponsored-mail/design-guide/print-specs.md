@@ -66,6 +66,8 @@ For fine texts and small characters: use **K100% only** to avoid color shifting 
 **If you manage your own printing:** only the **getinside logo** is required.
 :::
 
+→ The full CSR argument: [CSR & parcel inserts](/en/advertisers/sustainability).
+
 ---
 
 ## getinside QR Code

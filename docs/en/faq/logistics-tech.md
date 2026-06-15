@@ -110,6 +110,8 @@ Your customer data is a First Party asset that belongs exclusively to you. File 
 
 ::: details What are the CSR commitments for printing?
 Our printing partners are Imprim'vert certified, ISO 9001/14001 certified, and use FSC paper. Manual assembly (e.g., samples) is carried out by Adapted Enterprises (EA) promoting employment of workers with disabilities.
+
+→ Full argument to address a CSR objection: [CSR & parcel inserts](/en/advertisers/sustainability).
 :::
 
 ---

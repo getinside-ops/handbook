@@ -62,6 +62,10 @@ getinside pools volumes across its entire network to give you access to industri
   </div>
 </div>
 
+::: tip A brand hesitating for CSR reasons?
+Parcel inserts hold up against a CSR policy: certified paper, no dedicated mailing, targeted distribution with no wasted print run. → [See the CSR & parcel inserts page](./sustainability)
+:::
+
 ::: tip Self-promotion
 Want to print your own thank-you cards or flyers for your own parcels? Create an "internal" campaign on the platform and benefit from group rates. Pallet delivery to your door.
 :::

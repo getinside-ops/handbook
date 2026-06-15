@@ -33,6 +33,8 @@ Exemple d'identification : *"ACME SAS au capital de 10 000€ — 12 rue de la P
 Un flyer publicitaire est un **papier graphique** soumis à la REP papiers (Citeo). Depuis la loi AGEC, la signalétique Triman + Info-tri y est obligatoire. Les tailles minimales (10 mm standard, 6 mm compacte) suivent la charte ADEME reprise dans le [guide Info-tri Citeo](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"} ; Triman et consigne de tri sont indissociables et doivent être agrandis proportionnellement.
 :::
 
+→ Pourquoi ces certifications rassurent un service RSE : [RSE & insertion colis](/advertisers/sustainability).
+
 ---
 
 ## Mentions sectorielles

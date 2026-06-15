@@ -33,6 +33,8 @@ Example identification: *"ACME SAS with share capital of €10,000 — 12 rue de
 A promotional flyer is a **graphic paper** subject to the paper EPR scheme (Citeo). Since the AGEC law, the Triman + Info-tri signage is mandatory on it. The minimum sizes (10 mm standard, 6 mm compact) follow the ADEME charter reproduced in the [Citeo Info-tri guide](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"}; the Triman and the sorting instruction are inseparable and must be enlarged proportionally.
 :::
 
+→ Why these certifications reassure a CSR team: [CSR & parcel inserts](/en/advertisers/sustainability).
+
 ---
 
 ## Sector-specific notices
