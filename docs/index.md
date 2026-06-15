@@ -26,18 +26,18 @@ hero:
 features:
   - icon: 🎯
     title: "Annonceurs : diffusez là où vos clients achètent"
-    details: "Retail media off-site : audiences qualifiées via 250+ e-commerçants. 100% de taux de lecture en insertion colis. CTR réseau 2,87% vs 0,90% sur Meta. Conversion 10–30%."
+    details: "Touchez des acheteurs avérés, au moment précis de l'achat."
     link: /advertisers/
   - icon: 📦
     title: "Retailers : rentabilisez vos expéditions"
-    details: "+2 à +20% de CA additionnel, 65–70% de marge nette. Vous choisissez les annonceurs. Zéro intégration technique requise."
+    details: "Monétisez chaque point de contact avec votre audience. Vous choisissez les annonceurs."
     link: /publishers/
   - icon: 📋
     title: "Un réseau, un contrat, un cadre clair"
-    details: "250+ e-commerçants, 300+ annonceurs, 950+ campagnes, 40M consommateurs. Facturation centralisée, RGPD géré par la plateforme."
+    details: "Un contrat, une facturation centralisée, un support dédié. Vous gardez le contrôle."
     link: /start-here/
   - icon: 🖨️
     title: "Production incluse, de la créa au routage"
-    details: "Créa, impression Imprim'Vert, QR codes dynamiques. Vous validez le BAT, getinside livre chez les retailers partenaires."
+    details: "Créa, impression, QR codes : notre studio à la carte."
     link: /resources/studio
 ---
