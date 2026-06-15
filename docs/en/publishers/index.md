@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Retailers & Publishers — E-commerce Monetisation with getinside
 description: Turn your packages and emails into recurring revenue. 65–70% net margins, full control over accepted advertisers, zero heavy technical integration.
 keywords:

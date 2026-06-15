@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Découvrir getinside — Plateforme Retail Media
 description: getinside connecte annonceurs et e-commerçants via l'insertion colis, l'email et les réseaux sociaux. 250+ retailers, 300+ annonceurs, 40M de consommateurs accessibles.
 keywords:

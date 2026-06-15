@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Resources & Tools
 description: Access templates, case studies, creative studio and technical guides to manage your getinside campaigns independently.
 keywords:

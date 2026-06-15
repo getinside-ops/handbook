@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Ressources & Outils
 description: Accédez aux gabarits, case studies, studio créatif et guides techniques pour gérer vos campagnes getinside en autonomie.
 keywords:

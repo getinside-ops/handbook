@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Espace Retailers — Monétisation E-commerce getinside
 description: Transformez vos colis et emails en revenus récurrents. 65–70% de marge nette, contrôle total sur les annonceurs acceptés, zéro intégration technique.
 keywords:

@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Espace Annonceurs — Retail Media getinside
 description: "Le retail media off-site getinside : diffusez vos campagnes auprès d'acheteurs avérés via l'insertion colis, l'email dédié, les encarts newsletter et les social ads, avec une attribution en boucle fermée. 250+ retailers partenaires, 350+ audiences exclusives, 40M de consommateurs."
 keywords:

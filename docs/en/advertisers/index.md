@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Advertiser Hub — getinside Retail Media
 description: "getinside off-site retail media: run your campaigns to verified buyers via parcel inserts, dedicated emails, newsletter display ads, and social ads, with closed-loop attribution. 250+ retail partners, 350+ exclusive audiences, 40M consumers."
 keywords:

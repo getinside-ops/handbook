@@ -34,12 +34,12 @@
   --vp-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --vp-font-family-heading: 'Garnett', 'Inter', system-ui, sans-serif;
 
-  /* ── Off-white background (light mode) ──────────────────── */
-  --vp-c-bg: #F7F6F3;
+  /* ── White page / off-white sidebar (light mode) ────────── */
+  --vp-c-bg: #FFFFFF;
   --vp-c-bg-soft: #EEECEA;
   --vp-c-bg-mute: #E5E3DF;
   --vp-c-bg-elv: #FFFFFF;
-  --vp-c-bg-alt: #EEECEA;
+  --vp-c-bg-alt: #F7F6F3;
 
   /* ── Mint/Teal brand (light mode) ────────────────────────── */
   --vp-c-brand-1: #0aaa8e;
@@ -760,7 +760,7 @@ h4+.gi-cert-row {
   padding: 24px;
   display: flex;
   flex-direction: column;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 4px 12px rgba(0, 0, 0, 0.04);
   transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
 }
 
@@ -1192,6 +1192,20 @@ h4+.gi-cert-row {
   max-width: 1152px;
   margin: 0 auto;
   padding: 2.5rem 1.5rem 4rem;
+}
+
+/* Dot-grid texture — homepage, section hubs (pageClass: gi-dots), 404 */
+.VPHome,
+.gi-dots,
+.not-found {
+  background-image: radial-gradient(rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.dark .VPHome,
+.dark .gi-dots,
+.dark .not-found {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
 }
 
 
