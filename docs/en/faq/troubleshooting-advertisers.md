@@ -73,7 +73,7 @@ Possible modifications depend on the format:
 ::: details How do I contact support?
 
 - **General support:** [support@getinside.fr](mailto:support@getinside.fr) — response time: 24 to 48 business hours
-- **Creative Studio:** [studio@getinside.fr](mailto:studio@getinside.fr) — graphic production, proofs, creation
+- **Creative Studio:** [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) — graphic production, proofs, creation
 - **Operations:** [benoit@getinside.fr](mailto:benoit@getinside.fr) — contractual questions or urgent issues
 
 Include your campaign number in the subject line to speed up processing.

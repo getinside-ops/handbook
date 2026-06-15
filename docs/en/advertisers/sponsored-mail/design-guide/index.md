@@ -134,7 +134,7 @@ The message hierarchy, front/back structure, the 3-second test, the post-scan la
 ## FAQ
 
 ::: details A retailer refuses my visual — what to do?
-The retailer has veto rights over the **brand** (direct competitor, incompatible category), but not over art direction. If your file meets the technical specifications, it is compliant. Send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) for official validation — getinside's validation overrides the retailer's subjective judgment.
+The retailer has veto rights over the **brand** (direct competitor, incompatible category), but not over art direction. If your file meets the technical specifications, it is compliant. Send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation — getinside's validation overrides the retailer's subjective judgment.
 :::
 
 ::: details How do I track campaign performance?

@@ -74,4 +74,4 @@ Want to print your own thank-you cards or flyers for your own parcels? Create an
 
 The option is available directly in the campaign creation form on [app.getinside.media](https://app.getinside.media/){target="_blank"}.
 
-For specific requests (special formats, custom assembly): [studio@getinside.fr](mailto:studio@getinside.fr)
+For specific requests (special formats, custom assembly): [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)

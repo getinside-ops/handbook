@@ -62,5 +62,5 @@ getinside gère l'intégralité de la campagne de votre côté : sélection de l
 Ce format requiert un compte Instagram et/ou TikTok actif avec une audience engagée. Les critères d'éligibilité détaillés sont définis avec l'équipe getinside lors de votre onboarding.
 
 ::: info Activer ce format
-Contactez votre chargé de compte ou écrivez à [studio@getinside.fr](mailto:studio@getinside.fr) pour activer le Social Ads sur votre profil.
+Contactez votre chargé de compte ou écrivez à [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) pour activer le Social Ads sur votre profil.
 :::

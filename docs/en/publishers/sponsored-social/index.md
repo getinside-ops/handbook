@@ -62,5 +62,5 @@ getinside manages the entire campaign on your behalf: advertiser selection, crea
 This format requires an active Instagram and/or TikTok account with an engaged audience. Detailed eligibility criteria are defined with the getinside team during your onboarding.
 
 ::: info Activate this format
-Contact your account manager or write to [studio@getinside.fr](mailto:studio@getinside.fr) to activate Social Ads on your profile.
+Contact your account manager or write to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) to activate Social Ads on your profile.
 :::

@@ -50,5 +50,5 @@ Social Ads uses the retailer's social account (Instagram, TikTok, Facebook) to d
 ---
 
 ::: tip Still not sure?
-Contact the team: [studio@getinside.fr](mailto:studio@getinside.fr) — we will recommend the format that fits your objective and budget.
+Contact the team: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) — we will recommend the format that fits your objective and budget.
 :::

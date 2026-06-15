@@ -74,4 +74,4 @@ Vous souhaitez imprimer vos propres cartes de remerciement ou flyers pour vos pr
 
 L'option est disponible directement dans le formulaire de création de campagne sur [app.getinside.media](https://app.getinside.media/){target="_blank"}.
 
-Pour une demande spécifique (formats spéciaux, assemblage sur mesure) : [studio@getinside.fr](mailto:studio@getinside.fr)
+Pour une demande spécifique (formats spéciaux, assemblage sur mesure) : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)

@@ -55,7 +55,7 @@ Si votre activité relève d'un des secteurs ci-dessous, la mention correspondan
 | **Assurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Code des Assurances |
 
 :::tip En cas de doute
-Si votre secteur n'est pas listé ou si vous hésitez sur la formulation exacte, transmettez votre BAT à [studio@getinside.fr](mailto:studio@getinside.fr) avant impression — notre équipe valide votre créa, mais la conformité légale reste de votre responsabilité.
+Si votre secteur n'est pas listé ou si vous hésitez sur la formulation exacte, transmettez votre BAT à [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) avant impression — notre équipe valide votre créa, mais la conformité légale reste de votre responsabilité.
 :::
 
 ---

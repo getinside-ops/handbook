@@ -23,7 +23,7 @@ Design, art direction, copywriting and technical compliance — all included.
 - **Files ready to broadcast** to printer/router standards — zero retouching on your side.
 
 ::: tip Place an order
-Contact the Studio: **[studio@getinside.fr](mailto:studio@getinside.fr)**
+Contact the Studio: **[studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)**
 
 For distributors: the flat rate can be deducted directly from your campaign revenues.
 :::
