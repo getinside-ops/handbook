@@ -13,7 +13,7 @@ keywords:
 Le reporting hebdomadaire est obligatoire pour assurer le suivi des stocks et déclencher votre facturation.
 
 ::: warning Obligation hebdomadaire — Lundi ou Mardi
-Chaque début de semaine, déclarez le volume exact d'asiles distribués la semaine précédente. Cette déclaration conditionne directement votre paiement.
+Chaque début de semaine, déclarez le volume exact d'insertions distribuées la semaine précédente. Cette déclaration conditionne directement votre paiement.
 :::
 
 ## Déclarer les volumes
