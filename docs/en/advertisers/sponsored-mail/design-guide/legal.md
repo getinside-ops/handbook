@@ -27,7 +27,7 @@ These 3 blocks apply to **all advertisers**, regardless of sector.
 
 Example identification: *"ACME SAS with share capital of €10,000, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"*
 
-[Download the logo pack](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
+<a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank" class="btn btn-primary">Download the logo pack ↗</a>
 
 :::info Why the Triman on a flyer?
 A promotional flyer is a **graphic paper** subject to the paper EPR scheme (Citeo). Since the AGEC law, the Triman + Info-tri signage is mandatory on it. The minimum sizes (10 mm standard, 6 mm compact) follow the ADEME charter reproduced in the [Citeo Info-tri guide](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"}; the Triman and the sorting instruction are inseparable and must be enlarged proportionally.
@@ -39,23 +39,10 @@ A promotional flyer is a **graphic paper** subject to the paper EPR scheme (Cite
 
 ## Sector-specific notices
 
-If your business falls under one of the sectors below, the corresponding notice is **mandatory** on your flyer.
-
-| Sector | Mandatory notice | Legal reference |
-| :--- | :--- | :--- |
-| **Alcohol** | *"L'abus d'alcool est dangereux pour la santé, à consommer avec modération."* + Prohibition on targeting minors | Evin Law, Art. L3323-4 |
-| **Food** | *"Pour votre santé, mangez au moins cinq fruits et légumes par jour."* | Art. L2133-1 CSP, mangerbouger.fr |
-| **Dietary supplements** | *"À utiliser dans le cadre d'une alimentation variée et équilibrée et d'un mode de vie sain."* | Consumer Code |
-| **Automotive** | Energy class (l/100km and g CO2/km) + *"Pensez à covoiturer."* | Decree of December 28, 2018 |
-| **Consumer credit** | *"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager."* | Art. L311-5 Consumer Code |
-| **Financial products** | Risk disclosures. Notice: past performance does not guarantee future results. | Monetary and Financial Code |
-| **Gambling** | *"Jouer comporte des risques : endettement, isolement, dépendance. Appelez le 09-74-75-13-13 (appel non surtaxé)."* + Prohibition on targeting minors | ANJ, Law of May 12, 2010 |
-| **Medicines / Parapharmacy** | *"Lire attentivement la notice. Demandez conseil à votre médecin ou pharmacien."* | Public Health Code |
-| **Toys** | Recommended age indication (e.g. *"3+"*) + *"Ne convient pas aux enfants de moins de 3 ans."* | Directive 2009/48/EC |
-| **Insurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Insurance Code |
+If your business operates in a regulated sector (alcohol, food, credit, gambling, etc.), additional mandatory notices apply. Legal compliance is your responsibility.
 
 :::tip In case of doubt
-If your sector isn't listed or you're unsure of the exact wording, send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) before printing — our team validates your creative, but legal compliance remains your responsibility.
+Send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) before printing — our team validates your creative, but legal compliance remains your responsibility.
 :::
 
 ---
