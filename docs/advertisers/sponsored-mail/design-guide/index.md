@@ -1,6 +1,6 @@
 ---
 title: Guide de Conception
-description: Processus de création et validation d'un flyer Sponsored Mail — stratégie d'offre, spécifications techniques, mentions légales et soumission BAT.
+description: Processus de création et validation d'un flyer insertion colis — stratégie d'offre, spécifications techniques, mentions légales et soumission BAT.
 keywords:
   - flyer colis
   - guide création flyer
@@ -19,7 +19,7 @@ Aucun contenu n'est diffusé à un distributeur sans validation préalable de ge
 
 ## Meilleures Campagnes
 
-Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes. Utilisez-les comme inspiration pour vos propres flyers.
+Les meilleures campagnes insertion colis sélectionnées par nos équipes. Utilisez-les comme inspiration pour vos propres flyers.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -86,10 +86,6 @@ Une valeur concrète est perçue immédiatement. Un produit offert fonctionne en
 | **Durée de validité** | Minimum 3 mois à partir de la date d'impression |
 | **Code promo** | Unique par distributeur, court, sans caractères spéciaux (`_`, `-`, `;`) |
 | **Format code promo** | Inclure le nom du distributeur, ex : "GREENWEEZ20", "BERCEAU15" |
-
-:::warning Annonce de réduction de prix : le prix de référence est obligatoire
-Si votre flyer annonce une réduction (pourcentage, montant barré, « avant/après »), la loi impose d'indiquer le **prix de référence** = le **prix le plus bas pratiqué dans les 30 jours** précédant l'offre (directive Omnibus, contrôlée par la DGCCRF). Une valeur monétaire offerte ou un produit cadeau ne sont pas concernés, une raison de plus de les privilégier.
-:::
 
 :::tip Protégez votre marge
 Calibrez l'offre selon votre marge et fixez une fenêtre de validité claire (minimum 3 mois). Une réduction généreuse mais bornée dans le temps convertit mieux qu'un rabais permanent qui habitue le client à attendre.

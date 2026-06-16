@@ -20,7 +20,7 @@ hero:
       text: Par où commencer ?
       link: /start-here/
     - theme: alt
-      text: Guide de création Sponsored Mail
+      text: Guide de création Insertion Colis
       link: /advertisers/sponsored-mail/design-guide/
 
 features:

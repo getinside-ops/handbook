@@ -1,5 +1,5 @@
 ---
-title: Insertion Colis (Sponsored Mail)
+title: Insertion Colis
 description: Glissez votre offre dans les colis d'e-commerçants partenaires et touchez vos clients avec un taux de lecture de 100%. Le canal physique le plus performant du réseau.
 keywords:
   - insertion colis
@@ -9,7 +9,7 @@ keywords:
   - QR code tracking
 ---
 
-# Insertion Colis (Sponsored Mail)
+# Insertion Colis
 
 Votre flyer, carte ou échantillon glissé dans le colis d'un client au moment de l'unboxing. C'est le seul canal physique avec un taux de lecture de **100%** et un CTR réseau de **2,87%**.
 

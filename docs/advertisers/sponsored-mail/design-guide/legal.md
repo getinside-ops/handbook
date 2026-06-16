@@ -1,6 +1,6 @@
 ---
 title: Mentions Légales
-description: Mentions légales obligatoires sur chaque flyer Sponsored Mail — identification annonceur, logos environnementaux, et obligations sectorielles.
+description: Mentions légales obligatoires sur chaque flyer insertion colis — identification annonceur, logos environnementaux, et obligations sectorielles.
 keywords:
   - mentions légales flyer
   - Triman loi AGEC

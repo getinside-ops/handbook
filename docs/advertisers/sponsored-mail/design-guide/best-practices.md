@@ -1,6 +1,6 @@
 ---
 title: Anatomie d'un flyer performant
-description: Bonnes pratiques de conception pour un flyer Sponsored Mail qui convertit — hiérarchie du message, structure recto/verso, test des 3 secondes, landing page post-scan et boucle de mesure.
+description: Bonnes pratiques de conception pour un flyer insertion colis qui convertit — hiérarchie du message, structure recto/verso, test des 3 secondes, landing page post-scan et boucle de mesure.
 keywords:
   - flyer qui convertit
   - hiérarchie message flyer

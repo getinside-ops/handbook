@@ -43,7 +43,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Méthode de mesure qui relie une exposition publicitaire à un achat vérifié grâce aux données first-party du distributeur. Chez getinside, la boucle se ferme via le scan du QR code et le code promo unique par distributeur, qui rattachent la vente à la campagne sans cookie tiers. Voir <a href="/advertisers/analytics">Suivi &amp; Mesure</a>.</dd>
   <dt>Audience Lookalike (LAL 1st Party)</dt>
   <dd>Ciblage visant des profils ayant des caractéristiques similaires (comportement d'achat, démographie) aux acheteurs réels du distributeur, construit à partir de ses données de vente.</dd>
-  <dt>Insertion Colis (Sponsored Mail)</dt>
+  <dt>Insertion Colis</dt>
   <dd>Format consistant à insérer une offre publicitaire (flyer, carte, échantillon) à l'intérieur du colis d'expédition d'un e-commerçant partenaire.</dd>
 </dl>
 

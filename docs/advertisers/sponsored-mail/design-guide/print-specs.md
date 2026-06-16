@@ -1,6 +1,6 @@
 ---
 title: Spécifications Techniques
-description: Formats papier, colorimétrie, QR code et contraintes d'impression pour vos flyers Sponsored Mail getinside.
+description: Formats papier, colorimétrie, QR code et contraintes d'impression pour vos flyers insertion colis getinside.
 keywords:
   - spécifications impression flyer
   - format A5 A6 fond perdu

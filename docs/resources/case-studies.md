@@ -1,6 +1,6 @@
 ---
 title: Inspirations & Case Studies
-description: Exemples de campagnes getinside avec résultats mesurés — Sponsored Mail, Dedicated Email et Insertion Colis pour des marques comme Nocibé, HelloFresh, Avène et Total Wash.
+description: Exemples de campagnes getinside avec résultats mesurés — insertion colis, Dedicated Email et Insertion Colis pour des marques comme Nocibé, HelloFresh, Avène et Total Wash.
 keywords:
   - case study retail media
   - exemples campagnes insertion colis
@@ -16,9 +16,9 @@ Exemples de campagnes menées sur le réseau getinside avec leurs résultats mes
 
 ---
 
-## Meilleures campagnes Sponsored Mail
+## Meilleures campagnes insertion colis
 
-Sélection des meilleures campagnes Sponsored Mail par nos équipes.
+Sélection des meilleures campagnes insertion colis par nos équipes.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe

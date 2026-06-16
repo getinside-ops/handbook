@@ -1,5 +1,5 @@
 ---
-title: Insertion Colis (Sponsored Mail)
+title: Insertion Colis
 description: Guides opérationnels pour réceptionner, insérer et déclarer vos campagnes d'insertion colis via getinside. Transformez chaque expédition en revenu.
 keywords:
   - insertion colis
@@ -9,7 +9,7 @@ keywords:
   - monétisation expédition
 ---
 
-# Insertion Colis (Sponsored Mail)
+# Insertion Colis
 
 Glissez le flyer d'un annonceur partenaire dans les colis que vous expédiez déjà. Chaque envoi devient un espace publicitaire rémunéré, sans rien changer à votre logistique de fond.
 
