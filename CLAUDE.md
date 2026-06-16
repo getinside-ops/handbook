@@ -144,10 +144,40 @@ The advertiser design guides (e.g., `advertisers/sponsored-mail/design-guide/`) 
 - Must be getinside proprietary `.svg` (not user-generated)
 - Unaffected by lamination: use machine varnish instead (lamination blocks scanning + reduces recyclability)
 
+## Prose Quality — Vale
+
+Vale is configured in `.vale.ini` + `.vale/styles/` to enforce prose standards. Run before committing content changes:
+
+```bash
+# FR files
+find docs -name "*.md" -not -path "*/en/*" | xargs vale --output=JSON
+
+# EN files
+find docs/en -name "*.md" | xargs vale --output=JSON
+
+# Quick summary
+find docs/en -name "*.md" | xargs vale --output=JSON 2>/dev/null | python3 -c "
+import json,sys; d=json.load(sys.stdin)
+print(sum(len(v) for v in d.values()), 'issues in', len(d), 'files')
+"
+```
+
+**Rules enforced:**
+- `EmDash` — detects `—` (em dash). Replace with `.` (new sentence), `,` (parenthetical), or `:` (list intro)
+- `AIVocabFR` — flags: essentiel, crucial, fondamental, hors normes, véritables, au cœur de, permet de, transforme…en, levier de croissance, directement mesurable
+- `AIVocabEN` — flags: essential, showcase, unlock, leverage (verb)
+- `SentenceLength` (FR only) — warns on sentences >20 words average
+
+**Protected zones — never modify:**
+- YAML frontmatter (`description:`, `title:` on lines 2–3) — these are meta tags, not prose
+- VitePress container titles (`:::tip Title`, `:::warning Title`, `:::details Title`) — line starting with `:::`
+
+Remaining Vale flags after a correction pass are expected to be only frontmatter + container titles.
+
 ## Knowledge Base Integration
 
 Content is enriched from NotebookLM notebook (ID: `9b86dd27-355e-453c-aee2-af40cb58f59c`) via MCP. Key metrics to include:
-- **Advertiser performance:** 100% open rate (Sponsored Mail), 1-10% CTR, 10-30% conversion
+- **Advertiser performance:** 100% open rate (Sponsored Mail), **2.87% CTR réseau moyen** (canonical figure — do not add Meta comparisons), 10-30% conversion
 - **Retailer economics:** 2-20% additional revenue, 65-70% net margins
 - **Network scale:** 250+ e-commerçants, 300+ advertisers, 950+ successful campaigns, 40M consumers
 - **Fundraising:** 3.2M€ seed (Feb 2026) — La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover, Founders Future
