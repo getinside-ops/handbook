@@ -80,10 +80,6 @@ Un flyer a deux faces : servez-vous-en pour séparer la séduction de l'informat
   </div>
 </div>
 
-:::warning Le QR code reste sur le recto
-Le scan est l'action principale : ne renvoyez jamais le QR code au verso. Le lecteur agit pendant qu'il regarde le recto, pas après l'avoir retourné.
-:::
-
 ---
 
 ## Le test des 3 secondes
@@ -114,35 +110,13 @@ Le scan n'est qu'une moitié du parcours. La page qui s'affiche décide de la co
 L'URL n'étant pas gravée dans le motif, vous pouvez corriger ou faire évoluer la landing page **après impression** depuis la plateforme — sans réimprimer. Profitez-en pour ajuster une page qui sous-performe.
 :::
 
-:::warning Collecte de données = obligations RGPD
-Si la landing page collecte des données (jeu-concours, formulaire, inscription newsletter, drive to app), des règles s'appliquent : consentement opt-in explicite, finalité claire, lien vers votre politique de confidentialité. Voir [Données personnelles & RGPD](./legal#donnees-personnelles-rgpd).
-:::
-
 ---
 
 ## Mesure & itération
 
 Chaque campagne doit rendre la suivante meilleure. Le dispositif de suivi est déjà dans le flyer : exploitez-le.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Tracer</strong>
-    <p>Code promo unique par distributeur (attribution offline) + paramètres UTM sur l'URL (suivi Google Analytics). Les scans QR remontent en temps réel dans votre espace annonceur.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Tester une seule variable</strong>
-    <p>Changez l'accroche, OU l'offre, OU la landing page, jamais les trois à la fois. Sinon vous ne saurez jamais ce qui a fait la différence.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Suivre la bonne boucle</strong>
-    <p>Scan → redemption (code utilisé) → réachat. Un fort taux de scan avec peu de redemptions pointe vers l'offre ou la landing page, pas vers le flyer.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Rafraîchir régulièrement</strong>
-    <p>Renouvelez création et offre environ chaque trimestre. Un flyer figé perd en impact à mesure que l'audience du distributeur le revoit.</p>
-  </div>
-</div>
-
-:::tip Un repère réaliste
-Sur le réseau getinside, le CTR moyen d'une insertion colis est de **2,87 %**. Servez-vous-en comme plancher, puis faites progresser vos propres campagnes par itérations successives.
-:::
+- **Tracer** — Code promo unique par distributeur (attribution offline) + paramètres UTM sur l'URL (suivi Google Analytics). Les scans QR remontent en temps réel dans votre espace annonceur.
+- **Tester une seule variable** — Changez l'accroche, OU l'offre, OU la landing page, jamais les trois à la fois. Sinon vous ne saurez jamais ce qui a fait la différence.
+- **Suivre la bonne boucle** — Scan → conversion → réachat. Un fort taux de scan avec peu de conversions pointe vers l'offre ou la landing page, pas vers le flyer.
+- **Rafraîchir régulièrement** — Renouvelez création et offre environ chaque trimestre. Un flyer figé perd en impact à mesure que l'audience du distributeur le revoit.
