@@ -1,5 +1,5 @@
 ---
-title: Guide de Conception
+title: Guide de Création
 description: Processus de création et validation d'un flyer insertion colis — stratégie d'offre, spécifications techniques, mentions légales et soumission BAT.
 keywords:
   - flyer colis

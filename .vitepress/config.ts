@@ -258,10 +258,10 @@ const config: any = defineConfig({
                 items: [
                   { text: 'Présentation', link: '/advertisers/sponsored-mail/' },
                   {
-                    text: 'Guide Design',
+                    text: 'Guide de Création',
                     collapsed: true,
                     items: [
-                      { text: 'Introduction', link: '/advertisers/sponsored-mail/design-guide/' },
+                      { text: 'Guide de Création', link: '/advertisers/sponsored-mail/design-guide/' },
                       { text: 'Anatomie d\'un flyer performant', link: '/advertisers/sponsored-mail/design-guide/best-practices' },
                       { text: 'Spécifications techniques', link: '/advertisers/sponsored-mail/design-guide/print-specs' },
                       { text: 'Mentions légales', link: '/advertisers/sponsored-mail/design-guide/legal' },
