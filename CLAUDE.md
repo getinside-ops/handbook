@@ -100,7 +100,7 @@ Content spans **French and English**. Ensure language parity across both folders
   </div>
 </div>
 ```
-Use `<div class="gi-step-num done">` for completed steps (green circle).
+Use `<div class="gi-step-num done">` for completed steps (green text, no circle).
 
 `gi-value-grid` — Metric/comparison cards:
 ```html
