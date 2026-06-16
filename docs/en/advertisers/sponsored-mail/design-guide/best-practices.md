@@ -80,10 +80,6 @@ A flyer has two faces: use them to separate persuasion from information.
   </div>
 </div>
 
-:::warning The QR code stays on the front
-Scanning is the main action: never push the QR code to the back. The reader acts while looking at the front, not after flipping it over.
-:::
-
 ---
 
 ## The 3-second test
@@ -114,35 +110,13 @@ The scan is only half the journey. The page that loads decides the conversion.
 Since the URL is not embedded in the pattern, you can fix or evolve the landing page **after printing** from the platform — without reprinting. Use this to adjust a page that underperforms.
 :::
 
-:::warning Data collection = GDPR obligations
-If the landing page collects data (contest, form, newsletter sign-up, drive to app), rules apply: explicit opt-in consent, a clear purpose, a link to your privacy policy. See [Personal data & GDPR](./legal#personal-data-gdpr).
-:::
-
 ---
 
 ## Measurement & iteration
 
 Every campaign should make the next one better. The tracking system is already in the flyer, so use it.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Track</strong>
-    <p>Unique promo code per retailer (offline attribution) + UTM parameters on the URL (Google Analytics tracking). QR scans appear in real time in your advertiser dashboard.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Test one variable</strong>
-    <p>Change the hook, OR the offer, OR the landing page. Never all three at once. Otherwise you'll never know what made the difference.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Follow the right loop</strong>
-    <p>Scan → redemption (code used) → repeat purchase. A high scan rate with few redemptions points to the offer or the landing page, not the flyer.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Refresh regularly</strong>
-    <p>Renew creative and offer roughly every quarter. A static flyer loses impact as the retailer's audience keeps seeing it.</p>
-  </div>
-</div>
-
-:::tip A realistic benchmark
-On the getinside network, the average parcel-insert CTR is **2.87%**. Use it as a floor, then improve your own campaigns through successive iterations.
-:::
+- **Track** — Unique promo code per retailer (offline attribution) + UTM parameters on the URL (Google Analytics tracking). QR scans appear in real time in your advertiser dashboard.
+- **Test one variable** — Change the hook, OR the offer, OR the landing page. Never all three at once. Otherwise you'll never know what made the difference.
+- **Follow the right loop** — Scan → conversion → repeat purchase. A high scan rate with few conversions points to the offer or the landing page, not the flyer.
+- **Refresh regularly** — Renew creative and offer roughly every quarter. A static flyer loses impact as the retailer's audience keeps seeing it.
