@@ -17,7 +17,7 @@ Once your brief is submitted, the retailer takes over to design the email. This 
 The goal is not to send a raw advertisement, but a sincere recommendation from a trusted partner. The retailer's subscribers trust them. To maximize open and click rates, the email respects the visual style and tone of the newsletter they receive every week.
 
 ::: warning Avoid Full Brand
-A 100% branded email with no mention of the partner confuses subscribers and drops performance. Native co-branding is not a constraint — it's what makes the format effective.
+A 100% branded email with no mention of the partner confuses subscribers and drops performance. Native co-branding is not a constraint: it's what makes the format effective.
 :::
 
 ## The production workflow
@@ -26,7 +26,7 @@ A 100% branded email with no mention of the partner confuses subscribers and dro
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Design</h3>
-    <p>The retailer (or the getinside Studio) assembles the email using elements from your brief — visuals, offer, wording — within their usual brand style.</p>
+    <p>The retailer (or the getinside Studio) assembles the email using elements from your brief (visuals, offer, wording), within their usual brand style.</p>
   </div>
 </div>
 
@@ -50,13 +50,13 @@ A 100% branded email with no mention of the partner confuses subscribers and dro
 
 A native co-branded email includes three key elements:
 
-- **Partner header** — Retailer logo and navigation at the top to reassure the subscriber.
-- **Intro editorial** — The retailer writes a personalized hook (*"Our new favourite…"*).
-- **Your assets** — Visuals and offer integrated in the centre, using the partner's fonts and buttons.
+- **Partner header**: Retailer logo and navigation at the top to reassure the subscriber.
+- **Intro editorial**: The retailer writes a personalized hook (*"Our new favourite…"*).
+- **Your assets**: Visuals and offer integrated in the centre, using the partner's fonts and buttons.
 
 ## Your links are dynamic
 
-Email tracking links are **dynamic**, like getinside QR codes. You can modify the final destination URL at any time in the **"Configuration and Tracking"** tab of your campaign — even after the retailer has already embedded the link.
+Email tracking links are **dynamic**, like getinside QR codes. You can modify the final destination URL at any time in the **"Configuration and Tracking"** tab of your campaign, even after the retailer has already embedded the link.
 
 ## What's next?
 

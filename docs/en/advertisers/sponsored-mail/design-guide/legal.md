@@ -10,7 +10,7 @@ keywords:
 
 # Legal Notices & Logos
 
-Any printed advertisement is your legal responsibility. These elements are mandatory on every flyer — their absence blocks proof (BAT) validation.
+Any printed advertisement is your legal responsibility. These elements are mandatory on every flyer. Their absence blocks proof (BAT) validation.
 
 ---
 
@@ -21,11 +21,11 @@ These 3 blocks apply to **all advertisers**, regardless of sector.
 | Notice | Required content |
 | :--- | :--- |
 | **Advertiser identification** | Company name · Legal form · Share capital · Registered address · Company registration number + registration city |
-| **Environmental logos** | Triman signage **adjoined** to the sorting instruction (Info-tri) — Triman logo **≥ 10 mm** (standard version) or **6 mm** (compact version, only where space is restricted) · getinside logo included with the templates |
+| **Environmental logos** | Triman signage **adjoined** to the sorting instruction (Info-tri): Triman logo **≥ 10 mm** (standard version) or **6 mm** (compact version, only where space is restricted) · getinside logo included with the templates |
 | **Printing by getinside** | If printing is handled by getinside: mandatory notice *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* + corresponding FSC and Imprim'vert logos (provided by getinside) |
 | **Offer T&Cs** | Validity dates · Specific conditions (e.g. "valid from €50 purchase") · Any usage restrictions |
 
-Example identification: *"ACME SAS with share capital of €10,000 — 12 rue de la Paix, 75001 Paris — RCS Paris 123 456 789"*
+Example identification: *"ACME SAS with share capital of €10,000, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"*
 
 [Download the logo pack](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
 
@@ -43,13 +43,13 @@ If your business falls under one of the sectors below, the corresponding notice 
 
 | Sector | Mandatory notice | Legal reference |
 | :--- | :--- | :--- |
-| **Alcohol** | *"L'abus d'alcool est dangereux pour la santé, à consommer avec modération."* + Prohibition on targeting minors | Evin Law — Art. L3323-4 |
-| **Food** | *"Pour votre santé, mangez au moins cinq fruits et légumes par jour."* | Art. L2133-1 CSP — mangerbouger.fr |
+| **Alcohol** | *"L'abus d'alcool est dangereux pour la santé, à consommer avec modération."* + Prohibition on targeting minors | Evin Law, Art. L3323-4 |
+| **Food** | *"Pour votre santé, mangez au moins cinq fruits et légumes par jour."* | Art. L2133-1 CSP, mangerbouger.fr |
 | **Dietary supplements** | *"À utiliser dans le cadre d'une alimentation variée et équilibrée et d'un mode de vie sain."* | Consumer Code |
 | **Automotive** | Energy class (l/100km and g CO2/km) + *"Pensez à covoiturer."* | Decree of December 28, 2018 |
 | **Consumer credit** | *"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager."* | Art. L311-5 Consumer Code |
 | **Financial products** | Risk disclosures. Notice: past performance does not guarantee future results. | Monetary and Financial Code |
-| **Gambling** | *"Jouer comporte des risques : endettement, isolement, dépendance. Appelez le 09-74-75-13-13 (appel non surtaxé)."* + Prohibition on targeting minors | ANJ — Law of May 12, 2010 |
+| **Gambling** | *"Jouer comporte des risques : endettement, isolement, dépendance. Appelez le 09-74-75-13-13 (appel non surtaxé)."* + Prohibition on targeting minors | ANJ, Law of May 12, 2010 |
 | **Medicines / Parapharmacy** | *"Lire attentivement la notice. Demandez conseil à votre médecin ou pharmacien."* | Public Health Code |
 | **Toys** | Recommended age indication (e.g. *"3+"*) + *"Ne convient pas aux enfants de moins de 3 ans."* | Directive 2009/48/EC |
 | **Insurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Insurance Code |
@@ -66,7 +66,7 @@ This obligation doesn't concern the flyer itself but the **landing page** the QR
 
 | Requirement | What's expected |
 | :--- | :--- |
-| **Consent** | **Explicit** opt-in — no pre-checked box. Consent to receive communications is separate from entering. |
+| **Consent** | **Explicit** opt-in, no pre-checked box. Consent to receive communications is separate from entering. |
 | **Purpose** | Clearly state why the data is collected (entry, newsletter, brand communication…). |
 | **Information** | A visible link to your **privacy policy** on the page or form. |
 | **Rights** | Allow data subjects to exercise their rights (access, rectification, erasure) and state the **retention period**. |

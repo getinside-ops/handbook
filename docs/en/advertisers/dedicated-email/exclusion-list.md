@@ -22,14 +22,14 @@ Before sending, you can pass an exclusion list to the retailer to remove certain
 :::danger Personal data — secure channel mandatory
 Exclusion lists contain **personal data** under GDPR. Do not send them by email, getinside messaging, or WeTransfer.
 
-Any file containing addresses — even hashed — must go through a secure protocol.
+Any file containing addresses (even hashed) must go through a secure protocol.
 :::
 
 ---
 
 ## Sending the file
 
-The recommended method is SFTP transfer with **FileZilla** ([Download FileZilla](https://filezilla-project.org/){target="_blank"} — free, Windows / macOS / Linux).
+The recommended method is SFTP transfer with **FileZilla** ([Download FileZilla](https://filezilla-project.org/){target="_blank"}, free, Windows / macOS / Linux).
 
 The retailer will provide the SFTP connection details:
 
@@ -41,13 +41,13 @@ The retailer will provide the SFTP connection details:
 | Login | SFTP username |
 | Password | Shared outside messaging apps |
 
-**File format:** CSV, UTF-8 encoding, header `email_sha256` or `email`, filename `exclusion_YYYYMMDD.csv`. Prefer SHA-256 hashed emails — the retailer can suppress addresses without ever seeing them in plain text.
+**File format:** CSV, UTF-8 encoding, header `email_sha256` or `email`, filename `exclusion_YYYYMMDD.csv`. Prefer SHA-256 hashed emails: the retailer can suppress addresses without ever seeing them in plain text.
 
 :::details My infrastructure is different (SSH key SFTP, S3, Azure, GCP, API…)
 
 **SFTP with SSH key**
 
-More secure, no password. Generate a key pair and share your public key with the retailer — FileZilla supports this method too.
+More secure, no password. Generate a key pair and share your public key with the retailer. FileZilla supports this method too.
 
 ```bash
 ssh-keygen -t ed25519 -C "exclusion-list@yourdomain.com"
@@ -91,7 +91,7 @@ Generate a SAS Token restricted to the `Write` operation, valid for 48h.
 
 **API / Endpoint (Eulerian or other)**
 
-If you use Eulerian, let the retailer know — the integration is native, no file transfer needed.
+If you use Eulerian, let the retailer know: the integration is native, no file transfer needed.
 
 For any other ESP or DMP, share your endpoint documentation and the necessary access credentials.
 

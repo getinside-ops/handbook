@@ -11,7 +11,7 @@ keywords:
 
 # Design Guide
 
-Unboxing is an unusual moment. The consumer just received something they ordered — they're attentive, hands busy, mind open. Your flyer has less than 3 seconds to make use of it.
+Unboxing is an unusual moment. The consumer just received something they ordered, and they're attentive, hands busy, mind open. Your flyer has less than 3 seconds to make use of it.
 
 :::warning Mandatory validation
 No content is distributed to a retailer without prior validation from getinside via the platform. Submit your digital proof (BAT) before any printing.
@@ -19,7 +19,7 @@ No content is distributed to a retailer without prior validation from getinside 
 
 ## Best Performing Campaigns
 
-Top Sponsored Mail campaigns selected by our teams — use these as inspiration for your own flyers.
+Top Sponsored Mail campaigns selected by our teams. Use these as inspiration for your own flyers.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -48,7 +48,7 @@ Top Sponsored Mail campaigns selected by our teams — use these as inspiration 
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Creation</h3>
-    <p>Design your visual following the <a href="./print-specs">technical specifications</a> — formats, colorimetry, QR code. Take inspiration from the <a href="./best-practices">anatomy of a high-performing flyer</a> to maximize conversion.</p>
+    <p>Design your visual following the <a href="./print-specs">technical specifications</a>: formats, colorimetry, QR code. Take inspiration from the <a href="./best-practices">anatomy of a high-performing flyer</a> to maximize conversion.</p>
   </div>
 </div>
 
@@ -77,7 +77,7 @@ The offer is the most important decision in your flyer. A good offer compensates
 getinside is a **non-intentional medium**: when they discover your flyer, the consumer wasn't planning to buy from you. It's the strength of your offer that removes the last hesitations and triggers the purchase. The more generous the deal, the more it converts. You set the cursor.
 
 :::tip "€10 off" converts better than "-10%"
-A concrete value is immediately perceived. A free product works even better — the psychological pull of a gift outperforms a discount.
+A concrete value is immediately perceived. A free product works even better: the psychological pull of a gift outperforms a discount.
 :::
 
 | Parameter | Recommendation |
@@ -85,10 +85,10 @@ A concrete value is immediately perceived. A free product works even better — 
 | **Type** | Monetary value > percentage |
 | **Validity period** | Minimum 3 months from the print date |
 | **Promo code** | Unique per retailer, short, no special characters (`_`, `-`, `;`) |
-| **Promo code format** | Include the retailer's name — e.g. "GREENWEEZ20", "BERCEAU15" |
+| **Promo code format** | Include the retailer's name, e.g. "GREENWEEZ20", "BERCEAU15" |
 
 :::warning Price reduction announcements: the reference price is mandatory
-If your flyer announces a discount (percentage, struck-through price, "before/after"), French law requires you to show the **reference price** = the **lowest price applied in the 30 days** before the offer (Omnibus Directive, enforced by the DGCCRF). A free monetary value or a gift product isn't affected — one more reason to favor them.
+If your flyer announces a discount (percentage, struck-through price, "before/after"), French law requires you to show the **reference price** = the **lowest price applied in the 30 days** before the offer (Omnibus Directive, enforced by the DGCCRF). A free monetary value or a gift product isn't affected, which is one more reason to favor them.
 :::
 
 :::tip Protect your margin
@@ -106,8 +106,8 @@ All mechanics use a QR code as the entry point.
 | **Promotion** | "Scan to get an exclusive offer" | Immediate online conversion |
 | **Drive to Store** | "Show this card in-store for a free coffee" | Physical or hybrid traffic |
 | **Educational content** | "Scan to discover our 5 seasonal recipes" | Brand image, long-term engagement |
-| **Game / Contest** | "Scan to spin the wheel" | Qualified lead generation — CTR up to 20% |
-| **Drive to App** | "Download the app to unlock your points" | Mobile acquisition |
+| **Game / Contest** | "Scan to spin the wheel" | Qualified lead generation (CTR up to 20%) |
+| **Drive to App** | "Download the app to earn your points" | Mobile acquisition |
 | **Feedback** | "Share your opinion for a gift" | Verified reviews, customer knowledge |
 
 Before finalizing your mechanic, ask yourself: **"Why is this content meant for this audience?"** The coherence between the retailer's universe and your offer is what separates a flyer that gets kept from one that gets discarded.
@@ -120,7 +120,7 @@ Before finalizing your mechanic, ask yourself: **"Why is this content meant for 
 
 **QR code** (see [technical specifications](./print-specs) for print constraints):
 
-- White background, black modules — avoid textured backgrounds
+- White background, black modules. Avoid textured backgrounds.
 - Minimum size: **25 × 25 mm**
 - Short instruction next to it: "Scan to claim your offer"
 - Position in the bottom right, where the thumb naturally holds a flyer
@@ -145,10 +145,10 @@ Your getinside advertiser dashboard gives you access to QR scans in real time an
 
 ## Resources
 
-- [Examples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"} — Successful campaigns
-- [.ai/.pdf Templates](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"} — A5 and A6 formats with bleed and safe zones
-- [Mandatory logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"} — getinside logo, Triman, Sorting info (AGEC Law)
-- [BAT checklist](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"} — Complete before each proof submission
+- [Examples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}: Successful campaigns
+- [.ai/.pdf Templates](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}: A5 and A6 formats with bleed and safe zones
+- [Mandatory logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}: getinside logo, Triman, Sorting info (AGEC Law)
+- [BAT checklist](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}: Complete before each proof submission
 
 :::info No in-house graphic designer?
 Our Creative Studio handles art direction, execution, and technical compliance for a flat fee of **550€ excl. VAT** per campaign. → [Contact the Studio](/resources/studio)

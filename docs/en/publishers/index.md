@@ -13,7 +13,7 @@ image: /images/gi-keyvisual.svg
 
 # Retailers & E-commerce Publishers
 
-Your packages ship every week. Your transactional emails are opened regularly. These assets have advertising value that getinside lets you monetise immediately — no heavy technical integration, with full control over the brands you accept. You decide which advertisers access your audience. The platform handles the rest.
+Your packages ship every week. Your transactional emails are opened regularly. These assets have advertising value that getinside lets you monetise immediately, with no heavy technical integration and full control over the brands you accept. You decide which advertisers access your audience. The platform handles the rest.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -22,7 +22,7 @@ Your packages ship every week. Your transactional emails are opened regularly. T
   </div>
   <div class="gi-value-card">
     <strong>65–70%</strong>
-    <p>Net margin on your retail media revenue — the logistics assets are already in place.</p>
+    <p>Net margin on your retail media revenue. The logistics assets are already in place.</p>
   </div>
   <div class="gi-value-card">
     <strong>300+ advertisers</strong>
@@ -36,7 +36,7 @@ Your packages ship every week. Your transactional emails are opened regularly. T
 
 ## Setup & Getting Started
 
-Your onboarding follows three phases: format activation, trade marketing with your advertiser partners, then independent scaling. The getting started guide covers every step — from creating your retailer profile to managing revenue in real time.
+Your onboarding follows three phases: format activation, trade marketing with your advertiser partners, then independent scaling. The getting started guide covers every step, from creating your retailer profile to managing revenue in real time.
 
 <div class="gi-nav-list">
   <a href="onboarding-process" class="gi-nav-card">
@@ -67,7 +67,7 @@ Your onboarding follows three phases: format activation, trade marketing with yo
 
 ## Formats & Operations
 
-Five formats cover your existing assets: packages, transactional emails, newsletters, and social media. Each format has its own operational rules — consult the dedicated guides for implementation details.
+Five formats cover your existing assets: packages, transactional emails, newsletters, and social media. Each format has its own operational rules. Consult the dedicated guides for implementation details.
 
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
@@ -83,7 +83,7 @@ Five formats cover your existing assets: packages, transactional emails, newslet
   <a href="display-email/" class="gi-format-card">
     <span class="gi-format-card-icon">🖼️</span>
     <span class="gi-format-card-title">Newsletter Display</span>
-    <p class="gi-format-card-desc">Passive income — zero production. Banner integration in minutes.</p>
+    <p class="gi-format-card-desc">Passive income: zero production. Banner integration in minutes.</p>
   </a>
   <a href="sponsored-social/" class="gi-format-card">
     <span class="gi-format-card-icon">📱</span>

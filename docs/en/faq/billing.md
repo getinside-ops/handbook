@@ -37,7 +37,7 @@ Yes, without fees. In **Exchange**, click **Transfer to Wallet**. The balance is
 :::
 
 ::: details Why is my revenue blocked for 30 days?
-The 30-day delay is a protection period. It allows detecting and handling any anomalies — lost parcels, non-compliant volumes, interrupted campaign — before funds are definitively released. Without this buffer, getinside could not guarantee your payment in the event of advertiser default.
+The 30-day delay is a protection period. It allows detecting and handling any anomalies (lost parcels, non-compliant volumes, interrupted campaign) before funds are definitively released. Without this buffer, getinside could not guarantee your payment in the event of advertiser default.
 :::
 
 ::: details What happens if an anomaly is detected during the 30 days?

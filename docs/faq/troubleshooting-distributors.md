@@ -9,7 +9,7 @@ keywords:
   - erreur saisie volume
 ---
 
-# Résolution de problèmes — Distributeurs
+# Résolution de problèmes : Distributeurs
 
 Problème de Wallet, de retrait ou de campagne ? Trouvez la solution ci-dessous.
 
@@ -31,7 +31,7 @@ C'est normal : le délai de protection de 30 jours n'est pas encore écoulé.
 
 Vos revenus passent par deux états :
 1. **En attente** : distribution confirmée, délai de 30 jours en cours.
-2. **Disponible** : 30 jours écoulés sans incident — retrait possible.
+2. **Disponible** : 30 jours écoulés sans incident, retrait possible.
 
 Ce délai protège tout le monde contre les anomalies post-distribution. Si vos fonds restent en "attente" après 30 jours, contactez le support avec le numéro de campagne.
 :::
@@ -55,7 +55,7 @@ Les frais de 5% s'appliquent uniquement pour l'offre **Starter**, à partir du 2
 | Starter | 1er retrait/an : gratuit · Suivants : 5% |
 | Plateforme | Tous les retraits : gratuits |
 
-Si vous êtes sur Plateforme et que des frais ont été prélevés, contactez le support immédiatement — c'est une erreur.
+Si vous êtes sur Plateforme et que des frais ont été prélevés, contactez le support immédiatement. C'est une erreur.
 :::
 
 ::: details Des fonds ont été prélevés de mon Wallet sans que je l'aie demandé

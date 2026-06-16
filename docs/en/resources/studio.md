@@ -16,11 +16,11 @@ Delegate all graphic production (print, email, social) to our team of Retail Med
 
 ### Flat Rate 550€ HT per Creation
 
-Design, art direction, copywriting and technical compliance — all included.
+Design, art direction, copywriting and technical compliance, all included.
 
-- **Retail Media expertise:** bleeds, ink coverage, email deliverability, GDPR — we master the technical constraints of every format.
+- **Retail Media expertise:** bleeds, ink coverage, email deliverability, GDPR: we master the technical constraints of every format.
 - **Proof delivered within 48h** after receipt of your creative brief.
-- **Files ready to broadcast** to printer/router standards — zero retouching on your side.
+- **Files ready to broadcast** to printer/router standards: zero retouching on your side.
 
 ::: tip Place an order
 Contact the Studio: **[studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)**

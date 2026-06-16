@@ -54,8 +54,8 @@ At the start of each week, declare the exact volume of inserts distributed the p
 
 Two scenarios lead to closure:
 
-- **Stock exhausted** — You have distributed all received materials. The campaign ends naturally.
-- **Target reached (Capped)** — The ordered volume is reached. Close the campaign even if stock remains, unless instructed otherwise to clear the remainder.
+- **Stock exhausted:** You have distributed all received materials. The campaign ends naturally.
+- **Target reached (Capped):** The ordered volume is reached. Close the campaign even if stock remains, unless instructed otherwise to clear the remainder.
 
 <div class="gi-step">
   <div class="gi-step-num done">✓</div>
@@ -66,5 +66,5 @@ Two scenarios lead to closure:
 </div>
 
 ::: tip Payment trigger
-Closing the campaign validates the service and triggers the credit of your revenue to the Wallet — available 30 days after the campaign ends.
+Closing the campaign validates the service and triggers the credit of your revenue to the Wallet, available 30 days after the campaign ends.
 :::

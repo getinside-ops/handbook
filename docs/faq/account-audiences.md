@@ -26,7 +26,7 @@ Les annonceurs parcourent le catalogue comme une place de marché. Pour maximise
 
 - Ajoutez des visuels : photos de colis, captures d'emails, exemples d'emballages.
 - Décrivez précisément votre persona : âge, catégorie produit, fréquence d'achat, zone géographique.
-- Indiquez un panier moyen (AOV) réaliste — un chiffre précis est plus convaincant qu'une fourchette.
+- Indiquez un panier moyen (AOV) réaliste, un chiffre précis est plus convaincant qu'une fourchette.
 - Activez plusieurs formats : une audience proposant Insertion Colis + Emailing est plus attractive qu'une audience mono-format.
 
 → [Guide complet : Configuration d'Audience](/publishers/audience-setup)

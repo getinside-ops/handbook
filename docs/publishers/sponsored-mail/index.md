@@ -28,7 +28,7 @@ Le flyer est lu pendant l'unboxing, au moment où l'acheteur est le plus attenti
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Revenu sur un geste existant</strong>
-    <p>Vous expédiez déjà. L'insertion ajoute quelques secondes en préparation et transforme le colis en média rémunéré.</p>
+    <p>Vous expédiez déjà. L'insertion ajoute quelques secondes en préparation et convertit le colis en média rémunéré.</p>
   </div>
   <div class="gi-value-card">
     <strong>Marge nette 65 à 70%</strong>

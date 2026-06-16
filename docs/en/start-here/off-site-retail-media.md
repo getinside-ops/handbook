@@ -73,7 +73,7 @@ Because the ad lands in a context of trust and at the right moment, results exce
   </div>
   <div class="gi-value-card">
     <strong>2.87% network CTR</strong>
-    <p>Average network CTR, versus 0.90% on Meta, driven by retailer endorsement.</p>
+    <p>Average network CTR, driven by retailer endorsement.</p>
   </div>
   <div class="gi-value-card">
     <strong>10–30%</strong>

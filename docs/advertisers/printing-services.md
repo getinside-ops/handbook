@@ -11,7 +11,7 @@ keywords:
 
 # Impression & Logistique
 
-getinside mutualise les volumes de tout son réseau pour vous donner accès à des tarifs d'impression industriels. Vous vous concentrez sur votre campagne — la production et la livraison sont gérées de bout en bout.
+getinside mutualise les volumes de tout son réseau pour vous donner accès à des tarifs d'impression industriels. Vous vous concentrez sur votre campagne. La production et la livraison sont gérées de bout en bout.
 
 ## Comment ça marche
 
@@ -47,7 +47,7 @@ getinside mutualise les volumes de tout son réseau pour vous donner accès à d
 | **Grammage** | 250 à 300 g/m² |
 | **Type** | Couché mat ou couché demi-mat |
 | **Certification papier** | FSC ou PEFC obligatoire |
-| **Pelliculage** | Non — rend les QR codes moins lisibles |
+| **Pelliculage** | Non : rend les QR codes moins lisibles |
 
 ## Ce qui est inclus
 

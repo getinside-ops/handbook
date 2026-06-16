@@ -17,7 +17,7 @@ Une fois votre brief envoyé, le distributeur prend le relais pour concevoir l'e
 L'objectif n'est pas d'envoyer une publicité brute, mais une recommandation sincère d'un partenaire de confiance. Les abonnés du distributeur lui font confiance. Pour maximiser le taux d'ouverture et de clic, l'email respecte les codes graphiques et le ton de la newsletter qu'ils reçoivent chaque semaine.
 
 ::: warning Évitez le Full Brand
-Un email 100% à vos couleurs, sans mention du partenaire, perturbe l'abonné et fait chuter la performance. Le co-branding natif n'est pas une contrainte — c'est ce qui rend le format efficace.
+Un email 100% à vos couleurs, sans mention du partenaire, perturbe l'abonné et fait chuter la performance. Le co-branding natif n'est pas une contrainte : c'est ce qui rend le format efficace.
 :::
 
 ## Le flux de production
@@ -26,7 +26,7 @@ Un email 100% à vos couleurs, sans mention du partenaire, perturbe l'abonné et
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Conception</h3>
-    <p>Le distributeur (ou le Studio getinside) assemble l'email en utilisant les éléments de votre brief — visuels, offre, wording — dans son univers graphique habituel.</p>
+    <p>Le distributeur (ou le Studio getinside) assemble l'email en utilisant les éléments de votre brief (visuels, offre, wording) dans son univers graphique habituel.</p>
   </div>
 </div>
 
@@ -50,13 +50,13 @@ Un email 100% à vos couleurs, sans mention du partenaire, perturbe l'abonné et
 
 Un email en co-branding natif inclut trois éléments clés :
 
-- **Header partenaire** — Logo et menu du distributeur en haut pour rassurer l'abonné.
-- **Édito d'intro** — Le distributeur rédige une phrase d'accroche personnalisée (*"Notre coup de cœur…"*).
-- **Vos assets** — Visuels et offre intégrés au centre, avec les polices et boutons du partenaire.
+- **Header partenaire** : logo et menu du distributeur en haut pour rassurer l'abonné.
+- **Édito d'intro** : le distributeur rédige une phrase d'accroche personnalisée (*"Notre coup de cœur…"*).
+- **Vos assets** : visuels et offre intégrés au centre, avec les polices et boutons du partenaire.
 
 ## Vos liens sont dynamiques
 
-Les liens de tracking email sont **dynamiques**, comme les QR codes getinside. Vous pouvez modifier l'URL de destination finale à tout moment dans l'onglet **"Configuration et Suivi"** de votre campagne — même si le distributeur a déjà intégré le lien.
+Les liens de tracking email sont **dynamiques**, comme les QR codes getinside. Vous pouvez modifier l'URL de destination finale à tout moment dans l'onglet **"Configuration et Suivi"** de votre campagne, même si le distributeur a déjà intégré le lien.
 
 ## Et ensuite ?
 

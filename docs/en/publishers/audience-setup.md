@@ -57,7 +57,7 @@ Your audience profile is the first thing advertisers see when they find you on t
   </div>
   <div class="gi-value-card">
     <strong>B2C / B2B typology</strong>
-    <p>Excluding criterion. Make sure it is correct — an error reduces relevant proposals.</p>
+    <p>Excluding criterion. Make sure it is correct: an error reduces relevant proposals.</p>
   </div>
   <div class="gi-value-card">
     <strong>Buyer profile</strong>
@@ -77,7 +77,7 @@ A single account is sufficient, even if you operate several e-commerce sites. Ea
 
 Best practices for a multi-audience catalogue:
 - Name each audience clearly (e.g. "Women's Fashion Site", "B2C Garden Site").
-- Enter distinct data per site — do not pool figures.
+- Enter distinct data per site. Do not pool figures.
 - Only activate formats you can genuinely fulfil on that site.
 
 getinside operates across Europe. Add your European audiences to receive country-targeted campaigns.
@@ -86,9 +86,9 @@ getinside operates across Europe. Add your European audiences to receive country
 
 | Score | Visibility |
 | :--- | :--- |
-| < 3/5 | Low-visibility audience — action required |
-| 3–4/5 | Standard — regular proposals |
-| > 4/5 | Top Retailer — priority in results |
+| < 3/5 | Low-visibility audience: action required |
+| 3–4/5 | Standard, regular proposals |
+| > 4/5 | Top Retailer, priority in results |
 
 A complete profile (detailed persona, precise data, polished visuals) directly improves several of the 7 scoring criteria.
 
@@ -100,7 +100,7 @@ A complete profile (detailed persona, precise data, polished visuals) directly i
 My Organisation → Team → + Add a member. Recommended: always have a backup to ensure responses within 48h.
 
 **Can I manage multiple sites from one account?**
-Yes. A getinside account can host as many audiences as you want — one per site or per customer segment.
+Yes. A getinside account can host as many audiences as you want, one per site or per customer segment.
 
 **Where do I track my referrals?**
 In the Affiliation tab. You earn a 20% recurring commission on your referrals' platform fees. → [Affiliate Programme](/publishers/affiliation)

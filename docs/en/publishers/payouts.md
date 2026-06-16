@@ -21,9 +21,9 @@ Check your Available Balance at any time = *(Validated revenue) - (Withdrawals m
 
 ### When does my revenue become available?
 
-1. **Distribution confirmed** — You declare the distributed volumes (Monday or Tuesday for Sponsored Mail) or click "Validate broadcast" (email).
-2. **Protection period (30 days)** — Revenue stays pending to allow anomaly detection.
-3. **Revenue validated** — After 30 days without incident, the amount moves to Available Balance and can be withdrawn.
+1. **Distribution confirmed:** You declare the distributed volumes (Monday or Tuesday for Sponsored Mail) or click "Validate broadcast" (email).
+2. **Protection period (30 days):** Revenue stays pending to allow anomaly detection.
+3. **Revenue validated:** After 30 days without incident, the amount moves to Available Balance and can be withdrawn.
 
 ::: warning Your revenue is not credited automatically
 The Wallet is only updated after a manual action on your part: volume declaration (Sponsored Mail) or broadcast validation (Email).
@@ -43,7 +43,7 @@ The Wallet is only updated after a manual action on your part: volume declaratio
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Accumulate and withdraw once a year</strong>
-    <p>Let your revenue build up and make a single annual withdrawal — the first withdrawal of the calendar year is free.</p>
+    <p>Let your revenue build up and make a single annual withdrawal. The first withdrawal of the calendar year is free.</p>
   </div>
   <div class="gi-value-card">
     <strong>Reinvest at 0% fees</strong>
@@ -51,7 +51,7 @@ The Wallet is only updated after a manual action on your part: volume declaratio
   </div>
   <div class="gi-value-card">
     <strong>Upgrade to Platform</strong>
-    <p>299€ excl. VAT/month — unlimited and free withdrawals, plus direct access to prospecting 200+ advertisers. → <a href="/en/publishers/affiliation">View program</a></p>
+    <p>299€ excl. VAT/month: unlimited and free withdrawals, plus direct access to prospecting 200+ advertisers. → <a href="/en/publishers/affiliation">View program</a></p>
   </div>
 </div>
 

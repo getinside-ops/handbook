@@ -24,7 +24,7 @@ Every Dedicated Email campaign starts with submitting the brief via the dedicate
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>The offer</h3>
-    <p>Craft a clear and compelling promise: <em>"€20 off from €100 purchase"</em>. Specify the validity period — minimum 3 months recommended. Favour a monetary value over a percentage: <em>"€20 off"</em> converts better than <em>"-20%"</em>, because the benefit reads instantly. Remember: the recipient wasn't planning to buy from you, so it's the generosity of the offer that triggers the purchase.</p>
+    <p>Craft a clear and compelling promise: <em>"€20 off from €100 purchase"</em>. Specify the validity period, minimum 3 months recommended. Favour a monetary value over a percentage: <em>"€20 off"</em> converts better than <em>"-20%"</em>, because the benefit reads instantly. Remember: the recipient wasn't planning to buy from you, so it's the generosity of the offer that triggers the purchase.</p>
   </div>
 </div>
 
@@ -48,12 +48,12 @@ Every Dedicated Email campaign starts with submitting the brief via the dedicate
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>The destination links</h3>
-    <p>URLs of the landing pages to redirect traffic to. These links are dynamic — you can modify them at any time from the <strong>"Configuration and Tracking"</strong> tab, even after launch.</p>
+    <p>URLs of the landing pages to redirect traffic to. These links are dynamic: you can modify them at any time from the <strong>"Configuration and Tracking"</strong> tab, even after launch.</p>
   </div>
 </div>
 
 ::: tip Let the retailer adapt your brand universe
-Don't try to impose strict brand guidelines. The retailer knows their community — they will adapt your visuals to their tone to maximize engagement. A 100% branded email with no mention of the partner increases unsubscribes and drops performance.
+Don't try to impose strict brand guidelines. The retailer knows their community and will adapt your visuals to their tone to maximize engagement. A 100% branded email with no mention of the partner increases unsubscribes and drops performance.
 :::
 
 ## What's next?

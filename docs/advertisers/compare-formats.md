@@ -31,7 +31,7 @@ L'Insertion Colis est le format le plus tangible : un flyer physique dans un col
 
 ### Engagement et storytelling → Emailing Dédié
 
-L'Emailing Dédié vous offre l'espace d'un email entier pour raconter votre histoire : plusieurs visuels, texte long, multiples CTA. Le distributeur signe l'email de son nom — vous bénéficiez de sa relation client. Idéal pour les lancements de marque, les opérations complexes ou les audiences premium.
+L'Emailing Dédié vous offre l'espace d'un email entier pour raconter votre histoire : plusieurs visuels, texte long, multiples CTA. Le distributeur signe l'email de son nom. Vous bénéficiez de sa relation client. Idéal pour les lancements de marque, les opérations complexes ou les audiences premium.
 
 [En savoir plus sur l'Emailing Dédié →](/advertisers/dedicated-email/)
 
@@ -43,7 +43,7 @@ Le Display Email s'active en 48h. Une bannière, un lien, une audience qualifié
 
 ### Notoriété via les réseaux sociaux → Social Ads
 
-Le Social Ads utilise le compte social du distributeur (Instagram, TikTok, Facebook) pour diffuser votre message. Vous bénéficiez de l'audience et de la crédibilité du partenaire — sans apparaître comme une publicité froide. Disponible sur demande.
+Le Social Ads utilise le compte social du distributeur (Instagram, TikTok, Facebook) pour diffuser votre message. Vous bénéficiez de l'audience et de la crédibilité du partenaire, sans apparaître comme une publicité froide. Disponible sur demande.
 
 [En savoir plus sur les Social Ads →](/advertisers/sponsored-social/)
 

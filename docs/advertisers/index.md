@@ -16,16 +16,16 @@ image: /images/gi-keyvisual.svg
 
 # Espace Annonceurs
 
-**Recrutez vos clients là où ils achètent déjà.** getinside opère un réseau de **retail media off-site** : vous activez la donnée et la confiance d'un distributeur en dehors de son site, auprès d'audiences qualifiées au moment où elles sont le plus réceptives : pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Vos campagnes bénéficient de l'endorsement du distributeur — vous n'achetez pas de l'attention, vous accédez à une relation de confiance déjà établie entre un e-commerçant et ses clients. Chaque scan et chaque code promo étant rattachés à la campagne, vous mesurez l'impact en **boucle fermée**, du premier contact jusqu'à l'achat.
+**Recrutez vos clients là où ils achètent déjà.** getinside opère un réseau de **retail media off-site** : vous activez la donnée et la confiance d'un distributeur en dehors de son site, auprès d'audiences qualifiées au moment où elles sont le plus réceptives : pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Vos campagnes bénéficient de l'endorsement du distributeur. Vous n'achetez pas de l'attention, vous accédez à une relation de confiance déjà établie entre un e-commerçant et ses clients. Chaque scan et chaque code promo étant rattachés à la campagne, vous mesurez l'impact en **boucle fermée**, du premier contact jusqu'à l'achat.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>100%</strong>
-    <p>Taux de lecture en insertion colis — attention maximale pendant l'unboxing.</p>
+    <p>Taux de lecture en insertion colis, attention maximale pendant l'unboxing.</p>
   </div>
   <div class="gi-value-card">
     <strong>2,87% CTR moyen</strong>
-    <p>CTR réseau vs 0,90% sur Meta — grâce à l'endorsement du distributeur.</p>
+    <p>CTR réseau moyen, grâce à l'endorsement du distributeur.</p>
   </div>
   <div class="gi-value-card">
     <strong>10–30%</strong>
@@ -51,13 +51,13 @@ Chaque campagne est validée par le distributeur avant diffusion. Votre marque a
 
 ## Formats publicitaires
 
-Quatre formats couvrent l'ensemble du parcours post-achat. Choisissez selon votre objectif — notoriété, acquisition, drive-to-store — ou combinez plusieurs leviers dans un Bundle.
+Quatre formats couvrent l'ensemble du parcours post-achat. Choisissez selon votre objectif (notoriété, acquisition, drive-to-store) ou combinez plusieurs leviers dans un Bundle.
 
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Insertion Colis</span>
-    <p class="gi-format-card-desc">100% de taux de lecture. Flyers et échantillons au cœur de l'expérience unboxing.</p>
+    <p class="gi-format-card-desc">100% de taux de lecture. Flyers et échantillons dans l'expérience unboxing.</p>
   </a>
   <a href="dedicated-email/" class="gi-format-card">
     <span class="gi-format-card-icon">📧</span>
@@ -83,7 +83,7 @@ Quatre formats couvrent l'ensemble du parcours post-achat. Choisissez selon votr
 
 ## Services & ressources
 
-getinside prend en charge la création, l'impression et le routage. Vous validez le BAT — la plateforme livre chez les retailers partenaires. Consultez les ressources ci-dessous pour cadrer votre budget et découvrir ce que d'autres marques ont accompli.
+getinside prend en charge la création, l'impression et le routage. Vous validez le BAT. La plateforme livre chez les retailers partenaires. Consultez les ressources ci-dessous pour cadrer votre budget et découvrir ce que d'autres marques ont accompli.
 
 <div class="gi-quick-links">
   <a href="printing-services" class="btn btn-outline">🖨️ Impression & Logistique</a>

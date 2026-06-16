@@ -10,7 +10,7 @@ keywords:
 
 # Intégration et Diffusion
 
-Le processus est rapide — assurez-vous simplement d'utiliser le bon lien de redirection pour être rémunéré.
+Le processus est rapide. Assurez-vous simplement d'utiliser le bon lien de redirection pour être rémunéré.
 
 ---
 
@@ -68,6 +68,6 @@ N'utilisez **jamais** le lien brut de l'annonceur. Sans le lien <code>gtinsi.de<
   </div>
 </div>
 
-:::warning Action bloquante — Valider la diffusion
+:::warning Action bloquante : Valider la diffusion
 Sans ce clic, les fonds restent séquestrés. C'est cette action qui déclenche la facturation et le crédit sur votre Wallet (disponible 30 jours après la fin de campagne).
 :::

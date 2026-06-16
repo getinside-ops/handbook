@@ -17,7 +17,7 @@ getinside is a self-service platform. Free access, transparent model, no commitm
 
 | Item | Cost | Mandatory |
 | :--- | :--- | :--- |
-| **Platform access** | Free | — |
+| **Platform access** | Free | N/A |
 | **Platform fee** | 12% of invested media budget | Yes |
 | **Creative Studio** | 550€ excl. VAT per creation | Optional |
 | **Printing & Logistics** | Volume-based pricing (all included) | Optional |
@@ -26,8 +26,8 @@ getinside is a self-service platform. Free access, transparent model, no commitm
 ## Platform fee
 
 ::: tip What's included in the 12%
-- No advertiser subscription — access is free.
-- No minimum budget — test with small amounts.
+- No advertiser subscription. Access is free.
+- No minimum budget. Test with small amounts.
 - Access to 250+ exclusive audiences, 300+ active advertisers, 40 million consumers.
 - Single centralized invoice regardless of the number of audiences purchased.
 :::
@@ -44,7 +44,7 @@ Billing is triggered as soon as you definitively validate the Purchase Order on 
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>Creative Studio — 550€ excl. VAT / creation</strong>
+    <strong>Creative Studio: 550€ excl. VAT / creation</strong>
     <p>Art direction, execution, and technical compliance of your Print materials (A5/A6 flyer), Email, or Social. The studio guarantees technical compliance before printing.</p>
   </div>
   <div class="gi-value-card">
@@ -52,8 +52,8 @@ Billing is triggered as soon as you definitively validate the Purchase Order on 
     <p>Volume-based pricing on grouped orders. All included: Made in France printing (Imprim'Vert certified), finishing, and warehouse delivery. → <a href="./printing-services">Service details</a></p>
   </div>
   <div class="gi-value-card">
-    <strong>Wallet — Reinvestment</strong>
-    <p>Are you also an e-retailer? Use your monetization revenue from your Wallet to fund your acquisition campaigns — instant transfer, no bank cash outflow.</p>
+    <strong>Wallet: Reinvestment</strong>
+    <p>Are you also an e-retailer? Use your monetization revenue from your Wallet to fund your acquisition campaigns: instant transfer, no bank cash outflow.</p>
   </div>
 </div>
 

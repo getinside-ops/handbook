@@ -10,7 +10,7 @@ keywords:
 
 # Social Ads (Annonceur)
 
-Amplifiez votre message via les comptes sociaux de distributeurs partenaires — leur audience vous fait déjà confiance.
+Amplifiez votre message via les comptes sociaux de distributeurs partenaires. Leur audience vous fait déjà confiance.
 
 ::: tip Côté e-commerçant
 Vous êtes distributeur et souhaitez générer des revenus avec vos comptes sociaux ? Consultez le [guide Social Ads pour les Retailers](/publishers/sponsored-social/).
@@ -20,8 +20,8 @@ Vous êtes distributeur et souhaitez générer des revenus avec vos comptes soci
 
 Le Social Ads getinside repose sur deux mécaniques complémentaires :
 
-- **Partnership Ads** (Instagram & Facebook) — vos publicités sont diffusées depuis le compte du distributeur partenaire, pas depuis le vôtre.
-- **Spark Ads** (TikTok) — vos contenus sont boostés depuis le compte TikTok du distributeur, avec son audience et sa crédibilité.
+- **Partnership Ads** (Instagram & Facebook) : vos publicités sont diffusées depuis le compte du distributeur partenaire, pas depuis le vôtre.
+- **Spark Ads** (TikTok) : vos contenus sont boostés depuis le compte TikTok du distributeur, avec son audience et sa crédibilité.
 
 La différence avec la publicité sociale classique : vous n'apparaissez pas comme une marque inconnue dans un flux. Vous êtes présenté par un e-commerçant que le consommateur connaît et suit. Le message hérite de la confiance établie entre le distributeur et son audience.
 
@@ -30,7 +30,7 @@ La différence avec la publicité sociale classique : vous n'apparaissez pas com
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Notoriété</strong>
-    <p>Faites découvrir votre marque à une audience qualifiée et engagée — sans ciblage publicitaire froid.</p>
+    <p>Faites découvrir votre marque à une audience qualifiée et engagée, sans ciblage publicitaire froid.</p>
   </div>
   <div class="gi-value-card">
     <strong>Drive-to-site</strong>

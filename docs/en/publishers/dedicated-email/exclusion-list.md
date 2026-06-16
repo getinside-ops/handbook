@@ -11,7 +11,7 @@ keywords:
 
 # Managing contact exclusion lists
 
-Before sending, an advertiser may provide you with an exclusion list to remove certain contacts from the mailing — you apply it in your ESP.
+Before sending, an advertiser may provide you with an exclusion list to remove certain contacts from the mailing. You apply it in your ESP.
 
 | Use case | Description |
 | :--- | :--- |
@@ -19,7 +19,7 @@ Before sending, an advertiser may provide you with an exclusion list to remove c
 | **Existing customers** | The advertiser wants to target only new prospects and exclude their current customers. |
 | **Both** | The advertiser merges both lists into a single file before sending it to you. |
 
-This is not systematic — many campaigns do not include one. But when an advertiser sends one, here is how to receive and apply it.
+This is not systematic: many campaigns do not include one. But when an advertiser sends one, here is how to receive and apply it.
 
 :::danger Personal data — secure channel required
 Exclusion lists contain **personal data** under GDPR. Do not request them by email or getinside messaging.
@@ -31,7 +31,7 @@ Any file containing addresses (even hashed) must go through a secure protocol.
 
 ## Receiving the file
 
-The recommended method is SFTP file transfer using **FileZilla** on the advertiser's side ([Download FileZilla](https://filezilla-project.org/){target="_blank"} — free, Windows / macOS / Linux).
+The recommended method is SFTP file transfer using **FileZilla** on the advertiser's side ([Download FileZilla](https://filezilla-project.org/){target="_blank"}, free, Windows / macOS / Linux).
 
 Create an SFTP access on your server and share these details with the advertiser:
 
@@ -51,7 +51,7 @@ Use a password manager with secure sharing (1Password, Bitwarden…) or a one-ti
 
 **SFTP with SSH key**
 
-A more secure option, best suited for recurring work with the same advertiser. The advertiser generates an SSH key pair and sends you their public key — your technical team adds it to the server.
+A more secure option, best suited for recurring work with the same advertiser. The advertiser generates an SSH key pair and sends you their public key. Your technical team adds it to the server.
 
 | Field | What you provide |
 |-------|-----------------|
@@ -97,7 +97,7 @@ Generate a SAS Token restricted to the `Write` operation, valid for 48 hours. Re
 
 **API / Endpoint (Eulerian or other)**
 
-If you use Eulerian, the integration with the advertiser is native — no file to manage.
+If you use Eulerian, the integration with the advertiser is native: no file to manage.
 
 For any other ESP or DMP with an audience API, share your endpoint documentation with the advertiser.
 :::
@@ -128,7 +128,7 @@ Import the file into your router **before** scheduling the send.
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Apply the exclusion at send time</h3>
-    <p>In the send settings, activate the exclusion list for this campaign. Verify that the final send volume reflects the exclusions — if the numbers don't change, the exclusion did not take effect.</p>
+    <p>In the send settings, activate the exclusion list for this campaign. Verify that the final send volume reflects the exclusions. If the numbers don't change, the exclusion did not take effect.</p>
   </div>
 </div>
 

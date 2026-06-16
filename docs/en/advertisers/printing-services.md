@@ -11,7 +11,7 @@ keywords:
 
 # Printing & Logistics
 
-getinside pools volumes across its entire network to give you access to industrial printing rates. You focus on your campaign — production and delivery are managed end to end.
+getinside pools volumes across its entire network to give you access to industrial printing rates. You focus on your campaign. Production and delivery are managed end to end.
 
 ## How it works
 
@@ -47,7 +47,7 @@ getinside pools volumes across its entire network to give you access to industri
 | **Weight** | 250 to 300 g/m² |
 | **Type** | Matte coated or semi-matte coated |
 | **Paper certification** | FSC or PEFC mandatory |
-| **Lamination** | No — makes QR codes less readable |
+| **Lamination** | No (makes QR codes less readable) |
 
 ## What's included
 

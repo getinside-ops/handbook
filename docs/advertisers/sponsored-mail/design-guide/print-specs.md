@@ -36,7 +36,7 @@ Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm d
 
 | Critère | Spécification |
 | :--- | :--- |
-| **Format de fichier** | PDF/X vectoriel (norme ISO prépresse) — à privilégier. JPG ou PNG acceptés. |
+| **Format de fichier** | PDF/X vectoriel (norme ISO prépresse), à privilégier. JPG ou PNG acceptés. |
 | **Résolution** | **300 DPI minimum** |
 | **Dimensions matricielles** | A6 : 1 287 × 1 795 px min · A5 : 1 795 × 2 528 px min |
 | **Mode colorimétrique** | **CMJN obligatoire** (pas de RVB) |
@@ -78,7 +78,7 @@ Vous **ne pouvez pas** utiliser un QR code généré par vos soins. Vous devez i
 Ce QR code certifie la distribution et permet le monitoring en temps réel.
 :::
 
-**Taille minimum : 25 × 25 mm** — en dessous, le QR code n'est pas lisible par tous les smartphones.
+**Taille minimum : 25 × 25 mm**. En dessous, le QR code n'est pas lisible par tous les smartphones.
 
 **Ne mélangez pas les QR codes :** chaque distributeur dispose de son propre QR code distinct. Le fichier `.svg` est disponible dans votre espace annonceur dès validation de votre proposition par le distributeur.
 
@@ -94,7 +94,7 @@ L'URL de destination n'est pas gravée dans le motif du code. Vous pouvez modifi
 
 1. Les dimensions incluent **+2 mm de fond perdu** et respectent **-3 mm de zone tranquille**.
 2. Le fichier est en **CMJN (FOGRA39)**, résolution ≥ **300 DPI**, taux d'encrage ≤ **300%**.
-3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm** — chaque distributeur a le sien.
+3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm**, chaque distributeur a le sien.
 4. Les mentions légales universelles sont incluses : identification annonceur, Triman, logo getinside, CGV. Si getinside réalise l'impression, la mention de certification FSC/Imprim'vert est présente.
 5. Les [mentions légales sectorielles](./legal) (si applicable) sont présentes et lisibles.
 6. La **landing page** de destination a été testée sur mobile : responsive, chargement < 3 s, un seul appel à l'action (voir [Anatomie d'un flyer performant](./best-practices#la-landing-page-post-scan)).

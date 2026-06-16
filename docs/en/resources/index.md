@@ -34,7 +34,7 @@ Tools, files, inspirations and guides to manage your operations independently.
     <span class="gi-nav-card-icon">🎨</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Creative Studio</p>
-      <p class="gi-nav-card-desc">Delegate graphic production to our experts — flat rate 550€ HT per campaign.</p>
+      <p class="gi-nav-card-desc">Delegate graphic production to our experts, flat rate 550€ HT per campaign.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

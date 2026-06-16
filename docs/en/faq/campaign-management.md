@@ -55,7 +55,7 @@ The average network CTR is **2.87%**. Gamified formats (Bundle, Games) reach up 
 ::: details A distributor is refusing my visual — what should I do?
 The distributor has a **veto right over the brand** (direct competitor, ethically incompatible category), but not over creative direction.
 
-If your file meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal notices present), it is compliant. Send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation — getinside validation takes precedence over the distributor's assessment.
+If your file meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal notices present), it is compliant. Send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation. getinside validation takes precedence over the distributor's assessment.
 
 → [Print specifications](/en/advertisers/sponsored-mail/design-guide/print-specs)
 :::
@@ -68,12 +68,12 @@ Your customer data is a First Party asset that belongs exclusively to you. getin
 
 ---
 
-## Best Practices — Messaging
+## Best Practices: Messaging
 
 The getinside messaging system is your direct channel with advertisers.
 
 **Responsiveness:** reply promptly, even to a refusal. A responsive distributor builds advertiser trust for future proposals.
 
-**Logistical precision:** if you are reporting a delay, be specific. Prefer: "We have an unexpected activity peak — distribution will start next Tuesday instead of Monday." over "We're running late."
+**Logistical precision:** if you are reporting a delay, be specific. Prefer: "We have an unexpected activity peak. Distribution will start next Tuesday instead of Monday." over "We're running late."
 
 **Partnership mindset:** send a welcome message to the advertiser upon receiving the flyers to confirm everything is compliant and distribution is starting.

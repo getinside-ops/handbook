@@ -64,7 +64,7 @@ The value of Sponsored Mail rests on the unboxing experience. These rules guaran
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Respect quality exclusions</h3>
-    <p>Never insert two competing offers in the same package. Never insert a crumpled or dog-eared flyer — replace it.</p>
+    <p>Never insert two competing offers in the same package. Never insert a crumpled or dog-eared flyer. Replace it.</p>
   </div>
 </div>
 

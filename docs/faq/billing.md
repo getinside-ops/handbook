@@ -37,7 +37,7 @@ Oui, sans frais. Dans **Exchange**, cliquez sur **Transférer vers le Wallet**. 
 :::
 
 ::: details Pourquoi mes revenus sont-ils bloqués 30 jours ?
-Le délai de 30 jours est un délai de protection. Il permet de détecter et traiter les anomalies éventuelles — colis perdus, volumes non conformes, campagne interrompue — avant que les fonds soient définitivement libérés. Sans ce tampon, getinside ne pourrait pas garantir votre paiement en cas d'impayé annonceur.
+Le délai de 30 jours est un délai de protection. Il permet de détecter et traiter les anomalies éventuelles : colis perdus, volumes non conformes, campagne interrompue, avant que les fonds soient définitivement libérés. Sans ce tampon, getinside ne pourrait pas garantir votre paiement en cas d'impayé annonceur.
 :::
 
 ::: details Que se passe-t-il si une anomalie est détectée pendant les 30 jours ?

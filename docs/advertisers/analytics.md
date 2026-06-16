@@ -12,7 +12,7 @@ keywords:
 
 Le retail media off-site getinside repose sur une **attribution en boucle fermée** : le scan du QR code et le code promo unique par distributeur rattachent chaque vente à la campagne qui l'a générée, sans cookie tiers. Ce guide explique comment compléter cette boucle avec votre propre tracking pour suivre l'acheteur du premier contact jusqu'à la conversion.
 
-La plateforme getinside comptabilise les clics et les scans. Pour mesurer ce qui se passe **après** — visites, ajouts au panier, conversions — vous devez configurer votre propre couche de tracking.
+La plateforme getinside comptabilise les clics et les scans. Pour mesurer ce qui se passe **après** : visites, ajouts au panier, conversions. Vous devez configurer votre propre couche de tracking.
 
 ## Pourquoi votre propre tracking est indispensable
 
@@ -55,10 +55,10 @@ https://monsite.com/offre-ete?utm_source=getinside&utm_medium=sponsored-mail&utm
 
 ## Prérequis pour l'Insertion Colis : URL dynamique
 
-Le QR code sur votre flyer doit pointer vers une **URL dynamique** (modifiable après impression). Cela vous permet de corriger une erreur d'URL ou de modifier la landing page sans réimprimer.
+Le QR code sur votre flyer doit pointer vers une **URL dynamique** (modifiable après impression). Vous pouvez ainsi corriger une erreur d'URL ou modifier la landing page sans réimprimer.
 
 ::: warning URL statique = risque
-Une URL codée en dur dans le QR code ne peut pas être modifiée après impression. Utilisez toujours un système de redirection — le service QR de getinside le gère automatiquement. Confirmez avec votre chargé de compte.
+Une URL codée en dur dans le QR code ne peut pas être modifiée après impression. Utilisez toujours un système de redirection. Le service QR de getinside le gère automatiquement. Confirmez avec votre chargé de compte.
 :::
 
 ## Vérifier que votre tracking fonctionne

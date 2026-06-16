@@ -29,7 +29,7 @@ A5 and A6 formats with pre-drawn bleed areas and quiet zones. Available in `.ai`
 <a href="https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe" target="_blank" class="btn btn-primary btn-sm">Access Drive ↗</a>
 
 ::: info Need creative help?
-Don't have Adobe software? Delegate creation to the [Creative Studio](/en/resources/studio). Flat rate 550€ HT per campaign — contact: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
+Don't have Adobe software? Delegate creation to the [Creative Studio](/en/resources/studio). Flat rate 550€ HT per campaign. Contact: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 ---
@@ -41,7 +41,7 @@ To prepare your visuals to technical standards, use DTP software capable of PDF/
 | Software | Use |
 |---|---|
 | Adobe Illustrator | Vector illustrations, PDF/X export with bleed |
-| Adobe Photoshop | Raster images — resolution ≥ 300 DPI, CMYK mode |
+| Adobe Photoshop | Raster images, resolution ≥ 300 DPI, CMYK mode |
 | Adobe InDesign | Multi-page layout, automatic bleed management |
 | Affinity Publisher | Adobe alternative, PDF/X export accepted |
 | Canva Pro | Accepted if PDF/X CMYK export is available |
@@ -50,5 +50,5 @@ To prepare your visuals to technical standards, use DTP software capable of PDF/
 
 ## Reference Documents
 
-- **[Pre-submission checklist ↗](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** — Must be checked before submitting a proof.
-- **[Content Design Guide](/en/advertisers/sponsored-mail/design-guide/)** — Technical rules for your flyers: formats, resolution, legal notices.
+- **[Pre-submission checklist ↗](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}**: must be checked before submitting a proof.
+- **[Content Design Guide](/en/advertisers/sponsored-mail/design-guide/)**: technical rules for your flyers: formats, resolution, legal notices.

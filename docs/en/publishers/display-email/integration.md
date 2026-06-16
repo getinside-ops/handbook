@@ -10,7 +10,7 @@ keywords:
 
 # Integration and Broadcast
 
-The process is fast — just make sure you use the correct redirection link to get paid.
+The process is fast. Just make sure you use the correct redirection link to get paid.
 
 ---
 

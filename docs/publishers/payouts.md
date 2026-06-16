@@ -21,9 +21,9 @@ Consultez à tout moment votre Solde Disponible = *(Revenus validés) - (Retrait
 
 ### Quand mes revenus sont-ils disponibles ?
 
-1. **Distribution confirmée** — Vous déclarez les volumes distribués (lundi ou mardi pour l'insertion colis) ou cliquez sur "Valider la diffusion" (emailing).
-2. **Délai de protection (30 jours)** — Le revenu reste en attente pour permettre la détection d'anomalies.
-3. **Revenu validé** — Après 30 jours sans incident, le montant passe en Solde Disponible et peut être retiré.
+1. **Distribution confirmée** : vous déclarez les volumes distribués (lundi ou mardi pour l'insertion colis) ou cliquez sur "Valider la diffusion" (emailing).
+2. **Délai de protection (30 jours)** : le revenu reste en attente pour permettre la détection d'anomalies.
+3. **Revenu validé** : après 30 jours sans incident, le montant passe en Solde Disponible et peut être retiré.
 
 ::: warning Vos revenus ne se créditent pas automatiquement
 Le Wallet n'est mis à jour qu'après une action manuelle de votre part : déclaration de volume (Insertion Colis) ou validation de diffusion (Emailing).
@@ -43,7 +43,7 @@ Le Wallet n'est mis à jour qu'après une action manuelle de votre part : décla
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Cumuler et retirer une fois par an</strong>
-    <p>Laissez vos revenus s'accumuler et effectuez un seul retrait annuel — le premier retrait de l'année civile est gratuit.</p>
+    <p>Laissez vos revenus s'accumuler et effectuez un seul retrait annuel, le premier retrait de l'année civile est gratuit.</p>
   </div>
   <div class="gi-value-card">
     <strong>Réinvestir à 0% de frais</strong>
@@ -51,7 +51,7 @@ Le Wallet n'est mis à jour qu'après une action manuelle de votre part : décla
   </div>
   <div class="gi-value-card">
     <strong>Passer à l'offre Plateforme</strong>
-    <p>299€ HT/mois — retraits illimités et gratuits, plus accès à la prospection active des +200 annonceurs. → <a href="/publishers/affiliation">Voir le programme</a></p>
+    <p>299€ HT/mois : retraits illimités et gratuits, plus accès à la prospection active des +200 annonceurs. → <a href="/publishers/affiliation">Voir le programme</a></p>
   </div>
 </div>
 

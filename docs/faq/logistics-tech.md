@@ -36,7 +36,7 @@ L'autorisation de publicité n'a pas été générée depuis le compte TikTok du
 
 1. Sur TikTok : **Paramètres du compte → Créateur → Paramètres de publicité**.
 2. Activez **"Autorisation de publicité"**.
-3. Cliquez sur **"Générer un code"** — valable 60 jours.
+3. Cliquez sur **"Générer un code"**, valable 60 jours.
 4. Transmettez le code à getinside via la messagerie de la campagne.
 
 Sans ce code, la campagne ne peut pas être lancée depuis le Business Center TikTok.
@@ -56,11 +56,11 @@ Test rapide : ouvrez l'URL de l'image dans un onglet de navigation privée. Si e
 
 ## Gestion logistique
 
-::: details J'ai reçu les encarts en avance — puis-je commencer la distribution ?
+::: details J'ai reçu les encarts en avance : puis-je commencer la distribution ?
 Non, pas sans le feu vert de l'annonceur. Démarrer plus tôt que prévu peut poser problème si la landing page n'est pas encore active ou si la campagne entre en conflit avec une autre offre en cours. Prévenez l'annonceur via la messagerie avant toute action.
 :::
 
-::: details Les flyers sont arrivés endommagés — que faire ?
+::: details Les flyers sont arrivés endommagés : que faire ?
 Agissez sous 24h :
 
 1. Photographiez clairement les cartons abîmés.

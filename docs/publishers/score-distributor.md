@@ -27,7 +27,7 @@ Le Score est une **note sur 5 étoiles** recalculée dynamiquement en temps rée
     <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Visibilité standard. Vous recevez des offres régulièrement. Des améliorations sont possibles.</p>
   </div>
   <div class="gi-value-card" style="border-color: var(--gi-tint-green-text); background: var(--gi-tint-green-bg);">
-    <strong style="color: var(--gi-tint-green-text);">Plus de 4/5 — Statut "Top Distributeur"</strong>
+    <strong style="color: var(--gi-tint-green-text);">Plus de 4/5 : Statut "Top Distributeur"</strong>
     <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Vos audiences s'affichent en priorité. Vous recevez en premier les campagnes les plus qualifiées et les mieux rémunérées.</p>
   </div>
 </div>
@@ -61,7 +61,7 @@ Le Score est une **note sur 5 étoiles** recalculée dynamiquement en temps rée
   </div>
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
     <strong>Optimiser l'engagement audience</strong>
-    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Acceptez les campagnes qui correspondent à votre audience — les taux de scan impactent le score.</p>
+    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Acceptez les campagnes qui correspondent à votre audience. Les taux de scan impactent le score.</p>
   </div>
 </div>
 
@@ -69,10 +69,10 @@ Le Score est une **note sur 5 étoiles** recalculée dynamiquement en temps rée
 
 Un score de 4,5/5 ou plus a un impact direct sur la rentabilité de vos audiences :
 
-1. **Classement prioritaire** — Vous apparaissez en tête des résultats de recherche annonceurs.
-2. **Confiance des marques premium** — Les annonceurs à gros budgets privilégient les profils avec les meilleurs historiques de fiabilité.
-3. **Taux d'occupation maximal** — Plus visible = plus de propositions = moins de creux sans campagnes.
-4. **Poids dans les négociations** — Un historique impeccable justifie des CPM dans la fourchette haute de votre secteur.
+1. **Classement prioritaire** : vous apparaissez en tête des résultats de recherche annonceurs.
+2. **Confiance des marques premium** : les annonceurs à gros budgets privilégient les profils avec les meilleurs historiques de fiabilité.
+3. **Taux d'occupation maximal** : plus visible = plus de propositions = moins de creux sans campagnes.
+4. **Poids dans les négociations** : un historique impeccable justifie des CPM dans la fourchette haute de votre secteur.
 
 ## Où trouver votre score ?
 

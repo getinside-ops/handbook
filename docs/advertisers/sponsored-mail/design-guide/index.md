@@ -11,7 +11,7 @@ keywords:
 
 # Guide de Conception
 
-Le déballage d'un colis est un moment à part. Le consommateur vient de recevoir quelque chose qu'il attendait — il est attentif, les mains occupées, l'esprit ouvert. Votre flyer a moins de 3 secondes pour en tirer parti.
+Le déballage d'un colis est un moment à part. Le consommateur vient de recevoir quelque chose qu'il attendait : il est attentif, les mains occupées, l'esprit ouvert. Votre flyer a moins de 3 secondes pour en tirer parti.
 
 :::warning Validation obligatoire
 Aucun contenu n'est diffusé à un distributeur sans validation préalable de getinside via la plateforme. Soumettez votre BAT numérique avant toute impression.
@@ -19,7 +19,7 @@ Aucun contenu n'est diffusé à un distributeur sans validation préalable de ge
 
 ## Meilleures Campagnes
 
-Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes — utilisez-les comme inspiration pour vos propres flyers.
+Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes. Utilisez-les comme inspiration pour vos propres flyers.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -48,7 +48,7 @@ Les meilleures campagnes Sponsored Mail sélectionnées par nos équipes — uti
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Création</h3>
-    <p>Créez votre visuel en respectant les <a href="./print-specs">spécifications techniques</a> — formats, colorimétrie, QR code. Inspirez-vous de l'<a href="./best-practices">anatomie d'un flyer performant</a> pour maximiser la conversion.</p>
+    <p>Créez votre visuel en respectant les <a href="./print-specs">spécifications techniques</a> : formats, colorimétrie, QR code. Inspirez-vous de l'<a href="./best-practices">anatomie d'un flyer performant</a> pour maximiser la conversion.</p>
   </div>
 </div>
 
@@ -77,7 +77,7 @@ L'offre est la décision la plus importante de votre flyer. Une bonne offre comp
 getinside est un **média non intentionniste** : quand il découvre votre flyer, le consommateur n'avait pas prévu d'acheter chez vous. C'est la force de votre offre qui lève les derniers freins et déclenche l'achat. Plus le deal est généreux, plus il convertit. À vous de placer le curseur.
 
 :::tip "10€ offerts" convertit mieux que "-10%"
-Une valeur concrète est perçue immédiatement. Un produit offert fonctionne encore mieux — le levier psychologique du cadeau surpasse celui de l'économie.
+Une valeur concrète est perçue immédiatement. Un produit offert fonctionne encore mieux : le levier psychologique du cadeau surpasse celui de l'économie.
 :::
 
 | Paramètre | Recommandation |
@@ -85,10 +85,10 @@ Une valeur concrète est perçue immédiatement. Un produit offert fonctionne en
 | **Type** | Valeur monétaire > pourcentage |
 | **Durée de validité** | Minimum 3 mois à partir de la date d'impression |
 | **Code promo** | Unique par distributeur, court, sans caractères spéciaux (`_`, `-`, `;`) |
-| **Format code promo** | Inclure le nom du distributeur — ex : "GREENWEEZ20", "BERCEAU15" |
+| **Format code promo** | Inclure le nom du distributeur, ex : "GREENWEEZ20", "BERCEAU15" |
 
 :::warning Annonce de réduction de prix : le prix de référence est obligatoire
-Si votre flyer annonce une réduction (pourcentage, montant barré, « avant/après »), la loi impose d'indiquer le **prix de référence** = le **prix le plus bas pratiqué dans les 30 jours** précédant l'offre (directive Omnibus, contrôlée par la DGCCRF). Une valeur monétaire offerte ou un produit cadeau ne sont pas concernés — une raison de plus de les privilégier.
+Si votre flyer annonce une réduction (pourcentage, montant barré, « avant/après »), la loi impose d'indiquer le **prix de référence** = le **prix le plus bas pratiqué dans les 30 jours** précédant l'offre (directive Omnibus, contrôlée par la DGCCRF). Une valeur monétaire offerte ou un produit cadeau ne sont pas concernés, une raison de plus de les privilégier.
 :::
 
 :::tip Protégez votre marge
@@ -106,7 +106,7 @@ Toutes les mécaniques fonctionnent avec un QR code comme point d'entrée.
 | **Promotion** | "Scannez pour obtenir une offre exclusive" | Conversion immédiate en ligne |
 | **Drive to Store** | "Présentez cette carte en boutique pour un café offert" | Trafic physique ou hybride |
 | **Contenu éducatif** | "Scannez pour découvrir nos 5 recettes de saison" | Image de marque, engagement long terme |
-| **Jeu / Concours** | "Flashez pour tourner la roue" | Collecte de leads qualifiés — CTR jusqu'à 20% |
+| **Jeu / Concours** | "Flashez pour tourner la roue" | Collecte de leads qualifiés, CTR jusqu'à 20% |
 | **Drive to App** | "Téléchargez l'app pour débloquer vos points" | Acquisition mobile |
 | **Feedback** | "Donnez votre avis contre un cadeau" | Avis vérifiés, connaissance client |
 
@@ -120,7 +120,7 @@ Avant de valider votre mécanique, posez-vous : **"Pourquoi ce contenu est-il de
 
 **QR code** (voir [spécifications techniques](./print-specs) pour les contraintes d'impression) :
 
-- Fond blanc, module noir — évitez les fonds texturés
+- Fond blanc, module noir. Évitez les fonds texturés
 - Taille minimum : **25 × 25 mm**
 - Instruction courte à côté : "Scannez pour profiter de l'offre"
 - Positionnez en bas droite, là où le pouce tient naturellement le flyer
@@ -145,10 +145,10 @@ Votre espace annonceur getinside donne accès aux scans QR en temps réel et aux
 
 ## Ressources
 
-- [Exemples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"} — Campagnes réussies
-- [Gabarits .ai/.pdf](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"} — Formats A5 et A6 avec fond perdu et zones tranquilles
-- [Logos obligatoires](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"} — Logo getinside, Triman, Info-tri (Loi AGEC)
-- [Check-list BAT](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"} — À compléter avant chaque soumission
+- [Exemples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"} : campagnes réussies
+- [Gabarits .ai/.pdf](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"} : formats A5 et A6 avec fond perdu et zones tranquilles
+- [Logos obligatoires](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"} : logo getinside, Triman, Info-tri (Loi AGEC)
+- [Check-list BAT](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"} : à compléter avant chaque soumission
 
 :::info Pas de graphiste en interne ?
 Notre Studio Créatif prend en charge la direction artistique, l'exécution et la mise aux normes pour un forfait de **550€ HT** par campagne. → [Contacter le Studio](/resources/studio)

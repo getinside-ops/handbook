@@ -11,7 +11,7 @@ keywords:
 
 # Vendre des Bundles
 
-Un Bundle consiste à packager plusieurs de vos inventaires publicitaires — insertion colis, emailing, social, bannières — en une seule offre forfaitaire. Vous monétisez des espaces difficiles à vendre seuls en les associant à votre meilleur inventaire, et vous augmentez votre revenu moyen par campagne.
+Un Bundle consiste à packager plusieurs de vos inventaires publicitaires (insertion colis, emailing, social, bannières) en une seule offre forfaitaire. Vous monétisez des espaces difficiles à vendre seuls en les associant à votre meilleur inventaire, et vous augmentez votre revenu moyen par campagne.
 
 ::: tip Côté annonceur
 Vous êtes une marque et souhaitez activer un Bundle multicanal ? Consultez le [guide Bundles & Media Kits](/advertisers/bundles).
@@ -38,7 +38,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Définissez votre pack standard</h3>
-    <p>Sélectionnez les inventaires à inclure (insertion colis, email dédié, post social, bannière homepage) et fixez un prix forfaitaire global. Exemple : "Pack Visibilité Rentrée — 10 000€ le mois".</p>
+    <p>Sélectionnez les inventaires à inclure (insertion colis, email dédié, post social, bannière homepage) et fixez un prix forfaitaire global. Exemple : "Pack Visibilité Rentrée, 10 000€ le mois".</p>
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Transmettez les leads et clôturez</h3>
-    <p>À la fin de l'opération, exportez la liste des participants ayant coché l'opt-in partenaire et transmettez-la à l'annonceur via getinside. L'annonceur envoie les lots aux gagnants — pas vous.</p>
+    <p>À la fin de l'opération, exportez la liste des participants ayant coché l'opt-in partenaire et transmettez-la à l'annonceur via getinside. L'annonceur envoie les lots aux gagnants, pas vous.</p>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
   </div>
 </div>
 
-::: danger Mention RGPD obligatoire — case non pré-cochée
+::: danger Mention RGPD obligatoire : case non pré-cochée
 Le formulaire d'inscription doit inclure cette case, jamais pré-cochée :
 
 ☐ *J'accepte de recevoir les offres commerciales du partenaire [Nom de l'Annonceur].*
@@ -96,7 +96,7 @@ Seuls les participants ayant coché cette case sont facturés à l'annonceur. La
 | Social + Bannière | 3 000€ | |
 | **Total au forfait** | | **10 000€** |
 
-Le prix forfaitaire intègre votre valeur ajoutée (mise en place, image de marque, animation) au-delà du simple volume d'impressions. Les annonceurs peuvent négocier le contenu du pack — la plateforme vous permet d'ajuster le prix final lors de la validation.
+Le prix forfaitaire intègre votre valeur ajoutée (mise en place, image de marque, animation) au-delà du simple volume d'impressions. Les annonceurs peuvent négocier le contenu du pack. La plateforme vous permet d'ajuster le prix final lors de la validation.
 
 ## Démarrer
 

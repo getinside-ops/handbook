@@ -8,11 +8,11 @@ keywords:
   - getinside retailer
 ---
 
-# Quick Start — Retailers
+# Quick Start: Retailers
 
 You have just joined getinside. In 3 steps and 10 minutes, your profile is ready to receive campaigns.
 
-## Step 1 — Activate your access
+## Step 1: Activate your access
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -26,7 +26,7 @@ You have just joined getinside. In 3 steps and 10 minutes, your profile is ready
 Your account was created by the getinside team during your demo. If you did not receive the email, check your spam folder or contact your account manager.
 :::
 
-## Step 2 — Configure your logistics profile
+## Step 2: Configure your logistics profile
 
 **Location:** Settings → Logistics
 
@@ -46,7 +46,7 @@ Your account was created by the getinside team during your demo. If you did not 
   </div>
 </div>
 
-## Step 3 — Create your first audience
+## Step 3: Create your first audience
 
 Your audience is what you offer advertisers. The more precise it is, the more relevant campaigns you receive.
 
@@ -55,7 +55,7 @@ Your audience is what you offer advertisers. The more precise it is, the more re
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Fill in the essential fields</h3>
+    <h3>Fill in the key fields</h3>
     <p>Audience name (e.g. "Women's fashion e-commerce customers 25–45"), average order value, product category, weekly package volume.</p>
   </div>
 </div>
@@ -71,6 +71,6 @@ A **validation call** with the getinside team confirms your listing on the marke
 **Golden rule:** You have **48 business hours** to respond to each proposal. Beyond that, it expires and can impact your [Retailer Score](/publishers/score-distributor).
 
 **Next steps:**
-- [Full onboarding process](/publishers/onboarding-process) — detailed operations
-- [Retailer Score](/publishers/score-distributor) — how to maximise your visibility
-- [Payments & Wallet](/publishers/payouts) — understand when and how you will be paid
+- [Full onboarding process](/publishers/onboarding-process): detailed operations
+- [Retailer Score](/publishers/score-distributor): how to maximise your visibility
+- [Payments & Wallet](/publishers/payouts): understand when and how you will be paid

@@ -50,7 +50,7 @@ Browse a selection of Bundles offered by our retailers.
 
 ---
 
-## Dedicated Email — Live Examples
+## Dedicated Email: Live Examples
 
 Click the buttons to see the actual rendering in the browser.
 
@@ -261,23 +261,23 @@ Click on the images to zoom.
 
 | Indicator | Result |
 |---|---|
-| Average network CTR | 2.87% — vs 0.90% on Meta Ads |
-| Record CTR | 12% — Total Wash (Drive to App, Auto-Moto targeting) |
-| Record ROI | 16:1 — Nocibé (omnichannel Drive-to-Store campaign) |
-| Record ROAS | 824% — Blacksheep (Parcel Insert) |
+| Average network CTR | 2.87% |
+| Record CTR | 12%, Total Wash (Drive to App, Auto-Moto targeting) |
+| Record ROI | 16:1, Nocibé (omnichannel Drive-to-Store campaign) |
+| Record ROAS | 824%, Blacksheep (Parcel Insert) |
 
 ---
 
 ## Testimonials
 
 > "We are diversifying our customer acquisition with the addition of this lever that does not suffer from fierce competition."
-> — **Japhy**
+> **Japhy**
 
 > "A relevant lever with the ability to target HelloFresh's audience (food, home delivery)."
-> — **Pepette**
+> **Pepette**
 
 > "2.67% scan rate and a ROAS of 824%."
-> — **Blacksheep**
+> **Blacksheep**
 
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>

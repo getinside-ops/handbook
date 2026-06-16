@@ -16,11 +16,11 @@ Déléguez l'intégralité de la production graphique (print, email, social) à 
 
 ### Forfait 550€ HT par création
 
-Conception, direction artistique, rédaction et mise en conformité technique — tout inclus.
+Conception, direction artistique, rédaction et mise en conformité technique, tout inclus.
 
-- **Expertise Retail Media :** fonds perdus, taux d'encrage, délivrabilité email, RGPD — nous maîtrisons les contraintes techniques de chaque format.
+- **Expertise Retail Media :** fonds perdus, taux d'encrage, délivrabilité email, RGPD. Nous maîtrisons les contraintes techniques de chaque format.
 - **BAT livré sous 48h** après réception de votre brief créatif.
-- **Fichiers prêts à diffuser** aux normes imprimeur/routeur — zéro retouche de votre côté.
+- **Fichiers prêts à diffuser** aux normes imprimeur/routeur, zéro retouche de votre côté.
 
 ::: tip Commander un brief
 Contactez le Studio : **[studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)**

@@ -8,11 +8,11 @@ keywords:
   - getinside distributeur
 ---
 
-# Démarrage Rapide — Distributeurs
+# Démarrage Rapide : Distributeurs
 
 Vous venez de rejoindre getinside. En 3 étapes et 10 minutes, votre profil est prêt à recevoir des campagnes.
 
-## Étape 1 — Activez votre accès
+## Étape 1 : Activez votre accès
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -26,7 +26,7 @@ Vous venez de rejoindre getinside. En 3 étapes et 10 minutes, votre profil est 
 Votre compte a été créé par l'équipe getinside lors de votre démo. Si vous n'avez pas reçu l'email, vérifiez vos spams ou contactez votre gestionnaire.
 :::
 
-## Étape 2 — Configurez votre profil logistique
+## Étape 2 : Configurez votre profil logistique
 
 **Espace :** Paramètres → Logistique
 
@@ -46,7 +46,7 @@ Votre compte a été créé par l'équipe getinside lors de votre démo. Si vous
   </div>
 </div>
 
-## Étape 3 — Créez votre première audience
+## Étape 3 : Créez votre première audience
 
 Votre audience est ce que vous proposez aux annonceurs. Plus elle est précise, plus vous recevez de campagnes pertinentes.
 
@@ -55,7 +55,7 @@ Votre audience est ce que vous proposez aux annonceurs. Plus elle est précise, 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Renseignez les champs essentiels</h3>
+    <h3>Renseignez les champs importants</h3>
     <p>Nom de l'audience (ex : "Clients e-commerce mode femme 25–45 ans"), panier moyen de vos clients, catégorie de vos produits, volume hebdomadaire de colis.</p>
   </div>
 </div>
@@ -71,6 +71,6 @@ Un **appel de validation** avec l'équipe getinside confirme votre mise en ligne
 **Règle d'or :** Vous avez **48h ouvrées** pour répondre à chaque proposition. Au-delà, elle expire et peut impacter votre [Score Distributeur](/publishers/score-distributor).
 
 **Prochaines étapes :**
-- [Processus complet d'onboarding](/publishers/onboarding-process) — le fonctionnement détaillé
-- [Score Distributeur](/publishers/score-distributor) — comment maximiser votre visibilité
-- [Paiements & Wallet](/publishers/payouts) — comprendre quand et comment vous serez payé
+- [Processus complet d'onboarding](/publishers/onboarding-process) : le fonctionnement détaillé
+- [Score Distributeur](/publishers/score-distributor) : comment maximiser votre visibilité
+- [Paiements & Wallet](/publishers/payouts) : comprendre quand et comment vous serez payé

@@ -11,7 +11,7 @@ keywords:
 
 # Insertion Colis (Sponsored Mail)
 
-Votre flyer, carte ou échantillon glissé dans le colis d'un client au moment de l'unboxing. C'est le seul canal physique avec un taux de lecture de **100%** — et un CTR réseau de **2,87%**, contre 0,90% pour les Meta Ads.
+Votre flyer, carte ou échantillon glissé dans le colis d'un client au moment de l'unboxing. C'est le seul canal physique avec un taux de lecture de **100%** et un CTR réseau de **2,87%**.
 
 ::: tip Côté e-commerçant
 Vous êtes distributeur et souhaitez monétiser vos colis avec ce format ? Consultez le [guide Insertion Colis pour les Retailers](/publishers/sponsored-mail/).
@@ -31,7 +31,7 @@ Vous êtes distributeur et souhaitez monétiser vos colis avec ce format ? Consu
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Créez vos supports</h3>
-    <p>Concevez votre flyer selon les <a href="./design-guide/print-specs">spécifications techniques</a> et les <a href="./design-guide/legal">mentions légales</a>. Intégrez le QR code dynamique getinside — c'est votre outil de tracking.</p>
+    <p>Concevez votre flyer selon les <a href="./design-guide/print-specs">spécifications techniques</a> et les <a href="./design-guide/legal">mentions légales</a>. Intégrez le QR code dynamique getinside : c'est votre outil de tracking.</p>
   </div>
 </div>
 
@@ -56,15 +56,15 @@ Vous êtes distributeur et souhaitez monétiser vos colis avec ce format ? Consu
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>100% de lecture</strong>
-    <p>Le seul média physique avec un taux de prise en main absolu. Le colis est attendu — votre flyer est vu dans un moment d'attention maximale.</p>
+    <p>Le seul média physique avec un taux de prise en main absolu. Le colis est attendu. Votre flyer est vu dans un moment d'attention maximale.</p>
   </div>
   <div class="gi-value-card">
     <strong>2,87% de CTR réseau</strong>
-    <p>Contre 0,90% pour les Meta Ads. L'insertion colis génère jusqu'à 3× plus de clics qualifiés grâce à l'hyper-attention de l'unboxing.</p>
+    <p>L'insertion colis génère jusqu'à 3× plus de clics qualifiés grâce à l'hyper-attention de l'unboxing.</p>
   </div>
   <div class="gi-value-card">
     <strong>10–30% de conversion</strong>
-    <p>Les acheteurs ciblés sont qualifiés par leurs habitudes réelles d'achat — pas des internautes anonymes.</p>
+    <p>Les acheteurs ciblés sont qualifiés par leurs habitudes réelles d'achat, pas des internautes anonymes.</p>
   </div>
 </div>
 
@@ -72,17 +72,17 @@ Vous êtes distributeur et souhaitez monétiser vos colis avec ce format ? Consu
 
 | Format | Dimensions | Usage recommandé |
 | :--- | :--- | :--- |
-| **Flyer A5** | 148 × 210 mm | Format standard — offres détaillées |
-| **Flyer A6 / Carte** | 105 × 148 mm | Format compact — codes promo |
+| **Flyer A5** | 148 × 210 mm | Format standard : offres détaillées |
+| **Flyer A6 / Carte** | 105 × 148 mm | Format compact : codes promo |
 | **Échantillon S** | 15 g / 15 cm | Produit associé à un flyer A5/A6 |
 | **Échantillon M** | 100 g / 30 cm | Sampling standalone |
 | **Échantillon L** | 450 g / 40 cm | Produit volumineux |
 
-::: tip Option Duo — Flyer + Échantillon
+::: tip Option Duo : Flyer + Échantillon
 Un échantillon S peut être fixé sur un flyer A5/A6 via un point de colle fugitive. Réalisé par des Entreprises Adaptées (EA).
 :::
 
-Le ciblage s'affine selon quatre critères : univers produit, panier moyen, profil acheteur (B2C/B2B) et géographie. Votre offre est toujours insérée chez un e-commerçant non concurrent — deux marques concurrentes ne coexistent jamais dans un même colis.
+Le ciblage s'affine selon quatre critères : univers produit, panier moyen, profil acheteur (B2C/B2B) et géographie. Votre offre est toujours insérée chez un e-commerçant non concurrent : deux marques concurrentes ne coexistent jamais dans un même colis.
 
 ## Tarification
 
@@ -90,7 +90,7 @@ Le ciblage s'affine selon quatre critères : univers produit, panier moyen, prof
 | :--- | :--- |
 | **Accès à la plateforme** | Gratuit, sans abonnement |
 | **Frais de plateforme** | 12% du budget média investi |
-| **Impression** (optionnel) | Tarifs dégressifs — Made in France, Imprim'Vert |
+| **Impression** (optionnel) | Tarifs dégressifs, Made in France, Imprim'Vert |
 | **Studio Créatif** (optionnel) | 550€ HT par campagne |
 
 ::: info Pas d'engagement minimum
@@ -99,5 +99,5 @@ Vous lancez quand vous voulez, avec le budget que vous choisissez. Les frais de 
 
 ## Démarrer
 
-- [Guide de Conception](./design-guide/) — Spécifications techniques, mentions légales, stratégie créative.
-- [Créer une campagne](https://app.getinside.media/){target="_blank"} — Accédez à la plateforme directement.
+- [Guide de Conception](./design-guide/) : spécifications techniques, mentions légales, stratégie créative.
+- [Créer une campagne](https://app.getinside.media/){target="_blank"} : accédez à la plateforme directement.

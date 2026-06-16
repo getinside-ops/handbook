@@ -11,7 +11,7 @@ keywords:
 
 # Gérer les listes d'exclusion de contacts
 
-Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour écarter certains contacts de la diffusion — c'est vous qui l'appliquez dans votre ESP.
+Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour écarter certains contacts de la diffusion. C'est vous qui l'appliquez dans votre ESP.
 
 | Cas d'usage | Description |
 | :--- | :--- |
@@ -19,9 +19,9 @@ Avant l'envoi, un annonceur peut vous transmettre une liste d'exclusion pour éc
 | **Clients existants** | L'annonceur souhaite cibler uniquement de nouveaux prospects et exclure ses clients actuels. |
 | **Les deux** | L'annonceur fusionne les deux listes en un seul fichier avant de vous le transmettre. |
 
-Ce n'est pas systématique — beaucoup de campagnes n'en ont pas. Mais quand un annonceur en envoie une, voici comment la recevoir et l'appliquer.
+Ce n'est pas systématique : beaucoup de campagnes n'en ont pas. Mais quand un annonceur en envoie une, voici comment la recevoir et l'appliquer.
 
-:::danger Données personnelles — canal sécurisé obligatoire
+:::danger Données personnelles : canal sécurisé obligatoire
 Les listes d'exclusion contiennent des **données personnelles** au sens du RGPD. Ne les demandez pas par email ou messagerie getinside.
 
 Tout fichier contenant des adresses (même hashées) doit passer par un protocole sécurisé.
@@ -31,7 +31,7 @@ Tout fichier contenant des adresses (même hashées) doit passer par un protocol
 
 ## Recevoir le fichier
 
-La méthode recommandée est le transfert SFTP avec **FileZilla** côté annonceur ([Télécharger FileZilla](https://filezilla-project.org/){target="_blank"} — gratuit, Windows / macOS / Linux).
+La méthode recommandée est le transfert SFTP avec **FileZilla** côté annonceur ([Télécharger FileZilla](https://filezilla-project.org/){target="_blank"}, gratuit, Windows / macOS / Linux).
 
 Créez un accès SFTP sur votre serveur et communiquez ces informations à l'annonceur :
 
@@ -51,7 +51,7 @@ Utilisez un gestionnaire de mots de passe avec partage sécurisé (1Password, Bi
 
 **SFTP avec clé SSH**
 
-Option plus sécurisée, à privilégier si vous travaillez régulièrement avec le même annonceur. L'annonceur génère une paire de clés SSH et vous transmet sa clé publique — votre équipe technique l'ajoute au serveur.
+Option plus sécurisée, à privilégier si vous travaillez régulièrement avec le même annonceur. L'annonceur génère une paire de clés SSH et vous transmet sa clé publique. Votre équipe technique l'ajoute au serveur.
 
 | Champ | Ce que vous fournissez |
 |-------|------------------------|
@@ -97,7 +97,7 @@ Générez un SAS Token restreint à l'opération `Write`, valable 48h. Renouvele
 
 **API / Endpoint (Eulerian ou autre)**
 
-Si vous utilisez Eulerian, l'intégration avec l'annonceur est native — pas de fichier à gérer.
+Si vous utilisez Eulerian, l'intégration avec l'annonceur est native : pas de fichier à gérer.
 
 Pour tout autre ESP ou DMP avec une API d'audience, transmettez la documentation de votre endpoint à l'annonceur.
 :::
@@ -128,7 +128,7 @@ Importez le fichier dans votre routeur **avant** de programmer l'envoi.
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Appliquer l'exclusion au moment du routage</h3>
-    <p>Dans les paramètres d'envoi, activez la liste d'exclusion pour cette campagne. Vérifiez que le volume d'envoi final tient bien compte des exclusions — si les chiffres ne bougent pas, l'exclusion n'a pas pris.</p>
+    <p>Dans les paramètres d'envoi, activez la liste d'exclusion pour cette campagne. Vérifiez que le volume d'envoi final tient bien compte des exclusions. Si les chiffres ne bougent pas, l'exclusion n'a pas pris.</p>
   </div>
 </div>
 
@@ -145,10 +145,10 @@ Importez le fichier dans votre routeur **avant** de programmer l'envoi.
 ## FAQ
 
 :::details Le fichier contient des emails hashés SHA-256, que faire ?
-La plupart des ESP modernes (Mailchimp, Brevo, Klaviyo, Mailjet…) acceptent les exclusions en SHA-256 — vérifiez dans la doc de votre routeur. Si ce n'est pas le cas, demandez à l'annonceur un fichier en clair via un canal sécurisé (SFTP).
+La plupart des ESP modernes (Mailchimp, Brevo, Klaviyo, Mailjet…) acceptent les exclusions en SHA-256 ; vérifiez dans la doc de votre routeur. Si ce n'est pas le cas, demandez à l'annonceur un fichier en clair via un canal sécurisé (SFTP).
 :::
 
-:::details L'annonceur veut envoyer la liste par email — que répondre ?
+:::details L'annonceur veut envoyer la liste par email : que répondre ?
 Refusez et redirigez vers cette page. Les adresses email sont des données personnelles : leur transmission via messagerie n'est pas conforme au RGPD.
 :::
 

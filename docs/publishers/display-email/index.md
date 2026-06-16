@@ -46,8 +46,8 @@ L'intégration est légère : un bloc HTML ou une image à insérer dans le gaba
 
 ## Bonnes pratiques
 
-- **Placez l'encart en cohérence avec votre contenu** — sous le corps principal de la newsletter, ou en pied d'email transactionnel, là où il ne gêne pas le message client.
-- **Gardez une fréquence raisonnable** — un encart par email suffit ; l'objectif est un revenu régulier, pas une saturation.
+- **Placez l'encart en cohérence avec votre contenu** : sous le corps principal de la newsletter, ou en pied d'email transactionnel, là où il ne gêne pas le message client.
+- **Gardez une fréquence raisonnable** : un encart par email suffit ; l'objectif est un revenu régulier, pas une saturation.
 - **Déclarez vos envois** pour déclencher la facturation (voir le guide d'intégration).
 
 <div class="gi-format-grid">

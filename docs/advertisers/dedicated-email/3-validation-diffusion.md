@@ -18,7 +18,7 @@ La création est terminée. Votre action est requise pour débloquer l'envoi.
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Configuration du tracking</h3>
-    <p>Cette étape est transparente pour vous. L'équipe getinside et le distributeur intègrent les pixels d'ouverture et les liens de redirection trackés. Vos liens restent dynamiques — vous pouvez modifier l'URL de destination à tout moment dans l'onglet <strong>"Configuration et Suivi"</strong>, même après validation.</p>
+    <p>Cette étape est transparente pour vous. L'équipe getinside et le distributeur intègrent les pixels d'ouverture et les liens de redirection trackés. Vos liens restent dynamiques : vous pouvez modifier l'URL de destination à tout moment dans l'onglet <strong>"Configuration et Suivi"</strong>, même après validation.</p>
   </div>
 </div>
 
@@ -33,7 +33,7 @@ La création est terminée. Votre action est requise pour débloquer l'envoi.
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Votre validation — action requise</h3>
+    <h3>Votre validation : action requise</h3>
     <p>Si la création vous convient, connectez-vous sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, ouvrez la campagne concernée et cliquez sur <strong>"Valider la campagne"</strong>. Tant que vous ne validez pas, la campagne reste bloquée.</p>
   </div>
 </div>

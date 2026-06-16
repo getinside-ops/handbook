@@ -80,7 +80,7 @@ Commissions become available in your Wallet **30 days after the effective paymen
 
 **For you (the referrer):**
 - Active account on the platform with the General Referral Terms accepted.
-- Up to date with your payments to getinside — commissions are suspended in case of an unpaid invoice until settled.
+- Up to date with your payments to getinside: commissions are suspended in case of an unpaid invoice until settled.
 
 ::: info For your referral
 - Registration exclusively via your unique invitation link.

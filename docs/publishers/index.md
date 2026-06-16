@@ -13,7 +13,7 @@ image: /images/gi-keyvisual.svg
 
 # Espace Retailers & E-commerçants
 
-Vos colis partent chaque semaine. Vos emails transactionnels s'ouvrent régulièrement. Ces actifs ont une valeur publicitaire que getinside vous permet de monétiser immédiatement — sans intégration technique lourde, avec un contrôle total sur les marques que vous acceptez. Vous décidez quels annonceurs accèdent à votre audience. La plateforme gère le reste.
+Vos colis partent chaque semaine. Vos emails transactionnels s'ouvrent régulièrement. Ces actifs ont une valeur publicitaire que getinside vous aide à monétiser immédiatement, sans intégration technique lourde, avec un contrôle total sur les marques que vous acceptez. Vous décidez quels annonceurs accèdent à votre audience. La plateforme gère le reste.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -22,7 +22,7 @@ Vos colis partent chaque semaine. Vos emails transactionnels s'ouvrent réguliè
   </div>
   <div class="gi-value-card">
     <strong>65–70%</strong>
-    <p>De marge nette sur vos revenus retail media — les actifs logistiques sont déjà en place.</p>
+    <p>De marge nette sur vos revenus retail media. Les actifs logistiques sont déjà en place.</p>
   </div>
   <div class="gi-value-card">
     <strong>300+ annonceurs</strong>
@@ -36,7 +36,7 @@ Vos colis partent chaque semaine. Vos emails transactionnels s'ouvrent réguliè
 
 ## Configuration & démarrage
 
-Votre onboarding suit trois phases : activation des formats, trade marketing avec vos annonceurs partenaires, puis accélération en autonomie. Le guide de démarrage couvre chaque étape — de la création de votre fiche distribueur à la gestion des revenus en temps réel.
+Votre onboarding suit trois phases : activation des formats, trade marketing avec vos annonceurs partenaires, puis accélération en autonomie. Le guide de démarrage couvre chaque étape, de la création de votre fiche distribueur à la gestion des revenus en temps réel.
 
 <div class="gi-nav-list">
   <a href="onboarding-process" class="gi-nav-card">
@@ -67,7 +67,7 @@ Votre onboarding suit trois phases : activation des formats, trade marketing ave
 
 ## Formats & opérations
 
-Cinq formats couvrent vos actifs existants : colis, emails transactionnels, newsletters et réseaux sociaux. Chaque format a ses propres règles opérationnelles — consultez les guides dédiés pour les détails de mise en œuvre.
+Cinq formats couvrent vos actifs existants : colis, emails transactionnels, newsletters et réseaux sociaux. Chaque format a ses propres règles opérationnelles ; consultez les guides dédiés pour les détails de mise en œuvre.
 
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
@@ -83,7 +83,7 @@ Cinq formats couvrent vos actifs existants : colis, emails transactionnels, news
   <a href="display-email/" class="gi-format-card">
     <span class="gi-format-card-icon">🖼️</span>
     <span class="gi-format-card-title">Encart Newsletter</span>
-    <p class="gi-format-card-desc">Revenu passif — zéro production. Intégration bannière en quelques minutes.</p>
+    <p class="gi-format-card-desc">Revenu passif : zéro production. Intégration bannière en quelques minutes.</p>
   </a>
   <a href="sponsored-social/" class="gi-format-card">
     <span class="gi-format-card-icon">📱</span>

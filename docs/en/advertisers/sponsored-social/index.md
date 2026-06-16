@@ -10,7 +10,7 @@ keywords:
 
 # Social Ads (Advertiser)
 
-Amplify your message through the social accounts of partner retailers — their audience already trusts them.
+Amplify your message through the social accounts of partner retailers. Their audience already trusts them.
 
 ::: tip For retailers
 Are you an e-retailer looking to earn from your social accounts? See the [Social Ads guide for retailers](/en/publishers/sponsored-social/).
@@ -20,8 +20,8 @@ Are you an e-retailer looking to earn from your social accounts? See the [Social
 
 getinside Social Ads works through two complementary mechanics:
 
-- **Partnership Ads** (Instagram & Facebook) — your ads are delivered from the partner retailer's account, not yours.
-- **Spark Ads** (TikTok) — your content is boosted from the retailer's TikTok account, carrying their audience and credibility.
+- **Partnership Ads** (Instagram & Facebook): your ads are delivered from the partner retailer's account, not yours.
+- **Spark Ads** (TikTok): your content is boosted from the retailer's TikTok account, carrying their audience and credibility.
 
 The difference from standard social advertising: you don't appear as an unknown brand in a feed. You are introduced by an e-retailer the consumer already knows and follows. Your message inherits the trust built between the retailer and their audience.
 
@@ -30,7 +30,7 @@ The difference from standard social advertising: you don't appear as an unknown 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Brand awareness</strong>
-    <p>Introduce your brand to a qualified, engaged audience — without cold ad targeting.</p>
+    <p>Introduce your brand to a qualified, engaged audience, without cold ad targeting.</p>
   </div>
   <div class="gi-value-card">
     <strong>Drive-to-site</strong>

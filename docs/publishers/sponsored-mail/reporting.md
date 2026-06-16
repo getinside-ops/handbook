@@ -12,7 +12,7 @@ keywords:
 
 Le reporting hebdomadaire est obligatoire pour assurer le suivi des stocks et déclencher votre facturation.
 
-::: warning Obligation hebdomadaire — Lundi ou Mardi
+::: warning Obligation hebdomadaire : Lundi ou Mardi
 Chaque début de semaine, déclarez le volume exact d'insertions distribuées la semaine précédente. Cette déclaration conditionne directement votre paiement.
 :::
 
@@ -54,8 +54,8 @@ Chaque début de semaine, déclarez le volume exact d'insertions distribuées la
 
 Deux cas de figure conduisent à la clôture :
 
-- **Stock épuisé** — Vous avez distribué l'intégralité des supports reçus. La campagne s'arrête naturellement.
-- **Objectif atteint (Capped)** — Le volume commandé est atteint. Clôturez la campagne même s'il reste du stock, sauf instruction contraire pour écouler le reliquat.
+- **Stock épuisé** : vous avez distribué l'intégralité des supports reçus. La campagne s'arrête naturellement.
+- **Objectif atteint (Capped)** : le volume commandé est atteint. Clôturez la campagne même s'il reste du stock, sauf instruction contraire pour écouler le reliquat.
 
 <div class="gi-step">
   <div class="gi-step-num done">✓</div>
@@ -66,5 +66,5 @@ Deux cas de figure conduisent à la clôture :
 </div>
 
 ::: tip Déclenchement du paiement
-La clôture de campagne valide la prestation et déclenche le crédit de votre revenu sur le Wallet — disponible 30 jours après la fin de campagne.
+La clôture de campagne valide la prestation et déclenche le crédit de votre revenu sur le Wallet, disponible 30 jours après la fin de campagne.
 :::

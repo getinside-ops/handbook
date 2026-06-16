@@ -52,7 +52,7 @@ Definitions of technical terms and acronyms used on the platform.
 <h2 id="b">B</h2>
 <dl>
   <dt>BAT (Bon à Tirer) / Proof</dt>
-  <dd>Final validation of the digital mock-up before production or broadcast is launched — no modifications are possible after validation.</dd>
+  <dd>Final validation of the digital mock-up before production or broadcast is launched: no modifications are possible after validation.</dd>
   <dt>Brief</dt>
   <dd>Document completed by the advertiser detailing their objectives and providing the graphic elements needed to create the campaign.</dd>
 </dl>
@@ -106,7 +106,7 @@ Definitions of technical terms and acronyms used on the platform.
 <h2 id="f">F</h2>
 <dl>
   <dt>First Party Data</dt>
-  <dd>Behavioural data collected directly by the distributor — getinside acts as Trusted Third Party and this data never leaves the distributor's secure environment.</dd>
+  <dd>Behavioural data collected directly by the distributor. getinside acts as Trusted Third Party and this data never leaves the distributor's secure environment.</dd>
   <dt>FOGRA39</dt>
   <dd>Standard colour profile mandatory for offset printing in Europe.</dd>
   <dt>Annual Forecast</dt>
@@ -120,7 +120,7 @@ Definitions of technical terms and acronyms used on the platform.
 <h2 id="l">L</h2>
 <dl>
   <dt>Landing Page</dt>
-  <dd>Web page to which the user is redirected after interacting with the offer — its creation is the advertiser's sole responsibility.</dd>
+  <dd>Web page to which the user is redirected after interacting with the offer. Its creation is the advertiser's sole responsibility.</dd>
   <dt>Lead Time (Ingestion Delay)</dt>
   <dd>Unavoidable logistical delay between receipt of materials at the warehouse and their actual insertion into parcels.</dd>
 </dl>
@@ -132,7 +132,7 @@ Definitions of technical terms and acronyms used on the platform.
   <dt>Omnichannel (Omnicanal)</dt>
   <dd>Approach that coordinates several touchpoints (parcel, email, social media) within a single campaign to support the buyer across the whole journey. See Full-funnel.</dd>
   <dt>Opt-in</dt>
-  <dd>Explicit consent of a user to receive commercial communications — mandatory for Dedicated Email and Display Email.</dd>
+  <dd>Explicit consent of a user to receive commercial communications, mandatory for Dedicated Email and Display Email.</dd>
 </dl>
 
 <hr />
@@ -142,7 +142,7 @@ Definitions of technical terms and acronyms used on the platform.
   <dt>Partnership Ads</dt>
   <dd>Meta advertising format allowing an advertiser to sponsor a post published from a distributor's account, with endorsement effect.</dd>
   <dt>Lamination (Pelliculage)</dt>
-  <dd>Matte or glossy plastic coating applied to a paper material — prohibited at getinside to guarantee full recyclability of flyers.</dd>
+  <dd>Matte or glossy plastic coating applied to a paper material, prohibited at getinside to guarantee full recyclability of flyers.</dd>
 </dl>
 
 <hr />
@@ -178,7 +178,7 @@ Definitions of technical terms and acronyms used on the platform.
   <dt>Smart Matching</dt>
   <dd>Algorithm connecting advertisers and audiences, incorporating the Trust Index (relationship history between parties).</dd>
   <dt>Spark Ads</dt>
-  <dd>TikTok equivalent of Partnership Ads — format for promoting a distributor's organic content from their account.</dd>
+  <dd>TikTok equivalent of Partnership Ads: format for promoting a distributor's organic content from their account.</dd>
   <dt>Studio Fee</dt>
   <dd>Flat rate of 550€ HT for any graphic design service (print, email, social) carried out by the getinside Studio.</dd>
 </dl>

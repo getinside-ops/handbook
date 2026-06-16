@@ -34,7 +34,7 @@ Outils, fichiers, inspirations et guides pour gérer vos opérations en autonomi
     <span class="gi-nav-card-icon">🎨</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Studio Créatif</p>
-      <p class="gi-nav-card-desc">Déléguez la production graphique à nos experts — forfait 550€ HT par campagne.</p>
+      <p class="gi-nav-card-desc">Déléguez la production graphique à nos experts, forfait 550€ HT par campagne.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

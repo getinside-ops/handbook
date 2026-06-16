@@ -24,7 +24,7 @@ Toute campagne Email Dédié démarre par la soumission du brief via le formulai
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>L'offre</h3>
-    <p>Formulez une promesse claire et incitative : <em>"20€ offerts dès 100€ d'achat"</em>. Précisez la durée de validité — minimum 3 mois recommandé. Privilégiez une valeur monétaire à un pourcentage : <em>"20€ offerts"</em> convertit mieux que <em>"-20%"</em>, car le bénéfice est immédiatement lisible. Souvenez-vous : le destinataire n'avait pas prévu d'acheter chez vous, c'est la générosité de l'offre qui déclenche le passage à l'acte.</p>
+    <p>Formulez une promesse claire et incitative : <em>"20€ offerts dès 100€ d'achat"</em>. Précisez la durée de validité, minimum 3 mois recommandé. Privilégiez une valeur monétaire à un pourcentage : <em>"20€ offerts"</em> convertit mieux que <em>"-20%"</em>, car le bénéfice est immédiatement lisible. Souvenez-vous : le destinataire n'avait pas prévu d'acheter chez vous, c'est la générosité de l'offre qui déclenche le passage à l'acte.</p>
   </div>
 </div>
 
@@ -48,12 +48,12 @@ Toute campagne Email Dédié démarre par la soumission du brief via le formulai
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Les liens de destination</h3>
-    <p>URLs des landing pages vers lesquelles rediriger le trafic. Ces liens sont dynamiques — vous pouvez les modifier à tout moment depuis l'onglet <strong>"Configuration et Suivi"</strong>, même après le lancement.</p>
+    <p>URLs des landing pages vers lesquelles rediriger le trafic. Ces liens sont dynamiques : vous pouvez les modifier à tout moment depuis l'onglet <strong>"Configuration et Suivi"</strong>, même après le lancement.</p>
   </div>
 </div>
 
 ::: tip Laissez le distributeur adapter votre univers
-Ne cherchez pas à imposer une charte graphique stricte. Le distributeur connaît sa communauté — il adapte vos visuels à son ton pour maximiser l'engagement. Un email 100% à vos couleurs, sans mention du partenaire, augmente les désabonnements et fait chuter la performance.
+Ne cherchez pas à imposer une charte graphique stricte. Le distributeur connaît sa communauté : il adapte vos visuels à son ton pour maximiser l'engagement. Un email 100% à vos couleurs, sans mention du partenaire, augmente les désabonnements et fait chuter la performance.
 :::
 
 ## Et ensuite ?

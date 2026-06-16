@@ -27,10 +27,10 @@ Don't just wait for campaigns: take control of your ad network, activate your ex
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Logistics configuration</h3>
-    <p>Define your logistics constraints before creating your audiences — the algorithm needs them to work correctly.</p>
+    <p>Define your logistics constraints before creating your audiences. The algorithm needs them to work correctly.</p>
     <ul>
-      <li><strong>Warehouse address</strong> — Delivery location for physical materials (flyers, samples).</li>
-      <li><strong>Lead Time (ingestion delay)</strong> — The fixed minimum time between pallet receipt and the start of insertion. Automatically taken into account by the algorithm to synchronise deliveries.</li>
+      <li><strong>Warehouse address:</strong> Delivery location for physical materials (flyers, samples).</li>
+      <li><strong>Lead Time (ingestion delay):</strong> The fixed minimum time between pallet receipt and the start of insertion. Automatically taken into account by the algorithm to synchronise deliveries.</li>
     </ul>
   </div>
 </div>
@@ -40,7 +40,7 @@ Don't just wait for campaigns: take control of your ad network, activate your ex
   <div class="gi-step-body">
     <h3>Creating audiences</h3>
     <p>In the <strong>Monetisation</strong> tab, create your audience profiles: average order value, B2B/B2C typology, persona profile, visuals (logo, banner). A complete profile improves your <strong>Retailer Score</strong> (out of 5 stars) and your visibility on the marketplace.</p>
-    <a href="audience-setup" class="btn btn-outline">Detailed guide — Audience Profile & Score →</a>
+    <a href="audience-setup" class="btn btn-outline">Detailed guide: Audience Profile & Score →</a>
   </div>
 </div>
 
@@ -86,7 +86,7 @@ Don't just wait for campaigns: take control of your ad network, activate your ex
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Reception & Negotiation</h3>
-    <p>When a campaign is proposed, all your users receive a notification. Respond within <strong>48 business hours</strong> — silence counts as a tacit refusal and incurs a penalty equal to the lost commission.</p>
+    <p>When a campaign is proposed, all your users receive a notification. Respond within <strong>48 business hours</strong>. Silence counts as a tacit refusal and incurs a penalty equal to the lost commission.</p>
     <p>Don't refuse: negotiate. The integrated chat lets you discuss pricing, propose alternative dates, or adjust volume. The acceptance probability bar guides the advertiser in real time.</p>
   </div>
 </div>
@@ -147,4 +147,4 @@ getinside acts as a **Trusted Third Party** and contractually guarantees: no dir
 
 ### Retailer veto right
 
-You may refuse a campaign for **ethical, competitive, legal, or brand image reasons**. You may not refuse based on art direction (if technical specifications are met) or subjective preferences — in those cases, negotiate pricing or dates instead.
+You may refuse a campaign for **ethical, competitive, legal, or brand image reasons**. You may not refuse based on art direction (if technical specifications are met) or subjective preferences. In those cases, negotiate pricing or dates instead.

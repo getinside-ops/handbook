@@ -29,7 +29,7 @@ Tout fichier contenant des adresses (même hashées) doit passer par un protocol
 
 ## Transmettre le fichier
 
-La méthode recommandée est le dépôt SFTP avec **FileZilla** ([Télécharger FileZilla](https://filezilla-project.org/){target="_blank"} — gratuit, Windows / macOS / Linux).
+La méthode recommandée est le dépôt SFTP avec **FileZilla** ([Télécharger FileZilla](https://filezilla-project.org/){target="_blank"}, gratuit, Windows / macOS / Linux).
 
 Le retailer vous communique les informations de connexion SFTP :
 
@@ -41,13 +41,13 @@ Le retailer vous communique les informations de connexion SFTP :
 | Login | Identifiant SFTP |
 | Mot de passe | Transmis hors messagerie |
 
-**Format du fichier :** CSV, encodage UTF-8, header `email_sha256` ou `email`, nom `exclusion_YYYYMMDD.csv`. Préférez les emails hashés SHA-256 — le retailer peut exclure les adresses sans les voir en clair.
+**Format du fichier :** CSV, encodage UTF-8, header `email_sha256` ou `email`, nom `exclusion_YYYYMMDD.csv`. Préférez les emails hashés SHA-256 : le retailer peut exclure les adresses sans les voir en clair.
 
 :::details Mon infrastructure est différente (SFTP clé SSH, S3, Azure, GCP, API…)
 
 **SFTP avec clé SSH**
 
-Option plus sécurisée, sans mot de passe. Générez une paire de clés et transmettez votre clé publique au retailer — FileZilla supporte aussi cette méthode.
+Option plus sécurisée, sans mot de passe. Générez une paire de clés et transmettez votre clé publique au retailer. FileZilla supporte aussi cette méthode.
 
 ```bash
 ssh-keygen -t ed25519 -C "exclusion-list@votredomaine.com"
@@ -91,7 +91,7 @@ Générez un SAS Token restreint à l'opération `Write`, valable 48h.
 
 **API / Endpoint (Eulerian ou autre)**
 
-Si vous utilisez Eulerian, signalez-le au retailer — l'intégration est native, pas de fichier à transmettre.
+Si vous utilisez Eulerian, signalez-le au retailer : l'intégration est native, pas de fichier à transmettre.
 
 Pour tout autre ESP ou DMP, partagez la documentation de votre endpoint et les accès nécessaires.
 

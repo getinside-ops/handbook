@@ -22,7 +22,7 @@ Le consommateur ne lit pas votre flyer, il le balaie. Son œil suit un **parcour
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Accroche — le bénéfice d'abord</h3>
+    <h3>Accroche : le bénéfice d'abord</h3>
     <p>La première ligne répond à « qu'est-ce que j'y gagne ? ». Pas votre nom de marque, pas votre slogan. « Votre routine beauté offerte dans ce colis » avant « Découvrez [Marque] ».</p>
   </div>
 </div>
@@ -30,7 +30,7 @@ Le consommateur ne lit pas votre flyer, il le balaie. Son œil suit un **parcour
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Promesse — ce que contient l'offre</h3>
+    <h3>Promesse : ce que contient l'offre</h3>
     <p>Précisez la valeur concrète : « 10 € offerts sur votre première commande », pas « des avantages exclusifs ».</p>
   </div>
 </div>
@@ -38,7 +38,7 @@ Le consommateur ne lit pas votre flyer, il le balaie. Son œil suit un **parcour
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Preuve — la réassurance</h3>
+    <h3>Preuve : la réassurance</h3>
     <p>Un élément qui lève le doute : une note clients, un chiffre, une garantie, le nom du distributeur partenaire. Une seule ligne suffit.</p>
   </div>
 </div>
@@ -46,7 +46,7 @@ Le consommateur ne lit pas votre flyer, il le balaie. Son œil suit un **parcour
 <div class="gi-step">
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
-    <h3>Offre — les conditions clés</h3>
+    <h3>Offre : les conditions clés</h3>
     <p>Code promo, montant, durée de validité. Voir <a href="./">L'Offre</a> pour la stratégie et <a href="./legal">les mentions légales</a> pour les obligations.</p>
   </div>
 </div>
@@ -54,13 +54,13 @@ Le consommateur ne lit pas votre flyer, il le balaie. Son œil suit un **parcour
 <div class="gi-step">
   <div class="gi-step-num done">5</div>
   <div class="gi-step-body">
-    <h3>Appel à l'action — une seule</h3>
+    <h3>Appel à l'action : une seule</h3>
     <p>Le QR code et son instruction, en bas droite, au bout du parcours de lecture. Une action dominante, jamais deux qui se concurrencent.</p>
   </div>
 </div>
 
 :::tip Budget de mots
-Visez la concision : le message essentiel doit tenir dans les **60 % supérieurs** du flyer et se comprendre en un coup d'œil. Chaque mot en trop ralentit le balayage. Si vous hésitez à couper une phrase, coupez-la.
+Visez la concision : le message clé doit tenir dans les **60 % supérieurs** du flyer et se comprendre en un coup d'œil. Chaque mot en trop ralentit le balayage. Si vous hésitez à couper une phrase, coupez-la.
 :::
 
 ---
@@ -71,11 +71,11 @@ Un flyer a deux faces : servez-vous-en pour séparer la séduction de l'informat
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>Recto — convaincre</strong>
+    <strong>Recto : convaincre</strong>
     <p>Accroche bénéfice · visuel fort · offre · QR code + instruction. C'est la face qui déclenche le scan.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Verso — rassurer & informer</strong>
+    <strong>Verso : rassurer & informer</strong>
     <p>Détail de l'offre · conditions (CGV) · <a href="./legal">mentions légales obligatoires</a> · logos environnementaux. Tout ce qui doit figurer sans encombrer le recto.</p>
   </div>
 </div>
@@ -91,7 +91,7 @@ Le scan est l'action principale : ne renvoyez jamais le QR code au verso. Le lec
 Avant de soumettre votre BAT, posez le flyer à bout de bras et vérifiez :
 
 - L'**accroche** est lisible sans effort, à distance de lecture normale.
-- Un **seul point focal** capte l'œil — pas trois éléments qui se disputent l'attention.
+- Un **seul point focal** capte l'œil, pas trois éléments qui se disputent l'attention.
 - Le **contraste** texte / fond est fort (évitez le texte clair sur photo).
 - L'**action** à réaliser est évidente : on sait quoi scanner et pourquoi.
 
@@ -106,7 +106,7 @@ Le scan n'est qu'une moitié du parcours. La page qui s'affiche décide de la co
 | Critère | Règle |
 | :--- | :--- |
 | **Cohérence** | La page **reflète exactement l'offre du flyer**. Le flyer promet « 10 € offerts » → la page affiche « 10 € offerts » immédiatement, pas après un pop-up. |
-| **Destination** | Une page dédiée à la campagne — **jamais la page d'accueil**. Chaque clic superflu entre le scan et l'offre fait chuter la conversion. |
+| **Destination** | Une page dédiée à la campagne, **jamais la page d'accueil**. Chaque clic superflu entre le scan et l'offre fait chuter la conversion. |
 | **Une seule action** | Un objectif, un bouton. On retire tout ce qui distrait. |
 | **Vitesse & mobile** | 100 % responsive, chargement **< 3 secondes** même en 3G. Le scan se fait toujours sur smartphone. |
 
@@ -122,7 +122,7 @@ Si la landing page collecte des données (jeu-concours, formulaire, inscription 
 
 ## Mesure & itération
 
-Chaque campagne doit rendre la suivante meilleure. Le dispositif de suivi est déjà dans le flyer — exploitez-le.
+Chaque campagne doit rendre la suivante meilleure. Le dispositif de suivi est déjà dans le flyer : exploitez-le.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -131,7 +131,7 @@ Chaque campagne doit rendre la suivante meilleure. Le dispositif de suivi est d�
   </div>
   <div class="gi-value-card">
     <strong>Tester une seule variable</strong>
-    <p>Changez l'accroche, OU l'offre, OU la landing page — jamais les trois à la fois. Sinon vous ne saurez jamais ce qui a fait la différence.</p>
+    <p>Changez l'accroche, OU l'offre, OU la landing page, jamais les trois à la fois. Sinon vous ne saurez jamais ce qui a fait la différence.</p>
   </div>
   <div class="gi-value-card">
     <strong>Suivre la bonne boucle</strong>
@@ -144,5 +144,5 @@ Chaque campagne doit rendre la suivante meilleure. Le dispositif de suivi est d�
 </div>
 
 :::tip Un repère réaliste
-Sur le réseau getinside, le CTR moyen d'une insertion colis est de **2,87 %** (contre 0,90 % sur Meta). Servez-vous-en comme plancher, puis faites progresser vos propres campagnes par itérations successives.
+Sur le réseau getinside, le CTR moyen d'une insertion colis est de **2,87 %**. Servez-vous-en comme plancher, puis faites progresser vos propres campagnes par itérations successives.
 :::

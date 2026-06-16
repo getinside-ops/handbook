@@ -27,7 +27,7 @@ The Score is a **5-star rating** recalculated dynamically in real time from **7 
     <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Standard visibility. You receive offers regularly. Improvements are possible.</p>
   </div>
   <div class="gi-value-card" style="border-color: var(--gi-tint-green-text); background: var(--gi-tint-green-bg);">
-    <strong style="color: var(--gi-tint-green-text);">Above 4/5 — "Top Retailer" status</strong>
+    <strong style="color: var(--gi-tint-green-text);">Above 4/5: "Top Retailer" status</strong>
     <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Your audiences appear at the top of results. You receive the most qualified and best-paying campaigns first.</p>
   </div>
 </div>
@@ -61,7 +61,7 @@ The Score is a **5-star rating** recalculated dynamically in real time from **7 
   </div>
   <div class="gi-value-card" style="border-color: var(--vp-c-brand-1);">
     <strong>Optimise audience engagement</strong>
-    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Accept campaigns that match your audience — scan rates impact the score.</p>
+    <p style="margin: 0.5rem 0 0; font-size: 0.875rem;">Accept campaigns that match your audience. Scan rates impact the score.</p>
   </div>
 </div>
 
@@ -69,10 +69,10 @@ The Score is a **5-star rating** recalculated dynamically in real time from **7 
 
 A score of 4.5/5 or higher has a direct impact on your audience profitability:
 
-1. **Priority ranking** — You appear at the top of advertiser search results.
-2. **Premium brand trust** — High-budget advertisers favour profiles with the best reliability track records.
-3. **Maximum occupancy** — More visible = more proposals = fewer gaps without campaigns.
-4. **Negotiation leverage** — An impeccable history justifies CPMs in the upper range of your sector.
+1. **Priority ranking:** You appear at the top of advertiser search results.
+2. **Premium brand trust:** High-budget advertisers favour profiles with the best reliability track records.
+3. **Maximum occupancy:** More visible = more proposals = fewer gaps without campaigns.
+4. **Negotiation strength:** An impeccable history justifies CPMs in the upper range of your sector.
 
 ## Where to find your score?
 
@@ -82,7 +82,7 @@ There you will find your current rating, a criterion-by-criterion breakdown, and
 
 ## Frequently asked questions
 
-**My score dropped for no apparent reason — why?**
+**My score dropped for no apparent reason. Why?**
 The score is dynamic. Common causes: late volume declaration, poor campaign performance, or a CPM that has moved outside the market range.
 
 **Can a bad score affect my ongoing campaigns?**

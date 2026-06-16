@@ -11,7 +11,7 @@ keywords:
 
 # Selling Bundles
 
-A Bundle means packaging several of your advertising inventories — Sponsored Mail, email, social, banners — into a single flat-fee offer. You monetise spaces that are hard to sell alone by pairing them with your best inventory, and you increase your average revenue per campaign.
+A Bundle means packaging several of your advertising inventories (Sponsored Mail, email, social, banners) into a single flat-fee offer. You monetise spaces that are hard to sell alone by pairing them with your best inventory, and you increase your average revenue per campaign.
 
 ::: tip For advertisers
 Are you a brand looking to run a multi-channel Bundle? See the [Bundles & Media Kits guide](/en/advertisers/bundles).
@@ -38,7 +38,7 @@ Browse a selection of Bundles offered by our retailers.
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Define your standard pack</h3>
-    <p>Select the inventories to include (Sponsored Mail, Dedicated Email, social post, homepage banner) and set a global flat fee. Example: "Back-to-School Visibility Pack — €10,000 per month".</p>
+    <p>Select the inventories to include (Sponsored Mail, Dedicated Email, social post, homepage banner) and set a global flat fee. Example: "Back-to-School Visibility Pack: €10,000 per month".</p>
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Browse a selection of Bundles offered by our retailers.
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Transfer leads and close</h3>
-    <p>At the end of the campaign, export the list of participants who checked the partner opt-in and transmit it to the advertiser via getinside. The advertiser sends prizes to winners — not you.</p>
+    <p>At the end of the campaign, export the list of participants who checked the partner opt-in and transmit it to the advertiser via getinside. The advertiser sends prizes to winners, not you.</p>
   </div>
 </div>
 
@@ -96,7 +96,7 @@ Only participants who check this box are billed to the advertiser. GDPR complian
 | Social + Banner | €3,000 | |
 | **Total flat fee** | | **€10,000** |
 
-The flat fee price integrates your added value (setup, brand image, animation) beyond simple impression volume. Advertisers may negotiate the pack content — the platform lets you adjust the final price at validation.
+The flat fee price integrates your added value (setup, brand image, animation) beyond simple impression volume. Advertisers may negotiate the pack content: the platform lets you adjust the final price at validation.
 
 ## Getting started
 

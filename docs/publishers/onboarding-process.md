@@ -27,10 +27,10 @@ Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre r�
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Configuration logistique</h3>
-    <p>Définissez vos contraintes logistiques avant de créer vos audiences — l'algorithme en a besoin pour fonctionner correctement.</p>
+    <p>Définissez vos contraintes logistiques avant de créer vos audiences, car l'algorithme en a besoin pour fonctionner correctement.</p>
     <ul>
-      <li><strong>Adresse de l'entrepôt</strong> — Lieu de livraison des supports physiques (flyers, échantillons).</li>
-      <li><strong>Lead Time (délai d'ingestion)</strong> — Délai incompressible entre la réception des palettes et le début de l'insertion. Pris en compte automatiquement par l'algorithme pour synchroniser les livraisons.</li>
+      <li><strong>Adresse de l'entrepôt</strong> : lieu de livraison des supports physiques (flyers, échantillons).</li>
+      <li><strong>Lead Time (délai d'ingestion)</strong> : délai incompressible entre la réception des palettes et le début de l'insertion. Pris en compte automatiquement par l'algorithme pour synchroniser les livraisons.</li>
     </ul>
   </div>
 </div>
@@ -40,7 +40,7 @@ Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre r�
   <div class="gi-step-body">
     <h3>Création des audiences</h3>
     <p>Dans l'onglet <strong>Monétisation</strong>, créez vos fiches audience : panier moyen, typologie B2B/B2C, profil du persona, visuels (logo, bannière). Une fiche complète améliore votre <strong>Score Distributeur</strong> (sur 5 étoiles) et votre visibilité sur la marketplace.</p>
-    <a href="audience-setup" class="btn btn-outline">Guide détaillé — Fiche Audience & Score →</a>
+    <a href="audience-setup" class="btn btn-outline">Guide détaillé : Fiche Audience & Score →</a>
   </div>
 </div>
 
@@ -86,8 +86,8 @@ Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre r�
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Réception & Négociation</h3>
-    <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification. Répondez dans les <strong>48 heures ouvrées</strong> — le silence vaut refus tacite et entraîne une pénalité égale à la commission perdue.</p>
-    <p>Ne refusez pas : négociez. Le chat intégré permet de discuter le prix, proposer d'autres dates ou ajuster le volume. La barre de probabilité d'acceptation guide l'annonceur en temps réel.</p>
+    <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification. Répondez dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité égale à la commission perdue.</p>
+    <p>Ne refusez pas : négociez. Le chat intégré sert à discuter le prix, proposer d'autres dates ou ajuster le volume. La barre de probabilité d'acceptation guide l'annonceur en temps réel.</p>
   </div>
 </div>
 
@@ -147,4 +147,4 @@ getinside agit comme un **Tiers de Confiance** et garantit contractuellement : a
 
 ### Droit de veto distributeur
 
-Vous pouvez refuser une campagne pour des **raisons éthiques, de concurrence, de légalité ou d'image de marque**. Vous ne pouvez pas refuser pour des raisons de direction artistique (si les spécifications techniques sont respectées) ou de préférences subjectives — dans ce cas, négociez plutôt le prix ou les dates.
+Vous pouvez refuser une campagne pour des **raisons éthiques, de concurrence, de légalité ou d'image de marque**. Vous ne pouvez pas refuser pour des raisons de direction artistique (si les spécifications techniques sont respectées) ou de préférences subjectives. Dans ce cas, négociez plutôt le prix ou les dates.

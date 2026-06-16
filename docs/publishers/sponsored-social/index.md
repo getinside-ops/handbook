@@ -10,7 +10,7 @@ keywords:
 
 # Social Ads (Éditeur)
 
-Générez des revenus incrémentiels en accordant à des annonceurs sélectionnés le droit de booster vos publications — sans impacter votre ligne éditoriale.
+Générez des revenus incrémentiels en accordant à des annonceurs sélectionnés le droit de booster vos publications, sans impacter votre ligne éditoriale.
 
 ::: tip Revenu garanti
 Votre rémunération est créditée sur votre Wallet getinside dès la fin de la campagne. L'annonceur investit son propre budget média sur votre contenu.
@@ -55,7 +55,7 @@ getinside gère l'intégralité de la campagne de votre côté : sélection de l
 | Accorder les droits de boost | Sélection et coordination de l'annonceur |
 | Valider la création avant diffusion | Production créative et copywriting |
 | Valider la campagne dans la plateforme | Ciblage, paramétrage et pilotage |
-| — | Suivi et reporting |
+|  | Suivi et reporting |
 
 ## Éligibilité
 

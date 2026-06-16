@@ -12,9 +12,9 @@ keywords:
 
 getinside off-site retail media is built on **closed-loop attribution**: the QR code scan and the unique-per-distributor promo code tie each sale back to the campaign that generated it, with no third-party cookies. This guide shows how to complete that loop with your own tracking, following the buyer from first contact to conversion.
 
-The getinside platform counts clicks and scans. To measure what happens **after** — visits, add-to-carts, conversions — you need to set up your own tracking layer.
+The getinside platform counts clicks and scans. To measure what happens **after** (visits, add-to-carts, conversions), you need to set up your own tracking layer.
 
-## Why your own tracking is essential
+## Why your own tracking is important
 
 getinside tracks scan volume (QR code) and clicks (email, banner). These figures are available in your dashboard. But they stop at the entry point to your site. To measure the rest, you need UTM parameters in your destination URLs.
 
@@ -58,7 +58,7 @@ https://mysite.com/summer-offer?utm_source=getinside&utm_medium=sponsored-mail&u
 The QR code on your flyer must point to a **dynamic URL** (changeable after printing). This lets you fix a URL error or update the landing page without reprinting.
 
 ::: warning Static URL = risk
-A URL hard-coded in the QR code cannot be changed after printing. Always use a redirect system — getinside's QR service handles this automatically. Confirm with your account manager.
+A URL hard-coded in the QR code cannot be changed after printing. Always use a redirect system. getinside's QR service handles this automatically. Confirm with your account manager.
 :::
 
 ## Verify your tracking is working

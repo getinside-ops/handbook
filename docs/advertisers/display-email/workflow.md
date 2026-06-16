@@ -20,8 +20,8 @@ Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumi
     <h3>Envoi des éléments créatifs</h3>
     <p>Transmettez au distributeur (via la plateforme getinside) :</p>
     <ul>
-      <li><strong>Le visuel</strong> — une image JPG, PNG ou GIF respectant les <a href="./specs">spécifications techniques</a>.</li>
-      <li><strong>Le lien de destination</strong> — l'URL de la landing page vers laquelle rediriger les clics.</li>
+      <li><strong>Le visuel</strong> : une image JPG, PNG ou GIF respectant les <a href="./specs">spécifications techniques</a>.</li>
+      <li><strong>Le lien de destination</strong> : l'URL de la landing page vers laquelle rediriger les clics.</li>
     </ul>
   </div>
 </div>
@@ -39,7 +39,7 @@ Le déploiement d'un encart newsletter est rapide. Voici les étapes de la soumi
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Intégration et Validation (BAT)</h3>
-    <p>Le distributeur intègre votre image dans sa newsletter et vous envoie un BAT (Bon à Tirer) pour prévisualisation. Vérifiez le rendu — notamment sur mobile — puis validez sur la plateforme.</p>
+    <p>Le distributeur intègre votre image dans sa newsletter et vous envoie un BAT (Bon à Tirer) pour prévisualisation. Vérifiez le rendu, notamment sur mobile, puis validez sur la plateforme.</p>
   </div>
 </div>
 

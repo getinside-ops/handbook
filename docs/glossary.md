@@ -52,7 +52,7 @@ Définitions des termes techniques et acronymes de la plateforme.
 <h2 id="b">B</h2>
 <dl>
   <dt>BAT (Bon à Tirer)</dt>
-  <dd>Validation finale de la maquette numérique avant le lancement de la production ou de la diffusion — aucune modification n'est possible après validation.</dd>
+  <dd>Validation finale de la maquette numérique avant le lancement de la production ou de la diffusion. Aucune modification n'est possible après validation.</dd>
   <dt>Brief</dt>
   <dd>Document rempli par l'annonceur détaillant ses objectifs et fournissant les éléments graphiques nécessaires à la création de la campagne.</dd>
 </dl>
@@ -106,7 +106,7 @@ Définitions des termes techniques et acronymes de la plateforme.
 <h2 id="f">F</h2>
 <dl>
   <dt>First Party Data</dt>
-  <dd>Données comportementales collectées en propre par le distributeur — getinside agit comme Tiers de Confiance et ces données ne quittent jamais l'environnement sécurisé du distributeur.</dd>
+  <dd>Données comportementales collectées en propre par le distributeur. getinside agit comme Tiers de Confiance et ces données ne quittent jamais l'environnement sécurisé du distributeur.</dd>
   <dt>FOGRA39</dt>
   <dd>Profil colorimétrique standard obligatoire pour l'impression offset en Europe.</dd>
   <dt>Forecast Annuel</dt>
@@ -120,7 +120,7 @@ Définitions des termes techniques et acronymes de la plateforme.
 <h2 id="l">L</h2>
 <dl>
   <dt>Landing Page</dt>
-  <dd>Page web vers laquelle l'utilisateur est redirigé après avoir interagi avec l'offre — sa création est à la charge exclusive de l'annonceur.</dd>
+  <dd>Page web vers laquelle l'utilisateur est redirigé après avoir interagi avec l'offre, à la charge exclusive de l'annonceur.</dd>
   <dt>Lead Time (Délai d'ingestion)</dt>
   <dd>Délai logistique incompressible entre la réception des supports à l'entrepôt et leur insertion effective dans les colis.</dd>
 </dl>
@@ -132,7 +132,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Omnicanal (Omnichannel)</dt>
   <dd>Approche qui coordonne plusieurs points de contact (colis, email, réseaux sociaux) au sein d'une même campagne pour accompagner l'acheteur sur tout son parcours. Voir Full-funnel.</dd>
   <dt>Opt-in</dt>
-  <dd>Consentement explicite d'un internaute à recevoir des communications commerciales — obligatoire pour l'Email Dédié et le Display Email.</dd>
+  <dd>Consentement explicite d'un internaute à recevoir des communications commerciales, obligatoire pour l'Email Dédié et le Display Email.</dd>
 </dl>
 
 <hr />
@@ -142,7 +142,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Partnership Ads</dt>
   <dd>Format publicitaire Meta permettant à un annonceur de sponsoriser un post publié depuis le compte d'un distributeur, avec effet d'endorsement.</dd>
   <dt>Pelliculage (Lamination)</dt>
-  <dd>Couche de plastique mate ou brillante appliquée sur un support papier — interdit chez getinside pour garantir la recyclabilité intégrale des flyers.</dd>
+  <dd>Couche de plastique mate ou brillante appliquée sur un support papier, interdit chez getinside pour garantir la recyclabilité intégrale des flyers.</dd>
 </dl>
 
 <hr />
@@ -178,7 +178,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Smart Matching</dt>
   <dd>Algorithme de mise en relation annonceurs/audiences intégrant le Trust Index (historique de relation entre les parties).</dd>
   <dt>Spark Ads</dt>
-  <dd>Équivalent des Partnership Ads sur TikTok — format de promotion de contenus organiques d'un distributeur depuis son compte.</dd>
+  <dd>Équivalent des Partnership Ads sur TikTok : format de promotion de contenus organiques d'un distributeur depuis son compte.</dd>
   <dt>Studio Fee</dt>
   <dd>Tarif forfaitaire de 550€ HT pour toute prestation de création graphique (print, email, social) réalisée par le Studio getinside.</dd>
 </dl>

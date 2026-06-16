@@ -71,7 +71,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Jusqu'à 20% de CTR</strong>
-    <p>Les formats gamifiés (jeu-concours, roue de la fortune, quiz) atteignent jusqu'à 20% de taux de clic — contre 2,87% en moyenne réseau pour l'insertion colis standard.</p>
+    <p>Les formats gamifiés (jeu-concours, roue de la fortune, quiz) atteignent jusqu'à 20% de taux de clic, contre 2,87% en moyenne réseau pour l'insertion colis standard.</p>
   </div>
   <div class="gi-value-card">
     <strong>Leads opt-in qualifiés</strong>
@@ -84,7 +84,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
 </div>
 
 ::: tip Exemple terrain
-AJY (marque bien-être) a obtenu 21,6% de taux de scan avec un quiz "Découvrez votre Dosha" — l'un des meilleurs scores observés sur le réseau.
+AJY (marque bien-être) a obtenu 21,6% de taux de scan avec un quiz "Découvrez votre Dosha", l'un des meilleurs scores observés sur le réseau.
 :::
 
 ## Mécaniques disponibles
@@ -102,10 +102,10 @@ AJY (marque bien-être) a obtenu 21,6% de taux de scan avec un quiz "Découvrez 
 
 | Poste | Coût |
 | :--- | :--- |
-| **Budget média global** | Forfait — entre 10 000€ et 15 000€ pour un dispositif complet sur un mois |
+| **Budget média global** | Forfait : entre 10 000€ et 15 000€ pour un dispositif complet sur un mois |
 | **Frais de plateforme** | 12% du budget média investi |
-| **Studio Créatif** (optionnel) | 550€ HT — production Email, Social, Print (hors Landing Page) |
-| **Dotation** | À votre charge — valeur marchande + expédition aux gagnants |
+| **Studio Créatif** (optionnel) | 550€ HT : production Email, Social, Print (hors Landing Page) |
+| **Dotation** | À votre charge : valeur marchande + expédition aux gagnants |
 
 Le prix au forfait est généralement plus avantageux que la somme des leviers achetés séparément. Vous pouvez ajuster le contenu du pack (retirer un levier, modifier le volume) en discussion directe avec le retailer.
 

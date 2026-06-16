@@ -11,7 +11,7 @@ keywords:
 
 # Parcel Insert (Sponsored Mail)
 
-Your flyer, card, or sample slipped into a customer's parcel at the moment of unboxing. It's the only physical channel with a **100%** read rate — and a network CTR of **2.87%**, compared to 0.90% for Meta Ads.
+Your flyer, card, or sample slipped into a customer's parcel at the moment of unboxing. It's the only physical channel with a **100%** read rate and a network CTR of **2.87%**.
 
 ::: tip For retailers
 Are you an e-retailer looking to monetise your parcels with this format? See the [Parcel Insert guide for retailers](/en/publishers/sponsored-mail/).
@@ -31,7 +31,7 @@ Are you an e-retailer looking to monetise your parcels with this format? See the
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Create your materials</h3>
-    <p>Design your flyer following the <a href="./design-guide/print-specs">technical specifications</a> and <a href="./design-guide/legal">legal requirements</a>. Integrate the getinside dynamic QR code — your tracking tool.</p>
+    <p>Design your flyer following the <a href="./design-guide/print-specs">technical specifications</a> and <a href="./design-guide/legal">legal requirements</a>. Integrate the getinside dynamic QR code, your tracking tool.</p>
   </div>
 </div>
 
@@ -56,15 +56,15 @@ Are you an e-retailer looking to monetise your parcels with this format? See the
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>100% read rate</strong>
-    <p>The only physical media with an absolute take-in rate. The parcel is expected — your flyer is seen during a moment of maximum attention.</p>
+    <p>The only physical media with an absolute take-in rate. The parcel is expected: your flyer is seen during a moment of maximum attention.</p>
   </div>
   <div class="gi-value-card">
     <strong>2.87% network CTR</strong>
-    <p>vs 0.90% for Meta Ads. Parcel inserts generate up to 3× more qualified clicks thanks to the hyper-attention of unboxing.</p>
+    <p>Parcel inserts generate up to 3× more qualified clicks thanks to the hyper-attention of unboxing.</p>
   </div>
   <div class="gi-value-card">
     <strong>10–30% conversion</strong>
-    <p>Targeted buyers are qualified by their real purchasing habits — not anonymous web users.</p>
+    <p>Targeted buyers are qualified by their real purchasing habits, not anonymous web users.</p>
   </div>
 </div>
 
@@ -72,8 +72,8 @@ Are you an e-retailer looking to monetise your parcels with this format? See the
 
 | Format | Dimensions | Recommended use |
 | :--- | :--- | :--- |
-| **A5 Flyer** | 148 × 210 mm | Standard format — detailed offers |
-| **A6 Flyer / Card** | 105 × 148 mm | Compact format — promo codes |
+| **A5 Flyer** | 148 × 210 mm | Standard format, detailed offers |
+| **A6 Flyer / Card** | 105 × 148 mm | Compact format, promo codes |
 | **Sample S** | 15 g / 15 cm | Product paired with an A5/A6 flyer |
 | **Sample M** | 100 g / 30 cm | Standalone sampling |
 | **Sample L** | 450 g / 40 cm | Bulky product |
@@ -82,7 +82,7 @@ Are you an e-retailer looking to monetise your parcels with this format? See the
 A sample S can be attached to an A5/A6 flyer with a fugitive adhesive dot. Assembly carried out by Adapted Enterprises (EA).
 :::
 
-Targeting is refined across four criteria: product category, average basket size, buyer profile (B2C/B2B), and geography. Your offer is always inserted with a non-competing e-retailer — two competing brands never coexist in the same parcel.
+Targeting is refined across four criteria: product category, average basket size, buyer profile (B2C/B2B), and geography. Your offer is always inserted with a non-competing e-retailer. Two competing brands never coexist in the same parcel.
 
 ## Pricing
 
@@ -90,7 +90,7 @@ Targeting is refined across four criteria: product category, average basket size
 | :--- | :--- |
 | **Platform access** | Free, no subscription |
 | **Platform fee** | 12% of invested media budget |
-| **Printing** (optional) | Volume-based pricing — Made in France, Imprim'Vert certified |
+| **Printing** (optional) | Volume-based pricing. Made in France, Imprim'Vert certified |
 | **Creative Studio** (optional) | 550€ excl. VAT per campaign |
 
 ::: info No minimum commitment
@@ -99,5 +99,5 @@ Launch whenever you want, with the budget you choose. Platform fees apply only t
 
 ## Get started
 
-- [Design Guide](./design-guide/) — Technical specs, legal requirements, creative strategy.
-- [Create a campaign](https://app.getinside.media/){target="_blank"} — Access the platform directly.
+- [Design Guide](./design-guide/): Technical specs, legal requirements, creative strategy.
+- [Create a campaign](https://app.getinside.media/){target="_blank"}: Access the platform directly.

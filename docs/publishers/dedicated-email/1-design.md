@@ -30,7 +30,7 @@ L'objectif est l'**endorsement natif** : le message doit être perçu comme une 
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Conservez votre identité visuelle</h3>
-    <p>Utilisez votre en-tête habituel, vos polices et vos boutons. Vos abonnés reconnaissent votre newsletter — ne la transformez pas en panneau publicitaire.</p>
+    <p>Utilisez votre en-tête habituel, vos polices et vos boutons. Vos abonnés reconnaissent votre newsletter. Ne la transformez pas en panneau publicitaire.</p>
   </div>
 </div>
 
@@ -38,7 +38,7 @@ L'objectif est l'**endorsement natif** : le message doit être perçu comme une 
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Rédigez un édito d'introduction</h3>
-    <p>Rédigez une phrase d'accroche personnalisée — <em>"Chers clients, voici un coup de cœur que nous voulions partager avec vous…"</em> — pour contextualiser l'offre et renforcer la confiance.</p>
+    <p>Rédigez une phrase d'accroche personnalisée, comme <em>"Chers clients, voici un coup de cœur que nous voulions partager avec vous…"</em>, pour contextualiser l'offre et renforcer la confiance.</p>
   </div>
 </div>
 
@@ -56,12 +56,12 @@ Des rendus réels en ligne (responsive, co-branding, endorsement) :
 
 | Campagne | Contexte | Rendu |
 | :--- | :--- | :--- |
-| **Les Pièces Jaunes × Mieux que des Fleurs** | Caritatif — collecte de fonds | [Voir](https://getinside-ops.github.io/archive-news/820c70e8b537/index.html){target="_blank"} |
-| **Ultra Premium Direct × La Redoute** | Petfood premium — cible Propriétaires d'animaux | [Voir](https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html){target="_blank"} |
-| **Les Petits Culottés × Caats** | Mode enfant — audience Parents/Famille | [Voir](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
-| **Yooji × HelloFresh** | Alimentation bébé — cible Jeunes Parents | [Voir](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
+| **Les Pièces Jaunes × Mieux que des Fleurs** | Caritatif, collecte de fonds | [Voir](https://getinside-ops.github.io/archive-news/820c70e8b537/index.html){target="_blank"} |
+| **Ultra Premium Direct × La Redoute** | Petfood premium, cible Propriétaires d'animaux | [Voir](https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html){target="_blank"} |
+| **Les Petits Culottés × Caats** | Mode enfant, audience Parents/Famille | [Voir](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
+| **Yooji × HelloFresh** | Alimentation bébé, cible Jeunes Parents | [Voir](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
 
-## Option — Délégation Studio
+## Option : Délégation Studio
 
 ::: info Pas le temps de créer ?
 Déléguez au **Studio getinside** : création de l'email à vos couleurs, rédaction de l'édito et intégration technique.

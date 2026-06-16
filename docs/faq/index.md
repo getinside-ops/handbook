@@ -10,20 +10,20 @@ keywords:
   - logistique
 ---
 
-# FAQ — Questions fréquentes
+# FAQ : Questions fréquentes
 
 Trouvez rapidement des réponses par thématique.
 
 <div class="gi-format-grid">
   <a href="troubleshooting-distributors" class="gi-format-card">
     <span class="gi-format-card-icon">🔧</span>
-    <span class="gi-format-card-title">Résolution de problèmes — Distributeurs</span>
-    <p class="gi-format-card-desc">Wallet, paiements, campagnes, pénalités — solutions aux cas fréquents.</p>
+    <span class="gi-format-card-title">Résolution de problèmes : Distributeurs</span>
+    <p class="gi-format-card-desc">Wallet, paiements, campagnes, pénalités : solutions aux cas fréquents.</p>
   </a>
   <a href="troubleshooting-advertisers" class="gi-format-card">
     <span class="gi-format-card-icon">💼</span>
-    <span class="gi-format-card-title">Résolution de problèmes — Annonceurs</span>
-    <p class="gi-format-card-desc">Campagne non diffusée, créatif refusé, BAT, tracking — solutions rapides.</p>
+    <span class="gi-format-card-title">Résolution de problèmes : Annonceurs</span>
+    <p class="gi-format-card-desc">Campagne non diffusée, créatif refusé, BAT, tracking : solutions rapides.</p>
   </a>
   <a href="account-audiences" class="gi-format-card">
     <span class="gi-format-card-icon">⚙️</span>

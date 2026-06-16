@@ -26,7 +26,7 @@ Advertisers browse the catalogue like a marketplace. To maximise your chances of
 
 - Add visuals: photos of parcels, email screenshots, packaging examples.
 - Describe your persona precisely: age, product category, purchase frequency, geographic area.
-- Provide a realistic average order value (AOV) — a precise figure is more convincing than a range.
+- Provide a realistic average order value (AOV): a precise figure is more convincing than a range.
 - Activate multiple formats: an audience offering Parcel Insert + Emailing is more attractive than a single-format audience.
 
 → [Complete guide: Audience Setup](/en/publishers/audience-setup)

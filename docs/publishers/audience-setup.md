@@ -57,7 +57,7 @@ Votre fiche audience est ce que les annonceurs voient en premier quand ils vous 
   </div>
   <div class="gi-value-card">
     <strong>Typologie B2C / B2B</strong>
-    <p>Critère excluant. Assurez-vous qu'il est correct — une erreur réduit vos propositions pertinentes.</p>
+    <p>Critère excluant. Assurez-vous qu'il est correct. Une erreur réduit vos propositions pertinentes.</p>
   </div>
   <div class="gi-value-card">
     <strong>Profil d'acheteur</strong>
@@ -77,7 +77,7 @@ Un seul compte suffit, même si vous opérez plusieurs sites e-commerce. Chaque 
 
 Bonnes pratiques pour un catalogue multi-audiences :
 - Nommez clairement chaque audience (ex: "Site Mode Femme", "Site Jardin B2C").
-- Renseignez des données distinctes par site — ne mutualisez pas les chiffres.
+- Renseignez des données distinctes par site. Ne mutualisez pas les chiffres.
 - Activez uniquement les formats que vous pouvez réellement honorer sur ce site.
 
 getinside opère dans toute l'Europe. Ajoutez vos audiences européennes pour recevoir des campagnes ciblées par pays.
@@ -86,9 +86,9 @@ getinside opère dans toute l'Europe. Ajoutez vos audiences européennes pour re
 
 | Score | Visibilité |
 | :--- | :--- |
-| < 3/5 | Audience peu visible — action requise |
-| 3–4/5 | Standard — propositions régulières |
-| > 4/5 | Top Distributeur — priorité dans les résultats |
+| < 3/5 | Audience peu visible, action requise |
+| 3–4/5 | Standard, propositions régulières |
+| > 4/5 | Top Distributeur, priorité dans les résultats |
 
 Une fiche complète (persona détaillé, données précises, visuels soignés) améliore directement plusieurs des 7 critères de notation.
 
@@ -100,7 +100,7 @@ Une fiche complète (persona détaillé, données précises, visuels soignés) a
 Mon Organisation → Équipe → + Ajouter un membre. Recommandé : ayez toujours un backup pour garantir la réactivité sous 48h.
 
 **Puis-je gérer plusieurs sites depuis un seul compte ?**
-Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez — une par site ou par segment client.
+Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez, une par site ou par segment client.
 
 **Où suivre mes filleuls ?**
 Dans l'onglet Affiliation. Vous touchez 20% de commission récurrente sur les frais de plateforme de vos filleuls. → [Programme d'Affiliation](/publishers/affiliation)

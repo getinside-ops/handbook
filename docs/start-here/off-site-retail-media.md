@@ -41,7 +41,7 @@ Quatre formats couvrent l'ensemble du parcours post-achat :
   <a href="/advertisers/sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Insertion Colis</span>
-    <p class="gi-format-card-desc">100% de taux de lecture, au cœur de l'unboxing.</p>
+    <p class="gi-format-card-desc">100% de taux de lecture, dans le moment de l'unboxing.</p>
   </a>
   <a href="/advertisers/dedicated-email/" class="gi-format-card">
     <span class="gi-format-card-icon">📧</span>
@@ -73,7 +73,7 @@ Parce que la publicité arrive dans un contexte de confiance et au bon moment, l
   </div>
   <div class="gi-value-card">
     <strong>2,87% CTR réseau</strong>
-    <p>CTR moyen du réseau, contre 0,90% sur Meta, grâce à l'endorsement du distributeur.</p>
+    <p>CTR moyen du réseau, grâce à l'endorsement du distributeur.</p>
   </div>
   <div class="gi-value-card">
     <strong>10–30%</strong>

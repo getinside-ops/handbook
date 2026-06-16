@@ -8,11 +8,11 @@ keywords:
   - getinside advertiser
 ---
 
-# Quick Start — Advertisers
+# Quick Start: Advertisers
 
 You want to launch your first campaign on getinside. In 4 steps and 15 minutes, your campaign proposal is sent to retailers.
 
-## Step 1 — Create your account
+## Step 1: Create your account
 
 Access is **reserved for professionals** (company registration number required).
 
@@ -20,7 +20,7 @@ Access is **reserved for professionals** (company registration number required).
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Create your account</h3>
-    <p>Go to <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, click <strong>"Create an account"</strong>, and fill in your details: name, email, company registration number, billing information. Validate your email — your account is activated.</p>
+    <p>Go to <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, click <strong>"Create an account"</strong>, and fill in your details: name, email, company registration number, billing information. Validate your email. Your account is activated.</p>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ Access is **reserved for professionals** (company registration number required).
 If you were invited by your account manager, open the invitation email and click the activation link.
 :::
 
-## Step 2 — Choose your format
+## Step 2: Choose your format
 
 Each format targets a different objective:
 
@@ -42,7 +42,7 @@ Each format targets a different objective:
 
 <p class="gi-footnote">* The Studio does not create Landing Pages for contests (retailer's responsibility).</p>
 
-## Step 3 — Submit your brief
+## Step 3: Submit your brief
 
 **Space:** My Campaigns → Create a campaign
 
@@ -58,11 +58,11 @@ Each format targets a different objective:
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Check the Trust Index</h3>
-    <p>A score from 1 to 5 based on your shared history with the retailer — 1 = unlikely, 4 = guaranteed, 5 = maximum confidence. Available on Package and Emailing offers (not Custom).</p>
+    <p>A score from 1 to 5 based on your shared history with the retailer: 1 = unlikely, 4 = guaranteed, 5 = maximum confidence. Available on Package and Emailing offers (not Custom).</p>
   </div>
 </div>
 
-## Step 4 — Select your retailers and validate
+## Step 4: Select your retailers and validate
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -84,7 +84,7 @@ Each format targets a different objective:
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>Validate within 48 business hours</h3>
-    <p>Once agreement is reached, validate the campaign — a Purchase Order is generated automatically. Then validate the <strong>Proof (BAT)</strong> for production. Validation within 48 hours is contractual: after this deadline, the campaign may be cancelled.</p>
+    <p>Once agreement is reached, validate the campaign. A Purchase Order is generated automatically. Then validate the <strong>Proof (BAT)</strong> for production. Validation within 48 hours is contractual: after this deadline, the campaign may be cancelled.</p>
   </div>
 </div>
 
@@ -93,6 +93,6 @@ Each format targets a different objective:
 Track performance in real time in **My Campaigns → Statistics**.
 
 **Next steps:**
-- [Parcel Insert Guide](/advertisers/sponsored-mail/) — technical specs and creative
-- [Pricing & Plans](/advertisers/pricing) — rates and service levels
-- [Creative Studio](/resources/studio) — delegate your materials creation
+- [Parcel Insert Guide](/advertisers/sponsored-mail/): technical specs and creative
+- [Pricing & Plans](/advertisers/pricing): rates and service levels
+- [Creative Studio](/resources/studio): delegate your materials creation

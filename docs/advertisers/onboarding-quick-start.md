@@ -8,11 +8,11 @@ keywords:
   - getinside annonceur
 ---
 
-# Démarrage Rapide — Annonceurs
+# Démarrage Rapide : Annonceurs
 
 Vous souhaitez lancer votre première campagne sur getinside. En 4 étapes et 15 minutes, votre proposition de campagne est envoyée aux retailers.
 
-## Étape 1 — Créez votre compte
+## Étape 1 : Créez votre compte
 
 L'accès est **réservé aux professionnels** (SIRET requis).
 
@@ -20,7 +20,7 @@ L'accès est **réservé aux professionnels** (SIRET requis).
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Créer votre compte</h3>
-    <p>Rendez-vous sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, cliquez sur <strong>"Créer un compte"</strong> et renseignez vos informations : nom, email, SIRET, coordonnées de facturation. Validez votre email — votre compte est activé.</p>
+    <p>Rendez-vous sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, cliquez sur <strong>"Créer un compte"</strong> et renseignez vos informations : nom, email, SIRET, coordonnées de facturation. Validez votre email. Votre compte est activé.</p>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ L'accès est **réservé aux professionnels** (SIRET requis).
 Si vous avez été invité par votre gestionnaire de compte, ouvrez l'email d'invitation et cliquez sur le lien d'activation.
 :::
 
-## Étape 2 — Choisissez votre format
+## Étape 2 : Choisissez votre format
 
 Chaque format cible un objectif différent :
 
@@ -42,7 +42,7 @@ Chaque format cible un objectif différent :
 
 <p class="gi-footnote">* Le Studio ne crée pas les Landing Pages pour les jeux-concours (responsabilité du distributeur).</p>
 
-## Étape 3 — Soumettez votre brief
+## Étape 3 : Soumettez votre brief
 
 **Espace :** Mes Campagnes → Créer une campagne
 
@@ -58,11 +58,11 @@ Chaque format cible un objectif différent :
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Consultez le Trust Index</h3>
-    <p>Un score de 1 à 5 basé sur votre historique commun avec le distributeur — 1 = peu probable, 4 = garanti, 5 = confiance maximale. Disponible sur les offres Package et Emailing (pas Custom).</p>
+    <p>Un score de 1 à 5 basé sur votre historique commun avec le distributeur : 1 = peu probable, 4 = garanti, 5 = confiance maximale. Disponible sur les offres Package et Emailing (pas Custom).</p>
   </div>
 </div>
 
-## Étape 4 — Sélectionnez vos distributeurs et validez
+## Étape 4 : Sélectionnez vos distributeurs et validez
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -84,7 +84,7 @@ Chaque format cible un objectif différent :
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>Validez sous 48h ouvrées</h3>
-    <p>Une fois l'accord trouvé, validez la campagne — un Bon de Commande est généré automatiquement. Validez ensuite le <strong>BAT (Bon à Tirer)</strong> pour la mise en production. La validation dans les 48h est contractuelle : passé ce délai, la campagne peut être annulée.</p>
+    <p>Une fois l'accord trouvé, validez la campagne. Un Bon de Commande est généré automatiquement. Validez ensuite le <strong>BAT (Bon à Tirer)</strong> pour la mise en production. La validation dans les 48h est contractuelle : passé ce délai, la campagne peut être annulée.</p>
   </div>
 </div>
 
@@ -93,6 +93,6 @@ Chaque format cible un objectif différent :
 Suivez les performances en temps réel dans **Mes Campagnes → Statistiques**.
 
 **Prochaines étapes :**
-- [Guide Insertion Colis](/advertisers/sponsored-mail/) — specs techniques et créa
-- [Pricing & Offres](/advertisers/pricing) — tarifs et niveaux de service
-- [Studio Créatif](/resources/studio) — déléguer la création de vos supports
+- [Guide Insertion Colis](/advertisers/sponsored-mail/) : specs techniques et créa
+- [Pricing & Offres](/advertisers/pricing) : tarifs et niveaux de service
+- [Studio Créatif](/resources/studio) : déléguer la création de vos supports

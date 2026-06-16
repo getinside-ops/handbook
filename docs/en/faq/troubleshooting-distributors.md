@@ -9,7 +9,7 @@ keywords:
   - volume entry error
 ---
 
-# Troubleshooting — Distributors
+# Troubleshooting: Distributors
 
 Wallet issue, withdrawal problem or campaign question? Find the solution below.
 
@@ -31,7 +31,7 @@ This is normal: the 30-day protection period has not yet elapsed.
 
 Your revenues go through two states:
 1. **Pending**: distribution confirmed, 30-day period in progress.
-2. **Available**: 30 days elapsed without incident — withdrawal possible.
+2. **Available**: 30 days elapsed without incident, withdrawal possible.
 
 This delay protects everyone against post-distribution anomalies. If your funds remain "pending" after 30 days, contact support with the campaign number.
 :::
@@ -55,7 +55,7 @@ The 5% fee applies only to the **Starter** offer, from the 2nd withdrawal of the
 | Starter | 1st withdrawal/year: free · Subsequent: 5% |
 | Platform | All withdrawals: free |
 
-If you are on Platform and a fee was deducted, contact support immediately — this is an error.
+If you are on Platform and a fee was deducted, contact support immediately. This is an error.
 :::
 
 ::: details Funds were deducted from my Wallet without my request

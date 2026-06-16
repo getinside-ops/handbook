@@ -64,7 +64,7 @@ La valeur de l'Insertion Colis repose sur l'expérience d'ouverture. Ces règles
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Respectez les exclusions qualité</h3>
-    <p>N'insérez jamais deux offres concurrentes dans le même colis. N'insérez pas de flyer froissé ou corné — remplacez-le.</p>
+    <p>N'insérez jamais deux offres concurrentes dans le même colis. N'insérez pas de flyer froissé ou corné : remplacez-le.</p>
   </div>
 </div>
 

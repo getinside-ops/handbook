@@ -10,7 +10,7 @@ keywords:
   - logistics
 ---
 
-# FAQ — Frequently Asked Questions
+# FAQ: Frequently Asked Questions
 
 Find answers quickly by topic.
 
@@ -18,12 +18,12 @@ Find answers quickly by topic.
   <a href="troubleshooting-distributors" class="gi-format-card">
     <span class="gi-format-card-icon">🔧</span>
     <span class="gi-format-card-title">Troubleshooting — Distributors</span>
-    <p class="gi-format-card-desc">Wallet, payments, campaigns, penalties — solutions to frequent cases.</p>
+    <p class="gi-format-card-desc">Wallet, payments, campaigns, penalties. Solutions to frequent cases.</p>
   </a>
   <a href="troubleshooting-advertisers" class="gi-format-card">
     <span class="gi-format-card-icon">💼</span>
     <span class="gi-format-card-title">Troubleshooting — Advertisers</span>
-    <p class="gi-format-card-desc">Campaign not sent, creative rejected, proof, tracking — quick fixes.</p>
+    <p class="gi-format-card-desc">Campaign not sent, creative rejected, proof, tracking. Quick fixes.</p>
   </a>
   <a href="account-audiences" class="gi-format-card">
     <span class="gi-format-card-icon">⚙️</span>

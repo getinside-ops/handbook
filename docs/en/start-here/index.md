@@ -13,20 +13,20 @@ image: /images/gi-keyvisual.svg
 
 # Welcome to getinside
 
-getinside is an **off-site retail media** platform that connects **advertisers** and **e-merchants** through their shared assets: parcels, transactional emails and social media. The network currently counts **250+ e-merchants**, **300+ advertisers**, **950+ campaigns** operated and **40 million consumers** reachable. This handbook covers both sides of the platform — choose your profile below.
+getinside is an **off-site retail media** platform that connects **advertisers** and **e-merchants** through their shared assets: parcels, transactional emails and social media. The network currently counts **250+ e-merchants**, **300+ advertisers**, **950+ campaigns** operated and **40 million consumers** reachable. This handbook covers both sides of the platform: choose your profile below.
 
 ## Are you an advertiser?
 
-You want to reach proven buyers at the moment they are most receptive — during unboxing, reading a post-purchase email, or on the social media of a trusted retailer. At getinside, you are not buying audience: you are accessing a trusted relationship already established between a retailer and their customers.
+You want to reach proven buyers at the moment they are most receptive: during unboxing, reading a post-purchase email, or on the social media of a trusted retailer. At getinside, you are not buying audience: you are accessing a trusted relationship already established between a retailer and their customers.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>100%</strong>
-    <p>Read rate for parcel inserts — maximum attention context during unboxing.</p>
+    <p>Read rate for parcel inserts: maximum attention context during unboxing.</p>
   </div>
   <div class="gi-value-card">
     <strong>2.87% network CTR</strong>
-    <p>Average network CTR vs 0.90% on Meta — driven by retailer endorsement.</p>
+    <p>Average network CTR, driven by retailer endorsement.</p>
   </div>
   <div class="gi-value-card">
     <strong>10–30%</strong>
@@ -34,13 +34,13 @@ You want to reach proven buyers at the moment they are most receptive — during
   </div>
 </div>
 
-Your campaigns benefit from retailer endorsement: you are not an intruder in an ad feed, you are a recommended partner to an audience that trusts the retailer distributing you. Contextual matching — your offer paired with the retailer's product universe — further amplifies relevance.
+Your campaigns benefit from retailer endorsement: you are not an intruder in an ad feed, you are a recommended partner to an audience that trusts the retailer distributing you. Contextual matching, your offer paired with the retailer's product universe, further amplifies relevance.
 
 [Go to the Advertisers section →](/en/advertisers/)
 
 ## Are you an e-merchant?
 
-Your parcels ship every week. Your transactional emails get opened regularly. These assets have real advertising value — getinside lets you capture it immediately, without heavy technical integration and with full control over the brands you accept.
+Your parcels ship every week. Your transactional emails get opened regularly. These assets have real advertising value. getinside lets you capture it immediately, without heavy technical integration and with full control over the brands you accept.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -49,11 +49,11 @@ Your parcels ship every week. Your transactional emails get opened regularly. Th
   </div>
   <div class="gi-value-card">
     <strong>65–70%</strong>
-    <p>Net margin on your retail media revenues — logistics assets are already in place.</p>
+    <p>Net margin on your retail media revenues: logistics assets are already in place.</p>
   </div>
 </div>
 
-Revenue is available immediately in your Wallet. You can reinvest it to fund your own acquisition campaigns with complementary partners — at 0% platform fees on that reinvestment. Your shipping costs directly finance your own growth.
+Revenue is available immediately in your Wallet. You can reinvest it to fund your own acquisition campaigns with complementary partners, at 0% platform fees on that reinvestment. Your shipping costs directly finance your own growth.
 
 [Go to the Retailers section →](/en/publishers/)
 
@@ -61,6 +61,6 @@ Revenue is available immediately in your Wallet. You can reinvest it to fund you
 
 The platform is built on **contextual matching**: each advertiser offer is paired with a product universe that is coherent with the retailer's audience. The right message, at the right time, at the right retailer.
 
-One contract, centralised billing, integrated GDPR management. getinside handles printing, delivery, tracking and reporting — end to end.
+One contract, centralised billing, integrated GDPR management. getinside handles printing, delivery, tracking and reporting, end to end.
 
 [Understand the model →](/en/start-here/why-it-works)

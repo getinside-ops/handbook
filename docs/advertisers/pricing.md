@@ -26,8 +26,8 @@ getinside est une plateforme en libre-service. Accès gratuit, modèle transpare
 ## Frais de plateforme
 
 ::: tip Ce qui est inclus dans les 12%
-- Pas d'abonnement côté annonceur — l'accès est gratuit.
-- Pas de budget minimum — testez avec de petits montants.
+- Pas d'abonnement côté annonceur : l'accès est gratuit.
+- Pas de budget minimum. Testez avec de petits montants.
 - Accès à +250 audiences exclusives, +300 annonceurs actifs, 40 millions de consommateurs.
 - Facture unique et centralisée quel que soit le nombre d'audiences achetées.
 :::
@@ -53,13 +53,13 @@ La facturation est déclenchée dès que vous validez définitivement le Bon de 
   </div>
   <div class="gi-value-card">
     <strong>Wallet — Réinvestissement</strong>
-    <p>Vous êtes aussi e-commerçant ? Utilisez les revenus de monétisation de votre Wallet pour financer vos campagnes d'acquisition — transfert immédiat, sans sortie de trésorerie bancaire.</p>
+    <p>Vous êtes aussi e-commerçant ? Utilisez les revenus de monétisation de votre Wallet pour financer vos campagnes d'acquisition, transfert immédiat, sans sortie de trésorerie bancaire.</p>
   </div>
 </div>
 
 ## Accompagnement
 
-::: tip Account Manager dédié — dès 5 000€ HT
+::: tip Account Manager dédié, dès 5 000€ HT
 À partir de 5 000€ HT de budget média investi, vous bénéficiez gratuitement d'un Account Manager dédié pour la stratégie de ciblage, la sélection des audiences et l'optimisation de vos campagnes.
 :::
 

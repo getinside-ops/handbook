@@ -11,7 +11,7 @@ keywords:
 
 # RSE & insertion colis : une publicité papier responsable
 
-L'insertion colis a toute sa place dans une stratégie marketing responsable. Le support est imprimé en France sur papier certifié, et n'arrive qu'entre les mains d'acheteurs réels — au moment où ils ouvrent un colis qu'ils attendaient. Un imprimé a un impact, c'est entendu ; tout est dans la façon dont il est produit et reçu.
+L'insertion colis a toute sa place dans une stratégie marketing responsable. Le support est imprimé en France sur papier certifié, et n'arrive qu'entre les mains d'acheteurs réels, au moment où ils ouvrent un colis qu'ils attendaient. Un imprimé a un impact, c'est entendu ; tout est dans la façon dont il est produit et reçu.
 
 <div class="gi-cert-row">
   <div class="gi-cert-item">
@@ -57,7 +57,7 @@ L'insertion colis a toute sa place dans une stratégie marketing responsable. Le
     <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></svg></span>
     <div class="gi-feature-body">
       <strong>Une production responsable</strong>
-      <p>Imprimé en France sur papier certifié FSC/PEFC et encres végétales, dans des ateliers labellisés Imprim'Vert et ISO 14001. Quand la campagne intègre un échantillon, son assemblage sur le flyer — collé par point de colle fugitive — est confié à des <a href="https://travail-emploi.gouv.fr/les-entreprises-adaptees-ea-et-entreprises-adaptees-de-travail-temporaire-eatt" target="_blank" rel="noopener">Entreprises Adaptées</a>.</p>
+      <p>Imprimé en France sur papier certifié FSC/PEFC et encres végétales, dans des ateliers labellisés Imprim'Vert et ISO 14001. Quand la campagne intègre un échantillon, son assemblage sur le flyer, collé par point de colle fugitive, est confié à des <a href="https://travail-emploi.gouv.fr/les-entreprises-adaptees-ea-et-entreprises-adaptees-de-travail-temporaire-eatt" target="_blank" rel="noopener">Entreprises Adaptées</a>.</p>
     </div>
   </div>
 </div>

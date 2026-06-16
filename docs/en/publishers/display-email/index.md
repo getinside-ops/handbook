@@ -46,8 +46,8 @@ Integration is light: an HTML block or image to insert in your router template (
 
 ## Best practices
 
-- **Place the insert in line with your content** — below the main newsletter body, or in the footer of a transactional email, where it does not get in the way of the customer message.
-- **Keep a reasonable frequency** — one insert per email is enough; the goal is steady revenue, not saturation.
+- **Place the insert in line with your content**: below the main newsletter body, or in the footer of a transactional email, where it does not get in the way of the customer message.
+- **Keep a reasonable frequency**: one insert per email is enough; the goal is steady revenue, not saturation.
 - **Declare your sends** to trigger billing (see the integration guide).
 
 <div class="gi-format-grid">

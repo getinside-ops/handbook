@@ -71,7 +71,7 @@ Browse a selection of Bundles offered by our retailers.
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Up to 20% CTR</strong>
-    <p>Gamified formats (contests, fortune wheels, quizzes) reach up to 20% click-through rate — vs 2.87% network average for standard parcel inserts.</p>
+    <p>Gamified formats (contests, fortune wheels, quizzes) reach up to 20% click-through rate, vs 2.87% network average for standard parcel inserts.</p>
   </div>
   <div class="gi-value-card">
     <strong>Qualified opt-in leads</strong>
@@ -84,7 +84,7 @@ Browse a selection of Bundles offered by our retailers.
 </div>
 
 ::: tip Field example
-AJY (wellness brand) achieved a 21.6% scan rate with a "Discover your Dosha" quiz — one of the highest scores observed on the network.
+AJY (wellness brand) achieved a 21.6% scan rate with a "Discover your Dosha" quiz, one of the highest scores observed on the network.
 :::
 
 ## Available mechanics
@@ -102,10 +102,10 @@ AJY (wellness brand) achieved a 21.6% scan rate with a "Discover your Dosha" qui
 
 | Item | Cost |
 | :--- | :--- |
-| **Total media budget** | Package rate — between €10,000 and €15,000 for a full one-month campaign |
+| **Total media budget** | Package rate: between €10,000 and €15,000 for a full one-month campaign |
 | **Platform fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | 550€ excl. VAT — Email, Social, Print production (excluding Landing Page) |
-| **Prize** | Your responsibility — market value + shipping to winners |
+| **Creative Studio** (optional) | 550€ excl. VAT: Email, Social, Print production (excluding Landing Page) |
+| **Prize** | Your responsibility: market value + shipping to winners |
 
 The package price is generally more cost-effective than buying the channels separately. You can adjust the contents of the pack (remove a channel, modify volume) in direct discussion with the retailer.
 

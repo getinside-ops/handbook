@@ -20,7 +20,7 @@ The destination URL configured in the platform is empty or incorrect. To fix:
 2. Open the relevant campaign → **Configuration** tab.
 3. Check the **"Redirect URL"** field and save.
 
-The update is **instant** — no need to reprint.
+The update is **instant**: no need to reprint.
 :::
 
 ::: details I cannot boost the Instagram post
@@ -36,7 +36,7 @@ The advertising authorisation was not generated from the distributor's TikTok ac
 
 1. On TikTok: **Account Settings → Creator → Ad Settings**.
 2. Enable **"Ad authorisation"**.
-3. Click **"Generate a code"** — valid for 60 days.
+3. Click **"Generate a code"**, valid for 60 days.
 4. Send the code to getinside via the campaign messaging.
 
 Without this code, the campaign cannot be launched from the TikTok Business Center.

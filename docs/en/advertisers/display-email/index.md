@@ -10,7 +10,7 @@ keywords:
 
 # Newsletter Banner (Display Email)
 
-Reach qualified buyers by inserting your banner in a partner retailer's emails — live in 48 hours.
+Reach qualified buyers by inserting your banner in a partner retailer's emails. Live in 48 hours.
 
 ::: tip For retailers
 Are you an e-retailer looking to monetise your newsletters? See the [Newsletter Banner guide for retailers](/en/publishers/display-email/).
@@ -18,7 +18,7 @@ Are you an e-retailer looking to monetise your newsletters? See the [Newsletter 
 
 ## The format
 
-A Display Email insert is your advertising banner (static image or animated GIF) embedded in a partner retailer's newsletter or transactional email. Your visual appears in an inbox — not in a social feed or web display.
+A Display Email insert is your advertising banner (static image or animated GIF) embedded in a partner retailer's newsletter or transactional email. Your visual appears in an inbox, not in a social feed or web display.
 
 ## Why this format
 
@@ -29,19 +29,19 @@ A Display Email insert is your advertising banner (static image or animated GIF)
   </div>
   <div class="gi-value-card">
     <strong>No print production</strong>
-    <p>One image is enough. No PDF, no bleed, no print lead time — the creative is simple and reusable.</p>
+    <p>One image is enough. No PDF, no bleed, no print lead time: the creative is simple and reusable.</p>
   </div>
   <div class="gi-value-card">
     <strong>High-intent audience</strong>
-    <p>Retailer emails are opened by active buyers. The reading context is engaged — not passive.</p>
+    <p>Retailer emails are opened by active buyers. The reading context is engaged, not passive.</p>
   </div>
 </div>
 
 ## Ideal use cases
 
-- **Flash or seasonal offer** — Black Friday, sales, holidays: activate in 48h with no print constraints
-- **Product launch** — Introduce a new product to a qualified audience quickly
-- **Test campaign** — A lightweight format to test a message or audience before committing to a heavier format
+- **Flash or seasonal offer**: Black Friday, sales, holidays: activate in 48h with no print constraints
+- **Product launch**: Introduce a new product to a qualified audience quickly
+- **Test campaign**: A lightweight format to test a message or audience before committing to a heavier format
 
 <div class="gi-format-grid">
   <a href="./workflow" class="gi-format-card">

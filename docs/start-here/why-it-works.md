@@ -12,13 +12,13 @@ image: /images/gi-keyvisual.svg
 
 # Pourquoi ça fonctionne
 
-Les formats getinside relèvent du **retail media off-site**, et ils surperforment parce qu'ils combinent trois mécanismes que la publicité digitale classique ne réunit jamais : l'attention garantie, la confiance du distributeur et la pertinence contextuelle. Chacun de ces mécanismes est mesurable. Ensemble, ils produisent des résultats hors normes.
+Les formats getinside relèvent du **retail media off-site**, et ils surperforment parce qu'ils combinent trois mécanismes que la publicité digitale classique ne réunit jamais : l'attention garantie, la confiance du distributeur et la pertinence contextuelle. Chacun de ces mécanismes est mesurable. Ensemble, ils produisent des résultats élevés.
 
 ## Le transfert de confiance
 
-Quand un e-commerçant distribue votre offre dans ses colis ou dans son email post-achat, il vous prête sa relation client. Le consommateur a déjà acheté chez ce retailer — il lui fait confiance. Cette confiance se transfère à votre marque.
+Quand un e-commerçant distribue votre offre dans ses colis ou dans son email post-achat, il vous prête sa relation client. Le consommateur a déjà acheté chez ce retailer. Il lui fait confiance. Cette confiance se transfère à votre marque.
 
-C'est ce qu'on appelle l'**endorsement** : vous n'êtes pas un intrus dans un flux publicitaire, vous êtes un partenaire recommandé par une enseigne que l'acheteur connaît et respecte. L'effet est directement mesurable : le CTR réseau moyen atteint **2,87%**, contre 0,90% sur Meta. Ce n'est pas une différence marginale — c'est un facteur multiplicateur sur votre ROI.
+C'est ce qu'on appelle l'**endorsement** : vous n'êtes pas un intrus dans un flux publicitaire, vous êtes un partenaire recommandé par une enseigne que l'acheteur connaît et respecte. L'effet est mesurable : le CTR réseau moyen atteint **2,87%**. C'est un facteur multiplicateur sur votre ROI.
 
 ## Le matching contextuel
 
@@ -31,23 +31,23 @@ La plateforme ne diffuse pas au hasard. Chaque campagne est associée à un univ
   </div>
   <div class="gi-value-card">
     <strong>Moment d'attention maximum</strong>
-    <p>L'insertion colis est lue pendant l'unboxing — taux de lecture de 100%, sans compétition pour l'attention.</p>
+    <p>L'insertion colis est lue pendant l'unboxing : taux de lecture de 100%, sans compétition pour l'attention.</p>
   </div>
   <div class="gi-value-card">
     <strong>Audience qualifiée</strong>
-    <p>40 millions de consommateurs accessibles via 250+ e-commerçants — sans achat de données tiers.</p>
+    <p>40 millions de consommateurs accessibles via 250+ e-commerçants, sans achat de données tiers.</p>
   </div>
 </div>
 
-Le résultat direct : **10 à 30% de conversion post-scan**, des niveaux que le display standard ne peut pas atteindre. Les campagnes getinside touchent des acheteurs actifs, dans un moment d'ouverture émotionnelle — l'unboxing, la lecture d'un email attendu.
+Le résultat direct : **10 à 30% de conversion post-scan**, des niveaux que le display standard ne peut pas atteindre. Les campagnes getinside touchent des acheteurs actifs, dans un moment d'ouverture émotionnelle : l'unboxing, la lecture d'un email attendu.
 
 ## Le modèle économique circulaire pour les retailers
 
 Pour les e-commerçants, getinside transforme des centres de coûts (expéditions, emails) en sources de revenus récurrents. Ces revenus sont disponibles immédiatement sur le Wallet de la plateforme, sans délai de facturation.
 
-Ce Wallet peut être réinvesti directement pour acheter des campagnes d'acquisition chez des partenaires complémentaires — à 0% de frais de plateforme sur le réinvestissement. Vos frais d'expédition financent votre propre croissance.
+Ce Wallet peut être réinvesti directement pour acheter des campagnes d'acquisition chez des partenaires complémentaires, à 0% de frais de plateforme sur le réinvestissement. Vos frais d'expédition financent votre propre croissance.
 
-La marge nette sur ces revenus atteint **65 à 70%**, parce que les actifs — logistique, base email — existent déjà. Il n'y a pas d'infrastructure supplémentaire à construire. Chaque colis expédié génère un revenu publicitaire en plus de son rôle logistique.
+La marge nette sur ces revenus atteint **65 à 70%**, parce que les actifs, logistique et base email, existent déjà. Il n'y a pas d'infrastructure supplémentaire à construire. Chaque colis expédié génère un revenu publicitaire en plus de son rôle logistique.
 
 ::: tip Score Distributeur
 

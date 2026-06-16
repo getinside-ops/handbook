@@ -22,7 +22,7 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Hook — benefit first</h3>
+    <h3>Hook: benefit first</h3>
     <p>The first line answers "what's in it for me?". Not your brand name, not your tagline. "Your beauty routine, gifted in this parcel" before "Discover [Brand]".</p>
   </div>
 </div>
@@ -30,7 +30,7 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Promise — what the offer contains</h3>
+    <h3>Promise: what the offer contains</h3>
     <p>State the concrete value: "€10 off your first order", not "exclusive benefits".</p>
   </div>
 </div>
@@ -38,7 +38,7 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Proof — the reassurance</h3>
+    <h3>Proof: the reassurance</h3>
     <p>One element that removes doubt: a customer rating, a number, a guarantee, the partner retailer's name. A single line is enough.</p>
   </div>
 </div>
@@ -46,7 +46,7 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
 <div class="gi-step">
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
-    <h3>Offer — the key conditions</h3>
+    <h3>Offer: the key conditions</h3>
     <p>Promo code, amount, validity period. See <a href="./">The Offer</a> for strategy and <a href="./legal">the legal notices</a> for requirements.</p>
   </div>
 </div>
@@ -54,13 +54,13 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
 <div class="gi-step">
   <div class="gi-step-num done">5</div>
   <div class="gi-step-body">
-    <h3>Call to action — only one</h3>
+    <h3>Call to action: only one</h3>
     <p>The QR code and its instruction, bottom-right, at the end of the reading path. One dominant action, never two competing.</p>
   </div>
 </div>
 
 :::tip Word budget
-Aim for brevity: the essential message should fit in the **top 60%** of the flyer and be understood at a glance. Every extra word slows the scan. If you hesitate to cut a sentence, cut it.
+Aim for brevity: the key message should fit in the **top 60%** of the flyer and be understood at a glance. Every extra word slows the scan. If you hesitate to cut a sentence, cut it.
 :::
 
 ---
@@ -91,7 +91,7 @@ Scanning is the main action: never push the QR code to the back. The reader acts
 Before submitting your proof (BAT), hold the flyer at arm's length and check:
 
 - The **hook** is readable effortlessly, at normal reading distance.
-- A **single focal point** catches the eye — not three elements fighting for attention.
+- A **single focal point** catches the eye, not three elements fighting for attention.
 - The **text/background contrast** is strong (avoid light text over a photo).
 - The **action** to take is obvious: you know what to scan and why.
 
@@ -106,7 +106,7 @@ The scan is only half the journey. The page that loads decides the conversion.
 | Criterion | Rule |
 | :--- | :--- |
 | **Consistency** | The page **mirrors the flyer offer exactly**. The flyer promises "€10 off" → the page shows "€10 off" immediately, not after a pop-up. |
-| **Destination** | A campaign-specific page — **never the homepage**. Every extra click between the scan and the offer drops conversion. |
+| **Destination** | A campaign-specific page (**never the homepage**). Every extra click between the scan and the offer drops conversion. |
 | **A single action** | One goal, one button. Remove everything that distracts. |
 | **Speed & mobile** | 100% responsive, loads in **under 3 seconds** even on 3G. Scans always happen on a smartphone. |
 
@@ -122,7 +122,7 @@ If the landing page collects data (contest, form, newsletter sign-up, drive to a
 
 ## Measurement & iteration
 
-Every campaign should make the next one better. The tracking system is already in the flyer — use it.
+Every campaign should make the next one better. The tracking system is already in the flyer, so use it.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -131,7 +131,7 @@ Every campaign should make the next one better. The tracking system is already i
   </div>
   <div class="gi-value-card">
     <strong>Test one variable</strong>
-    <p>Change the hook, OR the offer, OR the landing page — never all three at once. Otherwise you'll never know what made the difference.</p>
+    <p>Change the hook, OR the offer, OR the landing page. Never all three at once. Otherwise you'll never know what made the difference.</p>
   </div>
   <div class="gi-value-card">
     <strong>Follow the right loop</strong>
@@ -144,5 +144,5 @@ Every campaign should make the next one better. The tracking system is already i
 </div>
 
 :::tip A realistic benchmark
-On the getinside network, the average parcel-insert CTR is **2.87%** (vs 0.90% on Meta). Use it as a floor, then improve your own campaigns through successive iterations.
+On the getinside network, the average parcel-insert CTR is **2.87%**. Use it as a floor, then improve your own campaigns through successive iterations.
 :::

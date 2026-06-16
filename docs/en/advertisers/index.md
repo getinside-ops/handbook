@@ -16,16 +16,16 @@ image: /images/gi-keyvisual.svg
 
 # Advertiser Hub
 
-**Recruit your customers where they already buy.** getinside runs an **off-site retail media** network: you activate a retailer's data and trust away from its own site, reaching qualified audiences at the moment they are most receptive: during unboxing, while reading a post-purchase email, or on the social channels of a trusted retailer. Your campaigns benefit from the retailer's endorsement — you're not buying attention, you're accessing a trust relationship already established between an e-retailer and its customers. Because every scan and every promo code is tied back to the campaign, you measure impact in a **closed loop**, from first contact to purchase.
+**Recruit your customers where they already buy.** getinside runs an **off-site retail media** network: you activate a retailer's data and trust away from its own site, reaching qualified audiences at the moment they are most receptive: during unboxing, while reading a post-purchase email, or on the social channels of a trusted retailer. Your campaigns benefit from the retailer's endorsement: you're not buying attention, you're accessing a trust relationship already established between an e-retailer and its customers. Because every scan and every promo code is tied back to the campaign, you measure impact in a **closed loop**, from first contact to purchase.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>100%</strong>
-    <p>Read rate on parcel inserts — maximum attention during unboxing.</p>
+    <p>Read rate on parcel inserts: maximum attention during unboxing.</p>
   </div>
   <div class="gi-value-card">
     <strong>2.87% avg CTR</strong>
-    <p>Network CTR vs 0.90% on Meta — driven by retailer endorsement.</p>
+    <p>Average network CTR, driven by retailer endorsement.</p>
   </div>
   <div class="gi-value-card">
     <strong>10–30%</strong>
@@ -51,7 +51,7 @@ Every campaign is validated by the retailer before it goes out. Your brand gets 
 
 ## Ad formats
 
-Four formats cover the entire post-purchase journey. Choose based on your objective — awareness, acquisition, drive-to-store — or combine multiple channels in a Bundle.
+Four formats cover the entire post-purchase journey. Choose based on your objective (awareness, acquisition, drive-to-store), or combine multiple channels in a Bundle.
 
 <div class="gi-format-grid">
   <a href="sponsored-mail/" class="gi-format-card">
@@ -83,7 +83,7 @@ Four formats cover the entire post-purchase journey. Choose based on your object
 
 ## Services & resources
 
-getinside handles creation, printing, and delivery. You approve the proof — the platform ships to partner retailers. Consult the resources below to frame your budget and discover what other brands have achieved.
+getinside handles creation, printing, and delivery. You approve the proof, and the platform ships to partner retailers. Consult the resources below to frame your budget and discover what other brands have achieved.
 
 <div class="gi-quick-links">
   <a href="printing-services" class="btn btn-outline">🖨️ Printing & Logistics</a>

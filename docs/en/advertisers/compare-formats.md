@@ -31,7 +31,7 @@ The Parcel Insert is the most tangible format: a physical flyer inside a parcel.
 
 ### Engagement and storytelling → Dedicated Email
 
-The Dedicated Email gives you the space of an entire email to tell your story: multiple visuals, long copy, multiple CTAs. The retailer signs the email in their name — you benefit from their customer relationship. Ideal for brand launches, complex operations, or premium audiences.
+The Dedicated Email gives you the space of an entire email to tell your story: multiple visuals, long copy, multiple CTAs. The retailer signs the email in their name. You benefit from their customer relationship. Ideal for brand launches, complex operations, or premium audiences.
 
 [Learn more about Dedicated Email →](/en/advertisers/dedicated-email/)
 
@@ -43,7 +43,7 @@ Display Email goes live in 48 hours. One banner, one link, a qualified audience 
 
 ### Social reach via trusted accounts → Social Ads
 
-Social Ads uses the retailer's social account (Instagram, TikTok, Facebook) to deliver your message. You benefit from the partner's audience and credibility — without appearing as a cold ad. Available on request.
+Social Ads uses the retailer's social account (Instagram, TikTok, Facebook) to deliver your message. You benefit from the partner's audience and credibility, without appearing as a cold ad. Available on request.
 
 [Learn more about Social Ads →](/en/advertisers/sponsored-social/)
 

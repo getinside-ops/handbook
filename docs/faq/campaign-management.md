@@ -55,7 +55,7 @@ Le CTR moyen sur le réseau est de **2,87%**. Les formats gamifiés (Bundle, Jeu
 ::: details Un distributeur refuse mon visuel — que faire ?
 Le distributeur a un **droit de veto sur la marque** (concurrent direct, catégorie éthiquement incompatible), pas sur la direction artistique.
 
-Si votre fichier respecte les spécifications techniques (fond perdu 2mm, zone tranquille 3mm, résolution 300 DPI, mentions légales présentes), il est conforme. Transmettez votre BAT à [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) pour validation officielle — la validation getinside prime sur l'appréciation du distributeur.
+Si votre fichier respecte les spécifications techniques (fond perdu 2mm, zone tranquille 3mm, résolution 300 DPI, mentions légales présentes), il est conforme. Transmettez votre BAT à [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) pour validation officielle. La validation getinside prime sur l'appréciation du distributeur.
 
 → [Spécifications d'impression](/advertisers/sponsored-mail/design-guide/print-specs)
 :::

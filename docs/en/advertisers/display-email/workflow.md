@@ -20,8 +20,8 @@ Deploying a newsletter display ad is fast. Here are the steps from submission to
     <h3>Sending creative elements</h3>
     <p>Submit to the retailer (via the getinside platform):</p>
     <ul>
-      <li><strong>The visual</strong> — a JPG, PNG, or GIF image following the <a href="./specs">technical specifications</a>.</li>
-      <li><strong>The destination link</strong> — the URL of the landing page where clicks should be redirected.</li>
+      <li><strong>The visual</strong>: a JPG, PNG, or GIF image following the <a href="./specs">technical specifications</a>.</li>
+      <li><strong>The destination link</strong>: the URL of the landing page where clicks should be redirected.</li>
     </ul>
   </div>
 </div>
@@ -39,7 +39,7 @@ Deploying a newsletter display ad is fast. Here are the steps from submission to
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Integration and validation (proof)</h3>
-    <p>The retailer integrates your image into their newsletter and sends you a proof (BAT) for preview. Check the rendering — especially on mobile — then validate on the platform.</p>
+    <p>The retailer integrates your image into their newsletter and sends you a proof (BAT) for preview. Check the rendering, especially on mobile, then validate on the platform.</p>
   </div>
 </div>
 

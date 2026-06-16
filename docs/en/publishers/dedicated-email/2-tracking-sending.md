@@ -20,8 +20,8 @@ Your mockup is ready. Integrate tracking, submit a Print Proof (BAT), and manage
     <h3>Tracking integration</h3>
     <p>From the <strong>"Configuration"</strong> tab of the campaign, retrieve the two technical elements:</p>
     <ul>
-      <li><strong>Open pixel</strong> — Image tag <code>&lt;img…&gt;</code> to insert into the email's HTML (before <code>&lt;/body&gt;</code>). Required to count views.</li>
-      <li><strong>Tracked links (gtinsi.de)</strong> — Replace <strong>all</strong> links to the advertiser with the provided <code>gtinsi.de</code> URLs. Required to count clicks.</li>
+      <li><strong>Open pixel</strong>: Image tag <code>&lt;img…&gt;</code> to insert into the email's HTML (before <code>&lt;/body&gt;</code>). Required to count views.</li>
+      <li><strong>Tracked links (gtinsi.de)</strong>: Replace <strong>all</strong> links to the advertiser with the provided <code>gtinsi.de</code> URLs. Required to count clicks.</li>
     </ul>
   </div>
 </div>
@@ -58,7 +58,7 @@ If a resend is included in the order: use **exactly the same email** (same HTML,
 <div class="gi-step">
   <div class="gi-step-num done">✓</div>
   <div class="gi-step-body">
-    <h3>Final validation — mandatory action</h3>
+    <h3>Final validation: mandatory action</h3>
     <p>Once the broadcast (and any resend) is complete, return to <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> and click <strong>"Validate the broadcast"</strong>. Without this action, funds remain escrowed and your revenue is not triggered.</p>
   </div>
 </div>

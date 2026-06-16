@@ -80,7 +80,7 @@ Les commissions deviennent disponibles dans votre Wallet **30 jours après le pa
 
 **Pour vous (le parrain) :**
 - Compte actif sur la plateforme avec les Conditions Générales de Parrainage acceptées.
-- À jour de vos paiements envers getinside — les commissions sont suspendues en cas de facture impayée jusqu'à régularisation.
+- À jour de vos paiements envers getinside. Les commissions sont suspendues en cas de facture impayée jusqu'à régularisation.
 
 ::: info Pour votre filleul
 - Inscription exclusivement via votre lien d'invitation unique.

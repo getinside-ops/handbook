@@ -20,8 +20,8 @@ Votre maquette est prête. Intégrez le tracking, soumettez un BAT et gérez la 
     <h3>Intégration du tracking</h3>
     <p>Depuis l'onglet <strong>"Configuration"</strong> de la campagne, récupérez les deux éléments techniques :</p>
     <ul>
-      <li><strong>Pixel d'ouverture</strong> — Balise image <code>&lt;img…&gt;</code> à insérer dans le HTML de l'email (avant <code>&lt;/body&gt;</code>). Indispensable pour comptabiliser les vues.</li>
-      <li><strong>Liens trackés (gtinsi.de)</strong> — Remplacez <strong>tous</strong> les liens vers l'annonceur par les URLs <code>gtinsi.de</code> fournies. Indispensable pour comptabiliser les clics.</li>
+      <li><strong>Pixel d'ouverture</strong> : balise image <code>&lt;img…&gt;</code> à insérer dans le HTML de l'email (avant <code>&lt;/body&gt;</code>). Indispensable pour comptabiliser les vues.</li>
+      <li><strong>Liens trackés (gtinsi.de)</strong> : remplacez <strong>tous</strong> les liens vers l'annonceur par les URLs <code>gtinsi.de</code> fournies. Indispensable pour comptabiliser les clics.</li>
     </ul>
   </div>
 </div>
@@ -39,7 +39,7 @@ Votre maquette est prête. Intégrez le tracking, soumettez un BAT et gérez la 
   </div>
 </div>
 
-::: danger BAT — Email réel obligatoire
+::: danger BAT : Email réel obligatoire
 Ne soumettez jamais de BAT sous forme de capture d'écran, PDF ou fichier HTML brut. L'email doit être reçu sur notre boîte pour tester le responsive, le pixel et les redirections en conditions réelles.
 :::
 
@@ -58,7 +58,7 @@ Si un renvoi est inclus dans la commande : utilisez **exactement le même email*
 <div class="gi-step">
   <div class="gi-step-num done">✓</div>
   <div class="gi-step-body">
-    <h3>Validation finale — action obligatoire</h3>
+    <h3>Validation finale : action obligatoire</h3>
     <p>Une fois la diffusion (et le renvoi éventuel) terminée, retournez sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> et cliquez sur <strong>"Valider la diffusion"</strong>. Sans cette action, les fonds restent séquestrés et votre revenu n'est pas déclenché.</p>
   </div>
 </div>

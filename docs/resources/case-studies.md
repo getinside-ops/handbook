@@ -50,7 +50,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
 
 ---
 
-## Dedicated Email — exemples live
+## Dedicated Email : exemples live
 
 Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
 
@@ -261,23 +261,23 @@ Cliquez sur les images pour zoomer.
 
 | Indicateur | Résultat |
 |---|---|
-| CTR moyen réseau | 2,87% — vs 0,90% sur Meta Ads |
-| CTR record | 12% — Total Wash (Drive to App, ciblage Auto-Moto) |
-| ROI record | 16:1 — Nocibé (campagne omnicanale Drive-to-Store) |
-| ROAS record | 824% — Blacksheep (Insertion Colis) |
+| CTR moyen réseau | 2,87% |
+| CTR record | 12% (Total Wash, Drive to App, ciblage Auto-Moto) |
+| ROI record | 16:1 (Nocibé, campagne omnicanale Drive-to-Store) |
+| ROAS record | 824% (Blacksheep, Insertion Colis) |
 
 ---
 
 ## Témoignages
 
 > "Nous diversifions notre acquisition client avec l'ajout de ce levier qui ne souffre pas d'une concurrence exacerbée."
-> — **Japhy**
+> **Japhy**
 
 > "Levier pertinent avec la possibilité de cibler l'audience de HelloFresh (alimentation, livraison domicile)."
-> — **Pepette**
+> **Pepette**
 
 > "Taux de scan de 2,67% et un ROAS de 824%."
-> — **Blacksheep**
+> **Blacksheep**
 
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>

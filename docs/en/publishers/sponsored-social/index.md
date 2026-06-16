@@ -10,7 +10,7 @@ keywords:
 
 # Social Ads (Publisher)
 
-Generate incremental revenue by granting selected advertisers the right to boost your posts — without impacting your editorial line.
+Generate incremental revenue by granting selected advertisers the right to boost your posts, without impacting your editorial line.
 
 ::: tip Guaranteed revenue
 Your payment is credited to your getinside Wallet as soon as the campaign ends. The advertiser invests their own media budget on your content.
@@ -55,7 +55,7 @@ getinside manages the entire campaign on your behalf: advertiser selection, crea
 | Grant boost rights | Advertiser selection and coordination |
 | Validate creative before delivery | Creative production and copywriting |
 | Validate the campaign on the platform | Targeting, setup and campaign management |
-| — | Tracking and reporting |
+| *(n/a)* | Tracking and reporting |
 
 ## Eligibility
 

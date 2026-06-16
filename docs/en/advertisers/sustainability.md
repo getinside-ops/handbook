@@ -11,7 +11,7 @@ keywords:
 
 # CSR & parcel inserts: responsible paper advertising
 
-Parcel inserts have their place in a responsible marketing strategy. The material is printed in France on certified paper, and only ever reaches real buyers — at the moment they open a parcel they were waiting for. Print has an impact, of course; everything comes down to how it is produced and received.
+Parcel inserts have their place in a responsible marketing strategy. The material is printed in France on certified paper, and only ever reaches real buyers, at the moment they open a parcel they were waiting for. Print has an impact, of course; everything comes down to how it is produced and received.
 
 <div class="gi-cert-row">
   <div class="gi-cert-item">
@@ -57,7 +57,7 @@ Parcel inserts have their place in a responsible marketing strategy. The materia
     <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></svg></span>
     <div class="gi-feature-body">
       <strong>Responsible production</strong>
-      <p>Printed in France on FSC/PEFC-certified paper with vegetable inks, in Imprim'Vert and ISO 14001 workshops. When a campaign includes a sample, its assembly onto the flyer — bonded with a fugitive glue dot — is carried out by <a href="https://travail-emploi.gouv.fr/les-entreprises-adaptees-ea-et-entreprises-adaptees-de-travail-temporaire-eatt" target="_blank" rel="noopener">Adapted Enterprises</a>.</p>
+      <p>Printed in France on FSC/PEFC-certified paper with vegetable inks, in Imprim'Vert and ISO 14001 workshops. When a campaign includes a sample, its assembly onto the flyer, bonded with a fugitive glue dot, is carried out by <a href="https://travail-emploi.gouv.fr/les-entreprises-adaptees-ea-et-entreprises-adaptees-de-travail-temporaire-eatt" target="_blank" rel="noopener">Adapted Enterprises</a>.</p>
     </div>
   </div>
 </div>

@@ -29,7 +29,7 @@ Formats A5 et A6 avec zones de fond perdu et zones tranquilles pré-tracées. Di
 <a href="https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe" target="_blank" class="btn btn-primary btn-sm">Accéder au Drive ↗</a>
 
 ::: info Besoin d'aide créative ?
-Vous n'avez pas les logiciels Adobe ? Déléguez la création au [Studio Créatif](/resources/studio). Forfait 550€ HT par campagne — contact : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
+Vous n'avez pas les logiciels Adobe ? Déléguez la création au [Studio Créatif](/resources/studio). Forfait 550€ HT par campagne, contact : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 ---
@@ -41,7 +41,7 @@ Pour préparer vos visuels aux normes techniques, utilisez un logiciel de PAO pe
 | Logiciel | Usage |
 |---|---|
 | Adobe Illustrator | Illustrations vectorielles, export PDF/X avec fond perdu |
-| Adobe Photoshop | Images matricielles — résolution ≥ 300 DPI, mode CMJN |
+| Adobe Photoshop | Images matricielles, résolution ≥ 300 DPI, mode CMJN |
 | Adobe InDesign | Mise en page multi-pages, gestion du fond perdu automatique |
 | Affinity Publisher | Alternative Adobe, export PDF/X accepté |
 | Canva Pro | Accepté si export en PDF/X CMJN disponible |
@@ -50,5 +50,5 @@ Pour préparer vos visuels aux normes techniques, utilisez un logiciel de PAO pe
 
 ## Documents de référence
 
-- **[Check-list de contrôle avant envoi ↗](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** — À vérifier impérativement avant de soumettre un BAT.
-- **[Guide de Conception de Contenus](/advertisers/sponsored-mail/design-guide/)** — Règles techniques pour vos flyers : formats, résolution, mentions légales.
+- **[Check-list de contrôle avant envoi ↗](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** : à vérifier impérativement avant de soumettre un BAT.
+- **[Guide de Conception de Contenus](/advertisers/sponsored-mail/design-guide/)** : règles techniques pour vos flyers : formats, résolution, mentions légales.

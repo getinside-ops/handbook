@@ -30,7 +30,7 @@ The goal is **native endorsement**: the message must be perceived as a sincere r
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Keep your visual identity</h3>
-    <p>Use your usual header, fonts, and buttons. Your subscribers recognise your newsletter — don't turn it into a billboard.</p>
+    <p>Use your usual header, fonts, and buttons. Your subscribers recognise your newsletter. Don't turn it into a billboard.</p>
   </div>
 </div>
 
@@ -38,7 +38,7 @@ The goal is **native endorsement**: the message must be perceived as a sincere r
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Write an introductory editorial</h3>
-    <p>Write a personalised hook — <em>"Dear customers, here is something we wanted to share with you…"</em> — to contextualise the offer and build trust.</p>
+    <p>Write a personalised hook, for example <em>"Dear customers, here is something we wanted to share with you…"</em>, to contextualise the offer and build trust.</p>
   </div>
 </div>
 
@@ -56,12 +56,12 @@ Real renders online (responsive, co-branding, endorsement):
 
 | Campaign | Context | Render |
 | :--- | :--- | :--- |
-| **Les Pièces Jaunes × Mieux que des Fleurs** | Charity — fundraising | [View](https://getinside-ops.github.io/archive-news/820c70e8b537/index.html){target="_blank"} |
-| **Ultra Premium Direct × La Redoute** | Premium petfood — Pet owner audience | [View](https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html){target="_blank"} |
-| **Les Petits Culottés × Caats** | Children's fashion — Parents/Family audience | [View](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
-| **Yooji × HelloFresh** | Baby food — Young Parents audience | [View](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
+| **Les Pièces Jaunes × Mieux que des Fleurs** | Charity, fundraising | [View](https://getinside-ops.github.io/archive-news/820c70e8b537/index.html){target="_blank"} |
+| **Ultra Premium Direct × La Redoute** | Premium petfood, Pet owner audience | [View](https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html){target="_blank"} |
+| **Les Petits Culottés × Caats** | Children's fashion, Parents/Family audience | [View](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
+| **Yooji × HelloFresh** | Baby food, Young Parents audience | [View](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
 
-## Option — Studio delegation
+## Option: Studio delegation
 
 ::: info No time to create?
 Delegate to the **getinside Studio**: email creation in your brand colours, editorial writing, and technical integration.
