@@ -35,7 +35,7 @@ Discover how other brands and distributors use getinside to achieve their acquis
   </div>
   <div class="gi-value-card">
     <strong>Parcel · Food and beverages</strong>
-    <p>27,000 people reached · 44% conversion rate.</p>
+    <p>Awareness and recruitment: 27,000 people reached.</p>
     <p><em>"A smart campaign."</em> Marie Rassat, Senior Marketing & Communication Manager</p>
   </div>
   <div class="gi-value-card">

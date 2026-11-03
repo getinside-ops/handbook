@@ -35,7 +35,7 @@ Découvrez comment d'autres marques et distributeurs utilisent getinside pour at
   </div>
   <div class="gi-value-card">
     <strong>Colis · Alimentation et boissons</strong>
-    <p>27 000 personnes touchées · 44 % de taux de conversion.</p>
+    <p>Notoriété et recrutement : 27 000 personnes touchées.</p>
     <p><em>« Une campagne intelligente. »</em> Marie Rassat, Senior Marketing & Communication Manager</p>
   </div>
   <div class="gi-value-card">
