@@ -5,7 +5,7 @@ import path from 'path'
 const config: any = withMermaid(
   defineConfig({
     title: 'getinside Handbook',
-    description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.',
+    description: 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.',
     base: '/handbook/',
     srcDir: 'docs',
 
@@ -21,7 +21,7 @@ const config: any = withMermaid(
         themeConfig: {
           nav: [
             { text: '🛍️ Advertisers', link: '/en/advertisers/' },
-            { text: '📦 Retailers', link: '/en/publishers/' },
+            { text: '📦 Network brands', link: '/en/publishers/' },
             { text: '❓ FAQ', link: '/en/faq/' },
             { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
           ],
@@ -63,7 +63,7 @@ const config: any = withMermaid(
       ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:site_name', content: 'getinside Handbook' }],
       ['meta', { property: 'og:title', content: 'getinside Handbook - Guides & Specs' }],
-      ['meta', { property: 'og:description', content: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.' }],
+      ['meta', { property: 'og:description', content: 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.' }],
       ['meta', { property: 'og:locale', content: 'fr_FR' }],
       ['meta', { property: 'og:image', content: 'https://getinside-ops.github.io/handbook/images/og-image.png' }],
       ['meta', { property: 'og:image:width', content: '1200' }],
@@ -94,7 +94,7 @@ const config: any = withMermaid(
       ['meta', { name: 'publisher', content: 'getinside' }],
 
       // LLM-specific
-      ['meta', { name: 'ChatGPT-content', content: 'Retail media platform documentation - comprehensive guides for advertisers and e-commerce retailers' }],
+      ['meta', { name: 'ChatGPT-content', content: 'getinside documentation - parcel and direct mail marketing: guides for advertisers and network brands' }],
     ],
 
     themeConfig: {
@@ -139,7 +139,7 @@ const config: any = withMermaid(
 
       nav: [
         { text: '🛍️ Annonceurs', link: '/advertisers/' },
-        { text: '📦 Retailers', link: '/publishers/' },
+        { text: '📦 Marques du réseau', link: '/publishers/' },
         { text: '❓ FAQ', link: '/faq/' },
         { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
       ], sidebar: {
@@ -425,7 +425,7 @@ const config: any = withMermaid(
     async transformHead({ pageData }) {
       const { frontmatter, title, relativePath } = pageData
       const pageTitle = frontmatter.title || title || 'getinside Handbook'
-      const pageDescription = frontmatter.description || 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.'
+      const pageDescription = frontmatter.description || 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.'
       const pageImage = frontmatter.image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
       const relUrl = relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
       const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`
@@ -452,7 +452,7 @@ if (!config.locales.en) config.locales.en = { label: 'English', lang: 'en-US', l
 config.locales.en.themeConfig = {
   nav: [
     { text: '🛍️ Advertisers', link: '/en/advertisers/' },
-    { text: '📦 Retailers', link: '/en/publishers/' },
+    { text: '📦 Network brands', link: '/en/publishers/' },
     { text: '❓ FAQ', link: '/en/faq/' },
     { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
   ],
