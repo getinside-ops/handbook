@@ -158,7 +158,7 @@ const config: any = withMermaid(
               { text: 'Vue d\'ensemble', link: '/advertisers/' },
               { text: 'Démarrage Rapide', link: '/advertisers/onboarding-quick-start' },
               {
-                text: 'Insertion Colis',
+                text: 'Insertion colis',
                 collapsed: true,
                 items: [
                   { text: 'Présentation', link: '/advertisers/sponsored-mail/' },
@@ -173,43 +173,47 @@ const config: any = withMermaid(
                   },
                 ],
               },
+              { text: 'Courrier adressé', link: '/advertisers/direct-mail/' },
+              { text: 'Échantillonnage', link: '/advertisers/sampling/' },
               {
-                text: 'Emailing Dédié',
+                text: 'Autres formats',
                 collapsed: true,
                 items: [
-                  { text: 'Présentation', link: '/advertisers/dedicated-email/' },
-                  { text: 'Brief Annonceur', link: '/advertisers/dedicated-email/1-brief-annonceur' },
-                  { text: 'Création Distributeur', link: '/advertisers/dedicated-email/2-creation-distributeur' },
-                  { text: 'Validation & Diffusion', link: '/advertisers/dedicated-email/3-validation-diffusion' },
+                  {
+                    text: 'Emailing Dédié',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/advertisers/dedicated-email/' },
+                      { text: 'Brief Annonceur', link: '/advertisers/dedicated-email/1-brief-annonceur' },
+                      { text: 'Création Distributeur', link: '/advertisers/dedicated-email/2-creation-distributeur' },
+                      { text: 'Validation & Diffusion', link: '/advertisers/dedicated-email/3-validation-diffusion' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/advertisers/display-email/' },
+                      { text: 'Spécifications', link: '/advertisers/display-email/specs' },
+                      { text: 'Workflow', link: '/advertisers/display-email/workflow' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/advertisers/sponsored-social/' },
+                  { text: 'Jeu Concours', link: '/advertisers/co-branded-contest/' },
                 ],
               },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Présentation', link: '/advertisers/display-email/' },
-                  { text: 'Spécifications', link: '/advertisers/display-email/specs' },
-                  { text: 'Workflow', link: '/advertisers/display-email/workflow' },
-                ],
-              },
-              {
-                text: 'Social Ads',
-                link: '/advertisers/sponsored-social/',
-              },
-              { text: 'Jeu Concours', link: '/advertisers/co-branded-contest/' },
               { text: 'Service Impression & RSE', link: '/advertisers/printing-services' },
-              { text: 'Tarifs Annonceurs', link: '/advertisers/pricing' },
             ],
           },
           {
-            text: 'Espace Retailers',
+            text: 'Espace Marques du réseau',
             collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/publishers/' },
               { text: 'Démarrage Rapide', link: '/publishers/onboarding-quick-start' },
               { text: 'Guide de Démarrage Complet', link: '/publishers/onboarding-process' },
               {
-                text: 'Insertion Colis',
+                text: 'Insertion colis',
                 collapsed: true,
                 items: [
                   { text: 'Présentation', link: '/publishers/sponsored-mail/' },
@@ -218,29 +222,29 @@ const config: any = withMermaid(
                 ],
               },
               {
-                text: 'Emailing Dédié',
+                text: 'Autres formats',
                 collapsed: true,
                 items: [
-                  { text: 'Présentation', link: '/publishers/dedicated-email/' },
-                  { text: 'Design', link: '/publishers/dedicated-email/1-design' },
-                  { text: 'Tracking & Envoi', link: '/publishers/dedicated-email/2-tracking-sending' },
+                  {
+                    text: 'Emailing Dédié',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/publishers/dedicated-email/' },
+                      { text: 'Design', link: '/publishers/dedicated-email/1-design' },
+                      { text: 'Tracking & Envoi', link: '/publishers/dedicated-email/2-tracking-sending' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/publishers/display-email/' },
+                      { text: 'Intégration', link: '/publishers/display-email/integration' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/publishers/sponsored-social/' },
+                  { text: 'Jeu Concours', link: '/publishers/co-branded-contest/' },
                 ],
-              },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Présentation', link: '/publishers/display-email/' },
-                  { text: 'Intégration', link: '/publishers/display-email/integration' },
-                ],
-              },
-              {
-                text: 'Social Ads',
-                link: '/publishers/sponsored-social/',
-              },
-              {
-                text: 'Jeu Concours',
-                link: '/publishers/co-branded-contest/',
               },
               {
                 text: 'Gestion & Revenus',
@@ -250,7 +254,6 @@ const config: any = withMermaid(
                   { text: 'Audiences & Données', link: '/publishers/audience-setup' },
                   { text: 'Paiements & Wallet', link: '/publishers/payouts' },
                   { text: "Programme d'Affiliation", link: '/publishers/affiliation' },
-                  { text: 'Offres & Abonnements', link: '/publishers/pricing' },
                 ],
               },
             ],
@@ -309,33 +312,40 @@ const config: any = withMermaid(
                   },
                 ],
               },
+              { text: 'Direct Mail', link: '/en/advertisers/direct-mail/' },
+              { text: 'Sampling', link: '/en/advertisers/sampling/' },
               {
-                text: 'Dedicated Email',
+                text: 'Other Formats',
                 collapsed: true,
                 items: [
-                  { text: 'Overview', link: '/en/advertisers/dedicated-email/' },
-                  { text: 'Advertiser Brief', link: '/en/advertisers/dedicated-email/1-brief-annonceur' },
-                  { text: 'Retailer Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
-                  { text: 'Validation & Delivery', link: '/en/advertisers/dedicated-email/3-validation-diffusion' },
+                  {
+                    text: 'Dedicated Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Presentation', link: '/en/advertisers/dedicated-email/' },
+                      { text: 'Advertiser Brief', link: '/en/advertisers/dedicated-email/1-brief-annonceur' },
+                      { text: 'Retailer Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
+                      { text: 'Validation & Delivery', link: '/en/advertisers/dedicated-email/3-validation-diffusion' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Presentation', link: '/en/advertisers/display-email/' },
+                      { text: 'Specs', link: '/en/advertisers/display-email/specs' },
+                      { text: 'Workflow', link: '/en/advertisers/display-email/workflow' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/en/advertisers/sponsored-social/' },
+                  { text: 'Co-branded Contest', link: '/en/advertisers/co-branded-contest/' },
                 ],
               },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Overview', link: '/en/advertisers/display-email/' },
-                  { text: 'Specs', link: '/en/advertisers/display-email/specs' },
-                  { text: 'Workflow', link: '/en/advertisers/display-email/workflow' },
-                ],
-              },
-              { text: 'Social Ads', link: '/en/advertisers/sponsored-social/' },
-              { text: 'Co-branded Contest', link: '/en/advertisers/co-branded-contest/' },
               { text: 'Printing & CSR Services', link: '/en/advertisers/printing-services' },
-              { text: 'Advertiser Pricing', link: '/en/advertisers/pricing' },
             ],
           },
           {
-            text: 'Retailers',
+            text: 'Network Brands',
             collapsed: true,
             items: [
               { text: 'Overview', link: '/en/publishers/' },
@@ -351,33 +361,38 @@ const config: any = withMermaid(
                 ],
               },
               {
-                text: 'Dedicated Email',
+                text: 'Other Formats',
                 collapsed: true,
                 items: [
-                  { text: 'Overview', link: '/en/publishers/dedicated-email/' },
-                  { text: 'Design', link: '/en/publishers/dedicated-email/1-design' },
-                  { text: 'Tracking & Sending', link: '/en/publishers/dedicated-email/2-tracking-sending' },
+                  {
+                    text: 'Dedicated Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Overview', link: '/en/publishers/dedicated-email/' },
+                      { text: 'Design', link: '/en/publishers/dedicated-email/1-design' },
+                      { text: 'Tracking & Sending', link: '/en/publishers/dedicated-email/2-tracking-sending' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Overview', link: '/en/publishers/display-email/' },
+                      { text: 'Integration', link: '/en/publishers/display-email/integration' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/en/publishers/sponsored-social/' },
+                  { text: 'Co-branded Contest', link: '/en/publishers/co-branded-contest/' },
                 ],
               },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Overview', link: '/en/publishers/display-email/' },
-                  { text: 'Integration', link: '/en/publishers/display-email/integration' },
-                ],
-              },
-              { text: 'Social Ads', link: '/en/publishers/sponsored-social/' },
-              { text: 'Co-branded Contest', link: '/en/publishers/co-branded-contest/' },
               {
                 text: 'Management & Revenue',
                 collapsed: true,
                 items: [
-                  { text: 'Retailer Score', link: '/en/publishers/score-distributor' },
+                  { text: 'Network Brand Score', link: '/en/publishers/score-distributor' },
                   { text: 'Audiences & Data', link: '/en/publishers/audience-setup' },
                   { text: 'Payments & Wallet', link: '/en/publishers/payouts' },
                   { text: 'Affiliation Program', link: '/en/publishers/affiliation' },
-                  { text: 'Offers & Subscriptions', link: '/en/publishers/pricing' },
                 ],
               },
             ],
@@ -387,7 +402,7 @@ const config: any = withMermaid(
             collapsed: true,
             items: [
               { text: 'Overview', link: '/en/faq/' },
-              { text: 'Retailer Issues', link: '/en/faq/troubleshooting-distributors' },
+              { text: 'Network Brand Issues', link: '/en/faq/troubleshooting-distributors' },
               { text: 'Audiences & Account', link: '/en/faq/account-audiences' },
               { text: 'Billing', link: '/en/faq/billing' },
               { text: 'Campaign Management', link: '/en/faq/campaign-management' },
