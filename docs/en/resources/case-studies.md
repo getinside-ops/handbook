@@ -10,6 +10,81 @@ Discover how other brands and distributors use getinside to achieve their acquis
 
 ---
 
+## 🎯 Results by use case
+
+### Recruit
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Parcel · Auto-Moto, Family Kids & Baby</strong>
+    <p>12% conversion rate · 1,053 new customers · CAC €3.5.</p>
+    <p><em>"Audience activation is an excellent lever to reach segments that were untapped until now."</em> Marina Lépine, Marketing Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Parcel · Gifts and events</strong>
+    <p>3.12% conversion rate · 5,766 new customers · CAC €4.5, online and in store.</p>
+    <p><em>"An omnichannel campaign that managed to reconcile online and offline."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Parcel · Food and beverages</strong>
+    <p>27,000 people reached · 44% conversion rate.</p>
+    <p><em>"A smart campaign."</em> Marie Rassat, Senior Marketing & Communication Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Parcel · Food</strong>
+    <p>2.5% conversion rate · 768 new customers · CAC €10.</p>
+    <p><em>"A high-impact campaign that puts the brand in front of a target with strong affinities with Japhy's audience."</em> Lucie Prevot, Influence Partnership Manager</p>
+  </div>
+</div>
+
+### Sample
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Sample · Beauty, Health & Wellness</strong>
+    <p>30,000 samples distributed · 65,000 contacts reached.</p>
+    <p><em>"A turnkey campaign for our product activation."</em> Sophie Bouyssie, E-commerce Activation Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Sample · Food</strong>
+    <p>30,000 samples and flyers distributed · 80,000 contacts reached.</p>
+    <p><em>"A real product discovery experience at a key moment of the customer journey, which encourages purchase through a promotional offer."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Sample · Sports and outdoor activities</strong>
+    <p>13,000 samples and flyers distributed · 50,000 contacts reached, at an affinity event.</p>
+    <p><em>"Speaking as close as possible to our target, at the heart of a unifying event."</em> Charlotte Desrumaux, Marketing manager</p>
+  </div>
+</div>
+
+### Retain
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Direct mail · Reactivation</strong>
+    <p>Reactivation of former customers with a dedicated offer: 6% conversion rate.</p>
+  </div>
+</div>
+
+### Monetise
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Self-funded media budget</strong>
+    <p>90% of revenue reinvested in acquisition campaigns · €60K+ revenue generated in under a year.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>New recurring revenue source</strong>
+    <p>€200K+ revenue generated in one year · 30+ campaigns delivered per year.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Maximised value per campaign</strong>
+    <p>+375% average basket per campaign · €50K+ revenue generated since integration.</p>
+  </div>
+</div>
+
+---
+
 ## 📧 Dedicated Email (Live Examples)
 
 Click on the buttons to see the actual rendering in the browser.

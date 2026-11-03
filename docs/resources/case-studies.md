@@ -10,6 +10,81 @@ Découvrez comment d'autres marques et distributeurs utilisent getinside pour at
 
 ---
 
+## 🎯 Résultats par usage
+
+### Recruter
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Colis · Auto-Moto, Famille Enfant Bébé</strong>
+    <p>12 % de taux de conversion · 1 053 nouveaux clients · CAC 3,5 €.</p>
+    <p><em>« L'activation d'audiences est un excellent levier pour atteindre des segments jusqu'ici inexploités. »</em> Marina Lépine, Responsable marketing</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Colis · Cadeaux et événements</strong>
+    <p>3,12 % de taux de conversion · 5 766 nouveaux clients · CAC 4,5 €, en ligne et en magasin.</p>
+    <p><em>« Une campagne omnicanale qui a su réconcilier le on et le off line. »</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Colis · Alimentation et boissons</strong>
+    <p>27 000 personnes touchées · 44 % de taux de conversion.</p>
+    <p><em>« Une campagne intelligente. »</em> Marie Rassat, Senior Marketing & Communication Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Colis · Alimentation</strong>
+    <p>2,5 % de taux de conversion · 768 nouveaux clients · CAC 10 €.</p>
+    <p><em>« Une campagne à fort impact qui fait connaître la marque auprès d'une cible présentant de fortes affinités avec l'audience de Japhy. »</em> Lucie Prevot, Influence Partnership Manager</p>
+  </div>
+</div>
+
+### Échantillonner
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Échantillon · Beauté, Santé & Bien-être</strong>
+    <p>30 000 échantillons distribués · 65 000 contacts touchés.</p>
+    <p><em>« Une campagne clé en main pour notre activation produit. »</em> Sophie Bouyssie, E-commerce Activation Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Échantillon · Alimentation</strong>
+    <p>30 000 échantillons et flyers distribués · 80 000 contacts touchés.</p>
+    <p><em>« Une vraie expérience de découverte produit dans un moment clé du parcours client et qui permet l'incitation à l'achat via une offre promotionnelle. »</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Échantillon · Sport et activités extérieures</strong>
+    <p>13 000 échantillons et flyers distribués · 50 000 contacts touchés, lors d'un événement affinitaire.</p>
+    <p><em>« Une prise de parole au plus près de notre cible, au cœur d'un événement fédérateur. »</em> Charlotte Desrumaux, Marketing manager</p>
+  </div>
+</div>
+
+### Fidéliser
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Courrier adressé · Réactivation</strong>
+    <p>Réactivation d'anciens clients avec une offre dédiée : 6 % de taux de conversion.</p>
+  </div>
+</div>
+
+### Monétiser
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Budget média autofinancé</strong>
+    <p>90 % des revenus réinvestis dans les campagnes d'acquisition · +60 K€ de revenus générés en moins d'un an.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Nouvelle source de revenus récurrente</strong>
+    <p>+200 K€ de revenus générés en un an · +30 campagnes diffusées par an.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Valeur maximisée par campagne</strong>
+    <p>+375 % d'augmentation du panier moyen par campagne · +50 K€ de revenus générés depuis l'intégration.</p>
+  </div>
+</div>
+
+---
+
 ## 📧 Dedicated Email (Exemples Live)
 
 Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
