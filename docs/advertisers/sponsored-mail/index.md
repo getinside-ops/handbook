@@ -1,10 +1,18 @@
 ---
-title: Insertion Colis
+title: Insertion colis - Recruter avec getinside
+description: Insérez votre offre dans le colis du client d'une marque affinitaire, ou emportez-la avec sa commande. Recrutez vos futurs clients là où les décisions d'achat se prennent.
+keywords:
+  - insertion colis
+  - recruter des clients
+  - audiences affinitaires
+  - flyer
+  - échantillon
+  - getinside
 ---
 
-# Insertion Colis (Sponsored Mail)
+# Insertion colis
 
-Glissez votre offre (flyer, carte, échantillon) à l'intérieur des colis d'e-commerçants soigneusement sélectionnés — et touchez vos clients au moment de l'unboxing.
+Un support est inséré dans le colis du client ou emporté avec sa commande. Glissez votre offre (flyer, carte, échantillon) dans les colis de marques affinitaires, et touchez vos futurs clients là où les décisions d'achat se prennent.
 
 ---
 
@@ -14,7 +22,7 @@ Glissez votre offre (flyer, carte, échantillon) à l'intérieur des colis d'e-c
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Sélectionnez vos distributeurs</h3>
-    <p>Parcourez le réseau de +250 e-commerçants partenaires. Filtrez par secteur, panier moyen, géographie et profil B2B/B2C pour construire votre plan média ciblé.</p>
+    <p>Parcourez le réseau de marques partenaires (+300 audiences agrégées). Filtrez par secteur, panier moyen, géographie et profil B2B/B2C pour construire votre plan média ciblé.</p>
   </div>
 </div>
 
@@ -75,7 +83,7 @@ Sélectionnez vos distributeurs selon quatre critères :
 | **Géographie** | France, Belgique, Espagne, Allemagne… |
 
 :::info Exclusivité sectorielle garantie
-Votre offre est toujours insérée chez un e-commerçant **non concurrent**. Et dans un même colis, deux offres concurrentes ne peuvent jamais coexister.
+Votre offre est toujours insérée chez une marque du réseau **non concurrente**. Et dans un même colis, deux offres concurrentes ne peuvent jamais coexister.
 :::
 
 ---
@@ -142,7 +150,7 @@ Vous lancez votre première campagne quand vous voulez, avec le budget que vous 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🌐 Réseau Exclusif</strong>
-    <p>+250 e-commerçants partenaires avec des audiences de niche souvent inaccessibles en direct. Un seul interlocuteur pour l'ensemble du réseau.</p>
+    <p>Des marques partenaires (+300 audiences agrégées), dont des audiences de niche souvent inaccessibles en direct. Un seul interlocuteur pour l'ensemble du réseau.</p>
   </div>
   <div class="gi-value-card">
     <strong>🏭 Logistique Intégrée</strong>

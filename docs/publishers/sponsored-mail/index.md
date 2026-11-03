@@ -1,8 +1,16 @@
 ---
-title: Sponsored Mail (publisher)
+title: Insertion colis - Monétiser avec getinside
+description: Monétisez vos colis en délivrant des campagnes de partenaires. Procédures de réception, d'insertion et de reporting des campagnes pour les marques du réseau.
+keywords:
+  - insertion colis
+  - monétiser ses colis
+  - marques du réseau
+  - logistique colis
+  - reporting hebdomadaire
+  - getinside
 ---
 
-# Insertion Colis (Sponsored Mail)
+# Insertion colis
 
 Les procédures opérationnelles pour la réception, l'insertion et le reporting des campagnes. Taux de lecture **100% garanti** — vos colis assurent la visibilité maximale.
 

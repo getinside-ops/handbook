@@ -1,10 +1,18 @@
 ---
-title: Parcel Insert
+title: Parcel inserts - Recruit with getinside
+description: Insert your offer in the parcel of an affinity brand's customer, or hand it over with their order. Recruit your future customers where purchase decisions are made.
+keywords:
+  - parcel inserts
+  - recruit customers
+  - affinity audiences
+  - flyer
+  - sample
+  - getinside
 ---
 
-# Parcel Insert (Sponsored Mail)
+# Parcel inserts
 
-Slip your offer (flyer, card, sample) inside the parcels of carefully selected e-retailers — and reach your customers at the moment of unboxing.
+A printed piece is placed in the customer's parcel or handed over with their order. Slip your offer (flyer, card, sample) into the parcels of affinity brands, and reach your future customers where purchase decisions are made.
 
 ---
 
@@ -14,7 +22,7 @@ Slip your offer (flyer, card, sample) inside the parcels of carefully selected e
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Select your distributors</h3>
-    <p>Browse the network of +250 partner e-retailers. Filter by sector, average basket, geography, and B2B/B2C profile to build your targeted media plan.</p>
+    <p>Browse the network of partner brands (300+ aggregated audiences). Filter by sector, average basket, geography, and B2B/B2C profile to build your targeted media plan.</p>
   </div>
 </div>
 
@@ -75,7 +83,7 @@ Select your distributors based on four criteria:
 | **Geography** | France, Belgium, Spain, Germany... |
 
 :::info Guaranteed sector exclusivity
-Your offer is always inserted with a **non-competing** e-retailer. And in the same parcel, two competing offers can never coexist.
+Your offer is always inserted with a **non-competing** network brand. And in the same parcel, two competing offers can never coexist.
 :::
 
 ---
@@ -142,7 +150,7 @@ You launch your first campaign whenever you want, with the budget you choose. Pl
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🌐 Exclusive Network</strong>
-    <p>+250 partner e-retailers with niche audiences often inaccessible directly. A single point of contact for the entire network.</p>
+    <p>Partner brands (300+ aggregated audiences), including niche audiences often inaccessible directly. A single point of contact for the entire network.</p>
   </div>
   <div class="gi-value-card">
     <strong>🏭 Integrated Logistics</strong>

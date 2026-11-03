@@ -1,8 +1,16 @@
 ---
-title: Sponsored Mail (publisher)
+title: Parcel inserts - Monetize with getinside
+description: Monetize your parcels by delivering partner campaigns. Reception, insertion and reporting procedures for network brands.
+keywords:
+  - parcel inserts
+  - monetize your parcels
+  - network brands
+  - parcel logistics
+  - weekly reporting
+  - getinside
 ---
 
-# Parcel Insert (Sponsored Mail)
+# Parcel inserts
 
 The operational procedures for receiving, inserting, and reporting campaigns. **100% guaranteed** read rate — your parcels ensure maximum visibility.
 
