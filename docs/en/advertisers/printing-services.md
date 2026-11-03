@@ -53,7 +53,7 @@ getinside acts as a **central purchasing office** to pool volumes, reduce your c
   </div>
   <div class="gi-value-card">
     <strong>🏷️ Self-promotion (For you)</strong>
-    <p>Do you want to print your own thank you cards or flyers to insert into <strong>your own parcels</strong>? Create an "internal" campaign via the platform and benefit from our industrial group rates. Pallet delivery to your door.</p>
+    <p>Do you want to print your own thank you cards or flyers to insert into <strong>your own parcels</strong>? Create an "internal" campaign via the platform and benefit from our industrial group purchasing. Pallet delivery to your door.</p>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ getinside acts as a **central purchasing office** to pool volumes, reduce your c
   </div>
   <div class="gi-value-card">
     <strong>📉 Economies of scale</strong>
-    <p>The larger the volume, the lower the unit cost. Sliding scale rates apply from the first few thousand copies.</p>
+    <p>The larger the volume, the lower the unit cost, thanks to pooled purchasing.</p>
   </div>
 </div>
 

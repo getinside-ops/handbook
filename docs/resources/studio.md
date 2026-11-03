@@ -8,7 +8,7 @@ Accélèrez votre time-to-market. Déléguez l'intégralité de la production gr
 
 ## L'Offre Studio
 
-### Forfait 550€ HT / Création
+### Création complète
 
 Conception + Direction Artistique + Rédaction + Mise en conformité technique. **Tout inclus.**
 
@@ -28,9 +28,7 @@ Conception + Direction Artistique + Rédaction + Mise en conformité technique. 
 </div>
 
 :::tip Commander un brief
-Contactez le Studio : **studio@getinside.fr**
-
-Pour les distributeurs : le forfait peut être déduit directement de vos revenus de campagnes.
+Contactez le Studio pour connaître les conditions : **studio@getinside.fr**
 :::
 
 ---

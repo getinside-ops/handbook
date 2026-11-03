@@ -93,7 +93,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
   <div class="gi-step-body">
     <h3>Reception & Negotiation</h3>
     <p>When a campaign is proposed, all your users receive a notification.</p>
-    <p><strong>⏱️ 48-Hour Rule (Critical)</strong> — Respond to any proposal within <strong>48 business hours</strong>. Silence means tacit refusal and incurs a penalty equal to the lost commission.</p>
+    <p><strong>⏱️ 48-Hour Rule (Critical)</strong> — Respond to any proposal within <strong>48 business hours</strong>. Silence means tacit refusal and incurs a contractual penalty.</p>
     <p><strong>Do not refuse, negotiate!</strong> The goal is to fill your inventory:</p>
     <ul>
       <li><strong>💰 Price too low?</strong> Make a counter-proposal on price.</li>
@@ -127,7 +127,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
       <strong>The concept:</strong> Invite the brands you distribute to buy visibility with you (Parcel Insert, Email, Social) via getinside.
       <ul>
         <li>✅ <strong>Simplification:</strong> Centralize all management and billing in one place.</li>
-        <li>✅ <strong>Profitability:</strong> Generate additional revenue from already acquired partners — <strong>0% network fee</strong> with Platform or Managed offers.</li>
+        <li>✅ <strong>Profitability:</strong> Generate additional revenue from already acquired partners.</li>
       </ul>
     </div>
   </div>
@@ -140,7 +140,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
     <p>Do you know other brands or e-retailers?</p>
     <ul>
       <li>Invite them to join the platform.</li>
-      <li>Earn a commission on their activity.</li>
+      <li>Earn revenue from their activity.</li>
       <li><a href="affiliation">See the affiliation program</a>.</li>
     </ul>
   </div>
@@ -157,16 +157,16 @@ In order to maintain a quality service for all our partners, the following condi
 ::: danger Strict rule: 48 business hours
 You must respond to **any campaign proposal in less than 48 business hours**.
 
-After this period, lack of response = tacit refusal and incurs a **penalty equivalent to the commission** we would have received on the campaign.
+After this period, lack of response = tacit refusal and incurs a **contractual penalty**.
 :::
 
 ### Contractual Penalties
 
-| Situation | Amount | Detail |
-|-----------|---------|--------|
-| Cancellation after Validation | **550€ HT** | Flat fee + loss of commission |
-| Early Contract Termination | **1,550€ HT** | Penalty for unfulfilled annual commitment |
-| Platform Circumvention | **2,500€ HT / campaign** | Direct Advertiser ↔ Distributor contact outside the platform |
+Penalties apply in three situations, detailed in your contract:
+
+- **Cancellation after validation** of a campaign.
+- **Early contract termination** (annual commitment not honored).
+- **Platform circumvention** (direct advertiser ↔ distributor contact outside the platform).
 
 ### Data Protection (GDPR & First Party Data)
 

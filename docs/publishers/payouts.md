@@ -4,7 +4,7 @@ title: Paiement des Revenus
 
 # Gestion des Revenus et Paiements
 
-Suivez vos gains en temps réel et optimisez votre trésorerie pour éviter les frais.
+Suivez vos gains en temps réel et optimisez votre trésorerie.
 
 ## Suivi du P&L (Wallet)
 
@@ -32,18 +32,9 @@ J1 : Distribution confirmée → J31 : Revenu devient disponible → Vous pouvez
 Ex : cartons perdus, campagne bloquée → Nous vous contactons pour résoudre. Le délai peut être prolongé jusqu'à règlement.
 :::
 
-## Politique de Retrait et Frais
+## Politique de Retrait
 
 Nous encourageons le regroupement des paiements pour limiter les frictions administratives.
-
-### Structure Tarifaire selon votre Offre
-
-| Offre | Frais de retrait |
-|-------|-----------------|
-| 🟡 Starter | 1er retrait/an : **GRATUIT** · Suivants : **5%** (ex : 1 000€ retirés → 950€ reçus) |
-| 🟢 Plateforme & Managed | **GRATUIT** — tous les retraits, illimité |
-
-> **Pas sûr de votre offre ?** Vérifiez sur votre espace compte → Abonnement, ou consultez la [page Pricing](/publishers/pricing).
 
 ### Délais de Paiement
 
@@ -73,12 +64,12 @@ Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part*
 | 📦 Insertion Colis | Déclarez les volumes chaque **lundi ou mardi** | Mes Campagnes → campagne → Déclarer le volume |
 | 📧 Emailing (Dédié ou Display) | Cliquez sur **"Valider la diffusion"** après l'envoi | Mes Campagnes → campagne → Valider la diffusion |
 
-## Comment éviter les frais de 5% ? *(Offre Starter uniquement)*
+## Deux façons d'utiliser votre solde
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Option A : Le "Cumul"</strong>
-    <p>Laissez vos revenus s'accumuler sur votre cagnotte. En espaçant vos retraits, retirez vos revenus une fois par an — un retrait groupé <strong>sans frais</strong>.</p>
+    <p>Laissez vos revenus s'accumuler sur votre cagnotte et regroupez vos retraits : moins de démarches, moins de petits virements.</p>
   </div>
   <div class="gi-value-card">
     <strong>Option B : Le Réinvestissement</strong>
@@ -87,10 +78,9 @@ Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part*
 </div>
 
 ::: info
-**💡 Pourquoi cette politique ?**
+**💡 Pourquoi un délai de paiement ?**
 
-1. **Réduction de l'Admin :** Limiter le volume de petits virements nous permet de maintenir des coûts de plateforme bas.
-2. **Sécurité (Buffer) :** Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.
+Ce délai de trésorerie sécurise les fonds en cas d'impayés annonceurs, vous garantissant d'être payé même si l'annonceur a du retard.
 :::
 
 ## ⚠️ Règle d'expiration des fonds

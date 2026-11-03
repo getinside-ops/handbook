@@ -61,7 +61,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>CPA (Coût Par Acquisition)</dt>
   <dd>Coût moyen dépensé pour générer une vente ou un lead.</dd>
   <dt>CPM (Coût Pour Mille)</dt>
-  <dd>Unité de mesure standard. Un CPM de 15€ signifie que l'annonceur paie 15€ pour 1 000 impressions.</dd>
+  <dd>Unité de mesure standard : le coût d'achat de 1 000 impressions.</dd>
 </dl>
 <hr />
 <h2 id="d">D</h2>

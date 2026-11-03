@@ -130,21 +130,6 @@ Les benchmarks observés sur le réseau getinside :
 
 ---
 
-## Tarification
-
-| Poste | Coût |
-| :--- | :--- |
-| **Accès à la plateforme** | Gratuit, sans abonnement |
-| **Frais de plateforme** | 12% du budget média investi |
-| **Impression** (optionnel) | Tarifs dégressifs en achat groupé — Made in France, certifié Imprim'Vert |
-| **Studio Créatif** (optionnel) | Forfait 550€ HT par campagne |
-
-:::info Pas d'engagement minimum
-Vous lancez votre première campagne quand vous voulez, avec le budget que vous choisissez. Les frais de plateforme ne s'appliquent qu'au budget réellement engagé.
-:::
-
----
-
 ## Pourquoi passer par getinside ?
 
 <div class="gi-value-grid">
@@ -172,5 +157,5 @@ Vous lancez votre première campagne quand vous voulez, avec le budget que vous 
 - [🚀 Créer une campagne](https://app.getinside.media/){target="_blank"} — Accédez à la plateforme directement.
 
 :::info Besoin d'aide ?
-Notre Studio Créatif prend en charge la direction artistique et l'exécution pour **550€ HT** par campagne. → [Contacter le Studio](/resources/studio)
+Notre Studio Créatif prend en charge la direction artistique et l'exécution de votre campagne. → [Contacter le Studio](/resources/studio)
 :::

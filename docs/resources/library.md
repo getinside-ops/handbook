@@ -31,7 +31,7 @@ Accédez rapidement à tous les gabarits, logos et documents techniques nécessa
 </div>
 
 :::info Besoin d'aide créative ?
-Vous n'avez pas les logiciels Adobe ? Déléguez la création à notre [Studio Graphique](/resources/studio). Forfait 550€ HT par campagne — contact : studio@getinside.fr
+Vous n'avez pas les logiciels Adobe ? Déléguez la création à notre [Studio Graphique](/resources/studio). Contact : studio@getinside.fr
 :::
 
 ---

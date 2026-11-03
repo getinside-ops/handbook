@@ -85,7 +85,7 @@ Go to **My Organization → Team** → `+ Add a member`. Recommended: always hav
 Yes. A getinside account can host as many audiences as you want — one per site or per customer segment.
 
 **Where to track my referrals (affiliation)?**
-In the **Affiliation** tab. You earn a **20% recurring commission** on your referrals' platform fees, paid directly into your Wallet. Referrals must be established in France or the EEA.
+In the **Affiliation** tab. You are rewarded on a recurring basis for your referrals' activity, paid directly into your Wallet. Referrals must be established in France or the EEA.
 
 **My Distributor Score has dropped — why?**
 The score is dynamically recalculated. Common causes: response > 48h, repeated refusals without counter-proposal, distributed volumes lower than commitments, CPM deemed too high vs competition. → Consult the [Distributor Score guide](/en/publishers/score-distributor) for details criterion by criterion.

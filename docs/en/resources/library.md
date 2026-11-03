@@ -31,7 +31,7 @@ Quickly access all necessary templates, logos, and technical documents.
 </div>
 
 :::info Need creative help?
-You don't have Adobe software? Delegate the creation to our [Graphic Studio](/en/resources/studio). Flat rate 550€ HT per campaign — contact: studio@getinside.fr
+You don't have Adobe software? Delegate the creation to our [Graphic Studio](/en/resources/studio). Contact: studio@getinside.fr
 :::
 
 ---

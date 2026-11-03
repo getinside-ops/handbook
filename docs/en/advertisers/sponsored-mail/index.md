@@ -130,21 +130,6 @@ Benchmarks observed on the getinside network:
 
 ---
 
-## Pricing
-
-| Item | Cost |
-| :--- | :--- |
-| **Platform access** | Free, no subscription |
-| **Platform fee** | 12% of invested media budget |
-| **Printing** (optional) | Sliding scale rates for group purchases — Made in France, Imprim'Vert certified |
-| **Creative Studio** (optional) | Flat fee 550€ HT per campaign |
-
-:::info No minimum commitment
-You launch your first campaign whenever you want, with the budget you choose. Platform fees only apply to the actually committed budget.
-:::
-
----
-
 ## Why go through getinside?
 
 <div class="gi-value-grid">
@@ -172,5 +157,5 @@ You launch your first campaign whenever you want, with the budget you choose. Pl
 - [🚀 Create a campaign](https://app.getinside.media/){target="_blank"} — Access the platform directly.
 
 :::info Need help?
-Our Creative Studio handles art direction and execution for **550€ HT** per campaign. → [Contact the Studio](../../resources/studio)
+Our Creative Studio handles art direction and execution of your campaign. → [Contact the Studio](../../resources/studio)
 :::

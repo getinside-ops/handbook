@@ -124,7 +124,7 @@ Our printing partners are certified **Imprim'vert**, ISO 9001/14001, and use FSC
 :::
 
 ::: details Can I use the printing service for my own needs?
-Yes. As a central purchasing office, we offer all our members negotiated rates — for self-promotion or internal needs.
+Yes. As a central purchasing office, we make the printing service available to all our members — for self-promotion or internal needs.
 :::
 
 ---
@@ -132,7 +132,7 @@ Yes. As a central purchasing office, we offer all our members negotiated rates �
 ## Creation & Tracking
 
 ::: details Can getinside create my visuals?
-Yes. Our **Creative Studio** can produce your flyers, emails, or banners for a flat fee of **550€ HT** per campaign.
+Yes. Our **Creative Studio** can produce your flyers, emails, or banners. Contact the team for the terms.
 :::
 
 ::: details How to track sales (ROI)?

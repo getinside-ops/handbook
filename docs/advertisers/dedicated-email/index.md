@@ -94,16 +94,6 @@ Le ciblage repose sur les **données First Party** réelles des acheteurs du dis
 
 ---
 
-## Tarification
-
-| Poste | Coût |
-| :--- | :--- |
-| **Accès à la plateforme** | Gratuit, sans abonnement |
-| **Frais de plateforme** | 12% du budget média investi |
-| **Studio Créatif** (optionnel) | Forfait 550€ HT — si vous n'avez pas de ressource créative en interne |
-
----
-
 ## Pourquoi passer par getinside ?
 
 <div class="gi-value-grid">

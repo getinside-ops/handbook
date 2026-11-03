@@ -75,11 +75,10 @@ Vous aurez besoin de :
 
 Suivez les performances en temps réel dans **Mes Campagnes → Statistiques**.
 
-**Rappel important :** La validation dans les 48h est contractuelle — passé ce délai, la campagne peut être annulée et des frais peuvent s'appliquer.
+**Rappel important :** La validation dans les 48h est contractuelle — passé ce délai, la campagne peut être annulée et des pénalités peuvent s'appliquer.
 
 ---
 
 **Prochaines étapes :**
 - [Guide Insertion Colis](/advertisers/sponsored-mail/) — specs techniques et créa
-- [Pricing & Offres](/advertisers/pricing) — tarifs et niveaux de service
 - [Studio Créatif](/resources/studio) — déléguer la création de vos supports

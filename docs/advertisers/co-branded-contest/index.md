@@ -119,13 +119,9 @@ En dehors du budget média, vous fournissez deux éléments :
 
 ---
 
-## Tarification
+## Dotation
 
-| Poste | Coût |
-| :--- | :--- |
-| **Frais de plateforme** | 12% du budget média investi |
-| **Studio Créatif** (optionnel) | Forfait 550€ HT par campagne |
-| **Dotation** | À votre charge (lots + expédition aux gagnants) |
+Les lots et leur expédition aux gagnants sont à votre charge.
 
 ---
 

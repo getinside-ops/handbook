@@ -16,7 +16,7 @@ Sans cette action, les fonds restent séquestrés.
 ::: details Comment retirer mes gains et éditer ma facture ?
 Allez dans **Transaction → Exchange** et cliquez sur `Retirer`. Saisissez le montant.
 
-**Important :** Si des frais de gestion s'appliquent, éditez votre facture en conséquence du montant net reçu.
+**Important :** votre facture doit correspondre au montant retiré.
 :::
 
 ::: details À partir de quand les revenus sont-ils disponibles ?
@@ -28,7 +28,7 @@ Les paiements sont émis à **30 jours fin de mois**, date de réception de la d
 :::
 
 ::: details Puis-je réinvestir mes gains ?
-Oui, sans frais. Dans **Exchange**, cliquez sur `Transférer vers le wallet`. Vous pourrez utiliser ce solde immédiatement pour acheter du trafic pour votre propre site.
+Oui. Dans **Exchange**, cliquez sur `Transférer vers le wallet`. Vous pourrez utiliser ce solde immédiatement pour acheter du trafic pour votre propre site.
 :::
 
 ::: details Pourquoi mes revenus sont-ils bloqués 30 jours ?

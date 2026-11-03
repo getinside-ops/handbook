@@ -93,7 +93,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-body">
     <h3>Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
-    <p><strong>⏱️ Règle des 48 heures (Critique)</strong> — Répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité égale à la commission perdue.</p>
+    <p><strong>⏱️ Règle des 48 heures (Critique)</strong> — Répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité contractuelle.</p>
     <p><strong>Ne refusez pas, négociez !</strong> L'objectif est de remplir votre inventaire :</p>
     <ul>
       <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire.</li>
@@ -127,7 +127,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
       <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.
       <ul>
         <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
-        <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis — <strong>0% de frais de régie</strong> avec les offres Plateforme ou Managed.</li>
+        <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis.</li>
       </ul>
     </div>
   </div>
@@ -140,7 +140,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <p>Vous connaissez d'autres marques ou e-commerçants ?</p>
     <ul>
       <li>Invitez-les à rejoindre la plateforme.</li>
-      <li>Touchez une commission sur leur activité.</li>
+      <li>Gagnez des revenus grâce à leur activité.</li>
       <li><a href="affiliation">Voir le programme d'affiliation</a>.</li>
     </ul>
   </div>
@@ -157,16 +157,16 @@ Afin de maintenir un service de qualité pour tous nos partenaires, les conditio
 ::: danger Règle stricte : 48 heures ouvrées
 Vous devez répondre à **toute proposition de campagne en moins de 48 heures ouvrées**.
 
-Passé ce délai, l'absence de réponse = refus tacite et entraîne une **pénalité équivalente à la commission** que nous aurions perçue sur la campagne.
+Passé ce délai, l'absence de réponse = refus tacite et entraîne une **pénalité contractuelle**.
 :::
 
 ### Pénalités Contractuelles
 
-| Situation | Montant | Détail |
-|-----------|---------|--------|
-| Annulation après Validation | **550€ HT** | Forfait + perte de commission |
-| Rupture Anticipée de Contrat | **1 550€ HT** | Indemnité pour engagement annuel non tenu |
-| Contournement de Plateforme | **2 500€ HT / campagne** | Contact direct Annonceur ↔ Distributeur hors plateforme |
+Des pénalités s'appliquent dans trois situations, précisées dans votre contrat :
+
+- **Annulation après validation** d'une campagne.
+- **Rupture anticipée du contrat** (engagement annuel non tenu).
+- **Contournement de la plateforme** (contact direct annonceur ↔ distributeur hors plateforme).
 
 ### Protection des Données (RGPD & First Party Data)
 

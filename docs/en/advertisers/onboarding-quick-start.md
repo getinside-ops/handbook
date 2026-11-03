@@ -75,11 +75,10 @@ You will need:
 
 Track performance in real-time in **My Campaigns → Statistics**.
 
-**Important reminder:** Validation within 48h is contractual — after this period, the campaign may be canceled and fees may apply.
+**Important reminder:** Validation within 48h is contractual — after this period, the campaign may be canceled and penalties may apply.
 
 ---
 
 **Next steps:**
 - [Parcel Insert Guide](/en/advertisers/sponsored-mail/) — technical and creative specs
-- [Pricing & Offers](/en/advertisers/pricing) — rates and service levels
 - [Creative Studio](/en/resources/studio) — delegate the creation of your materials

@@ -4,7 +4,7 @@ title: Revenue Payment
 
 # Revenue and Payment Management
 
-Track your earnings in real-time and optimize your cash flow to avoid fees.
+Track your earnings in real-time and optimize your cash flow.
 
 ## P&L Tracking (Wallet)
 
@@ -32,18 +32,9 @@ Day 1: Distribution confirmed → Day 31: Revenue becomes available → You can 
 E.g., lost boxes, blocked campaign → We contact you to resolve. The delay can be extended until settlement.
 :::
 
-## Withdrawal Policy and Fees
+## Withdrawal Policy
 
 We encourage pooling payments to limit administrative friction.
-
-### Fee Structure according to your Offer
-
-| Offer | Withdrawal fee |
-|-------|-----------------|
-| 🟡 Starter | 1st withdrawal/year: **FREE** · Subsequent: **5%** (e.g., 1,000€ withdrawn → 950€ received) |
-| 🟢 Platform & Managed | **FREE** — all withdrawals, unlimited |
-
-> **Not sure about your offer?** Check your account workspace → Subscription, or consult the [Pricing page](/en/publishers/pricing).
 
 ### Payment Delays
 
@@ -73,12 +64,12 @@ The Wallet balance is only updated **after a manual action on your part** depend
 | 📦 Parcel Insert | Declare volumes every **Monday or Tuesday** | My Campaigns → campaign → Declare volume |
 | 📧 Emailing (Dedicated or Display) | Click on **"Validate broadcast"** after sending | My Campaigns → campaign → Validate broadcast |
 
-## How to avoid the 5% fees? *(Starter Offer only)*
+## Two ways to use your balance
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Option A: The "Rollover"</strong>
-    <p>Let your revenue accumulate in your pot. By spacing your withdrawals, withdraw your revenue once a year — a pooled withdrawal <strong>without fees</strong>.</p>
+    <p>Let your revenue accumulate in your pot and pool your withdrawals: fewer steps, fewer small transfers.</p>
   </div>
   <div class="gi-value-card">
     <strong>Option B: Reinvestment</strong>
@@ -87,10 +78,9 @@ The Wallet balance is only updated **after a manual action on your part** depend
 </div>
 
 ::: info
-**💡 Why this policy?**
+**💡 Why a payment delay?**
 
-1. **Admin Reduction:** Limiting the volume of small transfers allows us to maintain low platform costs.
-2. **Security (Buffer):** This cash flow delay secures funds in case of advertiser defaults, guaranteeing you get paid even if the advertiser is late.
+This cash flow delay secures funds in case of advertiser defaults, guaranteeing you get paid even if the advertiser is late.
 :::
 
 ## ⚠️ Fund expiration rule

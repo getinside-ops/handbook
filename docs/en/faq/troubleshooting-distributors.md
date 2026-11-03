@@ -45,21 +45,9 @@ If everything is in order and the transfer is still missing → contact [support
 - Your IBAN
 :::
 
-::: details "A 5% fee was deducted, I don't understand why"
-The 5% fee only applies to the **Starter Offer** starting from the **2nd withdrawal of the calendar year**.
-
-| Offer | Withdrawal fee |
-|-------|-----------------|
-| Starter | 1st withdrawal/year: FREE · Subsequent: 5% |
-| Platform | All withdrawals: FREE |
-| Managed | All withdrawals: FREE |
-
-If you are on Platform or Managed and a fee was deducted → it's an error, contact support immediately.
-:::
-
 :::: details "Funds were deducted from my Wallet without my request"
 ::: warning Automatic penalties deducted from your Wallet
-- **Cancellation of a validated campaign:** flat penalty 250€ + platform fees
+- **Cancellation of a validated campaign:** penalty applied according to contract
 - **No response within 48h to a proposal:** penalty applied according to contract
 - **Late response without valid reason:** may result in a penalty
 :::
@@ -111,8 +99,8 @@ The 48h rule is contractual. If the deadline is passed:
 
 ## Account & Affiliation
 
-::: details "My referral commissions are not paid"
-The payment of affiliation commissions is **automatically suspended** if you have unpaid invoices with getinside. Regularize your billing situation to unblock the payments.
+::: details "My referral rewards are not paid"
+The payment of affiliation rewards is **automatically suspended** if you have unpaid invoices with getinside. Regularize your billing situation to unblock the payments.
 :::
 
 ::: details "My account is suspended or blocked"

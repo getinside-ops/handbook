@@ -119,5 +119,5 @@ L'expérience post-scan se fait à **99% sur smartphone**. Votre landing page do
 - **[✅ Check-list de Contrôle](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** — À compléter avant chaque soumission de BAT.
 
 :::info Pas de graphiste en interne ?
-Notre **Studio Créatif** prend en charge la direction artistique, l'exécution et la mise aux normes — pour un forfait de **550€ HT** par campagne. → [Contacter le Studio](/resources/studio)
+Notre **Studio Créatif** prend en charge la direction artistique, l'exécution et la mise aux normes de votre campagne. → [Contacter le Studio](/resources/studio)
 :::

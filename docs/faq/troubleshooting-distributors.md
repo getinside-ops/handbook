@@ -45,21 +45,9 @@ Si tout est en ordre et le virement est toujours absent → contactez [support@g
 - Votre IBAN
 :::
 
-::: details "Des frais de 5% ont été prélevés, je ne comprends pas pourquoi"
-Les frais de 5% s'appliquent uniquement pour l'**Offre Starter** à partir du **2ème retrait de l'année civile**.
-
-| Offre | Frais de retrait |
-|-------|-----------------|
-| Starter | 1er retrait/an : GRATUIT · Suivants : 5% |
-| Plateforme | Tous les retraits : GRATUITS |
-| Managed | Tous les retraits : GRATUITS |
-
-Si vous êtes sur Plateforme ou Managed et que des frais ont été prélevés → c'est une erreur, contactez le support immédiatement.
-:::
-
 :::: details "Des fonds ont été prélevés de mon Wallet sans que je l'aie demandé"
 ::: warning Pénalités automatiques prélevées sur votre Wallet
-- **Annulation d'une campagne validée :** pénalité forfaitaire 250€ + frais de plateforme
+- **Annulation d'une campagne validée :** pénalité appliquée selon contrat
 - **Non-réponse sous 48h à une proposition :** pénalité appliquée selon contrat
 - **Réponse tardive sans motif valable :** peut entraîner une pénalité
 :::
@@ -111,8 +99,8 @@ La règle des 48h est contractuelle. Si le délai est dépassé :
 
 ## Compte & Affiliation
 
-::: details "Mes commissions de parrainage ne sont pas versées"
-Le versement des commissions d'affiliation est **suspendu automatiquement** si vous avez des factures impayées auprès de getinside. Régularisez votre situation de facturation pour débloquer les versements.
+::: details "Ma rémunération de parrainage n'est pas versée"
+Le versement de la rémunération d'affiliation est **suspendu automatiquement** si vous avez des factures impayées auprès de getinside. Régularisez votre situation de facturation pour débloquer les versements.
 :::
 
 ::: details "Mon compte est suspendu ou bloqué"

@@ -32,12 +32,3 @@ Rather than broadcasting a classic ad from your account, you sponsor a post publ
 | **Video** (Reels/TikTok) | 9:16 — 1080 × 1920 px, 15–60 s | Recommended — safe zone 15% top/bottom |
 | **Feed Image** | 4:5 — 1080 × 1350 px | Text ≤ 20% of surface area |
 | **Story** | 9:16 — 1080 × 1920 px, 15 s/slide | Ensure space for link sticker |
-
----
-
-## Pricing
-
-| Item | Cost |
-| :--- | :--- |
-| **Platform Fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | Flat fee 550€ HT per creation |

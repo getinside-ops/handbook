@@ -85,7 +85,7 @@ Rendez-vous dans **Mon Organisation → Équipe** → `+ Ajouter un membre`. Rec
 Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez — une par site ou par segment client.
 
 **Où suivre mes filleuls (affiliation) ?**
-Dans l'onglet **Affiliation**. Vous touchez **20% de commission récurrente** sur les frais de plateforme de vos filleuls, versés directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE.
+Dans l'onglet **Affiliation**. Vous êtes rémunéré de façon récurrente sur l'activité de vos filleuls, directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE.
 
 **Mon Score Distributeur a baissé — pourquoi ?**
 Le score est recalculé dynamiquement. Causes fréquentes : réponse > 48h, refus répétés sans contre-proposition, volumes distribués inférieurs aux engagements, CPM jugé trop élevé vs la concurrence. → Consultez le [guide Score Distributeur](/publishers/score-distributor) pour le détail critère par critère.

@@ -58,7 +58,7 @@ Definitions of technical terms and acronyms of the platform.
   <dt>CPA (Cost Per Acquisition)</dt>
   <dd>Average cost spent to generate a sale or a lead.</dd>
   <dt>CPM (Cost Per Mille)</dt>
-  <dd>Standard unit of measurement. A CPM of 15€ means that the advertiser pays 15€ for 1,000 impressions.</dd>
+  <dd>Standard unit of measurement: the cost of buying 1,000 impressions.</dd>
 </dl>
 <hr />
 <h2 id="d">D</h2>

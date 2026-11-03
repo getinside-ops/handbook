@@ -94,16 +94,6 @@ Targeting relies on the actual **First Party data** of the distributor's buyers.
 
 ---
 
-## Pricing
-
-| Item | Cost |
-| :--- | :--- |
-| **Platform access** | Free, no subscription |
-| **Platform fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | Flat fee 550€ HT — if you have no internal creative resources |
-
----
-
 ## Why go through getinside?
 
 <div class="gi-value-grid">

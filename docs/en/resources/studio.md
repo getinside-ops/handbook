@@ -8,7 +8,7 @@ Accelerate your time-to-market. Delegate all graphic production (Print, Email, S
 
 ## The Studio Offer
 
-### Flat Rate 550€ HT / Creation
+### Full creation
 
 Design + Art Direction + Copywriting + Technical compliance. **All included.**
 
@@ -28,9 +28,7 @@ Design + Art Direction + Copywriting + Technical compliance. **All included.**
 </div>
 
 :::tip Order a brief
-Contact the Studio: **studio@getinside.fr**
-
-For distributors: the flat rate can be directly deducted from your campaign revenue.
+Contact the Studio for the terms: **studio@getinside.fr**
 :::
 
 ---

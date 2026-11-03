@@ -32,12 +32,3 @@ Plutôt que de diffuser une publicité classique depuis votre compte, vous spons
 | **Vidéo** (Reels/TikTok) | 9:16 — 1080 × 1920 px, 15–60 s | Recommandé — zone de sûreté 15% haut/bas |
 | **Image Feed** | 4:5 — 1080 × 1350 px | Texte ≤ 20% de la surface |
 | **Story** | 9:16 — 1080 × 1920 px, 15 s/slide | Prévoir espace pour le sticker lien |
-
----
-
-## Tarification
-
-| Poste | Coût |
-| :--- | :--- |
-| **Frais de plateforme** | 12% du budget média investi |
-| **Studio Créatif** (optionnel) | Forfait 550€ HT par création |

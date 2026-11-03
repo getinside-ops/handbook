@@ -5,14 +5,13 @@ title: Gestion des Campagnes
 # Gestion des Campagnes
 
 ::: details Quel est le délai de réponse attendu ?
-Vous devez répondre sous **48 heures ouvrées**. La réactivité est la clé pour remporter les campagnes face aux autres retailers. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom et d'appliquer une pénalité correspondante aux frais de plateforme prévus.
+Vous devez répondre sous **48 heures ouvrées**. La réactivité est la clé pour remporter les campagnes face aux autres retailers. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom et d'appliquer une pénalité contractuelle.
 :::
 
 ::: details Puis-je annuler une campagne déjà acceptée ?
 L'annulation est fortement déconseillée. Sauf force majeure, des pénalités s'appliquent :
 
-- Pénalité forfaitaire de **250€**
-- \+ Remboursement des frais de plateforme perdus
+- Pénalité contractuelle
 - \+ Remboursement des frais de production (si imprimé) et de studio engagés
 :::
 

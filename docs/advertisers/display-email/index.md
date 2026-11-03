@@ -59,16 +59,6 @@ Pour ce format, il n'y a **pas de pixel d'ouverture** — seuls les clics sont c
 
 ---
 
-## Tarification
-
-| Poste | Coût |
-| :--- | :--- |
-| **Modèle de vente** | CPM (Coût Pour Mille impressions) |
-| **Frais de plateforme** | 12% du budget média investi |
-| **Studio Créatif** (optionnel) | Forfait 550€ HT — si vous n'avez pas de bannière prête |
-
----
-
 ## Pourquoi passer par getinside ?
 
 <div class="gi-value-grid">

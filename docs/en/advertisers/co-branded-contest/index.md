@@ -119,13 +119,9 @@ Apart from the media budget, you provide two elements:
 
 ---
 
-## Pricing
+## Prizes
 
-| Item | Cost |
-| :--- | :--- |
-| **Platform Fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | Flat fee 550€ HT per campaign |
-| **Prize** | At your expense (prizes + shipping to winners) |
+Prizes and shipping to the winners are at your expense.
 
 ---
 

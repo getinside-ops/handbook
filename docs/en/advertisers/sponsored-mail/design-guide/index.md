@@ -119,5 +119,5 @@ The post-scan experience is **99% on smartphone**. Your landing page must be rea
 - **[✅ Control Checklist](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** — To be completed before each Proof submission.
 
 :::info No in-house graphic designer?
-Our **Creative Studio** handles art direction, execution, and standardization — for a flat fee of **550€ HT** per campaign. → [Contact the Studio](../../../resources/studio)
+Our **Creative Studio** handles art direction, execution, and standardization of your campaign. → [Contact the Studio](../../../resources/studio)
 :::

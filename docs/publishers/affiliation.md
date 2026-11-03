@@ -41,20 +41,18 @@ Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez 
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>Vous gagnez</h3>
-    <p>Vous touchez automatiquement une commission récurrente sur leur activité, créditée à chaque facture payée.</p>
+    <p>Vous êtes automatiquement rémunéré sur leur activité, de façon récurrente, à chaque facture payée.</p>
   </div>
 </div>
 
 ## Votre Rémunération
 
 ::: tip
-<div class="gi-price">20% <span class="gi-price-unit">des frais de plateforme générés par vos filleuls</span></div>
-
-Cette commission est créditée sur votre **Wallet** à chaque facture payée par le filleul. Elle s'applique aux filleuls Distributeurs comme Annonceurs.
+Votre rémunération est créditée sur votre **Wallet** à chaque facture payée par le filleul. Elle s'applique aux filleuls Distributeurs comme Annonceurs.
 :::
 
 :::tip Revenus récurrents
-La commission est versée à chaque renouvellement ou paiement de votre filleul — tant qu'il reste actif sur la plateforme.
+Votre rémunération est versée à chaque renouvellement ou paiement de votre filleul — tant qu'il reste actif sur la plateforme.
 :::
 
 ## Utilisation des gains
@@ -62,10 +60,10 @@ La commission est versée à chaque renouvellement ou paiement de votre filleul 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🏦 Retrait Bancaire</strong>
-    <p>Récupérez vos gains par virement classique (soumis aux frais de gestion standards selon votre offre).</p>
+    <p>Récupérez vos gains par virement classique.</p>
   </div>
   <div class="gi-value-card">
-    <strong>♻️ Réinvestissement (0% frais)</strong>
+    <strong>♻️ Réinvestissement</strong>
     <p>Utilisez votre cagnotte pour financer vos propres campagnes d'acquisition — 1€ gagné = 1€ investi sans friction bancaire.</p>
   </div>
 </div>

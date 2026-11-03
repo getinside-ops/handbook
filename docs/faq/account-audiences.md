@@ -23,7 +23,7 @@ Oui, getinside opère dans toute l'Europe. Vous pouvez ajouter vos audiences eur
 :::
 
 ::: details Comment suivre mes filleuls (affiliation) ?
-L'état de vos filleuls est visible dans l'onglet **Affiliation**. Vous touchez une commission récurrente de **20%** sur les frais de plateforme générés par leur activité. Vos gains apparaissent dans **Transactions → Revenus** et peuvent être retirés ou réinvestis depuis votre Wallet.
+L'état de vos filleuls est visible dans l'onglet **Affiliation**. Vous êtes rémunéré de façon récurrente sur leur activité. Vos gains apparaissent dans **Transactions → Revenus** et peuvent être retirés ou réinvestis depuis votre Wallet.
 :::
 
 ::: details Pourquoi mon "Score Distributeur" a baissé ?
@@ -44,5 +44,5 @@ Les annonceurs parcourent le catalogue comme une place de marché — votre fich
 :::
 
 ::: details Peut-on gérer plusieurs sites depuis un seul compte getinside ?
-Oui. Un seul compte peut héberger autant de fiches audiences que vous avez de sites ou de flux logistiques distincts. Chaque audience est indépendante et peut avoir ses propres tarifs, formats disponibles et périodes d'ouverture.
+Oui. Un seul compte peut héberger autant de fiches audiences que vous avez de sites ou de flux logistiques distincts. Chaque audience est indépendante et peut avoir ses propres formats disponibles et périodes d'ouverture.
 :::

@@ -125,7 +125,7 @@ Nos partenaires imprimeurs sont certifiés **Imprim'vert**, ISO 9001/14001 et ut
 :::
 
 ::: details Puis-je utiliser le service d'impression pour mes propres besoins ?
-Oui. En tant que centrale d'achat, nous faisons bénéficier tous nos membres de tarifs négociés — pour de l'auto-promotion ou des besoins internes.
+Oui. En tant que centrale d'achat, nous mettons le service d'impression à disposition de tous nos membres — pour de l'auto-promotion ou des besoins internes.
 :::
 
 ---
@@ -133,7 +133,7 @@ Oui. En tant que centrale d'achat, nous faisons bénéficier tous nos membres de
 ## Création & Tracking
 
 ::: details Est-ce que getinside peut créer mes visuels ?
-Oui. Notre **Studio Créatif** peut réaliser vos flyers, emails ou bannières pour un forfait de **550€ HT** par campagne.
+Oui. Notre **Studio Créatif** peut réaliser vos flyers, emails ou bannières. Contactez l'équipe pour connaître les conditions.
 :::
 
 ::: details Comment tracker les ventes (ROI) ?

@@ -53,7 +53,7 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
   </div>
   <div class="gi-value-card">
     <strong>🏷️ Auto-promotion (Pour vous)</strong>
-    <p>Vous souhaitez imprimer vos propres cartes de remerciement ou flyers à insérer dans <strong>vos propres colis</strong> ? Créez une campagne "interne" via la plateforme et bénéficiez de nos tarifs de groupe industriels. Livraison en palettes chez vous.</p>
+    <p>Vous souhaitez imprimer vos propres cartes de remerciement ou flyers à insérer dans <strong>vos propres colis</strong> ? Créez une campagne "interne" via la plateforme et bénéficiez de nos achats groupés industriels. Livraison en palettes chez vous.</p>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
   </div>
   <div class="gi-value-card">
     <strong>📉 Économies d'échelle</strong>
-    <p>Plus le volume est important, plus le coût unitaire baisse. Les tarifs dégressifs s'appliquent à partir des premiers milliers d'exemplaires.</p>
+    <p>Plus le volume est important, plus le coût unitaire baisse, grâce à la mutualisation des achats.</p>
   </div>
 </div>
 

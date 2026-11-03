@@ -62,7 +62,7 @@ Real renders online (responsive, co-branding, endorsement):
 :::info No time to create?
 Delegate to the **getinside Studio**: email creation in your colors, editorial writing, and technical integration.
 
-**550€ HT** per campaign (deducted from your revenue) → [studio@getinside.fr](mailto:studio@getinside.fr)
+Contact the team for the terms → [studio@getinside.fr](mailto:studio@getinside.fr)
 :::
 
 ---

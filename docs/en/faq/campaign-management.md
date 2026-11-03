@@ -5,14 +5,13 @@ title: Campaign Management
 # Campaign Management
 
 ::: details What is the expected response time?
-You must respond within **48 working hours**. Responsiveness is the key to winning campaigns against other retailers. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a penalty corresponding to the planned platform fees.
+You must respond within **48 working hours**. Responsiveness is the key to winning campaigns against other retailers. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
 :::
 
 ::: details Can I cancel an already accepted campaign?
 Cancellation is highly discouraged. Except in cases of force majeure, penalties apply:
 
-- Flat penalty of **250€**
-- \+ Reimbursement of lost platform fees
+- Contractual penalty
 - \+ Reimbursement of production costs (if printed) and studio costs incurred
 :::
 

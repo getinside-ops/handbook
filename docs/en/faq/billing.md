@@ -16,7 +16,7 @@ Without this action, the funds remain escrowed.
 ::: details How to withdraw my earnings and issue my invoice?
 Go to **Transaction → Exchange** and click on `Withdraw`. Enter the amount.
 
-**Important:** If management fees apply, issue your invoice accordingly for the net amount received.
+**Important:** your invoice must match the amount withdrawn.
 :::
 
 ::: details When are the revenues available?
@@ -28,7 +28,7 @@ Payments are issued **30 days end of month**, from the date of receipt of the wi
 :::
 
 ::: details Can I reinvest my earnings?
-Yes, without fees. In **Exchange**, click on `Transfer to wallet`. You can use this balance immediately to buy traffic for your own site.
+Yes. In **Exchange**, click on `Transfer to wallet`. You can use this balance immediately to buy traffic for your own site.
 :::
 
 ::: details Why is my revenue blocked for 30 days?

@@ -59,16 +59,6 @@ For this format, there is **no open pixel** — only clicks are counted (tracked
 
 ---
 
-## Pricing
-
-| Item | Cost |
-| :--- | :--- |
-| **Sales Model** | CPM (Cost Per Mille impressions) |
-| **Platform Fee** | 12% of invested media budget |
-| **Creative Studio** (optional) | Flat fee 550€ HT — if you don't have a ready banner |
-
----
-
 ## Why go through getinside?
 
 <div class="gi-value-grid">
