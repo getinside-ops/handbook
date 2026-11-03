@@ -1,69 +1,116 @@
 ---
-title: Discover getinside - Retail Media Platform
-description: Discover how getinside monetizes your parcels and emails while funding your acquisition. The retail media platform for advertisers and e-retailers.
+title: Discover getinside - Parcel and direct mail marketing
+description: getinside is the parcel and direct mail marketing solution that delivers offers and samples right to consumers' homes. Recruit, retain, monetise.
 keywords:
-  - retail media
-  - monetization
-  - parcels
-  - email marketing
-  - e-commerce
-  - advertising platform
+  - parcel marketing
+  - direct mail
+  - parcel inserts
+  - sampling
+  - customer acquisition
+  - customer retention
+  - monetisation
   - getinside
 image: /images/gi-keyvisual.svg
 ---
 
-# Transform your audiences into revenue
+# Marketing that touches
 
-Join **+250 e-retailers** and **+300 advertisers** who use getinside to directly monetize their audiences. **+950 campaigns** successfully operated.
-
----
-
-## The 4 Pillars of getinside
-
-### 🎯 For Advertisers: Performance & Trust
-
-**100% open rate** on parcel inserts thanks to the hyper-attention of unboxing.
-**1-10% CTR** and **10-30% post-scan conversion** — the highest performance on the market.
-
-Diversify your acquisition channels against Google and Meta saturation. Benefit from the trust (Endorsement) of the e-retailer towards its community.
-
-[Go to the Advertiser Portal →](/en/advertisers/)
+**getinside** is the parcel and direct mail marketing solution that delivers offers and samples right to consumers' homes, where purchase decisions are made. **500+ brands** are already growing with the solution.
 
 ---
 
-### 📦 For Retailers: Revenue & Control
+## Why?
 
-**+2% to +20% additional turnover** composed almost entirely of **65-70% net margin**.
+Your digital channels are saturated. Your acquisition costs are rising. Your customers no longer notice you.
 
-Generate revenue effortlessly while keeping absolute control over the brands you agree to broadcast to your customers. No heavy technical integration.
+Deliver marketing campaigns that touch consumers, right to their homes, where purchase decisions are made.
 
-[Go to the Retailer Portal →](/en/publishers/)
-
----
-
-### 🔄 The Smart Funding Model: Virtuous Circle
-
-Transform your **cost centers** (parcels, emails) into **profit centers**, and immediately reinvest the earnings to fund your own customer acquisition **without spending cash**.
-
-**3 steps:**
-1. **Earn**: Monetize your parcels and emails
-2. **Fund**: Use this balance (Wallet) immediately
-3. **Grow**: Buy qualified traffic for your own site
+| Figure | Argument |
+| :--- | :--- |
+| **98%** deliverability | Everyone opens their parcels and their mailbox, or picks up a sample they receive, even those who no longer notice you. |
+| **100%** attention | Channels that require a physical action generate attention: people open, touch, look. |
+| **86%** of purchase decisions are made at home | The place where offers are assessed, discussed, and even tried out when it comes to a sample. |
 
 ---
 
-### 🛡️ The Trusted Third Party: One Contract, Completely Secure
+## Three use cases
 
-A single contract, a single billing, and guaranteed, secure payments.
+<div class="gi-format-grid">
+  <a href="/handbook/en/advertisers/" class="gi-format-card">
+    <span class="gi-format-card-icon">🎯</span>
+    <span class="gi-format-card-title">Recruit</span>
+    <p class="gi-format-card-desc">Reach your future customers through the brands they already buy from. With a media budget, or through an exchange: you carry their offers in your parcels, they carry yours in theirs.</p>
+  </a>
+  <a href="/handbook/en/advertisers/direct-mail/" class="gi-format-card">
+    <span class="gi-format-card-icon">💌</span>
+    <span class="gi-format-card-title">Retain</span>
+    <p class="gi-format-card-desc">Reach the customers who no longer open your emails through direct mail, and turn every parcel you ship into an immediate repurchase lever.</p>
+  </a>
+  <a href="/handbook/en/publishers/" class="gi-format-card">
+    <span class="gi-format-card-icon">📦</span>
+    <span class="gi-format-card-title">Monetise</span>
+    <p class="gi-format-card-desc">Deliver partner campaigns that enrich your customers' shopping experience, and generate revenue to fund your acquisition.</p>
+  </a>
+</div>
 
-getinside centralizes the entire ecosystem: tech integration, printing, routing, tracking, GDPR. **No more complex management.**
+::: tip Exchange is not a fourth use case
+It is a way to recruit without buying media: you expose your customer audience to affinity brands and get access to theirs in return. Each brand keeps its customers while recruiting new ones.
+:::
+
+---
+
+## Three distribution channels
+
+| Channel | Definition |
+| :--- | :--- |
+| **Parcel inserts** | A printed piece is placed in the customer's parcel or handed over with their order. |
+| **Direct mail** | A printed piece addressed to the customer by name, delivered to their mailbox. |
+| **Sampling** | A free sample so people can try, smell or touch your product. |
+
+<div class="gi-format-grid">
+  <a href="/handbook/en/advertisers/sponsored-mail/" class="gi-format-card">
+    <span class="gi-format-card-icon">📦</span>
+    <span class="gi-format-card-title">Parcel inserts</span>
+    <p class="gi-format-card-desc">Your offer in the parcel of an affinity brand.</p>
+  </a>
+  <a href="/handbook/en/advertisers/direct-mail/" class="gi-format-card">
+    <span class="gi-format-card-icon">✉️</span>
+    <span class="gi-format-card-title">Direct mail</span>
+    <p class="gi-format-card-desc">A named letter in the mailbox.</p>
+  </a>
+  <a href="/handbook/en/advertisers/sampling/" class="gi-format-card">
+    <span class="gi-format-card-icon">🧴</span>
+    <span class="gi-format-card-title">Sampling</span>
+    <p class="gi-format-card-desc">Let people try, smell or touch your product.</p>
+  </a>
+</div>
+
+---
+
+## An all-in-one tech solution
+
+With AI, identify the audiences to target and automate your acquisition and loyalty campaigns with ease.
+
+- **AI & data targeting:** identify and reach your future customers directly. Activate your own audience and reach the audiences of brands that gather your future customers.
+- **Lookalike modelling:** find your best future customers through custom modelling based on your customers' characteristics and transaction data, combined with the solution's proprietary data.
+- **Full automation:** launch, manage and track your performance effortlessly, or hand your campaigns over to our team.
+
+---
+
+## The brand stays in control
+
+Each brand approves the brands and offers shown to its customers. We measure and optimise the performance of every campaign.
+
+::: info Compliance
+**GDPR** processing based on legitimate interest, with the right to object stated on every mailing. **AGEC law**: samples provided only at the consumer's prior request (Art. L541-15-10 of the French Environmental Code).
+:::
 
 ---
 
 ::: info Ready to start?
 
-- **Advertiser**: Reach your future customers via highly qualified audiences
-- **Retailer**: Transform your parcels into additional revenue
+- **Recruit or retain**: [Advertiser area](/en/advertisers/)
+- **Monetise your parcels**: [Network brand area](/en/publishers/)
 
 [Discuss my project →](mailto:studio@getinside.com)
 
