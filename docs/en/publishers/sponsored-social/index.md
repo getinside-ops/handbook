@@ -7,7 +7,7 @@ keywords:
   - instagram
   - tiktok
   - audience monetization
-  - retail media
+  - parcel and direct mail marketing
 ---
 
 # Social Ads (Partnership Ads)

@@ -112,7 +112,7 @@ If the damage exceeds 1% of the volume or if the materials do not comply with th
 ::: details An advertiser asks for the recipients' addresses — can I provide them?
 **No.** This request is not allowed, even if the advertiser insists.
 
-In Retail Media, customer data is a **First Party asset** that belongs exclusively to the Retailer (you). File transfer is legally prohibited without a new specific opt-in (GDPR).
+Customer data is a **First Party asset** that belongs exclusively to the network brand (you). File transfer is legally prohibited without a new specific opt-in (GDPR).
 
 getinside operates as a **Trusted Third Party**: we route the advertiser's message to your audience, but the data never leaves your secure environment.
 

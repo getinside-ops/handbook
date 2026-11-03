@@ -4,13 +4,13 @@ title: Programme d'Affiliation
 
 # Programme d'Affiliation
 
-Recommandez getinside à votre réseau (E-commerçants ou Marques) et générez des revenus passifs récurrents.
+Recommandez getinside à votre réseau (marques du réseau ou annonceurs) et générez des revenus passifs récurrents.
 
 ## Qui parrainer ?
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 D'autres E-commerçants</strong>
+    <strong>📦 D'autres marques du réseau</strong>
     <p>Vous connaissez d'autres sites qui expédient des colis ou ont une base email ? Invitez-les à monétiser leur audience.</p>
   </div>
   <div class="gi-value-card">

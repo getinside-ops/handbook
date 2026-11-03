@@ -5,7 +5,7 @@ title: Gestion des Campagnes
 # Gestion des Campagnes
 
 ::: details Quel est le délai de réponse attendu ?
-Vous devez répondre sous **48 heures ouvrées**. La réactivité est la clé pour remporter les campagnes face aux autres retailers. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom et d'appliquer une pénalité contractuelle.
+Vous devez répondre sous **48 heures ouvrées**. La réactivité est la clé pour remporter les campagnes face aux autres marques du réseau. Passé ce délai, getinside se réserve le droit de refuser la campagne en votre nom et d'appliquer une pénalité contractuelle.
 :::
 
 ::: details Puis-je annuler une campagne déjà acceptée ?

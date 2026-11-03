@@ -1,8 +1,8 @@
 # 📚 getinside Help Center
 
-> The official documentation repository for [getinside](https://www.getinside.fr/), the Retail Media SaaS platform.
+> The official documentation repository for [getinside](https://www.getinside.fr/), the parcel and direct mail marketing solution.
 
-This project hosts the technical and operational knowledge base for **Advertisers** (Brands) and **Publishers** (E-retailers).
+This project hosts the technical and operational knowledge base for **Advertisers** (Brands) and **Network brands**.
 
 🔗 **Live Website:** [https://getinside-ops.github.io/handbook/](https://getinside-ops.github.io/handbook/)
 
@@ -26,7 +26,7 @@ The content is organized by target audience within the `docs/` folder:
 ├── .vitepress/              # VitePress configuration & custom theme
 ├── docs/                    # Content (French by default)
 │   ├── index.md             # Homepage
-│   ├── advertisers/         # Advertisers Guides (Specs, Strategy, Pricing...)
+│   ├── advertisers/         # Advertisers Guides (Specs, Strategy...)
 │   ├── publishers/          # Publishers Guides (Logistics, Onboarding, Payouts...)
 │   ├── glossary.md          # Glossary
 │   ├── faq/                 # Frequently Asked Questions

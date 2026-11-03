@@ -14,7 +14,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
     <h3>Demo & Account Creation</h3>
     <p>Everything starts with a demo call with the getinside team.</p>
     <ul>
-      <li>The team creates your e-retailer account.</li>
+      <li>The team creates your network brand account.</li>
       <li>All provided contacts receive an invitation email.</li>
       <li><strong>Action:</strong> Click the link in the email to set your password and access the platform.</li>
     </ul>
@@ -137,7 +137,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
   <div class="gi-step-num">🤝</div>
   <div class="gi-step-body">
     <h3>Affiliation & Sponsorship</h3>
-    <p>Do you know other brands or e-retailers?</p>
+    <p>Do you know other brands?</p>
     <ul>
       <li>Invite them to join the platform.</li>
       <li>Earn revenue from their activity.</li>

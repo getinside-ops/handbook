@@ -4,7 +4,7 @@ title: Studio Créatif
 
 # Studio Créatif
 
-Accélèrez votre time-to-market. Déléguez l'intégralité de la production graphique (Print, Email, Social) à notre équipe d'experts Retail Media.
+Accélèrez votre time-to-market. Déléguez l'intégralité de la production graphique (Print, Email, Social) à notre équipe d'experts getinside.
 
 ## L'Offre Studio
 
@@ -14,7 +14,7 @@ Conception + Direction Artistique + Rédaction + Mise en conformité technique. 
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✔ Expertise Retail Media</strong>
+    <strong>✔ Expertise getinside</strong>
     <p>Fonds perdus, taux d'encrage, délivrabilité email, RGPD — nous maîtrisons les contraintes techniques par cœur.</p>
   </div>
   <div class="gi-value-card">

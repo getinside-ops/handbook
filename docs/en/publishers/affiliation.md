@@ -4,13 +4,13 @@ title: Affiliate Program
 
 # Affiliate Program
 
-Recommend getinside to your network (E-retailers or Brands) and generate recurring passive income.
+Recommend getinside to your network (network brands or advertisers) and generate recurring passive income.
 
 ## Who to refer?
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Other E-retailers</strong>
+    <strong>📦 Other network brands</strong>
     <p>Do you know other sites that ship parcels or have an email database? Invite them to monetize their audience.</p>
   </div>
   <div class="gi-value-card">

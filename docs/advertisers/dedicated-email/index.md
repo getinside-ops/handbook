@@ -99,7 +99,7 @@ Le ciblage repose sur les **données First Party** réelles des acheteurs du dis
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>💎 Inventaire Premium</strong>
-    <p>+250 e-commerçants partenaires avec des bases opt-in qualifiées, inaccessibles sur les plateformes d'affiliation classiques.</p>
+    <p>Des marques du réseau partenaires avec des bases opt-in qualifiées, inaccessibles sur les plateformes d'affiliation classiques.</p>
   </div>
   <div class="gi-value-card">
     <strong>🎯 Ciblage Contextuel</strong>

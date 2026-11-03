@@ -56,8 +56,8 @@ Un support est inséré dans le colis du client ou emporté avec sa commande. Gl
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 100% d'Ouverture</strong>
-    <p>Le seul média physique avec un taux de prise en main absolu. Le client attend son colis avec impatience — votre flyer est vu, tenu en main, dans un moment d'attention maximale.</p>
+    <strong>📦 98 % de délivrabilité, 100 % d'attention</strong>
+    <p>Tout le monde ouvre ses colis, même ceux qui ne vous considèrent plus. Un canal qui demande un acte physique génère l'attention : on ouvre, on touche, on regarde.</p>
   </div>
   <div class="gi-value-card">
     <strong>🎯 Ciblage Comportemental</strong>

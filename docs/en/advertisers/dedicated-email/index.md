@@ -99,7 +99,7 @@ Targeting relies on the actual **First Party data** of the distributor's buyers.
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>💎 Premium Inventory</strong>
-    <p>+250 partner e-retailers with qualified opt-in bases, inaccessible on traditional affiliate platforms.</p>
+    <p>Partner network brands with qualified opt-in bases, inaccessible on traditional affiliate platforms.</p>
   </div>
   <div class="gi-value-card">
     <strong>🎯 Contextual Targeting</strong>

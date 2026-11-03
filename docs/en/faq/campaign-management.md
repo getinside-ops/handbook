@@ -5,7 +5,7 @@ title: Campaign Management
 # Campaign Management
 
 ::: details What is the expected response time?
-You must respond within **48 working hours**. Responsiveness is the key to winning campaigns against other retailers. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
+You must respond within **48 working hours**. Responsiveness is the key to winning campaigns against other network brands. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
 :::
 
 ::: details Can I cancel an already accepted campaign?

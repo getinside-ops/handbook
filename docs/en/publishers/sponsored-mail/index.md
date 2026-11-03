@@ -12,7 +12,7 @@ keywords:
 
 # Parcel inserts
 
-The operational procedures for receiving, inserting, and reporting campaigns. **100% guaranteed** read rate — your parcels ensure maximum visibility.
+The operational procedures for receiving, inserting, and reporting campaigns. **98% deliverability** and **100% attention**: everyone opens their parcels, and a channel that requires a physical action generates attention.
 
 <div>
   <a href="logistics" class="btn btn-primary mr-2">Logistics Guide</a>

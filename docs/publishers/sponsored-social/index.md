@@ -7,7 +7,7 @@ keywords:
   - instagram
   - tiktok
   - monétisation audience
-  - retail media
+  - marketing par le colis
 ---
 
 # Social Ads (Partnership Ads)

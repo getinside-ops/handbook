@@ -56,8 +56,8 @@ A printed piece is placed in the customer's parcel or handed over with their ord
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 100% Open Rate</strong>
-    <p>The only physical media with an absolute pick-up rate. The customer eagerly awaits their parcel — your flyer is seen, held in hand, in a moment of maximum attention.</p>
+    <strong>📦 98% deliverability, 100% attention</strong>
+    <p>Everyone opens their parcels, even people who no longer consider you. A channel that requires a physical action generates attention: people open, touch, look.</p>
   </div>
   <div class="gi-value-card">
     <strong>🎯 Behavioral Targeting</strong>

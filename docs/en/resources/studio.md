@@ -4,7 +4,7 @@ title: Creative Studio
 
 # Creative Studio
 
-Accelerate your time-to-market. Delegate all graphic production (Print, Email, Social) to our team of Retail Media experts.
+Accelerate your time-to-market. Delegate all graphic production (Print, Email, Social) to our team of getinside experts.
 
 ## The Studio Offer
 
@@ -14,7 +14,7 @@ Design + Art Direction + Copywriting + Technical compliance. **All included.**
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✔ Retail Media Expertise</strong>
+    <strong>✔ getinside Expertise</strong>
     <p>Bleeds, ink coverage, email deliverability, GDPR — we master the technical constraints by heart.</p>
   </div>
   <div class="gi-value-card">

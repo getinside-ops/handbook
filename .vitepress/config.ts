@@ -324,7 +324,7 @@ const config: any = withMermaid(
                     items: [
                       { text: 'Presentation', link: '/en/advertisers/dedicated-email/' },
                       { text: 'Advertiser Brief', link: '/en/advertisers/dedicated-email/1-brief-annonceur' },
-                      { text: 'Retailer Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
+                      { text: 'Network brand Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
                       { text: 'Validation & Delivery', link: '/en/advertisers/dedicated-email/3-validation-diffusion' },
                     ],
                   },

@@ -39,7 +39,7 @@ Insert an advertising banner within a partner's communications. An effective and
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Non-intrusive & Brand Safe</strong>
-    <p>Your brand is inserted into content that the subscriber expects, in a closed environment endorsed by the retailer — the opposite of open web programmatic display.</p>
+    <p>Your brand is inserted into content that the subscriber expects, in a closed environment endorsed by the network brand — the opposite of open web programmatic display.</p>
   </div>
 </div>
 
@@ -64,11 +64,11 @@ For this format, there is **no open pixel** — only clicks are counted (tracked
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🌐 Unified Inventory</strong>
-    <p>+250 partners accessible via a single platform. No need to negotiate individually with each media or e-retailer.</p>
+    <p>Partners accessible via a single platform. No need to negotiate individually with each media or network brand.</p>
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Brand Safety & Context</strong>
-    <p>Your brand appears in a closed, safe environment endorsed by the retailer — no bad contextual surprises unlike programmatic display.</p>
+    <p>Your brand appears in a closed, safe environment endorsed by the network brand — no bad contextual surprises unlike programmatic display.</p>
   </div>
   <div class="gi-value-card">
     <strong>📊 Centralized Tracking</strong>

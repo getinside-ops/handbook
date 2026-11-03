@@ -12,7 +12,7 @@ keywords:
 
 # Insertion colis
 
-Les procédures opérationnelles pour la réception, l'insertion et le reporting des campagnes. Taux de lecture **100% garanti** — vos colis assurent la visibilité maximale.
+Les procédures opérationnelles pour la réception, l'insertion et le reporting des campagnes. **98 % de délivrabilité** et **100 % d'attention** : tout le monde ouvre ses colis, et un canal qui demande un acte physique génère l'attention.
 
 <div>
   <a href="logistics" class="btn btn-primary mr-2">Guide Logistique</a>

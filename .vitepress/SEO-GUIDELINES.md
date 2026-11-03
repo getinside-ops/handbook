@@ -23,10 +23,10 @@ image: [URL de l'image OpenGraph, préférablement /images/...]
 **Exemple pour advertisers/index.md :**
 ```yaml
 ---
-title: Plateforme Publicitaire Retail Media pour Annonceurs - getinside
-description: Rejoignez +250 retailers et touchez des acheteurs avérés via insertion colis, email dédié, display email et social ads.
+title: Marketing par le colis et le courrier adressé pour Annonceurs - getinside
+description: Rejoignez +500 marques et touchez des acheteurs avérés via insertion colis, courrier adressé et échantillonnage.
 keywords:
-  - retail media
+  - marketing par le colis et le courrier adressé
   - plateforme publicitaire
   - annonceurs
   - insertion colis
@@ -56,10 +56,10 @@ Chaque page doit suivre cette structure:
 
 | Section | Mots-clés Primaires |
 |---------|-------------------|
-| start-here/index.md | retail media, monétisation, plateforme, colis, email, getinside |
+| start-here/index.md | marketing par le colis et le courrier adressé, monétisation, plateforme, colis, email, getinside |
 | start-here/why-it-works | matching contextuel, endorsed advertising, trust transfer, boucle vertueuse |
 | advertisers/ | annonceurs, plateforme publicitaire, acquisition, acheteurs qualifiés |
-| publishers/ | retailers, monétisation, e-commerce, revenue, growth |
+| publishers/ | marques du réseau, monétisation, e-commerce, revenue, growth |
 | faq/ | getinside, support, questions fréquentes, troubleshooting |
 | resources/ | case studies, guides, templates, outils, best practices |
 
@@ -155,7 +155,7 @@ Avant de publier une nouvelle page:
 Pour augmenter les citations par ChatGPT, Claude, Gemini :
 
 ### 1. **Rich Content**
-- Statistiques chiffrées ("65-70% net margin")
+- Statistiques chiffrées ("98 % de délivrabilité")
 - Études de cas
 - Données comparatives (tableaux)
 - Exemples concrets
@@ -168,7 +168,7 @@ Pour augmenter les citations par ChatGPT, Claude, Gemini :
 ### 3. **Mots-clés Conversationnels**
 LLM souvent posent des questions, utilisez:
 - "Comment monétiser ses colis ?" → "Comment getinside aide à monétiser"
-- "Quelle plateforme pour retailer ?" → "getinside pour retailers"
+- "Quelle plateforme pour monétiser ses colis ?" → "getinside pour les marques du réseau"
 - "Trust in advertising" → "getinside endorsement effect"
 
 ### 4. **Structure FAQs**

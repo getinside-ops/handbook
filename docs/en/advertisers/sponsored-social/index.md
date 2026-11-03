@@ -4,7 +4,7 @@ title: Social Ads
 
 # Social Ads (Partnership Ads)
 
-Broadcast your ads via the Instagram, TikTok, and Facebook accounts of our partner e-retailers — leveraging their credibility with their community.
+Broadcast your ads via the Instagram, TikTok, and Facebook accounts of our partner network brands — leveraging their credibility with their community.
 
 :::info Format on demand
 This format is available by contacting our team: [studio@getinside.fr](mailto:studio@getinside.fr)

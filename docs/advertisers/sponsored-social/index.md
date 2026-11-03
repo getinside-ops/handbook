@@ -4,7 +4,7 @@ title: Social Ads
 
 # Social Ads (Partnership Ads)
 
-Diffusez vos publicités via les comptes Instagram, TikTok et Facebook de nos e-commerçants partenaires — en tirant parti de leur crédibilité auprès de leur communauté.
+Diffusez vos publicités via les comptes Instagram, TikTok et Facebook de nos marques du réseau partenaires — en tirant parti de leur crédibilité auprès de leur communauté.
 
 :::info Format sur demande
 Ce format est disponible en contactant notre équipe : [studio@getinside.fr](mailto:studio@getinside.fr)

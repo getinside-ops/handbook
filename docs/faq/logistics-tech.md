@@ -113,7 +113,7 @@ Si les dommages dépassent 1% du volume ou si les supports sont non conformes au
 ::: details Un annonceur demande les adresses des destinataires — puis-je les communiquer ?
 **Non.** Cette demande n'est pas autorisée, même si l'annonceur insiste.
 
-En Retail Media, les données clients sont un **actif First Party** qui appartient exclusivement au Distributeur (vous). Le transfert de fichier est juridiquement interdit sans un nouvel opt-in spécifique (RGPD).
+Les données clients sont un **actif First Party** qui appartient exclusivement au Distributeur (vous). Le transfert de fichier est juridiquement interdit sans un nouvel opt-in spécifique (RGPD).
 
 getinside opère comme **Tiers de Confiance** : nous routons le message de l'annonceur vers votre audience, mais la donnée ne quitte jamais votre environnement sécurisé.
 

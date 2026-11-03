@@ -14,7 +14,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3>Démo & Création du compte</h3>
     <p>Tout commence par un call de démo avec l'équipe getinside.</p>
     <ul>
-      <li>L'équipe crée votre compte e-commerçant.</li>
+      <li>L'équipe crée votre compte marque du réseau.</li>
       <li>Tous les contacts fournis reçoivent un email d'invitation.</li>
       <li><strong>Action :</strong> Cliquez sur le lien dans l'email pour créer votre mot de passe et accéder à la plateforme.</li>
     </ul>
@@ -137,7 +137,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-num">🤝</div>
   <div class="gi-step-body">
     <h3>Affiliation & Parrainage</h3>
-    <p>Vous connaissez d'autres marques ou e-commerçants ?</p>
+    <p>Vous connaissez d'autres marques ?</p>
     <ul>
       <li>Invitez-les à rejoindre la plateforme.</li>
       <li>Gagnez des revenus grâce à leur activité.</li>
