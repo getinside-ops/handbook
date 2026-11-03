@@ -33,7 +33,7 @@ Go to the relevant audience profile and add a campaign type. For a custom offer 
 :::
 
 ::: details Where to see my campaign history?
-- **Received campaigns (Retailer):** Monetization → Campaign manager (filter by status: Accepted, Refused...)
+- **Received campaigns (Network brand):** Monetization → Campaign manager (filter by status: Accepted, Refused...)
 - **Your own campaigns (Advertiser):** Campaigns → All campaigns
 :::
 

@@ -39,6 +39,6 @@ features:
     link: /en/publishers/
   - icon: 🛠️
     title: An all-in-one solution, powered by AI
-    details: "AI and data targeting, lookalike modelling, full automation. 500+ brands are already growing with getinside, from DNVBs to the largest retailers."
+    details: "AI and data targeting, lookalike modelling, full automation. 500+ brands are already growing with getinside, from DNVBs to the largest chains."
     link: /en/start-here/why-it-works
 ---

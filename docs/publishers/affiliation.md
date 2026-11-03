@@ -52,7 +52,7 @@ Votre rémunération est créditée sur votre **Wallet** à chaque facture payé
 :::
 
 :::tip Revenus récurrents
-Votre rémunération est versée à chaque renouvellement ou paiement de votre filleul — tant qu'il reste actif sur la plateforme.
+Votre rémunération est versée à chaque paiement de votre filleul — tant qu'il reste actif sur la plateforme.
 :::
 
 ## Utilisation des gains

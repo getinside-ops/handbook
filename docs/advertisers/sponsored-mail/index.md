@@ -64,8 +64,8 @@ Un support est inséré dans le colis du client ou emporté avec sa commande. Gl
     <p>Vous touchez des acheteurs réels, qualifiés par leurs habitudes de consommation — pas des internautes anonymes. Secteur, panier moyen, géographie : le ciblage est précis et mesurable.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Cookie-less & RGPD</strong>
-    <p>Canal 100% offline : aucune dépendance aux cookies tiers, aucune restriction RGPD sur le ciblage. Un levier durable face à la saturation et à la hausse des coûts du digital.</p>
+    <strong>🛡️ Cookie-less</strong>
+    <p>Canal 100% offline : aucune dépendance aux cookies tiers. Un levier durable face à la saturation et à la hausse des coûts du digital.</p>
   </div>
 </div>
 

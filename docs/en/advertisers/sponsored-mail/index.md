@@ -64,8 +64,8 @@ A printed piece is placed in the customer's parcel or handed over with their ord
     <p>You reach real buyers, qualified by their purchasing habits — not anonymous internet users. Sector, average basket, geography: targeting is precise and measurable.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Cookie-less & GDPR</strong>
-    <p>100% offline channel: no dependence on third-party cookies, no GDPR restrictions on targeting. A sustainable channel in the face of digital saturation and rising costs.</p>
+    <strong>🛡️ Cookie-less</strong>
+    <p>100% offline channel: no dependence on third-party cookies. A sustainable channel in the face of digital saturation and rising costs.</p>
   </div>
 </div>
 

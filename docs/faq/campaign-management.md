@@ -33,7 +33,7 @@ Allez sur la fiche de l'audience concernée et ajoutez un type de campagne. Pour
 :::
 
 ::: details Où voir l'historique de mes campagnes ?
-- **Campagnes reçues (Retailer) :** Monétisation → Gestionnaire de campagne (filtrez par statut : Accepté, Refusé…)
+- **Campagnes reçues (Marque du réseau) :** Monétisation → Gestionnaire de campagne (filtrez par statut : Accepté, Refusé…)
 - **Vos propres campagnes (Annonceur) :** Campagnes → Toutes les campagnes
 :::
 

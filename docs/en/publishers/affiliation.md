@@ -52,7 +52,7 @@ Your reward is credited to your **Wallet** with every invoice paid by the referr
 :::
 
 :::tip Recurring income
-Your reward is paid with every renewal or payment from your referral — as long as they remain active on the platform.
+Your reward is paid on each payment made by your referral — as long as they remain active on the platform.
 :::
 
 ## Using your earnings

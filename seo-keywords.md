@@ -69,7 +69,6 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
   - Achat fromage affiné → Offre vin sélectionné (newsletter)
   - Follower running → Programme nutrition & récupération (social ads)
   - Achat jouets → Vêtements bio enfants (insertion colis)
-- **Impact** : Augmente conversion jusqu'à 5x vs display standard
 
 #### **Score Distributeur**
 - **Système de notation** : 1-5 étoiles basées sur 7 critères
@@ -129,7 +128,6 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
 - **Réseau** : +500 marques se développent avec la solution
 - **Délivrabilité** : 98 %
 - **Attention** : 100 % (acte physique : on ouvre, on touche, on regarde)
-- **Conversion** : Jusqu'à 5x vs display standard
 
 ### **Audiences & Données**
 
@@ -150,7 +148,7 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
 - Cherche : Monétiser audiences sans affecter expérience client
 - Objectifs : Revenue additionnel, EBITDA, cash flow
 - Mesure : Revenue par ad slot, margin, customer satisfaction
-- Avantages getinside : +500 annonceurs pré-intégrés, expertise opérationnelle
+- Avantages getinside : +500 marques, expertise opérationnelle
 
 ---
 

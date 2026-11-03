@@ -35,7 +35,7 @@ image: /images/gi-keyvisual.svg
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Audience & Score</p>
-      <p class="gi-nav-card-desc">How to fill in your profile to be visible and optimise your Network Brand Score.</p>
+      <p class="gi-nav-card-desc">How to fill in your profile to be visible and optimise your Distributor Score.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

@@ -300,7 +300,7 @@ const config: any = withMermaid(
                 text: 'Parcel Inserts',
                 collapsed: true,
                 items: [
-                  { text: 'Presentation', link: '/en/advertisers/sponsored-mail/' },
+                  { text: 'Overview', link: '/en/advertisers/sponsored-mail/' },
                   {
                     text: 'Design Guide',
                     collapsed: true,
@@ -322,9 +322,9 @@ const config: any = withMermaid(
                     text: 'Dedicated Email',
                     collapsed: true,
                     items: [
-                      { text: 'Presentation', link: '/en/advertisers/dedicated-email/' },
+                      { text: 'Overview', link: '/en/advertisers/dedicated-email/' },
                       { text: 'Advertiser Brief', link: '/en/advertisers/dedicated-email/1-brief-annonceur' },
-                      { text: 'Network brand Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
+                      { text: 'Distributor Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
                       { text: 'Validation & Delivery', link: '/en/advertisers/dedicated-email/3-validation-diffusion' },
                     ],
                   },
@@ -332,7 +332,7 @@ const config: any = withMermaid(
                     text: 'Display Email',
                     collapsed: true,
                     items: [
-                      { text: 'Presentation', link: '/en/advertisers/display-email/' },
+                      { text: 'Overview', link: '/en/advertisers/display-email/' },
                       { text: 'Specs', link: '/en/advertisers/display-email/specs' },
                       { text: 'Workflow', link: '/en/advertisers/display-email/workflow' },
                     ],
@@ -389,7 +389,7 @@ const config: any = withMermaid(
                 text: 'Management & Revenue',
                 collapsed: true,
                 items: [
-                  { text: 'Network Brand Score', link: '/en/publishers/score-distributor' },
+                  { text: 'Distributor Score', link: '/en/publishers/score-distributor' },
                   { text: 'Audiences & Data', link: '/en/publishers/audience-setup' },
                   { text: 'Payments & Wallet', link: '/en/publishers/payouts' },
                   { text: 'Affiliation Program', link: '/en/publishers/affiliation' },
@@ -402,7 +402,7 @@ const config: any = withMermaid(
             collapsed: true,
             items: [
               { text: 'Overview', link: '/en/faq/' },
-              { text: 'Network Brand Issues', link: '/en/faq/troubleshooting-distributors' },
+              { text: 'Distributor Issues', link: '/en/faq/troubleshooting-distributors' },
               { text: 'Audiences & Account', link: '/en/faq/account-audiences' },
               { text: 'Billing', link: '/en/faq/billing' },
               { text: 'Campaign Management', link: '/en/faq/campaign-management' },
