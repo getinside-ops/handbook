@@ -1,6 +1,6 @@
 ---
 title: FAQ - getinside
-description: Réponses aux questions fréquentes sur getinside : logistique, tracking, campagnes, audiences, Wallet et intégration technique.
+description: "Réponses aux questions fréquentes sur getinside : logistique, tracking, campagnes, audiences, Wallet et intégration technique."
 keywords:
   - FAQ getinside
   - getinside support

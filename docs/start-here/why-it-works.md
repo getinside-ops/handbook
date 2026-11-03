@@ -1,6 +1,6 @@
 ---
 title: Comment fonctionne getinside
-description: Comprenez le fonctionnement de getinside : un réseau de marques de confiance, un ciblage IA et un Wallet qui transforme vos revenus en nouveaux clients.
+description: "Comprenez le fonctionnement de getinside : un réseau de marques de confiance, un ciblage IA et un Wallet qui transforme vos revenus en nouveaux clients."
 keywords:
   - fonctionnement getinside
   - réseau de marques

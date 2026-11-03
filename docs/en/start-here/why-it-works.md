@@ -1,6 +1,6 @@
 ---
 title: How getinside works
-description: Understand how getinside works: a network of trusted brands, AI targeting and a Wallet that turns your revenue into new customers.
+description: "Understand how getinside works: a network of trusted brands, AI targeting and a Wallet that turns your revenue into new customers."
 keywords:
   - how getinside works
   - brand network
