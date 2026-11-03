@@ -1,5 +1,13 @@
 ---
 title: Onboarding & Fonctionnement
+description: "Découvrez le processus d'onboarding des marques du réseau, de la démo et la création du compte à l'activation de vos audiences, puis la gestion des campagnes : règle des 48 heures ouvrées, négociation et validation opérationnelle. Détaille aussi le Trade Marketing, l'affiliation, les pénalités, le RGPD et le droit de veto."
+keywords:
+  - Onboarding
+  - Marques du réseau
+  - Règle des 48 heures
+  - Trade Marketing
+  - Droit de veto
+  - RGPD
 ---
 
 # Onboarding et Fonctionnement

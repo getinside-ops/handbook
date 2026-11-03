@@ -1,5 +1,13 @@
 ---
 title: 2. Tracking & Envoi
+description: "Étape 2 de l'emailing dédié : intégrer le pixel d'ouverture et les liens trackés gtinsi.de, valider le BAT par un email de test réel, puis diffuser à votre base. Rappelle que « Valider la diffusion » est obligatoire pour déclencher le crédit de votre revenu sur le Wallet."
+keywords:
+  - Emailing dédié
+  - Pixel d'ouverture
+  - Liens trackés gtinsi.de
+  - BAT
+  - Valider la diffusion
+  - Wallet
 ---
 
 # Étape 2 : Tracking, Validation et Envoi

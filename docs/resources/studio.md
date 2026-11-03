@@ -1,5 +1,13 @@
 ---
 title: Studio Créatif
+description: "Le Studio Créatif getinside prend en charge toute votre production graphique : print pour l'Insertion Colis, emailing et web, social media. Conception, direction artistique, rédaction et mise en conformité technique, avec un BAT livré sous 48h après réception de votre brief et des fichiers prêts à diffuser."
+keywords:
+  - Studio Créatif
+  - Production graphique
+  - Insertion Colis
+  - Emailing
+  - Social media
+  - BAT
 ---
 
 # Studio Créatif

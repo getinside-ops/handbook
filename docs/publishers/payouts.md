@@ -1,5 +1,13 @@
 ---
 title: Paiement des Revenus
+description: "Suivez vos revenus dans le Wallet : timeline de validation avec délai de protection de 30 jours, facture requise et paiement à 30 jours fin de mois. Explique les actions nécessaires pour créditer le Wallet, le réinvestissement du solde, la règle d'expiration des fonds et la procédure de retrait."
+keywords:
+  - Wallet
+  - Paiement des revenus
+  - Retrait
+  - Délai de protection 30 jours
+  - Facture
+  - Expiration des fonds
 ---
 
 # Gestion des Revenus et Paiements

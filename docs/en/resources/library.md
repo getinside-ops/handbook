@@ -1,5 +1,13 @@
 ---
 title: Library
+description: "Resource library to prepare your materials: mandatory logos (getinside, Triman, Info-tri), A5 and A6 print templates for Parcel inserts, recommended design software and a pre-submission checklist for proof approval."
+keywords:
+  - Resource library
+  - Print templates
+  - Logos
+  - Parcel inserts
+  - Design software
+  - Proof checklist
 ---
 
 # Resource Library

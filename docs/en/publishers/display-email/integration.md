@@ -1,5 +1,13 @@
 ---
 title: Integration & Sending
+description: "Display Email integration guide: receiving the banner, retrieving the gtinsi.de tracked link, inserting it in your email router, running the proof test and sending. Reminds you that only the tracked link counts clicks and that \"Validate delivery\" triggers the crediting of your Wallet."
+keywords:
+  - Display Email
+  - gtinsi.de tracked link
+  - Email router
+  - Proof test
+  - Validate delivery
+  - Wallet
 ---
 
 # Integration and Broadcast

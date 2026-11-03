@@ -1,5 +1,13 @@
 ---
 title: Emailing Dédié
+description: "L'emailing dédié permet de s'adresser aux abonnés des marques du réseau via leur recommandation directe. Découvrez les 3 scénarios (Blast, Post-Purchase, Welcome Pack), le workflow en 3 étapes, les performances et les options de ciblage."
+keywords:
+  - emailing dédié
+  - newsletter dédiée
+  - recommandation
+  - post-purchase
+  - ciblage first party
+  - annonceurs
 ---
 
 # Emailing Dédié (Dedicated Newsletter)

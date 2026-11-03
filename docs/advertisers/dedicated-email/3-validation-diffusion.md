@@ -1,5 +1,13 @@
 ---
 title: 3. Validation & Diffusion
+description: "Dernière étape de l'emailing dédié : configuration du tracking, réception du BAT, validation de la campagne sur la plateforme puis diffusion. L'envoi reste bloqué tant que l'annonceur n'a pas validé."
+keywords:
+  - emailing dédié
+  - BAT
+  - validation de campagne
+  - diffusion
+  - tracking
+  - annonceurs
 ---
 
 # Étape 3 : Validation et Diffusion

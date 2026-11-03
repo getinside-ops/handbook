@@ -1,5 +1,13 @@
 ---
 title: Account & Audiences
+description: "Answers to common questions about your getinside account: adding a user, listing an audience, managing several sites from one account and tracking your referrals. Also explains how to make your audience profile attractive to advertisers and why your Distributor Score can drop."
+keywords:
+  - getinside account
+  - Audiences
+  - Audience profile
+  - Distributor Score
+  - Affiliate program
+  - Network brands FAQ
 ---
 
 # Account, Team & Audiences

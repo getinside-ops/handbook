@@ -1,5 +1,13 @@
 ---
 title: Score Distributeur
+description: "Le Score Distributeur est une note sur 5 étoiles, recalculée dynamiquement, qui détermine votre visibilité auprès des annonceurs et donc le volume de campagnes reçues. Présente ses 7 critères d'évaluation, les actions qui le font monter et l'endroit où le consulter dans votre espace."
+keywords:
+  - Score Distributeur
+  - Visibilité
+  - Critères d'évaluation
+  - Top Distributeur
+  - Réactivité
+  - Marketplace
 ---
 
 # Score Distributeur

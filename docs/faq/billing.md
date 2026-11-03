@@ -1,5 +1,13 @@
 ---
 title: Facturation & Paiements
+description: "Réponses sur la facturation et les paiements des marques du réseau : crédit du Wallet, retrait des gains et facture, délai de protection de 30 jours, réinvestissement du solde. Détaille aussi la procédure en cas d'anomalie et la règle d'expiration des fonds après 12 mois d'inactivité."
+keywords:
+  - Wallet
+  - Retrait des gains
+  - Facturation
+  - Délai de protection 30 jours
+  - Expiration des fonds
+  - Réinvestissement
 ---
 
 # Facturation & Paiements

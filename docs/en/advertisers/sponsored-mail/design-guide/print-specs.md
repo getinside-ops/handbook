@@ -1,5 +1,13 @@
 ---
 title: Technical Specifications
+description: "Print technical specifications for Parcel insert materials: A5 and A6 formats, bleed, CMYK color mode, dynamic getinside QR code, sample formats and proof (BAT) checklist."
+keywords:
+  - technical specifications
+  - parcel inserts
+  - bleed
+  - CMYK
+  - dynamic QR code
+  - samples
 ---
 
 # Technical Specifications

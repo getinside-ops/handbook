@@ -1,5 +1,13 @@
 ---
 title: 2. Production (Distributor)
+description: "Second step of the dedicated email: the distributor builds the email in its own branding to create an endorsement effect. Discover native co-branding, the production flow and how to edit dynamic links at any time."
+keywords:
+  - dedicated email
+  - native co-branding
+  - endorsement
+  - email production
+  - dynamic tracking links
+  - advertisers
 ---
 
 # Step 2: Production & Co-branding

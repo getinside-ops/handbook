@@ -1,5 +1,13 @@
 ---
 title: Logistics & Insertion
+description: "Logistics operations for Parcel inserts: checking materials on arrival, confirming receipt on the platform, insertion best practices (the \"On-Top\" rule, invoice handling, exclusions) and storage conditions. Follow them to ensure a great unboxing experience."
+keywords:
+  - Parcel inserts
+  - Logistics
+  - Receiving materials
+  - On-Top rule
+  - Unboxing
+  - Storage
 ---
 
 # Logistics Operations

@@ -1,5 +1,13 @@
 ---
 title: Intégration & Envoi
+description: "Guide d'intégration du Display Email : réception de la bannière, récupération du lien tracké gtinsi.de, insertion dans votre routeur, test BAT puis diffusion. Rappelle que seul le lien tracké comptabilise les clics et que « Valider la diffusion » déclenche le crédit sur votre Wallet."
+keywords:
+  - Display Email
+  - Lien tracké gtinsi.de
+  - Routeur email
+  - Test BAT
+  - Valider la diffusion
+  - Wallet
 ---
 
 # Intégration et Diffusion

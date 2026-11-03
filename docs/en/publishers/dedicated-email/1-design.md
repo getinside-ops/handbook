@@ -1,5 +1,12 @@
 ---
 title: 1. Creation & Design
+description: "Step 1 of dedicated email: access the campaign brief and design the email using a co-branding approach, so the message reads as a genuine recommendation. Includes real campaign examples and the option to delegate creation to the getinside Studio."
+keywords:
+  - Dedicated email
+  - Co-branding
+  - Endorsement
+  - Campaign brief
+  - getinside Studio
 ---
 
 # Step 1: Email Conception

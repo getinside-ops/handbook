@@ -1,5 +1,13 @@
 ---
 title: Logistique & Technique
+description: "Réponses sur la logistique, l'impression et les aspects techniques : QR code en erreur 404, boost Instagram, image de newsletter, flyers endommagés, écarts de stock et tolérance de gâche (Article 38 UNIIC). Couvre aussi les données et le RGPD, les standards RSE d'impression, le Studio créatif et le suivi du ROI."
+keywords:
+  - Logistique
+  - Insertion Colis
+  - Tolérance de gâche
+  - QR code
+  - RGPD
+  - Avarie de transport
 ---
 
 # Logistique, Print & Technique

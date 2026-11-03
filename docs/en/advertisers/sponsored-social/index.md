@@ -1,5 +1,13 @@
 ---
 title: Social Ads
+description: "Run your ads through the Instagram, TikTok and Facebook accounts of network brands with Partnership Ads and Spark Ads. Discover the 4-step workflow, formats and creative specifications."
+keywords:
+  - social ads
+  - partnership ads
+  - spark ads
+  - instagram tiktok facebook
+  - network brand
+  - advertisers
 ---
 
 # Social Ads (Partnership Ads)

@@ -1,5 +1,13 @@
 ---
 title: Audience & Score
+description: "Set up your audience profile, your showcase to advertisers: identity, persona, demographic data and enabled formats (Parcel inserts, Dedicated Email, Display Email, Social Ads, Contest). Also explains how to manage several sites and how the profile relates to your Distributor Score."
+keywords:
+  - Audience profile
+  - Persona
+  - Formats
+  - Distributor Score
+  - Multiple audiences
+  - Parcel inserts
 ---
 
 # Audience & Score Setup

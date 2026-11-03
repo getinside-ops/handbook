@@ -1,5 +1,13 @@
 ---
 title: Process & Validation
+description: "Les étapes d'une campagne Display Email, de l'envoi du visuel et du lien à la diffusion : configuration du lien tracké, BAT et validation sur la plateforme. Inclut l'ajout de paramètres UTM pour mesurer les ventes."
+keywords:
+  - workflow display email
+  - BAT
+  - validation de campagne
+  - lien tracké
+  - paramètres UTM
+  - annonceurs
 ---
 
 # Workflow de Campagne

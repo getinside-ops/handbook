@@ -1,5 +1,13 @@
 ---
 title: Encart Newsletter (Display Email)
+description: "Monétisez vos newsletters et emails transactionnels en y insérant une bannière partenaire, sans production de votre côté. Présente les emplacements disponibles (transactionnels, newsletters, welcome emails), les formats de bannières Leaderboard et Pavé, et les atouts de ce format."
+keywords:
+  - Display Email
+  - Encart newsletter
+  - Bannière
+  - Emails transactionnels
+  - Welcome emails
+  - Marques du réseau
 ---
 
 # Encart Newsletter (Display Email)

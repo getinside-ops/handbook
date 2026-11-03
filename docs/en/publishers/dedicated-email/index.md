@@ -1,5 +1,13 @@
 ---
 title: Dedicated Email (publisher)
+description: "Make the most of your database by recommending partner brands to your community through dedicated email: Blast (newsletter), Post-Purchase and Welcome Pack. Presents the two-step creation process, from design to sending, and the benefits of this lever through getinside."
+keywords:
+  - Dedicated email
+  - Endorsement
+  - Newsletter
+  - Post-Purchase
+  - Welcome Pack
+  - Network brands
 ---
 
 # Dedicated Emailing

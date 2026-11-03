@@ -1,5 +1,13 @@
 ---
 title: Campaign Management
+description: "Answers on campaign management: the 48 business-hour response deadline, cancellations, refusing a non-compliant flyer, late starts and performance tracking. Also covers the distributor's veto right over the brand and the ban on sharing customer addresses with an advertiser."
+keywords:
+  - Campaign management
+  - 48-hour response time
+  - Veto right
+  - Performance tracking
+  - GDPR
+  - Campaign FAQ
 ---
 
 # Campaign Management

@@ -1,5 +1,13 @@
 ---
 title: 1. Brief Annonceur
+description: "Première étape de l'emailing dédié : l'annonceur remplit le formulaire de brief et fournit l'offre, les visuels, le wording et les liens de destination. Découvrez ce qu'il faut préparer et pourquoi laisser la marque du réseau adapter la création."
+keywords:
+  - emailing dédié
+  - brief annonceur
+  - formulaire de brief
+  - offre et visuels
+  - liens dynamiques
+  - annonceurs
 ---
 
 # Étape 1 : Le Brief Annonceur

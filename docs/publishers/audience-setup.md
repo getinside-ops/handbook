@@ -1,5 +1,13 @@
 ---
 title: Audience & Score
+description: "Configurez votre fiche audience, votre vitrine auprès des annonceurs : identité, persona, données démographiques et formats activés (Insertion Colis, Emailing Dédié, Display Email, Social Ads, Jeu Concours). Explique aussi la gestion de plusieurs sites et le lien avec votre Score Distributeur."
+keywords:
+  - Fiche audience
+  - Persona
+  - Formats
+  - Score Distributeur
+  - Multi-audiences
+  - Insertion Colis
 ---
 
 # Configuration de l'Audience & Score

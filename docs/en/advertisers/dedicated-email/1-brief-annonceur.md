@@ -1,5 +1,13 @@
 ---
 title: 1. Advertiser Brief
+description: "First step of the dedicated email: the advertiser fills in the brief form and provides the offer, visuals, wording and destination links. Learn what to prepare and why you should let the network brand adapt the creative."
+keywords:
+  - dedicated email
+  - advertiser brief
+  - brief form
+  - offer and visuals
+  - dynamic links
+  - advertisers
 ---
 
 # Step 1: The Advertiser Brief

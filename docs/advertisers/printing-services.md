@@ -1,5 +1,13 @@
 ---
 title: Impression & Logistique
+description: "getinside centralise l'impression et la logistique de vos supports d'Insertion colis : production française certifiée, spécifications papier, livraison aux entrepôts des marques du réseau et assemblage par des Entreprises Adaptées."
+keywords:
+  - impression
+  - logistique
+  - insertion colis
+  - Made in France
+  - entreprises adaptées
+  - spécifications papier
 ---
 
 # Services d'Impression et Logistique

@@ -1,5 +1,13 @@
 ---
 title: Quick Start — Advertisers
+description: "Launch your first getinside campaign in 4 steps: account creation, format choice, brief, then network brand selection and proof (BAT) validation. A quick start guide for advertisers."
+keywords:
+  - quick start
+  - advertisers
+  - first campaign
+  - account creation
+  - brief
+  - proof BAT
 ---
 
 # Quick Start — Advertisers

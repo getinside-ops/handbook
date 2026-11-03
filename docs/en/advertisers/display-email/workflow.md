@@ -1,5 +1,13 @@
 ---
 title: Process & Validation
+description: "The steps of a Display Email campaign, from sending the visual and link to broadcast: tracked link setup, proof (BAT) and validation on the platform. Includes adding UTM parameters to measure sales."
+keywords:
+  - display email workflow
+  - proof BAT
+  - campaign validation
+  - tracked link
+  - UTM parameters
+  - advertisers
 ---
 
 # Campaign Workflow

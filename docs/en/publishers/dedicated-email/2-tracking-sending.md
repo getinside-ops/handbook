@@ -1,5 +1,13 @@
 ---
 title: 2. Tracking & Sending
+description: "Step 2 of dedicated email: integrate the open pixel and the gtinsi.de tracked links, validate the proof with a real test email, then send to your base. Reminds you that \"Validate delivery\" is mandatory to trigger the crediting of your revenue to the Wallet."
+keywords:
+  - Dedicated email
+  - Open pixel
+  - gtinsi.de tracked links
+  - Proof approval
+  - Validate delivery
+  - Wallet
 ---
 
 # Step 2: Tracking, Validation, and Sending

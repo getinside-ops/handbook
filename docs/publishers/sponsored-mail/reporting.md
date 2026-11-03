@@ -1,5 +1,12 @@
 ---
 title: Suivi & Reporting
+description: "Déclarez chaque lundi ou mardi les volumes d'Insertion Colis distribués la semaine précédente : cette déclaration hebdomadaire est obligatoire et conditionne votre paiement. Explique les étapes de saisie sur la plateforme et la clôture de campagne (stock épuisé ou objectif atteint), qui déclenche le crédit sur le Wallet."
+keywords:
+  - Insertion Colis
+  - Reporting hebdomadaire
+  - Déclaration de volumes
+  - Clôture de campagne
+  - Wallet
 ---
 
 # Suivi des Volumes (Reporting)

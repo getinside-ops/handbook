@@ -1,5 +1,13 @@
 ---
 title: Guide de Conception
+description: "Le guide de conception pour créer un flyer d'Insertion colis qui convertit : process de validation, mécaniques (promotion, drive to store, jeu, app, feedback), conseils sur l'offre et règles mobile first, avec gabarits et check-list."
+keywords:
+  - guide de conception
+  - insertion colis
+  - flyer
+  - QR code
+  - mécaniques marketing
+  - BAT
 ---
 
 # Guide de Conception

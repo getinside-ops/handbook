@@ -1,5 +1,13 @@
 ---
-title: Dedicated Email (publisher)
+title: Emailing Dédié (marques du réseau)
+description: "Valorisez votre base de données en recommandant des marques partenaires à votre communauté par emailing dédié : Blast (newsletter), Post-Purchase et Welcome Pack. Présente le processus de création en deux étapes, de la conception à l'envoi, et les avantages de ce levier via getinside."
+keywords:
+  - Emailing dédié
+  - Endorsement
+  - Newsletter
+  - Post-Purchase
+  - Welcome Pack
+  - Marques du réseau
 ---
 
 # Emailing Dédié

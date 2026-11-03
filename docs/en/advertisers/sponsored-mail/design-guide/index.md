@@ -1,5 +1,13 @@
 ---
 title: Design Guide
+description: "The design guide for creating a Parcel insert flyer that converts: validation process, mechanics (promotion, drive to store, game, app, feedback), offer tips and mobile-first rules, with templates and checklist."
+keywords:
+  - design guide
+  - parcel inserts
+  - flyer
+  - QR code
+  - marketing mechanics
+  - proof BAT
 ---
 
 # Design Guide

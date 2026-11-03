@@ -1,5 +1,13 @@
 ---
 title: Spécifications Techniques
+description: "Spécifications techniques d'impression des supports d'Insertion colis : formats A5 et A6, fond perdu, colorimétrie CMJN, QR code getinside dynamique, formats d'échantillons et check-list BAT."
+keywords:
+  - spécifications techniques
+  - insertion colis
+  - fond perdu
+  - CMJN
+  - QR code dynamique
+  - échantillons
 ---
 
 # Spécifications Techniques

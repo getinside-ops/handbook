@@ -1,5 +1,13 @@
 ---
 title: Bibliothèque
+description: "Bibliothèque de ressources pour préparer vos supports : logos obligatoires (getinside, Triman, Info-tri), gabarits print A5 et A6 pour l'Insertion Colis, logiciels de PAO recommandés et check-list de contrôle avant envoi du BAT."
+keywords:
+  - Bibliothèque de ressources
+  - Gabarits print
+  - Logos
+  - Insertion Colis
+  - PAO
+  - Check-list BAT
 ---
 
 # Bibliothèque de Ressources

@@ -1,5 +1,13 @@
 ---
 title: Compte & Audiences
+description: "Réponses aux questions courantes sur votre compte getinside : ajouter un utilisateur, référencer une audience, gérer plusieurs sites depuis un seul compte et suivre vos filleuls. Explique aussi comment rendre votre fiche audience attractive pour les annonceurs et pourquoi votre Score Distributeur peut baisser."
+keywords:
+  - Compte getinside
+  - Audiences
+  - Fiche audience
+  - Score Distributeur
+  - Affiliation
+  - FAQ marques du réseau
 ---
 
 # Compte, Équipe & Audiences

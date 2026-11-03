@@ -1,5 +1,13 @@
 ---
 title: 3. Validation & Broadcast
+description: "Final step of the dedicated email: tracking setup, receiving the proof (BAT), validating the campaign on the platform, then broadcast. Sending stays blocked until the advertiser validates."
+keywords:
+  - dedicated email
+  - proof BAT
+  - campaign validation
+  - broadcast
+  - tracking
+  - advertisers
 ---
 
 # Step 3: Validation and Broadcast

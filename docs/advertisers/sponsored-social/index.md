@@ -1,5 +1,13 @@
 ---
 title: Social Ads
+description: "Diffusez vos publicités via les comptes Instagram, TikTok et Facebook des marques du réseau grâce aux Partnership Ads et Spark Ads. Découvrez le workflow en 4 étapes, les formats et les spécifications créatives."
+keywords:
+  - social ads
+  - partnership ads
+  - spark ads
+  - instagram tiktok facebook
+  - marque du réseau
+  - annonceurs
 ---
 
 # Social Ads (Partnership Ads)

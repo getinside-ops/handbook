@@ -1,5 +1,13 @@
 ---
 title: Résolution de Problèmes — Distributeurs
+description: "Guide de dépannage pour les marques du réseau : solde du Wallet à 0 ou en attente, virement non reçu, prélèvements inattendus, fonds expirés. Traite aussi les campagnes (annulation, non-réponse sous 48h, brief incorrect), la rémunération de parrainage et les comptes suspendus."
+keywords:
+  - Dépannage
+  - Wallet
+  - Virement non reçu
+  - Pénalités
+  - Compte suspendu
+  - Support distributeurs
 ---
 
 # Résolution de Problèmes — Distributeurs

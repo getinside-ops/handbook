@@ -1,5 +1,13 @@
 ---
 title: Distributor Score
+description: "The Distributor Score is a 5-star rating, recalculated dynamically, that determines your visibility to advertisers and therefore the volume of campaigns you receive. Presents its 7 evaluation criteria, the actions that raise it and where to find it in your account."
+keywords:
+  - Distributor Score
+  - Visibility
+  - Evaluation criteria
+  - Top Distributor
+  - Responsiveness
+  - Marketplace
 ---
 
 # Distributor Score

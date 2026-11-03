@@ -1,5 +1,12 @@
 ---
 title: 1. Création & Design
+description: "Étape 1 de l'emailing dédié : accéder au brief de la campagne et concevoir l'email en stratégie de co-branding, pour une recommandation perçue comme sincère. Inclut des exemples de campagnes réelles et l'option de déléguer la création au Studio getinside."
+keywords:
+  - Emailing dédié
+  - Co-branding
+  - Endorsement
+  - Brief de campagne
+  - Studio getinside
 ---
 
 # Étape 1 : Conception de l'Email

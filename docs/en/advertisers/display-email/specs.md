@@ -1,5 +1,13 @@
 ---
 title: Banner Specifications
+description: "Formats, dimensions, file size and technical constraints for Display Email banners, for optimal rendering in Outlook, Gmail and Apple Mail. Includes animated GIF rules and design and mobile readability best practices."
+keywords:
+  - banner specifications
+  - display email
+  - 600x150 format
+  - animated GIF
+  - file size
+  - mobile readability
 ---
 
 # Banner Specifications

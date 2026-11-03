@@ -1,5 +1,13 @@
 ---
 title: Legal Notices
+description: "Mandatory legal notices on every Parcel insert flyer: advertiser identification, Triman and getinside logos, offer T&Cs, and sector-specific notices (alcohol, food, finance, gambling...). Their absence blocks proof (BAT) validation."
+keywords:
+  - legal notices
+  - parcel inserts
+  - Triman
+  - sector-specific notices
+  - AGEC law
+  - BAT validation
 ---
 
 # Legal Notices & Logos

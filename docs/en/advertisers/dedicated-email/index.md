@@ -1,5 +1,13 @@
 ---
 title: Dedicated Emailing
+description: "The dedicated email lets you reach the subscribers of network brands through their direct endorsement. Discover the 3 scenarios (Blast, Post-Purchase, Welcome Pack), the 3-step workflow, performance and targeting options."
+keywords:
+  - dedicated email
+  - dedicated newsletter
+  - endorsement
+  - post-purchase
+  - first party targeting
+  - advertisers
 ---
 
 # Dedicated Emailing (Dedicated Newsletter)

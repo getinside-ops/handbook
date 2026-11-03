@@ -1,5 +1,13 @@
 ---
 title: Creative Studio
+description: "The getinside Creative Studio handles all your graphic production: print for Parcel inserts, email and web, and social media. Design, art direction, copywriting and technical compliance, with a proof delivered within 48 hours of receiving your brief and ready-to-use files."
+keywords:
+  - Creative Studio
+  - Graphic production
+  - Parcel inserts
+  - Email
+  - Social media
+  - Proof approval
 ---
 
 # Creative Studio

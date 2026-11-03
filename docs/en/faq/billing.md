@@ -1,5 +1,13 @@
 ---
 title: Billing & Payments
+description: "Answers on billing and payments for network brands: Wallet crediting, withdrawing earnings and invoicing, the 30-day protection period and reinvesting your balance. Also covers what happens when an anomaly is detected and the fund expiry rule after 12 months of inactivity."
+keywords:
+  - Wallet
+  - Withdraw earnings
+  - Billing
+  - 30-day protection period
+  - Funds expiry
+  - Reinvestment
 ---
 
 # Billing & Payments

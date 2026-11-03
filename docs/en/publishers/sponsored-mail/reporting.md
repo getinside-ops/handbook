@@ -1,5 +1,12 @@
 ---
 title: Tracking & Reporting
+description: "Declare the Parcel insert volumes distributed the previous week every Monday or Tuesday: this weekly report is mandatory and determines your payment. Explains the steps to enter volumes on the platform and how to close a campaign (stock depleted or target reached), which triggers the crediting of your Wallet."
+keywords:
+  - Parcel inserts
+  - Weekly reporting
+  - Volume declaration
+  - Campaign closure
+  - Wallet
 ---
 
 # Volume Tracking (Reporting)

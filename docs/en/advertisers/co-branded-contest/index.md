@@ -1,5 +1,13 @@
 ---
 title: Contest
+description: "The co-branded contest combines awareness, opt-in lead generation and conversion, backed by the credibility of a network brand. Golden Ticket, Wheel of Fortune or Quiz: discover the mechanics, the 5-step workflow and the GDPR framework."
+keywords:
+  - contest
+  - co-branding
+  - opt-in leads
+  - GDPR
+  - network brand
+  - advertisers
 ---
 
 # Contest

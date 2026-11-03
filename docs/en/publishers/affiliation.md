@@ -1,5 +1,13 @@
 ---
 title: Affiliate Program
+description: "Recommend getinside to other network brands or advertisers and earn recurring revenue. Refer them with your unique link: your reward is credited to your Wallet each time the referred account pays an invoice, and can be withdrawn or reinvested."
+keywords:
+  - Affiliate program
+  - Referral
+  - Recurring revenue
+  - Wallet
+  - Network brands
+  - Advertisers
 ---
 
 # Affiliate Program

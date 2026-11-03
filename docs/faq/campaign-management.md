@@ -1,5 +1,13 @@
 ---
 title: Gestion des Campagnes
+description: "Réponses sur la gestion des campagnes : délai de réponse de 48 heures ouvrées, annulation, refus d'un flyer non conforme, démarrage en retard et suivi des performances. Rappelle aussi le droit de veto du distributeur sur la marque et l'interdiction de transmettre les adresses clients à un annonceur."
+keywords:
+  - Gestion des campagnes
+  - Délai de réponse 48h
+  - Droit de veto
+  - Suivi des performances
+  - RGPD
+  - FAQ campagnes
 ---
 
 # Gestion des Campagnes

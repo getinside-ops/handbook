@@ -1,5 +1,13 @@
 ---
 title: Démarrage Rapide — Annonceurs
+description: "Lancez votre première campagne getinside en 4 étapes : création du compte, choix du format, brief, puis sélection des marques du réseau et validation du BAT. Un guide de démarrage rapide pour les annonceurs."
+keywords:
+  - démarrage rapide
+  - annonceurs
+  - première campagne
+  - création de compte
+  - brief
+  - BAT
 ---
 
 # Démarrage Rapide — Annonceurs

@@ -1,5 +1,13 @@
 ---
 title: 2. Production (Distributeur)
+description: "Deuxième étape de l'emailing dédié : le distributeur conçoit l'email dans sa propre charte pour obtenir un effet de recommandation. Découvrez le co-branding natif, le flux de production et la modification des liens dynamiques à tout moment."
+keywords:
+  - emailing dédié
+  - co-branding natif
+  - recommandation
+  - production email
+  - liens de tracking dynamiques
+  - annonceurs
 ---
 
 # Étape 2 : Production & Co-branding

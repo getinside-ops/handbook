@@ -1,5 +1,13 @@
 ---
 title: Revenue Payment
+description: "Track your revenue in the Wallet: validation timeline with a 30-day protection period, required invoice and payment at 30 days end of month. Explains the actions needed to credit the Wallet, reinvesting your balance, the fund expiry rule and the withdrawal procedure."
+keywords:
+  - Wallet
+  - Revenue payment
+  - Withdrawal
+  - 30-day protection period
+  - Invoice
+  - Funds expiry
 ---
 
 # Revenue and Payment Management

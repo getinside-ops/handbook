@@ -1,5 +1,13 @@
 ---
 title: Spécifications Bannières
+description: "Formats, dimensions, poids et contraintes techniques des bannières Display Email pour un affichage optimal sur Outlook, Gmail et Apple Mail. Inclut les règles sur les GIF animés et les bonnes pratiques de design et de lisibilité mobile."
+keywords:
+  - spécifications bannières
+  - display email
+  - formats 600x150
+  - GIF animé
+  - poids d'image
+  - lisibilité mobile
 ---
 
 # Spécifications Bannières

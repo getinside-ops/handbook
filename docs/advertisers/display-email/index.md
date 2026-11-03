@@ -1,5 +1,13 @@
 ---
 title: Display Email
+description: "L'encart newsletter (Display Email) insère une bannière dans les emails d'une marque du réseau : newsletter, confirmation de commande ou email de bienvenue. Vous ne fournissez qu'une image et un lien, avec un suivi des clics centralisé."
+keywords:
+  - display email
+  - encart newsletter
+  - bannière
+  - brand safety
+  - tracking des clics
+  - annonceurs
 ---
 
 # Encart Newsletter (Display Email)

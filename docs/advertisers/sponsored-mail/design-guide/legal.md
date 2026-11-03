@@ -1,5 +1,13 @@
 ---
 title: Mentions Légales
+description: "Mentions légales obligatoires sur chaque flyer d'Insertion colis : identification de l'annonceur, logos Triman et getinside, CGV de l'offre, et mentions sectorielles (alcool, alimentation, finance, jeux d'argent...). Leur absence bloque la validation du BAT."
+keywords:
+  - mentions légales
+  - insertion colis
+  - Triman
+  - mentions sectorielles
+  - loi AGEC
+  - validation BAT
 ---
 
 # Mentions Légales & Logos

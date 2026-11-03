@@ -1,5 +1,13 @@
 ---
 title: Démarrage Rapide — Distributeurs
+description: "Démarrez sur getinside en 3 étapes et environ 10 minutes : activez votre accès, configurez votre profil logistique, puis créez votre première audience. Un appel de validation avec l'équipe confirme ensuite votre mise en ligne sur la marketplace et vous commencez à recevoir des propositions de campagnes."
+keywords:
+  - Démarrage rapide
+  - Activation du compte
+  - Profil logistique
+  - Première audience
+  - Règle des 48 heures
+  - Marketplace
 ---
 
 # Démarrage Rapide — Distributeurs

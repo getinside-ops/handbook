@@ -1,5 +1,13 @@
 ---
 title: Logistics & Tech
+description: "Answers on logistics, printing and technical issues: QR code 404 errors, Instagram boosting, newsletter images, damaged flyers, stock gaps and print overage tolerance (Article 38 UNIIC). Also covers data and GDPR, printing CSR standards, the Creative Studio and ROI tracking."
+keywords:
+  - Logistics
+  - Parcel inserts
+  - Print overage tolerance
+  - QR code
+  - GDPR
+  - Transport damage
 ---
 
 # Logistics, Print & Tech

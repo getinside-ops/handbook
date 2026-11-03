@@ -1,5 +1,13 @@
 ---
 title: Onboarding & Operations
+description: "Discover the onboarding process for network brands, from the demo and account creation to activating your audiences, then campaign management: the 48 business-hour rule, negotiation and operational validation. Also details Trade Marketing, the affiliate program, penalties, GDPR and the veto right."
+keywords:
+  - Onboarding
+  - Network brands
+  - 48-hour rule
+  - Trade Marketing
+  - Veto right
+  - GDPR
 ---
 
 # Onboarding and Operations

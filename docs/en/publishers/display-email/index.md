@@ -1,5 +1,13 @@
 ---
 title: Newsletter Insert (Display Email)
+description: "Monetize your newsletters and transactional emails by inserting a partner banner, with no production work on your side. Presents the available placements (transactional, newsletters, welcome emails), the Leaderboard and Rectangle banner formats, and the strengths of this format."
+keywords:
+  - Display Email
+  - Newsletter insert
+  - Banner
+  - Transactional emails
+  - Welcome emails
+  - Network brands
 ---
 
 # Newsletter Insert (Display Email)

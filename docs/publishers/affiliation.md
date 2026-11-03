@@ -1,5 +1,13 @@
 ---
 title: Programme d'Affiliation
+description: "Recommandez getinside à d'autres marques du réseau ou à des annonceurs et générez des revenus récurrents. Parrainez avec votre lien unique : la rémunération est créditée sur votre Wallet à chaque facture payée par le filleul, puis retirée ou réinvestie."
+keywords:
+  - Programme d'affiliation
+  - Parrainage
+  - Revenus récurrents
+  - Wallet
+  - Marques du réseau
+  - Annonceurs
 ---
 
 # Programme d'Affiliation

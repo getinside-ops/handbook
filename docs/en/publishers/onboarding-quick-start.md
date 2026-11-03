@@ -1,5 +1,13 @@
 ---
 title: Quick Start — Distributors
+description: "Get started on getinside in 3 steps and about 10 minutes: activate your access, set up your logistics profile, then create your first audience. A validation call with the team then confirms your go-live on the marketplace and you start receiving campaign proposals."
+keywords:
+  - Quick start
+  - Account activation
+  - Logistics profile
+  - First audience
+  - 48-hour rule
+  - Marketplace
 ---
 
 # Quick Start — Distributors

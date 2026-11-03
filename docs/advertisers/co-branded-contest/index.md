@@ -1,5 +1,13 @@
 ---
 title: Jeu Concours
+description: "Le jeu concours co-brandé combine notoriété, collecte de leads opt-in et conversion grâce à la caution d'une marque du réseau. Ticket d'Or, Roue de la Fortune ou Quiz : découvrez les mécaniques, le workflow en 5 étapes et le cadre RGPD."
+keywords:
+  - jeu concours
+  - co-branding
+  - leads opt-in
+  - RGPD
+  - marque du réseau
+  - annonceurs
 ---
 
 # Jeu Concours

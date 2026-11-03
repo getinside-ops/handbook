@@ -1,5 +1,13 @@
 ---
 title: Troubleshooting — Distributors
+description: "Troubleshooting guide for network brands: Wallet balance at 0 or pending, missing transfer, unexpected deductions and expired funds. Also covers campaigns (cancellation, no reply within 48 hours, incorrect brief), referral rewards and suspended accounts."
+keywords:
+  - Troubleshooting
+  - Wallet
+  - Missing transfer
+  - Penalties
+  - Suspended account
+  - Distributor support
 ---
 
 # Troubleshooting — Distributors

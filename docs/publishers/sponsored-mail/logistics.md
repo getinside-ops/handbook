@@ -1,5 +1,13 @@
 ---
 title: Logistique & Insertion
+description: "Opérations logistiques de l'Insertion Colis : contrôle des supports à l'arrivée, confirmation de réception sur la plateforme, bonnes pratiques d'insertion (règle du « On-Top », gestion de la facture, exclusions) et conditions de stockage. À suivre pour garantir une bonne expérience d'ouverture."
+keywords:
+  - Insertion Colis
+  - Logistique
+  - Réception des supports
+  - Règle du On-Top
+  - Unboxing
+  - Stockage
 ---
 
 # Opérations Logistiques

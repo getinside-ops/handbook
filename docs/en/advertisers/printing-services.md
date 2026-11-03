@@ -1,5 +1,13 @@
 ---
 title: Printing & Logistics
+description: "getinside centralizes printing and logistics for your Parcel inserts: certified French production, paper specifications, delivery to network brands' warehouses and assembly by sheltered-employment companies (Entreprises Adaptées)."
+keywords:
+  - printing
+  - logistics
+  - parcel inserts
+  - Made in France
+  - adapted companies
+  - paper specifications
 ---
 
 # Printing and Logistics Services

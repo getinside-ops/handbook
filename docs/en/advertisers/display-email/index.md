@@ -1,5 +1,13 @@
 ---
 title: Display Email
+description: "The newsletter insert (Display Email) places a banner in a network brand's emails: newsletter, order confirmation or welcome email. You only provide an image and a link, with centralized click tracking."
+keywords:
+  - display email
+  - newsletter insert
+  - banner
+  - brand safety
+  - click tracking
+  - advertisers
 ---
 
 # Newsletter Insert (Display Email)
