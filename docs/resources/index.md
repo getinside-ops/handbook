@@ -1,8 +1,8 @@
 ---
-title: Ressources & Outils Retail Media - getinside
-description: Téléchargez nos guides, case studies, templates et ressources créatives pour optimiser vos campagnes retail media et maximiser vos revenus.
+title: Ressources & outils - getinside
+description: Téléchargez nos guides, cas clients, templates et ressources créatives pour optimiser vos campagnes de marketing par le colis et le courrier adressé.
 keywords:
-  - ressources retail media
+  - ressources marketing par le colis
   - case studies
   - guides marketing
   - templates

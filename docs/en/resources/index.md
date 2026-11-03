@@ -1,8 +1,8 @@
 ---
-title: Retail Media Resources & Tools - getinside
-description: Download our guides, case studies, templates, and creative resources to optimize your retail media campaigns and maximize your revenue.
+title: Resources & tools - getinside
+description: Download our guides, case studies, templates and creative resources to optimise your parcel and direct mail marketing campaigns.
 keywords:
-  - retail media resources
+  - parcel marketing resources
   - case studies
   - marketing guides
   - templates

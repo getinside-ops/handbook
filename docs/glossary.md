@@ -2,7 +2,7 @@
 title: Glossaire
 ---
 
-# Glossaire du Retail Media
+# Glossaire
 
 Définitions des termes techniques et acronymes de la plateforme.
 
@@ -20,6 +20,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <a href="#r">R</a>
   <a href="#t">T</a>
   <a href="#u">U</a>
+  <a href="#w">W</a>
   <a href="#z">Z</a>
 </div>
 <h2 id="a">A</h2>
@@ -46,6 +47,8 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Limite de volume imposée à une campagne (ex: limiter à 1 flyer par colis maximum).</dd>
   <dt>Co-branding</dt>
   <dd>Association de deux marques (l'Annonceur et le Distributeur) dans une même communication pour renforcer l'impact.</dd>
+  <dt>Courrier adressé</dt>
+  <dd>Support imprimé adressé nommément au client, dans sa boîte aux lettres.</dd>
   <dt>CPA (Coût Par Acquisition)</dt>
   <dd>Coût moyen dépensé pour générer une vente ou un lead.</dd>
   <dt>CPM (Coût Pour Mille)</dt>
@@ -62,8 +65,10 @@ Définitions des termes techniques et acronymes de la plateforme.
 <hr />
 <h2 id="e">E</h2>
 <dl>
-  <dt>Echantillonnage (Sampling)</dt>
-  <dd>Distribution gratuite d'un produit en format réduit pour le faire tester.</dd>
+  <dt>Échange d'audiences</dt>
+  <dd>Accord entre deux marques du réseau : chacune diffuse l'offre de l'autre dans ses colis, sans achat média, et garde ses clients.</dd>
+  <dt>Échantillonnage (Sampling)</dt>
+  <dd>Échantillon offert pour faire tester, sentir ou toucher un produit. Remis sur demande préalable du consommateur (loi AGEC).</dd>
   <dt>Endorsement</dt>
   <dd>Caution apportée par le Distributeur à l'Annonceur. Le fait que l'e-commerçant "parle" de la marque renforce la confiance.</dd>
 </dl>
@@ -104,8 +109,8 @@ Définitions des termes techniques et acronymes de la plateforme.
 <hr />
 <h2 id="r">R</h2>
 <dl>
-  <dt>Retail Media</dt>
-  <dd>Dispositifs publicitaires présents sur les parcours d'achat des e-commerçants (Colis, Web, Email).</dd>
+  <dt>Réseau de marques</dt>
+  <dd>Ensemble de marques de confiance qui délivrent les campagnes de partenaires à leurs clients, et dont chacune valide les marques et les offres diffusées auprès de ses clients.</dd>
   <dt>ROI</dt>
   <dd>Retour sur Investissement.</dd>
 </dl>
@@ -122,6 +127,12 @@ Définitions des termes techniques et acronymes de la plateforme.
 <dl>
   <dt>UTM</dt>
   <dd>Paramètres ajoutés à la fin d'une URL (ex: `?utm_source=getinside`) pour tracker la source du trafic.</dd>
+</dl>
+<hr />
+<h2 id="w">W</h2>
+<dl>
+  <dt>Wallet</dt>
+  <dd>Portefeuille d'une marque du réseau, crédité par les campagnes qu'elle délivre. Les revenus financent ses propres campagnes ou peuvent être retirés.</dd>
 </dl>
 <hr />
 <h2 id="z">Z</h2>

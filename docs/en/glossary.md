@@ -2,7 +2,7 @@
 title: Glossary
 ---
 
-# Retail Media Glossary
+# Glossary
 
 Definitions of technical terms and acronyms of the platform.
 
@@ -14,12 +14,14 @@ Definitions of technical terms and acronyms of the platform.
   <a href="#e">E</a>
   <a href="#f">F</a>
   <a href="#l">L</a>
+  <a href="#n">N</a>
   <a href="#o">O</a>
   <a href="#p">P</a>
   <a href="#q">Q</a>
   <a href="#r">R</a>
   <a href="#t">T</a>
   <a href="#u">U</a>
+  <a href="#w">W</a>
   <a href="#z">Z</a>
 </div>
 <h2 id="a">A</h2>
@@ -28,6 +30,8 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Brand that buys advertising space to promote its products or services.</dd>
   <dt>Sponsored Mail (Insertion Colis)</dt>
   <dd>Marketing technique consisting of inserting an advertising offer (flyer, card, sample) inside the shipping parcel of a partner e-retailer.</dd>
+  <dt>Audience exchange</dt>
+  <dd>Agreement between two network brands: each carries the other's offer in its parcels, with no media spend, and keeps its own customers.</dd>
   <dt>Lookalike Audience</dt>
   <dd>Advertising targeting aimed at profiles with similar characteristics (purchasing behavior, demographics) to an existing customer base.</dd>
 </dl>
@@ -54,6 +58,8 @@ Definitions of technical terms and acronyms of the platform.
 <hr />
 <h2 id="d">D</h2>
 <dl>
+  <dt>Direct mail</dt>
+  <dd>A printed piece addressed to the customer by name, delivered to their mailbox.</dd>
   <dt>Publisher / Retailer (Distributeur)</dt>
   <dd>E-retailer or Media that monetizes its audience by broadcasting the advertisements of third-party advertisers.</dd>
   <dt>DNVB</dt>
@@ -63,7 +69,7 @@ Definitions of technical terms and acronyms of the platform.
 <h2 id="e">E</h2>
 <dl>
   <dt>Sampling (Echantillonnage)</dt>
-  <dd>Free distribution of a product in a reduced format to have it tested.</dd>
+  <dd>A free sample so people can try, smell or touch a product. Provided only at the consumer's prior request (AGEC law).</dd>
   <dt>Endorsement</dt>
   <dd>Guarantee brought by the Retailer to the Advertiser. The fact that the e-retailer "talks" about the brand strengthens trust.</dd>
 </dl>
@@ -82,6 +88,12 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Specific web page to which the user is redirected after clicking on an offer.</dd>
   <dt>Lead Time</dt>
   <dd>Incompressible structural logistics delay between the receipt of the flyers and their actual insertion into the first parcels.</dd>
+</dl>
+<hr />
+<h2 id="n">N</h2>
+<dl>
+  <dt>Network of brands</dt>
+  <dd>A group of trusted brands that deliver partners' campaigns to their customers, each validating the brands and offers shown to its own customers.</dd>
 </dl>
 <hr />
 <h2 id="o">O</h2>
@@ -104,8 +116,6 @@ Definitions of technical terms and acronyms of the platform.
 <hr />
 <h2 id="r">R</h2>
 <dl>
-  <dt>Retail Media</dt>
-  <dd>Advertising devices present on the purchasing paths of e-retailers (Parcels, Web, Email).</dd>
   <dt>ROI</dt>
   <dd>Return on Investment.</dd>
 </dl>
@@ -122,6 +132,12 @@ Definitions of technical terms and acronyms of the platform.
 <dl>
   <dt>UTM</dt>
   <dd>Parameters added at the end of a URL (e.g. `?utm_source=getinside`) to track the source of the traffic.</dd>
+</dl>
+<hr />
+<h2 id="w">W</h2>
+<dl>
+  <dt>Wallet</dt>
+  <dd>A network brand's wallet, credited by the campaigns it delivers. Revenue funds its own campaigns or can be withdrawn.</dd>
 </dl>
 <hr />
 <h2 id="z">Z</h2>
