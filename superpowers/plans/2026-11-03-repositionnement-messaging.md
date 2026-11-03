@@ -1343,7 +1343,7 @@ Les cas existants (Avène, Nocibé, HelloFresh…) restent. On ajoute en tête u
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Courrier adressé · Réactivation</strong>
-    <p>Réactivation d'anciens clients avec une offre dédiée : 6,12 % de taux de conversion.</p>
+    <p>Réactivation d'anciens clients avec une offre dédiée : 6 % de taux de conversion.</p>
   </div>
 </div>
 
@@ -1368,7 +1368,6 @@ Les cas existants (Avène, Nocibé, HelloFresh…) restent. On ajoute en tête u
 
 ```
 
-Vérifier au préalable que « 6,12 % » est bien le chiffre du deck pour le courrier adressé : la source indique « 6, 12% taux de conversion ». Si le doute persiste, écrire « 6 % » (TOP CVR du guide) et le signaler dans la description de PR.
 
 - [ ] **Step 2: EN — même section dans `docs/en/resources/case-studies.md`, avant la section des exemples live**
 
@@ -1427,7 +1426,7 @@ Lire d'abord `grep -n "^## " docs/en/resources/case-studies.md` pour repérer le
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Direct mail · Reactivation</strong>
-    <p>Reactivation of former customers with a dedicated offer: 6.12% conversion rate.</p>
+    <p>Reactivation of former customers with a dedicated offer: 6% conversion rate.</p>
   </div>
 </div>
 
@@ -1570,7 +1569,7 @@ Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courrier
 </div>
 
 ::: tip Résultat constaté
-**Top CVR : 6 %** pour Fidéliser. Une campagne de réactivation par courrier adressé a atteint 6,12 % de taux de conversion.
+**Top CVR : 6 %** pour Fidéliser.
 :::
 
 ## Pourquoi ça marche
@@ -1624,7 +1623,7 @@ Your customers no longer open your emails, but they still open their mail and th
 </div>
 
 ::: tip Observed result
-**Best CVR: 6%** for Retain. A reactivation campaign by direct mail reached a 6.12% conversion rate.
+**Best CVR: 6%** for Retain.
 :::
 
 ## Why it works
@@ -2110,5 +2109,4 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
 | `score-distributor` non modifié (hors tarifs) | Task 11 seulement |
 
 Points à arbitrer par la personne qui relit :
-- Le libellé « Marques du réseau » remplace « Retailers » dans la nav et la sidebar (le guide parle de « marques du réseau »).
-- Le chiffre « 6,12 % » du courrier adressé vient d'un deck dont la ligne est ambiguë (« 6, 12% ») ; la Task 6 prévoit de retomber sur « 6 % » si besoin.
+- Arbitrages confirmés : « Marques du réseau » remplace « Retailers » ; le courrier adressé affiche 6 % (TOP CVR).
