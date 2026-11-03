@@ -1,18 +1,21 @@
 ---
 title: getinside Handbook
 layout: home
-description: SaaS retail media platform to monetize your audiences (parcels, emails, social networks) or acquire customers with high performance.
+description: Parcel and direct mail marketing solution for the agentic era. Recruit, retain and monetise your customers with getinside.
 keywords:
-  - retail media
-  - audience monetization
-  - digital acquisition
-  - e-commerce platform
+  - parcel marketing
+  - direct mail
+  - parcel inserts
+  - sampling
+  - customer acquisition
+  - customer retention
+  - monetisation
   - getinside
 
 hero:
   name: "getinside"
-  text: "Retail Media made accessible."
-  tagline: "Revenue for e-retailers. Exclusive audiences for advertisers."
+  text: "Marketing that touches."
+  tagline: "Recruit, retain and monetise your customers with parcels and direct mail."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -22,20 +25,20 @@ hero:
       link: /en/start-here/
 
 features:
-  - icon: 📦
-    title: Retailers — Your parcels and emails generate margin
-    details: Turn your shipping costs into recurring revenue. +2% to +20% additional turnover, 65-70% net margin, zero heavy technical integration.
-    link: /en/publishers/
   - icon: 🎯
-    title: Advertisers — Reach your customers where they buy
-    details: Benefit from the endorsement of recognized e-retailers to enhance your brand. Deploy your campaigns across multiple touchpoints.
+    title: Recruit
+    details: Reach your future customers through the brands they already buy from, by delivering your campaigns to affinity audiences. With a media budget, or through an exchange. Best CAC&#58; €1.21.
     link: /en/advertisers/
-  - icon: 🤝
-    title: One network. One contract. Everything secure.
-    details: 250+ e-retailers, 300+ active advertisers, 950+ successful campaigns. Single billing, guaranteed payments before broadcast, GDPR compliance included.
-    link: /en/publishers/payouts
+  - icon: 💌
+    title: Retain
+    details: Reach the customers who no longer open your emails through direct mail, and turn every parcel you ship into an immediate repurchase lever. Best observed CVR&#58; 6%.
+    link: /en/advertisers/direct-mail/
+  - icon: 📦
+    title: Monetise
+    details: Deliver partner campaigns that enrich your customers' shopping experience, and generate revenue to fund your acquisition. Top revenue&#58; €215K+ per year.
+    link: /en/publishers/
   - icon: 🛠️
-    title: Creative studio, integrated tracking and logistics
-    details: Visuals, certified Made in France printing (Imprim'Vert), routing, dynamic QR codes. You approve — we produce and broadcast.
-    link: /en/resources/studio
+    title: An all-in-one solution, powered by AI
+    details: AI and data targeting, lookalike modelling, full automation. 500+ brands are already growing with getinside, from DNVBs to the largest retailers.
+    link: /en/start-here/why-it-works
 ---

@@ -1,18 +1,21 @@
 ---
 title: getinside Handbook
 layout: home
-description: Plateforme SaaS de retail media pour monétiser vos audiences (colis, emails, réseaux sociaux) ou acquérir vos clients de manière ultra-performante.
+description: Solution marketing par le colis et le courrier adressé à l'ère agentique. Recrutez, fidélisez et monétisez vos clients avec getinside.
 keywords:
-  - retail media
-  - monétisation audience
-  - acquisition digitale
-  - plateforme e-commerce
+  - marketing par le colis
+  - courrier adressé
+  - insertion colis
+  - échantillonnage
+  - acquisition client
+  - fidélisation client
+  - monétisation
   - getinside
 
 hero:
   name: "getinside"
-  text: "Le Retail Media accessible."
-  tagline: "Revenus pour e-commerçants. Audiences exclusives pour annonceurs."
+  text: "Le marketing qui touche."
+  tagline: "Recrutez, fidélisez et monétisez vos clients avec le colis et le courrier adressé."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -22,20 +25,20 @@ hero:
       link: /start-here/
 
 features:
-  - icon: 📦
-    title: Retailers — Vos colis et emails génèrent de la marge
-    details: Transformez vos coûts d'expédition en revenus récurrents. +2% à +20% de chiffre d'affaires additionnel, marge nette 65-70%, zéro intégration technique lourde.
-    link: /publishers/
   - icon: 🎯
-    title: Annonceurs — Touchez vos clients là où ils achètent
-    details: Bénéficiez de la caution d'e-commerçants reconnus pour valoriser votre marque. Déployez vos campagnes sur une multitude de points de contact.
+    title: Recruter
+    details: Touchez vos futurs clients à travers les marques qu'ils consomment déjà, en délivrant vos campagnes auprès d'audiences affinitaires. Avec un budget média, ou en échange. Top CAC : 1,21 €.
     link: /advertisers/
-  - icon: 🤝
-    title: Un réseau. Un contrat. Tout sécurisé.
-    details: 250+ e-commerçants, 300+ annonceurs actifs, 950+ campagnes réussies. Facturation unique, paiements garantis avant diffusion, conformité RGPD incluse.
-    link: /publishers/payouts
+  - icon: 💌
+    title: Fidéliser
+    details: Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails, et transformez chaque colis que vous livrez en levier de rachat immédiat. Top CVR constaté : 6 %.
+    link: /advertisers/direct-mail/
+  - icon: 📦
+    title: Monétiser
+    details: Délivrez des campagnes de partenaires qui enrichissent l'expérience d'achat de vos clients, et générez des revenus pour financer votre acquisition. Top revenus : +215 K€ par an.
+    link: /publishers/
   - icon: 🛠️
-    title: Studio créatif, tracking et logistique intégrés
-    details: Visuels, impression Made in France certifiée Imprim'Vert, routage, QR codes dynamiques. Vous validez — on produit et on diffuse.
-    link: /resources/studio
+    title: Une solution tout-en-un, pilotée par l'IA
+    details: Ciblage IA et data, modélisation d'audiences similaires, automation complète. +500 marques se développent déjà avec getinside, de la DNVB à la plus grande enseigne.
+    link: /start-here/why-it-works
 ---
