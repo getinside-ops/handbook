@@ -91,9 +91,9 @@ Your customers no longer open your emails, but they still open their mail and th
 
 ## Quality as a growth engine
 
-::: warning ⭐ The Retailer Score: your access key
+::: warning ⭐ The Network Brand Score: your access key
 
-Each network brand receives a **Retailer Score** (1-5 stars) based on **7 key criteria**: on-time delivery, tracking quality, error rate, GDPR compliance, complaint rate, API integration and responsiveness.
+Each network brand receives a **Network Brand Score** (1-5 stars) based on **7 key criteria**: on-time delivery, tracking quality, error rate, GDPR compliance, complaint rate, API integration and responsiveness.
 
 This score determines your **visibility in the platform's search engine** and your priority access to premium campaigns.
 

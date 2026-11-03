@@ -1,5 +1,13 @@
 ---
 title: Glossary
+description: "Definitions of getinside terms and acronyms: network of brands, audience exchange, Wallet, sponsored mail, direct mail, print proof, CPA and CPM."
+keywords:
+  - getinside glossary
+  - network brand
+  - audience exchange
+  - sponsored mail
+  - direct mail
+  - Wallet
 ---
 
 # Glossary
@@ -16,30 +24,27 @@ Definitions of technical terms and acronyms of the platform.
   <a href="#l">L</a>
   <a href="#n">N</a>
   <a href="#o">O</a>
-  <a href="#p">P</a>
   <a href="#q">Q</a>
   <a href="#r">R</a>
+  <a href="#s">S</a>
   <a href="#t">T</a>
   <a href="#u">U</a>
   <a href="#w">W</a>
-  <a href="#z">Z</a>
 </div>
 <h2 id="a">A</h2>
 <dl>
   <dt>Advertiser (Annonceur)</dt>
   <dd>Brand that buys advertising space to promote its products or services.</dd>
-  <dt>Sponsored Mail (Insertion Colis)</dt>
-  <dd>Marketing technique consisting of inserting an advertising offer (flyer, card, sample) inside the shipping parcel of a partner e-retailer.</dd>
   <dt>Audience exchange</dt>
   <dd>Agreement between two network brands: each carries the other's offer in its parcels, with no media spend, and keeps its own customers.</dd>
-  <dt>Lookalike Audience</dt>
-  <dd>Advertising targeting aimed at profiles with similar characteristics (purchasing behavior, demographics) to an existing customer base.</dd>
 </dl>
 <hr />
 <h2 id="b">B</h2>
 <dl>
   <dt>BAT (Bon à Tirer) / Print Proof</dt>
   <dd>Final validation of the mockup (digital) before launching production. Once validated, no modification is possible.</dd>
+  <dt>Bleed (Fond Perdu)</dt>
+  <dd>Printed area exceeding the final format (2-3 mm) to avoid white borders when cutting.</dd>
   <dt>Brief</dt>
   <dd>Document filled out by the Advertiser detailing their objectives and providing the graphic elements necessary for the campaign.</dd>
 </dl>
@@ -49,7 +54,7 @@ Definitions of technical terms and acronyms of the platform.
   <dt>Capping</dt>
   <dd>Volume limit imposed on a campaign (e.g. limit to 1 flyer per parcel maximum).</dd>
   <dt>Co-branding</dt>
-  <dd>Association of two brands (the Advertiser and the Retailer) in the same communication to strengthen the impact.</dd>
+  <dd>Association of two brands (the Advertiser and the network brand) in the same communication to strengthen the impact.</dd>
   <dt>CPA (Cost Per Acquisition)</dt>
   <dd>Average cost spent to generate a sale or a lead.</dd>
   <dt>CPM (Cost Per Mille)</dt>
@@ -60,26 +65,22 @@ Definitions of technical terms and acronyms of the platform.
 <dl>
   <dt>Direct mail</dt>
   <dd>A printed piece addressed to the customer by name, delivered to their mailbox.</dd>
-  <dt>Publisher / Retailer (Distributeur)</dt>
-  <dd>E-retailer or Media that monetizes its audience by broadcasting the advertisements of third-party advertisers.</dd>
   <dt>DNVB</dt>
   <dd>Digital Native Vertical Brand. Brand born on the internet selling directly.</dd>
+  <dt>Dynamic QR Code</dt>
+  <dd>2D code whose destination URL can be modified remotely after printing.</dd>
 </dl>
 <hr />
 <h2 id="e">E</h2>
 <dl>
-  <dt>Sampling (Echantillonnage)</dt>
-  <dd>A free sample so people can try, smell or touch a product. Provided only at the consumer's prior request (AGEC law).</dd>
   <dt>Endorsement</dt>
-  <dd>Guarantee brought by the Retailer to the Advertiser. The fact that the e-retailer "talks" about the brand strengthens trust.</dd>
+  <dd>Guarantee brought by the network brand to the Advertiser. The fact that it "talks" about the brand strengthens trust.</dd>
 </dl>
 <hr />
 <h2 id="f">F</h2>
 <dl>
   <dt>FOGRA39</dt>
   <dd>Standard colorimetric profile for offset printing in Europe.</dd>
-  <dt>Bleed (Fond Perdu)</dt>
-  <dd>Printed area exceeding the final format (2-3 mm) to avoid white borders when cutting.</dd>
 </dl>
 <hr />
 <h2 id="l">L</h2>
@@ -88,30 +89,30 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Specific web page to which the user is redirected after clicking on an offer.</dd>
   <dt>Lead Time</dt>
   <dd>Incompressible structural logistics delay between the receipt of the flyers and their actual insertion into the first parcels.</dd>
+  <dt>Lookalike Audience</dt>
+  <dd>Advertising targeting aimed at profiles with similar characteristics (purchasing behavior, demographics) to an existing customer base.</dd>
 </dl>
 <hr />
 <h2 id="n">N</h2>
 <dl>
+  <dt>Network brand (Publisher)</dt>
+  <dd>Brand or media in the network that monetizes its audience by delivering the campaigns of third-party advertisers.</dd>
   <dt>Network of brands</dt>
   <dd>A group of trusted brands that deliver partners' campaigns to their customers, each validating the brands and offers shown to its own customers.</dd>
 </dl>
 <hr />
 <h2 id="o">O</h2>
 <dl>
+  <dt>Open Rate</dt>
+  <dd>Percentage of recipients who have opened the email.</dd>
   <dt>Opt-in</dt>
   <dd>Explicit consent of the user to receive commercial communications.</dd>
 </dl>
 <hr />
-<h2 id="p">P</h2>
-<dl>
-  <dt>Tracking Pixel</dt>
-  <dd>Small piece of code (1x1 image) inserted in an email to count opens.</dd>
-</dl>
-<hr />
 <h2 id="q">Q</h2>
 <dl>
-  <dt>Dynamic QR Code</dt>
-  <dd>2D code whose destination URL can be modified remotely after printing.</dd>
+  <dt>Quiet Zone (Zone Tranquille)</dt>
+  <dd>Internal safety margin where no important text should be placed.</dd>
 </dl>
 <hr />
 <h2 id="r">R</h2>
@@ -120,10 +121,18 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Return on Investment.</dd>
 </dl>
 <hr />
+<h2 id="s">S</h2>
+<dl>
+  <dt>Sampling (Echantillonnage)</dt>
+  <dd>A free sample so people can try, smell or touch a product. Provided only at the consumer's prior request (AGEC law).</dd>
+  <dt>Sponsored Mail (Insertion Colis)</dt>
+  <dd>Marketing technique consisting of inserting an advertising offer (flyer, card, sample) inside the shipping parcel of a partner network brand.</dd>
+</dl>
+<hr />
 <h2 id="t">T</h2>
 <dl>
-  <dt>Open Rate</dt>
-  <dd>Percentage of recipients who have opened the email.</dd>
+  <dt>Tracking Pixel</dt>
+  <dd>Small piece of code (1x1 image) inserted in an email to count opens.</dd>
   <dt>Triman</dt>
   <dd>Mandatory logo in France indicating how to sort waste.</dd>
 </dl>
@@ -138,10 +147,4 @@ Definitions of technical terms and acronyms of the platform.
 <dl>
   <dt>Wallet</dt>
   <dd>A network brand's wallet, credited by the campaigns it delivers. Revenue funds its own campaigns or can be withdrawn.</dd>
-</dl>
-<hr />
-<h2 id="z">Z</h2>
-<dl>
-  <dt>Quiet Zone (Zone Tranquille)</dt>
-  <dd>Internal safety margin where no important text should be placed.</dd>
 </dl>

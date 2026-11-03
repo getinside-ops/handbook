@@ -35,7 +35,7 @@ image: /images/gi-keyvisual.svg
     <span class="gi-nav-card-icon">🎯</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Audience & Score</p>
-      <p class="gi-nav-card-desc">How to fill in your profile to be visible and optimise your Retailer Score.</p>
+      <p class="gi-nav-card-desc">How to fill in your profile to be visible and optimise your Network Brand Score.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
@@ -67,6 +67,14 @@ image: /images/gi-keyvisual.svg
   <div class="gi-value-card">
     <strong>Host your partners</strong>
     <p>Bring in your historical advertisers and run everything from a single solution.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Prospect advertisers</strong>
+    <p>Send them your own proposals.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Track your performance</strong>
+    <p>Anticipate your campaigns' performance and measure their impact in real time (Reach, CPA, CPC).</p>
   </div>
 </div>
 

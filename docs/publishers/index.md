@@ -68,6 +68,14 @@ image: /images/gi-keyvisual.svg
     <strong>Héberger vos partenaires</strong>
     <p>Intégrez vos annonceurs historiques et opérez tout depuis une seule solution.</p>
   </div>
+  <div class="gi-value-card">
+    <strong>Prospecter les annonceurs</strong>
+    <p>Adressez-leur vos propres propositions.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Suivre vos performances</strong>
+    <p>Anticipez les performances de vos campagnes et mesurez en temps réel leur impact (Reach, CPA, CPC).</p>
+  </div>
 </div>
 
 ## Canal & opérations

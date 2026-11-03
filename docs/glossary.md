@@ -1,5 +1,13 @@
 ---
 title: Glossaire
+description: "Définitions des termes et acronymes de getinside : réseau de marques, échange d'audiences, Wallet, insertion colis, courrier adressé, BAT, CPA et CPM."
+keywords:
+  - glossaire getinside
+  - marque du réseau
+  - échange d'audiences
+  - insertion colis
+  - courrier adressé
+  - Wallet
 ---
 
 # Glossaire
@@ -14,6 +22,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <a href="#e">E</a>
   <a href="#f">F</a>
   <a href="#l">L</a>
+  <a href="#m">M</a>
   <a href="#o">O</a>
   <a href="#p">P</a>
   <a href="#q">Q</a>
@@ -28,7 +37,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Annonceur (Advertiser)</dt>
   <dd>Marque qui achète de l'espace publicitaire pour promouvoir ses produits ou services.</dd>
   <dt>Insertion Colis (Sponsored Mail)</dt>
-  <dd>Technique marketing consistant à insérer une offre publicitaire (flyer, carte, échantillon) à l'intérieur du colis d'expédition d'un e-commerçant partenaire.</dd>
+  <dd>Technique marketing consistant à insérer une offre publicitaire (flyer, carte, échantillon) à l'intérieur du colis d'expédition d'une marque du réseau partenaire.</dd>
   <dt>Audience Lookalike</dt>
   <dd>Ciblage publicitaire visant des profils ayant des caractéristiques similaires (comportement d'achat, démographie) à une base de clients existante.</dd>
 </dl>
@@ -46,7 +55,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Capping</dt>
   <dd>Limite de volume imposée à une campagne (ex: limiter à 1 flyer par colis maximum).</dd>
   <dt>Co-branding</dt>
-  <dd>Association de deux marques (l'Annonceur et le Distributeur) dans une même communication pour renforcer l'impact.</dd>
+  <dd>Association de deux marques (l'Annonceur et la marque du réseau) dans une même communication pour renforcer l'impact.</dd>
   <dt>Courrier adressé</dt>
   <dd>Support imprimé adressé nommément au client, dans sa boîte aux lettres.</dd>
   <dt>CPA (Coût Par Acquisition)</dt>
@@ -57,8 +66,6 @@ Définitions des termes techniques et acronymes de la plateforme.
 <hr />
 <h2 id="d">D</h2>
 <dl>
-  <dt>Distributeur (Publisher/Retailer)</dt>
-  <dd>E-commerçant ou Média qui monétise son audience en diffusant les publicités d'annonceurs tiers.</dd>
   <dt>DNVB</dt>
   <dd>Digital Native Vertical Brand. Marque née sur internet vendant en direct.</dd>
 </dl>
@@ -70,7 +77,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Échantillonnage (Sampling)</dt>
   <dd>Échantillon offert pour faire tester, sentir ou toucher un produit. Remis sur demande préalable du consommateur (loi AGEC).</dd>
   <dt>Endorsement</dt>
-  <dd>Caution apportée par le Distributeur à l'Annonceur. Le fait que l'e-commerçant "parle" de la marque renforce la confiance.</dd>
+  <dd>Caution apportée par la marque du réseau à l'Annonceur. Le fait qu'elle « parle » de la marque renforce la confiance.</dd>
 </dl>
 <hr />
 <h2 id="f">F</h2>
@@ -87,6 +94,12 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Page web spécifique vers laquelle l'utilisateur est redirigé après avoir cliqué sur une offre.</dd>
   <dt>Lead Time (Délai d'ingestion)</dt>
   <dd>Délai logistique incompressible entre la réception des flyers et leur insertion effective dans les premiers colis.</dd>
+</dl>
+<hr />
+<h2 id="m">M</h2>
+<dl>
+  <dt>Marque du réseau (Distributeur)</dt>
+  <dd>Marque ou média du réseau qui monétise son audience en diffusant les campagnes d'annonceurs tiers.</dd>
 </dl>
 <hr />
 <h2 id="o">O</h2>

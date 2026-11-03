@@ -14,7 +14,7 @@ if ! diff_out=$(comm -3 <(echo "$fr") <(echo "$en")) || [ -n "$diff_out" ]; then
   fail=1
 fi
 
-BANNED='250\+|300\+ annonceurs|300\+ active advertisers|950\+|[Rr]etail [Mm]edia|asile colis|e-commerçants|e-retailers'
+BANNED='250\+|300\+ annonceurs|300\+ active advertisers|950\+|[Rr]etail [Mm]edia|asile colis|e-commerçants?|[Ee]-retailers?'
 for f in "$@"; do
   if grep -nE "$BANNED" "$f"; then
     echo "TERME BANNI dans $f"

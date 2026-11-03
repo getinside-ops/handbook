@@ -1,8 +1,16 @@
 ---
-title: Inspirations & Case Studies
+title: Inspirations & cas clients
+description: Découvrez comment d'autres marques utilisent getinside pour recruter, fidéliser et monétiser leurs clients, avec des cas clients chiffrés.
+keywords:
+  - cas clients getinside
+  - inspirations
+  - marketing par le colis
+  - courrier adressé
+  - acquisition client
+  - fidélisation client
 ---
 
-# Inspirations & Case Studies
+# Inspirations & cas clients
 
 Découvrez comment d'autres marques et distributeurs utilisent getinside pour atteindre leurs objectifs d'acquisition et de monétisation.
 

@@ -1,5 +1,13 @@
 ---
 title: Inspirations & Case Studies
+description: Discover how other brands use getinside to recruit, retain and monetise their customers, with figures from real case studies.
+keywords:
+  - getinside case studies
+  - inspirations
+  - parcel marketing
+  - direct mail
+  - customer acquisition
+  - customer retention
 ---
 
 # Inspirations & Case Studies
