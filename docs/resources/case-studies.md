@@ -1,18 +1,95 @@
 ---
-title: Inspirations & Case Studies
-description: Exemples de campagnes getinside avec résultats mesurés — insertion colis, Dedicated Email et Insertion Colis pour des marques comme Nocibé, HelloFresh, Avène et Total Wash.
+title: Inspirations & cas clients
+description: Découvrez comment d'autres marques utilisent getinside pour recruter, fidéliser et monétiser leurs clients, avec des cas clients chiffrés.
 keywords:
-  - case study retail media
-  - exemples campagnes insertion colis
-  - résultats campagne sponsored mail
-  - success stories getinside
+  - cas clients getinside
+  - inspirations
+  - marketing par le colis
+  - courrier adressé
+  - acquisition client
+  - fidélisation client
 ---
 
-# Inspirations & Case Studies
+# Inspirations & cas clients
 
-Exemples de campagnes menées sur le réseau getinside avec leurs résultats mesurés.
+Découvrez comment d'autres marques utilisent getinside pour atteindre leurs objectifs d'acquisition et de monétisation.
 
 <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer ma campagne</a>
+
+---
+
+## 🎯 Résultats par usage
+
+### Recruter
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Colis · Auto-Moto, Famille Enfant Bébé</strong>
+    <p>12 % de taux de conversion · 1 053 nouveaux clients · CAC 3,5 €.</p>
+    <p><em>« L'activation d'audiences est un excellent levier pour atteindre des segments jusqu'ici inexploités. »</em> Marina Lépine, Responsable marketing</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Colis · Cadeaux et événements</strong>
+    <p>3,12 % de taux de conversion · 5 766 nouveaux clients · CAC 4,5 €, en ligne et en magasin.</p>
+    <p><em>« Une campagne omnicanale qui a su réconcilier le on et le off line. »</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Colis · Alimentation et boissons</strong>
+    <p>Notoriété et recrutement : 27 000 personnes touchées.</p>
+    <p><em>« Une campagne intelligente. »</em> Marie Rassat, Senior Marketing & Communication Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Colis · Alimentation</strong>
+    <p>2,5 % de taux de conversion · 768 nouveaux clients · CAC 10 €.</p>
+    <p><em>« Une campagne à fort impact qui fait connaître la marque auprès d'une cible présentant de fortes affinités avec l'audience de Japhy. »</em> Lucie Prevot, Influence Partnership Manager</p>
+  </div>
+</div>
+
+### Échantillonner
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Échantillon · Beauté, Santé & Bien-être</strong>
+    <p>30 000 échantillons distribués · 65 000 contacts touchés.</p>
+    <p><em>« Une campagne clé en main pour notre activation produit. »</em> Sophie Bouyssie, E-commerce Activation Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Échantillon · Alimentation</strong>
+    <p>30 000 échantillons et flyers distribués · 80 000 contacts touchés.</p>
+    <p><em>« Une vraie expérience de découverte produit dans un moment clé du parcours client et qui permet l'incitation à l'achat via une offre promotionnelle. »</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Échantillon · Sport et activités extérieures</strong>
+    <p>13 000 échantillons et flyers distribués · 50 000 contacts touchés, lors d'un événement affinitaire.</p>
+    <p><em>« Une prise de parole au plus près de notre cible, au cœur d'un événement fédérateur. »</em> Charlotte Desrumaux, Marketing manager</p>
+  </div>
+</div>
+
+### Fidéliser
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Courrier adressé · Réactivation</strong>
+    <p>Réactivation d'anciens clients avec une offre dédiée : 6 % de taux de conversion.</p>
+  </div>
+</div>
+
+### Monétiser
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Budget média autofinancé</strong>
+    <p>90 % des revenus réinvestis dans les campagnes d'acquisition · +60 K€ de revenus générés en moins d'un an.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Nouvelle source de revenus récurrente</strong>
+    <p>+200 K€ de revenus générés en un an · +30 campagnes diffusées par an.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Valeur maximisée par campagne</strong>
+    <p>+375 % d'augmentation du panier moyen par campagne · +50 K€ de revenus générés depuis l'intégration.</p>
+  </div>
+</div>
 
 ---
 
@@ -35,7 +112,7 @@ Sélection des meilleures campagnes insertion colis par nos équipes.
 
 ## Bundles & Media Kits
 
-Découvrez une sélection de Bundles proposés par nos retailers.
+Découvrez une sélection de bundles proposés par des marques qui diffusent des campagnes chez leurs clients.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -50,7 +127,7 @@ Découvrez une sélection de Bundles proposés par nos retailers.
 
 ---
 
-## Dedicated Email : exemples live
+## 📧 Emailing dédié : exemples live
 
 Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
 
@@ -59,37 +136,36 @@ Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
     <span class="gi-format-card-icon">💛</span>
     <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
     <span class="gi-format-card-desc">Campagne caritative diffusée par Mieux que des Fleurs pour Les Pièces Jaunes.</span>
-    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
+    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐾</span>
     <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
     <span class="gi-format-card-desc">Campagne petfood premium diffusée par La Redoute.</span>
-    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
+    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐱</span>
     <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
     <span class="gi-format-card-desc">Campagne mode enfant diffusée par Caats auprès d'une audience Parents / Famille.</span>
-    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
+    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🥦</span>
     <span class="gi-format-card-title">Yooji x HelloFresh</span>
     <span class="gi-format-card-desc">Campagne alimentation bébé diffusée par HelloFresh auprès d'une cible Jeunes Parents.</span>
-    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">Voir le rendu</a>
+    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
 </div>
-
 ---
 
-## Insertion Colis & succès clients
+## 📦 Insertion colis & succès clients
 
 Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-avene.webp')" alt="Campagne Avène" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-avene.webp" alt="Campagne Avène" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -110,7 +186,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-nocibe.webp')" alt="Campagne Nocibé" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-nocibe.webp" alt="Campagne Nocibé" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -131,14 +207,14 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-hellofresh.webp')" alt="Campagne Hello Fresh" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-hellofresh.webp" alt="Campagne Hello Fresh" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>HELLOFRESH</h2>
       <Badge type="warning" text="Acquisition" />
     </div>
-    <p>Recruter de nouveaux clients à l'échelle.</p>
+    <p>Recruter de nouveaux clients à l'échelle (Scale).</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Fréquence</strong><span>25 campagnes / mois</span></div>
@@ -152,7 +228,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-bam.webp')" alt="Campagne Bam Karaoke" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-bam.webp" alt="Campagne Bam Karaoke" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -173,7 +249,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-upd.webp')" alt="Campagne Ultra Premium Direct" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-upd.webp" alt="Campagne Ultra Premium Direct" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -194,7 +270,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-wash.webp')" alt="Campagne Total Wash" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-wash.webp" alt="Campagne Total Wash" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -215,14 +291,14 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-nespresso.webp')" alt="Campagne Nespresso" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-nespresso.webp" alt="Campagne Nespresso" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>NESPRESSO</h2>
       <Badge type="info" text="Trade Marketing" />
     </div>
-    <p>Développer la collaboration avec les distributeurs (Boulanger).</p>
+    <p>Développer la collaboration avec les enseignes partenaires (Boulanger).</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Partenaire</strong><span>Boulanger</span></div>
@@ -236,7 +312,7 @@ Cliquez sur les images pour zoomer.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-japhy.webp')" alt="Campagne Japhy" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/handbook/images/case-studies/case-japhy.webp" alt="Campagne Japhy" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -255,30 +331,6 @@ Cliquez sur les images pour zoomer.
   </div>
 </div>
 
----
-
-## Chiffres clés du réseau
-
-| Indicateur | Résultat |
-|---|---|
-| CTR moyen réseau | 2,87% |
-| CTR record | 12% (Total Wash, Drive to App, ciblage Auto-Moto) |
-| ROI record | 16:1 (Nocibé, campagne omnicanale Drive-to-Store) |
-| ROAS record | 824% (Blacksheep, Insertion Colis) |
-
----
-
-## Témoignages
-
-> "Nous diversifions notre acquisition client avec l'ajout de ce levier qui ne souffre pas d'une concurrence exacerbée."
-> **Japhy**
-
-> "Levier pertinent avec la possibilité de cibler l'audience de HelloFresh (alimentation, livraison domicile)."
-> **Pepette**
-
-> "Taux de scan de 2,67% et un ROAS de 824%."
-> **Blacksheep**
-
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>
   <img id="lightbox-img">
@@ -286,7 +338,6 @@ Cliquez sur les images pour zoomer.
 
 <script setup>
 import { onMounted } from 'vue'
-import { withBase } from 'vitepress'
 onMounted(() => {
   window.openLightbox = function(src) {
     var lightbox = document.getElementById('lightbox')

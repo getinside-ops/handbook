@@ -1,17 +1,21 @@
 ---
-title: getinside Handbook — Retail Media Guide
+title: getinside Handbook
 layout: home
-description: Operational guide for the getinside platform. Retailers, monetise your parcels and emails. Advertisers, run your campaigns across 250+ e-merchants.
+description: "Parcel and direct mail marketing solution for the agentic era. Recruit, retain and monetise your customers with getinside."
 keywords:
-  - retail media
-  - parcel monetisation
-  - e-commerce customer acquisition
-  - getinside platform
-  - sponsored mail
+  - parcel marketing
+  - direct mail
+  - parcel inserts
+  - sampling
+  - customer acquisition
+  - customer retention
+  - monetisation
+  - getinside
 
 hero:
-  text: "Retail media, without the complexity."
-  tagline: "Advertisers, reach proven buyers at the moment of purchase. Retailers, monetise your parcels and emails starting this week."
+  name: "getinside"
+  text: "Marketing that touches."
+  tagline: "Recruit, retain and monetise your customers with parcels and direct mail."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -20,24 +24,24 @@ hero:
       text: Where to start?
       link: /en/start-here/
     - theme: alt
-      text: Sponsored Mail Design Guide
-      link: /en/advertisers/sponsored-mail/design-guide/
+      text: Parcel Insert Design Guide
+      link: /en/recruit/sponsored-mail/design-guide/
 
 features:
   - icon: 🎯
-    title: "Advertisers: reach customers where they buy"
-    details: "Reach proven buyers at the exact moment of purchase."
-    link: /en/advertisers/
+    title: Recruit
+    details: "Reach your future customers through the brands they already buy from, by delivering your campaigns to affinity audiences. With a media budget, or through an exchange. Best CAC: €1.21."
+    link: /en/recruit/
+  - icon: 💌
+    title: Retain
+    details: "Reach the customers who no longer open your emails through direct mail, and turn every parcel you ship into an immediate repurchase lever. Best observed CVR: 6%."
+    link: /en/retain/
   - icon: 📦
-    title: "Retailers: monetise your shipments"
-    details: "Monetise every touchpoint with your audience. You choose the advertisers."
-    link: /en/publishers/
-  - icon: 📋
-    title: "One network, one contract, one clear framework"
-    details: "One contract, centralised billing, dedicated support. You keep control."
-    link: /en/start-here/
-  - icon: 🖨️
-    title: "Production included, from creative to delivery"
-    details: "Creative, printing, QR codes: our studio, on demand."
-    link: /en/resources/studio
+    title: Monetise
+    details: "Deliver partner campaigns that enrich your customers' shopping experience, and generate revenue to fund your acquisition. Top revenue: €215K+ per year."
+    link: /en/monetize/
+  - icon: 🛠️
+    title: An all-in-one solution, powered by AI
+    details: "AI and data targeting, lookalike modelling, full automation. 500+ brands are already growing with getinside, from DNVBs to the largest chains."
+    link: /en/start-here/why-it-works
 ---

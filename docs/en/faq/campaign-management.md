@@ -1,79 +1,82 @@
 ---
-title: Campaign Management — FAQ
-description: "Answers to frequently asked questions about campaign management: response times, cancellation, visual refusals, performance tracking and customer data."
+title: Campaign Management
+description: "Answers on campaign management: the 48 business-hour response deadline, cancellations, refusing a non-compliant flyer, late starts and performance tracking. Also covers the veto right of the brand delivering your campaign and the ban on sharing your customer addresses with the brand whose campaign you deliver."
 keywords:
-  - getinside campaign management
-  - campaign cancellation
-  - score distributeur
-  - GDPR customer data
-  - platform messaging
+  - Campaign management
+  - 48-hour response time
+  - Veto right
+  - Performance tracking
+  - GDPR
+  - Campaign FAQ
 ---
 
 # Campaign Management
 
-::: details What is the expected response time for a campaign proposal?
-You must respond within **48 working hours**. Past this deadline, getinside reserves the right to decline the campaign on your behalf. Your responsiveness directly influences your Score Distributeur and your visibility in future campaign allocations.
+::: details What is the expected response time?
+You must respond within **48 working hours**. Your responsiveness wins campaigns against the other brands in the running. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
 :::
 
 ::: details Can I cancel an already accepted campaign?
-Cancellation is strongly discouraged. Except in cases of force majeure, it results in:
+Cancellation is highly discouraged. Except in cases of force majeure, penalties apply:
 
-::: warning Cancellation penalties
-- Flat penalty of **550€ HT**
-- Reimbursement of lost platform fees
-- Reimbursement of production (printing) and studio costs incurred
-:::
-
+- Contractual penalty
+- \+ Reimbursement of production costs (if printed) and studio costs incurred
 :::
 
 ::: details Can I refuse to insert a received flyer?
-Yes. Check the materials upon receipt. If flyers are damaged or do not comply with the validated proof (e.g., an undisclosed competing brand), immediately contact [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) and suspend insertion pending instructions.
+Yes. Check the merchandise upon receipt. If the materials are damaged or do not comply with the validated proof (e.g., competing brand not reported), immediately contact [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) and suspend the insertion pending instructions.
 :::
 
-::: details The campaign is starting late — what should I do?
-If you have not distributed anything during a planned week, enter **"0"** in the week's reporting and notify the advertiser via messaging. The platform automatically extends the campaign at the end of the period to reach the target volume.
+::: details The campaign is starting late: what should I do?
+If you haven't distributed anything over a planned week:
+
+1. Enter **"0"** in the weekly reporting.
+2. Notify the brand whose campaign you deliver via messaging.
+
+The platform will automatically extend the campaign at the end of the period to reach the target volume.
 :::
 
-::: details How do I add a new type of offer to an audience?
-On the relevant audience profile, add a campaign type. For a bespoke offer outside the standard catalogue, select **"Other campaign type"** — the getinside team will validate feasibility with you.
+::: details How to add a new type of offer?
+Go to the relevant audience profile and add a campaign type. For a custom offer (outside the standard catalog), select **"Other campaign type"**: the getinside team will validate the feasibility with you.
 :::
 
-::: details Where can I view my campaign history?
-- **Received campaigns (Distributor):** Monetisation → Campaign manager (filter by status: Accepted, Refused…)
-- **Your own campaigns (Advertiser):** Campaigns → All campaigns
+::: details Where to see my campaign history?
+- **Campaigns you deliver (when you monetize):** Monetization → Campaign manager (filter by status: Accepted, Refused...)
+- **Your own campaigns (when you recruit):** Campaigns → All campaigns
 :::
 
-::: details How do I track my campaign performance?
-Your getinside dashboard offers two tracking levels:
+::: details How to track the performance of my campaign?
+You have dual tracking on your getinside dashboard:
 
-1. **Performance (ROI):** real-time scans of your QR codes.
-2. **Distribution:** flyer volumes inserted, updated each start of week by the distributor.
-
-The average network CTR is **2.87%**. Gamified formats (Bundle, Games) reach up to **20%** scan rate.
+1. **Performance (ROI):** Scans of your QR codes in real-time.
+2. **Distribution:** Volumes of inserted flyers updated every beginning of the week by the brand delivering your campaign.
 :::
 
-::: details A distributor is refusing my visual — what should I do?
-The distributor has a **veto right over the brand** (direct competitor, ethically incompatible category), but not over creative direction.
+::: details A brand delivering my campaign refuses my visual: what should I do?
+This brand has a **veto right over the promoted brand** (direct competitor, ethically incompatible category), but not over the art direction.
 
-If your file meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal notices present), it is compliant. Send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation. getinside validation takes precedence over the distributor's assessment.
+If your visual meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal mentions present), it is compliant. It cannot reject it for subjective reasons of taste or style.
 
-→ [Print specifications](/en/advertisers/sponsored-mail/design-guide/print-specs)
+**Procedure:**
+1. Check that your file respects the [print specifications](/en/recruit/sponsored-mail/design-guide/print-specs).
+2. If everything is compliant, send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation.
+3. The getinside validation takes precedence over the subjective appreciation of the brand delivering the campaign.
 :::
 
-::: details An advertiser is asking for my customers' addresses — can I share them?
-**No.** This request is contrary to GDPR and getinside's Terms of Use.
+::: details A brand whose campaign I deliver asks for the addresses of my customers: can I give them?
+**No, under no circumstances.** This request is contrary to GDPR and our Terms of Service.
 
-Your customer data is a First Party asset that belongs exclusively to you. getinside operates as a Trusted Third Party: the advertiser accesses your audience without ever receiving the file. No database transfer is authorised without a specific opt-in from each customer. If the request persists, contact [support@getinside.fr](mailto:support@getinside.fr).
+Your customer data is a **First Party** asset that belongs exclusively to you. getinside operates as a **Trusted Third Party**: that brand accesses your audience without ever receiving the file. No database transfer is allowed without specific opt-in from each customer.
+
+In case of an insistent request, contact [support@getinside.fr](mailto:support@getinside.fr). Our team handles the legal response.
 :::
 
 ---
 
-## Best Practices: Messaging
+## Best practices: messaging
 
-The getinside messaging system is your direct channel with advertisers.
+The getinside messaging tool is your direct channel with the brands whose campaigns you deliver.
 
-**Responsiveness:** reply promptly, even to a refusal. A responsive distributor builds advertiser trust for future proposals.
-
-**Logistical precision:** if you are reporting a delay, be specific. Prefer: "We have an unexpected activity peak. Distribution will start next Tuesday instead of Monday." over "We're running late."
-
-**Partnership mindset:** send a welcome message to the advertiser upon receiving the flyers to confirm everything is compliant and distribution is starting.
+- **Responsiveness:** reply quickly, even to decline. A responsive brand earns its partners' trust for future proposals.
+- **Logistics precision:** if you report a delay, be specific. Write "We have an unexpected activity peak, distribution will start next Tuesday instead of Monday" rather than "We're running late."
+- **Partnership mindset:** send a welcome message when you receive the flyers to confirm that everything is compliant and that distribution is starting.

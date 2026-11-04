@@ -1,48 +1,69 @@
 ---
 pageClass: gi-dots
-title: FAQ — Frequently Asked Questions
-description: Answers to frequently asked questions about campaign management, billing, logistics and technical integrations.
+title: FAQ - getinside
+description: "Answers to frequently asked questions about getinside: logistics, tracking, campaigns, audiences, Wallet and technical integration."
 keywords:
-  - retail media FAQ
-  - frequently asked questions
+  - FAQ getinside
   - getinside support
-  - billing
+  - tracking
   - logistics
+  - wallet
+  - API integration
+  - troubleshooting
+  - audience management
 ---
 
-# FAQ: Frequently Asked Questions
+# Frequently Asked Questions
 
-Find answers quickly by topic.
+<p class="gi-page-intro">Quickly find answers about managing your account, your campaigns, and billing.</p>
 
-<div class="gi-format-grid">
-  <a href="troubleshooting-distributors" class="gi-format-card">
-    <span class="gi-format-card-icon">🔧</span>
-    <span class="gi-format-card-title">Troubleshooting — Distributors</span>
-    <p class="gi-format-card-desc">Wallet, payments, campaigns, penalties. Solutions to frequent cases.</p>
+<div class="gi-nav-list">
+  <a href="troubleshooting-recruit" class="gi-nav-card">
+    <span class="gi-nav-card-icon">💼</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Troubleshooting: Recruit</p>
+      <p class="gi-nav-card-desc">Campaign not delivered, creative rejected, proof, tracking: quick solutions.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="troubleshooting-advertisers" class="gi-format-card">
-    <span class="gi-format-card-icon">💼</span>
-    <span class="gi-format-card-title">Troubleshooting — Advertisers</span>
-    <p class="gi-format-card-desc">Campaign not sent, creative rejected, proof, tracking. Quick fixes.</p>
+  <a href="troubleshooting-monetize" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🔧</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Troubleshooting: Monetize</p>
+      <p class="gi-nav-card-desc">Wallet, payments, campaigns: solutions to frequent cases.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="account-audiences" class="gi-format-card">
-    <span class="gi-format-card-icon">⚙️</span>
-    <span class="gi-format-card-title">Account & Audiences</span>
-    <p class="gi-format-card-desc">User management, audience creation, affiliation and catalogue.</p>
+  <a href="account-audiences" class="gi-nav-card">
+    <span class="gi-nav-card-icon">⚙️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Account & Audiences</p>
+      <p class="gi-nav-card-desc">User management, audience creation, affiliation, and catalog.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="campaign-management" class="gi-format-card">
-    <span class="gi-format-card-icon">⚡</span>
-    <span class="gi-format-card-title">Campaign Management</span>
-    <p class="gi-format-card-desc">Validation, cancellation, delays and operational tracking.</p>
+  <a href="campaign-management" class="gi-nav-card">
+    <span class="gi-nav-card-icon">⚡</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Campaign Management</p>
+      <p class="gi-nav-card-desc">Validation, cancellation, delays, and operational tracking.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="billing" class="gi-format-card">
-    <span class="gi-format-card-icon">💰</span>
-    <span class="gi-format-card-title">Billing & Payments</span>
-    <p class="gi-format-card-desc">Invoice editing, withdrawals and payment terms.</p>
+  <a href="billing" class="gi-nav-card">
+    <span class="gi-nav-card-icon">💰</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Billing & Payments</p>
+      <p class="gi-nav-card-desc">Invoice editing, withdrawals, and payment terms.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="logistics-tech" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Logistics & Tech</span>
-    <p class="gi-format-card-desc">Deliveries, CSR printing, tracking and GDPR.</p>
+  <a href="logistics-tech" class="gi-nav-card">
+    <span class="gi-nav-card-icon">📦</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Logistics & Tech</p>
+      <p class="gi-nav-card-desc">Deliveries, CSR printing, tracking, and GDPR.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
 </div>

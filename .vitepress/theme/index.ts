@@ -27,7 +27,7 @@ export default {
 function updateOpenGraph(page: any) {
   const { title, description, image, frontmatter } = page
   const pageTitle = frontmatter?.title || title || 'getinside Handbook'
-  const pageDescription = frontmatter?.description || description || 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.'
+  const pageDescription = frontmatter?.description || description || 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.'
   const pageImage = frontmatter?.image || image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
   const relUrl = page.relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
   const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`

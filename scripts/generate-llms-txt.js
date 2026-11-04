@@ -25,9 +25,10 @@ const EXCLUDED = ['404.md'];
 // Sections FR : ordre + libellé d'affichage, clé = 1er segment du chemin
 const FR_SECTIONS = [
   { key: 'start-here', label: 'Découvrir getinside' },
-  { key: 'advertisers', label: 'Espace Annonceurs' },
-  { key: 'publishers', label: 'Espace Retailers & E-commerçants' },
-  { key: 'faq', label: 'FAQ — Questions fréquentes' },
+  { key: 'recruit', label: 'Recruter' },
+  { key: 'retain', label: 'Fidéliser' },
+  { key: 'monetize', label: 'Monétiser' },
+  { key: 'faq', label: 'FAQ : Questions fréquentes' },
   { key: 'resources', label: 'Ressources' },
   { key: 'glossary', label: 'Glossaire' },
 ];
@@ -91,8 +92,8 @@ function buildIndex() {
   });
 
   let out = '# getinside Handbook\n\n';
-  out += '> Documentation officielle de la plateforme retail media getinside : guides opérationnels, spécifications techniques et processus pour les annonceurs (marques) et les retailers/e-commerçants (éditeurs).\n\n';
-  out += 'getinside transforme les colis et emails post-achat des e-commerçants en espaces publicitaires. Les annonceurs touchent des acheteurs qualifiés au moment de l\'achat (100% de taux de lecture en insertion colis, 2,64% de CTR réseau) ; les retailers monétisent leurs envois (2 à 20% de CA additionnel, 65-70% de marge nette). Réseau : 250+ e-commerçants, 300+ annonceurs, 40M de consommateurs.\n\n';
+  out += '> Documentation officielle de getinside, la solution de marketing par le colis et le courrier adressé : guides opérationnels et processus pour recruter, fidéliser et monétiser vos clients. Le marketing qui touche.\n\n';
+  out += 'getinside permet de recruter des clients en faisant diffuser votre campagne chez d\'autres marques (insertion colis, échantillonnage), de fidéliser les clients inactifs par courrier adressé et de monétiser votre audience en diffusant les campagnes d\'autres marques. 98 % de délivrabilité, 100 % d\'attention, 500+ marques.\n\n';
   out += 'Cette documentation est bilingue : les pages françaises sont canoniques, les traductions anglaises vivent sous `/en/`.\n';
 
   for (const sec of FR_SECTIONS) {

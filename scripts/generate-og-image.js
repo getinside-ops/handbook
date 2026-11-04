@@ -104,8 +104,8 @@ const html = `<!DOCTYPE html>
 
   <div>
     <div class="eyebrow">Handbook</div>
-    <div class="headline">Retail media,<br>explained.</div>
-    <div class="subtitle">Broadcasting or monetizing? This handbook covers both.</div>
+    <div class="headline">Le marketing<br>qui touche.</div>
+    <div class="subtitle">Recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.</div>
   </div>
 </div>
 </body>

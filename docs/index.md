@@ -1,17 +1,21 @@
 ---
-title: getinside Handbook — Guide Retail Media
+title: getinside Handbook
 layout: home
-description: Guide opérationnel de la plateforme getinside. Retailers, monétisez vos colis et emails. Annonceurs, diffusez vos campagnes sur 250+ e-commerçants.
+description: "Solution marketing par le colis et le courrier adressé à l'ère agentique. Recrutez, fidélisez et monétisez vos clients avec getinside."
 keywords:
-  - retail media
-  - monétisation colis
-  - acquisition client e-commerce
-  - plateforme getinside
-  - sponsored mail
+  - marketing par le colis
+  - courrier adressé
+  - insertion colis
+  - échantillonnage
+  - acquisition client
+  - fidélisation client
+  - monétisation
+  - getinside
 
 hero:
-  text: "Le retail media, sans la complexité."
-  tagline: "Annonceurs, touchez des acheteurs avérés au moment de l'achat. Retailers, monétisez vos colis et emails dès cette semaine."
+  name: "getinside"
+  text: "Le marketing qui touche."
+  tagline: "Recrutez, fidélisez et monétisez vos clients avec le colis et le courrier adressé."
   image:
     src: /images/gi-keyvisual.svg
     alt: getinside
@@ -21,23 +25,23 @@ hero:
       link: /start-here/
     - theme: alt
       text: Guide de création Insertion Colis
-      link: /advertisers/sponsored-mail/design-guide/
+      link: /recruit/sponsored-mail/design-guide/
 
 features:
   - icon: 🎯
-    title: "Annonceurs : diffusez là où vos clients achètent"
-    details: "Touchez des acheteurs avérés, au moment précis de l'achat."
-    link: /advertisers/
+    title: Recruter
+    details: "Touchez vos futurs clients à travers les marques qu'ils consomment déjà, en délivrant vos campagnes auprès d'audiences affinitaires. Avec un budget média, ou en échange. Top CAC : 1,21 €."
+    link: /recruit/
+  - icon: 💌
+    title: Fidéliser
+    details: "Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails, et transformez chaque colis que vous livrez en levier de rachat immédiat. Top CVR constaté : 6 %."
+    link: /retain/
   - icon: 📦
-    title: "Retailers : rentabilisez vos expéditions"
-    details: "Monétisez chaque point de contact avec votre audience. Vous choisissez les annonceurs."
-    link: /publishers/
-  - icon: 📋
-    title: "Un réseau, un contrat, un cadre clair"
-    details: "Un contrat, une facturation centralisée, un support dédié. Vous gardez le contrôle."
-    link: /start-here/
-  - icon: 🖨️
-    title: "Production incluse, de la créa au routage"
-    details: "Créa, impression, QR codes : notre studio à la carte."
-    link: /resources/studio
+    title: Monétiser
+    details: "Délivrez des campagnes de partenaires qui enrichissent l'expérience d'achat de vos clients, et générez des revenus pour financer votre acquisition. Top revenus : +215 K€ par an."
+    link: /monetize/
+  - icon: 🛠️
+    title: Une solution tout-en-un, pilotée par l'IA
+    details: "Ciblage IA et data, modélisation d'audiences similaires, automation complète. +500 marques se développent déjà avec getinside, de la DNVB à la plus grande enseigne."
+    link: /start-here/why-it-works
 ---

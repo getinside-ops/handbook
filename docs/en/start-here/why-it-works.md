@@ -1,58 +1,98 @@
 ---
-title: Why It Works — The getinside Model
-description: "The getinside retail media model rests on three complementary mechanisms: trust transfer, contextual matching and a circular economic model for e-merchants."
+title: How getinside works
+description: "Understand how getinside works: a network of trusted brands, AI targeting and a Wallet that turns your revenue into new customers."
 keywords:
-  - retail media
-  - advertising endorsement
-  - contextual matching
-  - e-commerce monetisation
-  - virtuous circle
+  - how getinside works
+  - brand network
+  - affinity audiences
+  - lookalike modelling
+  - audience exchange
+  - wallet
+  - parcel inserts
+  - getinside
 image: /images/gi-keyvisual.svg
 ---
 
-# Why It Works
+# How does it work?
 
-getinside formats belong to **off-site retail media**, and they outperform because they combine three mechanisms that classic digital advertising never brings together: guaranteed attention, retailer trust and contextual relevance. Each mechanism is measurable. Together, they produce exceptional results.
+**getinside** connects brands that have their consumers' trust and attention. Each brand can **recruit** new customers, **retain** its own and **monetise** its audience, with parcels, direct mail and sampling.
 
-## Trust Transfer
+| Player | Action | Flow |
+| :--- | :--- | :--- |
+| 📦 **Brand that monetises** | Ships parcels and mail to its customers, and delivers campaigns in them | Available inventory |
+| ⚡ **Platform** | Targets affinity audiences with AI | Matching |
+| 📢 **Brand that recruits** | Has its offer or sample delivered to those audiences | Campaigns delivered |
+| 💰 **Wallet** | Revenue is credited to the brand's Wallet | Funds its own campaigns |
 
-When an e-merchant distributes your offer in their parcels or post-purchase email, they lend you their customer relationship. The consumer has already bought from that retailer. They trust them. That trust transfers to your brand.
+## The transfer of trust
 
-This is what we call **endorsement**: you are not an intruder in an ad feed, you are a partner recommended by a retailer the buyer knows and respects. The effect is directly measurable: the average network CTR reaches **2.87%**, a multiplier on your ROI.
+What a parcel and a direct mail piece from a brand have in common:
 
-## Contextual Matching
+- **The customer relationship:** the consumer has already bought.
+- **Credibility:** they trust the brand that delivers to them.
+- **Attention:** they open their parcel and their mailbox, they touch the sample.
 
-The platform does not distribute at random. Each campaign is paired with a product universe that is coherent with the retailer's audience. The right message reaches the right person, in the right context.
+::: tip An exclusive network of trusted brands
+Brands that have their consumers' trust and attention, and that recommend your offers. **The brand stays in control**: each one approves the brands and offers shown to its customers.
+:::
+
+## Recruit: two modes
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>Product complementarity</strong>
-    <p>A sports nutrition brand at a running equipment retailer. A wine subscription at a fine grocery store.</p>
+    <strong>Media buying</strong>
+    <p>You deliver your offer or sample to the audiences of affinity brands, with a campaign budget.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Maximum attention moment</strong>
-    <p>The parcel insert is read during unboxing: 100% read rate, with no competition for attention.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Qualified audience</strong>
-    <p>40 million consumers reachable via 250+ e-merchants, without buying third-party data.</p>
+    <strong>Exchange</strong>
+    <p>No media spend: each brand carries the other's offer in its parcels and keeps its own customers.</p>
   </div>
 </div>
 
-The direct result: **10 to 30% post-scan conversion**, levels that standard display advertising cannot reach. getinside campaigns reach active buyers, in a moment of emotional openness: unboxing, reading an anticipated email.
+AI is used to target affinity brands through **lookalike modelling**: custom modelling based on your customers' characteristics and transaction data, combined with the solution's proprietary data (history of campaigns already delivered).
 
-## The Circular Economic Model for Retailers
+## Monetise: the Wallet cycle
 
-For e-merchants, getinside transforms cost centres (shipments, emails) into recurring revenue streams. This revenue is available immediately in the platform Wallet, without any billing delay.
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>1. Deliver campaigns</strong>
+    <p>Deliver other brands' offers to your audience.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>2. Generate revenue</strong>
+    <p>Your dedicated Wallet is credited automatically.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>3. Fund your campaigns</strong>
+    <p>Reinvest your revenue to recruit, or withdraw it.</p>
+  </div>
+</div>
 
-This Wallet can be reinvested directly to purchase acquisition campaigns with complementary partners, at 0% platform fees on reinvestment. Your shipping costs finance your own growth.
-
-Net margin on this revenue reaches **65 to 70%**, because the assets, logistics and email list, already exist. There is no additional infrastructure to build. Every parcel shipped generates advertising revenue on top of its logistical role.
-
-::: tip Score Distributeur
-
-Your visibility in the platform's search engine depends on your **Score Distributeur** (1 to 5 stars). It measures 7 criteria: pricing, weekly volume, brand attractiveness, inventory reliability, audience responsiveness, campaign history, communication/reporting. A high score attracts premium advertisers and increases your revenues.
-
+::: info Features to sell your media offer
+- **Respond to brand requests:** receive campaign proposals directly.
+- **Prospect other brands:** send them your own proposals.
+- **Collaborate with your partners:** bring all your partner brands together and run everything from a single solution.
 :::
 
-[See the Advertisers section →](/en/advertisers/) · [See the Retailers section →](/en/publishers/)
+## Retain: reach customers who no longer open your emails
+
+Your customers no longer open your emails, but they still open their mail and their parcels.
+
+- **Reactivation by direct mail:** effectively target email-inactive customers in their mailbox.
+- **Parcel upsell:** insert a dedicated offer in every parcel shipped to trigger new purchases.
+
+## The getinside expertise
+
+| 🚫 Without getinside | ✅ With getinside |
+| :--- | :--- |
+| Negotiating with each brand one by one. | One partner, 3 channels. |
+| Managing production, printing and routing. | Production, quality control and delivery end to end, true to your brand image. |
+| Scattered reporting. | Performance measured and optimised for every campaign. |
+
+::: tip Ready to activate your growth?
+
+Whether you want to recruit, retain or monetise your customers, getinside is built for you.
+
+[Discuss my project](https://lp.getinside.fr/meetings/benoit-prentout)
+
+:::

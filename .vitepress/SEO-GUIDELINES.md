@@ -20,13 +20,13 @@ image: [URL de l'image OpenGraph, préférablement /images/...]
 ---
 ```
 
-**Exemple pour advertisers/index.md :**
+**Exemple pour recruit/index.md :**
 ```yaml
 ---
-title: Plateforme Publicitaire Retail Media pour Annonceurs - getinside
-description: Rejoignez +250 retailers et touchez des acheteurs avérés via insertion colis, email dédié, display email et social ads.
+title: Marketing par le colis et le courrier adressé pour Annonceurs - getinside
+description: Rejoignez +500 marques et touchez des acheteurs avérés via insertion colis, courrier adressé et échantillonnage.
 keywords:
-  - retail media
+  - marketing par le colis et le courrier adressé
   - plateforme publicitaire
   - annonceurs
   - insertion colis
@@ -56,10 +56,11 @@ Chaque page doit suivre cette structure:
 
 | Section | Mots-clés Primaires |
 |---------|-------------------|
-| start-here/index.md | retail media, monétisation, plateforme, colis, email, getinside |
+| start-here/index.md | marketing par le colis et le courrier adressé, monétisation, plateforme, colis, email, getinside |
 | start-here/why-it-works | matching contextuel, endorsed advertising, trust transfer, boucle vertueuse |
-| advertisers/ | annonceurs, plateforme publicitaire, acquisition, acheteurs qualifiés |
-| publishers/ | retailers, monétisation, e-commerce, revenue, growth |
+| recruit/ | recruter, acquisition client, insertion colis, échantillonnage, CAC |
+| retain/ | fidéliser, courrier adressé, clients inactifs, réactivation |
+| monetize/ | monétiser, audience, revenus, wallet, briefs |
 | faq/ | getinside, support, questions fréquentes, troubleshooting |
 | resources/ | case studies, guides, templates, outils, best practices |
 
@@ -102,7 +103,7 @@ Chaque page génère automatiquement:
 
 Généré automatiquement lors du build :
 - Toutes les pages `.md` sont incluses
-- Priorités automatiques selon le type de page (start-here=0.9, publishers=0.8, etc.)
+- Priorités automatiques selon le type de page (start-here=0.9, recruit/retain/monetize=0.8, etc.)
 - `lastmod` mis à jour automatiquement
 
 ```bash
@@ -155,7 +156,7 @@ Avant de publier une nouvelle page:
 Pour augmenter les citations par ChatGPT, Claude, Gemini :
 
 ### 1. **Rich Content**
-- Statistiques chiffrées ("65-70% net margin")
+- Statistiques chiffrées ("98 % de délivrabilité")
 - Études de cas
 - Données comparatives (tableaux)
 - Exemples concrets
@@ -168,7 +169,7 @@ Pour augmenter les citations par ChatGPT, Claude, Gemini :
 ### 3. **Mots-clés Conversationnels**
 LLM souvent posent des questions, utilisez:
 - "Comment monétiser ses colis ?" → "Comment getinside aide à monétiser"
-- "Quelle plateforme pour retailer ?" → "getinside pour retailers"
+- "Quelle plateforme pour monétiser ses colis ?" → "getinside pour les marques du réseau"
 - "Trust in advertising" → "getinside endorsement effect"
 
 ### 4. **Structure FAQs**
@@ -189,9 +190,9 @@ LLM souvent posent des questions, utilisez:
 Pour renforcer l'autorité et le crawling :
 
 ### Pages Prioritaires (Hub pages)
-- `/docs/fr/start-here/` → Vers advertisers + publishers
-- `/docs/fr/advertisers/` → Vers chaque format ad
-- `/docs/fr/publishers/` → Vers chaque levier de monétisation
+- `/docs/fr/start-here/` → Vers recruit + retain + monetize
+- `/docs/fr/recruit/` → Vers chaque format
+- `/docs/fr/monetize/` → Vers chaque levier de monétisation
 - `/docs/fr/faq/` → Vers toutes les sections
 
 ### Linking Pattern
@@ -201,8 +202,7 @@ Pour renforcer l'autorité et le crawling :
 
 **Exemples**
 ```markdown
-- Pour plus sur [l'Insertion Colis](/docs/fr/advertisers/sponsored-mail/)
-- Voir aussi [le Score Distributeur](/docs/fr/publishers/score-distributor)
+- Pour plus sur [l'Insertion Colis](/docs/fr/recruit/sponsored-mail/)
 - Apprenez comment [le matching contextuel fonctionne](/docs/fr/start-here/why-it-works#le-matching-contextuel)
 ```
 
@@ -232,12 +232,12 @@ Pour renforcer l'autorité et le crawling :
 
 ### Trimestriel
 - Analyser les LLM citations via Google Search Console
-- Vérifier le classement des pages piliers (start-here, advertisers, publishers)
+- Vérifier le classement des pages piliers (start-here, recruit, retain, monetize)
 
 ### Quand Ajouter du Contenu
 - Nouveau format ad ? → Ajouter sa page + mettre à jour sidebar
 - Nouvelles données ? → Enrichir pages existantes + mettre à jour seo-keywords.md
-- Nouvel integrale case study ? → Ajouter + lier depuis advertisers + publishers
+- Nouvel integrale case study ? → Ajouter + lier depuis recruit + monetize
 
 ---
 

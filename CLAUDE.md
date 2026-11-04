@@ -23,7 +23,7 @@ Static assets (OG image at 1200×630) are generated via Playwright Node.js ESM s
 
 ## Architecture
 
-**VitePress documentation site** for getinside Retail Media platform. Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/`.
+**VitePress documentation site** for getinside, the parcel and direct mail marketing solution ("Le marketing qui touche"). Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/` (built in CI by `.github/workflows/deploy.yml`; `.vitepress/dist` is git-ignored and must not be committed).
 
 **Deploy:** push to `main` → GitHub Actions builds (`npm run docs:build`) → deploys `.vitepress/dist/` to GitHub Pages. No manual step. CI runs on Node 24.
 
@@ -42,16 +42,23 @@ Static assets (OG image at 1200×630) are generated via Playwright Node.js ESM s
 
 ## Content Structure
 
-The documentation is bilingual. French markdown files live directly under `docs/`, and English translations mirror the exact structure under `docs/en/`. Both feature two main audience branches:
+The documentation is bilingual. French markdown files live directly under `docs/`, and English translations mirror the exact structure under `docs/en/`. Both are organized by use case:
 
-- **`advertisers/`** — Guides for brands: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Bundles & Media Kits, Pricing, Printing Services, Onboarding Quick Start
-- **`publishers/`** — Guides for e-retailers: Sponsored Mail, Dedicated Email, Display Email, Social Ads, Bundles & Media Kits, Audiences & Data, Payouts & Wallet, Affiliation, Score Distributeur, Onboarding Process/Quick Start, Pricing
+- **`recruit/`** — Use case **Recruter** (SaaS section): have your campaigns delivered by other brands. Channels: Insertion colis (`sponsored-mail/`), Échantillonnage (`sampling/`). Other formats (secondary in the sidebar): Dedicated Email, Display Email, Social Ads, Co-branded Contests. Plus Printing services.
+- **`retain/`** — Use case **Fidéliser** (separate section, not SaaS): Courrier adressé (`direct-mail/`).
+- **`monetize/`** — Use case **Monétiser** (SaaS section): deliver other brands' campaigns. Insertion colis, other formats (Dedicated Email, Display Email, Social Ads, Co-branded Contests), Audiences & Data, Payouts & Wallet, Affiliation.
 
-Supporting sections: `start-here/` (homepage), `faq/`, `resources/`, `glossary.md`
+There is no advertiser/distributor split anymore: one brand can recruit and monetize. Old URLs (`/advertisers/`, `/publishers/`) are redirected by `scripts/generate-redirects.js` using `scripts/redirects.json`; add an entry there whenever a page is moved or deleted.
+
+Supporting sections: `start-here/` (introduction and how it works), `faq/`, `resources/`, `glossary.md`
 
 `docs/superpowers/` — Internal planning directory (plans, specs). Excluded from H1 and content audits intentionally.
 
 The homepage (`index.md` at root) uses VitePress `layout: home` with `hero` and `features` YAML blocks — not standard markdown.
+
+**Vocabulary** (source: messaging guide): one actor, "la marque" / "the brand". Do not use "annonceurs", "distributeurs", "marques du réseau" as role labels (nor "advertisers", "distributors", "network brands", "publishers"), and never "retailers" or "e-commerçants". Describe sides by action: "vous faites diffuser votre campagne" (Recruter) / "vous diffusez les campagnes d'autres marques" (Monétiser). Signature "Le marketing qui touche". Do not use "Retail Media" or "asile colis".
+
+**No pricing in the handbook.** Never publish prices, commissions, platform fees, plans, payout tiers or penalty amounts. Campaign results (CAC, CVR, revenue generated) are allowed.
 
 ## Frontmatter & SEO
 
@@ -72,7 +79,11 @@ image: /images/og-image.png  # optional, overrides site default
 ---
 ```
 
-SEO metadata and Schema.org JSON-LD are generated in SSR by `config.ts` (`transformHead` + `buildWebPageSchema`); `theme/index.ts` only refreshes OpenGraph/canonical/hreflang during SPA navigation. Sidebar is manually configured in `.vitepress/config.ts` — add new pages to `themeConfig.sidebar` when creating new files.
+SEO metadata and Schema.org JSON-LD are generated in SSR by `config.ts` (`transformHead` + `buildWebPageSchema`); `theme/index.ts` only refreshes OpenGraph/canonical/hreflang during SPA navigation. Sidebar is manually configured in `.vitepress/config.ts` — add new pages to `themeConfig.sidebar` when creating new files (FR and EN blocks).
+
+**YAML pitfall:** a frontmatter value containing `: ` (colon + space) must be wrapped in double quotes, otherwise the build fails with a YAML error (e.g. `description: "Top CAC : 1,21 €"`).
+
+**Links:** markdown links use site-relative paths without the base (`[text](/recruit/)`); raw HTML `href` attributes and image `src` must include the base (`/handbook/recruit/`, `/handbook/images/...`). VitePress does not check raw HTML links.
 
 ## Content Conventions
 
@@ -127,16 +138,16 @@ Use `<div class="gi-step-num done">` for completed steps (green text, no circle)
 
 All markdown tables render full width by default (`.vp-doc table { width: 100% }` in `style.css`). No wrapper class needed. The legacy `gi-table-full` class still works but is unnecessary for new content.
 
-## Design Guide Structure (Advertisers)
+## Design Guide Structure (Recruter)
 
-The advertiser design guides (e.g., `advertisers/sponsored-mail/design-guide/`) follow this structure:
-1. **Offer** — Monetary value vs %, validity period (min 3 months), promo codes (unique per retailer)
+The design guides (e.g., `recruit/sponsored-mail/design-guide/`) follow this structure:
+1. **Offer** — Monetary value vs %, validity period (min 3 months), promo codes (unique per partner brand)
 2. **Mechanic** — 6 types (Promotion, Drive to Store, Content, Games/Contests, Drive to App, Feedback)
 3. **Audience alignment** — "Why is this content for this audience?" test
 4. **Copywriting** — Hook (benefit first), Promise, Urgency
 5. **Paper UX** — Visual hierarchy (Z-pattern), QR code placement, readability
 6. **Post-scan** — Mobile-first landing page (responsive, fast, simple)
-7. **FAQ** — Use `::: details` sections for common Q&As (e.g., distributor veto rule, performance tracking)
+7. **FAQ** — Use `::: details` sections for common Q&As (e.g., partner brand veto rule, performance tracking)
 
 **Key QR code rules:**
 - Minimum **25 × 25 mm**, black on white, with clear instruction text
@@ -176,18 +187,14 @@ Remaining Vale flags after a correction pass are expected to be only frontmatter
 
 ## Knowledge Base Integration
 
-Content is enriched from NotebookLM notebook (ID: `9b86dd27-355e-453c-aee2-af40cb58f59c`) via MCP. Key metrics to include:
-- **Advertiser performance:** 100% open rate (Sponsored Mail), **2.87% CTR réseau moyen** (canonical figure — do not add Meta comparisons), 10-30% conversion
-- **Retailer economics:** 2-20% additional revenue, 65-70% net margins
-- **Network scale:** 250+ e-commerçants, 300+ advertisers, 950+ successful campaigns, 40M consumers
-- **Fundraising:** 3.2M€ seed (Feb 2026) — La Poste Ventures, Swiss Post Ventures, 50 Partners, Clover, Founders Future
-- **Penalties:** Annulation = 550€ HT · Contournement = 2,500€ HT per campaign
-- **Contractual (March 2026):** Starter contract folded into CGUC. Framework: CGUC + CGV + CGP + Privacy Policy
-- **Affiliation:** 20% commission on platform fees, 30-day control period, 0% fees on reinvestment
-- **Quality system:** Score Distributeur (1-5 stars, 7 evaluation criteria)
-- **Gamified content CTR:** Up to 20% (games, contests)
-- **Promo code rules:** Unique per retailer, short, no special chars, ideally include retailer name
-- **Offer validity:** Min 3 months (recipients keep flyers weeks before scanning)
+Content is aligned on four Google Drive sources (as of the 2026-11 repositioning): the **"Guide de messaging - getinside"** (reference for vocabulary, promise and verbatims), and the decks **"getinside | Marketing par le colis et le courrier adressé"**, its **"design system"** version (case studies) and **"getinside | pour le réseau"** (network brands). When sources disagree, the messaging guide wins. Key messages and figures to use:
+- **Promise:** "Recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé" (H2), signature "Le marketing qui touche". 3 verbs (Recruter / Fidéliser / Monétiser), 3 channels (insertion colis, courrier adressé, échantillonnage). Exchange is a way to recruit without media spend, not a fourth use case.
+- **Proof points:** 98 % deliverability, 100 % attention, 86 % of purchase decisions made at home, 500+ brands, 300+ aggregated audiences (network side).
+- **Records:** TOP CAC 1,21 € (Recruter), TOP CVR 6 % (Fidéliser), top revenue +215 K€/year and 90 % reinvested in acquisition (Monétiser).
+- **Compliance:** GDPR on legitimate interest with right to object on every mailing; AGEC law (samples handed over on the consumer's prior request, art. L541-15-10 of the Environmental Code).
+- **Do not import** the internal sales content of the guide (ICP, prospecting titles, competitive study) or unconfirmed items (the "Agency" term, free trial, revenue simulator).
+
+`scripts/check-content.sh [files...]` checks FR/EN parity of `docs/` and banned terms in the given files; run it before committing content changes.
 
 ## jdocmunch MCP
 
@@ -196,7 +203,7 @@ jdocmunch indexes the local `docs/` folder and enables section-level search, TOC
 **When to use it:**
 - Before adding content: check for existing coverage or find the right file to edit
 - Bilingual parity checks: compare FR vs EN section structures
-- Cross-file content audits (e.g., "all pages mentioning Score Distributeur")
+- Cross-file content audits (e.g., "all pages mentioning a given term")
 - Getting a structural overview before planning edits
 
 **When NOT to use it** (use Grep/Read instead):

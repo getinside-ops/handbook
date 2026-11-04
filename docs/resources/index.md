@@ -1,17 +1,21 @@
 ---
 pageClass: gi-dots
-title: Ressources & Outils
-description: Accédez aux gabarits, case studies, studio créatif et guides techniques pour gérer vos campagnes getinside en autonomie.
+title: Ressources & outils - getinside
+description: Téléchargez nos guides, cas clients, templates et ressources créatives pour optimiser vos campagnes de marketing par le colis et le courrier adressé.
 keywords:
-  - ressources retail media
-  - gabarits impression
-  - case studies getinside
-  - studio créatif
+  - ressources marketing par le colis
+  - case studies
+  - guides marketing
+  - templates
+  - outils créatifs
+  - best practices
+  - getinside resources
+  - e-commerce guides
 ---
 
 # Centre de Ressources
 
-Outils, fichiers, inspirations et guides pour gérer vos opérations en autonomie.
+<p class="gi-page-intro">Accédez aux outils, fichiers, inspirations et guides pour gérer vos opérations en autonomie.</p>
 
 <div class="gi-nav-list">
   <a href="library/" class="gi-nav-card">
@@ -34,14 +38,22 @@ Outils, fichiers, inspirations et guides pour gérer vos opérations en autonomi
     <span class="gi-nav-card-icon">🎨</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Studio Créatif</p>
-      <p class="gi-nav-card-desc">Déléguez la production graphique à nos experts, forfait 550€ HT par campagne.</p>
+      <p class="gi-nav-card-desc">Déléguez la production graphique à nos experts.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="../faq/troubleshooting-distributors" class="gi-nav-card">
+  <a href="../faq/troubleshooting-recruit" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Troubleshooting (Dépannage)</p>
+      <p class="gi-nav-card-title">Résolution de problèmes : Recruter</p>
+      <p class="gi-nav-card-desc">Solutions aux problèmes fréquents : tracking, BAT, QR codes, livraison.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+  <a href="../faq/troubleshooting-monetize" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🛠️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Résolution de problèmes : Monétiser</p>
       <p class="gi-nav-card-desc">Solutions aux problèmes fréquents : Wallet, QR codes, livraison, saisie.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>

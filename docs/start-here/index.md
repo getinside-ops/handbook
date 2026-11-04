@@ -1,66 +1,121 @@
 ---
 pageClass: gi-dots
-title: Découvrir getinside — Plateforme Retail Media
-description: getinside connecte annonceurs et e-commerçants via l'insertion colis, l'email et les réseaux sociaux. 250+ retailers, 300+ annonceurs, 40M de consommateurs accessibles.
+title: Découvrir getinside - Le marketing par le colis et le courrier adressé
+description: getinside est la solution marketing par le colis et le courrier adressé qui délivre des offres et des échantillons jusqu'au domicile des consommateurs. Recruter, fidéliser, monétiser.
 keywords:
-  - retail media
-  - monétisation colis
-  - annonceurs e-commerce
-  - plateforme getinside
-  - sponsored mail
+  - marketing par le colis
+  - courrier adressé
+  - insertion colis
+  - échantillonnage
+  - acquisition client
+  - fidélisation client
+  - monétisation
+  - getinside
 image: /images/gi-keyvisual.svg
 ---
 
-# Bienvenue sur getinside
+# Le marketing qui touche
 
-getinside est une plateforme de **retail media off-site** qui connecte **annonceurs** et **e-commerçants** via leurs actifs communs : colis, emails transactionnels et réseaux sociaux. Le réseau compte aujourd'hui **250+ e-commerçants**, **300+ annonceurs**, **950+ campagnes** opérées et **40 millions de consommateurs** accessibles. Ce handbook couvre les deux côtés de la plateforme. Choisissez votre profil ci-dessous.
+**getinside** est la solution marketing par le colis et le courrier adressé qui délivre des offres et des échantillons jusqu'au domicile des consommateurs, là où les décisions d'achat se prennent. **+500 marques** se développent déjà avec la solution.
 
-## Vous êtes annonceur ?
+---
 
-Vous cherchez à toucher des acheteurs avérés au moment où ils sont les plus réceptifs, pendant l'unboxing, à la lecture d'un email post-achat, ou sur les réseaux sociaux d'un retailer de confiance. Chez getinside, vous n'achetez pas de l'audience : vous accédez à une relation de confiance déjà établie entre un distributeur et ses clients.
+## Pourquoi ?
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>100%</strong>
-    <p>Taux de lecture en insertion colis : contexte d'attention maximum pendant l'unboxing.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>2,87% CTR réseau</strong>
-    <p>CTR moyen du réseau, grâce à l'endorsement du distributeur.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>10–30%</strong>
-    <p>Taux de conversion post-scan, parmi les plus élevés du marché digital.</p>
-  </div>
+Vos canaux digitaux saturent. Vos coûts d'acquisition augmentent. Vos clients ne vous considèrent plus.
+
+Délivrez des campagnes marketing qui touchent les consommateurs, jusqu'à leur domicile, là où les décisions d'achat se prennent.
+
+| Chiffre | Argument |
+| :--- | :--- |
+| **98 %** de délivrabilité | Tout le monde ouvre ses colis, sa boîte aux lettres ou prend en main un échantillon reçu, même ceux qui ne vous considèrent plus. |
+| **100 %** d'attention | Des canaux qui demandent un acte physique génèrent l'attention : on ouvre, on touche, on regarde. |
+| **86 %** des décisions d'achat se prennent au domicile | Le lieu où les offres sont évaluées, discutées, et même testées lorsqu'il s'agit d'un échantillon. |
+
+---
+
+## Trois usages
+
+<div class="gi-format-grid">
+  <a href="/handbook/recruit/" class="gi-format-card">
+    <span class="gi-format-card-icon">🎯</span>
+    <span class="gi-format-card-title">Recruter</span>
+    <p class="gi-format-card-desc">Touchez vos futurs clients à travers les marques qu'ils consomment déjà. Avec un budget média, ou en échange : vous diffusez leurs offres dans vos colis, elles diffusent la vôtre dans les leurs.</p>
+  </a>
+  <a href="/handbook/retain/direct-mail/" class="gi-format-card">
+    <span class="gi-format-card-icon">💌</span>
+    <span class="gi-format-card-title">Fidéliser</span>
+    <p class="gi-format-card-desc">Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails, et transformez chaque colis que vous livrez en levier de rachat immédiat.</p>
+  </a>
+  <a href="/handbook/monetize/" class="gi-format-card">
+    <span class="gi-format-card-icon">📦</span>
+    <span class="gi-format-card-title">Monétiser</span>
+    <p class="gi-format-card-desc">Délivrez des campagnes de partenaires qui enrichissent l'expérience d'achat de vos clients, et générez des revenus pour financer votre acquisition.</p>
+  </a>
 </div>
 
-Vos campagnes bénéficient de l'endorsement du retailer : vous n'êtes pas un intrus dans un flux publicitaire, vous êtes un partenaire recommandé à une audience qui fait confiance à l'enseigne qui vous distribue. Le matching contextuel, votre offre associée à l'univers produit du retailer, amplifie encore la pertinence.
+::: tip L'échange n'est pas un quatrième usage
+C'est une manière de recruter sans achat média : vous exposez votre audience de clients à des marques affinitaires et accédez en retour à la leur. Chaque marque garde ses clients, tout en recrutant.
+:::
 
-[Accéder à l'espace Annonceurs →](/advertisers/)
+---
 
-## Vous êtes e-commerçant ?
+## Trois canaux de diffusion
 
-Vos colis partent chaque semaine. Vos emails transactionnels s'ouvrent régulièrement. Ces actifs ont une valeur publicitaire réelle. getinside vous offre la possibilité de la capturer immédiatement, sans intégration technique lourde et avec un contrôle total sur les marques que vous acceptez.
+| Canal | Définition |
+| :--- | :--- |
+| **Insertion colis** | Un support est inséré dans le colis du client ou emporté avec sa commande. |
+| **Courrier adressé** | Un support imprimé adressé nommément au client, dans sa boîte aux lettres. |
+| **Échantillonnage** | Un échantillon offert pour faire tester, sentir ou toucher votre produit. |
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>+2 à +20%</strong>
-    <p>De chiffre d'affaires additionnel généré par vos expéditions et emails existants.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>65–70%</strong>
-    <p>De marge nette sur vos revenus retail media : les actifs logistiques sont déjà en place.</p>
-  </div>
+<div class="gi-format-grid">
+  <a href="/handbook/recruit/sponsored-mail/" class="gi-format-card">
+    <span class="gi-format-card-icon">📦</span>
+    <span class="gi-format-card-title">Insertion colis</span>
+    <p class="gi-format-card-desc">Votre offre dans le colis d'une marque affinitaire.</p>
+  </a>
+  <a href="/handbook/retain/direct-mail/" class="gi-format-card">
+    <span class="gi-format-card-icon">✉️</span>
+    <span class="gi-format-card-title">Courrier adressé</span>
+    <p class="gi-format-card-desc">Un courrier nominatif dans la boîte aux lettres.</p>
+  </a>
+  <a href="/handbook/recruit/sampling/" class="gi-format-card">
+    <span class="gi-format-card-icon">🧴</span>
+    <span class="gi-format-card-title">Échantillonnage</span>
+    <p class="gi-format-card-desc">Faites tester, sentir ou toucher votre produit.</p>
+  </a>
 </div>
 
-Les revenus sont disponibles immédiatement sur votre Wallet. Vous pouvez les réinvestir pour financer vos propres campagnes d'acquisition chez des partenaires complémentaires, à 0% de frais de plateforme sur ce réinvestissement. Vos frais d'expédition financent directement votre propre croissance.
+---
 
-[Accéder à l'espace Retailers →](/publishers/)
+## Une solution tech tout-en-un
 
-## Comment ça fonctionne ?
+Grâce à l'IA, identifiez les audiences à adresser et automatisez vos campagnes d'acquisition et de fidélisation en toute simplicité.
 
-La plateforme repose sur le **matching contextuel** : chaque offre annonceur est associée à un univers produit cohérent avec l'audience du retailer. Le bon message, au bon moment, chez la bonne enseigne.
+- **Ciblage IA & Data :** identifiez et touchez directement vos futurs clients. Activez votre audience et adressez celle des marques qui rassemblent vos futurs clients.
+- **Modélisation d'audiences similaires :** trouvez vos futurs meilleurs clients grâce à une modélisation sur mesure basée sur les caractéristiques et les données transactionnelles de vos clients, croisées aux données propriétaires de la solution.
+- **Automation complète :** lancez, gérez et suivez vos performances sans effort, ou confiez vos campagnes à notre équipe.
 
-Un seul contrat, une facturation centralisée, une gestion RGPD intégrée. getinside prend en charge l'impression, le routage, le tracking et le reporting, de bout en bout.
+---
 
-[Comprendre le modèle →](/start-here/why-it-works)
+## Le contrôle reste à la marque
+
+Chaque marque valide les marques et les offres diffusées auprès de ses clients. Nous mesurons et optimisons la performance de chaque campagne.
+
+::: info Conformité
+**RGPD** fondé sur l'intérêt légitime, avec droit d'opposition mentionné sur chaque envoi. **Loi AGEC** : échantillon remis sur demande préalable du consommateur (art. L541-15-10 du code de l'environnement).
+:::
+
+---
+
+::: info Prêt à démarrer ?
+
+- **Recruter** : [faites diffuser votre campagne chez d'autres marques](/recruit/)
+- **Fidéliser** : [retrouvez vos clients par courrier adressé](/retain/)
+- **Monétiser** : [diffusez les campagnes d'autres marques à vos clients](/monetize/)
+
+Recruter et Monétiser sont les deux sections de la solution getinside. Fidéliser, par courrier adressé, a sa propre section.
+
+[Discuter de mon projet →](https://lp.getinside.fr/meetings/benoit-prentout)
+
+:::

@@ -11,7 +11,7 @@ const SITE = 'https://getinside-ops.github.io/handbook'
 function buildWebPageSchema(pageData: any) {
   const { frontmatter, title, relativePath } = pageData
   const pageTitle = frontmatter.title || title || 'getinside Handbook'
-  const pageDescription = frontmatter.description || 'Guides opérationnels pour retail media'
+  const pageDescription = frontmatter.description || 'Guides opérationnels pour le marketing par le colis et le courrier adressé'
   const relUrl = relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
   const pageUrl = `${SITE}/${relUrl}`
   const pageImage = frontmatter.image || `${SITE}/images/og-image.png`
@@ -66,7 +66,7 @@ function buildWebPageSchema(pageData: any) {
 
 const config: any = defineConfig({
     title: 'getinside Handbook',
-    description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.',
+    description: 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.',
     base: '/handbook/',
     srcDir: 'docs',
     cleanUrls: true,
@@ -82,8 +82,9 @@ const config: any = defineConfig({
         link: '/en/',
         themeConfig: {
           nav: [
-            { text: '🛍️ Advertisers', link: '/en/advertisers/' },
-            { text: '📦 Retailers', link: '/en/publishers/' },
+            { text: '🎯 Recruit', link: '/en/recruit/' },
+            { text: '💌 Retain', link: '/en/retain/' },
+            { text: '📦 Monetize', link: '/en/monetize/' },
             { text: '❓ FAQ', link: '/en/faq/' },
             { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
           ],
@@ -132,7 +133,7 @@ const config: any = defineConfig({
       ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:site_name', content: 'getinside Handbook' }],
       ['meta', { property: 'og:title', content: 'getinside Handbook - Guides & Specs' }],
-      ['meta', { property: 'og:description', content: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes et monétiser vos audiences.' }],
+      ['meta', { property: 'og:description', content: 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.' }],
       ['meta', { property: 'og:locale', content: 'fr_FR' }],
       ['meta', { property: 'og:image', content: 'https://getinside-ops.github.io/handbook/images/og-image.png' }],
       ['meta', { property: 'og:image:width', content: '1200' }],
@@ -163,7 +164,7 @@ const config: any = defineConfig({
       ['meta', { name: 'publisher', content: 'getinside' }],
 
       // LLM-specific
-      ['meta', { name: 'ChatGPT-content', content: 'Retail media platform documentation - comprehensive guides for advertisers and e-commerce retailers' }],
+      ['meta', { name: 'ChatGPT-content', content: 'getinside documentation - parcel and direct mail marketing: guides to recruit, retain and monetize with parcel inserts and direct mail' }],
 
       // WebSite schema statique (SSR) pour que Google affiche le bon nom de site
       ['script', { type: 'application/ld+json' }, JSON.stringify({
@@ -172,7 +173,7 @@ const config: any = defineConfig({
         name: 'getinside Handbook',
         alternateName: 'getinside',
         url: 'https://getinside-ops.github.io/handbook/',
-        description: 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.',
+        description: 'Guides opérationnels pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.',
         publisher: {
           '@type': 'Organization',
           name: 'getinside',
@@ -230,8 +231,9 @@ const config: any = defineConfig({
       },
 
       nav: [
-        { text: '🛍️ Annonceurs', link: '/advertisers/' },
-        { text: '📦 Retailers', link: '/publishers/' },
+        { text: '🎯 Recruter', link: '/recruit/' },
+        { text: '💌 Fidéliser', link: '/retain/' },
+        { text: '📦 Monétiser', link: '/monetize/' },
         { text: '❓ FAQ', link: '/faq/' },
         { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
       ], sidebar: {
@@ -241,111 +243,122 @@ const config: any = defineConfig({
             items: [
               { text: 'Introduction', link: '/start-here/' },
               { text: 'Pourquoi ça marche ?', link: '/start-here/why-it-works' },
-              { text: 'Le retail media off-site', link: '/start-here/off-site-retail-media' },
             ],
           },
           {
-            text: 'Espace Annonceurs',
+            text: 'Recruter',
             collapsed: true,
             items: [
-              { text: 'Vue d\'ensemble', link: '/advertisers/' },
-              { text: 'Démarrage Rapide', link: '/advertisers/onboarding-quick-start' },
-              { text: 'Comparer les formats', link: '/advertisers/compare-formats' },
-              { text: 'Suivi & Mesure', link: '/advertisers/analytics' },
+              { text: 'Vue d\'ensemble', link: '/recruit/' },
+              { text: 'Démarrage Rapide', link: '/recruit/onboarding-quick-start' },
+              { text: 'Comparer les formats', link: '/recruit/compare-formats' },
+              { text: 'Suivi & Mesure', link: '/recruit/analytics' },
               {
-                text: 'Insertion Colis',
+                text: 'Insertion colis',
                 collapsed: true,
                 items: [
-                  { text: 'Présentation', link: '/advertisers/sponsored-mail/' },
+                  { text: 'Présentation', link: '/recruit/sponsored-mail/' },
                   {
                     text: 'Guide de Création',
                     collapsed: true,
                     items: [
-                      { text: 'Guide de Création', link: '/advertisers/sponsored-mail/design-guide/' },
-                      { text: 'Anatomie d\'un flyer performant', link: '/advertisers/sponsored-mail/design-guide/best-practices' },
-                      { text: 'Spécifications techniques', link: '/advertisers/sponsored-mail/design-guide/print-specs' },
-                      { text: 'Mentions légales', link: '/advertisers/sponsored-mail/design-guide/legal' },
+                      { text: 'Introduction', link: '/recruit/sponsored-mail/design-guide/' },
+                      { text: 'Anatomie d\'un flyer performant', link: '/recruit/sponsored-mail/design-guide/best-practices' },
+                      { text: 'Spécifications techniques', link: '/recruit/sponsored-mail/design-guide/print-specs' },
+                      { text: 'Mentions légales', link: '/recruit/sponsored-mail/design-guide/legal' },
                     ],
                   },
                 ],
               },
+              { text: 'Échantillonnage', link: '/recruit/sampling/' },
               {
-                text: 'Emailing Dédié',
+                text: 'Autres formats',
                 collapsed: true,
                 items: [
-                  { text: 'Présentation', link: '/advertisers/dedicated-email/' },
-                  { text: 'Brief Annonceur', link: '/advertisers/dedicated-email/1-brief-annonceur' },
-                  { text: 'Création Distributeur', link: '/advertisers/dedicated-email/2-creation-distributeur' },
-                  { text: 'Liste d\'exclusion', link: '/advertisers/dedicated-email/exclusion-list' },
-                  { text: 'Validation & Diffusion', link: '/advertisers/dedicated-email/3-validation-diffusion' },
+                  {
+                    text: 'Emailing Dédié',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/recruit/dedicated-email/' },
+                      { text: 'Brief', link: '/recruit/dedicated-email/1-brief' },
+                      { text: 'Création', link: '/recruit/dedicated-email/2-creation' },
+                      { text: 'Liste d\'exclusion', link: '/recruit/dedicated-email/exclusion-list' },
+                      { text: 'Validation & Diffusion', link: '/recruit/dedicated-email/3-validation-diffusion' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/recruit/display-email/' },
+                      { text: 'Spécifications', link: '/recruit/display-email/specs' },
+                      { text: 'Workflow', link: '/recruit/display-email/workflow' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/recruit/sponsored-social/' },
+                  { text: 'Bundles', link: '/recruit/bundles' },
                 ],
               },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Présentation', link: '/advertisers/display-email/' },
-                  { text: 'Spécifications', link: '/advertisers/display-email/specs' },
-                  { text: 'Workflow', link: '/advertisers/display-email/workflow' },
-                ],
-              },
-              {
-                text: 'Social Ads',
-                link: '/advertisers/sponsored-social/',
-              },
-              { text: 'Bundles', link: '/advertisers/bundles' },
-              { text: 'Impression & Logistique', link: '/advertisers/printing-services' },
-              { text: 'RSE & Insertion Colis', link: '/advertisers/sustainability' },
-              { text: 'Tarifs Annonceurs', link: '/advertisers/pricing' },
+              { text: 'Service Impression & RSE', link: '/recruit/printing-services' },
             ],
           },
           {
-            text: 'Espace Retailers',
+            text: 'Fidéliser',
             collapsed: true,
             items: [
-              { text: 'Vue d\'ensemble', link: '/publishers/' },
-              { text: 'Démarrage Rapide', link: '/publishers/onboarding-quick-start' },
-              { text: 'Guide de Démarrage Complet', link: '/publishers/onboarding-process' },
+              { text: 'Vue d\'ensemble', link: '/retain/' },
+              { text: 'Courrier adressé', link: '/retain/direct-mail/' },
+            ],
+          },
+          {
+            text: 'Monétiser',
+            collapsed: true,
+            items: [
+              { text: 'Vue d\'ensemble', link: '/monetize/' },
+              { text: 'Démarrage Rapide', link: '/monetize/onboarding-quick-start' },
+              { text: 'Guide de Démarrage Complet', link: '/monetize/onboarding-process' },
               {
-                text: 'Insertion Colis',
+                text: 'Insertion colis',
                 collapsed: true,
                 items: [
-                  { text: 'Présentation', link: '/publishers/sponsored-mail/' },
-                  { text: 'Logistique', link: '/publishers/sponsored-mail/logistics' },
-                  { text: 'Reporting', link: '/publishers/sponsored-mail/reporting' },
+                  { text: 'Présentation', link: '/monetize/sponsored-mail/' },
+                  { text: 'Logistique', link: '/monetize/sponsored-mail/logistics' },
+                  { text: 'Reporting', link: '/monetize/sponsored-mail/reporting' },
                 ],
               },
               {
-                text: 'Emailing Dédié',
+                text: 'Autres formats',
                 collapsed: true,
                 items: [
-                  { text: 'Présentation', link: '/publishers/dedicated-email/' },
-                  { text: 'Design', link: '/publishers/dedicated-email/1-design' },
-                  { text: 'Liste d\'exclusion', link: '/publishers/dedicated-email/exclusion-list' },
-                  { text: 'Tracking & Envoi', link: '/publishers/dedicated-email/2-tracking-sending' },
+                  {
+                    text: 'Emailing Dédié',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/monetize/dedicated-email/' },
+                      { text: 'Design', link: '/monetize/dedicated-email/1-design' },
+                      { text: 'Liste d\'exclusion', link: '/monetize/dedicated-email/exclusion-list' },
+                      { text: 'Tracking & Envoi', link: '/monetize/dedicated-email/2-tracking-sending' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Présentation', link: '/monetize/display-email/' },
+                      { text: 'Intégration', link: '/monetize/display-email/integration' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/monetize/sponsored-social/' },
+                  { text: 'Bundles', link: '/monetize/bundles' },
                 ],
               },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Présentation', link: '/publishers/display-email/' },
-                  { text: 'Intégration', link: '/publishers/display-email/integration' },
-                ],
-              },
-              {
-                text: 'Social Ads',
-                link: '/publishers/sponsored-social/',
-              },
-              { text: 'Bundles', link: '/publishers/bundles' },
               {
                 text: 'Gestion & Revenus',
                 collapsed: true,
                 items: [
-                  { text: 'Score Distributeur', link: '/publishers/score-distributor' },
-                  { text: 'Audiences & Données', link: '/publishers/audience-setup' },
-                  { text: 'Paiements & Wallet', link: '/publishers/payouts' },
-                  { text: "Programme d'Affiliation", link: '/publishers/affiliation' },
+                  { text: 'Audiences & Données', link: '/monetize/audience-setup' },
+                  { text: 'Paiements & Wallet', link: '/monetize/payouts' },
+                  { text: "Programme d'Affiliation", link: '/monetize/affiliation' },
                 ],
               },
             ],
@@ -355,8 +368,8 @@ const config: any = defineConfig({
             collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/faq/' },
-              { text: 'Problèmes Distributeurs', link: '/faq/troubleshooting-distributors' },
-              { text: 'Problèmes Annonceurs', link: '/faq/troubleshooting-advertisers' },
+              { text: 'Résolution de problèmes : Recruter', link: '/faq/troubleshooting-recruit' },
+              { text: 'Résolution de problèmes : Monétiser', link: '/faq/troubleshooting-monetize' },
               { text: 'Audiences & Compte', link: '/faq/account-audiences' },
               { text: 'Facturation', link: '/faq/billing' },
               { text: 'Gestion de Campagnes', link: '/faq/campaign-management' },
@@ -381,105 +394,122 @@ const config: any = defineConfig({
             items: [
               { text: 'Introduction', link: '/en/start-here/' },
               { text: 'Why It Works', link: '/en/start-here/why-it-works' },
-              { text: 'Off-site retail media', link: '/en/start-here/off-site-retail-media' },
             ],
           },
           {
-            text: 'Advertisers',
+            text: 'Recruit',
             collapsed: true,
             items: [
-              { text: 'Overview', link: '/en/advertisers/' },
-              { text: 'Quick Start', link: '/en/advertisers/onboarding-quick-start' },
-              { text: 'Compare Formats', link: '/en/advertisers/compare-formats' },
-              { text: 'Analytics & Tracking', link: '/en/advertisers/analytics' },
+              { text: 'Overview', link: '/en/recruit/' },
+              { text: 'Quick Start', link: '/en/recruit/onboarding-quick-start' },
+              { text: 'Compare Formats', link: '/en/recruit/compare-formats' },
+              { text: 'Analytics & Tracking', link: '/en/recruit/analytics' },
               {
                 text: 'Parcel Inserts',
                 collapsed: true,
                 items: [
-                  { text: 'Presentation', link: '/en/advertisers/sponsored-mail/' },
+                  { text: 'Overview', link: '/en/recruit/sponsored-mail/' },
                   {
                     text: 'Design Guide',
                     collapsed: true,
                     items: [
-                      { text: 'Introduction', link: '/en/advertisers/sponsored-mail/design-guide/' },
-                      { text: 'Anatomy of a High-Performing Flyer', link: '/en/advertisers/sponsored-mail/design-guide/best-practices' },
-                      { text: 'Print Specs', link: '/en/advertisers/sponsored-mail/design-guide/print-specs' },
-                      { text: 'Legal', link: '/en/advertisers/sponsored-mail/design-guide/legal' },
+                      { text: 'Introduction', link: '/en/recruit/sponsored-mail/design-guide/' },
+                      { text: 'Anatomy of a High-Performing Flyer', link: '/en/recruit/sponsored-mail/design-guide/best-practices' },
+                      { text: 'Print Specs', link: '/en/recruit/sponsored-mail/design-guide/print-specs' },
+                      { text: 'Legal', link: '/en/recruit/sponsored-mail/design-guide/legal' },
                     ],
                   },
                 ],
               },
+              { text: 'Sampling', link: '/en/recruit/sampling/' },
               {
-                text: 'Dedicated Email',
+                text: 'Other Formats',
                 collapsed: true,
                 items: [
-                  { text: 'Overview', link: '/en/advertisers/dedicated-email/' },
-                  { text: 'Advertiser Brief', link: '/en/advertisers/dedicated-email/1-brief-annonceur' },
-                  { text: 'Retailer Creation', link: '/en/advertisers/dedicated-email/2-creation-distributeur' },
-                  { text: 'Exclusion List', link: '/en/advertisers/dedicated-email/exclusion-list' },
-                  { text: 'Validation & Delivery', link: '/en/advertisers/dedicated-email/3-validation-diffusion' },
+                  {
+                    text: 'Dedicated Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Overview', link: '/en/recruit/dedicated-email/' },
+                      { text: 'Brief', link: '/en/recruit/dedicated-email/1-brief' },
+                      { text: 'Creation', link: '/en/recruit/dedicated-email/2-creation' },
+                      { text: 'Exclusion List', link: '/en/recruit/dedicated-email/exclusion-list' },
+                      { text: 'Validation & Delivery', link: '/en/recruit/dedicated-email/3-validation-diffusion' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Overview', link: '/en/recruit/display-email/' },
+                      { text: 'Specs', link: '/en/recruit/display-email/specs' },
+                      { text: 'Workflow', link: '/en/recruit/display-email/workflow' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/en/recruit/sponsored-social/' },
+                  { text: 'Bundles', link: '/en/recruit/bundles' },
                 ],
               },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Overview', link: '/en/advertisers/display-email/' },
-                  { text: 'Specs', link: '/en/advertisers/display-email/specs' },
-                  { text: 'Workflow', link: '/en/advertisers/display-email/workflow' },
-                ],
-              },
-              { text: 'Social Ads', link: '/en/advertisers/sponsored-social/' },
-              { text: 'Bundles', link: '/en/advertisers/bundles' },
-              { text: 'Printing & Logistics', link: '/en/advertisers/printing-services' },
-              { text: 'CSR & Parcel Inserts', link: '/en/advertisers/sustainability' },
-              { text: 'Advertiser Pricing', link: '/en/advertisers/pricing' },
+              { text: 'Printing & CSR Services', link: '/en/recruit/printing-services' },
             ],
           },
           {
-            text: 'Retailers',
+            text: 'Retain',
             collapsed: true,
             items: [
-              { text: 'Overview', link: '/en/publishers/' },
-              { text: 'Quick Start', link: '/en/publishers/onboarding-quick-start' },
-              { text: 'Full Onboarding Guide', link: '/en/publishers/onboarding-process' },
+              { text: 'Overview', link: '/en/retain/' },
+              { text: 'Direct Mail', link: '/en/retain/direct-mail/' },
+            ],
+          },
+          {
+            text: 'Monetize',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/en/monetize/' },
+              { text: 'Quick Start', link: '/en/monetize/onboarding-quick-start' },
+              { text: 'Full Onboarding Guide', link: '/en/monetize/onboarding-process' },
               {
                 text: 'Parcel Inserts',
                 collapsed: true,
                 items: [
-                  { text: 'Overview', link: '/en/publishers/sponsored-mail/' },
-                  { text: 'Logistics', link: '/en/publishers/sponsored-mail/logistics' },
-                  { text: 'Reporting', link: '/en/publishers/sponsored-mail/reporting' },
+                  { text: 'Overview', link: '/en/monetize/sponsored-mail/' },
+                  { text: 'Logistics', link: '/en/monetize/sponsored-mail/logistics' },
+                  { text: 'Reporting', link: '/en/monetize/sponsored-mail/reporting' },
                 ],
               },
               {
-                text: 'Dedicated Email',
+                text: 'Other Formats',
                 collapsed: true,
                 items: [
-                  { text: 'Overview', link: '/en/publishers/dedicated-email/' },
-                  { text: 'Design', link: '/en/publishers/dedicated-email/1-design' },
-                  { text: 'Exclusion list', link: '/en/publishers/dedicated-email/exclusion-list' },
-                  { text: 'Tracking & Sending', link: '/en/publishers/dedicated-email/2-tracking-sending' },
+                  {
+                    text: 'Dedicated Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Overview', link: '/en/monetize/dedicated-email/' },
+                      { text: 'Design', link: '/en/monetize/dedicated-email/1-design' },
+                      { text: 'Exclusion List', link: '/en/monetize/dedicated-email/exclusion-list' },
+                      { text: 'Tracking & Sending', link: '/en/monetize/dedicated-email/2-tracking-sending' },
+                    ],
+                  },
+                  {
+                    text: 'Display Email',
+                    collapsed: true,
+                    items: [
+                      { text: 'Overview', link: '/en/monetize/display-email/' },
+                      { text: 'Integration', link: '/en/monetize/display-email/integration' },
+                    ],
+                  },
+                  { text: 'Social Ads', link: '/en/monetize/sponsored-social/' },
+                  { text: 'Bundles', link: '/en/monetize/bundles' },
                 ],
               },
-              {
-                text: 'Display Email',
-                collapsed: true,
-                items: [
-                  { text: 'Overview', link: '/en/publishers/display-email/' },
-                  { text: 'Integration', link: '/en/publishers/display-email/integration' },
-                ],
-              },
-              { text: 'Social Ads', link: '/en/publishers/sponsored-social/' },
-              { text: 'Bundles', link: '/en/publishers/bundles' },
               {
                 text: 'Management & Revenue',
                 collapsed: true,
                 items: [
-                  { text: 'Retailer Score', link: '/en/publishers/score-distributor' },
-                  { text: 'Audiences & Data', link: '/en/publishers/audience-setup' },
-                  { text: 'Payments & Wallet', link: '/en/publishers/payouts' },
-                  { text: 'Affiliation Program', link: '/en/publishers/affiliation' },
+                  { text: 'Audiences & Data', link: '/en/monetize/audience-setup' },
+                  { text: 'Payments & Wallet', link: '/en/monetize/payouts' },
+                  { text: 'Affiliation Program', link: '/en/monetize/affiliation' },
                 ],
               },
             ],
@@ -489,8 +519,8 @@ const config: any = defineConfig({
             collapsed: true,
             items: [
               { text: 'Overview', link: '/en/faq/' },
-              { text: 'Retailer Issues', link: '/en/faq/troubleshooting-distributors' },
-              { text: 'Advertiser Issues', link: '/en/faq/troubleshooting-advertisers' },
+              { text: 'Troubleshooting: Recruit', link: '/en/faq/troubleshooting-recruit' },
+              { text: 'Troubleshooting: Monetize', link: '/en/faq/troubleshooting-monetize' },
               { text: 'Audiences & Account', link: '/en/faq/account-audiences' },
               { text: 'Billing', link: '/en/faq/billing' },
               { text: 'Campaign Management', link: '/en/faq/campaign-management' },
@@ -524,7 +554,7 @@ const config: any = defineConfig({
     async transformHead({ pageData }) {
       const { frontmatter, title, relativePath } = pageData
       const pageTitle = frontmatter.title || title || 'getinside Handbook'
-      const pageDescription = frontmatter.description || 'Guides opérationnels, spécifications techniques et processus pour piloter vos campagnes retail media et monétiser vos audiences.'
+      const pageDescription = frontmatter.description || 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.'
       const pageImage = frontmatter.image || 'https://getinside-ops.github.io/handbook/images/og-image.png'
       const relUrl = relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
       const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`

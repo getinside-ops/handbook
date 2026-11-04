@@ -1,48 +1,69 @@
 ---
 pageClass: gi-dots
-title: FAQ — Questions fréquentes
-description: Réponses aux questions fréquentes sur la gestion des campagnes, la facturation, la logistique et les intégrations techniques.
+title: FAQ - getinside
+description: "Réponses aux questions fréquentes sur getinside : logistique, tracking, campagnes, audiences, Wallet et intégration technique."
 keywords:
-  - FAQ retail media
-  - questions fréquentes
-  - support getinside
-  - facturation
+  - FAQ getinside
+  - getinside support
+  - tracking
   - logistique
+  - wallet
+  - intégration API
+  - troubleshooting
+  - audience management
 ---
 
-# FAQ : Questions fréquentes
+# Foire Aux Questions
 
-Trouvez rapidement des réponses par thématique.
+<p class="gi-page-intro">Trouvez rapidement des réponses sur la gestion de votre compte, vos campagnes et la facturation.</p>
 
-<div class="gi-format-grid">
-  <a href="troubleshooting-distributors" class="gi-format-card">
-    <span class="gi-format-card-icon">🔧</span>
-    <span class="gi-format-card-title">Résolution de problèmes : Distributeurs</span>
-    <p class="gi-format-card-desc">Wallet, paiements, campagnes, pénalités : solutions aux cas fréquents.</p>
+<div class="gi-nav-list">
+  <a href="troubleshooting-recruit" class="gi-nav-card">
+    <span class="gi-nav-card-icon">💼</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Résolution de problèmes : Recruter</p>
+      <p class="gi-nav-card-desc">Campagne non diffusée, créatif refusé, BAT, tracking : solutions rapides.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="troubleshooting-advertisers" class="gi-format-card">
-    <span class="gi-format-card-icon">💼</span>
-    <span class="gi-format-card-title">Résolution de problèmes : Annonceurs</span>
-    <p class="gi-format-card-desc">Campagne non diffusée, créatif refusé, BAT, tracking : solutions rapides.</p>
+  <a href="troubleshooting-monetize" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🔧</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Résolution de problèmes : Monétiser</p>
+      <p class="gi-nav-card-desc">Wallet, paiements, campagnes : solutions aux cas fréquents.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="account-audiences" class="gi-format-card">
-    <span class="gi-format-card-icon">⚙️</span>
-    <span class="gi-format-card-title">Compte & Audiences</span>
-    <p class="gi-format-card-desc">Gestion des utilisateurs, création d'audiences, affiliation et catalogue.</p>
+  <a href="account-audiences" class="gi-nav-card">
+    <span class="gi-nav-card-icon">⚙️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Compte & Audiences</p>
+      <p class="gi-nav-card-desc">Gestion des utilisateurs, création d'audiences, affiliation et catalogue.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="campaign-management" class="gi-format-card">
-    <span class="gi-format-card-icon">⚡</span>
-    <span class="gi-format-card-title">Gestion des campagnes</span>
-    <p class="gi-format-card-desc">Validation, annulation, retards et suivi opérationnel.</p>
+  <a href="campaign-management" class="gi-nav-card">
+    <span class="gi-nav-card-icon">⚡</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Gestion des Campagnes</p>
+      <p class="gi-nav-card-desc">Validation, annulation, retards et suivi opérationnel.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="billing" class="gi-format-card">
-    <span class="gi-format-card-icon">💰</span>
-    <span class="gi-format-card-title">Facturation & Paiements</span>
-    <p class="gi-format-card-desc">Édition de factures, retraits et délais de paiement.</p>
+  <a href="billing" class="gi-nav-card">
+    <span class="gi-nav-card-icon">💰</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Facturation & Paiements</p>
+      <p class="gi-nav-card-desc">Édition de factures, retraits et délais de paiement.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="logistics-tech" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Logistique & Technique</span>
-    <p class="gi-format-card-desc">Livraisons, impression RSE, tracking et RGPD.</p>
+  <a href="logistics-tech" class="gi-nav-card">
+    <span class="gi-nav-card-icon">📦</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Logistique & Technique</p>
+      <p class="gi-nav-card-desc">Livraisons, impression RSE, tracking et RGPD.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
   </a>
 </div>

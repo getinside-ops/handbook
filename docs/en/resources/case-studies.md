@@ -1,24 +1,101 @@
 ---
 title: Inspirations & Case Studies
-description: getinside campaign examples with measured results — Sponsored Mail, Dedicated Email and Parcel Insert for brands including Nocibé, HelloFresh, Avène and Total Wash.
+description: Discover how other brands use getinside to recruit, retain and monetise their customers, with figures from real case studies.
 keywords:
-  - retail media case study
-  - parcel insert campaign examples
-  - sponsored mail campaign results
-  - getinside success stories
+  - getinside case studies
+  - inspirations
+  - parcel marketing
+  - direct mail
+  - customer acquisition
+  - customer retention
 ---
 
 # Inspirations & Case Studies
 
-Campaign examples run on the getinside network with their measured results.
+Discover how other brands use getinside to achieve their acquisition and monetization goals.
 
 <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create my campaign</a>
 
 ---
 
-## Best Sponsored Mail Campaigns
+## 🎯 Results by use case
 
-Top Sponsored Mail campaigns selected by our teams.
+### Recruit
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Parcel · Auto-Moto, Family Kids & Baby</strong>
+    <p>12% conversion rate · 1,053 new customers · CAC €3.5.</p>
+    <p><em>"Audience activation is an excellent lever to reach segments that were untapped until now."</em> Marina Lépine, Marketing Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Parcel · Gifts and events</strong>
+    <p>3.12% conversion rate · 5,766 new customers · CAC €4.5, online and in store.</p>
+    <p><em>"An omnichannel campaign that managed to reconcile online and offline."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Parcel · Food and beverages</strong>
+    <p>Awareness and recruitment: 27,000 people reached.</p>
+    <p><em>"A smart campaign."</em> Marie Rassat, Senior Marketing & Communication Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Parcel · Food</strong>
+    <p>2.5% conversion rate · 768 new customers · CAC €10.</p>
+    <p><em>"A high-impact campaign that puts the brand in front of a target with strong affinities with Japhy's audience."</em> Lucie Prevot, Influence Partnership Manager</p>
+  </div>
+</div>
+
+### Sample
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Sample · Beauty, Health & Wellness</strong>
+    <p>30,000 samples distributed · 65,000 contacts reached.</p>
+    <p><em>"A turnkey campaign for our product activation."</em> Sophie Bouyssie, E-commerce Activation Manager</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Sample · Food</strong>
+    <p>30,000 samples and flyers distributed · 80,000 contacts reached.</p>
+    <p><em>"A real product discovery experience at a key moment of the customer journey, which encourages purchase through a promotional offer."</em></p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Sample · Sports and outdoor activities</strong>
+    <p>13,000 samples and flyers distributed · 50,000 contacts reached, at an affinity event.</p>
+    <p><em>"Speaking as close as possible to our target, at the heart of a unifying event."</em> Charlotte Desrumaux, Marketing manager</p>
+  </div>
+</div>
+
+### Retain
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Direct mail · Reactivation</strong>
+    <p>Reactivation of former customers with a dedicated offer: 6% conversion rate.</p>
+  </div>
+</div>
+
+### Monetise
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>Self-funded media budget</strong>
+    <p>90% of revenue reinvested in acquisition campaigns · €60K+ revenue generated in under a year.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>New recurring revenue source</strong>
+    <p>€200K+ revenue generated in one year · 30+ campaigns delivered per year.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Maximised value per campaign</strong>
+    <p>+375% average basket per campaign · €50K+ revenue generated since integration.</p>
+  </div>
+</div>
+
+---
+
+## Best Parcel Insert Campaigns
+
+Top parcel insert campaigns selected by our teams.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -35,7 +112,7 @@ Top Sponsored Mail campaigns selected by our teams.
 
 ## Bundles & Media Kits
 
-Browse a selection of Bundles offered by our retailers.
+Browse a selection of bundles offered by brands that deliver campaigns to their customers.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -50,7 +127,7 @@ Browse a selection of Bundles offered by our retailers.
 
 ---
 
-## Dedicated Email: Live Examples
+## 📧 Dedicated Email: Live Examples
 
 Click the buttons to see the actual rendering in the browser.
 
@@ -58,45 +135,44 @@ Click the buttons to see the actual rendering in the browser.
   <div class="gi-format-card">
     <span class="gi-format-card-icon">💛</span>
     <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
-    <span class="gi-format-card-desc">Charity campaign broadcast by Mieux que des Fleurs for Les Pièces Jaunes.</span>
-    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">View render</a>
+    <span class="gi-format-card-desc">Charity campaign delivered by Mieux que des Fleurs for Les Pièces Jaunes.</span>
+    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐾</span>
     <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
-    <span class="gi-format-card-desc">Premium petfood campaign broadcast by La Redoute.</span>
-    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">View render</a>
+    <span class="gi-format-card-desc">Premium petfood campaign delivered by La Redoute.</span>
+    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🐱</span>
     <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
-    <span class="gi-format-card-desc">Children's fashion campaign broadcast by Caats to a Parents / Family audience.</span>
-    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">View render</a>
+    <span class="gi-format-card-desc">Children's fashion campaign delivered by Caats to a Parents / Family audience.</span>
+    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
   <div class="gi-format-card">
     <span class="gi-format-card-icon">🥦</span>
     <span class="gi-format-card-title">Yooji x HelloFresh</span>
-    <span class="gi-format-card-desc">Baby food campaign broadcast by HelloFresh targeting Young Parents.</span>
-    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">View render</a>
+    <span class="gi-format-card-desc">Baby food campaign delivered by HelloFresh targeting Young Parents.</span>
+    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
   </div>
 </div>
-
 ---
 
-## Parcel Insert & Customer Success
+## 📦 Parcel Inserts & Customer Success
 
 Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-avene.webp')" alt="Avène Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-avene.webp" alt="Avène Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>AVÈNE</h2>
       <Badge type="tip" text="Awareness" />
     </div>
-    <p>Develop brand awareness and generate traffic.</p>
+    <p>Develop awareness and generate traffic.</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Format</strong><span>Parcel Insert (Sampling)</span></div>
@@ -104,13 +180,13 @@ Click on the images to zoom.
       <div><strong>Volume</strong><span>30,000 ex.</span></div>
       <div><strong>Interaction</strong><span class="text-green-200 fw-700">5.40%</span></div>
     </div>
-    <div class="gi-case-quote">"Outsourced campaign operations and a fully managed, turnkey campaign."</div>
+    <div class="gi-case-quote">"Outsourced campaign operations and a turnkey campaign."</div>
   </div>
 </div>
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-nocibe.webp')" alt="Nocibé Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-nocibe.webp" alt="Nocibé Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -131,7 +207,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-hellofresh.webp')" alt="HelloFresh Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-hellofresh.webp" alt="HelloFresh Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -146,20 +222,20 @@ Click on the images to zoom.
       <div><strong>Offer</strong><span>Gift Card</span></div>
       <div><strong>Conversion</strong><span>1% avg CVR</span></div>
     </div>
-    <div class="gi-case-quote">"A strategy allowing us to test all audiences and build a performance history."</div>
+    <div class="gi-case-quote">"A strategy allowing us to test all audiences and build a history."</div>
   </div>
 </div>
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-bam.webp')" alt="Bam Karaoke Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-bam.webp" alt="Bam Karaoke Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>BAM KARAOKE</h2>
       <Badge type="info" text="Awareness" />
     </div>
-    <p>Develop awareness and introduce its B2B/B2C offering.</p>
+    <p>Develop awareness and introduce its B2B/B2C offer.</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Audience</strong><span>Food (Frichti)</span></div>
@@ -173,14 +249,14 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-upd.webp')" alt="Ultra Premium Direct Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-upd.webp" alt="Ultra Premium Direct Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>ULTRA PREMIUM</h2>
       <Badge type="warning" text="Conquest" />
     </div>
-    <p>Conquest strategy targeting Families & Higher Income.</p>
+    <p>Conquest strategy targeted at Families & High Income.</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Audience</strong><span>Health & Wellness</span></div>
@@ -188,13 +264,13 @@ Click on the images to zoom.
       <div><strong>Offer</strong><span>Gift Card</span></div>
       <div><strong>Interactions</strong><span class="text-green-200 fw-700">3.48%</span></div>
     </div>
-    <div class="gi-case-quote">"A logical range addition and a highly relevant recommendation."</div>
+    <div class="gi-case-quote">"A logical range addition and a relevant recommendation."</div>
   </div>
 </div>
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-wash.webp')" alt="Total Wash Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-wash.webp" alt="Total Wash Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -215,14 +291,14 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-nespresso.webp')" alt="Nespresso Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-nespresso.webp" alt="Nespresso Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
       <h2>NESPRESSO</h2>
       <Badge type="info" text="Trade Marketing" />
     </div>
-    <p>Develop collaboration with distributors (Boulanger).</p>
+    <p>Develop collaboration with partner chains (Boulanger).</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Partner</strong><span>Boulanger</span></div>
@@ -236,7 +312,7 @@ Click on the images to zoom.
 
 <div class="gi-case-card">
   <div class="gi-case-img">
-    <img :src="withBase('/images/case-studies/case-japhy.webp')" alt="Japhy Campaign" onclick="openLightbox(this.src)" loading="lazy">
+    <img src="/images/case-studies/case-japhy.webp" alt="Japhy Campaign" onclick="openLightbox(this.src)" loading="lazy">
   </div>
   <div class="gi-case-body">
     <div class="gi-case-header">
@@ -251,33 +327,9 @@ Click on the images to zoom.
       <div><strong>Volume</strong><span>200,000 contacts</span></div>
       <div><strong>Interaction</strong><span class="text-green-200 fw-700">1.90%</span></div>
     </div>
-    <div class="gi-case-quote">"An effective campaign that builds brand awareness and benefits from The Bradery's image at a very accessible CPM."</div>
+    <div class="gi-case-quote">"An effective campaign that builds brand awareness and benefits from The Bradery's image for a very accessible CPM."</div>
   </div>
 </div>
-
----
-
-## Network Key Figures
-
-| Indicator | Result |
-|---|---|
-| Average network CTR | 2.87% |
-| Record CTR | 12%, Total Wash (Drive to App, Auto-Moto targeting) |
-| Record ROI | 16:1, Nocibé (omnichannel Drive-to-Store campaign) |
-| Record ROAS | 824%, Blacksheep (Parcel Insert) |
-
----
-
-## Testimonials
-
-> "We are diversifying our customer acquisition with the addition of this lever that does not suffer from fierce competition."
-> **Japhy**
-
-> "A relevant lever with the ability to target HelloFresh's audience (food, home delivery)."
-> **Pepette**
-
-> "2.67% scan rate and a ROAS of 824%."
-> **Blacksheep**
 
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>
@@ -286,7 +338,6 @@ Click on the images to zoom.
 
 <script setup>
 import { onMounted } from 'vue'
-import { withBase } from 'vitepress'
 onMounted(() => {
   window.openLightbox = function(src) {
     var lightbox = document.getElementById('lightbox')

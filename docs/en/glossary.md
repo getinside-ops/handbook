@@ -1,16 +1,23 @@
 ---
-title: Retail Media Glossary
-description: Definitions of technical terms and acronyms used on the getinside platform and in the retail media ecosystem.
+title: Glossary
+description: "Definitions of getinside terms and acronyms: brand, recruit, retain, monetize, audience exchange, Wallet, parcel inserts, direct mail, print proof, CPA, CPM and attribution."
 keywords:
-  - retail media glossary
-  - getinside platform terms
-  - advertising acronyms
-  - e-commerce definitions
+  - getinside glossary
+  - brand
+  - recruit
+  - retain
+  - monetize
+  - audience exchange
+  - parcel inserts
+  - direct mail
+  - Wallet
+  - attribution
+  - print proof
 ---
 
-# Retail Media Glossary
+# Glossary
 
-Definitions of technical terms and acronyms used on the platform.
+Definitions of technical terms and acronyms of the platform.
 
 <div class="gi-alpha-nav">
   <a href="#a">A</a>
@@ -20,6 +27,8 @@ Definitions of technical terms and acronyms used on the platform.
   <a href="#e">E</a>
   <a href="#f">F</a>
   <a href="#l">L</a>
+  <a href="#m">M</a>
+  <a href="#n">N</a>
   <a href="#o">O</a>
   <a href="#p">P</a>
   <a href="#q">Q</a>
@@ -28,189 +37,157 @@ Definitions of technical terms and acronyms used on the platform.
   <a href="#t">T</a>
   <a href="#u">U</a>
   <a href="#w">W</a>
-  <a href="#z">Z</a>
 </div>
-
 <h2 id="a">A</h2>
 <dl>
-  <dt>Advertiser (Annonceur)</dt>
-  <dd>Brand that purchases advertising space to promote its products or services to retailer audiences.</dd>
-  <dt>Partner Advertiser (Annonceur Partenaire)</dt>
-  <dd>Advertiser with whom a distributor collaborates directly via the platform, with no platform fees on the Platform offer.</dd>
-  <dt>Prospect Advertiser (Annonceur Prospect)</dt>
-  <dd>Commercial target identified or imported by the distributor to manage their new-advertiser acquisition pipeline via the integrated CRM.</dd>
-  <dt>Closed-loop attribution (Attribution en boucle fermée)</dt>
-  <dd>Measurement method that ties an ad exposure to a verified purchase using the distributor's first-party data. At getinside, the loop closes through the QR code scan and the unique-per-distributor promo code, which link the sale back to the campaign with no third-party cookies. See <a href="/en/advertisers/analytics">Tracking &amp; Measurement</a>.</dd>
-  <dt>Lookalike Audience (1st Party LAL)</dt>
-  <dd>Targeting aimed at profiles with similar characteristics (purchase behaviour, demographics) to the distributor's actual buyers, built from their sales data.</dd>
-  <dt>Parcel Insert (Insertion Colis / Sponsored Mail)</dt>
-  <dd>Format consisting of inserting an advertising offer (flyer, card, sample) inside the shipping parcel of a partner e-merchant.</dd>
+  <dt>Audience exchange</dt>
+  <dd>Agreement between two brands: each carries the other's offer in its parcels, with no media spend, and keeps its own customers.</dd>
 </dl>
-
 <hr />
-
 <h2 id="b">B</h2>
 <dl>
-  <dt>BAT (Bon à Tirer) / Proof</dt>
-  <dd>Final validation of the digital mock-up before production or broadcast is launched: no modifications are possible after validation.</dd>
+  <dt>BAT (Bon à Tirer) / Print Proof</dt>
+  <dd>Final validation of the mockup before launching production or delivery. Once validated, no modification is possible.</dd>
+  <dt>Bleed (Fond Perdu)</dt>
+  <dd>Printed area exceeding the final format (2-3 mm) to avoid white borders when cutting.</dd>
+  <dt>Brand</dt>
+  <dd>Company that uses getinside. A single brand can recruit (have its campaign delivered by other brands), retain (direct mail, an offer in its own parcels) and monetize (deliver other brands' campaigns to its customers).</dd>
   <dt>Brief</dt>
-  <dd>Document completed by the advertiser detailing their objectives and providing the graphic elements needed to create the campaign.</dd>
+  <dd>Document filled out by the brand having its campaign delivered, detailing its objectives and providing the graphic elements necessary for the campaign.</dd>
 </dl>
-
 <hr />
-
 <h2 id="c">C</h2>
 <dl>
   <dt>Capping</dt>
-  <dd>Volume limit imposed on a campaign, for example to restrict distribution to a maximum of one flyer per parcel.</dd>
+  <dd>Volume limit imposed on a campaign (e.g. limit to 1 flyer per parcel maximum).</dd>
+  <dt>Closed-loop attribution</dt>
+  <dd>Measurement method that links an exposure to a verified purchase using the brand's first-party data. At getinside, the loop closes through the QR code scan and the unique promo code, without third-party cookies. See <a href="/handbook/en/recruit/analytics">Tracking &amp; Measurement</a>.</dd>
   <dt>Co-branding</dt>
-  <dd>Association of the advertiser's and distributor's brands in a single communication to strengthen impact through endorsement.</dd>
-  <dt>Commerce Media</dt>
-  <dd>Umbrella term for all advertising activated by purchase data, of which retail media is a part.</dd>
+  <dd>Association of two brands (the brand having its campaign delivered and the brand delivering it) in the same communication to strengthen the impact.</dd>
   <dt>CPA (Cost Per Acquisition)</dt>
-  <dd>Average cost spent to generate a sale or qualified lead.</dd>
+  <dd>Average cost spent to generate a sale or a lead.</dd>
   <dt>CPM (Cost Per Mille)</dt>
-  <dd>Standard unit of measurement: a CPM of €15 means the advertiser pays €15 for 1,000 impressions (parcels sent or emails received).</dd>
-  <dt>CTR (Click-Through Rate / Scan Rate)</dt>
-  <dd>Percentage of recipients who interacted with the campaign (email click or QR code scan). 2026 network average: 2.87%.</dd>
+  <dd>Standard unit of measurement: the cost of buying 1,000 impressions (parcels shipped or emails received).</dd>
+  <dt>CTR (Click-Through Rate / Scan rate)</dt>
+  <dd>Percentage of recipients who interacted with the campaign: an email click or a QR code scan.</dd>
 </dl>
-
 <hr />
-
 <h2 id="d">D</h2>
 <dl>
-  <dt>Distributor / Publisher / Retailer (Distributeur)</dt>
-  <dd>E-merchant or media that monetises its audience by broadcasting third-party advertiser campaigns via the getinside platform.</dd>
-  <dt>Double Tracking</dt>
-  <dd>Redundant measurement system comparing platform statistics with actual sessions recorded via UTM on the advertiser's site, used for emailing and Social Ads.</dd>
+  <dt>Direct mail</dt>
+  <dd>A printed piece addressed to the customer by name, delivered to their mailbox.</dd>
+  <dt>DNVB</dt>
+  <dd>Digital Native Vertical Brand. Brand born on the internet selling directly.</dd>
+  <dt>Double tracking</dt>
+  <dd>Redundant measurement that compares platform statistics with the real sessions recorded through UTM on the brand's website. Used for emailing and social ads.</dd>
+  <dt>Dynamic QR Code</dt>
+  <dd>2D code whose destination URL can be modified remotely after printing. It is generated by getinside in .svg format.</dd>
 </dl>
-
 <hr />
-
 <h2 id="e">E</h2>
 <dl>
-  <dt>Sampling (Échantillonnage)</dt>
-  <dd>Free distribution of a product in a reduced format for direct testing in the consumer's home.</dd>
-  <dt>Eco-design (Eco-conception)</dt>
-  <dd>Approach aimed at reducing the environmental impact of materials, notably the prohibition of plastic lamination to guarantee full recyclability of paper.</dd>
+  <dt>Eco-design</dt>
+  <dd>Approach that reduces the environmental impact of printed materials. Plastic lamination is banned to keep the paper fully recyclable.</dd>
   <dt>Endorsement</dt>
-  <dd>Moral backing provided by the distributor to the advertiser: the fact that the e-merchant "recommends" a brand via a Partnership Ad or a Dedicated Email strengthens recipient trust.</dd>
+  <dd>Guarantee brought by the brand delivering a campaign to the brand it talks about. The fact that it "talks" about that brand strengthens trust.</dd>
   <dt>Exchange (Wallet)</dt>
-  <dd>Feature allowing a distributor to reinvest their earnings into their own acquisition campaigns with 0% management fees.</dd>
-  <dt>Wallet Expiration</dt>
-  <dd>Contractual rule: funds not withdrawn are permanently forfeited after 12 consecutive months of inactivity (no login AND no account activity).</dd>
+  <dd>Feature that lets you reinvest Wallet revenue in your own acquisition campaigns, or withdraw it.</dd>
+  <dt>Expiry of the Wallet</dt>
+  <dd>Contractual rule: funds that are not withdrawn are permanently lost after 12 consecutive months of inactivity (no login and no movement on the account).</dd>
 </dl>
-
 <hr />
-
 <h2 id="f">F</h2>
 <dl>
-  <dt>First Party Data</dt>
-  <dd>Behavioural data collected directly by the distributor. getinside acts as Trusted Third Party and this data never leaves the distributor's secure environment.</dd>
+  <dt>First party data</dt>
+  <dd>Data the brand collects itself from its customers. getinside acts as a trusted third party: this data never leaves the brand's secure environment.</dd>
   <dt>FOGRA39</dt>
-  <dd>Standard colour profile mandatory for offset printing in Europe.</dd>
-  <dt>Annual Forecast</dt>
-  <dd>Annual revenue target set by a distributor for a specific advertiser, tracked via a visual YTD gauge on the platform.</dd>
-  <dt>Full-funnel</dt>
-  <dd>Coverage of the entire purchase journey, from awareness to loyalty. At getinside, combining the four formats and <a href="/en/advertisers/bundles">Bundles</a> lets you address every stage of the funnel.</dd>
+  <dd>Standard colorimetric profile for offset printing in Europe.</dd>
 </dl>
-
 <hr />
-
 <h2 id="l">L</h2>
 <dl>
+  <dt>Lamination</dt>
+  <dd>Matte or glossy plastic layer applied to a paper piece. Banned at getinside to keep flyers recyclable.</dd>
   <dt>Landing Page</dt>
-  <dd>Web page to which the user is redirected after interacting with the offer. Its creation is the advertiser's sole responsibility.</dd>
-  <dt>Lead Time (Ingestion Delay)</dt>
-  <dd>Unavoidable logistical delay between receipt of materials at the warehouse and their actual insertion into parcels.</dd>
+  <dd>Web page to which the user is redirected after interacting with the offer. It is the sole responsibility of the brand having its campaign delivered.</dd>
+  <dt>Lead Time</dt>
+  <dd>Incompressible logistics delay between the receipt of the materials at the warehouse and their actual insertion into parcels.</dd>
+  <dt>Lookalike Audience</dt>
+  <dd>Advertising targeting aimed at profiles with similar characteristics (purchasing behavior, demographics) to an existing customer base.</dd>
 </dl>
-
 <hr />
-
+<h2 id="m">M</h2>
+<dl>
+  <dt>Monetize</dt>
+  <dd>Deliver other brands' campaigns to your customers, in your parcels, to generate revenue that funds your acquisition.</dd>
+</dl>
+<hr />
+<h2 id="n">N</h2>
+<dl>
+  <dt>Network of brands</dt>
+  <dd>A group of trusted brands that deliver partners' campaigns to their customers, each validating the brands and offers shown to its own customers.</dd>
+</dl>
+<hr />
 <h2 id="o">O</h2>
 <dl>
-  <dt>Omnichannel (Omnicanal)</dt>
-  <dd>Approach that coordinates several touchpoints (parcel, email, social media) within a single campaign to support the buyer across the whole journey. See Full-funnel.</dd>
+  <dt>Open Rate</dt>
+  <dd>Percentage of recipients who have opened the email.</dd>
   <dt>Opt-in</dt>
-  <dd>Explicit consent of a user to receive commercial communications, mandatory for Dedicated Email and Display Email.</dd>
+  <dd>Explicit consent of the user to receive commercial communications. Mandatory for dedicated emails and newsletter placements.</dd>
 </dl>
-
 <hr />
-
 <h2 id="p">P</h2>
 <dl>
+  <dt>Parcel inserts (Insertion colis)</dt>
+  <dd>Marketing technique consisting of inserting an advertising offer (flyer, card, sample) inside the shipping parcel of a partner brand.</dd>
   <dt>Partnership Ads</dt>
-  <dd>Meta advertising format allowing an advertiser to sponsor a post published from a distributor's account, with endorsement effect.</dd>
-  <dt>Lamination (Pelliculage)</dt>
-  <dd>Matte or glossy plastic coating applied to a paper material, prohibited at getinside to guarantee full recyclability of flyers.</dd>
+  <dd>Meta ad format that lets you sponsor a post published from a partner brand's account, with an endorsement effect.</dd>
 </dl>
-
 <hr />
-
 <h2 id="q">Q</h2>
 <dl>
-  <dt>Dynamic QR Code</dt>
-  <dd>2D code whose destination URL can be changed remotely after printing, mandatorily generated by getinside in .svg format.</dd>
+  <dt>Quiet Zone (Zone Tranquille)</dt>
+  <dd>Internal safety margin of 3 mm where no important text or logo should be placed.</dd>
 </dl>
-
 <hr />
-
 <h2 id="r">R</h2>
 <dl>
-  <dt>Retail Media</dt>
-  <dd>Set of advertising devices present on the actual purchase journeys of e-merchants (parcels, web, email, social).</dd>
-  <dt>Retail Media Off-site</dt>
-  <dd>Advertising bought through a distributor's data and trust, but delivered outside its own website: in the parcel, the post-purchase email or on social media. This is the getinside model, as opposed to on-site retail media (banners and sponsored products on the retailer's site).</dd>
-  <dt>RMN (Retail Media Network)</dt>
-  <dd>Advertising network operated by a distributor or a network of distributors, selling its inventory and first-party audiences to advertisers.</dd>
+  <dt>Recruit</dt>
+  <dd>Have your campaign delivered by other brands to reach your future customers, with a media budget or through an exchange.</dd>
+  <dt>Retain</dt>
+  <dd>Reach your existing customers through direct mail, especially those who no longer open your emails, and trigger repurchase with an offer in every parcel shipped.</dd>
   <dt>ROAS (Return On Ad Spend)</dt>
   <dd>Revenue generated for every euro spent on advertising.</dd>
+  <dt>ROI</dt>
+  <dd>Return on Investment.</dd>
 </dl>
-
 <hr />
-
 <h2 id="s">S</h2>
 <dl>
-  <dt>Score Distributeur</dt>
-  <dd>Score out of 10 points (displayed as 5 stars) determining an e-merchant's visibility in the marketplace, calculated on 7 performance and reliability criteria.</dd>
+  <dt>Sampling (Echantillonnage)</dt>
+  <dd>A free sample so people can try, smell or touch a product. Provided only at the consumer's prior request (AGEC law).</dd>
   <dt>SLA (Service Level Agreement)</dt>
-  <dd>Responsiveness commitment: distributors commit to responding to any campaign proposal within 48 working hours, under penalty.</dd>
-  <dt>Smart Matching</dt>
-  <dd>Algorithm connecting advertisers and audiences, incorporating the Trust Index (relationship history between parties).</dd>
+  <dd>Responsiveness commitment: a brand delivering a campaign agrees to answer any proposal within 48 business hours.</dd>
   <dt>Spark Ads</dt>
-  <dd>TikTok equivalent of Partnership Ads: format for promoting a distributor's organic content from their account.</dd>
-  <dt>Studio Fee</dt>
-  <dd>Flat rate of 550€ HT for any graphic design service (print, email, social) carried out by the getinside Studio.</dd>
+  <dd>TikTok equivalent of Partnership Ads: promotion of a brand's organic content from its own account.</dd>
 </dl>
-
 <hr />
-
 <h2 id="t">T</h2>
 <dl>
-  <dt>Trust Index</dt>
-  <dd>Score from 1 to 5 measuring the reliability of an advertiser ↔ distributor relationship, calculated from their shared campaign history and used for Package and Emailing offers.</dd>
+  <dt>Tracking Pixel</dt>
+  <dd>Small piece of code (1x1 image) inserted in an email to count opens.</dd>
+  <dt>Triman</dt>
+  <dd>Mandatory logo in France indicating how to sort waste.</dd>
 </dl>
-
 <hr />
-
 <h2 id="u">U</h2>
 <dl>
   <dt>UTM</dt>
-  <dd>Tracking parameters added to URLs to reconcile getinside clicks with sales in the advertiser's analytics tools.</dd>
+  <dd>Parameters added at the end of a URL (e.g. `?utm_source=getinside`) to track the source of the traffic.</dd>
 </dl>
-
 <hr />
-
 <h2 id="w">W</h2>
 <dl>
   <dt>Wallet</dt>
-  <dd>Virtual account where campaign revenues are credited, subject to an expiration rule after 12 months of total inactivity.</dd>
-</dl>
-
-<hr />
-
-<h2 id="z">Z</h2>
-<dl>
-  <dt>Safe Zone (Zone Tranquille)</dt>
-  <dd>Mandatory 3 mm internal safety margin on print files, within which no important text or logo may appear.</dd>
+  <dd>A brand's wallet, credited by the campaigns it delivers. Revenue funds its own campaigns or can be withdrawn.</dd>
 </dl>
