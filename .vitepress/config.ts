@@ -259,7 +259,6 @@ const config: any = withMermaid(
                 text: 'Gestion & Revenus',
                 collapsed: true,
                 items: [
-                  { text: 'Score Distributeur', link: '/monetize/score-distributor' },
                   { text: 'Audiences & Données', link: '/monetize/audience-setup' },
                   { text: 'Paiements & Wallet', link: '/monetize/payouts' },
                   { text: "Programme d'Affiliation", link: '/monetize/affiliation' },
@@ -405,7 +404,6 @@ const config: any = withMermaid(
                 text: 'Management & Revenue',
                 collapsed: true,
                 items: [
-                  { text: 'Distributor Score', link: '/en/monetize/score-distributor' },
                   { text: 'Audiences & Data', link: '/en/monetize/audience-setup' },
                   { text: 'Payments & Wallet', link: '/en/monetize/payouts' },
                   { text: 'Affiliation Program', link: '/en/monetize/affiliation' },

@@ -16,14 +16,13 @@ fi
 
 BANNED='250\+|300\+ annonceurs|300\+ active advertisers|950\+|[Rr]etail [Mm]edia|asile colis|e-commerçants?|[Ee]-retailers?'
 ROLES='annonceur|distributeur|advertiser|distributor|publisher|marques? du réseau|network brands?'
-ROLES_OK='score.distribut|distributor.score|score-distributor|profil distributeur|top distribut|distributor profile'
 for f in "$@"; do
   if grep -nE "$BANNED" "$f"; then
     echo "TERME BANNI dans $f"
     fail=1
   fi
-  # vocabulaire de rôle : une seule marque (exceptions : noms de fonctionnalités et slug score-distributor)
-  if grep -niE "$ROLES" "$f" | grep -viE "$ROLES_OK"; then
+  # vocabulaire de rôle : une seule marque
+  if grep -niE "$ROLES" "$f"; then
     echo "VOCABULAIRE DE ROLE dans $f"
     fail=1
   fi

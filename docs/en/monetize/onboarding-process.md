@@ -45,8 +45,8 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Creating Audiences</h3>
-    <p>In the <strong>Monetization</strong> tab, create your audience profiles: average order value, B2B/B2C typology, persona profile, visuals (logo, banner). A complete profile improves your <strong>Distributor Score</strong> (out of 5 stars) and your visibility on the marketplace.</p>
-    <a href="audience-setup" class="btn btn-outline">Detailed Guide — Audience Profile & Score →</a>
+    <p>In the <strong>Monetization</strong> tab, create your audience profiles: average order value, B2B/B2C typology, persona profile, visuals (logo, banner). A complete and precise profile earns you more relevant campaign proposals.</p>
+    <a href="audience-setup" class="btn btn-outline">Detailed Guide — Audience Profile →</a>
   </div>
 </div>
 

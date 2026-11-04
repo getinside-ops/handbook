@@ -70,12 +70,6 @@ Cette page référence tous les mots-clés stratégiques couverts dans la docume
   - Follower running → Programme nutrition & récupération (social ads)
   - Achat jouets → Vêtements bio enfants (insertion colis)
 
-#### **Score Distributeur**
-- **Système de notation** : 1-5 étoiles basées sur 7 critères
-- **Critères** : Respect délais, qualité tracking, taux erreur, RGPD, réclamations, API integration, réactivité
-- **Impact** : Détermine visibilité dans moteur de recherche getinside + accès campagnes premium
-- **Économie** : Excellente exécution → score élevé → plus d'opportunités → revenus croissants
-
 ### **E-commerce & Growth**
 
 #### **Wallet System**

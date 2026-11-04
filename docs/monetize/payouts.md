@@ -118,4 +118,4 @@ Votre solde ne correspond pas à vos attentes ? Un retrait tarde ?
 
 ---
 
-**Prochaine étape :** Boostez vos revenus avec le [Score Distributeur](/monetize/score-distributor) — plus votre score est élevé, plus vous recevez de campagnes.
+**Prochaine étape :** Soignez votre [fiche audience](/monetize/audience-setup) — plus elle est complète et précise, plus vos propositions de campagnes sont pertinentes.

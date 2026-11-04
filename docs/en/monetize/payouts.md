@@ -118,4 +118,4 @@ Your balance does not match your expectations? A withdrawal is delayed?
 
 ---
 
-**Next step:** Boost your revenue with the [Distributor Score](/en/monetize/score-distributor) — the higher your score, the more campaigns you receive.
+**Next step:** Polish your [audience profile](/en/monetize/audience-setup) — the more complete and precise it is, the more relevant your campaign proposals.

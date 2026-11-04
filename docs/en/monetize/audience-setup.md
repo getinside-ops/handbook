@@ -1,16 +1,15 @@
 ---
-title: Audience & Score
-description: "Set up your audience profile, your showcase to brands that want to reach your audience: identity, persona, demographic data and enabled formats (Parcel inserts, Dedicated Email, Display Email, Social Ads, Contest). Also explains how to manage several sites and how the profile relates to your Distributor Score."
+title: Audience Profile
+description: "Set up your audience profile, your showcase to brands that want to reach your audience: identity, persona, demographic data and enabled formats (Parcel inserts, Dedicated Email, Display Email, Social Ads, Contest). Also explains how to manage several sites from a single account."
 keywords:
   - Audience profile
   - Persona
   - Formats
-  - Distributor Score
   - Multiple audiences
   - Parcel inserts
 ---
 
-# Audience & Score Setup
+# Audience Profile Setup
 
 Your audience profile is your showcase to brands that want to reach your audience. The more precise it is, the more relevant proposals you will receive.
 
@@ -70,20 +69,6 @@ Best practices for a multi-audience catalog:
 
 **International:** getinside operates throughout Europe. Add your European audiences to receive campaigns targeted by country.
 
-## 5. Your Distributor Score
-
-Your audience profile is directly linked to your Distributor Score — the 5-star rating that determines your visibility to brands that recruit.
-
-| Score | Visibility |
-|-------|-----------|
-| < 3/5 | Low visibility audience — action required |
-| 3–4/5 | Standard — regular proposals |
-| > 4/5 | 🏆 Top Distributor — priority in results |
-
-A well-filled audience profile (detailed persona, precise data, polished visuals) directly improves several of the 7 rating criteria.
-
-→ [Complete Guide: Distributor Score](/en/monetize/score-distributor)
-
 ## Frequently Asked Questions
 
 **How to add a user to my account?**
@@ -94,6 +79,3 @@ Yes. A getinside account can host as many audiences as you want — one per site
 
 **Where to track my referrals (affiliation)?**
 In the **Affiliation** tab. You are rewarded on a recurring basis for your referrals' activity, paid directly into your Wallet. Referrals must be established in France or the EEA.
-
-**My Distributor Score has dropped — why?**
-The score is dynamically recalculated. Common causes: response > 48h, repeated refusals without counter-proposal, distributed volumes lower than commitments, CPM deemed too high vs competition. → Consult the [Distributor Score guide](/en/monetize/score-distributor) for details criterion by criterion.

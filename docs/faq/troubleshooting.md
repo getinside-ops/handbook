@@ -92,7 +92,6 @@ La règle des 48h est contractuelle. Si le délai est dépassé :
 
 - La proposition **expire automatiquement** et est envoyée à une autre marque
 - Une **pénalité peut être appliquée** sur votre Wallet selon votre contrat
-- Votre **Score Distributeur** peut être impacté (visibilité réduite sur les prochaines campagnes)
 
 **Pour éviter ça à l'avenir :** Activez les notifications email/SMS depuis vos Paramètres de compte.
 :::

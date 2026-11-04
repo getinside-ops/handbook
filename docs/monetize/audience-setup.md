@@ -1,16 +1,15 @@
 ---
-title: Audience & Score
-description: "Configurez votre fiche audience, votre vitrine auprès des marques qui veulent toucher votre audience : identité, persona, données démographiques et formats activés (Insertion Colis, Emailing Dédié, Display Email, Social Ads, Jeu Concours). Explique aussi la gestion de plusieurs sites et le lien avec votre Score Distributeur."
+title: Fiche audience
+description: "Configurez votre fiche audience, votre vitrine auprès des marques qui veulent toucher votre audience : identité, persona, données démographiques et formats activés (Insertion Colis, Emailing Dédié, Display Email, Social Ads, Jeu Concours). Explique aussi comment gérer plusieurs sites depuis un seul compte."
 keywords:
   - Fiche audience
   - Persona
   - Formats
-  - Score Distributeur
   - Multi-audiences
   - Insertion Colis
 ---
 
-# Configuration de l'Audience & Score
+# Configuration de la fiche audience
 
 Votre fiche audience est votre vitrine auprès des marques qui veulent toucher votre audience. Plus elle est précise, plus vous recevrez de propositions pertinentes.
 
@@ -70,20 +69,6 @@ Bonnes pratiques pour un catalogue multi-audiences :
 
 **International :** getinside opère dans toute l'Europe. Ajoutez vos audiences européennes pour recevoir des campagnes ciblées par pays.
 
-## 5. Votre Score Distributeur
-
-Votre fiche audience est directement liée à votre Score Distributeur — la note sur 5 étoiles qui détermine votre visibilité auprès des marques qui recrutent.
-
-| Score | Visibilité |
-|-------|-----------|
-| < 3/5 | Audience peu visible — action requise |
-| 3–4/5 | Standard — propositions régulières |
-| > 4/5 | 🏆 Top Distributeur — priorité dans les résultats |
-
-Une fiche audience bien remplie (persona détaillé, données précises, visuels soignés) améliore directement plusieurs des 7 critères de notation.
-
-→ [Guide complet : Score Distributeur](/monetize/score-distributor)
-
 ## Questions fréquentes
 
 **Comment ajouter un utilisateur à mon compte ?**
@@ -94,6 +79,3 @@ Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez
 
 **Où suivre mes filleuls (affiliation) ?**
 Dans l'onglet **Affiliation**. Vous êtes rémunéré de façon récurrente sur l'activité de vos filleuls, directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE.
-
-**Mon Score Distributeur a baissé — pourquoi ?**
-Le score est recalculé dynamiquement. Causes fréquentes : réponse > 48h, refus répétés sans contre-proposition, volumes distribués inférieurs aux engagements, CPM jugé trop élevé vs la concurrence. → Consultez le [guide Score Distributeur](/monetize/score-distributor) pour le détail critère par critère.

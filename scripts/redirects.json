@@ -11,7 +11,7 @@
   "/en/publishers/onboarding-process": "/en/monetize/onboarding-process",
   "/en/publishers/onboarding-quick-start": "/en/monetize/onboarding-quick-start",
   "/en/publishers/payouts": "/en/monetize/payouts",
-  "/en/publishers/score-distributor": "/en/monetize/score-distributor",
+  "/en/publishers/score-distributor": "/en/monetize/",
   "/en/publishers/sponsored-mail/": "/en/monetize/sponsored-mail/",
   "/en/publishers/sponsored-mail/logistics": "/en/monetize/sponsored-mail/logistics",
   "/en/publishers/sponsored-mail/reporting": "/en/monetize/sponsored-mail/reporting",
@@ -46,7 +46,7 @@
   "/publishers/onboarding-process": "/monetize/onboarding-process",
   "/publishers/onboarding-quick-start": "/monetize/onboarding-quick-start",
   "/publishers/payouts": "/monetize/payouts",
-  "/publishers/score-distributor": "/monetize/score-distributor",
+  "/publishers/score-distributor": "/monetize/",
   "/publishers/sponsored-mail/": "/monetize/sponsored-mail/",
   "/publishers/sponsored-mail/logistics": "/monetize/sponsored-mail/logistics",
   "/publishers/sponsored-mail/reporting": "/monetize/sponsored-mail/reporting",
@@ -74,5 +74,7 @@
   "/en/advertisers/pricing": "/en/recruit/",
   "/en/publishers/pricing": "/en/monetize/",
   "/faq/troubleshooting-distributors": "/faq/troubleshooting",
-  "/en/faq/troubleshooting-distributors": "/en/faq/troubleshooting"
+  "/en/faq/troubleshooting-distributors": "/en/faq/troubleshooting",
+  "/monetize/score-distributor": "/monetize/",
+  "/en/monetize/score-distributor": "/en/monetize/"
 }

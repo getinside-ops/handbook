@@ -45,8 +45,8 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Création des Audiences</h3>
-    <p>Dans l'onglet <strong>Monétisation</strong>, créez vos fiches audience : panier moyen, typologie B2B/B2C, profil du persona, visuels (logo, bannière). Une fiche complète améliore votre <strong>Score Distributeur</strong> (sur 5 étoiles) et votre visibilité sur la marketplace.</p>
-    <a href="audience-setup" class="btn btn-outline">Guide détaillé — Fiche Audience & Score →</a>
+    <p>Dans l'onglet <strong>Monétisation</strong>, créez vos fiches audience : panier moyen, typologie B2B/B2C, profil du persona, visuels (logo, bannière). Une fiche complète et précise vous vaut des propositions de campagnes plus pertinentes.</p>
+    <a href="audience-setup" class="btn btn-outline">Guide détaillé — Fiche audience →</a>
   </div>
 </div>
 

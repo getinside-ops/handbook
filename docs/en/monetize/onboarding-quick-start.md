@@ -66,11 +66,10 @@ At a minimum, enter:
 
 A **checkout call** with the getinside team confirms your listing on the marketplace. From then on, you will receive **campaign proposals** directly on the platform.
 
-**Golden rule to remember:** You have **48 business hours** to respond to each proposal. Beyond that, it expires and can impact your [Distributor Score](/en/monetize/score-distributor).
+**Golden rule to remember:** You have **48 business hours** to respond to each proposal. Beyond that, it expires.
 
 ---
 
 **Next steps:**
 - [Complete onboarding process](/en/monetize/onboarding-process) — detailed operations
-- [Distributor Score](/en/monetize/score-distributor) — how to maximize your visibility
 - [Payments & Wallet](/en/monetize/payouts) — understand when and how you will be paid

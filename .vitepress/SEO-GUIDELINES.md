@@ -203,7 +203,6 @@ Pour renforcer l'autorité et le crawling :
 **Exemples**
 ```markdown
 - Pour plus sur [l'Insertion Colis](/docs/fr/recruit/sponsored-mail/)
-- Voir aussi [le Score Distributeur](/docs/fr/monetize/score-distributor)
 - Apprenez comment [le matching contextuel fonctionne](/docs/fr/start-here/why-it-works#le-matching-contextuel)
 ```
 

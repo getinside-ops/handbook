@@ -28,7 +28,7 @@ The documentation is bilingual. French markdown files live directly under `docs/
 
 - **`recruit/`** — Use case **Recruter** (SaaS section): have your campaigns delivered by other brands. Channels: Insertion colis (`sponsored-mail/`), Échantillonnage (`sampling/`). Other formats (secondary in the sidebar): Dedicated Email, Display Email, Social Ads, Co-branded Contests. Plus Printing services.
 - **`retain/`** — Use case **Fidéliser** (separate section, not SaaS): Courrier adressé (`direct-mail/`).
-- **`monetize/`** — Use case **Monétiser** (SaaS section): deliver other brands' campaigns. Insertion colis, other formats (Dedicated Email, Display Email, Social Ads, Co-branded Contests), Audiences & Data, Score Distributeur, Payouts & Wallet, Affiliation.
+- **`monetize/`** — Use case **Monétiser** (SaaS section): deliver other brands' campaigns. Insertion colis, other formats (Dedicated Email, Display Email, Social Ads, Co-branded Contests), Audiences & Data, Payouts & Wallet, Affiliation.
 
 There is no advertiser/distributor split anymore: one brand can recruit and monetize. Old URLs (`/advertisers/`, `/publishers/`) are redirected by `scripts/generate-redirects.js` using `scripts/redirects.json`; add an entry there whenever a page is moved or deleted.
 
@@ -36,7 +36,7 @@ Supporting sections: `start-here/` (introduction and how it works), `faq/`, `res
 
 The homepage (`index.md` at root) uses VitePress `layout: home` with `hero` and `features` YAML blocks — not standard markdown.
 
-**Vocabulary** (source: messaging guide): one actor, "la marque" / "the brand". Do not use "annonceurs", "distributeurs", "marques du réseau" as role labels (nor "advertisers", "distributors", "network brands", "publishers"), and never "retailers" or "e-commerçants". Describe sides by action: "vous faites diffuser votre campagne" (Recruter) / "vous diffusez les campagnes d'autres marques" (Monétiser). Exception: the feature names "Score Distributeur" / "Distributor Score". Signature "Le marketing qui touche". Do not use "Retail Media" or "asile colis".
+**Vocabulary** (source: messaging guide): one actor, "la marque" / "the brand". Do not use "annonceurs", "distributeurs", "marques du réseau" as role labels (nor "advertisers", "distributors", "network brands", "publishers"), and never "retailers" or "e-commerçants". Describe sides by action: "vous faites diffuser votre campagne" (Recruter) / "vous diffusez les campagnes d'autres marques" (Monétiser). Signature "Le marketing qui touche". Do not use "Retail Media" or "asile colis".
 
 **No pricing in the handbook.** Never publish prices, commissions, platform fees, plans, payout tiers or penalty amounts. Campaign results (CAC, CVR, revenue generated) are allowed.
 
@@ -119,7 +119,6 @@ Content is aligned on four Google Drive sources (as of the 2026-11 repositioning
 - **Proof points:** 98 % deliverability, 100 % attention, 86 % of purchase decisions made at home, 500+ brands, 300+ aggregated audiences (network side).
 - **Records:** TOP CAC 1,21 € (Recruter), TOP CVR 6 % (Fidéliser), top revenue +215 K€/year and 90 % reinvested in acquisition (Monétiser).
 - **Compliance:** GDPR on legitimate interest with right to object on every mailing; AGEC law (samples handed over on the consumer's prior request, art. L541-15-10 of the Environmental Code).
-- **Quality system:** Score Distributeur (1-5 stars, 7 evaluation criteria).
 - **Do not import** the internal sales content of the guide (ICP, prospecting titles, competitive study) or unconfirmed items (the "Agency" term, free trial, revenue simulator).
 
 `scripts/check-content.sh [files...]` checks FR/EN parity of `docs/` and banned terms in the given files; run it before committing content changes.

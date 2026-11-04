@@ -1,11 +1,10 @@
 ---
 title: Compte & Audiences
-description: "Réponses aux questions courantes sur votre compte getinside : ajouter un utilisateur, référencer une audience, gérer plusieurs sites depuis un seul compte et suivre vos filleuls. Explique aussi comment rendre votre fiche audience attractive pour les marques qui cherchent des audiences et pourquoi votre Score Distributeur peut baisser."
+description: "Réponses aux questions courantes sur votre compte getinside : ajouter un utilisateur, référencer une audience, gérer plusieurs sites depuis un seul compte et suivre vos filleuls. Explique aussi comment rendre votre fiche audience attractive pour les marques qui cherchent des audiences."
 keywords:
   - Compte getinside
   - Audiences
   - Fiche audience
-  - Score Distributeur
   - Affiliation
   - FAQ monétiser
 ---
@@ -32,12 +31,6 @@ Oui, getinside opère dans toute l'Europe. Vous pouvez ajouter vos audiences eur
 
 ::: details Comment suivre mes filleuls (affiliation) ?
 L'état de vos filleuls est visible dans l'onglet **Affiliation**. Vous êtes rémunéré de façon récurrente sur leur activité. Vos gains apparaissent dans **Transactions → Revenus** et peuvent être retirés ou réinvestis depuis votre Wallet.
-:::
-
-::: details Pourquoi mon "Score Distributeur" a baissé ?
-Le score est recalculé dynamiquement. Causes fréquentes : délai de réponse > 48h, refus de campagnes sans contre-proposition, volumes distribués inférieurs aux engagements, CPM trop élevé vs la concurrence.
-
-→ [Guide complet : Score Distributeur](/monetize/score-distributor)
 :::
 
 ::: details Comment rendre ma fiche audience attractive pour les autres marques ?

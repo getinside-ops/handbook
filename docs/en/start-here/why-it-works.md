@@ -89,16 +89,6 @@ Your customers no longer open your emails, but they still open their mail and th
 | Managing production, printing and routing. | Production, quality control and delivery end to end, true to your brand image. |
 | Scattered reporting. | Performance measured and optimised for every campaign. |
 
-## Quality as a growth engine
-
-::: warning ⭐ The Distributor Score: your access key
-
-Each brand that delivers campaigns receives a **Distributor Score** (1-5 stars) based on **7 key criteria**: on-time delivery, tracking quality, error rate, GDPR compliance, complaint rate, API integration and responsiveness.
-
-This score determines your **visibility in the platform's search engine** and your priority access to premium campaigns.
-
-:::
-
 ::: tip Ready to activate your growth?
 
 Whether you want to recruit, retain or monetise your customers, getinside is built for you.

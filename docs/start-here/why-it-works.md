@@ -89,16 +89,6 @@ Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courrier
 | Gérer production, impression et routage. | Production, contrôle qualité et livraison de bout en bout, fidèles à votre image de marque. |
 | Reporting éparpillé. | Performance mesurée et optimisée pour chaque campagne. |
 
-## La qualité comme moteur de croissance
-
-::: warning ⭐ Le Score Distributeur : votre clé d'accès
-
-Chaque marque qui diffuse des campagnes reçoit un **Score Distributeur** (1-5 étoiles) basé sur **7 critères clés** : respect des délais, qualité de tracking, taux d'erreur, conformité RGPD, taux de réclamations, intégration API et réactivité.
-
-Ce score détermine votre **visibilité dans le moteur de recherche de la plateforme** et votre accès prioritaire aux campagnes premium.
-
-:::
-
 ::: tip Prêt à activer votre croissance ?
 
 Que vous souhaitiez recruter, fidéliser ou monétiser vos clients, getinside est conçu pour vous.

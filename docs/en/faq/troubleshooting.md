@@ -92,7 +92,6 @@ The 48h rule is contractual. If the deadline is passed:
 
 - The proposal **automatically expires** and is sent to another brand
 - A **penalty may be applied** to your Wallet according to your contract
-- Your **Distributor Score** may be impacted (reduced visibility on future campaigns)
 
 **To avoid this in the future:** Enable email/SMS notifications from your Account Settings.
 :::

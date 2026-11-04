@@ -1,11 +1,10 @@
 ---
 title: Account & Audiences
-description: "Answers to common questions about your getinside account: adding a user, listing an audience, managing several sites from one account and tracking your referrals. Also explains how to make your audience profile attractive to brands looking for audiences and why your Distributor Score can drop."
+description: "Answers to common questions about your getinside account: adding a user, listing an audience, managing several sites from one account and tracking your referrals. Also explains how to make your audience profile attractive to brands looking for audiences."
 keywords:
   - getinside account
   - Audiences
   - Audience profile
-  - Distributor Score
   - Affiliate program
   - Monetize FAQ
 ---
@@ -32,12 +31,6 @@ Yes, getinside operates throughout Europe. You can add your European audiences a
 
 ::: details How to track my referrals (affiliation)?
 The status of your referrals is visible in the **Affiliation** tab. You are rewarded on a recurring basis for their activity. Your earnings appear in **Transactions → Revenue** and can be withdrawn or reinvested from your Wallet.
-:::
-
-::: details Why did my "Distributor Score" drop?
-The score is recalculated dynamically. Frequent causes: response time > 48h, campaign refusals without counter-proposal, distributed volumes lower than commitments, CPM too high vs competition.
-
-→ [Complete guide: Distributor Score](/en/monetize/score-distributor)
 :::
 
 ::: details How to make my audience profile attractive to other brands?
