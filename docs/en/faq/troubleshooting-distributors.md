@@ -1,16 +1,16 @@
 ---
-title: Troubleshooting — Distributors
-description: "Troubleshooting guide for network brands: Wallet balance at 0 or pending, missing transfer, unexpected deductions and expired funds. Also covers campaigns (cancellation, no reply within 48 hours, incorrect brief), referral rewards and suspended accounts."
+title: Troubleshooting — Monetization
+description: "Troubleshooting guide when you monetize: Wallet balance at 0 or pending, missing transfer, unexpected deductions and expired funds. Also covers campaigns (cancellation, no reply within 48 hours, incorrect brief), referral rewards and suspended accounts."
 keywords:
   - Troubleshooting
   - Wallet
   - Missing transfer
   - Penalties
   - Suspended account
-  - Distributor support
+  - Monetization support
 ---
 
-# Troubleshooting — Distributors
+# Troubleshooting — Monetization
 
 Your Wallet doesn't match? A withdrawal is delayed? A campaign is causing a problem? Find the answer in less than 2 minutes.
 
@@ -82,7 +82,7 @@ Act **as early as possible** — penalties increase over time:
 
 1. **Immediately contact** your account manager or support
 2. **Do not cancel** from the platform without discussing it first
-3. Explain the situation — an alternative solution is often possible (postponement, replacement by another distributor)
+3. Explain the situation — an alternative solution is often possible (postponement, replacement by another brand to deliver the campaign)
 
 > The more you anticipate, the more you limit the penalties. A last-minute cancellation is more costly than an anticipated cancellation.
 :::
@@ -90,7 +90,7 @@ Act **as early as possible** — penalties increase over time:
 ::: details "I didn't answer a campaign proposal within 48h"
 The 48h rule is contractual. If the deadline is passed:
 
-- The proposal **automatically expires** and is sent to another distributor
+- The proposal **automatically expires** and is sent to another brand
 - A **penalty may be applied** to your Wallet according to your contract
 - Your **Distributor Score** may be impacted (reduced visibility on future campaigns)
 
@@ -100,7 +100,7 @@ The 48h rule is contractual. If the deadline is passed:
 ::: details "A campaign is incomplete or the received visual/brief is incorrect"
 1. **Do not** start the distribution without having checked the material
 2. Report the problem via the platform (campaign profile → Report a problem) or directly contact your manager
-3. getinside contacts the advertiser to correct — the distribution is paused during the correction
+3. getinside contacts the brand whose campaign you deliver to correct — the distribution is paused during the correction
 :::
 
 ---
@@ -128,4 +128,4 @@ Specify: the campaign ID, the amount in question, and a screenshot if possible.
 
 ---
 
-**See also:** [Revenue and Payment Management](/en/publishers/payouts) · [Onboarding Process](/en/publishers/onboarding-process)
+**See also:** [Revenue and Payment Management](/en/monetize/payouts) · [Onboarding Process](/en/monetize/onboarding-process)

@@ -26,8 +26,9 @@ The content is organized by target audience within the `docs/` folder:
 ├── .vitepress/              # VitePress configuration & custom theme
 ├── docs/                    # Content (French by default)
 │   ├── index.md             # Homepage
-│   ├── advertisers/         # Advertisers Guides (Specs, Strategy...)
-│   ├── publishers/          # Publishers Guides (Logistics, Onboarding, Payouts...)
+│   ├── recruit/             # Recruter (Insertion colis, Échantillonnage, autres formats)
+│   ├── retain/              # Fidéliser (Courrier adressé)
+│   ├── monetize/            # Monétiser (Logistique, Onboarding, Paiements...)
 │   ├── glossary.md          # Glossary
 │   ├── faq/                 # Frequently Asked Questions
 │   └── en/                  # English translations mirroring the French structure

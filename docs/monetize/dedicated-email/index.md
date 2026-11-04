@@ -1,0 +1,77 @@
+---
+title: Emailing Dédié (Monétiser)
+description: "Valorisez votre base de données en recommandant des marques partenaires à votre communauté par emailing dédié : Blast (newsletter), Post-Purchase et Welcome Pack. Présente le processus de création en deux étapes, de la conception à l'envoi, et les avantages de ce levier via getinside."
+keywords:
+  - Emailing dédié
+  - Endorsement
+  - Newsletter
+  - Post-Purchase
+  - Welcome Pack
+  - Monétiser son audience
+---
+
+# Emailing Dédié
+
+Valorisez votre base de données en recommandant des marques partenaires à votre communauté (Endorsement).
+
+<div>
+  <a href="1-design" class="btn btn-primary">Voir le Guide de Création</a>
+</div>
+
+---
+
+## Vos Inventaires Monétisables
+
+Vous pouvez proposer 3 types de campagnes dédiées :
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>📢 Blast (Newsletter)</strong>
+    <p>Vous envoyez un email dédié à tout ou partie de votre base active.</p>
+    <Badge type="tip" text="Volume Fort" />
+  </div>
+  <div class="gi-value-card">
+    <strong>🛍️ Post-Purchase</strong>
+    <p>Un email dédié envoyé automatiquement après une commande.</p>
+    <Badge type="tip" text="TO > 50%" />
+  </div>
+  <div class="gi-value-card">
+    <strong>👋 Welcome Pack</strong>
+    <p>Présentation d'un partenaire dans la séquence de bienvenue.</p>
+    <Badge type="tip" text="Fidélisation" />
+  </div>
+</div>
+
+## Le Processus de Création
+
+<div class="gi-nav-list">
+  <a href="1-design" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🎨</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">1. Création & Design</p>
+      <p class="gi-nav-card-desc">Récupération des assets de la marque, stratégie d'endorsement natif et exemples.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+  <a href="2-tracking-sending" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🚀</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">2. Tracking & Envoi</p>
+      <p class="gi-nav-card-desc">Pixel d'ouverture, liens trackés gtinsi.de, BAT par email et validation finale.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+</div>
+
+## Pourquoi activer ce levier via getinside ?
+
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>💰 CPM Maximisé</strong>
+    <p>L'emailing dédié est le format le plus rémunérateur. Rentabilisez vos créneaux d'envoi libres ou vos emails transactionnels.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🛡️ Qualité & Sécurité</strong>
+    <p>Vous validez chaque marque avant diffusion. Nous fournissons tous les assets et le tracking clé en main. Paiement garanti.</p>
+  </div>
+</div>

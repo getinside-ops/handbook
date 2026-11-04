@@ -1,16 +1,16 @@
 ---
-title: Résolution de Problèmes — Distributeurs
-description: "Guide de dépannage pour les marques du réseau : solde du Wallet à 0 ou en attente, virement non reçu, prélèvements inattendus, fonds expirés. Traite aussi les campagnes (annulation, non-réponse sous 48h, brief incorrect), la rémunération de parrainage et les comptes suspendus."
+title: Résolution de Problèmes — Monétisation
+description: "Guide de dépannage quand vous monétisez : solde du Wallet à 0 ou en attente, virement non reçu, prélèvements inattendus, fonds expirés. Traite aussi les campagnes (annulation, non-réponse sous 48h, brief incorrect), la rémunération de parrainage et les comptes suspendus."
 keywords:
   - Dépannage
   - Wallet
   - Virement non reçu
   - Pénalités
   - Compte suspendu
-  - Support distributeurs
+  - Support monétisation
 ---
 
-# Résolution de Problèmes — Distributeurs
+# Résolution de Problèmes — Monétisation
 
 Votre Wallet ne correspond pas ? Un retrait tarde ? Une campagne pose problème ? Trouvez la réponse en moins de 2 minutes.
 
@@ -82,7 +82,7 @@ Agissez **le plus tôt possible** — les pénalités augmentent avec le temps :
 
 1. **Contactez immédiatement** votre gestionnaire de compte ou le support
 2. **N'annulez pas** depuis la plateforme sans en avoir discuté au préalable
-3. Expliquez la situation — une solution alternative est souvent possible (report, remplacement par un autre distributeur)
+3. Expliquez la situation — une solution alternative est souvent possible (report, remplacement par une autre marque pour diffuser la campagne)
 
 > Plus vous anticipez, plus vous limitez les pénalités. Une annulation au dernier moment est plus coûteuse qu'une annulation anticipée.
 :::
@@ -90,7 +90,7 @@ Agissez **le plus tôt possible** — les pénalités augmentent avec le temps :
 ::: details "Je n'ai pas répondu à une proposition de campagne dans les 48h"
 La règle des 48h est contractuelle. Si le délai est dépassé :
 
-- La proposition **expire automatiquement** et est envoyée à un autre distributeur
+- La proposition **expire automatiquement** et est envoyée à une autre marque
 - Une **pénalité peut être appliquée** sur votre Wallet selon votre contrat
 - Votre **Score Distributeur** peut être impacté (visibilité réduite sur les prochaines campagnes)
 
@@ -100,7 +100,7 @@ La règle des 48h est contractuelle. Si le délai est dépassé :
 ::: details "Une campagne est incomplète ou le visuel/brief reçu est incorrect"
 1. Ne commencez **pas** la distribution sans avoir vérifié le matériel
 2. Signalez le problème via la plateforme (fiche campagne → Signaler un problème) ou contactez directement votre gestionnaire
-3. getinside contacte l'annonceur pour corriger — la distribution est mise en pause le temps de la correction
+3. getinside contacte la marque dont vous diffusez la campagne pour corriger — la distribution est mise en pause le temps de la correction
 :::
 
 ---
@@ -128,4 +128,4 @@ Précisez : l'ID de la campagne, le montant en question, et une capture d'écran
 
 ---
 
-**Voir aussi :** [Gestion des Revenus et Paiements](/publishers/payouts) · [Processus d'Onboarding](/publishers/onboarding-process)
+**Voir aussi :** [Gestion des Revenus et Paiements](/monetize/payouts) · [Processus d'Onboarding](/monetize/onboarding-process)

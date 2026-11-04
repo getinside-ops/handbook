@@ -1,6 +1,6 @@
 ---
 title: Billing & Payments
-description: "Answers on billing and payments for network brands: Wallet crediting, withdrawing earnings and invoicing, the 30-day protection period and reinvesting your balance. Also covers what happens when an anomaly is detected and the fund expiry rule after 12 months of inactivity."
+description: "Answers on billing and payments when you monetize: Wallet crediting, withdrawing earnings and invoicing, the 30-day protection period and reinvesting your balance. Also covers what happens when an anomaly is detected and the fund expiry rule after 12 months of inactivity."
 keywords:
   - Wallet
   - Withdraw earnings
@@ -40,9 +40,9 @@ Yes. In **Exchange**, click on `Transfer to wallet`. You can use this balance im
 :::
 
 ::: details Why is my revenue blocked for 30 days?
-The 30-day delay is a **protection period** that secures your payment and that of the advertiser.
+The 30-day delay is a **protection period** that secures your payment and that of the brand whose campaign you deliver.
 
-It allows detecting and processing potential anomalies (lost boxes, non-compliant volumes, interrupted campaign) **before** the funds are definitively released. Without this buffer, getinside could not guarantee your payment in the event of advertiser default.
+It allows detecting and processing potential anomalies (lost boxes, non-compliant volumes, interrupted campaign) **before** the funds are definitively released. Without this buffer, getinside could not guarantee your payment if the brand whose campaign you deliver defaults on payment.
 :::
 
 ::: details What happens if an anomaly is detected during the 30 days?

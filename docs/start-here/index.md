@@ -36,17 +36,17 @@ Délivrez des campagnes marketing qui touchent les consommateurs, jusqu'à leur 
 ## Trois usages
 
 <div class="gi-format-grid">
-  <a href="/handbook/advertisers/" class="gi-format-card">
+  <a href="/handbook/recruit/" class="gi-format-card">
     <span class="gi-format-card-icon">🎯</span>
     <span class="gi-format-card-title">Recruter</span>
     <p class="gi-format-card-desc">Touchez vos futurs clients à travers les marques qu'ils consomment déjà. Avec un budget média, ou en échange : vous diffusez leurs offres dans vos colis, elles diffusent la vôtre dans les leurs.</p>
   </a>
-  <a href="/handbook/advertisers/direct-mail/" class="gi-format-card">
+  <a href="/handbook/retain/direct-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">💌</span>
     <span class="gi-format-card-title">Fidéliser</span>
     <p class="gi-format-card-desc">Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails, et transformez chaque colis que vous livrez en levier de rachat immédiat.</p>
   </a>
-  <a href="/handbook/publishers/" class="gi-format-card">
+  <a href="/handbook/monetize/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Monétiser</span>
     <p class="gi-format-card-desc">Délivrez des campagnes de partenaires qui enrichissent l'expérience d'achat de vos clients, et générez des revenus pour financer votre acquisition.</p>
@@ -68,17 +68,17 @@ C'est une manière de recruter sans achat média : vous exposez votre audience d
 | **Échantillonnage** | Un échantillon offert pour faire tester, sentir ou toucher votre produit. |
 
 <div class="gi-format-grid">
-  <a href="/handbook/advertisers/sponsored-mail/" class="gi-format-card">
+  <a href="/handbook/recruit/sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Insertion colis</span>
     <p class="gi-format-card-desc">Votre offre dans le colis d'une marque affinitaire.</p>
   </a>
-  <a href="/handbook/advertisers/direct-mail/" class="gi-format-card">
+  <a href="/handbook/retain/direct-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">✉️</span>
     <span class="gi-format-card-title">Courrier adressé</span>
     <p class="gi-format-card-desc">Un courrier nominatif dans la boîte aux lettres.</p>
   </a>
-  <a href="/handbook/advertisers/sampling/" class="gi-format-card">
+  <a href="/handbook/recruit/sampling/" class="gi-format-card">
     <span class="gi-format-card-icon">🧴</span>
     <span class="gi-format-card-title">Échantillonnage</span>
     <p class="gi-format-card-desc">Faites tester, sentir ou toucher votre produit.</p>
@@ -109,8 +109,11 @@ Chaque marque valide les marques et les offres diffusées auprès de ses clients
 
 ::: info Prêt à démarrer ?
 
-- **Recruter ou fidéliser** : [Espace Annonceurs](/advertisers/)
-- **Monétiser vos colis** : [Espace marques du réseau](/publishers/)
+- **Recruter** : [faites diffuser votre campagne chez d'autres marques](/recruit/)
+- **Fidéliser** : [retrouvez vos clients par courrier adressé](/retain/)
+- **Monétiser** : [diffusez les campagnes d'autres marques à vos clients](/monetize/)
+
+Recruter et Monétiser sont les deux sections de la solution getinside. Fidéliser, par courrier adressé, a sa propre section.
 
 [Discuter de mon projet →](mailto:studio@getinside.com)
 

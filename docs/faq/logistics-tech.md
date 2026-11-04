@@ -49,7 +49,7 @@ Vérifiez :
 ## Gestion Logistique
 
 ::: details J'ai reçu les encarts en avance — puis-je commencer ?
-Il faut impérativement le feu vert de l'annonceur pour diffuser une campagne plus tôt que prévu. Cela peut poser problème si la landing page n'est pas encore active ou si la campagne entre en concurrence avec une autre offre.
+Il faut impérativement le feu vert de la marque dont vous diffusez la campagne pour diffuser une campagne plus tôt que prévu. Cela peut poser problème si la landing page n'est pas encore active ou si la campagne entre en concurrence avec une autre offre.
 :::
 
 ::: details Les flyers sont arrivés endommagés
@@ -63,7 +63,7 @@ Ne distribuez pas les supports endommagés.
 :::
 
 ::: details Écart de stock — j'ai reçu plus ou moins de flyers que prévu
-**Vous en avez reçu MOINS :** signalez-le immédiatement à l'annonceur et à getinside via la messagerie de la campagne.
+**Vous en avez reçu MOINS :** signalez-le immédiatement à la marque concernée et à getinside via la messagerie de la campagne.
 
 **Vous en avez reçu PLUS (surplus) :** c'est normal. Ce surplus correspond à la tolérance de gâche encadrée par l'Article 38 du Code des usages de l'industrie graphique (UNIIC). Voir la section ci-dessous pour le détail.
 :::
@@ -90,9 +90,9 @@ L'acheteur est **tenu d'accepter** les écarts de livraison suivants, qui sont i
 | > 100 000 ex | ± 2% |
 
 **Marche à suivre pour le surplus :**
-1. Écoulez le surplus si possible (budget inchangé, volume supplémentaire = bonus pour l'annonceur).
+1. Écoulez le surplus si possible (budget inchangé, volume supplémentaire = bonus pour la marque dont vous diffusez la campagne).
 2. Si l'insertion est impossible (entrepôt plein, campagne terminée), orientez vers le recyclage.
-3. Si l'annonceur conteste : référencez l'Article 38 UNIIC et votre bon de livraison.
+3. Si la marque conteste : référencez l'Article 38 UNIIC et votre bon de livraison.
 
 ---
 
@@ -118,14 +118,14 @@ Si les dommages dépassent 1% du volume ou si les supports sont non conformes au
 
 ## Données & RGPD
 
-::: details Un annonceur demande les adresses des destinataires — puis-je les communiquer ?
-**Non.** Cette demande n'est pas autorisée, même si l'annonceur insiste.
+::: details Une marque dont je diffuse la campagne demande les adresses des destinataires — puis-je les communiquer ?
+**Non.** Cette demande n'est pas autorisée, même si la marque insiste.
 
-Les données clients sont un **actif First Party** qui appartient exclusivement au Distributeur (vous). Le transfert de fichier est juridiquement interdit sans un nouvel opt-in spécifique (RGPD).
+Les données clients sont un **actif First Party** qui appartient exclusivement à votre marque (vous). Le transfert de fichier est juridiquement interdit sans un nouvel opt-in spécifique (RGPD).
 
-getinside opère comme **Tiers de Confiance** : nous routons le message de l'annonceur vers votre audience, mais la donnée ne quitte jamais votre environnement sécurisé.
+getinside opère comme **Tiers de Confiance** : nous routons le message de la marque vers votre audience, mais la donnée ne quitte jamais votre environnement sécurisé.
 
-Si un annonceur vous fait cette demande, dirigez-le vers notre équipe : [support@getinside.fr](mailto:support@getinside.fr).
+Si une marque vous fait cette demande, dirigez-le vers notre équipe : [support@getinside.fr](mailto:support@getinside.fr).
 :::
 
 ::: details Standards RSE et Impression

@@ -24,16 +24,19 @@ npm run docs:preview  # Preview built site locally
 
 ## Content Structure
 
-The documentation is bilingual. French markdown files live directly under `docs/`, and English translations mirror the exact structure under `docs/en/`. Both feature two main audience branches:
+The documentation is bilingual. French markdown files live directly under `docs/`, and English translations mirror the exact structure under `docs/en/`. Both are organized by use case:
 
-- **`advertisers/`** — Guides for advertisers (use cases **Recruter** and **Fidéliser**). Main channels: Insertion colis (`sponsored-mail/`), Courrier adressé (`direct-mail/`), Échantillonnage (`sampling/`). Other formats (secondary in the sidebar): Dedicated Email, Display Email, Social Ads, Co-branded Contests. Plus Printing services.
-- **`publishers/`** — Guides for network brands (use case **Monétiser**): Insertion colis, other formats (Dedicated Email, Display Email, Social Ads, Co-branded Contests), Audiences & Data, Score Distributeur, Payouts & Wallet, Affiliation.
+- **`recruit/`** — Use case **Recruter** (SaaS section): have your campaigns delivered by other brands. Channels: Insertion colis (`sponsored-mail/`), Échantillonnage (`sampling/`). Other formats (secondary in the sidebar): Dedicated Email, Display Email, Social Ads, Co-branded Contests. Plus Printing services.
+- **`retain/`** — Use case **Fidéliser** (separate section, not SaaS): Courrier adressé (`direct-mail/`).
+- **`monetize/`** — Use case **Monétiser** (SaaS section): deliver other brands' campaigns. Insertion colis, other formats (Dedicated Email, Display Email, Social Ads, Co-branded Contests), Audiences & Data, Score Distributeur, Payouts & Wallet, Affiliation.
+
+There is no advertiser/distributor split anymore: one brand can recruit and monetize. Old URLs (`/advertisers/`, `/publishers/`) are redirected by `scripts/generate-redirects.js` using `scripts/redirects.json`; add an entry there whenever a page is moved or deleted.
 
 Supporting sections: `start-here/` (introduction and how it works), `faq/`, `resources/`, `glossary.md`
 
 The homepage (`index.md` at root) uses VitePress `layout: home` with `hero` and `features` YAML blocks — not standard markdown.
 
-**Vocabulary** (source: messaging guide): "marques du réseau" / "network brands" (never "retailers" or "e-commerçants"), "annonceurs" / "advertisers", signature "Le marketing qui touche". Do not use "Retail Media" or "asile colis".
+**Vocabulary** (source: messaging guide): one actor, "la marque" / "the brand". Do not use "annonceurs", "distributeurs", "marques du réseau" as role labels (nor "advertisers", "distributors", "network brands", "publishers"), and never "retailers" or "e-commerçants". Describe sides by action: "vous faites diffuser votre campagne" (Recruter) / "vous diffusez les campagnes d'autres marques" (Monétiser). Exception: the feature names "Score Distributeur" / "Distributor Score". Signature "Le marketing qui touche". Do not use "Retail Media" or "asile colis".
 
 **No pricing in the handbook.** Never publish prices, commissions, platform fees, plans, payout tiers or penalty amounts. Campaign results (CAC, CVR, revenue generated) are allowed.
 
@@ -56,7 +59,7 @@ Both `config.ts` (via `transformHead` for SSR) and the theme hook in `index.ts` 
 
 **YAML pitfall:** a frontmatter value containing `: ` (colon + space) must be wrapped in double quotes, otherwise the build fails with a YAML error (e.g. `description: "Top CAC : 1,21 €"`).
 
-**Links:** markdown links use site-relative paths without the base (`[text](/advertisers/)`); raw HTML `href` attributes and image `src` must include the base (`/handbook/advertisers/`, `/handbook/images/...`). VitePress does not check raw HTML links.
+**Links:** markdown links use site-relative paths without the base (`[text](/recruit/)`); raw HTML `href` attributes and image `src` must include the base (`/handbook/recruit/`, `/handbook/images/...`). VitePress does not check raw HTML links.
 
 ## Content Conventions
 

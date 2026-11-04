@@ -3,7 +3,10 @@ title: Glossaire
 description: "Définitions des termes et acronymes de getinside : réseau de marques, échange d'audiences, Wallet, insertion colis, courrier adressé, BAT, CPA et CPM."
 keywords:
   - glossaire getinside
-  - marque du réseau
+  - marque
+  - recruter
+  - fidéliser
+  - monétiser
   - échange d'audiences
   - insertion colis
   - courrier adressé
@@ -21,6 +24,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <a href="#d">D</a>
   <a href="#e">E</a>
   <a href="#f">F</a>
+  <a href="#i">I</a>
   <a href="#l">L</a>
   <a href="#m">M</a>
   <a href="#o">O</a>
@@ -34,10 +38,6 @@ Définitions des termes techniques et acronymes de la plateforme.
 </div>
 <h2 id="a">A</h2>
 <dl>
-  <dt>Annonceur (Advertiser)</dt>
-  <dd>Marque qui achète de l'espace publicitaire pour promouvoir ses produits ou services.</dd>
-  <dt>Insertion Colis (Sponsored Mail)</dt>
-  <dd>Technique marketing consistant à insérer une offre publicitaire (flyer, carte, échantillon) à l'intérieur du colis d'expédition d'une marque du réseau partenaire.</dd>
   <dt>Audience Lookalike</dt>
   <dd>Ciblage publicitaire visant des profils ayant des caractéristiques similaires (comportement d'achat, démographie) à une base de clients existante.</dd>
 </dl>
@@ -47,7 +47,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>BAT (Bon à Tirer)</dt>
   <dd>Validation finale de la maquette (numérique) avant le lancement de la production. Une fois validé, aucune modification n'est possible.</dd>
   <dt>Brief</dt>
-  <dd>Document rempli par l'Annonceur détaillant ses objectifs et fournissant les éléments graphiques nécessaires à la campagne.</dd>
+  <dd>Document rempli par la marque qui fait diffuser sa campagne, détaillant ses objectifs et fournissant les éléments graphiques nécessaires à la campagne.</dd>
 </dl>
 <hr />
 <h2 id="c">C</h2>
@@ -55,7 +55,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Capping</dt>
   <dd>Limite de volume imposée à une campagne (ex: limiter à 1 flyer par colis maximum).</dd>
   <dt>Co-branding</dt>
-  <dd>Association de deux marques (l'Annonceur et la marque du réseau) dans une même communication pour renforcer l'impact.</dd>
+  <dd>Association de deux marques (la marque qui fait diffuser sa campagne et celle qui la diffuse) dans une même communication pour renforcer l'impact.</dd>
   <dt>Courrier adressé</dt>
   <dd>Support imprimé adressé nommément au client, dans sa boîte aux lettres.</dd>
   <dt>CPA (Coût Par Acquisition)</dt>
@@ -73,19 +73,27 @@ Définitions des termes techniques et acronymes de la plateforme.
 <h2 id="e">E</h2>
 <dl>
   <dt>Échange d'audiences</dt>
-  <dd>Accord entre deux marques du réseau : chacune diffuse l'offre de l'autre dans ses colis, sans achat média, et garde ses clients.</dd>
+  <dd>Accord entre deux marques : chacune diffuse l'offre de l'autre dans ses colis, sans achat média, et garde ses clients.</dd>
   <dt>Échantillonnage (Sampling)</dt>
   <dd>Échantillon offert pour faire tester, sentir ou toucher un produit. Remis sur demande préalable du consommateur (loi AGEC).</dd>
   <dt>Endorsement</dt>
-  <dd>Caution apportée par la marque du réseau à l'Annonceur. Le fait qu'elle « parle » de la marque renforce la confiance.</dd>
+  <dd>Caution apportée par la marque qui diffuse une campagne à la marque dont elle parle. Le fait qu'elle « parle » de cette marque renforce la confiance.</dd>
 </dl>
 <hr />
 <h2 id="f">F</h2>
 <dl>
+  <dt>Fidéliser (Retain)</dt>
+  <dd>Retrouver vos clients existants par courrier adressé, notamment ceux qui n'ouvrent plus vos e-mails, et déclencher le rachat avec une offre dans chaque colis livré.</dd>
   <dt>FOGRA39</dt>
   <dd>Profil colorimétrique standard pour l'impression offset en Europe.</dd>
   <dt>Fond Perdu (Bleed)</dt>
   <dd>Zone imprimée dépassant le format final (2-3 mm) pour éviter les liserés blancs à la découpe.</dd>
+</dl>
+<hr />
+<h2 id="i">I</h2>
+<dl>
+  <dt>Insertion Colis (Sponsored Mail)</dt>
+  <dd>Technique marketing consistant à insérer une offre publicitaire (flyer, carte, échantillon) à l'intérieur du colis d'expédition d'une marque partenaire.</dd>
 </dl>
 <hr />
 <h2 id="l">L</h2>
@@ -98,8 +106,10 @@ Définitions des termes techniques et acronymes de la plateforme.
 <hr />
 <h2 id="m">M</h2>
 <dl>
-  <dt>Marque du réseau (Distributeur)</dt>
-  <dd>Marque ou média du réseau qui monétise son audience en diffusant les campagnes d'annonceurs tiers.</dd>
+  <dt>Marque (Brand)</dt>
+  <dd>Entreprise qui utilise getinside. Une même marque peut recruter (faire diffuser sa campagne chez d'autres marques), fidéliser (courrier adressé, offre dans ses colis) et monétiser (diffuser les campagnes d'autres marques à ses clients).</dd>
+  <dt>Monétiser (Monetize)</dt>
+  <dd>Diffuser les campagnes d'autres marques à vos clients, dans vos colis, pour générer des revenus qui financent votre acquisition.</dd>
 </dl>
 <hr />
 <h2 id="o">O</h2>
@@ -122,6 +132,8 @@ Définitions des termes techniques et acronymes de la plateforme.
 <hr />
 <h2 id="r">R</h2>
 <dl>
+  <dt>Recruter (Recruit)</dt>
+  <dd>Faire diffuser votre campagne chez d'autres marques pour toucher vos futurs clients, avec un budget média ou en échange.</dd>
   <dt>Réseau de marques</dt>
   <dd>Ensemble de marques de confiance qui délivrent les campagnes de partenaires à leurs clients, et dont chacune valide les marques et les offres diffusées auprès de ses clients.</dd>
   <dt>ROI</dt>
@@ -145,7 +157,7 @@ Définitions des termes techniques et acronymes de la plateforme.
 <h2 id="w">W</h2>
 <dl>
   <dt>Wallet</dt>
-  <dd>Portefeuille d'une marque du réseau, crédité par les campagnes qu'elle délivre. Les revenus financent ses propres campagnes ou peuvent être retirés.</dd>
+  <dd>Portefeuille d'une marque, crédité par les campagnes qu'elle diffuse. Les revenus financent ses propres campagnes ou peuvent être retirés.</dd>
 </dl>
 <hr />
 <h2 id="z">Z</h2>

@@ -19,9 +19,9 @@ image: /images/gi-keyvisual.svg
 
 | Acteur | Action | Flux |
 | :--- | :--- | :--- |
-| 📦 **Marque du réseau** | Envoie des colis et du courrier à ses clients | Inventaire disponible |
+| 📦 **Marque qui monétise** | Envoie des colis et du courrier à ses clients, et y diffuse des campagnes | Inventaire disponible |
 | ⚡ **Plateforme** | Cible les audiences affinitaires grâce à l'IA | Mise en relation |
-| 📢 **Annonceur** | Diffuse son offre ou son échantillon auprès de ces audiences | Campagnes délivrées |
+| 📢 **Marque qui recrute** | Fait diffuser son offre ou son échantillon auprès de ces audiences | Campagnes délivrées |
 | 💰 **Wallet** | Les revenus créditent le Wallet de la marque | Financement de ses propres campagnes |
 
 ## Le transfert de confiance
@@ -69,9 +69,9 @@ L'IA sert à cibler les marques affinitaires grâce à la **modélisation d'audi
 </div>
 
 ::: info Les fonctionnalités pour commercialiser votre offre média
-- **Répondre aux demandes des annonceurs :** recevez directement des propositions de campagnes.
-- **Prospecter les annonceurs :** adressez-leur vos propres propositions.
-- **Collaborer avec vos partenaires :** hébergez l'ensemble de vos annonceurs partenaires et opérez tout depuis une seule solution.
+- **Répondre aux demandes des marques :** recevez directement des propositions de campagnes.
+- **Prospecter d'autres marques :** adressez-leur vos propres propositions.
+- **Collaborer avec vos partenaires :** regroupez toutes vos marques partenaires et opérez tout depuis une seule solution.
 :::
 
 ## Fidéliser : retrouver ceux qui n'ouvrent plus vos e-mails
@@ -93,7 +93,7 @@ Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courrier
 
 ::: warning ⭐ Le Score Distributeur : votre clé d'accès
 
-Chaque marque du réseau reçoit un **Score Distributeur** (1-5 étoiles) basé sur **7 critères clés** : respect des délais, qualité de tracking, taux d'erreur, conformité RGPD, taux de réclamations, intégration API et réactivité.
+Chaque marque qui diffuse des campagnes reçoit un **Score Distributeur** (1-5 étoiles) basé sur **7 critères clés** : respect des délais, qualité de tracking, taux d'erreur, conformité RGPD, taux de réclamations, intégration API et réactivité.
 
 Ce score détermine votre **visibilité dans le moteur de recherche de la plateforme** et votre accès prioritaire aux campagnes premium.
 

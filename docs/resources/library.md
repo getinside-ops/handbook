@@ -68,4 +68,4 @@ Pour préparer vos visuels aux normes techniques, privilégiez les logiciels de 
 ## 📄 Documents de Référence
 
 - **[Check-list de Contrôle avant envoi ↗](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** : À vérifier impérativement avant de soumettre un BAT.
-- **[Guide de Conception de Contenus](/advertisers/sponsored-mail/design-guide/)** : Toutes les règles techniques pour vos flyers (formats, résolution, mentions légales).
+- **[Guide de Conception de Contenus](/recruit/sponsored-mail/design-guide/)** : Toutes les règles techniques pour vos flyers (formats, résolution, mentions légales).

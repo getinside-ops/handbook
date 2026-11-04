@@ -1,6 +1,6 @@
 ---
 title: Campaign Management
-description: "Answers on campaign management: the 48 business-hour response deadline, cancellations, refusing a non-compliant flyer, late starts and performance tracking. Also covers the distributor's veto right over the brand and the ban on sharing customer addresses with an advertiser."
+description: "Answers on campaign management: the 48 business-hour response deadline, cancellations, refusing a non-compliant flyer, late starts and performance tracking. Also covers the veto right of the brand delivering your campaign and the ban on sharing your customer addresses with the brand whose campaign you deliver."
 keywords:
   - Campaign management
   - 48-hour response time
@@ -13,7 +13,7 @@ keywords:
 # Campaign Management
 
 ::: details What is the expected response time?
-You must respond within **48 working hours**. Responsiveness is the key to winning campaigns against other network brands. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
+You must respond within **48 working hours**. Responsiveness is the key to winning campaigns against the other brands in the running. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
 :::
 
 ::: details Can I cancel an already accepted campaign?
@@ -31,7 +31,7 @@ Yes. Check the merchandise upon receipt. If the materials are damaged or do not 
 If you haven't distributed anything over a planned week:
 
 1. Enter **"0"** in the weekly reporting.
-2. Notify the advertiser via messaging.
+2. Notify the brand whose campaign you deliver via messaging.
 
 The platform will automatically extend the campaign at the end of the period to reach the target volume.
 :::
@@ -41,32 +41,32 @@ Go to the relevant audience profile and add a campaign type. For a custom offer 
 :::
 
 ::: details Where to see my campaign history?
-- **Received campaigns (Network brand):** Monetization → Campaign manager (filter by status: Accepted, Refused...)
-- **Your own campaigns (Advertiser):** Campaigns → All campaigns
+- **Campaigns you deliver (when you monetize):** Monetization → Campaign manager (filter by status: Accepted, Refused...)
+- **Your own campaigns (when you recruit):** Campaigns → All campaigns
 :::
 
 ::: details How to track the performance of my campaign?
 You have dual tracking on your getinside dashboard:
 
 1. **Performance (ROI):** Scans of your QR codes in real-time.
-2. **Distribution:** Volumes of inserted flyers updated every beginning of the week by the distributor.
+2. **Distribution:** Volumes of inserted flyers updated every beginning of the week by the brand delivering your campaign.
 :::
 
-::: details A distributor refuses my visual — what to do?
-The distributor has a **veto right over the brand** (direct competitor, ethically incompatible category) — but not over the art direction.
+::: details A brand delivering my campaign refuses my visual — what to do?
+This brand has a **veto right over the promoted brand** (direct competitor, ethically incompatible category) — but not over the art direction.
 
-If your visual meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal mentions present), it is compliant. The distributor cannot reject it for subjective reasons of taste or style.
+If your visual meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal mentions present), it is compliant. It cannot reject it for subjective reasons of taste or style.
 
 **Procedure:**
-1. Check that your file respects the [print specifications](/en/advertisers/sponsored-mail/design-guide/print-specs).
+1. Check that your file respects the [print specifications](/en/recruit/sponsored-mail/design-guide/print-specs).
 2. If everything is compliant, send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) for official validation.
-3. The getinside validation takes precedence over the subjective appreciation of the distributor.
+3. The getinside validation takes precedence over the subjective appreciation of the brand delivering the campaign.
 :::
 
-::: details An advertiser asks for the addresses of my customers — can I give them?
+::: details A brand whose campaign I deliver asks for the addresses of my customers — can I give them?
 **No, under no circumstances.** This request is contrary to GDPR and our Terms of Service.
 
-Your customer data is a **First Party** asset that belongs exclusively to you. getinside operates as a **Trusted Third Party**: the advertiser accesses your audience without ever receiving the file. No database transfer is allowed without specific opt-in from each customer.
+Your customer data is a **First Party** asset that belongs exclusively to you. getinside operates as a **Trusted Third Party**: that brand accesses your audience without ever receiving the file. No database transfer is allowed without specific opt-in from each customer.
 
 In case of an insistent request, contact [support@getinside.fr](mailto:support@getinside.fr) — our team handles the legal response.
 :::

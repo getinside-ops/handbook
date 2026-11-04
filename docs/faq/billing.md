@@ -1,6 +1,6 @@
 ---
 title: Facturation & Paiements
-description: "Réponses sur la facturation et les paiements des marques du réseau : crédit du Wallet, retrait des gains et facture, délai de protection de 30 jours, réinvestissement du solde. Détaille aussi la procédure en cas d'anomalie et la règle d'expiration des fonds après 12 mois d'inactivité."
+description: "Réponses sur la facturation et les paiements quand vous monétisez : crédit du Wallet, retrait des gains et facture, délai de protection de 30 jours, réinvestissement du solde. Détaille aussi la procédure en cas d'anomalie et la règle d'expiration des fonds après 12 mois d'inactivité."
 keywords:
   - Wallet
   - Retrait des gains
@@ -40,9 +40,9 @@ Oui. Dans **Exchange**, cliquez sur `Transférer vers le wallet`. Vous pourrez u
 :::
 
 ::: details Pourquoi mes revenus sont-ils bloqués 30 jours ?
-Le délai de 30 jours est un **délai de protection** qui sécurise votre paiement et celui de l'annonceur.
+Le délai de 30 jours est un **délai de protection** qui sécurise votre paiement et celui de la marque dont vous diffusez la campagne.
 
-Il permet de détecter et traiter les anomalies éventuelles (cartons perdus, volumes non conformes, campagne interrompue) **avant** que les fonds soient définitivement libérés. Sans ce tampon, getinside ne pourrait pas garantir votre paiement en cas d'impayé annonceur.
+Il permet de détecter et traiter les anomalies éventuelles (cartons perdus, volumes non conformes, campagne interrompue) **avant** que les fonds soient définitivement libérés. Sans ce tampon, getinside ne pourrait pas garantir votre paiement en cas d'impayé de la marque dont vous diffusez la campagne.
 :::
 
 ::: details Que se passe-t-il si une anomalie est détectée pendant les 30 jours ?

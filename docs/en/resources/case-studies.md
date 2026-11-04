@@ -12,7 +12,7 @@ keywords:
 
 # Inspirations & Case Studies
 
-Discover how other brands and distributors use getinside to achieve their acquisition and monetization goals.
+Discover how other brands use getinside to achieve their acquisition and monetization goals.
 
 <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create my campaign</a>
 
@@ -259,7 +259,7 @@ Click on the images to zoom.
       <h2>NESPRESSO</h2>
       <Badge type="info" text="Trade Marketing" />
     </div>
-    <p>Develop collaboration with distributors (Boulanger).</p>
+    <p>Develop collaboration with partner chains (Boulanger).</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Partner</strong><span>Boulanger</span></div>

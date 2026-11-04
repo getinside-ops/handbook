@@ -49,7 +49,7 @@ Check:
 ## Logistics Management
 
 ::: details I received the inserts early — can I start?
-It is imperative to have the advertiser's green light to broadcast a campaign earlier than planned. This can cause problems if the landing page is not yet active or if the campaign competes with another offer.
+It is imperative to have the green light of the brand whose campaign you deliver to broadcast a campaign earlier than planned. This can cause problems if the landing page is not yet active or if the campaign competes with another offer.
 :::
 
 ::: details The flyers arrived damaged
@@ -63,7 +63,7 @@ Do not distribute the damaged materials.
 :::
 
 ::: details Stock discrepancy — I received more or fewer flyers than expected
-**You received FEWER:** immediately notify the advertiser and getinside via the campaign messaging.
+**You received FEWER:** immediately notify the brand concerned and getinside via the campaign messaging.
 
 **You received MORE (surplus):** this is normal. This surplus corresponds to the spoilage tolerance regulated by Article 38 of the Code of practices of the graphic industry (UNIIC). See the section below for details.
 :::
@@ -90,9 +90,9 @@ The buyer is **required to accept** the following delivery discrepancies, which 
 | > 100,000 ex | ± 2% |
 
 **Procedure for surplus:**
-1. Distribute the surplus if possible (unchanged budget, additional volume = bonus for the advertiser).
+1. Distribute the surplus if possible (unchanged budget, additional volume = bonus for the brand whose campaign you deliver).
 2. If insertion is impossible (warehouse full, campaign ended), direct to recycling.
-3. If the advertiser disputes: reference Article 38 UNIIC and your delivery slip.
+3. If the brand disputes: reference Article 38 UNIIC and your delivery slip.
 ---
 
 ## Transport Damage
@@ -117,14 +117,14 @@ If the damage exceeds 1% of the volume or if the materials do not comply with th
 
 ## Data & GDPR
 
-::: details An advertiser asks for the recipients' addresses — can I provide them?
-**No.** This request is not allowed, even if the advertiser insists.
+::: details A brand whose campaign I deliver asks for the recipients' addresses — can I provide them?
+**No.** This request is not allowed, even if the brand insists.
 
-Customer data is a **First Party asset** that belongs exclusively to the network brand (you). File transfer is legally prohibited without a new specific opt-in (GDPR).
+Customer data is a **First Party asset** that belongs exclusively to your brand (you). File transfer is legally prohibited without a new specific opt-in (GDPR).
 
-getinside operates as a **Trusted Third Party**: we route the advertiser's message to your audience, but the data never leaves your secure environment.
+getinside operates as a **Trusted Third Party**: we route the brand's message to your audience, but the data never leaves your secure environment.
 
-If an advertiser makes this request, direct them to our team: [support@getinside.fr](mailto:support@getinside.fr).
+If a brand makes this request, direct them to our team: [support@getinside.fr](mailto:support@getinside.fr).
 :::
 
 ::: details CSR and Printing Standards

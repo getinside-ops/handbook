@@ -1,13 +1,13 @@
 ---
 title: Account & Audiences
-description: "Answers to common questions about your getinside account: adding a user, listing an audience, managing several sites from one account and tracking your referrals. Also explains how to make your audience profile attractive to advertisers and why your Distributor Score can drop."
+description: "Answers to common questions about your getinside account: adding a user, listing an audience, managing several sites from one account and tracking your referrals. Also explains how to make your audience profile attractive to brands looking for audiences and why your Distributor Score can drop."
 keywords:
   - getinside account
   - Audiences
   - Audience profile
   - Distributor Score
   - Affiliate program
-  - Network brands FAQ
+  - Monetize FAQ
 ---
 
 # Account, Team & Audiences
@@ -17,9 +17,9 @@ Go to **My Organization → Team** and click on `+ Add a member`. Recommended: a
 :::
 
 ::: details How to reference a new audience?
-Go to **Monetization → Catalog** and click on `+ New audience`. Fill in the forms carefully (Brand, Persona, Average Cart) — this is what will convince advertisers.
+Go to **Monetization → Catalog** and click on `+ New audience`. Fill in the forms carefully (Brand, Persona, Average Cart) — this is what will convince brands looking for an audience.
 
-→ [Detailed guide: Audience Setup](/en/publishers/audience-setup)
+→ [Detailed guide: Audience Setup](/en/monetize/audience-setup)
 :::
 
 ::: details Do I need to create multiple accounts if I have multiple sites?
@@ -37,18 +37,18 @@ The status of your referrals is visible in the **Affiliation** tab. You are rewa
 ::: details Why did my "Distributor Score" drop?
 The score is recalculated dynamically. Frequent causes: response time > 48h, campaign refusals without counter-proposal, distributed volumes lower than commitments, CPM too high vs competition.
 
-→ [Complete guide: Distributor Score](/en/publishers/score-distributor)
+→ [Complete guide: Distributor Score](/en/monetize/score-distributor)
 :::
 
-::: details How to make my audience profile attractive to advertisers?
-Advertisers browse the catalog like a marketplace — your profile is your storefront. To maximize your chances of receiving offers:
+::: details How to make my audience profile attractive to other brands?
+Brands that want to recruit browse the catalog like a marketplace — your profile is your storefront. To maximize your chances of receiving offers:
 
 - **Take care of the visuals:** photos of your packaging, examples of parcels, screenshots of your emails.
 - **Precisely describe your persona:** age, product category, purchase frequency, geolocation.
 - **Provide a realistic Average Order Value (AOV):** a precise number is more reassuring than a vague range.
-- **Activate multiple formats:** a distributor offering Parcel Insert + Emailing is more attractive than a single-format one.
+- **Activate multiple formats:** an audience offering Parcel Insert + Emailing is more attractive than a single-format one.
 
-→ [Complete guide: Audience Setup](/en/publishers/audience-setup)
+→ [Complete guide: Audience Setup](/en/monetize/audience-setup)
 :::
 
 ::: details Can I manage multiple sites from a single getinside account?

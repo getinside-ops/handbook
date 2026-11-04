@@ -36,17 +36,17 @@ Deliver marketing campaigns that touch consumers, right to their homes, where pu
 ## Three use cases
 
 <div class="gi-format-grid">
-  <a href="/handbook/en/advertisers/" class="gi-format-card">
+  <a href="/handbook/en/recruit/" class="gi-format-card">
     <span class="gi-format-card-icon">🎯</span>
     <span class="gi-format-card-title">Recruit</span>
     <p class="gi-format-card-desc">Reach your future customers through the brands they already buy from. With a media budget, or through an exchange: you carry their offers in your parcels, they carry yours in theirs.</p>
   </a>
-  <a href="/handbook/en/advertisers/direct-mail/" class="gi-format-card">
+  <a href="/handbook/en/retain/direct-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">💌</span>
     <span class="gi-format-card-title">Retain</span>
     <p class="gi-format-card-desc">Reach the customers who no longer open your emails through direct mail, and turn every parcel you ship into an immediate repurchase lever.</p>
   </a>
-  <a href="/handbook/en/publishers/" class="gi-format-card">
+  <a href="/handbook/en/monetize/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Monetise</span>
     <p class="gi-format-card-desc">Deliver partner campaigns that enrich your customers' shopping experience, and generate revenue to fund your acquisition.</p>
@@ -68,17 +68,17 @@ It is a way to recruit without buying media: you expose your customer audience t
 | **Sampling** | A free sample so people can try, smell or touch your product. |
 
 <div class="gi-format-grid">
-  <a href="/handbook/en/advertisers/sponsored-mail/" class="gi-format-card">
+  <a href="/handbook/en/recruit/sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Parcel inserts</span>
     <p class="gi-format-card-desc">Your offer in the parcel of an affinity brand.</p>
   </a>
-  <a href="/handbook/en/advertisers/direct-mail/" class="gi-format-card">
+  <a href="/handbook/en/retain/direct-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">✉️</span>
     <span class="gi-format-card-title">Direct mail</span>
     <p class="gi-format-card-desc">A named letter in the mailbox.</p>
   </a>
-  <a href="/handbook/en/advertisers/sampling/" class="gi-format-card">
+  <a href="/handbook/en/recruit/sampling/" class="gi-format-card">
     <span class="gi-format-card-icon">🧴</span>
     <span class="gi-format-card-title">Sampling</span>
     <p class="gi-format-card-desc">Let people try, smell or touch your product.</p>
@@ -109,8 +109,11 @@ Each brand approves the brands and offers shown to its customers. We measure and
 
 ::: info Ready to start?
 
-- **Recruit or retain**: [Advertiser area](/en/advertisers/)
-- **Monetise your parcels**: [Network brand area](/en/publishers/)
+- **Recruit**: [have your campaign delivered by other brands](/en/recruit/)
+- **Retain**: [reach your customers through direct mail](/en/retain/)
+- **Monetise**: [deliver other brands' campaigns to your customers](/en/monetize/)
+
+Recruit and Monetise are the two sections of the getinside solution. Retain, through direct mail, has its own section.
 
 [Discuss my project →](mailto:studio@getinside.com)
 

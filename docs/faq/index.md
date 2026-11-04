@@ -20,7 +20,7 @@ keywords:
   <a href="troubleshooting-distributors" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Résolution de Problèmes — Distributeurs</p>
+      <p class="gi-nav-card-title">Résolution de Problèmes — Monétisation</p>
       <p class="gi-nav-card-desc">Wallet, paiements, campagnes, pénalités — solutions aux cas fréquents.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>

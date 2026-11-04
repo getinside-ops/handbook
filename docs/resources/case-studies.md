@@ -12,7 +12,7 @@ keywords:
 
 # Inspirations & cas clients
 
-Découvrez comment d'autres marques et distributeurs utilisent getinside pour atteindre leurs objectifs d'acquisition et de monétisation.
+Découvrez comment d'autres marques utilisent getinside pour atteindre leurs objectifs d'acquisition et de monétisation.
 
 <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer ma campagne</a>
 
@@ -259,7 +259,7 @@ Cliquez sur les images pour zoomer.
       <h2>NESPRESSO</h2>
       <Badge type="info" text="Trade Marketing" />
     </div>
-    <p>Développer la collaboration avec les distributeurs (Boulanger).</p>
+    <p>Développer la collaboration avec les enseignes partenaires (Boulanger).</p>
     <hr />
     <div class="gi-case-stats">
       <div><strong>Partenaire</strong><span>Boulanger</span></div>

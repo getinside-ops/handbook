@@ -19,9 +19,9 @@ image: /images/gi-keyvisual.svg
 
 | Player | Action | Flow |
 | :--- | :--- | :--- |
-| 📦 **Network brand** | Ships parcels and mail to its customers | Available inventory |
+| 📦 **Brand that monetises** | Ships parcels and mail to its customers, and delivers campaigns in them | Available inventory |
 | ⚡ **Platform** | Targets affinity audiences with AI | Matching |
-| 📢 **Advertiser** | Delivers its offer or sample to those audiences | Campaigns delivered |
+| 📢 **Brand that recruits** | Has its offer or sample delivered to those audiences | Campaigns delivered |
 | 💰 **Wallet** | Revenue is credited to the brand's Wallet | Funds its own campaigns |
 
 ## The transfer of trust
@@ -69,9 +69,9 @@ AI is used to target affinity brands through **lookalike modelling**: custom mod
 </div>
 
 ::: info Features to sell your media offer
-- **Respond to advertiser requests:** receive campaign proposals directly.
-- **Prospect advertisers:** send them your own proposals.
-- **Collaborate with your partners:** host all your partner advertisers and run everything from a single solution.
+- **Respond to brand requests:** receive campaign proposals directly.
+- **Prospect other brands:** send them your own proposals.
+- **Collaborate with your partners:** bring all your partner brands together and run everything from a single solution.
 :::
 
 ## Retain: reach customers who no longer open your emails
@@ -93,7 +93,7 @@ Your customers no longer open your emails, but they still open their mail and th
 
 ::: warning ⭐ The Distributor Score: your access key
 
-Each network brand receives a **Distributor Score** (1-5 stars) based on **7 key criteria**: on-time delivery, tracking quality, error rate, GDPR compliance, complaint rate, API integration and responsiveness.
+Each brand that delivers campaigns receives a **Distributor Score** (1-5 stars) based on **7 key criteria**: on-time delivery, tracking quality, error rate, GDPR compliance, complaint rate, API integration and responsiveness.
 
 This score determines your **visibility in the platform's search engine** and your priority access to premium campaigns.
 

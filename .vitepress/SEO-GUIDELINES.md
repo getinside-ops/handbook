@@ -20,7 +20,7 @@ image: [URL de l'image OpenGraph, préférablement /images/...]
 ---
 ```
 
-**Exemple pour advertisers/index.md :**
+**Exemple pour recruit/index.md :**
 ```yaml
 ---
 title: Marketing par le colis et le courrier adressé pour Annonceurs - getinside
@@ -58,8 +58,9 @@ Chaque page doit suivre cette structure:
 |---------|-------------------|
 | start-here/index.md | marketing par le colis et le courrier adressé, monétisation, plateforme, colis, email, getinside |
 | start-here/why-it-works | matching contextuel, endorsed advertising, trust transfer, boucle vertueuse |
-| advertisers/ | annonceurs, plateforme publicitaire, acquisition, acheteurs qualifiés |
-| publishers/ | marques du réseau, monétisation, e-commerce, revenue, growth |
+| recruit/ | recruter, acquisition client, insertion colis, échantillonnage, CAC |
+| retain/ | fidéliser, courrier adressé, clients inactifs, réactivation |
+| monetize/ | monétiser, audience, revenus, wallet, briefs |
 | faq/ | getinside, support, questions fréquentes, troubleshooting |
 | resources/ | case studies, guides, templates, outils, best practices |
 
@@ -102,7 +103,7 @@ Chaque page génère automatiquement:
 
 Généré automatiquement lors du build :
 - Toutes les pages `.md` sont incluses
-- Priorités automatiques selon le type de page (start-here=0.9, publishers=0.8, etc.)
+- Priorités automatiques selon le type de page (start-here=0.9, recruit/retain/monetize=0.8, etc.)
 - `lastmod` mis à jour automatiquement
 
 ```bash
@@ -189,9 +190,9 @@ LLM souvent posent des questions, utilisez:
 Pour renforcer l'autorité et le crawling :
 
 ### Pages Prioritaires (Hub pages)
-- `/docs/fr/start-here/` → Vers advertisers + publishers
-- `/docs/fr/advertisers/` → Vers chaque format ad
-- `/docs/fr/publishers/` → Vers chaque levier de monétisation
+- `/docs/fr/start-here/` → Vers recruit + retain + monetize
+- `/docs/fr/recruit/` → Vers chaque format
+- `/docs/fr/monetize/` → Vers chaque levier de monétisation
 - `/docs/fr/faq/` → Vers toutes les sections
 
 ### Linking Pattern
@@ -201,8 +202,8 @@ Pour renforcer l'autorité et le crawling :
 
 **Exemples**
 ```markdown
-- Pour plus sur [l'Insertion Colis](/docs/fr/advertisers/sponsored-mail/)
-- Voir aussi [le Score Distributeur](/docs/fr/publishers/score-distributor)
+- Pour plus sur [l'Insertion Colis](/docs/fr/recruit/sponsored-mail/)
+- Voir aussi [le Score Distributeur](/docs/fr/monetize/score-distributor)
 - Apprenez comment [le matching contextuel fonctionne](/docs/fr/start-here/why-it-works#le-matching-contextuel)
 ```
 
@@ -232,12 +233,12 @@ Pour renforcer l'autorité et le crawling :
 
 ### Trimestriel
 - Analyser les LLM citations via Google Search Console
-- Vérifier le classement des pages piliers (start-here, advertisers, publishers)
+- Vérifier le classement des pages piliers (start-here, recruit, retain, monetize)
 
 ### Quand Ajouter du Contenu
 - Nouveau format ad ? → Ajouter sa page + mettre à jour sidebar
 - Nouvelles données ? → Enrichir pages existantes + mettre à jour seo-keywords.md
-- Nouvel integrale case study ? → Ajouter + lier depuis advertisers + publishers
+- Nouvel integrale case study ? → Ajouter + lier depuis recruit + monetize
 
 ---
 

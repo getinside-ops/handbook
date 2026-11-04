@@ -20,7 +20,7 @@ keywords:
   <a href="troubleshooting-distributors" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Troubleshooting — Distributors</p>
+      <p class="gi-nav-card-title">Troubleshooting — Monetization</p>
       <p class="gi-nav-card-desc">Wallet, payments, campaigns, penalties — solutions to frequent cases.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>

@@ -1,13 +1,13 @@
 ---
 title: Compte & Audiences
-description: "Réponses aux questions courantes sur votre compte getinside : ajouter un utilisateur, référencer une audience, gérer plusieurs sites depuis un seul compte et suivre vos filleuls. Explique aussi comment rendre votre fiche audience attractive pour les annonceurs et pourquoi votre Score Distributeur peut baisser."
+description: "Réponses aux questions courantes sur votre compte getinside : ajouter un utilisateur, référencer une audience, gérer plusieurs sites depuis un seul compte et suivre vos filleuls. Explique aussi comment rendre votre fiche audience attractive pour les marques qui cherchent des audiences et pourquoi votre Score Distributeur peut baisser."
 keywords:
   - Compte getinside
   - Audiences
   - Fiche audience
   - Score Distributeur
   - Affiliation
-  - FAQ marques du réseau
+  - FAQ monétiser
 ---
 
 # Compte, Équipe & Audiences
@@ -17,9 +17,9 @@ Rendez-vous dans **Mon Organisation → Équipe** et cliquez sur `+ Ajouter un m
 :::
 
 ::: details Comment référencer une nouvelle audience ?
-Allez dans **Monétisation → Catalogue** et cliquez sur `+ Nouvelle audience`. Remplissez les fiches avec soin (Marque, Persona, Panier Moyen) — c'est ce qui convaincra les annonceurs.
+Allez dans **Monétisation → Catalogue** et cliquez sur `+ Nouvelle audience`. Remplissez les fiches avec soin (Marque, Persona, Panier Moyen) — c'est ce qui convaincra les marques qui cherchent une audience.
 
-→ [Guide détaillé : Configuration d'Audience](/publishers/audience-setup)
+→ [Guide détaillé : Configuration d'Audience](/monetize/audience-setup)
 :::
 
 ::: details Faut-il créer plusieurs comptes si j'ai plusieurs sites ?
@@ -37,18 +37,18 @@ L'état de vos filleuls est visible dans l'onglet **Affiliation**. Vous êtes r�
 ::: details Pourquoi mon "Score Distributeur" a baissé ?
 Le score est recalculé dynamiquement. Causes fréquentes : délai de réponse > 48h, refus de campagnes sans contre-proposition, volumes distribués inférieurs aux engagements, CPM trop élevé vs la concurrence.
 
-→ [Guide complet : Score Distributeur](/publishers/score-distributor)
+→ [Guide complet : Score Distributeur](/monetize/score-distributor)
 :::
 
-::: details Comment rendre ma fiche audience attractive pour les annonceurs ?
-Les annonceurs parcourent le catalogue comme une place de marché — votre fiche est votre vitrine. Pour maximiser vos chances de recevoir des offres :
+::: details Comment rendre ma fiche audience attractive pour les autres marques ?
+Les marques qui veulent recruter parcourent le catalogue comme une place de marché — votre fiche est votre vitrine. Pour maximiser vos chances de recevoir des offres :
 
 - **Soignez les visuels :** photos de vos emballages, exemples de colis, captures de vos emails.
 - **Décrivez précisément votre persona :** âge, catégorie de produit, fréquence d'achat, géolocalisation.
 - **Renseignez un Panier Moyen (AOV) réaliste :** un chiffre précis rassure plus qu'une fourchette vague.
-- **Activez plusieurs formats :** un distributeur proposant Insertion Colis + Emailing est plus attractif qu'un monoforme.
+- **Activez plusieurs formats :** une audience proposant Insertion Colis + Emailing est plus attractive qu'une audience mono-format.
 
-→ [Guide complet : Configuration d'Audience](/publishers/audience-setup)
+→ [Guide complet : Configuration d'Audience](/monetize/audience-setup)
 :::
 
 ::: details Peut-on gérer plusieurs sites depuis un seul compte getinside ?

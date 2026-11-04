@@ -28,15 +28,15 @@ features:
   - icon: 🎯
     title: Recruit
     details: "Reach your future customers through the brands they already buy from, by delivering your campaigns to affinity audiences. With a media budget, or through an exchange. Best CAC: €1.21."
-    link: /en/advertisers/
+    link: /en/recruit/
   - icon: 💌
     title: Retain
     details: "Reach the customers who no longer open your emails through direct mail, and turn every parcel you ship into an immediate repurchase lever. Best observed CVR: 6%."
-    link: /en/advertisers/direct-mail/
+    link: /en/retain/direct-mail/
   - icon: 📦
     title: Monetise
     details: "Deliver partner campaigns that enrich your customers' shopping experience, and generate revenue to fund your acquisition. Top revenue: €215K+ per year."
-    link: /en/publishers/
+    link: /en/monetize/
   - icon: 🛠️
     title: An all-in-one solution, powered by AI
     details: "AI and data targeting, lookalike modelling, full automation. 500+ brands are already growing with getinside, from DNVBs to the largest chains."

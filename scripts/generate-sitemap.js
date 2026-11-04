@@ -18,8 +18,9 @@ const SITE_URL = 'https://getinside-ops.github.io/handbook';
 // Priorités par type de page
 const priorityMap = {
   'start-here': 0.9,
-  'advertisers': 0.8,
-  'publishers': 0.8,
+  'recruit': 0.8,
+  'retain': 0.8,
+  'monetize': 0.8,
   'faq': 0.7,
   'resources': 0.6,
   'glossary': 0.6,
@@ -36,7 +37,7 @@ function getPriority(relativePath) {
 
 function getChangefreq(relativePath) {
   // Pages fréquemment mises à jour
-  if (relativePath.includes('start-here') || relativePath.includes('advertisers')) {
+  if (relativePath.includes('start-here') || relativePath.includes('recruit')) {
     return 'weekly';
   }
   if (relativePath.includes('resources')) {
@@ -65,9 +66,9 @@ function walkDir(dir, fileList = [], exclude = []) {
 }
 
 function mdToUrlPath(mdFilePath) {
-  // docs/advertisers/index.md → advertisers/
-  // docs/advertisers/pricing.md → advertisers/pricing
-  // docs/en/advertisers/index.md → en/advertisers/
+  // docs/recruit/index.md → recruit/
+  // docs/recruit/onboarding-quick-start.md → recruit/onboarding-quick-start
+  // docs/en/recruit/index.md → en/recruit/
   let relativePath = path.relative(ROOT, mdFilePath);
 
   // Remplacer backslashes par slashes (Windows compatibility)
