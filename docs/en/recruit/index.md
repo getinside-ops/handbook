@@ -49,8 +49,6 @@ Customers who no longer open your emails? Discover [direct mail](/en/retain/dire
   </a>
 </div>
 
-Direct mail, which serves the Retain use case, has its own page: [direct mail](/en/retain/direct-mail/).
-
 ## Other formats
 
 <div class="gi-format-grid">

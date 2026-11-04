@@ -17,7 +17,7 @@ keywords:
 <p class="gi-page-intro">Quickly find answers about managing your account, your campaigns, and billing.</p>
 
 <div class="gi-nav-list">
-  <a href="troubleshooting-distributors" class="gi-nav-card">
+  <a href="troubleshooting" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting — Monetization</p>

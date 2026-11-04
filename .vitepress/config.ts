@@ -272,7 +272,7 @@ const config: any = withMermaid(
             collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/faq/' },
-              { text: 'Résolution de problèmes', link: '/faq/troubleshooting-distributors' },
+              { text: 'Résolution de problèmes', link: '/faq/troubleshooting' },
               { text: 'Audiences & Compte', link: '/faq/account-audiences' },
               { text: 'Facturation', link: '/faq/billing' },
               { text: 'Gestion de Campagnes', link: '/faq/campaign-management' },
@@ -418,7 +418,7 @@ const config: any = withMermaid(
             collapsed: true,
             items: [
               { text: 'Overview', link: '/en/faq/' },
-              { text: 'Troubleshooting', link: '/en/faq/troubleshooting-distributors' },
+              { text: 'Troubleshooting', link: '/en/faq/troubleshooting' },
               { text: 'Audiences & Account', link: '/en/faq/account-audiences' },
               { text: 'Billing', link: '/en/faq/billing' },
               { text: 'Campaign Management', link: '/en/faq/campaign-management' },

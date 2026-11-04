@@ -114,7 +114,7 @@ If you do not log in **AND** do not withdraw your revenue for **12 consecutive m
 
 Your balance does not match your expectations? A withdrawal is delayed?
 
-→ Consult the [Wallet & Payments Troubleshooting](/en/faq/troubleshooting-distributors) guide for common cases and their solutions.
+→ Consult the [Wallet & Payments Troubleshooting](/en/faq/troubleshooting) guide for common cases and their solutions.
 
 ---
 

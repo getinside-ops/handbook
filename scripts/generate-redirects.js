@@ -14,8 +14,8 @@ const DIST_DIR = path.join(__dirname, '..', '.vitepress/dist');
 const BASE = '/handbook';
 const redirects = JSON.parse(fs.readFileSync(path.join(__dirname, 'redirects.json'), 'utf8'));
 
-const stub = (to) => `<!doctype html>
-<html lang="fr">
+const stub = (to, lang) => `<!doctype html>
+<html lang="${lang}">
 <head>
 <meta charset="utf-8">
 <title>Redirection…</title>
@@ -35,7 +35,7 @@ for (const [from, to] of Object.entries(redirects)) {
   const file = path.join(DIST_DIR, rel);
   if (fs.existsSync(file)) continue; // ne jamais écraser une vraie page
   fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(file, stub(BASE + to));
+  fs.writeFileSync(file, stub(BASE + to, from.startsWith("/en/") ? "en" : "fr"));
   count++;
 }
 console.log(`✓ ${count} redirections générées`);

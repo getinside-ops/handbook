@@ -49,8 +49,6 @@ Vos clients n'ouvrent plus vos e-mails ? Découvrez le [courrier adressé](/reta
   </a>
 </div>
 
-Le courrier adressé, qui sert l'usage Fidéliser, a sa propre page : [courrier adressé](/retain/direct-mail/).
-
 ## Autres formats
 
 <div class="gi-format-grid">

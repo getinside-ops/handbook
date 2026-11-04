@@ -72,5 +72,7 @@
   "/advertisers/pricing": "/recruit/",
   "/publishers/pricing": "/monetize/",
   "/en/advertisers/pricing": "/en/recruit/",
-  "/en/publishers/pricing": "/en/monetize/"
+  "/en/publishers/pricing": "/en/monetize/",
+  "/faq/troubleshooting-distributors": "/faq/troubleshooting",
+  "/en/faq/troubleshooting-distributors": "/en/faq/troubleshooting"
 }

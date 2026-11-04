@@ -32,7 +32,7 @@ features:
   - icon: 💌
     title: Fidéliser
     details: "Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails, et transformez chaque colis que vous livrez en levier de rachat immédiat. Top CVR constaté : 6 %."
-    link: /retain/direct-mail/
+    link: /retain/
   - icon: 📦
     title: Monétiser
     details: "Délivrez des campagnes de partenaires qui enrichissent l'expérience d'achat de vos clients, et générez des revenus pour financer votre acquisition. Top revenus : +215 K€ par an."

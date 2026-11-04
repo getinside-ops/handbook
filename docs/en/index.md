@@ -32,7 +32,7 @@ features:
   - icon: 💌
     title: Retain
     details: "Reach the customers who no longer open your emails through direct mail, and turn every parcel you ship into an immediate repurchase lever. Best observed CVR: 6%."
-    link: /en/retain/direct-mail/
+    link: /en/retain/
   - icon: 📦
     title: Monetise
     details: "Deliver partner campaigns that enrich your customers' shopping experience, and generate revenue to fund your acquisition. Top revenue: €215K+ per year."

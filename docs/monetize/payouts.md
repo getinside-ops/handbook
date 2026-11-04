@@ -114,7 +114,7 @@ Si vous ne vous connectez pas **ET** ne retirez pas vos revenus pendant **12 moi
 
 Votre solde ne correspond pas à vos attentes ? Un retrait tarde ?
 
-→ Consultez le guide [Problèmes Wallet & Paiements](/faq/troubleshooting-distributors) pour les cas fréquents et leur solution.
+→ Consultez le guide [Problèmes Wallet & Paiements](/faq/troubleshooting) pour les cas fréquents et leur solution.
 
 ---
 
