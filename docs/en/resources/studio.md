@@ -12,7 +12,7 @@ keywords:
 
 # Creative Studio
 
-Accelerate your time-to-market. Delegate all graphic production (Print, Email, Social) to our team of getinside experts.
+Save time. Delegate all graphic production (print, email, social) to our team of getinside experts.
 
 ## The Studio Offer
 
@@ -23,7 +23,7 @@ Design + Art Direction + Copywriting + Technical compliance. **All included.**
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>✔ getinside Expertise</strong>
-    <p>Bleeds, ink coverage, email deliverability, GDPR — we master the technical constraints by heart.</p>
+    <p>Bleeds, ink coverage, email deliverability, GDPR: we master the technical constraints of every format.</p>
   </div>
   <div class="gi-value-card">
     <strong>✔ Guaranteed speed</strong>
@@ -31,12 +31,12 @@ Design + Art Direction + Copywriting + Technical compliance. **All included.**
   </div>
   <div class="gi-value-card">
     <strong>✔ Turnkey files</strong>
-    <p>Directly to printer/router standards — ready to broadcast, zero retouching.</p>
+    <p>To printer and router standards, ready to ship, no retouching on your side.</p>
   </div>
 </div>
 
 :::tip Order a brief
-Contact the Studio for the terms: **studio@getinside.fr**
+Contact the Studio: **[studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)**
 :::
 
 ---

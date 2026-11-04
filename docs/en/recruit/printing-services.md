@@ -10,7 +10,7 @@ keywords:
   - paper specifications
 ---
 
-# Printing and Logistics Services
+# Printing & Logistics
 
 getinside acts as a **central purchasing office** to pool volumes, reduce your costs, and guarantee responsible production.
 
@@ -47,8 +47,8 @@ getinside acts as a **central purchasing office** to pool volumes, reduce your c
 | **Formats** | A5 (148 × 210 mm), A6 (105 × 148 mm), Gift card |
 | **Weight** | 250 to 300 g/m² |
 | **Type** | Matte coated or semi-matte coated |
-| **Certification** | FSC or PEFC mandatory |
-| **Lamination** | ❌ No — makes QR codes less readable |
+| **Paper certification** | FSC or PEFC mandatory |
+| **Lamination** | No: makes QR codes less readable |
 
 ---
 
@@ -56,7 +56,7 @@ getinside acts as a **central purchasing office** to pool volumes, reduce your c
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 For your campaigns (Sponsored Mail)</strong>
+    <strong>📦 For your campaigns (Parcel inserts)</strong>
     <p>You book a campaign with a partner brand. getinside prints your materials, manages assembly (e.g., fugitive glue dot for sample), and delivers directly to the brand's warehouse.</p>
   </div>
   <div class="gi-value-card">
@@ -85,7 +85,7 @@ getinside acts as a **central purchasing office** to pool volumes, reduce your c
 </div>
 
 :::tip Just-in-time Delivery
-Prints are delivered directly to the warehouses of the brands delivering your campaign, synchronized to their logistics **Lead Time**. The merchandise arrives exactly when the partner needs it — zero unnecessary storage on your end.
+Prints are delivered directly to the warehouses of the brands delivering your campaign, synchronized to their logistics **Lead Time**. The merchandise arrives exactly when the partner needs it: zero unnecessary storage on your end.
 :::
 
 ---
@@ -105,8 +105,12 @@ Prints are delivered directly to the warehouses of the brands delivering your ca
 
 ---
 
-:::info How to order?
-The print option is automatically offered to you when creating a campaign on the platform.
+:::tip A brand hesitating for CSR reasons?
+Parcel inserts hold up against a CSR policy: certified paper, no dedicated mailing, targeted distribution with no wasted print run. → [See the CSR & parcel inserts page](./sustainability)
+:::
 
-For a specific request (special formats, custom assembly): [studio@getinside.fr](mailto:studio@getinside.fr)
+:::info How to order?
+The print option is automatically offered when you create a campaign on [app.getinside.media](https://app.getinside.media/){target="_blank"}: choose the format and quantity, and upload a file that meets the [technical specifications](./sponsored-mail/design-guide/print-specs).
+
+For a specific request (special formats, custom assembly): [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::

@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: FAQ - getinside
 description: "Answers to frequently asked questions about getinside: logistics, tracking, campaigns, audiences, Wallet and technical integration."
 keywords:
@@ -17,11 +18,19 @@ keywords:
 <p class="gi-page-intro">Quickly find answers about managing your account, your campaigns, and billing.</p>
 
 <div class="gi-nav-list">
-  <a href="troubleshooting" class="gi-nav-card">
+  <a href="troubleshooting-recruit" class="gi-nav-card">
+    <span class="gi-nav-card-icon">💼</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Troubleshooting: Recruit</p>
+      <p class="gi-nav-card-desc">Campaign not delivered, creative rejected, proof, tracking: quick solutions.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+  <a href="troubleshooting-monetize" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Troubleshooting — Monetization</p>
-      <p class="gi-nav-card-desc">Wallet, payments, campaigns, penalties — solutions to frequent cases.</p>
+      <p class="gi-nav-card-title">Troubleshooting: Monetize</p>
+      <p class="gi-nav-card-desc">Wallet, payments, campaigns: solutions to frequent cases.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

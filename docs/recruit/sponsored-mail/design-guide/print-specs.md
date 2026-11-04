@@ -38,13 +38,14 @@ Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm d
 
 | Critère | Spécification |
 | :--- | :--- |
-| **Format de fichier** | PDF/X (vectoriel) — à privilégier. JPG ou PNG acceptés. |
+| **Format de fichier** | PDF/X vectoriel (norme ISO prépresse), à privilégier. JPG ou PNG acceptés. |
 | **Résolution** | **300 DPI minimum** |
+| **Dimensions matricielles** | A6 : 1 287 × 1 795 px min · A5 : 1 795 × 2 528 px min |
 | **Mode colorimétrique** | **CMJN obligatoire** (pas de RVB) |
 | **Profil ICC** | Coated FOGRA39 |
 | **Taux d'encrage** | **Maximum 300%** |
 
-:::tip Astuce — Noir Profond
+:::tip Astuce : noir profond
 Pour un noir riche sur les aplats (fonds noirs larges) : utilisez **C30% M30% J30% N100%**.
 Pour les textes fins et petits caractères : utilisez **N100% seul** pour éviter le décalage à l'impression.
 :::
@@ -57,8 +58,18 @@ Pour les textes fins et petits caractères : utilisez **N100% seul** pour évite
 - **Grammage :** 250 à 300 g/m²
 - **Type :** Couché mat ou couché demi-mat
 - **Certification :** FSC ou PEFC
-- **Pelliculage :** Non — le pelliculage rend les QR codes moins lisibles
+- **Pelliculage :** non, le pelliculage rend les QR codes moins lisibles
 :::
+
+:::info Certification environnementale obligatoire
+**Si getinside réalise l'impression :** la mention suivante doit figurer sur le flyer :
+*"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"*
+→ Intégrez les logos FSC et Imprim'vert (dossier [Logos obligatoires](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}).
+
+**Si vous gérez votre propre impression :** seul le **logo getinside** est requis.
+:::
+
+→ L'argumentaire RSE complet : [RSE & insertion colis](/recruit/sustainability).
 
 ---
 
@@ -72,16 +83,18 @@ Vous **ne pouvez pas** utiliser un QR code généré par vos soins. Vous devez i
 
 **Taille minimum : 25 × 25 mm** (en dessous, le QR code n'est pas lisible par tous les smartphones).
 
+**Ne mélangez pas les QR codes :** chaque marque qui diffuse votre campagne dispose de son propre QR code. Le fichier `.svg` est disponible dans votre espace dès que la marque a validé votre proposition.
+
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>✨ QR Code Dynamique</strong>
     <p>L'URL de destination n'est pas gravée dans le motif du code.</p>
-    <p>Vous pouvez modifier la landing page à tout moment depuis la plateforme — <strong>même après l'impression des flyers</strong>. Idéal pour corriger une erreur d'URL ou prolonger une offre.</p>
+    <p>Vous pouvez modifier la landing page à tout moment depuis la plateforme, <strong>même après l'impression des flyers</strong>. Idéal pour corriger une erreur d'URL ou prolonger une offre.</p>
   </div>
   <div class="gi-value-card">
     <strong>🎯 Tracking & UTM</strong>
     <p>getinside mesure les scans. Pour suivre les <strong>ventes</strong> dans Google Analytics, configurez l'URL avec des paramètres UTM :</p>
-    <p><code>monsite.com?utm_source=getinside&utm_medium=insertion-colis&utm_campaign=printemps</code></p>
+    <p><code>monsite.com?utm_source=getinside&utm_medium=sponsored-mail&utm_campaign=printemps</code></p>
     <p>Ajoutez aussi un <strong>code promo unique</strong> par marque qui diffuse votre campagne pour l'attribution offline.</p>
   </div>
 </div>
@@ -98,7 +111,7 @@ getinside permet la distribution d'échantillons seuls ou assemblés avec un fly
 | **Format M** | 100 g | 30 cm |
 | **Format L** | 450 g | 40 cm |
 
-:::info Option "Duo" — Assemblage Flyer + Échantillon (Format S)
+:::info Option "Duo" : assemblage flyer + échantillon (Format S)
 L'échantillon est collé sur un flyer A5 ou A6 via un point de **colle fugitive** (repositionnable), permettant de le détacher sans abîmer le flyer.
 
 Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisant l'emploi de travailleurs handicapés.
@@ -112,8 +125,9 @@ Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisa
 
 1. Les dimensions incluent **+2 mm de fond perdu** et respectent **-3 mm de zone tranquille**.
 2. Le fichier est en **CMJN (FOGRA39)**, résolution ≥ **300 DPI**, taux d'encrage ≤ **300%**.
-3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm**.
-4. Les mentions légales universelles sont incluses : identification de votre marque, Triman, logo getinside, CGV.
-5. Les mentions sectorielles obligatoires (si applicable) sont lisibles.
+3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm**. Chaque marque qui diffuse a le sien.
+4. Les mentions légales universelles sont incluses : identification de votre marque, Triman, logo getinside, CGV. Si getinside réalise l'impression, la mention de certification FSC/Imprim'vert est présente.
+5. Les [mentions sectorielles](./legal) obligatoires (si applicable) sont présentes et lisibles.
+6. La **landing page** de destination a été testée sur mobile : responsive, chargement < 3 s, un seul appel à l'action (voir [Anatomie d'un flyer performant](./best-practices#la-landing-page-post-scan)).
 
 → [Télécharger la Check-list complète](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}

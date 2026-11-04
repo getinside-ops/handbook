@@ -12,7 +12,7 @@ keywords:
 
 # Resource Library
 
-Quickly access all necessary templates, logos, and technical documents.
+Templates, logos and technical documents to prepare your campaigns.
 
 ---
 
@@ -39,7 +39,7 @@ Quickly access all necessary templates, logos, and technical documents.
 </div>
 
 :::info Need creative help?
-You don't have Adobe software? Delegate the creation to our [Graphic Studio](/en/resources/studio). Contact: studio@getinside.fr
+You don't have Adobe software? Delegate creation to the [Creative Studio](/en/resources/studio). Contact: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 ---
@@ -60,6 +60,14 @@ To prepare your visuals to technical standards, favor the following DTP software
   <div class="gi-value-card">
     <strong>Adobe InDesign</strong>
     <p>Multi-page layout with PDF/X export and automatic bleed management.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Affinity</strong>
+    <p>Adobe alternative. PDF/X export is accepted.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Canva Pro</strong>
+    <p>Accepted if CMYK PDF/X export is available.</p>
   </div>
 </div>
 

@@ -10,7 +10,7 @@ keywords:
   - spécifications papier
 ---
 
-# Services d'Impression et Logistique
+# Impression & Logistique
 
 getinside agit comme une **centrale d'achat** pour mutualiser les volumes, réduire vos coûts et garantir une production responsable.
 
@@ -47,8 +47,8 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
 | **Formats** | A5 (148 × 210 mm), A6 (105 × 148 mm), Carte cadeau |
 | **Grammage** | 250 à 300 g/m² |
 | **Type** | Couché mat ou couché demi-mat |
-| **Certification** | FSC ou PEFC obligatoire |
-| **Pelliculage** | ❌ Non — rend les QR codes moins lisibles |
+| **Certification papier** | FSC ou PEFC obligatoire |
+| **Pelliculage** | Non : rend les QR codes moins lisibles |
 
 ---
 
@@ -56,7 +56,7 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Pour vos campagnes (Sponsored Mail)</strong>
+    <strong>📦 Pour vos campagnes (Insertion colis)</strong>
     <p>Vous réservez une campagne chez une marque partenaire. getinside imprime vos supports, gère l'assemblage (ex : point de colle fugitive pour échantillon) et livre directement à l'entrepôt de la marque.</p>
   </div>
   <div class="gi-value-card">
@@ -85,7 +85,7 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
 </div>
 
 :::tip Livraison en flux tendu
-Les impressions sont livrées directement aux entrepôts des marques qui diffusent votre campagne, synchronisées sur leur **Lead Time** logistique. La marchandise arrive exactement quand le partenaire en a besoin — zéro stockage inutile de votre côté.
+Les impressions sont livrées directement aux entrepôts des marques qui diffusent votre campagne, synchronisées sur leur **Lead Time** logistique. La marchandise arrive exactement quand le partenaire en a besoin : zéro stockage inutile de votre côté.
 :::
 
 ---
@@ -105,8 +105,12 @@ Les impressions sont livrées directement aux entrepôts des marques qui diffuse
 
 ---
 
-:::info Comment commander ?
-L'option d'impression vous est proposée automatiquement lors de la création d'une campagne sur la plateforme.
+:::tip Une marque hésite pour des raisons RSE ?
+L'insertion colis tient face à une politique RSE : papier certifié, pas d'envoi dédié, distribution ciblée sans tirage gaspillé. → [Voir la page RSE & insertion colis](./sustainability)
+:::
 
-Pour une demande spécifique (formats spéciaux, assemblage sur mesure) : [studio@getinside.fr](mailto:studio@getinside.fr)
+:::info Comment commander ?
+L'option d'impression vous est proposée automatiquement lors de la création d'une campagne sur [app.getinside.media](https://app.getinside.media/){target="_blank"} : choisissez le format, la quantité et transmettez un fichier conforme aux [spécifications techniques](./sponsored-mail/design-guide/print-specs).
+
+Pour une demande spécifique (formats spéciaux, assemblage sur mesure) : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::

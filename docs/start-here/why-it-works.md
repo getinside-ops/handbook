@@ -93,6 +93,6 @@ Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courrier
 
 Que vous souhaitiez recruter, fidéliser ou monétiser vos clients, getinside est conçu pour vous.
 
-[Discuter de mon projet](mailto:studio@getinside.com)
+[Discuter de mon projet](https://lp.getinside.fr/meetings/benoit-prentout)
 
 :::

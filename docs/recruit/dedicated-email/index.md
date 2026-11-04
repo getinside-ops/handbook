@@ -1,6 +1,6 @@
 ---
 title: Emailing Dédié
-description: "L'emailing dédié permet de s'adresser aux abonnés d'autres marques via leur recommandation directe. Découvrez les 3 scénarios (Blast, Post-Purchase, Welcome Pack), le workflow en 3 étapes, les performances et les options de ciblage."
+description: "L'emailing dédié vous adresse aux abonnés d'autres marques, par leur recommandation directe. Découvrez les 3 scénarios (Blast, Post-Purchase, Welcome Pack), le workflow en 3 étapes, les performances et les options de ciblage."
 keywords:
   - emailing dédié
   - newsletter dédiée
@@ -12,11 +12,11 @@ keywords:
 
 # Emailing Dédié (Dedicated Newsletter)
 
-Prenez la parole auprès de la base d'abonnés de nos partenaires — via la **recommandation directe** de la marque à sa communauté.
+Prenez la parole auprès de la base d'abonnés de nos partenaires, via la **recommandation directe** de la marque à sa communauté.
 
 ---
 
-## Le concept : l'Endorsement
+## Le concept : l'endorsement
 
 Contrairement à l'achat de base classique (cold emailing), l'emailing dédié repose sur la **recommandation**. C'est la marque qui s'adresse à ses abonnés pour leur présenter votre offre comme un *"privilège abonné"*.
 
@@ -24,7 +24,7 @@ Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivi
 
 ---
 
-## Les 3 Scénarios d'Activation
+## Les 3 scénarios d'activation
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -34,7 +34,7 @@ Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivi
   </div>
   <div class="gi-value-card">
     <strong>🛍️ Post-Purchase</strong>
-    <p>Email automatisé envoyé juste après une commande. Le client est en attente active — taux d'ouverture <strong>> 50%</strong>.</p>
+    <p>Email automatisé envoyé juste après une commande. Le client est en attente active : taux d'ouverture <strong>> 50%</strong>.</p>
     <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="Taux d'ouverture max" /></p>
   </div>
   <div class="gi-value-card">
@@ -59,8 +59,8 @@ Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivi
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3><a href="./2-creation">Production & Co-branding</a></h3>
-    <p>La marque conçoit l'email dans sa charte graphique, intégrant vos assets pour maximiser l'effet de recommandation.</p>
+    <h3><a href="./2-creation">Création de l'email et co-branding</a></h3>
+    <p>La marque qui diffuse votre campagne conçoit l'email dans sa charte graphique, intégrant vos assets pour maximiser l'effet de recommandation.</p>
   </div>
 </div>
 
@@ -71,6 +71,14 @@ Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivi
     <p>Vous validez le BAT sur la plateforme. Une fois les deux validations confirmées, l'envoi est programmé.</p>
   </div>
 </div>
+
+::: info Liste d'exclusion
+Avant l'envoi, transmettez les adresses à exclure (opt-out RGPD, clients existants) : voir la [liste d'exclusion](./exclusion-list).
+:::
+
+::: tip Vous diffusez les campagnes d'autres marques à vos clients ?
+Consultez le [guide Emailing dédié côté Monétiser](/monetize/dedicated-email/).
+:::
 
 ---
 
@@ -106,15 +114,15 @@ Le ciblage repose sur les **données First Party** réelles des acheteurs de la 
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>💎 Inventaire Premium</strong>
+    <strong>💎 Inventaire premium</strong>
     <p>Des marques partenaires avec des bases opt-in qualifiées, inaccessibles sur les plateformes d'affiliation classiques.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🎯 Ciblage Contextuel</strong>
+    <strong>🎯 Ciblage contextuel</strong>
     <p>Associez votre image à une marque affinitaire. La recommandation de la marque booste la réactivité vs. cold emailing.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Sécurité & Tracking</strong>
-    <p>Fonds sécurisés, délivrabilité vérifiée, liens trackés dynamiques (modifiables même après envoi) — tout est géré par getinside.</p>
+    <strong>🛡️ Sécurité et tracking</strong>
+    <p>Fonds sécurisés, délivrabilité vérifiée, liens trackés dynamiques (modifiables même après envoi) : getinside gère tout.</p>
   </div>
 </div>

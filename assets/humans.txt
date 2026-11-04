@@ -1,1 +1,24 @@
-/* Standard humans.txt file */
+/* TEAM */
+
+  Company: getinside
+  Site: https://www.getinside.media/
+  Contact: benoit [at] getinside.fr
+  Studio (créa): studio [at] getinside.fr
+  Location: France
+
+/* SITE */
+
+  Name: getinside Handbook
+  Description: Documentation retail media — guides annonceurs & retailers (FR/EN)
+  Standards: HTML5, CSS3, JSON-LD, Schema.org
+  Components: VitePress, Vue 3, Vite
+  Hosting: GitHub Pages
+  Language: Français / English
+  Last update: 2026-06
+
+                  _      _     _
+   __ _  ___ ___ (_)_ __| |__ (_) ___ ___
+  / _` |/ _ \ __|| | '_ \ '_ \| |/ _ \ _ \
+ | (_| |  __/ |_ | | | | | | | | |  __/  __/
+  \__, |\___|\__||_|_| |_|_| |_|_|\___|\___|
+  |___/

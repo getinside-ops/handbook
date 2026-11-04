@@ -1,0 +1,5 @@
+extends: existence
+message: "Em dash detected. Replace with '.', ',' or ':' depending on context."
+level: warning
+raw:
+  - '—'

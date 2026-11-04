@@ -12,11 +12,11 @@ keywords:
 
 # Dedicated Emailing (Dedicated Newsletter)
 
-Speak directly to our partners' subscriber base — via the **direct recommendation** of the brand to its community.
+Speak directly to our partners' subscriber base, via the **direct recommendation** of the brand to its community.
 
 ---
 
-## The Concept: Endorsement
+## The concept: endorsement
 
 Unlike traditional list renting (cold emailing), dedicated emailing is based on **recommendation**. It is the brand that addresses its subscribers to present your offer as a *"subscriber privilege"*.
 
@@ -24,7 +24,7 @@ Result: better open rates, increased trust, and significantly higher responsiven
 
 ---
 
-## The 3 Activation Scenarios
+## The 3 activation scenarios
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -34,7 +34,7 @@ Result: better open rates, increased trust, and significantly higher responsiven
   </div>
   <div class="gi-value-card">
     <strong>🛍️ Post-Purchase</strong>
-    <p>Automated email sent just after an order. The customer is actively waiting — open rate <strong>> 50%</strong>.</p>
+    <p>Automated email sent just after an order. The customer is actively waiting: open rate <strong>> 50%</strong>.</p>
     <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="Max open rate" /></p>
   </div>
   <div class="gi-value-card">
@@ -59,8 +59,8 @@ Result: better open rates, increased trust, and significantly higher responsiven
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3><a href="./2-creation">Production & Co-branding</a></h3>
-    <p>The brand designs the email within its brand guidelines, integrating your assets to maximize the recommendation effect.</p>
+    <h3><a href="./2-creation">Email creation and co-branding</a></h3>
+    <p>The brand delivering your campaign designs the email within its brand guidelines, integrating your assets to maximize the recommendation effect.</p>
   </div>
 </div>
 
@@ -71,6 +71,14 @@ Result: better open rates, increased trust, and significantly higher responsiven
     <p>You validate the Proof (BAT) on the platform. Once both validations are confirmed, the sending is scheduled.</p>
   </div>
 </div>
+
+::: info Exclusion list
+Before sending, provide the addresses to exclude (GDPR opt-outs, existing customers): see the [exclusion list](./exclusion-list).
+:::
+
+::: tip Do you deliver other brands' campaigns to your customers?
+See the [dedicated email guide on the Monetize side](/en/monetize/dedicated-email/).
+:::
 
 ---
 
@@ -106,15 +114,15 @@ Targeting relies on the actual **First Party data** of the brand's buyers.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>💎 Premium Inventory</strong>
+    <strong>💎 Premium inventory</strong>
     <p>Partner brands with qualified opt-in bases, inaccessible on traditional affiliate platforms.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🎯 Contextual Targeting</strong>
+    <strong>🎯 Contextual targeting</strong>
     <p>Associate your image with an affinitive brand. The brand's recommendation boosts responsiveness vs. cold emailing.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Security & Tracking</strong>
-    <p>Secured funds, verified deliverability, dynamic tracked links (editable even after sending) — everything is handled by getinside.</p>
+    <strong>🛡️ Security and tracking</strong>
+    <p>Secured funds, verified deliverability, dynamic tracked links (editable even after sending): getinside handles everything.</p>
   </div>
 </div>

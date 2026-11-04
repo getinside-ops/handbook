@@ -1,0 +1,19 @@
+extends: substitution
+message: "Common AI vocabulary: '%s' → '%s'. Consider rephrasing."
+level: suggestion
+ignorecase: true
+swap:
+  'crucial': 'important / key'
+  'pivotal': 'key / important'
+  'essential': 'important / needed'
+  'showcase(?:s|d|ing)?': 'show / demonstrate'
+  'highlight(?:s|ed|ing)?': 'show / note'
+  'leverage(?:s|d|ing)?': 'use / apply'
+  'unlock(?:s|ed|ing)?': 'enable / open'
+  'foster(?:s|ed|ing)?': 'build / grow'
+  'seamless(?:ly)?': 'smooth / easy'
+  'robust': 'strong / reliable'
+  'comprehensive': 'complete / full'
+  'delve(?:s|d|ing)?': 'explore / examine'
+  'tapestry': '(rephrase)'
+  'landscape': '(use specific noun)'

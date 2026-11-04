@@ -9,24 +9,24 @@ keywords:
   - FAQ monétiser
 ---
 
-# Compte, Équipe & Audiences
+# Compte, équipe & audiences
 
 ::: details Comment ajouter un nouvel utilisateur ?
-Rendez-vous dans **Mon Organisation → Équipe** et cliquez sur `+ Ajouter un membre`. Recommandé : ayez toujours au moins un backup pour assurer la réactivité sous 48h.
+Rendez-vous dans **Mon Organisation → Équipe** et cliquez sur `+ Ajouter un membre`. Renseignez l'adresse e-mail et le rôle. Gardez toujours au moins un membre de secours pour répondre sous 48h aux propositions de campagne.
 :::
 
 ::: details Comment référencer une nouvelle audience ?
-Allez dans **Monétisation → Catalogue** et cliquez sur `+ Nouvelle audience`. Remplissez les fiches avec soin (Marque, Persona, Panier Moyen) — c'est ce qui convaincra les marques qui cherchent une audience.
+Allez dans **Monétisation → Catalogue** et cliquez sur `+ Nouvelle audience`. Remplissez la fiche avec soin : marque, persona, panier moyen. Ces informations convainquent les marques qui cherchent une audience.
 
 → [Guide détaillé : Configuration d'Audience](/monetize/audience-setup)
 :::
 
 ::: details Faut-il créer plusieurs comptes si j'ai plusieurs sites ?
-Non. Vous pouvez gérer autant d'audiences que vous le souhaitez depuis un seul compte getinside. Chaque site peut avoir sa propre fiche audience indépendante.
+Non. Un seul compte héberge autant de fiches audiences que vous avez de sites ou de flux logistiques distincts. Chaque audience est indépendante, avec ses propres formats disponibles et ses périodes d'ouverture.
 :::
 
 ::: details getinside est-il présent à l'international ?
-Oui, getinside opère dans toute l'Europe. Vous pouvez ajouter vos audiences européennes et recevoir des campagnes ciblées pour ces pays.
+Oui, getinside opère dans toute l'Europe. Vous pouvez ajouter vos audiences européennes et recevoir des campagnes ciblées pour ces pays depuis le même compte.
 :::
 
 ::: details Comment suivre mes filleuls (affiliation) ?
@@ -34,16 +34,12 @@ L'état de vos filleuls est visible dans l'onglet **Affiliation**. Vous êtes r�
 :::
 
 ::: details Comment rendre ma fiche audience attractive pour les autres marques ?
-Les marques qui veulent recruter parcourent le catalogue comme une place de marché — votre fiche est votre vitrine. Pour maximiser vos chances de recevoir des offres :
+Les marques qui veulent recruter parcourent le catalogue comme une place de marché. Votre fiche est votre vitrine. Pour recevoir plus de propositions :
 
-- **Soignez les visuels :** photos de vos emballages, exemples de colis, captures de vos emails.
+- **Soignez les visuels :** photos de vos emballages, exemples de colis, captures de vos e-mails.
 - **Décrivez précisément votre persona :** âge, catégorie de produit, fréquence d'achat, géolocalisation.
-- **Renseignez un Panier Moyen (AOV) réaliste :** un chiffre précis rassure plus qu'une fourchette vague.
-- **Activez plusieurs formats :** une audience proposant Insertion Colis + Emailing est plus attractive qu'une audience mono-format.
+- **Renseignez un panier moyen (AOV) réaliste :** un chiffre précis rassure plus qu'une fourchette vague.
+- **Activez plusieurs formats :** une audience qui propose insertion colis et e-mailing attire plus qu'une audience mono-format.
 
 → [Guide complet : Configuration d'Audience](/monetize/audience-setup)
-:::
-
-::: details Peut-on gérer plusieurs sites depuis un seul compte getinside ?
-Oui. Un seul compte peut héberger autant de fiches audiences que vous avez de sites ou de flux logistiques distincts. Chaque audience est indépendante et peut avoir ses propres formats disponibles et périodes d'ouverture.
 :::

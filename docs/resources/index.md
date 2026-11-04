@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Ressources & outils - getinside
 description: Téléchargez nos guides, cas clients, templates et ressources créatives pour optimiser vos campagnes de marketing par le colis et le courrier adressé.
 keywords:
@@ -41,11 +42,19 @@ keywords:
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="../faq/troubleshooting" class="gi-nav-card">
+  <a href="../faq/troubleshooting-recruit" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Troubleshooting (Dépannage)</p>
-      <p class="gi-nav-card-desc">Solutions aux problèmes fréquents : tracking, QR codes, livraison.</p>
+      <p class="gi-nav-card-title">Résolution de problèmes : Recruter</p>
+      <p class="gi-nav-card-desc">Solutions aux problèmes fréquents : tracking, BAT, QR codes, livraison.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+  <a href="../faq/troubleshooting-monetize" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🛠️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Résolution de problèmes : Monétiser</p>
+      <p class="gi-nav-card-desc">Solutions aux problèmes fréquents : Wallet, QR codes, livraison, saisie.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

@@ -1,0 +1,17 @@
+extends: substitution
+message: "Vocabulaire AI fréquent : '%s' → '%s'. Reformuler si possible."
+level: suggestion
+ignorecase: true
+swap:
+  'essentiel(?:le)?s?': 'important / clé'
+  'crucial(?:e)?s?': 'important / déterminant'
+  'fondamental(?:e)?s?': 'de base / central'
+  'hors normes?': 'élevé / fort'
+  'véritables?': 'vrais / réels'
+  'directement mesurable': 'mesurable'
+  'au cœur de': 'au centre de / dans'
+  'permet(?:tre)? de': 'offre / donne'
+  'transforme .{1,30} en': 'convertit en / devient'
+  'levier(?:s)? de croissance': 'moteur de croissance / source de revenus'
+  'concrètement': '(supprimer ou reformuler)'
+  'pleinement': '(supprimer ou reformuler)'

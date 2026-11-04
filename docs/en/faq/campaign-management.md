@@ -13,7 +13,7 @@ keywords:
 # Campaign Management
 
 ::: details What is the expected response time?
-You must respond within **48 working hours**. Responsiveness is the key to winning campaigns against the other brands in the running. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
+You must respond within **48 working hours**. Your responsiveness wins campaigns against the other brands in the running. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
 :::
 
 ::: details Can I cancel an already accepted campaign?
@@ -24,10 +24,10 @@ Cancellation is highly discouraged. Except in cases of force majeure, penalties 
 :::
 
 ::: details Can I refuse to insert a received flyer?
-Yes. Check the merchandise upon receipt. If the materials are damaged or do not comply with the validated proof (e.g., competing brand not reported), immediately contact support (`studio@getinside.fr`) and suspend the insertion.
+Yes. Check the merchandise upon receipt. If the materials are damaged or do not comply with the validated proof (e.g., competing brand not reported), immediately contact [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) and suspend the insertion pending instructions.
 :::
 
-::: details The campaign is starting late — what to do?
+::: details The campaign is starting late: what should I do?
 If you haven't distributed anything over a planned week:
 
 1. Enter **"0"** in the weekly reporting.
@@ -37,7 +37,7 @@ The platform will automatically extend the campaign at the end of the period to 
 :::
 
 ::: details How to add a new type of offer?
-Go to the relevant audience profile and add a campaign type. For a custom offer (outside the standard catalog), select **"Other campaign type"** — the getinside team will validate the feasibility with you.
+Go to the relevant audience profile and add a campaign type. For a custom offer (outside the standard catalog), select **"Other campaign type"**: the getinside team will validate the feasibility with you.
 :::
 
 ::: details Where to see my campaign history?
@@ -52,21 +52,31 @@ You have dual tracking on your getinside dashboard:
 2. **Distribution:** Volumes of inserted flyers updated every beginning of the week by the brand delivering your campaign.
 :::
 
-::: details A brand delivering my campaign refuses my visual — what to do?
-This brand has a **veto right over the promoted brand** (direct competitor, ethically incompatible category) — but not over the art direction.
+::: details A brand delivering my campaign refuses my visual: what should I do?
+This brand has a **veto right over the promoted brand** (direct competitor, ethically incompatible category), but not over the art direction.
 
 If your visual meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal mentions present), it is compliant. It cannot reject it for subjective reasons of taste or style.
 
 **Procedure:**
 1. Check that your file respects the [print specifications](/en/recruit/sponsored-mail/design-guide/print-specs).
-2. If everything is compliant, send your proof to [studio@getinside.fr](mailto:studio@getinside.fr) for official validation.
+2. If everything is compliant, send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation.
 3. The getinside validation takes precedence over the subjective appreciation of the brand delivering the campaign.
 :::
 
-::: details A brand whose campaign I deliver asks for the addresses of my customers — can I give them?
+::: details A brand whose campaign I deliver asks for the addresses of my customers: can I give them?
 **No, under no circumstances.** This request is contrary to GDPR and our Terms of Service.
 
 Your customer data is a **First Party** asset that belongs exclusively to you. getinside operates as a **Trusted Third Party**: that brand accesses your audience without ever receiving the file. No database transfer is allowed without specific opt-in from each customer.
 
-In case of an insistent request, contact [support@getinside.fr](mailto:support@getinside.fr) — our team handles the legal response.
+In case of an insistent request, contact [support@getinside.fr](mailto:support@getinside.fr). Our team handles the legal response.
 :::
+
+---
+
+## Best practices: messaging
+
+The getinside messaging tool is your direct channel with the brands whose campaigns you deliver.
+
+- **Responsiveness:** reply quickly, even to decline. A responsive brand earns its partners' trust for future proposals.
+- **Logistics precision:** if you report a delay, be specific. Write "We have an unexpected activity peak, distribution will start next Tuesday instead of Monday" rather than "We're running late."
+- **Partnership mindset:** send a welcome message when you receive the flyers to confirm that everything is compliant and that distribution is starting.

@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Discover getinside - Parcel and direct mail marketing
 description: getinside is the parcel and direct mail marketing solution that delivers offers and samples right to consumers' homes. Recruit, retain, monetise.
 keywords:
@@ -115,6 +116,6 @@ Each brand approves the brands and offers shown to its customers. We measure and
 
 Recruit and Monetise are the two sections of the getinside solution. Retain, through direct mail, has its own section.
 
-[Discuss my project →](mailto:studio@getinside.com)
+[Discuss my project →](https://lp.getinside.fr/meetings/benoit-prentout)
 
 :::

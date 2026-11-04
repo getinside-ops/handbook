@@ -12,7 +12,7 @@ keywords:
 
 # Revenue and Payment Management
 
-Track your earnings in real-time and optimize your cash flow.
+Your campaign revenue builds up in your Wallet as distributions happen. Track it in real time, then decide when to withdraw or reinvest it.
 
 ## P&L Tracking (Wallet)
 
@@ -101,21 +101,50 @@ If you do not log in **AND** do not withdraw your revenue for **12 consecutive m
 
 ## How to make a withdrawal?
 
-1. Log in to your portal at **getinside.io**
-2. Go to **My Account → Wallet / P&L**
-3. Check your **Available Balance** (only this amount is withdrawable)
-4. Click on **Request a transfer**
-5. Enter the desired amount and confirm your IBAN
-6. Validate the request → you will receive a confirmation email
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Check your available balance</h3>
+    <p>Log in to <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> and open the <strong>Payments</strong> menu. Only the amount shown under "Revenue to transfer to the wallet or to withdraw" can be withdrawn.</p>
+  </div>
+</div>
 
-**Delay:** 30 days end of month after validation of your request and receipt of your invoice.
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Enter the amount</h3>
+    <p>Click <strong>Withdraw</strong> and enter the desired amount.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Submit your invoice</h3>
+    <p>Issue your invoice using the getinside details shown on screen (company, address, SIRET, VAT, reference, amount excl. and incl. tax). Only compliant invoices are processed.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Upload your bank details</h3>
+    <p>Upload your invoice (PDF) and your bank details (RIB). Tick the certification box and click <strong>Confirm</strong>. The request appears in Payments, <strong>Exchange</strong> tab, and you receive a confirmation email.</p>
+  </div>
+</div>
+
+**Delay:** 30 days end of month after validation of your request and receipt of your compliant invoice.
+
+::: info Campaign cancellation
+A campaign cancelled after commitment may incur a penalty. Only confirm campaigns you can fulfill.
+:::
 
 ## In case of problem
 
 Your balance does not match your expectations? A withdrawal is delayed?
 
-→ Consult the [Wallet & Payments Troubleshooting](/en/faq/troubleshooting) guide for common cases and their solutions.
+→ Consult the [Wallet & Payments Troubleshooting](/en/faq/troubleshooting-monetize) guide for common cases and their solutions.
 
 ---
 
-**Next step:** Polish your [audience profile](/en/monetize/audience-setup) — the more complete and precise it is, the more relevant your campaign proposals.
+**Next step:** Polish your [audience profile](/en/monetize/audience-setup): the more complete and precise it is, the more relevant your campaign proposals.

@@ -1,1 +1,7 @@
-/* Standard security.txt file */
+# getinside Handbook — security contact (RFC 9116)
+# Canonical: https://getinside-ops.github.io/handbook/.well-known/security.txt
+
+Contact: mailto:benoit@getinside.fr
+Expires: 2027-06-08T00:00:00.000Z
+Preferred-Languages: fr, en
+Canonical: https://getinside-ops.github.io/handbook/.well-known/security.txt

@@ -1,6 +1,6 @@
 ---
 title: Audience Profile
-description: "Set up your audience profile, your showcase to brands that want to reach your audience: identity, persona, demographic data and enabled formats (Parcel inserts, Dedicated Email, Display Email, Social Ads, Contest). Also explains how to manage several sites from a single account."
+description: "Set up your audience profile, your shop window for brands that want to reach your audience: identity, persona, demographic data and enabled formats (Parcel inserts, Dedicated Email, Display Email, Social Ads, Bundle). Also explains how to manage several sites from a single account."
 keywords:
   - Audience profile
   - Persona
@@ -11,7 +11,7 @@ keywords:
 
 # Audience Profile Setup
 
-Your audience profile is your showcase to brands that want to reach your audience. The more precise it is, the more relevant proposals you will receive.
+Your audience profile is your shop window for brands that want to reach your audience. The more precise it is, the more relevant proposals you will receive.
 
 ## 1. The Identity of your Audience
 
@@ -27,7 +27,7 @@ In the **"Persona"** field, be descriptive: *"Amateur or expert gardener looking
 
 ## 2. Demographic Data
 
-These fields feed the getinside algorithm for matching.
+These fields feed the Smart Matching algorithm. An incomplete profile reduces your visibility in the results.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -36,7 +36,7 @@ These fields feed the getinside algorithm for matching.
   </div>
   <div class="gi-value-card">
     <strong>Typology (B2C/B2B)</strong>
-    <p>Excluding criterion. Make sure it is correct.</p>
+    <p>Excluding criterion. Make sure it is correct: an error reduces your relevant proposals.</p>
   </div>
   <div class="gi-value-card">
     <strong>Buyer Profile</strong>
@@ -48,15 +48,25 @@ These fields feed the getinside algorithm for matching.
 
 For each created audience, independently activate the formats you wish to monetize:
 
-- **📦 Parcel Insert** — Flyers or samples in your parcels
-- **📧 Dedicated Emailing** — Recommendation via your newsletter
-- **📩 Display Email** — Banners in your emails
-- **📱 Social Ads** — Sponsored Instagram / TikTok posts
-- **🎁 Contest** — Lead collection mechanic
+- **📦 Parcel Insert**: Flyers or samples in your parcels
+- **📧 Dedicated Emailing**: Recommendation via your newsletter
+- **📩 Display Email**: Banners in your emails
+- **📱 Social Ads**: Sponsored Instagram / TikTok posts
+- **🎁 Bundle**: several inventories packaged into one scripted offer
 
 > You can activate or deactivate a format at any time without impacting ongoing campaigns.
 
-## 4. Managing multiple audiences and sites
+## 4. Fill in your 12-month inventory
+
+For Parcel Inserts, declare your forecast weekly volumes. Use **Edit all weeks** to apply the same volume in one action, or **Empty weeks only** to fill gaps without overwriting your specific entries.
+
+**Workspace:** Monetization → Catalog → [Your Audience] → [Campaign Type] → Inventory
+
+::: tip An up-to-date inventory means more campaigns
+Brands that recruit favor audiences whose availability is guaranteed in advance. A 12-month inventory improves your visibility in Smart Matching.
+:::
+
+## 5. Managing multiple audiences and sites
 
 **A single account is enough**, even if you operate multiple e-commerce sites. Each site can have its own audience profile with its specific data.
 
@@ -64,7 +74,7 @@ For each created audience, independently activate the formats you wish to moneti
 
 Best practices for a multi-audience catalog:
 - Clearly name each audience (e.g., "Women's Fashion Site", "B2C Garden Site")
-- Provide distinct data per site — do not pool the numbers
+- Provide distinct data per site. Do not pool the numbers
 - Only activate formats that you can actually honor on this site
 
 **International:** getinside operates throughout Europe. Add your European audiences to receive campaigns targeted by country.
@@ -75,7 +85,7 @@ Best practices for a multi-audience catalog:
 Go to **My Organization → Team** → `+ Add a member`. Recommended: always have a backup to ensure responsiveness within 48h.
 
 **Can I manage multiple sites from a single account?**
-Yes. A getinside account can host as many audiences as you want — one per site or per customer segment.
+Yes. A getinside account can host as many audiences as you want, one per site or per customer segment.
 
 **Where to track my referrals (affiliation)?**
-In the **Affiliation** tab. You are rewarded on a recurring basis for your referrals' activity, paid directly into your Wallet. Referrals must be established in France or the EEA.
+In the **Affiliation** tab. You are rewarded on a recurring basis for your referrals' activity, paid directly into your Wallet. Referrals must be established in France or the EEA. → [Affiliate Program](/en/monetize/affiliation)

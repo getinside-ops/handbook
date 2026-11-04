@@ -1,34 +1,35 @@
 ---
-title: Troubleshooting — Monetization
-description: "Troubleshooting guide when you monetize: Wallet balance at 0 or pending, missing transfer, unexpected deductions and expired funds. Also covers campaigns (cancellation, no reply within 48 hours, incorrect brief), referral rewards and suspended accounts."
+title: "Troubleshooting: Monetize"
+description: "Troubleshooting guide when you monetize: Wallet balance at 0 or pending, missing transfer, unexpected deductions and expired funds. Also covers campaigns (cancellation, no reply within 48 hours, incorrect brief), data entry errors, referral rewards and suspended accounts."
 keywords:
   - Troubleshooting
   - Wallet
   - Missing transfer
   - Penalties
   - Suspended account
-  - Monetization support
+  - Data entry errors
+  - Monetize support
 ---
 
-# Troubleshooting — Monetization
+# Troubleshooting: Monetize
 
 Your Wallet doesn't match? A withdrawal is delayed? A campaign is causing a problem? Find the answer in less than 2 minutes.
 
-## Wallet & Payments
+## Wallet & payments
 
 ::: details "My available balance is 0 even though I distributed campaigns"
 The Wallet balance is **not automatically** credited after a distribution. You must validate manually according to the format:
 
 | Format | Required Action | Where on the platform |
 |--------|---------------|----------------------|
-| 📦 Parcel Insert | Declare volumes every **Monday or Tuesday** | My Campaigns → campaign → Declare volume |
-| 📧 Emailing (Dedicated or Display) | Click on **"Validate broadcast"** after sending | My Campaigns → campaign → Validate broadcast |
+| 📦 Parcel inserts | Declare volumes every **Monday or Tuesday** | My Campaigns → campaign → Declare volume |
+| 📧 Emailing (dedicated or newsletter placement) | Click on **"Validate broadcast"** after sending | My Campaigns → campaign → Validate broadcast |
 
-Without these actions, the funds remain **escrowed** — the campaign is not accounted for.
+Without these actions, the funds remain **escrowed** and the campaign is not accounted for.
 :::
 
 ::: details "My balance is 'pending', not 'available'"
-**Cause:** The 30-day protection period has not yet elapsed.
+**Cause:** the 30-day protection period has not yet elapsed.
 
 Your earnings go through 2 states:
 1. **Pending**: Distribution confirmed, 30-day period underway
@@ -36,18 +37,18 @@ Your earnings go through 2 states:
 
 > **This is normal.** This delay protects everyone (including you) against post-distribution anomalies.
 
-If your funds remain "pending" after 30 days → contact support with the campaign number.
+If your funds remain "pending" after 30 days, contact support with the campaign number.
 :::
 
 ::: details "I haven't received my transfer"
 **Check in this order:**
 
-1. **Have you submitted an invoice?** → Without a valid invoice attached to your request, the payment will not be sent.
-2. **Has the 30-day period passed?** → The balance must be "Available" (not "Pending").
-3. **Is the IBAN on your account correct?** → Check in Settings → Bank details.
-4. **Are you within the normal timeframe?** → Payment is issued **30 days end of month** after validation of your request.
+1. **Have you submitted an invoice?** Without a valid invoice attached to your request, the payment will not be sent.
+2. **Has the 30-day period passed?** The balance must be "Available" (not "Pending").
+3. **Is the IBAN on your account correct?** Check in Settings → Bank details.
+4. **Are you within the normal timeframe?** Payment is issued **30 days end of month** after validation of your request.
 
-If everything is in order and the transfer is still missing → contact [support@getinside.io](mailto:support@getinside.io) with:
+If everything is in order and the transfer is still missing, contact [support@getinside.fr](mailto:support@getinside.fr) with:
 - The date of the request
 - The requested amount
 - Your IBAN
@@ -68,21 +69,21 @@ Check the **Wallet History** section on the platform to see the details of each 
 If you do not log in AND do not withdraw your funds for 12 consecutive months, the available funds are definitively acquired by getinside. This rule is contractual.
 :::
 
-**Prevention:** Log in at least once a quarter, or schedule an annual withdrawal.
+**Prevention:** log in at least once a quarter, or schedule an annual withdrawal.
 
-If you think the expiration is unjustified → contact support with your login history.
+If you think the expiration is unjustified, contact support with your login history.
 ::::
 
 ---
 
-## Campaigns & Operations
+## Campaigns & operations
 
 ::: details "I accepted a campaign but I can no longer honor it"
-Act **as early as possible** — penalties increase over time:
+Act **as early as possible**, because penalties increase over time:
 
 1. **Immediately contact** your account manager or support
 2. **Do not cancel** from the platform without discussing it first
-3. Explain the situation — an alternative solution is often possible (postponement, replacement by another brand to deliver the campaign)
+3. Explain the situation: an alternative solution is often possible (postponement, replacement by another brand to deliver the campaign)
 
 > The more you anticipate, the more you limit the penalties. A last-minute cancellation is more costly than an anticipated cancellation.
 :::
@@ -93,18 +94,30 @@ The 48h rule is contractual. If the deadline is passed:
 - The proposal **automatically expires** and is sent to another brand
 - A **penalty may be applied** to your Wallet according to your contract
 
-**To avoid this in the future:** Enable email/SMS notifications from your Account Settings.
+**To avoid this in the future:** enable email/SMS notifications from your Account Settings.
 :::
 
 ::: details "A campaign is incomplete or the received visual/brief is incorrect"
 1. **Do not** start the distribution without having checked the material
 2. Report the problem via the platform (campaign profile → Report a problem) or directly contact your manager
-3. getinside contacts the brand whose campaign you deliver to correct — the distribution is paused during the correction
+3. getinside contacts the brand whose campaign you deliver to correct. The distribution is paused during the correction
 :::
 
 ---
 
-## Account & Affiliation
+## Data entry errors
+
+::: details "I made a mistake entering my weekly volume"
+Do not try to re-enter it immediately if the system is locked. Send a message to the brand whose campaign you deliver through the campaign messaging to let them know, then contact [support@getinside.fr](mailto:support@getinside.fr) with the campaign number and the correct value. The data will be corrected manually within 24h.
+:::
+
+::: details "I clicked 'Validate broadcast' too early or by mistake"
+This action triggers invoicing and is normally irreversible. Notify getinside immediately via chat or [support@getinside.fr](mailto:support@getinside.fr). If the invoice has not been issued yet, the action can be cancelled. If it has, a credit note will be issued and the process restarted.
+:::
+
+---
+
+## Account & affiliation
 
 ::: details "My referral rewards are not paid"
 The payment of affiliation rewards is **automatically suspended** if you have unpaid invoices with getinside. Regularize your billing situation to unblock the payments.
@@ -113,14 +126,14 @@ The payment of affiliation rewards is **automatically suspended** if you have un
 ::: details "My account is suspended or blocked"
 Possible causes: unpaid invoices, non-compliance with platform rules, suspicious activity detected.
 
-Contact support at [support@getinside.io](mailto:support@getinside.io) indicating your account email and the displayed error message.
+Contact support at [support@getinside.fr](mailto:support@getinside.fr) indicating your account email and the displayed error message.
 :::
 
 ---
 
 ## Can't find your answer?
 
-- **Email:** [support@getinside.io](mailto:support@getinside.io)
+- **Email:** [support@getinside.fr](mailto:support@getinside.fr)
 - **Via platform:** Menu → Support → New ticket
 
 Specify: the campaign ID, the amount in question, and a screenshot if possible.

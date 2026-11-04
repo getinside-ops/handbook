@@ -106,10 +106,10 @@ image: /images/gi-keyvisual.svg
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Partnership Ads: the brand whose campaign you deliver funds the distribution of your posts.</p>
   </a>
-  <a href="co-branded-contest/" class="gi-format-card">
+  <a href="bundles" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
-    <span class="gi-format-card-title">Contest</span>
-    <p class="gi-format-card-desc">The partner brand provides the prizes and the co-branded page.</p>
+    <span class="gi-format-card-title">Bundles</span>
+    <p class="gi-format-card-desc">Several inventories packaged into one scripted campaign, contest included.</p>
   </a>
 </div>
 

@@ -9,12 +9,12 @@ keywords:
   - Wallet
 ---
 
-# Suivi des Volumes (Reporting)
+# Suivi des volumes (reporting)
 
 Le reporting hebdomadaire est obligatoire pour assurer le suivi des stocks et **déclencher votre facturation**.
 
-:::warning Obligation hebdomadaire — Lundi ou Mardi
-Chaque début de semaine, déclarez le volume exact d'asiles distribués la semaine précédente. Cette déclaration conditionne directement votre paiement.
+::: warning Obligation hebdomadaire : lundi ou mardi
+Chaque début de semaine, déclarez le volume exact d'insertions distribuées la semaine précédente. Cette déclaration conditionne directement votre paiement.
 :::
 
 ---
@@ -63,11 +63,11 @@ Chaque début de semaine, déclarez le volume exact d'asiles distribués la sema
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Cas A — Stock Épuisé</strong>
+    <strong>📦 Cas A : stock épuisé</strong>
     <p>Vous avez distribué l'intégralité des supports reçus. La campagne s'arrête naturellement.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🏁 Cas B — Objectif Atteint (Capped)</strong>
+    <strong>🏁 Cas B : objectif atteint (Capped)</strong>
     <p>Le volume commandé est atteint. Clôturez la campagne même s'il reste du stock, sauf instruction contraire pour écouler le reliquat.</p>
   </div>
 </div>
@@ -75,5 +75,5 @@ Chaque début de semaine, déclarez le volume exact d'asiles distribués la sema
 Une fois la campagne terminée, cliquez sur **"Clôturer la campagne"** pour valider la prestation.
 
 :::tip Déclenchement du paiement
-La clôture de campagne valide la prestation et déclenche le crédit de votre revenu sur le Wallet — disponible 30 jours après la fin de campagne.
+La clôture de campagne valide la prestation et déclenche le crédit de votre revenu sur le Wallet, disponible 30 jours après la fin de campagne.
 :::

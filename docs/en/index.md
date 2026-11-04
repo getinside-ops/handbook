@@ -21,8 +21,11 @@ hero:
     alt: getinside
   actions:
     - theme: brand
-      text: Start Here
+      text: Where to start?
       link: /en/start-here/
+    - theme: alt
+      text: Parcel Insert Design Guide
+      link: /en/recruit/sponsored-mail/design-guide/
 
 features:
   - icon: 🎯

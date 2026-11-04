@@ -12,7 +12,7 @@ keywords:
 
 # Gestion des Revenus et Paiements
 
-Suivez vos gains en temps réel et optimisez votre trésorerie.
+Vos revenus de campagnes s'accumulent dans votre Wallet au fil des distributions. Suivez-les en temps réel, puis décidez quand les retirer ou les réinvestir.
 
 ## Suivi du P&L (Wallet)
 
@@ -28,7 +28,7 @@ Consultez à tout moment votre **Solde Disponible** = *(Revenus validés) - (Ret
 **📅 Timeline de validation**
 
 1. **Campagne distribuée :** Le jour où vous confirmez la distribution (lot expédié, volumes déclarés).
-2. **Délai de protection (30 jours) :** Votre revenu reste en *attente* pendant 30 jours → permet de détecter les anomalies (cartons perdus, campagne interrompue).
+2. **Délai de protection (30 jours) :** Votre revenu reste en *attente* pendant 30 jours, le temps de détecter les anomalies (cartons perdus, campagne interrompue).
 3. **✅ Revenu validé :** Après 30 jours sans incident, le montant passe en *Solde Disponible* et peut être retiré.
 :::
 
@@ -101,21 +101,50 @@ Si vous ne vous connectez pas **ET** ne retirez pas vos revenus pendant **12 moi
 
 ## Comment effectuer un retrait ?
 
-1. Connectez-vous à votre espace sur **getinside.io**
-2. Accédez à **Mon Compte → Wallet / P&L**
-3. Vérifiez votre **Solde Disponible** (uniquement ce montant est retirable)
-4. Cliquez sur **Demander un virement**
-5. Renseignez le montant souhaité et confirmez votre IBAN
-6. Validez la demande → vous recevrez un email de confirmation
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Vérifiez votre solde disponible</h3>
+    <p>Connectez-vous sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, menu <strong>Paiements</strong>. Seul le montant affiché sous "Revenus à transférer vers le wallet ou à retirer" est retirable.</p>
+  </div>
+</div>
 
-**Délai :** 30 jours fin de mois après validation de votre demande et réception de votre facture.
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Renseignez le montant</h3>
+    <p>Cliquez sur <strong>Retirer</strong> et saisissez le montant souhaité.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Soumettez votre facture</h3>
+    <p>Éditez votre facture selon les informations getinside affichées à l'écran (société, adresse, SIRET, TVA, référence, montant HT et TTC). Seules les factures conformes sont traitées.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Chargez vos coordonnées bancaires</h3>
+    <p>Téléchargez votre facture (PDF) et votre RIB. Cochez la case de certification et cliquez sur <strong>Valider</strong>. La demande apparaît dans Paiements, onglet <strong>Exchange</strong>, et vous recevez un email de confirmation.</p>
+  </div>
+</div>
+
+**Délai :** 30 jours fin de mois après validation de votre demande et réception de votre facture conforme.
+
+::: info Annulation de campagne
+Une campagne annulée après engagement peut donner lieu à une pénalité. Confirmez uniquement les campagnes que vous pouvez honorer.
+:::
 
 ## En cas de problème
 
 Votre solde ne correspond pas à vos attentes ? Un retrait tarde ?
 
-→ Consultez le guide [Problèmes Wallet & Paiements](/faq/troubleshooting) pour les cas fréquents et leur solution.
+→ Consultez le guide [Problèmes Wallet & Paiements](/faq/troubleshooting-monetize) pour les cas fréquents et leur solution.
 
 ---
 
-**Prochaine étape :** Soignez votre [fiche audience](/monetize/audience-setup) — plus elle est complète et précise, plus vos propositions de campagnes sont pertinentes.
+**Prochaine étape :** Soignez votre [fiche audience](/monetize/audience-setup) : plus elle est complète et précise, plus vos propositions de campagnes sont pertinentes.

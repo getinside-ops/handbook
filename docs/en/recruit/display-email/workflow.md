@@ -22,8 +22,8 @@ Deploying a newsletter insert is fast. Here are the steps from submission to bro
     <h3>Sending creative elements</h3>
     <p>Transmit to the brand delivering your campaign (via the getinside platform):</p>
     <ul>
-      <li><strong>The visual</strong> — a JPG, PNG, or GIF image respecting the <a href="./specs">technical specifications</a>.</li>
-      <li><strong>The destination link</strong> — the URL of the landing page where clicks should be redirected.</li>
+      <li><strong>The visual</strong>: a JPG, PNG, or GIF image respecting the <a href="./specs">technical specifications</a>.</li>
+      <li><strong>The destination link</strong>: the URL of the landing page where clicks should be redirected.</li>
     </ul>
   </div>
 </div>
@@ -31,8 +31,8 @@ Deploying a newsletter insert is fast. Here are the steps from submission to bro
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Tracking Configuration</h3>
-    <p>The getinside team generates a **unique tracked redirection link** (`gtinsi.de` format) and sends it to the brand. This link counts every click on your banner.</p>
+    <h3>Tracking configuration</h3>
+    <p>The getinside team generates a <strong>unique tracked redirection link</strong> (<code>gtinsi.de</code> format) and sends it to the brand. This link counts every click on your banner.</p>
     <p>To measure sales in Google Analytics, add UTM parameters to your final URL:<br /><code>mysite.com?utm_source=getinside&utm_medium=display-email&utm_campaign=spring</code></p>
   </div>
 </div>
@@ -40,9 +40,9 @@ Deploying a newsletter insert is fast. Here are the steps from submission to bro
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Integration and Validation (Proof)</h3>
+    <h3>Integration and validation (proof)</h3>
     <p>The brand integrates your image into its newsletter and sends you a Proof (BAT) for preview.</p>
-    <p>Check the rendering — especially on mobile — then validate on the platform.</p>
+    <p>Check the rendering, especially on mobile, then validate on the platform.</p>
   </div>
 </div>
 
@@ -58,6 +58,6 @@ Until you validate, the newsletter will not be sent.
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Broadcast</h3>
-    <p>Once both validations are recorded (yours + the brand's), the newsletter is sent on the scheduled date. Track clicks in real-time from your dashboard.</p>
+    <p>Once both validations are recorded (yours and the brand's), the newsletter is sent on the scheduled date. Track clicks in real time from your dashboard.</p>
   </div>
 </div>

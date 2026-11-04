@@ -31,16 +31,16 @@ L'objectif est l'**endorsement natif** : le message doit être perçu comme une 
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✅ À FAIRE — Endorsement</strong>
+    <strong>✅ À FAIRE : Endorsement</strong>
     <p>Vos abonnés doivent sentir que le message vient de vous.</p>
     <ul>
       <li><strong>Header :</strong> Utilisez votre en-tête habituel.</li>
-      <li><strong>Édito :</strong> Rédigez une intro — <em>"Chers clients, voici un coup de cœur…"</em></li>
+      <li><strong>Édito :</strong> Rédigez une intro : <em>"Chers clients, voici un coup de cœur…"</em></li>
       <li><strong>Design :</strong> Intégrez les visuels de la marque mais gardez vos polices et boutons.</li>
     </ul>
   </div>
   <div class="gi-value-card">
-    <strong>❌ À ÉVITER — Pub Brute</strong>
+    <strong>❌ À ÉVITER : Pub brute</strong>
     <p>Ne transformez pas votre newsletter en panneau publicitaire.</p>
     <ul>
       <li>Ne copiez-collez pas un HTML fourni par la marque.</li>
@@ -58,18 +58,19 @@ Des rendus réels en ligne (responsive, co-branding, endorsement) :
 
 | Campagne | Contexte | Rendu |
 | :--- | :--- | :--- |
-| **Caats × Les Petits Culottés** | Petfood — audience Parents/Famille | [Voir](https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html){target="_blank"} |
-| **HelloFresh × Berceau Magique** | Box repas — cible Jeunes Parents | [Voir](https://benoit-prentout.github.io/archive-news/71541edf985d/index.html){target="_blank"} |
-| **Les Petits Frères des Pauvres** | Caritatif — collecte de fonds | [Voir](https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html){target="_blank"} |
+| **Les Pièces Jaunes × Mieux que des Fleurs** | Caritatif, collecte de fonds | [Voir](https://getinside-ops.github.io/archive-news/820c70e8b537/index.html){target="_blank"} |
+| **Ultra Premium Direct × La Redoute** | Petfood premium, cible Propriétaires d'animaux | [Voir](https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html){target="_blank"} |
+| **Les Petits Culottés × Caats** | Mode enfant, audience Parents/Famille | [Voir](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
+| **Yooji × HelloFresh** | Alimentation bébé, cible Jeunes Parents | [Voir](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
 
 ---
 
-## Option — Délégation Studio
+## Option : Délégation Studio
 
 :::info Pas le temps de créer ?
 Déléguez au **Studio getinside** : création de l'email à vos couleurs, rédaction de l'édito et intégration technique.
 
-Contactez l'équipe pour connaître les conditions → [studio@getinside.fr](mailto:studio@getinside.fr)
+Contactez l'équipe pour connaître les conditions → [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 ---

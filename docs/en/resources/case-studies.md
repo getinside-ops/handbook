@@ -93,34 +93,73 @@ Discover how other brands use getinside to achieve their acquisition and monetiz
 
 ---
 
-## 📧 Dedicated Email (Live Examples)
+## Best Parcel Insert Campaigns
 
-Click on the buttons to see the actual rendering in the browser.
+Top parcel insert campaigns selected by our teams.
 
-<div class="gi-format-grid">
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🐱</span>
-    <span class="gi-format-card-title">Caats x Les Petits Culottés</span>
-    <span class="gi-format-card-desc">Petfood campaign targeted at a Parents / Family audience.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🥘</span>
-    <span class="gi-format-card-title">HelloFresh x Berceau Magique</span>
-    <span class="gi-format-card-desc">Exclusive Food offer (Cooking Box) to a Young Parents target.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🤝</span>
-    <span class="gi-format-card-title">Les Petits Frères des Pauvres</span>
-    <span class="gi-format-card-desc">Fundraising campaign broadcast by Mieux que des Fleurs.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSTqmfiDpw7W6dGz9ef2ex3PR1pKhdm3hAbLcvtthrniRtdpDWf4l1meTaySmi9QaQ3CXlMrdh57acp/pubembed?start=false&loop=false&delayms=30000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
 </div>
 
 ---
 
-## 📦 Parcel Insert & Success Stories
+## Bundles & Media Kits
+
+Browse a selection of bundles offered by brands that deliver campaigns to their customers.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
+## 📧 Dedicated Email: Live Examples
+
+Click the buttons to see the actual rendering in the browser.
+
+<div class="gi-format-grid">
+  <div class="gi-format-card">
+    <span class="gi-format-card-icon">💛</span>
+    <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
+    <span class="gi-format-card-desc">Charity campaign delivered by Mieux que des Fleurs for Les Pièces Jaunes.</span>
+    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+  </div>
+  <div class="gi-format-card">
+    <span class="gi-format-card-icon">🐾</span>
+    <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
+    <span class="gi-format-card-desc">Premium petfood campaign delivered by La Redoute.</span>
+    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+  </div>
+  <div class="gi-format-card">
+    <span class="gi-format-card-icon">🐱</span>
+    <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
+    <span class="gi-format-card-desc">Children's fashion campaign delivered by Caats to a Parents / Family audience.</span>
+    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+  </div>
+  <div class="gi-format-card">
+    <span class="gi-format-card-icon">🥦</span>
+    <span class="gi-format-card-title">Yooji x HelloFresh</span>
+    <span class="gi-format-card-desc">Baby food campaign delivered by HelloFresh targeting Young Parents.</span>
+    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
+  </div>
+</div>
+---
+
+## 📦 Parcel Inserts & Customer Success
 
 Click on the images to zoom.
 

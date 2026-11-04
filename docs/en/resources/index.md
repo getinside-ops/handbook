@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Resources & tools - getinside
 description: Download our guides, case studies, templates and creative resources to optimise your parcel and direct mail marketing campaigns.
 keywords:
@@ -41,11 +42,19 @@ keywords:
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>
-  <a href="../faq/troubleshooting" class="gi-nav-card">
+  <a href="../faq/troubleshooting-recruit" class="gi-nav-card">
     <span class="gi-nav-card-icon">🔧</span>
     <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Troubleshooting</p>
-      <p class="gi-nav-card-desc">Solutions to frequent problems: tracking, QR codes, delivery.</p>
+      <p class="gi-nav-card-title">Troubleshooting: Recruit</p>
+      <p class="gi-nav-card-desc">Solutions to frequent problems: tracking, proofs, QR codes, delivery.</p>
+    </div>
+    <span class="gi-nav-card-arrow">→</span>
+  </a>
+  <a href="../faq/troubleshooting-monetize" class="gi-nav-card">
+    <span class="gi-nav-card-icon">🛠️</span>
+    <div class="gi-nav-card-body">
+      <p class="gi-nav-card-title">Troubleshooting: Monetize</p>
+      <p class="gi-nav-card-desc">Solutions to frequent problems: Wallet, QR codes, delivery, data entry.</p>
     </div>
     <span class="gi-nav-card-arrow">→</span>
   </a>

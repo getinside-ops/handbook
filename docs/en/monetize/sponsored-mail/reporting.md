@@ -13,7 +13,7 @@ keywords:
 
 Weekly reporting is mandatory to ensure inventory tracking and **trigger your billing**.
 
-:::warning Weekly obligation — Monday or Tuesday
+::: warning Weekly obligation: Monday or Tuesday
 At the beginning of each week, declare the exact volume of inserts distributed the previous week. This declaration directly conditions your payment.
 :::
 
@@ -63,11 +63,11 @@ At the beginning of each week, declare the exact volume of inserts distributed t
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Case A — Out of Stock</strong>
+    <strong>📦 Case A: out of stock</strong>
     <p>You have distributed all the materials received. The campaign naturally stops.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🏁 Case B — Goal Reached (Capped)</strong>
+    <strong>🏁 Case B: goal reached (Capped)</strong>
     <p>The ordered volume is reached. Close the campaign even if stock remains, unless instructed otherwise to clear the balance.</p>
   </div>
 </div>
@@ -75,5 +75,5 @@ At the beginning of each week, declare the exact volume of inserts distributed t
 Once the campaign is over, click on **"Close campaign"** to validate the service.
 
 :::tip Payment trigger
-Closing the campaign validates the service and triggers the credit of your revenue to the Wallet — available 30 days after the campaign ends.
+Closing the campaign validates the service and triggers the credit of your revenue to the Wallet, available 30 days after the campaign ends.
 :::

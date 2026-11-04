@@ -12,7 +12,7 @@ keywords:
 
 # Onboarding et Fonctionnement
 
-Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre régie, activez vos partenaires historiques et maximisez vos revenus.
+Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre régie, activez vos partenaires historiques et développez vos revenus.
 
 ## Phase 1 : Configuration et Activation
 
@@ -35,8 +35,8 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <h3>Configuration Logistique</h3>
     <p>Avant de créer vos audiences, définissez vos contraintes logistiques (indispensable pour l'algorithme).</p>
     <ul>
-      <li><strong>📍 Adresse de l'entrepôt</strong> — Lieu de livraison des supports physiques (flyers, échantillons).</li>
-      <li><strong>⏱️ Lead Time (Délai d'ingestion)</strong> — Délai incompressible entre la réception des palettes et le début de l'insertion. Pris en compte automatiquement par l'algorithme pour synchroniser les livraisons.</li>
+      <li><strong>📍 Adresse de l'entrepôt</strong> : lieu de livraison des supports physiques (flyers, échantillons).</li>
+      <li><strong>⏱️ Lead Time (délai d'ingestion)</strong> : délai incompressible entre la réception des palettes et le début de l'insertion. Pris en compte automatiquement par l'algorithme pour synchroniser les livraisons.</li>
     </ul>
   </div>
 </div>
@@ -46,7 +46,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
   <div class="gi-step-body">
     <h3>Création des Audiences</h3>
     <p>Dans l'onglet <strong>Monétisation</strong>, créez vos fiches audience : panier moyen, typologie B2B/B2C, profil du persona, visuels (logo, bannière). Une fiche complète et précise vous vaut des propositions de campagnes plus pertinentes.</p>
-    <a href="audience-setup" class="btn btn-outline">Guide détaillé — Fiche audience →</a>
+    <a href="audience-setup" class="btn btn-outline">Guide détaillé : fiche audience →</a>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 ## Phase 2 : Gestion des Campagnes
 
 <div class="gi-step">
-  <div class="gi-step-num">7</div>
+  <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Visibilité Marketplace</h3>
     <p>Une fois activées, les marques qui veulent toucher votre audience peuvent la voir sur la plateforme et commencer à vous proposer des campagnes.</p>
@@ -97,23 +97,23 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num">8</div>
+  <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Réception & Négociation</h3>
     <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
-    <p><strong>⏱️ Règle des 48 heures (Critique)</strong> — Répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité contractuelle.</p>
+    <p><strong>⏱️ Règle des 48 heures (critique)</strong> : répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité contractuelle.</p>
     <p><strong>Ne refusez pas, négociez !</strong> L'objectif est de remplir votre inventaire :</p>
     <ul>
-      <li><strong>💰 Prix trop bas ?</strong> Faites une contre-proposition tarifaire.</li>
+      <li><strong>💰 Prix trop bas ?</strong> Proposez un autre prix.</li>
       <li><strong>📅 Dates indisponibles ?</strong> Proposez une autre période de diffusion.</li>
       <li><strong>📦 Volume inadapté ?</strong> Ajustez la quantité proposée.</li>
     </ul>
-    <p><strong>💬 Messagerie Intégrée :</strong> Utilisez le chat pour discuter avec la marque dont vous diffusez la campagne, argumenter votre prix ou demander des précisions.</p>
+    <p><strong>💬 Messagerie intégrée :</strong> utilisez le chat pour discuter avec la marque dont vous diffusez la campagne, argumenter votre prix ou demander des précisions. Une barre de probabilité d'acceptation guide la marque en temps réel.</p>
   </div>
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num done">9</div>
+  <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>Validation Opérationnelle</h3>
     <p>Une fois la campagne validée par les deux parties, on avance sur l'opérationnel :</p>
@@ -134,7 +134,7 @@ Bienvenue sur getinside ! Ne vous contentez pas d'attendre les campagnes : prene
     <div class="gi-accent-box">
       <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.
       <ul>
-        <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit.</li>
+        <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit. Ajoutez vos partenaires via la recherche SIREN/TVA, envoyez vos invitations et suivez la progression par partenaire.</li>
         <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis.</li>
       </ul>
     </div>
@@ -174,17 +174,17 @@ Des pénalités s'appliquent dans trois situations, précisées dans votre contr
 
 - **Annulation après validation** d'une campagne.
 - **Rupture anticipée du contrat** (engagement annuel non tenu).
-- **Contournement de la plateforme** (contact direct entre marques hors plateforme).
+- **Contournement de la plateforme** (contact direct entre marques hors plateforme, pour un compte apporté par getinside).
 
 ### Protection des Données (RGPD & First Party Data)
 
 ::: tip
 **🛡️ Les données sont exclusivement vôtres**
 
-getinside agit comme un **Tiers de Confiance**. Aucun transfert de fichier client vers une marque n'est autorisé sans un nouvel Opt-in RGPD spécifique.
+getinside agit comme un **Tiers de Confiance** et s'engage contractuellement : aucun accès direct à vos données clients (First Party Data), interdiction de les louer, vendre, enrichir ou rapprocher. Seules des données de diffusion agrégées et anonymisées sont utilisées. Aucun transfert de fichier client vers une marque n'est autorisé sans un nouvel Opt-in RGPD spécifique.
 
 - Vous conservez la propriété de vos données client.
-- Les marques ne reçoivent que les leads opt-in (jeux concours uniquement).
+- Les marques ne reçoivent que les leads opt-in (opérations avec jeu-concours uniquement).
 - Toute demande de données supplémentaires requiert une validation légale.
 :::
 

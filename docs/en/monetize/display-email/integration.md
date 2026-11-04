@@ -12,7 +12,7 @@ keywords:
 
 # Integration and Broadcast
 
-The process is fast — just make sure you use the correct redirection link to get paid.
+The process is fast. Just make sure you use the correct redirection link to get paid.
 
 ---
 
@@ -70,6 +70,6 @@ The process is fast — just make sure you use the correct redirection link to g
   </div>
 </div>
 
-:::warning Blocking Action — Validate broadcast
+::: warning Blocking action: Validate broadcast
 Without this click, the funds remain escrowed. This action triggers billing and the credit to your Wallet (available 30 days after the campaign ends).
 :::

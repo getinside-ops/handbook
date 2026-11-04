@@ -12,7 +12,7 @@ keywords:
 
 # Newsletter Insert (Display Email)
 
-Insert an advertising banner within a partner's communications. An effective and non-intrusive awareness format — you only provide an image and a link.
+Insert an advertising banner within a partner's communications. An effective and non-intrusive awareness format: you only provide an image and a link.
 
 ---
 
@@ -20,7 +20,7 @@ Insert an advertising banner within a partner's communications. An effective and
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📢 Blast (Editorial Newsletter)</strong>
+    <strong>📢 Blast (editorial newsletter)</strong>
     <p>Your banner is inserted into the partner's weekly newsletter. Header or core content placement.</p>
     <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Awareness" /></p>
   </div>
@@ -46,10 +46,26 @@ Insert an advertising banner within a partner's communications. An effective and
     <p>Unlike dedicated email, you only provide an image (JPG/PNG/GIF) and a link. No HTML to code, no elaborate creative brief.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Non-intrusive & Brand Safe</strong>
-    <p>Your brand is inserted into content that the subscriber expects, in a closed environment endorsed by the brand delivering your campaign — the opposite of open web programmatic display.</p>
+    <strong>🚀 Live in 48 hours</strong>
+    <p>From submitting your banner to going live: 48 hours. Ideal for seasonal offers or short-notice launches.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🛡️ Non-intrusive and brand safe</strong>
+    <p>Your brand is inserted into content that the subscriber expects, in a closed environment endorsed by the brand delivering your campaign, the opposite of open web programmatic display.</p>
   </div>
 </div>
+
+---
+
+## Ideal use cases
+
+- **Flash or seasonal offer**: Black Friday, sales, holidays. Go live in 48 hours, with no print constraints.
+- **Product launch**: introduce something new to a qualified audience, quickly.
+- **Test campaign**: a light format to test a message or an audience before a heavier one.
+
+::: tip Do you deliver other brands' campaigns to your customers?
+See the [Newsletter Insert guide on the Monetize side](/en/monetize/display-email/).
+:::
 
 ---
 
@@ -62,7 +78,7 @@ Insert an advertising banner within a partner's communications. An effective and
 | **Blast (Newsletter)** | Variable | Depends on the database and sector |
 
 :::info Tracking: clicks only
-For this format, there is **no open pixel** — only clicks are counted (tracked link `gtinsi.de`). Add UTM parameters to your final URL to measure traffic in Google Analytics.
+For this format, there is **no open pixel**: only clicks are counted (tracked link `gtinsi.de`). Add UTM parameters to your final URL to measure traffic in Google Analytics.
 :::
 
 ---
@@ -71,20 +87,20 @@ For this format, there is **no open pixel** — only clicks are counted (tracked
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🌐 Unified Inventory</strong>
+    <strong>🌐 Unified inventory</strong>
     <p>Partners accessible via a single platform. No need to negotiate individually with each media or brand.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Brand Safety & Context</strong>
-    <p>Your brand appears in a closed, safe environment endorsed by the brand delivering your campaign — no bad contextual surprises unlike programmatic display.</p>
+    <strong>🛡️ Brand safety and context</strong>
+    <p>Your brand appears in a closed, safe environment endorsed by the brand delivering your campaign: no bad contextual surprises, unlike programmatic display.</p>
   </div>
   <div class="gi-value-card">
-    <strong>📊 Centralized Tracking</strong>
+    <strong>📊 Centralized tracking</strong>
     <p>Tracking links generated and standardized for all your campaigns. Track clicks from 10 different newsletters on a single dashboard.</p>
   </div>
 </div>
 
 ---
 
-- [📋 Campaign Workflow](./workflow) — Steps from submission to broadcast.
-- [📐 Banner Specifications](./specs) — Formats, weight, and creative best practices.
+- [📋 Campaign Workflow](./workflow): steps from submission to broadcast.
+- [📐 Banner Specifications](./specs): formats, weight and creative best practices.

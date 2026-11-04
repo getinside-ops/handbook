@@ -93,6 +93,6 @@ Your customers no longer open your emails, but they still open their mail and th
 
 Whether you want to recruit, retain or monetise your customers, getinside is built for you.
 
-[Discuss my project](mailto:studio@getinside.com)
+[Discuss my project](https://lp.getinside.fr/meetings/benoit-prentout)
 
 :::

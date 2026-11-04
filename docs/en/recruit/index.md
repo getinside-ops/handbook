@@ -67,10 +67,10 @@ Customers who no longer open your emails? Discover [direct mail](/en/retain/dire
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Partnership Ads on partner brands' social accounts. On request.</p>
   </a>
-  <a href="co-branded-contest/" class="gi-format-card">
+  <a href="bundles" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
-    <span class="gi-format-card-title">Contest</span>
-    <p class="gi-format-card-desc">Qualified opt-in leads through a co-branded contest.</p>
+    <span class="gi-format-card-title">Bundles</span>
+    <p class="gi-format-card-desc">A multi-format scenario with a single brand, with an integrated game to collect qualified opt-in leads.</p>
   </a>
 </div>
 
@@ -78,5 +78,8 @@ Customers who no longer open your emails? Discover [direct mail](/en/retain/dire
 
 <div class="gi-quick-links">
   <a href="printing-services" class="btn btn-outline">🖨️ Printing & Logistics</a>
+  <a href="compare-formats" class="btn btn-outline">⚖️ Choosing your format</a>
+  <a href="analytics" class="btn btn-outline">📈 Tracking & Measurement</a>
+  <a href="sustainability" class="btn btn-outline">🌱 CSR & parcel inserts</a>
   <a href="/handbook/en/resources/case-studies" class="btn btn-outline">🚀 Case studies</a>
 </div>

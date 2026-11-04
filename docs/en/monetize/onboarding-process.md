@@ -12,7 +12,7 @@ keywords:
 
 # Onboarding and Operations
 
-Welcome to getinside! Don't just wait for campaigns: take control of your ad network, activate your historical partners, and maximize your revenue.
+Don't just wait for campaigns: take control of your ad network, activate your historical partners, and grow your revenue.
 
 ## Phase 1: Configuration and Activation
 
@@ -33,10 +33,10 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Logistics Configuration</h3>
-    <p>Before creating your audiences, define your logistics constraints (essential for the algorithm).</p>
+    <p>Before creating your audiences, define your logistics constraints (the algorithm needs them).</p>
     <ul>
-      <li><strong>📍 Warehouse Address</strong> — Delivery location for physical materials (flyers, samples).</li>
-      <li><strong>⏱️ Lead Time (Ingestion Delay)</strong> — Incompressible time between receiving pallets and starting insertion. Automatically taken into account by the algorithm to synchronize deliveries.</li>
+      <li><strong>📍 Warehouse Address</strong>: delivery location for physical materials (flyers, samples).</li>
+      <li><strong>⏱️ Lead Time (Ingestion Delay)</strong>: incompressible time between receiving pallets and starting insertion. Automatically taken into account by the algorithm to synchronize deliveries.</li>
     </ul>
   </div>
 </div>
@@ -46,7 +46,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
   <div class="gi-step-body">
     <h3>Creating Audiences</h3>
     <p>In the <strong>Monetization</strong> tab, create your audience profiles: average order value, B2B/B2C typology, persona profile, visuals (logo, banner). A complete and precise profile earns you more relevant campaign proposals.</p>
-    <a href="audience-setup" class="btn btn-outline">Detailed Guide — Audience Profile →</a>
+    <a href="audience-setup" class="btn btn-outline">Detailed Guide: Audience Profile →</a>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
 ## Phase 2: Campaign Management
 
 <div class="gi-step">
-  <div class="gi-step-num">7</div>
+  <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Marketplace Visibility</h3>
     <p>Once activated, brands that want to reach your audience can see them on the platform and start offering you campaigns.</p>
@@ -97,23 +97,23 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num">8</div>
+  <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Reception & Negotiation</h3>
     <p>When a campaign is proposed, all your users receive a notification.</p>
-    <p><strong>⏱️ 48-Hour Rule (Critical)</strong> — Respond to any proposal within <strong>48 business hours</strong>. Silence means tacit refusal and incurs a contractual penalty.</p>
+    <p><strong>⏱️ 48-Hour Rule (Critical)</strong>: respond to any proposal within <strong>48 business hours</strong>. Silence means tacit refusal and incurs a contractual penalty.</p>
     <p><strong>Do not refuse, negotiate!</strong> The goal is to fill your inventory:</p>
     <ul>
-      <li><strong>💰 Price too low?</strong> Make a counter-proposal on price.</li>
+      <li><strong>💰 Price too low?</strong> Propose another price.</li>
       <li><strong>📅 Dates unavailable?</strong> Suggest another broadcast period.</li>
       <li><strong>📦 Unsuitable volume?</strong> Adjust the proposed quantity.</li>
     </ul>
-    <p><strong>💬 Integrated Messaging:</strong> Use the chat to discuss with the brand whose campaign you deliver, justify your price, or ask for clarifications.</p>
+    <p><strong>💬 Integrated Messaging:</strong> Use the chat to discuss with the brand whose campaign you deliver, justify your price, or ask for clarifications. An acceptance probability bar guides the brand in real time.</p>
   </div>
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num done">9</div>
+  <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>Operational Validation</h3>
     <p>Once the campaign is validated by both parties, we move forward on operations:</p>
@@ -134,7 +134,7 @@ Welcome to getinside! Don't just wait for campaigns: take control of your ad net
     <div class="gi-accent-box">
       <strong>The concept:</strong> Invite the brands you distribute to buy visibility with you (Parcel Insert, Email, Social) via getinside.
       <ul>
-        <li>✅ <strong>Simplification:</strong> Centralize all management and billing in one place.</li>
+        <li>✅ <strong>Simplification:</strong> Centralize all management and billing in one place. Add your partners through the SIREN/VAT search, send your invitations and track progress by partner.</li>
         <li>✅ <strong>Profitability:</strong> Generate additional revenue from already acquired partners.</li>
       </ul>
     </div>
@@ -174,17 +174,17 @@ Penalties apply in three situations, detailed in your contract:
 
 - **Cancellation after validation** of a campaign.
 - **Early contract termination** (annual commitment not honored).
-- **Platform circumvention** (direct contact between brands outside the platform).
+- **Platform circumvention** (direct contact between brands outside the platform, for an account brought by getinside).
 
 ### Data Protection (GDPR & First Party Data)
 
 ::: tip
 **🛡️ The data is exclusively yours**
 
-getinside acts as a **Trusted Third Party**. No transfer of customer files to a brand is allowed without a specific new GDPR Opt-in.
+getinside acts as a **Trusted Third Party** and commits contractually: no direct access to your customer data (First Party Data), and a ban on renting, selling, enriching or matching it. Only aggregated, anonymized delivery data is used. No transfer of customer files to a brand is allowed without a specific new GDPR Opt-in.
 
 - You retain ownership of your customer data.
-- Brands only receive opt-in leads (contests only).
+- Brands only receive opt-in leads (contest operations only).
 - Any request for additional data requires legal validation.
 :::
 

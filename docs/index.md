@@ -21,8 +21,11 @@ hero:
     alt: getinside
   actions:
     - theme: brand
-      text: Démarrer ici
+      text: Par où commencer ?
       link: /start-here/
+    - theme: alt
+      text: Guide de création Insertion Colis
+      link: /recruit/sponsored-mail/design-guide/
 
 features:
   - icon: 🎯

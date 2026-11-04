@@ -1,5 +1,5 @@
 ---
-title: Démarrage Rapide — Monétiser
+title: "Démarrage Rapide : Monétiser"
 description: "Démarrez sur getinside en 3 étapes et environ 10 minutes : activez votre accès, configurez votre profil logistique, puis créez votre première audience. Un appel de validation avec l'équipe confirme ensuite votre mise en ligne sur la marketplace et vous commencez à recevoir des propositions de campagnes."
 keywords:
   - Démarrage rapide
@@ -10,7 +10,7 @@ keywords:
   - Marketplace
 ---
 
-# Démarrage Rapide — Monétiser
+# Démarrage Rapide : Monétiser
 
 Vous venez de rejoindre getinside. En 3 étapes (10 minutes), votre profil est prêt à recevoir vos premières campagnes.
 
@@ -20,18 +20,18 @@ Vous venez de rejoindre getinside. En 3 étapes (10 minutes), votre profil est p
 
 ---
 
-## Étape 1 — Activez votre accès (2 min)
+## Étape 1 : Activez votre accès (2 min)
 
-1. Ouvrez l'**email d'invitation** reçu de getinside
-2. Cliquez sur le lien d'activation
-3. Définissez votre mot de passe
+1. Ouvrez l'**email d'invitation** reçu de getinside.
+2. Cliquez sur le lien d'activation.
+3. Définissez votre mot de passe.
 4. Connectez-vous sur [app.getinside.media](https://app.getinside.media/)
 
 > Votre compte a été créé par l'équipe getinside lors de votre démo. Si vous n'avez pas reçu l'email, vérifiez vos spams ou contactez votre gestionnaire.
 
 ---
 
-## Étape 2 — Configurez votre profil logistique (5 min)
+## Étape 2 : Configurez votre profil logistique (5 min)
 
 Avant de recevoir des campagnes, l'algorithme a besoin de deux informations :
 
@@ -46,7 +46,7 @@ Avant de recevoir des campagnes, l'algorithme a besoin de deux informations :
 
 ---
 
-## Étape 3 — Créez votre première audience (3 min)
+## Étape 3 : Créez votre première audience (3 min)
 
 Votre audience, c'est ce que vous proposez aux marques qui veulent la toucher. Plus elle est précise, plus vous recevez de campagnes pertinentes.
 
@@ -71,5 +71,5 @@ Un **appel de validation** avec l'équipe getinside confirme votre mise en ligne
 ---
 
 **Prochaines étapes :**
-- [Processus complet d'onboarding](/monetize/onboarding-process) — le fonctionnement détaillé
-- [Paiements & Wallet](/monetize/payouts) — comprendre quand et comment vous serez payé
+- [Processus complet d'onboarding](/monetize/onboarding-process) : le fonctionnement détaillé
+- [Paiements & Wallet](/monetize/payouts) : comprendre quand et comment vous serez payé

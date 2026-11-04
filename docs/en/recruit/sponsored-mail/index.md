@@ -14,6 +14,10 @@ keywords:
 
 A printed piece is placed in the customer's parcel or handed over with their order. Slip your offer (flyer, card, sample) into the parcels of affinity brands, and reach your future customers where purchase decisions are made.
 
+::: tip Do you deliver other brands' campaigns?
+See how to monetize your parcels with this format in the [Parcel inserts guide for Monetize](/en/monetize/sponsored-mail/).
+:::
+
 ---
 
 ## How does it work?
@@ -30,7 +34,7 @@ A printed piece is placed in the customer's parcel or handed over with their ord
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Create your materials</h3>
-    <p>Design your flyer respecting the <a href="./design-guide/print-specs">technical specifications</a> and the <a href="./design-guide/legal">legal notices</a>. Integrate the dynamic QR Code provided by getinside — it's your tracking tool.</p>
+    <p>Design your flyer respecting the <a href="./design-guide/print-specs">technical specifications</a> and the <a href="./design-guide/legal">legal notices</a>. Integrate the dynamic QR Code provided by getinside: it's your tracking tool.</p>
   </div>
 </div>
 
@@ -52,7 +56,7 @@ A printed piece is placed in the customer's parcel or handed over with their ord
 
 ---
 
-## Why this channel is essential
+## Why this channel stands out
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -61,7 +65,7 @@ A printed piece is placed in the customer's parcel or handed over with their ord
   </div>
   <div class="gi-value-card">
     <strong>🎯 Behavioral Targeting</strong>
-    <p>You reach real buyers, qualified by their purchasing habits — not anonymous internet users. Sector, average basket, geography: targeting is precise and measurable.</p>
+    <p>You reach real buyers, qualified by their purchasing habits, not anonymous internet users. Sector, average basket, geography: targeting is precise and measurable.</p>
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Cookie-less</strong>
@@ -94,8 +98,8 @@ Your offer is always inserted with a **non-competing** brand. And in the same pa
 
 | Format | Finished dimensions | Recommended use |
 | :--- | :--- | :--- |
-| **A5** | 148 × 210 mm | Standard format — ideal for detailed offers |
-| **A6** | 105 × 148 mm | Compact format — ideal for promo codes |
+| **A5** | 148 × 210 mm | Standard format: ideal for detailed offers |
+| **A6** | 105 × 148 mm | Compact format: ideal for promo codes |
 | **Card** | 105 × 148 mm | Gift or loyalty card format |
 
 ### Samples (Sampling)
@@ -106,7 +110,7 @@ Your offer is always inserted with a **non-competing** brand. And in the same pa
 | **M** | 100 g | 30 cm |
 | **L** | 450 g | 40 cm |
 
-:::tip Duo Option — Flyer + Sample
+:::tip Duo Option: Flyer + Sample
 An S Format sample can be attached to an A5/A6 flyer via a dot of fugitive (repositionable) glue. Produced by Adapted Enterprises (EA).
 :::
 
@@ -123,9 +127,9 @@ Benchmarks observed on the getinside network:
 
 :::tip Maximize ROI
 - **Monetary value**: *"10€ off"* converts much better than *"-10%"*. Concrete value is immediately perceived.
-- **QR Code + UTM**: combine the getinside QR code with UTM parameters (`utm_source=getinside&utm_medium=parcel-insert`) to track sales in Google Analytics.
+- **QR Code + UTM**: combine the getinside QR code with UTM parameters (`utm_source=getinside&utm_medium=sponsored-mail`) to track sales in Google Analytics.
 - **Unique promo code**: add a specific code per brand delivering your campaign for offline attribution.
-- **Validity period**: allow at least 3 months — recipients often keep flyers for several weeks before scanning them.
+- **Validity period**: allow at least 3 months: recipients often keep flyers for several weeks before scanning them.
 :::
 
 ---
@@ -153,8 +157,8 @@ Benchmarks observed on the getinside network:
 
 **Ready to launch your first campaign?**
 
-- [📘 Design Guide](./design-guide/) — Technical specifications, legal notices, creative strategy.
-- [🚀 Create a campaign](https://app.getinside.media/){target="_blank"} — Access the platform directly.
+- [📘 Design Guide](./design-guide/): technical specifications, legal notices, creative strategy.
+- [🚀 Create a campaign](https://app.getinside.media/){target="_blank"}: access the platform directly.
 
 :::info Need help?
 Our Creative Studio handles art direction and execution of your campaign. → [Contact the Studio](../../resources/studio)

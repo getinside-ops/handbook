@@ -14,6 +14,10 @@ keywords:
 
 Un support est inséré dans le colis du client ou emporté avec sa commande. Glissez votre offre (flyer, carte, échantillon) dans les colis de marques affinitaires, et touchez vos futurs clients là où les décisions d'achat se prennent.
 
+::: tip Vous diffusez les campagnes d'autres marques ?
+Découvrez comment monétiser vos colis avec ce format dans le [guide Insertion colis pour Monétiser](/monetize/sponsored-mail/).
+:::
+
 ---
 
 ## Comment ça marche ?
@@ -30,7 +34,7 @@ Un support est inséré dans le colis du client ou emporté avec sa commande. Gl
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Créez vos supports</h3>
-    <p>Concevez votre flyer en respectant les <a href="./design-guide/print-specs">spécifications techniques</a> et les <a href="./design-guide/legal">mentions légales</a>. Intégrez le QR Code dynamique fourni par getinside — c'est votre outil de tracking.</p>
+    <p>Concevez votre flyer en respectant les <a href="./design-guide/print-specs">spécifications techniques</a> et les <a href="./design-guide/legal">mentions légales</a>. Intégrez le QR Code dynamique fourni par getinside : c'est votre outil de tracking.</p>
   </div>
 </div>
 
@@ -61,7 +65,7 @@ Un support est inséré dans le colis du client ou emporté avec sa commande. Gl
   </div>
   <div class="gi-value-card">
     <strong>🎯 Ciblage Comportemental</strong>
-    <p>Vous touchez des acheteurs réels, qualifiés par leurs habitudes de consommation — pas des internautes anonymes. Secteur, panier moyen, géographie : le ciblage est précis et mesurable.</p>
+    <p>Vous touchez des acheteurs réels, qualifiés par leurs habitudes de consommation, pas des internautes anonymes. Secteur, panier moyen, géographie : le ciblage est précis et mesurable.</p>
   </div>
   <div class="gi-value-card">
     <strong>🛡️ Cookie-less</strong>
@@ -94,8 +98,8 @@ Votre offre est toujours insérée chez une marque **non concurrente**. Et dans 
 
 | Format | Dimensions finies | Usage recommandé |
 | :--- | :--- | :--- |
-| **A5** | 148 × 210 mm | Format standard — idéal pour les offres détaillées |
-| **A6** | 105 × 148 mm | Format compact — idéal pour les codes promo |
+| **A5** | 148 × 210 mm | Format standard : idéal pour les offres détaillées |
+| **A6** | 105 × 148 mm | Format compact : idéal pour les codes promo |
 | **Carte** | 105 × 148 mm | Format carte cadeau ou fidélité |
 
 ### Échantillons (Sampling)
@@ -106,7 +110,7 @@ Votre offre est toujours insérée chez une marque **non concurrente**. Et dans 
 | **M** | 100 g | 30 cm |
 | **L** | 450 g | 40 cm |
 
-:::tip Option Duo — Flyer + Échantillon
+:::tip Option Duo : Flyer + Échantillon
 Un échantillon Format S peut être fixé sur un flyer A5/A6 via un point de colle fugitive (repositionnable). Réalisé par des Entreprises Adaptées (EA).
 :::
 
@@ -123,9 +127,9 @@ Les benchmarks observés sur le réseau getinside :
 
 :::tip Maximiser le ROI
 - **Valeur monétaire** : *"10€ offerts"* convertit bien mieux que *"-10%"*. La valeur concrète est immédiatement perçue.
-- **QR Code + UTM** : combinez le QR code getinside avec des paramètres UTM (`utm_source=getinside&utm_medium=insertion-colis`) pour tracker les ventes dans Google Analytics.
+- **QR Code + UTM** : combinez le QR code getinside avec des paramètres UTM (`utm_source=getinside&utm_medium=sponsored-mail`) pour tracker les ventes dans Google Analytics.
 - **Code promo unique** : ajoutez un code spécifique par marque qui diffuse votre campagne pour l'attribution offline.
-- **Durée de validité** : prévoyez au moins 3 mois — les destinataires conservent souvent les flyers plusieurs semaines avant de les scanner.
+- **Durée de validité** : prévoyez au moins 3 mois : les destinataires conservent souvent les flyers plusieurs semaines avant de les scanner.
 :::
 
 ---
@@ -153,8 +157,8 @@ Les benchmarks observés sur le réseau getinside :
 
 **Prêt à lancer votre première campagne ?**
 
-- [📘 Guide de Conception](./design-guide/) — Spécifications techniques, mentions légales, stratégie créative.
-- [🚀 Créer une campagne](https://app.getinside.media/){target="_blank"} — Accédez à la plateforme directement.
+- [📘 Guide de Conception](./design-guide/) : spécifications techniques, mentions légales, stratégie créative.
+- [🚀 Créer une campagne](https://app.getinside.media/){target="_blank"} : accédez à la plateforme directement.
 
 :::info Besoin d'aide ?
 Notre Studio Créatif prend en charge la direction artistique et l'exécution de votre campagne. → [Contacter le Studio](/resources/studio)

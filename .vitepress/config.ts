@@ -1,13 +1,75 @@
 import { defineConfig } from 'vitepress'
-import { withMermaid } from 'vitepress-plugin-mermaid'
 import path from 'path'
 
-const config: any = withMermaid(
-  defineConfig({
+const SITE = 'https://getinside-ops.github.io/handbook'
+
+/**
+ * Construit le JSON-LD WebPage + BreadcrumbList en SSR (rendu statique).
+ * Auparavant injecté côté client uniquement (theme/index.ts) — donc invisible
+ * pour les crawlers sans JS. Émis ici à la build pour être indexable.
+ */
+function buildWebPageSchema(pageData: any) {
+  const { frontmatter, title, relativePath } = pageData
+  const pageTitle = frontmatter.title || title || 'getinside Handbook'
+  const pageDescription = frontmatter.description || 'Guides opérationnels pour le marketing par le colis et le courrier adressé'
+  const relUrl = relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
+  const pageUrl = `${SITE}/${relUrl}`
+  const pageImage = frontmatter.image || `${SITE}/images/og-image.png`
+
+  // Fil d'ariane à partir du chemin (le segment feuille utilise le vrai titre)
+  const parts = relUrl.replace(/\/$/, '').split('/').filter(Boolean)
+  const itemListElement: any[] = [
+    { '@type': 'ListItem', position: 1, name: 'Handbook', item: `${SITE}/` },
+  ]
+  let acc = `${SITE}/`
+  parts.forEach((part: string, idx: number) => {
+    acc += part + '/'
+    const isLeaf = idx === parts.length - 1
+    const name = isLeaf
+      ? pageTitle
+      : part.charAt(0).toUpperCase() + part.slice(1).replace(/-/g, ' ')
+    itemListElement.push({
+      '@type': 'ListItem',
+      position: idx + 2,
+      name,
+      item: acc.replace(/\/$/, isLeaf ? '' : '/'),
+    })
+  })
+
+  const schema: Record<string, any> = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: pageTitle,
+    description: pageDescription,
+    url: pageUrl,
+    image: { '@type': 'ImageObject', url: pageImage, width: 1200, height: 630 },
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'getinside Handbook',
+      url: `${SITE}/`,
+      sameAs: ['https://www.getinside.media/'],
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'getinside',
+      alternateName: 'getinside Media',
+      logo: { '@type': 'ImageObject', url: `${SITE}/images/logo-getinside.svg` },
+      url: 'https://www.getinside.media/',
+    },
+    breadcrumb: { '@type': 'BreadcrumbList', itemListElement },
+  }
+  if (Array.isArray(frontmatter.keywords) && frontmatter.keywords.length) {
+    schema.keywords = frontmatter.keywords.join(', ')
+  }
+  return schema
+}
+
+const config: any = defineConfig({
     title: 'getinside Handbook',
     description: 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.',
     base: '/handbook/',
     srcDir: 'docs',
+    cleanUrls: true,
 
     locales: {
       root: {
@@ -45,6 +107,14 @@ const config: any = withMermaid(
     },
 
     head: [
+      // Favicon & PWA icons
+      ['link', { rel: 'icon', type: 'image/svg+xml', href: '/handbook/images/gi-keyvisual.svg' }],
+      ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/handbook/images/icons/favicon-32.png' }],
+      ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/handbook/images/icons/favicon-16.png' }],
+      ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/handbook/images/icons/apple-touch-icon.png' }],
+      ['link', { rel: 'manifest', href: '/handbook/site.webmanifest' }],
+      ['meta', { name: 'theme-color', content: '#0aaa8e' }],
+
       // Fonts
       ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
       ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
@@ -55,7 +125,6 @@ const config: any = withMermaid(
       ['meta', { name: 'googlebot', content: 'index, follow' }],
       ['meta', { name: 'bingbot', content: 'index, follow' }],
       ['meta', { name: 'google-site-verification', content: 'rYXnBrdfxUincgWiLZ2bJS8FYbU_vo3sYDa3eXMnM4Q' }],
-      ['meta', { name: 'algolia-site-verification', content: '8EFEF07F817F26A7' }],
 
       // Canonical URL (surchargé per page)
       ['link', { rel: 'canonical', href: 'https://getinside-ops.github.io/handbook/' }],
@@ -96,6 +165,29 @@ const config: any = withMermaid(
 
       // LLM-specific
       ['meta', { name: 'ChatGPT-content', content: 'getinside documentation - parcel and direct mail marketing: guides to recruit, retain and monetize with parcel inserts and direct mail' }],
+
+      // WebSite schema statique (SSR) pour que Google affiche le bon nom de site
+      ['script', { type: 'application/ld+json' }, JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'getinside Handbook',
+        alternateName: 'getinside',
+        url: 'https://getinside-ops.github.io/handbook/',
+        description: 'Guides opérationnels pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.',
+        publisher: {
+          '@type': 'Organization',
+          name: 'getinside',
+          url: 'https://www.getinside.media/',
+        },
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: {
+            '@type': 'EntryPoint',
+            urlTemplate: 'https://getinside-ops.github.io/handbook/?search={search_term_string}',
+          },
+          'query-input': 'required name=search_term_string',
+        },
+      })],
     ],
 
     themeConfig: {
@@ -159,16 +251,19 @@ const config: any = withMermaid(
             items: [
               { text: 'Vue d\'ensemble', link: '/recruit/' },
               { text: 'Démarrage Rapide', link: '/recruit/onboarding-quick-start' },
+              { text: 'Comparer les formats', link: '/recruit/compare-formats' },
+              { text: 'Suivi & Mesure', link: '/recruit/analytics' },
               {
                 text: 'Insertion colis',
                 collapsed: true,
                 items: [
                   { text: 'Présentation', link: '/recruit/sponsored-mail/' },
                   {
-                    text: 'Guide Design',
+                    text: 'Guide de Création',
                     collapsed: true,
                     items: [
                       { text: 'Introduction', link: '/recruit/sponsored-mail/design-guide/' },
+                      { text: 'Anatomie d\'un flyer performant', link: '/recruit/sponsored-mail/design-guide/best-practices' },
                       { text: 'Spécifications techniques', link: '/recruit/sponsored-mail/design-guide/print-specs' },
                       { text: 'Mentions légales', link: '/recruit/sponsored-mail/design-guide/legal' },
                     ],
@@ -187,6 +282,7 @@ const config: any = withMermaid(
                       { text: 'Présentation', link: '/recruit/dedicated-email/' },
                       { text: 'Brief', link: '/recruit/dedicated-email/1-brief' },
                       { text: 'Création', link: '/recruit/dedicated-email/2-creation' },
+                      { text: 'Liste d\'exclusion', link: '/recruit/dedicated-email/exclusion-list' },
                       { text: 'Validation & Diffusion', link: '/recruit/dedicated-email/3-validation-diffusion' },
                     ],
                   },
@@ -200,7 +296,7 @@ const config: any = withMermaid(
                     ],
                   },
                   { text: 'Social Ads', link: '/recruit/sponsored-social/' },
-                  { text: 'Jeu Concours', link: '/recruit/co-branded-contest/' },
+                  { text: 'Bundles', link: '/recruit/bundles' },
                 ],
               },
               { text: 'Service Impression & RSE', link: '/recruit/printing-services' },
@@ -240,6 +336,7 @@ const config: any = withMermaid(
                     items: [
                       { text: 'Présentation', link: '/monetize/dedicated-email/' },
                       { text: 'Design', link: '/monetize/dedicated-email/1-design' },
+                      { text: 'Liste d\'exclusion', link: '/monetize/dedicated-email/exclusion-list' },
                       { text: 'Tracking & Envoi', link: '/monetize/dedicated-email/2-tracking-sending' },
                     ],
                   },
@@ -252,7 +349,7 @@ const config: any = withMermaid(
                     ],
                   },
                   { text: 'Social Ads', link: '/monetize/sponsored-social/' },
-                  { text: 'Jeu Concours', link: '/monetize/co-branded-contest/' },
+                  { text: 'Bundles', link: '/monetize/bundles' },
                 ],
               },
               {
@@ -271,7 +368,8 @@ const config: any = withMermaid(
             collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/faq/' },
-              { text: 'Résolution de problèmes', link: '/faq/troubleshooting' },
+              { text: 'Résolution de problèmes : Recruter', link: '/faq/troubleshooting-recruit' },
+              { text: 'Résolution de problèmes : Monétiser', link: '/faq/troubleshooting-monetize' },
               { text: 'Audiences & Compte', link: '/faq/account-audiences' },
               { text: 'Facturation', link: '/faq/billing' },
               { text: 'Gestion de Campagnes', link: '/faq/campaign-management' },
@@ -304,6 +402,8 @@ const config: any = withMermaid(
             items: [
               { text: 'Overview', link: '/en/recruit/' },
               { text: 'Quick Start', link: '/en/recruit/onboarding-quick-start' },
+              { text: 'Compare Formats', link: '/en/recruit/compare-formats' },
+              { text: 'Analytics & Tracking', link: '/en/recruit/analytics' },
               {
                 text: 'Parcel Inserts',
                 collapsed: true,
@@ -314,6 +414,7 @@ const config: any = withMermaid(
                     collapsed: true,
                     items: [
                       { text: 'Introduction', link: '/en/recruit/sponsored-mail/design-guide/' },
+                      { text: 'Anatomy of a High-Performing Flyer', link: '/en/recruit/sponsored-mail/design-guide/best-practices' },
                       { text: 'Print Specs', link: '/en/recruit/sponsored-mail/design-guide/print-specs' },
                       { text: 'Legal', link: '/en/recruit/sponsored-mail/design-guide/legal' },
                     ],
@@ -332,6 +433,7 @@ const config: any = withMermaid(
                       { text: 'Overview', link: '/en/recruit/dedicated-email/' },
                       { text: 'Brief', link: '/en/recruit/dedicated-email/1-brief' },
                       { text: 'Creation', link: '/en/recruit/dedicated-email/2-creation' },
+                      { text: 'Exclusion List', link: '/en/recruit/dedicated-email/exclusion-list' },
                       { text: 'Validation & Delivery', link: '/en/recruit/dedicated-email/3-validation-diffusion' },
                     ],
                   },
@@ -345,7 +447,7 @@ const config: any = withMermaid(
                     ],
                   },
                   { text: 'Social Ads', link: '/en/recruit/sponsored-social/' },
-                  { text: 'Co-branded Contest', link: '/en/recruit/co-branded-contest/' },
+                  { text: 'Bundles', link: '/en/recruit/bundles' },
                 ],
               },
               { text: 'Printing & CSR Services', link: '/en/recruit/printing-services' },
@@ -385,6 +487,7 @@ const config: any = withMermaid(
                     items: [
                       { text: 'Overview', link: '/en/monetize/dedicated-email/' },
                       { text: 'Design', link: '/en/monetize/dedicated-email/1-design' },
+                      { text: 'Exclusion List', link: '/en/monetize/dedicated-email/exclusion-list' },
                       { text: 'Tracking & Sending', link: '/en/monetize/dedicated-email/2-tracking-sending' },
                     ],
                   },
@@ -397,7 +500,7 @@ const config: any = withMermaid(
                     ],
                   },
                   { text: 'Social Ads', link: '/en/monetize/sponsored-social/' },
-                  { text: 'Co-branded Contest', link: '/en/monetize/co-branded-contest/' },
+                  { text: 'Bundles', link: '/en/monetize/bundles' },
                 ],
               },
               {
@@ -416,7 +519,8 @@ const config: any = withMermaid(
             collapsed: true,
             items: [
               { text: 'Overview', link: '/en/faq/' },
-              { text: 'Troubleshooting', link: '/en/faq/troubleshooting' },
+              { text: 'Troubleshooting: Recruit', link: '/en/faq/troubleshooting-recruit' },
+              { text: 'Troubleshooting: Monetize', link: '/en/faq/troubleshooting-monetize' },
               { text: 'Audiences & Account', link: '/en/faq/account-audiences' },
               { text: 'Billing', link: '/en/faq/billing' },
               { text: 'Campaign Management', link: '/en/faq/campaign-management' },
@@ -446,10 +550,6 @@ const config: any = withMermaid(
       editLink: undefined,
     },
 
-    mermaid: {
-      theme: 'neutral',
-    },
-
     // transformHead pour injecter les balises SEO en SSR
     async transformHead({ pageData }) {
       const { frontmatter, title, relativePath } = pageData
@@ -471,21 +571,10 @@ const config: any = withMermaid(
         ['meta', { name: 'citation_author', content: 'getinside' }],
         ['meta', { name: 'dc.title', content: pageTitle }],
         ['meta', { name: 'dc.description', content: pageDescription }],
+        // Schema.org WebPage + BreadcrumbList (SSR, indexable sans JS)
+        ['script', { type: 'application/ld+json' }, JSON.stringify(buildWebPageSchema(pageData))],
       ]
     },
-  })
-)
-
-if (!config.locales) config.locales = {}
-if (!config.locales.en) config.locales.en = { label: 'English', lang: 'en-US', link: '/en/' }
-config.locales.en.themeConfig = {
-  nav: [
-    { text: '🎯 Recruit', link: '/en/recruit/' },
-    { text: '💌 Retain', link: '/en/retain/' },
-    { text: '📦 Monetize', link: '/en/monetize/' },
-    { text: '❓ FAQ', link: '/en/faq/' },
-    { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
-  ],
-}
+})
 
 export default config

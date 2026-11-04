@@ -12,7 +12,7 @@ keywords:
 
 # Encart Newsletter (Display Email)
 
-Insérez une bannière publicitaire au sein des communications d'un partenaire. Un format de notoriété efficace et non intrusif — vous ne fournissez qu'une image et un lien.
+Insérez une bannière publicitaire au sein des communications d'un partenaire. Un format de notoriété efficace et non intrusif : vous ne fournissez qu'une image et un lien.
 
 ---
 
@@ -20,7 +20,7 @@ Insérez une bannière publicitaire au sein des communications d'un partenaire. 
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📢 Blast (Newsletter Édito)</strong>
+    <strong>📢 Blast (newsletter édito)</strong>
     <p>Votre bannière s'insère dans la newsletter hebdomadaire du partenaire. Emplacement Header ou cœur de contenu.</p>
     <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Notoriété" /></p>
   </div>
@@ -46,10 +46,26 @@ Insérez une bannière publicitaire au sein des communications d'un partenaire. 
     <p>Contrairement à l'email dédié, vous ne fournissez qu'une image (JPG/PNG/GIF) et un lien. Pas de HTML à coder, pas de brief créatif élaboré.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Non intrusif & Brand Safe</strong>
-    <p>Votre marque s'insère dans un contenu que l'abonné attend, dans un environnement fermé cautionné par la marque qui diffuse votre campagne — à l'opposé du display programmatique open web.</p>
+    <strong>🚀 Activation en 48 h</strong>
+    <p>De la soumission de votre bannière à la diffusion : 48 heures. Idéal pour des offres saisonnières ou des lancements à délai court.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>🛡️ Non intrusif et brand safe</strong>
+    <p>Votre marque s'insère dans un contenu que l'abonné attend, dans un environnement fermé cautionné par la marque qui diffuse votre campagne, à l'opposé du display programmatique open web.</p>
   </div>
 </div>
+
+---
+
+## Cas d'usage idéaux
+
+- **Offre flash ou saisonnière** : Black Friday, soldes, fêtes. Activez en 48 h, sans contrainte print.
+- **Lancement produit** : faites découvrir une nouveauté à une audience qualifiée, rapidement.
+- **Campagne test** : format léger pour tester un message ou une audience avant un format plus lourd.
+
+::: tip Vous diffusez les campagnes d'autres marques à vos clients ?
+Consultez le [guide Encart newsletter côté Monétiser](/monetize/display-email/).
+:::
 
 ---
 
@@ -62,7 +78,7 @@ Insérez une bannière publicitaire au sein des communications d'un partenaire. 
 | **Blast (Newsletter)** | Variable | Dépend de la base et du secteur |
 
 :::info Tracking : clics uniquement
-Pour ce format, il n'y a **pas de pixel d'ouverture** — seuls les clics sont comptabilisés (lien tracké `gtinsi.de`). Ajoutez des paramètres UTM à votre URL finale pour mesurer le trafic dans Google Analytics.
+Pour ce format, il n'y a **pas de pixel d'ouverture** : seuls les clics sont comptabilisés (lien tracké `gtinsi.de`). Ajoutez des paramètres UTM à votre URL finale pour mesurer le trafic dans Google Analytics.
 :::
 
 ---
@@ -71,20 +87,20 @@ Pour ce format, il n'y a **pas de pixel d'ouverture** — seuls les clics sont c
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🌐 Inventaire Unifié</strong>
+    <strong>🌐 Inventaire unifié</strong>
     <p>Des partenaires accessibles via une seule plateforme. Plus besoin de négocier individuellement avec chaque média ou chaque marque.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🛡️ Brand Safety & Contexte</strong>
-    <p>Votre marque s'affiche dans un environnement fermé, sûr et cautionné par la marque qui diffuse votre campagne — aucune mauvaise surprise contextuelle contrairement au display programmatique.</p>
+    <strong>🛡️ Brand safety et contexte</strong>
+    <p>Votre marque s'affiche dans un environnement fermé, sûr et cautionné par la marque qui diffuse votre campagne : aucune mauvaise surprise contextuelle, contrairement au display programmatique.</p>
   </div>
   <div class="gi-value-card">
-    <strong>📊 Tracking Centralisé</strong>
+    <strong>📊 Tracking centralisé</strong>
     <p>Liens de tracking générés et uniformisés pour toutes vos campagnes. Suivez les clics de 10 newsletters différentes sur un seul tableau de bord.</p>
   </div>
 </div>
 
 ---
 
-- [📋 Workflow de campagne](./workflow) — Étapes de la soumission à la diffusion.
-- [📐 Spécifications Bannières](./specs) — Formats, poids et bonnes pratiques créatives.
+- [📋 Workflow de campagne](./workflow) : étapes de la soumission à la diffusion.
+- [📐 Spécifications bannières](./specs) : formats, poids et bonnes pratiques créatives.

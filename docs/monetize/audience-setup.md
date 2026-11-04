@@ -1,6 +1,6 @@
 ---
 title: Fiche audience
-description: "Configurez votre fiche audience, votre vitrine auprès des marques qui veulent toucher votre audience : identité, persona, données démographiques et formats activés (Insertion Colis, Emailing Dédié, Display Email, Social Ads, Jeu Concours). Explique aussi comment gérer plusieurs sites depuis un seul compte."
+description: "Configurez votre fiche audience, votre vitrine auprès des marques qui veulent toucher votre audience : identité, persona, données démographiques et formats activés (Insertion Colis, Emailing Dédié, Display Email, Social Ads, Bundle). Explique aussi comment gérer plusieurs sites depuis un seul compte."
 keywords:
   - Fiche audience
   - Persona
@@ -27,7 +27,7 @@ Dans le champ **"Persona"**, soyez descriptif : *"Jardinier amateur ou expert ch
 
 ## 2. Les Données Démographiques (Data)
 
-Ces champs alimentent l'algorithme de getinside pour le matching.
+Ces champs alimentent l'algorithme de Smart Matching. Une fiche incomplète réduit votre visibilité dans les résultats.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -36,7 +36,7 @@ Ces champs alimentent l'algorithme de getinside pour le matching.
   </div>
   <div class="gi-value-card">
     <strong>Typologie (B2C/B2B)</strong>
-    <p>Critère excluant. Assurez-vous qu'il est correct.</p>
+    <p>Critère excluant. Assurez-vous qu'il est correct : une erreur réduit vos propositions pertinentes.</p>
   </div>
   <div class="gi-value-card">
     <strong>Profil d'acheteur</strong>
@@ -48,15 +48,25 @@ Ces champs alimentent l'algorithme de getinside pour le matching.
 
 Pour chaque audience créée, activez indépendamment les formats que vous souhaitez monétiser :
 
-- **📦 Insertion Colis** — Flyers ou échantillons dans vos colis
-- **📧 Emailing Dédié** — Recommandation via votre newsletter
-- **📩 Display Email** — Bannières dans vos emails
-- **📱 Social Ads** — Publications sponsorisées Instagram / TikTok
-- **🎁 Jeu Concours** — Mécanique de collecte de leads
+- **📦 Insertion Colis** : Flyers ou échantillons dans vos colis
+- **📧 Emailing Dédié** : Recommandation via votre newsletter
+- **📩 Display Email** : Bannières dans vos emails
+- **📱 Social Ads** : Publications sponsorisées Instagram / TikTok
+- **🎁 Bundle** : plusieurs inventaires packagés en un dispositif scénarisé
 
 > Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.
 
-## 4. Gérer plusieurs audiences et sites
+## 4. Renseignez votre inventaire sur 12 mois
+
+Pour l'Insertion Colis, déclarez vos volumes hebdomadaires prévisionnels. Utilisez **Éditer toutes les semaines** pour appliquer un volume identique en une action, ou **Semaines vides uniquement** pour compléter sans écraser vos saisies spécifiques.
+
+**Espace :** Monétisation → Catalogue → [Votre Audience] → [Type de Campagne] → Inventaire
+
+::: tip Un inventaire à jour, c'est plus de campagnes
+Les marques qui recrutent privilégient les audiences dont la disponibilité est garantie à l'avance. Un inventaire renseigné sur 12 mois améliore votre visibilité dans le Smart Matching.
+:::
+
+## 5. Gérer plusieurs audiences et sites
 
 **Un seul compte suffit**, même si vous opérez plusieurs sites e-commerce. Chaque site peut avoir sa propre fiche audience avec ses données spécifiques.
 
@@ -64,7 +74,7 @@ Pour chaque audience créée, activez indépendamment les formats que vous souha
 
 Bonnes pratiques pour un catalogue multi-audiences :
 - Nommez clairement chaque audience (ex: "Site Mode Femme", "Site Jardin B2C")
-- Renseignez des données distinctes par site — ne mutualisez pas les chiffres
+- Renseignez des données distinctes par site. Ne mutualisez pas les chiffres
 - Activez uniquement les formats que vous pouvez réellement honorer sur ce site
 
 **International :** getinside opère dans toute l'Europe. Ajoutez vos audiences européennes pour recevoir des campagnes ciblées par pays.
@@ -72,10 +82,10 @@ Bonnes pratiques pour un catalogue multi-audiences :
 ## Questions fréquentes
 
 **Comment ajouter un utilisateur à mon compte ?**
-Rendez-vous dans **Mon Organisation → Équipe** → `+ Ajouter un membre`. Recommandé : ayez toujours un backup pour assurer la réactivité sous 48h.
+Rendez-vous dans **Mon Organisation → Équipe** → `+ Ajouter un membre`. Recommandé : ayez toujours un backup pour garantir la réactivité sous 48 h.
 
 **Puis-je gérer plusieurs sites depuis un seul compte ?**
-Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez — une par site ou par segment client.
+Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez, une par site ou par segment client.
 
 **Où suivre mes filleuls (affiliation) ?**
-Dans l'onglet **Affiliation**. Vous êtes rémunéré de façon récurrente sur l'activité de vos filleuls, directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE.
+Dans l'onglet **Affiliation**. Vous êtes rémunéré de façon récurrente sur l'activité de vos filleuls, directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE. → [Programme d'Affiliation](/monetize/affiliation)

@@ -12,7 +12,7 @@ keywords:
 
 # Bibliothèque de Ressources
 
-Accédez rapidement à tous les gabarits, logos et documents techniques nécessaires.
+Gabarits, logos et documents techniques pour préparer vos campagnes.
 
 ---
 
@@ -39,7 +39,7 @@ Accédez rapidement à tous les gabarits, logos et documents techniques nécessa
 </div>
 
 :::info Besoin d'aide créative ?
-Vous n'avez pas les logiciels Adobe ? Déléguez la création à notre [Studio Graphique](/resources/studio). Contact : studio@getinside.fr
+Vous n'avez pas les logiciels Adobe ? Déléguez la création à notre [Studio Créatif](/resources/studio). Contact : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
 
 ---
@@ -60,6 +60,14 @@ Pour préparer vos visuels aux normes techniques, privilégiez les logiciels de 
   <div class="gi-value-card">
     <strong>Adobe InDesign</strong>
     <p>Mise en page multi-pages avec export PDF/X et gestion du fond perdu automatique.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Affinity</strong>
+    <p>Alternative à Adobe. L'export PDF/X est accepté.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>Canva Pro</strong>
+    <p>Accepté si l'export en PDF/X CMJN est disponible.</p>
   </div>
 </div>
 

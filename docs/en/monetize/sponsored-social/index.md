@@ -23,7 +23,7 @@ Unlike classic influencer marketing, we use **Sponsorship**:
 
 1. You create and publish quality content (with the "Paid partnership" label).
 2. The brand whose campaign you deliver invests its own media budget to broadcast **your post** to thousands of new people.
-3. You share the publication link — getinside transmits it to the brand to launch the amplification.
+3. You share the publication link, and getinside passes it to the brand to launch the amplification.
 :::
 
 ---
@@ -72,7 +72,7 @@ By checking "Allow brand partner to boost", the brand can broadcast your content
 
 ---
 
-## Instagram — Partnership Ads
+## Instagram: Partnership Ads
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -101,7 +101,7 @@ By checking "Allow brand partner to boost", the brand can broadcast your content
 <div class="gi-step">
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
-    <h3>Allow boost — Critical step</h3>
+    <h3>Allow boost: critical step</h3>
     <p>Activate the <strong>"Allow brand partner to boost"</strong> option.</p>
   </div>
 </div>
@@ -114,7 +114,7 @@ In case of a problem after publication: return to the post → 3 dots (…) → 
 
 ---
 
-## TikTok — Spark Ads
+## TikTok: Spark Ads
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -157,7 +157,7 @@ In case of a problem after publication: return to the post → 3 dots (…) → 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🎯 Authenticity</strong>
-    <p>Use your usual tone. Don't play a role — that's exactly what the brand is looking for in you.</p>
+    <p>Use your usual tone. Don't play a role: that's exactly what the brand is looking for in you.</p>
   </div>
   <div class="gi-value-card">
     <strong>⚖️ Transparency</strong>
@@ -168,3 +168,13 @@ In case of a problem after publication: return to the post → 3 dots (…) → 
     <p>Share the link of your publication with your getinside campaign manager for performance tracking and optimization.</p>
   </div>
 </div>
+
+---
+
+## Eligibility
+
+This format requires an active Instagram and/or TikTok account with an engaged audience. The getinside team defines the detailed criteria with you during onboarding.
+
+::: info Activate this format
+Contact your account manager or book a meeting with the getinside team to activate Social Ads on your profile: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout).
+:::

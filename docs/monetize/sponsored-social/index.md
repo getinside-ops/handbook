@@ -23,7 +23,7 @@ Contrairement à l'influence classique, nous utilisons la **Sponsorisation** :
 
 1. Vous créez et publiez un contenu qualitatif (avec mention "Partenariat rémunéré").
 2. La marque dont vous diffusez la campagne investit son propre budget média pour diffuser **votre post** auprès de milliers de nouvelles personnes.
-3. Vous partagez le lien de publication — getinside transmet à la marque pour lancer l'amplification.
+3. Vous partagez le lien de publication, getinside le transmet à la marque pour lancer l'amplification.
 :::
 
 ---
@@ -72,7 +72,7 @@ En cochant "Autoriser le partenaire à booster", la marque peut diffuser votre c
 
 ---
 
-## Instagram — Partnership Ads
+## Instagram : Partnership Ads
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -85,7 +85,7 @@ En cochant "Autoriser le partenaire à booster", la marque peut diffuser votre c
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Paramètres Avancés</h3>
+    <h3>Paramètres avancés</h3>
     <p>Descendez tout en bas et cliquez sur <strong>"Paramètres avancés"</strong>.</p>
   </div>
 </div>
@@ -101,7 +101,7 @@ En cochant "Autoriser le partenaire à booster", la marque peut diffuser votre c
 <div class="gi-step">
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
-    <h3>Autoriser le boost — Étape critique</h3>
+    <h3>Autoriser le boost : étape critique</h3>
     <p>Activez l'option <strong>"Autoriser le partenaire de marque à booster"</strong> (Allow brand partner to boost).</p>
   </div>
 </div>
@@ -114,7 +114,7 @@ En cas de problème après publication : retournez sur le post → 3 points (…
 
 ---
 
-## TikTok — Spark Ads
+## TikTok : Spark Ads
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
@@ -157,7 +157,7 @@ En cas de problème après publication : retournez sur le post → 3 points (…
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>🎯 Authenticité</strong>
-    <p>Utilisez votre ton habituel. Ne jouez pas un rôle — c'est précisément ce que la marque recherche chez vous.</p>
+    <p>Utilisez votre ton habituel. Ne jouez pas un rôle : c'est précisément ce que la marque recherche chez vous.</p>
   </div>
   <div class="gi-value-card">
     <strong>⚖️ Transparence</strong>
@@ -168,3 +168,13 @@ En cas de problème après publication : retournez sur le post → 3 points (…
     <p>Partagez le lien de votre publication avec votre gestionnaire de campagne getinside pour le suivi des performances et l'optimisation.</p>
   </div>
 </div>
+
+---
+
+## Éligibilité
+
+Ce format requiert un compte Instagram et/ou TikTok actif avec une audience engagée. L'équipe getinside définit avec vous les critères détaillés lors de l'onboarding.
+
+::: info Activer ce format
+Contactez votre chargé de compte ou prenez rendez-vous avec l'équipe getinside pour activer le Social Ads sur votre profil : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout).
+:::

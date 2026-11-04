@@ -1,4 +1,5 @@
 ---
+pageClass: gi-dots
 title: Découvrir getinside - Le marketing par le colis et le courrier adressé
 description: getinside est la solution marketing par le colis et le courrier adressé qui délivre des offres et des échantillons jusqu'au domicile des consommateurs. Recruter, fidéliser, monétiser.
 keywords:
@@ -115,6 +116,6 @@ Chaque marque valide les marques et les offres diffusées auprès de ses clients
 
 Recruter et Monétiser sont les deux sections de la solution getinside. Fidéliser, par courrier adressé, a sa propre section.
 
-[Discuter de mon projet →](mailto:studio@getinside.com)
+[Discuter de mon projet →](https://lp.getinside.fr/meetings/benoit-prentout)
 
 :::

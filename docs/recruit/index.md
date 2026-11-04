@@ -67,10 +67,10 @@ Vos clients n'ouvrent plus vos e-mails ? Découvrez le [courrier adressé](/reta
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Partnership Ads sur les comptes sociaux des marques partenaires. Sur demande.</p>
   </a>
-  <a href="co-branded-contest/" class="gi-format-card">
+  <a href="bundles" class="gi-format-card">
     <span class="gi-format-card-icon">🎁</span>
-    <span class="gi-format-card-title">Jeu concours</span>
-    <p class="gi-format-card-desc">Des leads opt-in qualifiés grâce à un jeu co-brandé.</p>
+    <span class="gi-format-card-title">Bundles</span>
+    <p class="gi-format-card-desc">Un scénario multi-formats chez une même marque, avec un jeu intégré pour collecter des leads opt-in qualifiés.</p>
   </a>
 </div>
 
@@ -78,5 +78,8 @@ Vos clients n'ouvrent plus vos e-mails ? Découvrez le [courrier adressé](/reta
 
 <div class="gi-quick-links">
   <a href="printing-services" class="btn btn-outline">🖨️ Impression & Logistique</a>
+  <a href="compare-formats" class="btn btn-outline">⚖️ Choisir son format</a>
+  <a href="analytics" class="btn btn-outline">📈 Suivi & Mesure</a>
+  <a href="sustainability" class="btn btn-outline">🌱 RSE & insertion colis</a>
   <a href="/handbook/resources/case-studies" class="btn btn-outline">🚀 Cas clients</a>
 </div>

@@ -28,28 +28,30 @@ Toute campagne débute par la soumission du brief via notre formulaire dédié.
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🎁 L'Offre</strong>
-    <p>Quelle est la promesse ? Soyez clair et incitatif. Exemple : <em>"20€ offerts dès 100€ d'achat"</em>.</p>
+    <strong>🎁 L'offre</strong>
+    <p>Formulez une promesse claire et incitative. Exemple : <em>"20€ offerts dès 100€ d'achat"</em>.</p>
     <p>Précisez la durée de validité (minimum recommandé : 3 mois).</p>
+    <p>Privilégiez une valeur monétaire à un pourcentage : <em>"20€ offerts"</em> convertit mieux que <em>"-20%"</em>, car le bénéfice se lit tout de suite. Le destinataire n'avait pas prévu d'acheter chez vous : la générosité de l'offre déclenche le passage à l'acte.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🖼️ Les Visuels</strong>
+    <strong>🖼️ Les visuels</strong>
     <p>Logo en vectoriel ou HD, packshots produits sur fond blanc, visuels d'ambiance si disponibles.</p>
+    <p>Fournissez des fichiers en haute définition : 300 dpi minimum, PNG ou JPG, logo idéalement en SVG ou PNG transparent. Des visuels nets et détourés donnent un rendu professionnel dans l'email.</p>
   </div>
   <div class="gi-value-card">
-    <strong>✍️ Le Wording</strong>
+    <strong>✍️ Le wording</strong>
     <p>Arguments clés (USP), ton de la marque, mots-clés obligatoires à intégrer dans le texte de l'email.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🔗 Les Liens</strong>
-    <p>URLs de destination (landing pages) vers lesquelles rediriger le trafic. Ces liens sont dynamiques — modifiables à tout moment.</p>
+    <strong>🔗 Les liens</strong>
+    <p>URLs de destination (landing pages) vers lesquelles rediriger le trafic. Ces liens sont dynamiques : vous les modifiez à tout moment depuis l'onglet <strong>"Configuration et Suivi"</strong>, même après le lancement.</p>
   </div>
 </div>
 
 :::tip Conseil : laissez la marque adapter
-Ne cherchez pas à imposer une charte graphique stricte. C'est la marque qui diffuse votre campagne qui connaît sa communauté — laissez-la adapter vos visuels à son univers pour maximiser l'engagement.
+Ne cherchez pas à imposer une charte graphique stricte. La marque qui diffuse votre campagne connaît sa communauté : laissez-la adapter vos visuels à son univers pour maximiser l'engagement.
 
-**L'objectif est une recommandation, pas une publicité.** Un email 100% à vos couleurs sans mention du partenaire augmente les désabonnements et fait chuter la performance.
+**L'objectif est une recommandation, pas une publicité.** Un email 100% à vos couleurs, sans mention du partenaire, augmente les désabonnements et fait chuter la performance.
 :::
 
 ---

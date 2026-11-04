@@ -1,5 +1,5 @@
 ---
-title: Quick Start — Monetize
+title: "Quick Start: Monetize"
 description: "Get started on getinside in 3 steps and about 10 minutes: activate your access, set up your logistics profile, then create your first audience. A validation call with the team then confirms your go-live on the marketplace and you start receiving campaign proposals."
 keywords:
   - Quick start
@@ -10,7 +10,7 @@ keywords:
   - Marketplace
 ---
 
-# Quick Start — Monetize
+# Quick Start: Monetize
 
 You have just joined getinside. In 3 steps (10 minutes), your profile is ready to receive your first campaigns.
 
@@ -20,7 +20,7 @@ You have just joined getinside. In 3 steps (10 minutes), your profile is ready t
 
 ---
 
-## Step 1 — Activate your access (2 min)
+## Step 1: Activate your access (2 min)
 
 1. Open the **invitation email** received from getinside
 2. Click the activation link
@@ -31,7 +31,7 @@ You have just joined getinside. In 3 steps (10 minutes), your profile is ready t
 
 ---
 
-## Step 2 — Configure your logistics profile (5 min)
+## Step 2: Configure your logistics profile (5 min)
 
 Before receiving campaigns, the algorithm needs two pieces of information:
 
@@ -46,7 +46,7 @@ Before receiving campaigns, the algorithm needs two pieces of information:
 
 ---
 
-## Step 3 — Create your first audience (3 min)
+## Step 3: Create your first audience (3 min)
 
 Your audience is what you offer to brands that want to reach it. The more precise it is, the more relevant campaigns you receive.
 
@@ -71,5 +71,5 @@ A **checkout call** with the getinside team confirms your listing on the marketp
 ---
 
 **Next steps:**
-- [Complete onboarding process](/en/monetize/onboarding-process) — detailed operations
-- [Payments & Wallet](/en/monetize/payouts) — understand when and how you will be paid
+- [Complete onboarding process](/en/monetize/onboarding-process): detailed operations
+- [Payments & Wallet](/en/monetize/payouts): understand when and how you will be paid

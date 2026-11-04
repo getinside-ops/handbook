@@ -93,34 +93,73 @@ Découvrez comment d'autres marques utilisent getinside pour atteindre leurs obj
 
 ---
 
-## 📧 Dedicated Email (Exemples Live)
+## Meilleures campagnes insertion colis
+
+Sélection des meilleures campagnes insertion colis par nos équipes.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSTqmfiDpw7W6dGz9ef2ex3PR1pKhdm3hAbLcvtthrniRtdpDWf4l1meTaySmi9QaQ3CXlMrdh57acp/pubembed?start=false&loop=false&delayms=30000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
+## Bundles & Media Kits
+
+Découvrez une sélection de bundles proposés par des marques qui diffusent des campagnes chez leurs clients.
+
+<div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR70AvKmlpk9AMA266FJ4AnvCvO7VdUNREwGI-_RyMtFzhQtB89pOKPUgVIYsnbWRdoA9mu1kD-d7Ts/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
+## 📧 Emailing dédié : exemples live
 
 Cliquez sur les boutons pour visualiser le rendu réel dans le navigateur.
 
 <div class="gi-format-grid">
   <div class="gi-format-card">
+    <span class="gi-format-card-icon">💛</span>
+    <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
+    <span class="gi-format-card-desc">Campagne caritative diffusée par Mieux que des Fleurs pour Les Pièces Jaunes.</span>
+    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+  </div>
+  <div class="gi-format-card">
+    <span class="gi-format-card-icon">🐾</span>
+    <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
+    <span class="gi-format-card-desc">Campagne petfood premium diffusée par La Redoute.</span>
+    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+  </div>
+  <div class="gi-format-card">
     <span class="gi-format-card-icon">🐱</span>
-    <span class="gi-format-card-title">Caats x Les Petits Culottés</span>
-    <span class="gi-format-card-desc">Campagne Petfood ciblée auprès d'une audience Parents / Famille.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/fb0907efa715/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
+    <span class="gi-format-card-desc">Campagne mode enfant diffusée par Caats auprès d'une audience Parents / Famille.</span>
+    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
   <div class="gi-format-card">
-    <span class="gi-format-card-icon">🥘</span>
-    <span class="gi-format-card-title">HelloFresh x Berceau Magique</span>
-    <span class="gi-format-card-desc">Offre exclusive Food (Box à cuisiner) auprès d'une cible Jeunes Parents.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/71541edf985d/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
-  </div>
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🤝</span>
-    <span class="gi-format-card-title">Les Petits Frères des Pauvres</span>
-    <span class="gi-format-card-desc">Campagne de collecte de fonds diffusée par Mieux que des Fleurs.</span>
-    <a href="https://benoit-prentout.github.io/archive-news/3adf10561e05/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
+    <span class="gi-format-card-icon">🥦</span>
+    <span class="gi-format-card-title">Yooji x HelloFresh</span>
+    <span class="gi-format-card-desc">Campagne alimentation bébé diffusée par HelloFresh auprès d'une cible Jeunes Parents.</span>
+    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ Voir le rendu</a>
   </div>
 </div>
-
 ---
 
-## 📦 Insertion Colis & Success Stories
+## 📦 Insertion colis & succès clients
 
 Cliquez sur les images pour zoomer.
 

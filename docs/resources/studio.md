@@ -12,7 +12,7 @@ keywords:
 
 # Studio Créatif
 
-Accélèrez votre time-to-market. Déléguez l'intégralité de la production graphique (Print, Email, Social) à notre équipe d'experts getinside.
+Gagnez du temps. Déléguez toute la production graphique (print, email, social) à notre équipe d'experts getinside.
 
 ## L'Offre Studio
 
@@ -23,7 +23,7 @@ Conception + Direction Artistique + Rédaction + Mise en conformité technique. 
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>✔ Expertise getinside</strong>
-    <p>Fonds perdus, taux d'encrage, délivrabilité email, RGPD — nous maîtrisons les contraintes techniques par cœur.</p>
+    <p>Fonds perdus, taux d'encrage, délivrabilité email, RGPD : nous maîtrisons les contraintes techniques de chaque format.</p>
   </div>
   <div class="gi-value-card">
     <strong>✔ Rapidité garantie</strong>
@@ -31,12 +31,12 @@ Conception + Direction Artistique + Rédaction + Mise en conformité technique. 
   </div>
   <div class="gi-value-card">
     <strong>✔ Fichiers clés en main</strong>
-    <p>Directement aux normes imprimeur/routeur — prêts à diffuser, zéro retouche.</p>
+    <p>Aux normes imprimeur et routeur, prêts à diffuser, sans retouche de votre côté.</p>
   </div>
 </div>
 
 :::tip Commander un brief
-Contactez le Studio pour connaître les conditions : **studio@getinside.fr**
+Contactez le Studio : **[studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)**
 :::
 
 ---
