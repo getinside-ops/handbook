@@ -25,7 +25,7 @@ Déjà en place, à ne pas refaire : mode sombre conforme (menthe sur `#1b1b1f` 
 
 Changements, tous dans `.vitepress/theme/style.css` et `.vitepress/config.ts` :
 
-1. **Vert du texte en mode clair.** `--vp-c-brand-1` passe de `#0aaa8e` (2,94:1 sur blanc) à `#067a66` (5,27:1 sur blanc, 4,98:1 sur `#e8fdf7`, 4,88:1 sur `#f6f6f7`). `--vp-c-brand-2` (survol) est assombri (cible : au moins 6:1 sur blanc, par exemple `#06705c`). `--gi-tint-blue-text` reçoit la même correction. Le menthe vif `#6AE7C8` reste réservé aux fonds, boutons et décors. Le mode sombre n'est pas modifié.
+1. **Vert du texte en mode clair.** `--vp-c-brand-1` passe de `#0aaa8e` (2,94:1 sur blanc) à `#067a66` (5,27:1 sur blanc, 4,98:1 sur `#e8fdf7`, 4,88:1 sur `#f6f6f7`). `--vp-c-brand-2` (survol) est assombri (cible : au moins 6:1 sur blanc, par exemple `#06705c`). `--gi-tint-blue-text` reçoit la même correction. Les textes vert (`#059669`, 3,60:1) et jaune (`#d97706`, 3,11:1) des encadrés passent à `#047857` et `#b45309` (au moins 4,9:1), pour tenir le critère « zéro violation de contraste ». Le menthe vif `#6AE7C8` reste réservé aux fonds, boutons et décors. Le mode sombre n'est pas modifié.
 2. **Menu.** Les emojis des entrées de `nav` (FR et EN) sont enveloppés dans `<span aria-hidden="true">`, pour que les lecteurs d'écran n'annoncent que le texte.
 3. **Focus clavier global.** Contour `:focus-visible` (2 px, `--vp-c-brand-1`, décalage 2 px) pour les liens et boutons du contenu, du sommaire et de la barre latérale, en plus des composants déjà couverts.
 4. **Lecture.** Interligne du texte courant d'au moins 1,6 ; largeur de ligne du contenu autour de 65 à 75 caractères ; cibles tactiles d'au moins 24 px sur mobile pour les éléments de navigation.
