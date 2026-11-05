@@ -27,7 +27,7 @@ Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Choose the product</h3>
-    <p>A representative sample of your product, in a trial size.</p>
+    <p>A representative sample of your product.</p>
   </div>
 </div>
 
@@ -48,6 +48,11 @@ Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty
 </div>
 
 **Measurement:** a QR code or a unique code links the sample to the purchase.
+
+## Formats and shipping
+
+- **Formats:** all sample formats are accepted. Each campaign is handled case by case.
+- **Shipping:** you send your samples to the brand that will deliver the campaign, on the dates agreed with it.
 
 ## Example results
 
@@ -70,6 +75,8 @@ Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty
 
 ::: info AGEC law
 Samples are provided only at the consumer's prior request (Art. L541-15-10 of the French Environmental Code). The ban has applied in full since July 1, 2024 (Decree No. 2024-373 of April 23, 2024, Art. D541-345 and D541-346). When the request is made remotely, the consumer's first request covers the following deliveries until they opt out.
+
+getinside does not collect this request: it is the responsibility of the brand that gives out the sample to its customers. If in doubt, have your setup validated by your legal department.
 :::
 
 <div class="gi-quick-links">

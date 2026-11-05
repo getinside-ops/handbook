@@ -46,7 +46,7 @@ Non vérifiables depuis l'extérieur. À confirmer par l'équipe ou les prestata
 | Fond perdu 2 mm, zone tranquille 3 mm, grammage 250 à 300 g/m², PDF/X-4 | `recruit/sponsored-mail/design-guide/print-specs.md` | règle getinside, à valider |
 | Imprimeurs certifiés ISO 9001, ISO 14001, Imprim'vert ; papier FSC/PEFC ; encres végétales | `recruit/sustainability.md`, `recruit/printing-services.md`, `faq/logistics-tech.md` | règle getinside, à valider |
 | Assemblage manuel par des Entreprises Adaptées | `faq/logistics-tech.md` | règle getinside, à valider |
-| Mécanisme de recueil de la demande préalable pour l'échantillonnage | `recruit/sampling/index.md` | non décrit dans le handbook, à documenter par l'équipe |
+| Mécanisme de recueil de la demande préalable pour l'échantillonnage | `recruit/sampling/index.md` | réponse de l'équipe (2026-11-05) : getinside ne recueille pas la demande, elle relève de la marque qui diffuse l'échantillon ; intégré au handbook, validation juridique à faire |
 
 ## Prochain contrôle
 

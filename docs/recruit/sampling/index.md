@@ -27,7 +27,7 @@ Marques qui ont un produit à faire tester. Verticales les plus adaptées : Alim
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Choisissez le produit</h3>
-    <p>Un échantillon représentatif de votre produit, en format découverte.</p>
+    <p>Un échantillon représentatif de votre produit.</p>
   </div>
 </div>
 
@@ -48,6 +48,11 @@ Marques qui ont un produit à faire tester. Verticales les plus adaptées : Alim
 </div>
 
 **Mesure :** un QR code ou un code unique relie l'échantillon à l'achat.
+
+## Formats et expédition
+
+- **Formats :** tous les formats d'échantillon sont acceptés. Chaque campagne est gérée au cas par cas.
+- **Expédition :** vous envoyez vos échantillons à la marque qui diffusera la campagne, aux dates convenues avec elle.
 
 ## Exemples de résultats
 
@@ -70,6 +75,8 @@ Marques qui ont un produit à faire tester. Verticales les plus adaptées : Alim
 
 ::: info Loi AGEC
 L'échantillon est remis sur demande préalable du consommateur (art. L541-15-10 du code de l'environnement). L'interdiction s'applique dans sa totalité depuis le 1er juillet 2024 (décret n° 2024-373 du 23 avril 2024, art. D541-345 et D541-346). Quand la demande est exprimée à distance, la première demande du consommateur vaut pour les remises suivantes, jusqu'à ce qu'il y renonce.
+
+getinside ne recueille pas cette demande : elle relève de la marque qui diffuse l'échantillon auprès de ses clients. En cas de doute, faites valider votre dispositif par votre service juridique.
 :::
 
 <div class="gi-quick-links">
