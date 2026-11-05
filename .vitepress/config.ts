@@ -47,14 +47,14 @@ function buildWebPageSchema(pageData: any) {
       '@type': 'WebSite',
       name: 'getinside Handbook',
       url: `${SITE}/`,
-      sameAs: ['https://www.getinside.media/'],
+      sameAs: ['https://www.getinside.fr/'],
     },
     publisher: {
       '@type': 'Organization',
       name: 'getinside',
       alternateName: 'getinside Media',
       logo: { '@type': 'ImageObject', url: `${SITE}/images/logo-getinside.svg` },
-      url: 'https://www.getinside.media/',
+      url: 'https://www.getinside.fr/',
     },
     breadcrumb: { '@type': 'BreadcrumbList', itemListElement },
   }
@@ -179,7 +179,7 @@ const config: any = defineConfig({
         publisher: {
           '@type': 'Organization',
           name: 'getinside',
-          url: 'https://www.getinside.media/',
+          url: 'https://www.getinside.fr/',
         },
         potentialAction: {
           '@type': 'SearchAction',
