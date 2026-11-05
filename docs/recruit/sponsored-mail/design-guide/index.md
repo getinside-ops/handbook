@@ -162,7 +162,7 @@ L'expérience post-scan se fait à **99% sur smartphone**. Votre landing page do
 **QR code** (voir les [spécifications techniques](./print-specs) pour les contraintes d'impression) :
 
 - Fond blanc, module noir. Évitez les fonds texturés
-- Taille minimum : **25 × 25 mm**
+- Taille minimum : **14 × 14 mm**
 - Instruction courte à côté : "Scannez pour profiter de l'offre"
 - Positionnez en bas à droite, là où le pouce tient naturellement le flyer
 

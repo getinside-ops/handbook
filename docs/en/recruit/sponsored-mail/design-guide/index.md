@@ -162,7 +162,7 @@ The post-scan experience is **99% on smartphone**. Your landing page must be rea
 **QR code** (see the [technical specifications](./print-specs) for print constraints):
 
 - White background, black modules. Avoid textured backgrounds
-- Minimum size: **25 × 25 mm**
+- Minimum size: **14 × 14 mm**
 - Short instruction next to it: "Scan to claim your offer"
 - Position in the bottom right, where the thumb naturally holds a flyer
 

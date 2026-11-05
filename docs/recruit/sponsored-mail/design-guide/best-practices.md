@@ -80,6 +80,67 @@ Un flyer a deux faces : servez-vous-en pour séparer la séduction de l'informat
   </div>
 </div>
 
+
+:::tip Un insert n'a pas de « face avant »
+Dans un colis, le flyer peut être lu **côté verso en premier**. Bonne pratique : montrez l'offre en grand sur les deux faces, avec un QR code sur chacune (ce n'est pas obligatoire, mais cela évite de perdre le scan). Le titre du verso ne répète pas celui du recto : il parle d'autre chose (une saison, un moment de l'année).
+:::
+
+---
+
+## Composition : une idée, peu d'éléments
+
+- **Un seul élément domine chaque face**, puis trois niveaux de lecture au plus (titre, offre, détails). Deux tailles trop proches ne font qu'un niveau : prévoyez environ **1,5 fois** d'écart entre deux tailles, ou un changement de graisse ou de couleur.
+- **Peu d'éléments, beaucoup d'air.** Un grand titre qui s'adresse au lecteur, 2 à 4 lignes de texte chaleureux, puis l'offre.
+- **Des espaces qui suivent les regroupements :** serrés à l'intérieur d'un groupe, nettement plus larges entre deux groupes. Un titre se place plus près de son contenu que de ce qui le précède.
+- **Des éléments voisins alignés :** deux blocs dans les coins d'un même bord ont la même hauteur, deux montants côte à côte sont sur la même ligne.
+- **Partez d'une idée, pas d'un gabarit :** avant la mise en page, une phrase dit ce que montre le flyer. Si vous ne pouvez pas l'écrire, le résultat ressemblera à tous les autres.
+
+---
+
+## Photos et texte
+
+- **Texte sur photo :** quelques éléments ancrés (titre, offre, logo dans les coins), pas du texte éparpillé sur une image chargée. Un léger dégradé sombre sur les bords de la photo aide à la lecture.
+- **Le test en plissant les yeux :** floutez la face (ou plissez les yeux). Le titre et l'offre doivent rester lisibles.
+- **Visages et produit :** ils restent libres de tout texte ou bloc posé sur la photo. Un texte sur un visage fait négligé, un bloc sur le produit cache ce que vous vendez.
+- **Deux photos :** soit elles se rejoignent par une coupe nette (filet fin de 1 mm dans une couleur claire de la marque), soit elles sont deux images séparées. Jamais un fondu de l'une dans l'autre.
+- **Couleur vive d'accent :** réservez-la à un texte court sur image, pas à un aplat de bloc.
+- **Pleine page :** une photo ou un motif de fond s'étend jusqu'au bord du fond perdu sur les quatre côtés.
+
+---
+
+## Petit texte et typographie
+
+- **Un seul style pour tout le petit texte**, dans la couleur sombre de la marque (ou claire sur un fond sombre). Jamais blanc ou clair sur une couleur de ton moyen, jamais dans la couleur d'accent : le contraste devient insuffisant.
+- **Mentions légales regroupées** dans un seul bloc compact en bas de face, sur le fond de la face (sans bandeau d'une autre couleur). Corps **6 pt**, **5 pt au minimum** pour rester lisible à l'impression offset.
+- **Typographie française :**
+  - espace insécable avant `:` `;` `!` `?` et dans les nombres (1 200 €) ;
+  - apostrophes courbes (l’offre, pas l'offre) ;
+  - 1<sup>re</sup>, 2<sup>e</sup> (jamais « 1ère », « 2ème ») ;
+  - vrai signe moins (−) devant un nombre ;
+  - un nom de marque ne se coupe jamais en fin de ligne.
+- **Étapes numérotées :** chiffres dans la couleur de la marque (pas de petits chiffres blancs dans des pastilles), alignés à gauche. Une étape ne renvoie jamais à une autre par son numéro (« dans le champ code promo », pas « à l'étape 2 »).
+- **Même mot partout :** un code ou un montant porte le même nom sur les deux faces (« code promo », pas « code promo » d'un côté et « code personnel » de l'autre).
+- **Longueur des lignes :** moins de 65 caractères par ligne de texte courant, ni justifié ni en capitales.
+
+---
+
+## Chiffres, preuves et promesses
+
+Un chiffre (résultat, note, nombre d'avis) ne s'imprime qu'**avec sa source**, en note dans les mentions légales (par exemple « * Statistique sur plus de 5 000 clients en 3 ans »), et seulement si votre site ou vos données la fournissent. Un chiffre sans source est un risque juridique pour votre marque.
+
+Évitez aussi les superlatifs sans fait (« la meilleure », « tout est inclus » sans dire quoi) : une promesse précise convertit mieux qu'une promesse générale.
+
+---
+
+## À éviter
+
+- La décoration qui n'apporte aucune information : bandeau coloré sur le bord d'un texte, icône au-dessus d'un titre, dégradé sur le texte, halo, ombre forte.
+- Les cadres par réflexe : seuls le bloc code promo et ce que votre brief demande ont un encadré. Pas de cadre dans un cadre, pas de rangée de cartes identiques.
+- Un intitulé qui répète le titre qui le suit.
+- Plus de deux familles de polices (en plus d'une éventuelle écriture manuscrite) ; les polices hors de la charte de la marque.
+- Un titre ou un paragraphe qui se termine par un seul mot sur sa dernière ligne.
+- Plus d'un tiret cadratin sur tout le flyer.
+
 ---
 
 ## Le test des 3 secondes
