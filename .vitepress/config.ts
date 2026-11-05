@@ -82,7 +82,10 @@ const config: any = defineConfig({
         lang: 'en-US',
         link: '/en/',
         themeConfig: {
-          lastUpdated: { text: 'Last updated' },
+          lastUpdated: {
+            text: 'Last updated',
+            formatOptions: { dateStyle: 'long', forceLocale: true },
+          },
           nav: [
             { text: '<span aria-hidden="true">🎯</span> Recruit', link: '/en/recruit/' },
             { text: '<span aria-hidden="true">💌</span> Retain', link: '/en/retain/' },
@@ -197,7 +200,7 @@ const config: any = defineConfig({
       siteTitle: false,
       lastUpdated: {
         text: 'Mis à jour le',
-        formatOptions: { dateStyle: 'long' },
+        formatOptions: { dateStyle: 'long', forceLocale: true },
       },
 
       search: {
