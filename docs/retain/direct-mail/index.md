@@ -36,7 +36,7 @@ Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courrier
 
 ## Ce qu'il vous faut
 
-Un fichier clients avec l'adresse postale de chaque client. Les clients inactifs par e-mail sont la cible naturelle du courrier adressé.
+Un fichier clients avec l'adresse postale de chaque client. Les clients inactifs par e-mail sont la cible naturelle du courrier adressé. Ils n'ouvrent plus vos newsletters et n'achètent plus.
 
 ## Comment ça marche
 
@@ -71,6 +71,12 @@ Un fichier clients avec l'adresse postale de chaque client. Les clients inactifs
     <p>Suivez les scans et les achats générés, campagne après campagne.</p>
   </div>
 </div>
+
+## Format et délais
+
+- **Format :** carte postale, avec ou sans enveloppe. D'autres formats sont possibles sur devis.
+- **Production :** getinside imprime et poste le courrier via ses partenaires. L'impression se fait en France, sur papier certifié FSC/PEFC.
+- **Délai :** 7 jours ouvrés entre la validation de votre campagne et la boîte aux lettres.
 
 ## Pourquoi ça marche
 

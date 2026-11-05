@@ -36,7 +36,7 @@ Your customers no longer open your emails, but they still open their mail and th
 
 ## What you need
 
-A customer file with each customer's postal address. Customers inactive by email are the natural target for direct mail.
+A customer file with each customer's postal address. Customers inactive by email are the natural target for direct mail. They no longer open your newsletters and no longer buy.
 
 ## How it works
 
@@ -71,6 +71,12 @@ A customer file with each customer's postal address. Customers inactive by email
     <p>Follow the scans and the purchases they generate, campaign after campaign.</p>
   </div>
 </div>
+
+## Format and lead time
+
+- **Format:** postcard, with or without an envelope. Other formats are available on quote.
+- **Production:** getinside prints and posts the mailing through its partners. Printing is done in France, on FSC/PEFC-certified paper.
+- **Lead time:** 7 business days between the validation of your campaign and the mailbox.
 
 ## Why it works
 
