@@ -1725,3 +1725,11 @@ summary:focus-visible,
   outline-offset: 2px;
   border-radius: 2px;
 }
+
+/* Bouton de recherche : VitePress impose un contour 5px auto sur :focus,
+   plus spécifique que la règle globale ci-dessus. !important suit la pratique
+   de la section 25 pour ce composant. */
+.DocSearch-Button:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1) !important;
+  outline-offset: 2px;
+}
