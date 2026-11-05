@@ -75,5 +75,5 @@ To prepare your visuals to technical standards, favor the following DTP software
 
 ## 📄 Reference Documents
 
-- **[Pre-submission Check-list ↗](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}**: Must be checked before submitting a proof.
+- **[Proof (BAT) Checklist](/recruit/sponsored-mail/design-guide/print-specs#proof-bat-checklist)**: Must be checked before submitting a proof.
 - **[Content Design Guide](/en/recruit/sponsored-mail/design-guide/)**: All technical rules for your flyers (formats, resolution, legal notices).

@@ -130,5 +130,6 @@ Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisa
 4. Les mentions légales universelles sont incluses : identification de votre marque, Triman, logo getinside, CGV. Si getinside réalise l'impression, la mention de certification FSC/Imprim'vert est présente.
 5. Les [mentions sectorielles](./legal) obligatoires (si applicable) sont présentes et lisibles.
 6. La **landing page** de destination a été testée sur mobile : responsive, chargement < 3 s, un seul appel à l'action (voir [Anatomie d'un flyer performant](./best-practices#la-landing-page-post-scan)).
-
-→ [Télécharger la Check-list complète](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}
+7. Le **code promo est unique** pour chaque marque qui diffuse votre campagne.
+8. Les **URLs de redirection** sont configurées sur la plateforme getinside.
+9. Le code promo sera **activé dès le début de la diffusion**.

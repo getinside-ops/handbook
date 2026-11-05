@@ -189,7 +189,7 @@ Your getinside workspace gives you access to QR scans in real time and inserted 
 - **[✨ Examples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}**: Google Slides with successful campaigns.
 - **[📂 .ai/.pdf Templates](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}**: A5 and A6 formats with pre-drawn bleed and safe zones.
 - **[🖼️ Mandatory Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}**: getinside logo, Triman, Sorting info (AGEC Law).
-- **[✅ Control Checklist](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}**: to be completed before each Proof submission.
+- **[✅ Proof (BAT) Checklist](./print-specs#proof-bat-checklist)**: to be completed before each Proof submission.
 
 :::info No in-house graphic designer?
 Our **Creative Studio** handles art direction, execution, and standardization of your campaign. → [Contact the Studio](../../../resources/studio)

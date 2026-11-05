@@ -189,7 +189,7 @@ Votre espace getinside donne accès aux scans QR en temps réel et aux volumes d
 - **[✨ Exemples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}** : Google Slides avec des campagnes réussies.
 - **[📂 Gabarits .ai/.pdf](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}** : formats A5 et A6 avec fond perdu et zones tranquilles pré-tracées.
 - **[🖼️ Logos Obligatoires](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}** : logo getinside, Triman, Info-tri (Loi AGEC).
-- **[✅ Check-list de Contrôle](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}** : à compléter avant chaque soumission de BAT.
+- **[✅ Check-list BAT](./print-specs#checklist-bat)** : à compléter avant chaque soumission de BAT.
 
 :::info Pas de graphiste en interne ?
 Notre **Studio Créatif** prend en charge la direction artistique, l'exécution et la mise aux normes de votre campagne. → [Contacter le Studio](/resources/studio)

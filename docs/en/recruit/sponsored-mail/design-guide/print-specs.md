@@ -130,5 +130,6 @@ To check before each submission:
 4. Universal legal notices are included: brand ID, Triman, getinside logo, T&Cs. If getinside handles printing, the FSC/Imprim'vert certification notice is present.
 5. Mandatory [sector-specific notices](./legal) (if applicable) are present and legible.
 6. The destination **landing page** has been tested on mobile: responsive, loads in < 3 s, a single call to action (see [Anatomy of a High-Performing Flyer](./best-practices#the-post-scan-landing-page)).
-
-→ [Download the complete Checklist](https://docs.google.com/document/d/17oybJkf4iOX0XrC4LOJSI0zp2y0w_Wn7F4GW_oBAZcM/edit){target="_blank"}
+7. The **promo code is unique** for each brand delivering your campaign.
+8. The **redirect URLs** are set up on the getinside platform.
+9. The promo code will be **active from the start of delivery**.
