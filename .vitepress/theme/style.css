@@ -1702,3 +1702,19 @@ h4+.gi-cert-row {
 .search-bar:focus-within {
   border-color: var(--gi-mint) !important;
 }
+
+/* ============================================================
+   26. FOCUS VISIBLE GLOBAL — WCAG 2.4.7 / 2.4.11
+   Contour net pour tout élément interactif au clavier :
+   liens du contenu, barre latérale, sommaire, nav, pied de page,
+   boutons, <summary>. Les règles par composant (section 20b)
+   gardent leur propre rendu.
+   ============================================================ */
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
