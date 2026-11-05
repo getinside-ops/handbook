@@ -34,7 +34,7 @@ Standards à respecter pour garantir un affichage optimal sur tous les clients m
 | **Poids maximum** | 150 Ko, recommandé < **80 Ko** pour un chargement rapide sur mobile |
 
 :::warning GIF animés : règle de la première frame
-Les GIFs animés sont acceptés, mais **Outlook (versions bureau) n'affiche que la première image**.
+Les GIFs animés sont acceptés, mais **Outlook 2007 à 2019 (Windows) n'affiche que la première image**. Outlook 2021, 2024 et Microsoft 365 animent le GIF, sauf si les animations Windows sont désactivées.
 
 L'information principale et le Call-to-Action doivent impérativement figurer sur la **première frame**.
 :::
@@ -48,14 +48,15 @@ Si vous optez pour un GIF animé, gardez l'animation courte et lisible :
 - **3 à 5 frames maximum** : une boucle simple attire l'œil sans alourdir le fichier.
 - **Durée totale de 2 à 4 secondes**, puis arrêt sur la frame qui porte l'offre et le CTA.
 - **Évitez le clignotement rapide** : il dégrade la lisibilité et gêne certains lecteurs.
-- **Première frame autoportante** : elle doit fonctionner seule, puisque Outlook ne lit que celle-ci.
+- **Première frame autoportante** : elle doit fonctionner seule, puisque certains destinataires (Outlook 2007 à 2019, animations désactivées) ne voient que celle-ci.
 
 ### Compatibilité clients mail
 
 | Client | Affichage GIF animé |
 | :--- | :--- |
-| Gmail, Apple Mail, Yahoo, mobiles iOS/Android | Animation complète |
-| Outlook (bureau, Windows) | Première frame uniquement |
+| Gmail, Apple Mail, Yahoo, mobiles iOS/Android, Outlook (web, Mac, mobile, nouvel Outlook) | Animation complète |
+| Outlook 2021, 2024 et Microsoft 365 (Windows) | Animation complète, sauf animations Windows désactivées (première frame uniquement) |
+| Outlook 2007 à 2019 (Windows) | Première frame uniquement |
 
 ---
 
