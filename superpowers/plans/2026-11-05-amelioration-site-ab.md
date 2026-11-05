@@ -102,7 +102,7 @@ for (const path of ['/', '/recruit/sponsored-mail/design-guide/best-practices'])
       const s = getComputedStyle(e)
       return [e.tagName, (e.innerText || e.getAttribute('aria-label') || '').trim().slice(0, 24), s.outlineStyle, s.outlineWidth]
     })
-    const ok = style !== 'none' && width !== '0px'
+    const ok = label.startsWith('Skip to content') || (style === 'solid' && parseFloat(width) >= 2)
     if (!ok) bad++
     console.log(`${ok ? 'ok ' : 'KO '} ${path} #${i + 1} ${tag} "${label}" outline=${style} ${width}`)
   }
@@ -297,7 +297,7 @@ EOF
 - [ ] **Step 1 : Vérifier l'échec**
 
 Run : `node ui-check.tmp.mjs`
-Expected : au moins un `KO ... outline=none` dans la partie focus clavier.
+Expected : plusieurs `KO ... outline=auto 1px` (contour par défaut du navigateur, non `solid` 2 px) dans la partie focus clavier.
 
 - [ ] **Step 2 : Ajouter la section en fin de `style.css`**
 
@@ -396,6 +396,7 @@ Expected : soit `TOTAL violation nodes: 0` (passer directement au Step 4), soit 
 | `color-contrast` dans un bloc teinté | Remplacer la couleur du token concerné par une valeur ≥ 4,5:1 mesurée avec le script Python de la Task 1, Step 5 (en `.dark`, éclaircir ; en clair, assombrir). |
 | `target-size` (mobile) | `@media (max-width: 768px) { <sélecteur de ex:> { display: inline-block; min-height: 24px; min-width: 24px; } }` en remplaçant `<sélecteur de ex:>` par le sélecteur affiché par l'audit. |
 | `link-name`, `button-name`, `aria-*` sur un composant du thème | Ajouter `aria-label` dans `config.ts` si c'est un champ de config (par exemple `themeConfig.outline`, `langMenuLabel`) ; sinon noter la règle dans la description de la PR (composant interne VitePress, hors périmètre). |
+| `nested-interactive` sur `.item[role="button"]` de la barre latérale (groupes repliables VitePress, 100 nœuds en référence, clair et sombre) | Composant interne du thème par défaut (`VPSidebarItem`), hors périmètre : ne pas le surcharger. Noter la règle et le nombre de nœuds dans la PR comme exception connue et proposer un chantier de suivi. |
 | `scrollable-region-focusable` sur un bloc de code ou un tableau | `tabindex="0"` impossible en Markdown : noter dans la PR, hors périmètre. |
 
 Après chaque correction, relancer `node axe-audit.tmp.mjs`.
