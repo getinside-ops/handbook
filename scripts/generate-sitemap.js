@@ -5,6 +5,7 @@
  */
 
 import fs from 'fs';
+import { execSync } from 'child_process';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
@@ -92,6 +93,11 @@ function mdToUrlPath(mdFilePath) {
 }
 
 function getLastModified(filePath) {
+  // Date du dernier commit (le mtime vaut la date de checkout en CI, donc la date de build)
+  try {
+    const d = execSync(`git log -1 --format=%cs -- "${filePath}"`, { cwd: ROOT, stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim();
+    if (d) return d;
+  } catch {}
   try {
     const stat = fs.statSync(filePath);
     return stat.mtime.toISOString().split('T')[0];

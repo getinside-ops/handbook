@@ -1,7 +1,9 @@
 import { defineConfig } from 'vitepress'
 import path from 'path'
+import fs from 'fs'
 
 const SITE = 'https://getinside-ops.github.io/handbook'
+const ORG_SAMEAS = ['https://www.getinside.fr/', 'https://x.com/getinsideMedia']
 
 /**
  * Construit le JSON-LD WebPage + BreadcrumbList en SSR (rendu statique).
@@ -55,9 +57,13 @@ function buildWebPageSchema(pageData: any) {
       alternateName: 'getinside Media',
       logo: { '@type': 'ImageObject', url: `${SITE}/images/logo-getinside.svg` },
       url: 'https://www.getinside.fr/',
+      slogan: 'Le marketing qui touche',
+      sameAs: ORG_SAMEAS,
     },
     breadcrumb: { '@type': 'BreadcrumbList', itemListElement },
   }
+  schema.inLanguage = relativePath.startsWith('en/') ? 'en-US' : 'fr-FR'
+  if (pageData.lastUpdated) schema.dateModified = new Date(pageData.lastUpdated).toISOString()
   if (Array.isArray(frontmatter.keywords) && frontmatter.keywords.length) {
     schema.keywords = frontmatter.keywords.join(', ')
   }
@@ -126,21 +132,10 @@ const config: any = defineConfig({
       ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap', rel: 'stylesheet' }],
 
       // SEO & Robots
-      ['meta', { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' }],
-      ['meta', { name: 'googlebot', content: 'index, follow' }],
-      ['meta', { name: 'bingbot', content: 'index, follow' }],
       ['meta', { name: 'google-site-verification', content: 'rYXnBrdfxUincgWiLZ2bJS8FYbU_vo3sYDa3eXMnM4Q' }],
 
-      // Canonical URL (surchargé per page)
-      ['link', { rel: 'canonical', href: 'https://getinside-ops.github.io/handbook/' }],
-
       // Open Graph
-      ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:site_name', content: 'getinside Handbook' }],
-      ['meta', { property: 'og:title', content: 'getinside Handbook - Guides & Specs' }],
-      ['meta', { property: 'og:description', content: 'Guides opérationnels, spécifications techniques et processus pour recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.' }],
-      ['meta', { property: 'og:locale', content: 'fr_FR' }],
-      ['meta', { property: 'og:image', content: 'https://getinside-ops.github.io/handbook/images/og-image.png' }],
       ['meta', { property: 'og:image:width', content: '1200' }],
       ['meta', { property: 'og:image:height', content: '630' }],
 
@@ -183,14 +178,8 @@ const config: any = defineConfig({
           '@type': 'Organization',
           name: 'getinside',
           url: 'https://www.getinside.fr/',
-        },
-        potentialAction: {
-          '@type': 'SearchAction',
-          target: {
-            '@type': 'EntryPoint',
-            urlTemplate: 'https://getinside-ops.github.io/handbook/?search={search_term_string}',
-          },
-          'query-input': 'required name=search_term_string',
+          slogan: 'Le marketing qui touche',
+          sameAs: ORG_SAMEAS,
         },
       })],
     ],
@@ -568,7 +557,34 @@ const config: any = defineConfig({
       const relUrl = relativePath.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')
       const pageUrl = `https://getinside-ops.github.io/handbook/${relUrl}`
 
+      const isEn = relativePath.startsWith('en/')
+      const isHome = relUrl === '' || relUrl === 'en/'
+      const frRel = relativePath.replace(/^en\//, '')
+      const enRel = isEn ? relativePath : `en/${relativePath}`
+      const urlOf = (rel: string) => `${SITE}/${rel.replace(/\.md$/, '').replace(/\/index$/, '/').replace(/^index$/, '')}`
+      const hasEn = fs.existsSync(path.resolve(__dirname, '../docs', enRel))
+      const is404 = relativePath === '404.md'
+      // hreflang en SSR (auparavant client-only, donc invisible aux crawlers)
+      const hreflang: any[] = hasEn
+        ? [
+            ['link', { rel: 'alternate', hreflang: 'fr', href: urlOf(frRel) }],
+            ['link', { rel: 'alternate', hreflang: 'en', href: urlOf(enRel) }],
+            ['link', { rel: 'alternate', hreflang: 'x-default', href: urlOf(frRel) }],
+          ]
+        : []
+
       return [
+        ['meta', { name: 'robots', content: is404 ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' }],
+        ...hreflang,
+        // Version Markdown brute de la page (générée au build), lisible par les agents IA
+        ...(is404 ? [] : [['link', { rel: 'alternate', type: 'text/markdown', href: `${SITE}/${relativePath}` }]]),
+        ['meta', { property: 'og:type', content: isHome ? 'website' : 'article' }],
+        ['meta', { property: 'og:locale', content: isEn ? 'en_US' : 'fr_FR' }],
+        ...(hasEn ? [['meta', { property: 'og:locale:alternate', content: isEn ? 'fr_FR' : 'en_US' }]] : []),
+        ...(pageData.lastUpdated ? [['meta', { property: 'article:modified_time', content: new Date(pageData.lastUpdated).toISOString() }]] : []),
+        ['meta', { name: 'twitter:title', content: pageTitle }],
+        ['meta', { name: 'twitter:description', content: pageDescription }],
+        ['meta', { name: 'twitter:image', content: pageImage }],
         ['meta', { property: 'og:title', content: pageTitle }],
         ['meta', { property: 'og:description', content: pageDescription }],
         ['meta', { property: 'og:image', content: pageImage }],

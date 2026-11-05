@@ -150,3 +150,14 @@ console.log(`✓ llms.txt généré (${(text.match(/^- /gm) || []).length} liens
 const full = buildFull(frFiles);
 fs.writeFileSync(path.join(DIST_DIR, 'llms-full.txt'), full, 'utf-8');
 console.log(`✓ llms-full.txt généré (${(full.length / 1024).toFixed(0)} KB, ${frFiles.length} pages FR)`);
+
+// Copie les sources Markdown à côté du HTML (/recruit/analytics.md, /recruit/index.md...) :
+// référencées par <link rel="alternate" type="text/markdown"> (config.ts), lisibles sans parsing HTML.
+let mdCopied = 0;
+for (const f of walkDir(DOCS_DIR)) {
+  const dest = path.join(DIST_DIR, path.relative(DOCS_DIR, f));
+  fs.mkdirSync(path.dirname(dest), { recursive: true });
+  fs.copyFileSync(f, dest);
+  mdCopied++;
+}
+console.log(`✓ ${mdCopied} sources .md copiées`);
