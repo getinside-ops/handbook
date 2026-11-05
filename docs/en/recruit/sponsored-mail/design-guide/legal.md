@@ -56,7 +56,7 @@ If your activity falls under one of the sectors below, the corresponding notice 
 
 | Sector | Mandatory notice | Legal reference |
 | :--- | :--- | :--- |
-| 🍷 **Alcohol** | *"L'abus d'alcool est dangereux pour la santé, à consommer avec modération."* (Alcohol abuse is dangerous for health, consume with moderation) + Ban on targeting minors | Evin Law, art. L3323-4 |
+| 🍷 **Alcohol** | *"L'abus d'alcool est dangereux pour la santé."* (Alcohol abuse is dangerous for health) + Ban on targeting minors (details below) | Evin Law, art. L3323-2 and L3323-4 CSP |
 | 🥗 **Food** | *"Pour votre santé, mangez au moins cinq fruits et légumes par jour."* (For your health, eat at least five fruits and vegetables a day) | Art. L2133-1 CSP, mangerbouger.fr |
 | 🚗 **Automotive** | Energy class (l/100km and g CO2/km) + *"Pensez à covoiturer."* (Think about carpooling) | Decree of January 10, 2018 |
 | 💰 **Credit / Finance** | *"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager."* (A credit commits you and must be repaid. Check your repayment capacity before committing.) | Art. L311-5 Consumer Code |
@@ -64,6 +64,10 @@ If your activity falls under one of the sectors below, the corresponding notice 
 | 💊 **Medication / Parapharmacy** | *"Lire attentivement la notice. Demandez conseil à votre médecin ou pharmacien."* (Read the leaflet carefully. Ask your doctor or pharmacist for advice.) | Public Health Code |
 | 🧸 **Toys** | Indication of recommended age (e.g., *"3+"*) + *"Ne convient pas aux enfants de moins de 3 ans."* (Not suitable for children under 3 years.) | Directive 2009/48/EC |
 | 🛡️ **Insurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* (An insurance contract commits you and must be respected. Check the terms before committing.) | Insurance Code |
+
+::: info Alcohol: details
+The legal notice is "L'abus d'alcool est dangereux pour la santé" (alcohol abuse is dangerous for health). The addition "à consommer avec modération" (consume in moderation) is the wording recommended by the ARPP. Alcohol advertising is limited to the items listed in article L3323-4 of the French Public Health Code, and to certain media (article L3323-2). Commercial circulars sent as named mailings are exempt from the health message by law. On a flyer inserted in a parcel, keep it. If in doubt, have your material validated by your legal department.
+:::
 
 :::tip In case of doubt
 If your sector is not listed or if you hesitate on the exact wording, send your Proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) before printing. Our team validates your creative, but legal compliance remains your responsibility.
