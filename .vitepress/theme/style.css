@@ -197,6 +197,12 @@
   max-width: 52ch;
 }
 
+/* Une image seule dans son paragraphe (schéma do/don't du guide logistique)
+   garde la pleine largeur de la colonne. */
+.vp-doc > div > p:has(> img) {
+  max-width: none;
+}
+
 .vp-doc blockquote p {
   font-size: 0.875rem;
   line-height: 1.6;
@@ -1723,7 +1729,6 @@ summary:focus-visible,
 [tabindex]:focus-visible {
   outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
-  border-radius: 2px;
 }
 
 /* Bouton de recherche : VitePress impose un contour 5px auto sur :focus,
