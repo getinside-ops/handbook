@@ -70,6 +70,7 @@ const config: any = defineConfig({
     base: '/handbook/',
     srcDir: 'docs',
     cleanUrls: true,
+    lastUpdated: true,
 
     locales: {
       root: {
@@ -81,6 +82,7 @@ const config: any = defineConfig({
         lang: 'en-US',
         link: '/en/',
         themeConfig: {
+          lastUpdated: { text: 'Last updated' },
           nav: [
             { text: '<span aria-hidden="true">🎯</span> Recruit', link: '/en/recruit/' },
             { text: '<span aria-hidden="true">💌</span> Retain', link: '/en/retain/' },
@@ -193,6 +195,10 @@ const config: any = defineConfig({
     themeConfig: {
       logo: { src: '/images/logo-getinside.svg', alt: 'getinside' },
       siteTitle: false,
+      lastUpdated: {
+        text: 'Mis à jour le',
+        formatOptions: { dateStyle: 'long' },
+      },
 
       search: {
         provider: 'local',
