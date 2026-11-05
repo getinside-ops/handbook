@@ -2,7 +2,7 @@
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 
-const { lang, site, base } = useData()
+const { lang, site } = useData()
 
 const isEn = computed(() => lang.value === 'en-US' || lang.value === 'en')
 
@@ -13,7 +13,7 @@ const content = computed(() => {
       tagline: "Looks like this page took a wrong turn. Don't worry, it happens to the best of us.",
       home: "Back to home",
       contact: "Get in touch",
-      homeLink: `${base.value}en/`
+      homeLink: `${site.value.base}en/`
     }
   }
   return {
@@ -21,7 +21,7 @@ const content = computed(() => {
     tagline: "Il semblerait que cette page se soit perdue en chemin. Pas de panique, ça arrive !",
     home: "Retour à l'accueil",
     contact: "Nous contacter",
-    homeLink: `${base.value}`
+    homeLink: site.value.base
   }
 })
 </script>
