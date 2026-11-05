@@ -21,6 +21,34 @@ Create a first sensory experience by delivering your samples in the orders of af
 
 Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty, Health & Wellness; Pets.
 
+## How it works
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Choose the product</h3>
+    <p>A representative sample of your product, in a trial size.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>It goes with an order</h3>
+    <p>It is slipped into the orders of affinity brands, or handed out at an affinity event, with a flyer carrying your offer depending on the campaign.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">3</div>
+  <div class="gi-step-body">
+    <h3>The customer tries it</h3>
+    <p>They try the product at home, then place an order, for example thanks to the promotional offer on the flyer.</p>
+  </div>
+</div>
+
+**Measurement:** a QR code or a unique code links the sample to the purchase.
+
 ## Example results
 
 <div class="gi-value-grid">
