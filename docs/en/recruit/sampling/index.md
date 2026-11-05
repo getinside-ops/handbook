@@ -41,7 +41,7 @@ Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty
 ## Compliance
 
 ::: info AGEC law
-Samples are provided only at the consumer's prior request (Art. L541-15-10 of the French Environmental Code).
+Samples are provided only at the consumer's prior request (Art. L541-15-10 of the French Environmental Code). The ban has applied in full since July 1, 2024 (Decree No. 2024-373 of April 23, 2024, Art. D541-345 and D541-346). When the request is made remotely, the consumer's first request covers the following deliveries until they opt out.
 :::
 
 <div class="gi-quick-links">
