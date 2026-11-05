@@ -47,14 +47,14 @@ function buildWebPageSchema(pageData: any) {
       '@type': 'WebSite',
       name: 'getinside Handbook',
       url: `${SITE}/`,
-      sameAs: ['https://www.getinside.media/'],
+      sameAs: ['https://www.getinside.fr/'],
     },
     publisher: {
       '@type': 'Organization',
       name: 'getinside',
       alternateName: 'getinside Media',
       logo: { '@type': 'ImageObject', url: `${SITE}/images/logo-getinside.svg` },
-      url: 'https://www.getinside.media/',
+      url: 'https://www.getinside.fr/',
     },
     breadcrumb: { '@type': 'BreadcrumbList', itemListElement },
   }
@@ -70,6 +70,7 @@ const config: any = defineConfig({
     base: '/handbook/',
     srcDir: 'docs',
     cleanUrls: true,
+    lastUpdated: true,
 
     locales: {
       root: {
@@ -81,11 +82,15 @@ const config: any = defineConfig({
         lang: 'en-US',
         link: '/en/',
         themeConfig: {
+          lastUpdated: {
+            text: 'Last updated',
+            formatOptions: { dateStyle: 'long', forceLocale: true },
+          },
           nav: [
-            { text: '🎯 Recruit', link: '/en/recruit/' },
-            { text: '💌 Retain', link: '/en/retain/' },
-            { text: '📦 Monetize', link: '/en/monetize/' },
-            { text: '❓ FAQ', link: '/en/faq/' },
+            { text: '<span aria-hidden="true">🎯</span> Recruit', link: '/en/recruit/' },
+            { text: '<span aria-hidden="true">💌</span> Retain', link: '/en/retain/' },
+            { text: '<span aria-hidden="true">📦</span> Monetize', link: '/en/monetize/' },
+            { text: '<span aria-hidden="true">❓</span> FAQ', link: '/en/faq/' },
             { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
           ],
         },
@@ -177,7 +182,7 @@ const config: any = defineConfig({
         publisher: {
           '@type': 'Organization',
           name: 'getinside',
-          url: 'https://www.getinside.media/',
+          url: 'https://www.getinside.fr/',
         },
         potentialAction: {
           '@type': 'SearchAction',
@@ -193,6 +198,10 @@ const config: any = defineConfig({
     themeConfig: {
       logo: { src: '/images/logo-getinside.svg', alt: 'getinside' },
       siteTitle: false,
+      lastUpdated: {
+        text: 'Mis à jour le',
+        formatOptions: { dateStyle: 'long', forceLocale: true },
+      },
 
       search: {
         provider: 'local',
@@ -231,10 +240,10 @@ const config: any = defineConfig({
       },
 
       nav: [
-        { text: '🎯 Recruter', link: '/recruit/' },
-        { text: '💌 Fidéliser', link: '/retain/' },
-        { text: '📦 Monétiser', link: '/monetize/' },
-        { text: '❓ FAQ', link: '/faq/' },
+        { text: '<span aria-hidden="true">🎯</span> Recruter', link: '/recruit/' },
+        { text: '<span aria-hidden="true">💌</span> Fidéliser', link: '/retain/' },
+        { text: '<span aria-hidden="true">📦</span> Monétiser', link: '/monetize/' },
+        { text: '<span aria-hidden="true">❓</span> FAQ', link: '/faq/' },
         { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
       ], sidebar: {
         '/': [
@@ -543,7 +552,7 @@ const config: any = defineConfig({
 
       footer: {
         message:
-          'Contact Opérations : <a href="mailto:benoit@getinside.fr">benoit@getinside.fr</a> · Studio : <a href="mailto:studio@getinside.fr">studio@getinside.fr</a>',
+          'Contact : <a href="mailto:bonjour@getinside.fr">bonjour@getinside.fr</a> · Studio : <a href="mailto:studio@getinside.fr">studio@getinside.fr</a>',
         copyright: '© 2026 getinside. Tous droits réservés.',
       },
 

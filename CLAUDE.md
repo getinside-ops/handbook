@@ -30,7 +30,7 @@ Static assets (OG image at 1200×630) are generated via Playwright Node.js ESM s
 **Core files:**
 - `.vitepress/config.ts` — Site config: sidebar nav, locales, base path `/handbook/`. `transformHead` emits SSR meta tags (OpenGraph, description, AI tags like `citation_title`) AND the per-page `WebPage`/`BreadcrumbList` JSON-LD (via `buildWebPageSchema`). Also wires MS Clarity, Google Search Console verification, and the static `WebSite` schema. Search is VitePress **local** search (no Algolia). No Mermaid plugin is installed.
 - `.vitepress/theme/index.ts` — Custom Vue theme: client-side OpenGraph/canonical/hreflang updates on SPA navigation (`updateOpenGraph`). Schema.org is rendered in SSR via `config.ts`, not here.
-- `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles.
+- `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles. Light-mode text green is `#067a66` (AA); never use the vivid mint `#6AE7C8` or the old `#0aaa8e` for text on white (contrast < 4.5:1).
 - `assets/` — Copied verbatim to the dist root (`vite.publicDir`). Holds `images/`, `fonts/` (Garnett woff2+woff), `robots.txt`, `humans.txt`, `security.txt` (+`.well-known/`), `site.webmanifest`, favicons.
 - `scripts/generate-sitemap.js` — Post-build `sitemap.xml`.
 - `scripts/generate-structured-data.js` — Post-build: injects static `FAQPage` (FAQ pages) + `HowTo` (gi-step guides) JSON-LD into built HTML, single-sourced from the markdown.
