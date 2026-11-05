@@ -39,10 +39,10 @@
   --vp-c-bg-elv: #FFFFFF;
 
   /* ── Mint/Teal brand (light mode) ────────────────────────── */
-  --vp-c-brand-1: #0aaa8e;
-  /* mint-dark — legible on white */
-  --vp-c-brand-2: #08937b;
-  /* mint-darker */
+  --vp-c-brand-1: #067a66;
+  /* teal AA — 5,27:1 sur blanc, pour tout texte. Le menthe vif reste #6AE7C8 (fonds, décors) */
+  --vp-c-brand-2: #06705c;
+  /* teal AA foncé — survol, 6,03:1 sur blanc */
   --vp-c-brand-3: #6AE7C8;
   /* mint-bright (soft effects) */
   --vp-c-brand-soft: rgba(106, 231, 200, 0.14);
@@ -75,13 +75,13 @@
 
   /* Semantic tint tokens used in content (light mode) */
   --gi-tint-blue-bg: #e8fdf7;
-  --gi-tint-blue-text: #0aaa8e;
+  --gi-tint-blue-text: #067a66;
   --gi-tint-blue-border: #6AE7C8;
   --gi-tint-green-bg: #f0fdf4;
-  --gi-tint-green-text: #059669;
+  --gi-tint-green-text: #047857;
   --gi-tint-green-border: #ccf3df;
   --gi-tint-yellow-bg: rgba(252, 247, 88, 0.18);
-  --gi-tint-yellow-text: #d97706;
+  --gi-tint-yellow-text: #b45309;
   --gi-tint-red-bg: #fff5f5;
   --gi-tint-red-text: #dc2626;
   --gi-tint-red-border: #fecdd3;
@@ -1685,7 +1685,7 @@ h4+.gi-cert-row {
 
 /* ============================================================
    25. SEARCH — bright mint (#6AE7C8) borders, not dark teal
-   — VitePress defaults these to --vp-c-brand-1 (#0aaa8e in light).
+   — VitePress defaults these to --vp-c-brand-1 (#067a66 in light).
    ============================================================ */
 
 /* Selected search-result border (CSS var; same #6AE7C8 in both modes) */
