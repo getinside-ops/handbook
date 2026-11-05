@@ -63,5 +63,5 @@ The difference from standard social advertising: you don't appear as an unknown 
 | Format | Dimensions | Recommendation |
 | :--- | :--- | :--- |
 | **Video** (Reels/TikTok) | 9:16, 1080 × 1920 px, 15 to 60 s | Recommended: 15% safe zone at top and bottom |
-| **Feed image** | 4:5, 1080 × 1350 px | Text ≤ 20% of surface area |
+| **Feed image** | 4:5, 1080 × 1350 px | Keep image text light: Meta recommends under 20% of the surface (better performance, no delivery penalty) |
 | **Story** | 9:16, 1080 × 1920 px, 15 s/slide | Leave space for the link sticker |

@@ -63,5 +63,5 @@ La différence avec la publicité sociale classique : vous n'apparaissez pas com
 | Format | Dimensions | Recommandation |
 | :--- | :--- | :--- |
 | **Vidéo** (Reels/TikTok) | 9:16, 1080 × 1920 px, 15 à 60 s | Recommandé : zone de sûreté de 15 % en haut et en bas |
-| **Image Feed** | 4:5, 1080 × 1350 px | Texte ≤ 20 % de la surface |
+| **Image Feed** | 4:5, 1080 × 1350 px | Peu de texte dans l'image : Meta recommande moins de 20 % de la surface (meilleures performances, sans pénalité de diffusion) |
 | **Story** | 9:16, 1080 × 1920 px, 15 s/slide | Prévoir de l'espace pour le sticker lien |
