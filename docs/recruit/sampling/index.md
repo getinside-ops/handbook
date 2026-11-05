@@ -41,7 +41,7 @@ Marques qui ont un produit à faire tester. Verticales les plus adaptées : Alim
 ## Conformité
 
 ::: info Loi AGEC
-L'échantillon est remis sur demande préalable du consommateur (art. L541-15-10 du code de l'environnement). L'interdiction est pleinement applicable depuis le 1er juillet 2024 (décret n° 2024-373 du 23 avril 2024, art. D541-345 et D541-346). Quand la demande est exprimée à distance, la première demande du consommateur vaut pour les remises suivantes, jusqu'à ce qu'il y renonce.
+L'échantillon est remis sur demande préalable du consommateur (art. L541-15-10 du code de l'environnement). L'interdiction s'applique dans sa totalité depuis le 1er juillet 2024 (décret n° 2024-373 du 23 avril 2024, art. D541-345 et D541-346). Quand la demande est exprimée à distance, la première demande du consommateur vaut pour les remises suivantes, jusqu'à ce qu'il y renonce.
 :::
 
 <div class="gi-quick-links">
