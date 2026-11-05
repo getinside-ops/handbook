@@ -190,19 +190,6 @@
   line-height: 1.6;
 }
 
-/* Largeur de ligne confortable : 52ch ≈ 75 caractères moyens.
-   Limité aux blocs de premier niveau pour ne pas rétrécir tableaux,
-   encadrés ni cartes. */
-.vp-doc > div > :is(p, ul, ol) {
-  max-width: 52ch;
-}
-
-/* Une image seule dans son paragraphe (schéma do/don't du guide logistique)
-   garde la pleine largeur de la colonne. */
-.vp-doc > div > p:has(> img) {
-  max-width: none;
-}
-
 .vp-doc blockquote p {
   font-size: 0.875rem;
   line-height: 1.6;
