@@ -549,7 +549,7 @@ const config: any = defineConfig({
 
       footer: {
         message:
-          'Contact Opérations : <a href="mailto:benoit@getinside.fr">benoit@getinside.fr</a> · Studio : <a href="mailto:studio@getinside.fr">studio@getinside.fr</a>',
+          'Contact : <a href="mailto:bonjour@getinside.fr">bonjour@getinside.fr</a> · Studio : <a href="mailto:studio@getinside.fr">studio@getinside.fr</a>',
         copyright: '© 2026 getinside. Tous droits réservés.',
       },
 
