@@ -14,6 +14,13 @@ keywords:
 
 Don't just wait for campaigns: take control of your ad network, activate your historical partners, and grow your revenue.
 
+::: tip In short
+- Three phases: configuration and activation (demo, logistics, audiences, review call), campaign management, then acceleration.
+- Answer every campaign proposal within 48 business hours: silence counts as a tacit refusal and triggers a contractual penalty. Negotiate rather than refuse.
+- Your customer data stays yours: getinside acts as a trusted third party and has no direct access to it.
+- You keep a right of veto, within the limits described at the bottom of the page.
+:::
+
 ## Phase 1: Configuration and Activation
 
 <div class="gi-step">

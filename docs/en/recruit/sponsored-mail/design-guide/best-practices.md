@@ -13,6 +13,13 @@ keywords:
 
 The [technical specifications](./print-specs) and [legal notices](./legal) make your flyer **compliant**. This page makes it **effective**. A flyer opened 100% of the time but skimmed only converts when every element pushes the reader toward a single action.
 
+::: tip In short
+- Readers scan the flyer in a Z: benefit hook, promise, proof, offer, then a single call to action, the QR code, at the bottom right.
+- The front convinces, the back reassures and informs. Keep few elements and a single focal point.
+- Group the legal notices in one compact block (6 pt, 5 pt at minimum). The landing page repeats the offer exactly and loads in under 3 seconds on mobile.
+- Test one variable at a time and refresh the creative about every quarter.
+:::
+
 ---
 
 ## The message hierarchy

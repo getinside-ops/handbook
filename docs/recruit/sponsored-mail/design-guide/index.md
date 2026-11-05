@@ -16,6 +16,13 @@ Le déballage d'un colis est un moment à part. Le consommateur vient de recevoi
 
 De la stratégie créative à la validation technique : voici de quoi créer un flyer qui convertit.
 
+::: tip En bref
+- Quatre étapes : stratégie, création, légal, puis BAT soumis sur la plateforme et validé par getinside avant toute impression.
+- Six mécaniques possibles (promotion, drive to store, contenu, jeux, drive to app, feedback), toutes avec un QR code comme point d'entrée.
+- L'offre décide : une valeur monétaire plutôt qu'un pourcentage, valable au moins 3 mois, avec un code promo unique par marque qui diffuse.
+- Le scan se fait sur smartphone : landing page responsive, rapide et simple. QR code de 14 × 14 mm au minimum.
+:::
+
 :::warning Validation obligatoire
 Aucun contenu n'est diffusé chez une autre marque sans validation préalable de getinside via la plateforme. Soumettez votre BAT numérique avant toute impression.
 :::
