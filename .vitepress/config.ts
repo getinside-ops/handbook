@@ -82,10 +82,10 @@ const config: any = defineConfig({
         link: '/en/',
         themeConfig: {
           nav: [
-            { text: '🎯 Recruit', link: '/en/recruit/' },
-            { text: '💌 Retain', link: '/en/retain/' },
-            { text: '📦 Monetize', link: '/en/monetize/' },
-            { text: '❓ FAQ', link: '/en/faq/' },
+            { text: '<span aria-hidden="true">🎯</span> Recruit', link: '/en/recruit/' },
+            { text: '<span aria-hidden="true">💌</span> Retain', link: '/en/retain/' },
+            { text: '<span aria-hidden="true">📦</span> Monetize', link: '/en/monetize/' },
+            { text: '<span aria-hidden="true">❓</span> FAQ', link: '/en/faq/' },
             { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
           ],
         },
@@ -231,10 +231,10 @@ const config: any = defineConfig({
       },
 
       nav: [
-        { text: '🎯 Recruter', link: '/recruit/' },
-        { text: '💌 Fidéliser', link: '/retain/' },
-        { text: '📦 Monétiser', link: '/monetize/' },
-        { text: '❓ FAQ', link: '/faq/' },
+        { text: '<span aria-hidden="true">🎯</span> Recruter', link: '/recruit/' },
+        { text: '<span aria-hidden="true">💌</span> Fidéliser', link: '/retain/' },
+        { text: '<span aria-hidden="true">📦</span> Monétiser', link: '/monetize/' },
+        { text: '<span aria-hidden="true">❓</span> FAQ', link: '/faq/' },
         { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
       ], sidebar: {
         '/': [
