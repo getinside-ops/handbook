@@ -72,6 +72,8 @@ const content = computed(() => {
 h1 {
   font-size: 32px;
   font-weight: 800;
+  line-height: 1.2;
+  text-wrap: balance;
   margin-bottom: 16px;
   color: var(--vp-c-text-1);
 }
