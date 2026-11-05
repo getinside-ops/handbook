@@ -13,6 +13,13 @@ keywords:
 
 Parcel inserts have their place in a responsible marketing strategy. The material is printed in France on certified paper, and only ever reaches real buyers, at the moment they open a parcel they were waiting for. Print has an impact, of course; everything comes down to how it is produced and received.
 
+::: tip In short
+- The insert travels in a parcel that is already shipped: no extra envelope, no extra delivery round.
+- Volumes are based on delivery forecasts: only what will be distributed is printed.
+- Printed in France on FSC/PEFC-certified paper with vegetable-based inks, in Imprim'Vert and ISO 14001 workshops.
+- Three settings cut the impact further: the format (A6 rather than A5), the dynamic QR code, and recycled paper on quote.
+:::
+
 <div class="gi-cert-row">
   <div class="gi-cert-item">
     <span class="gi-cert-icon"><img :src="withBase('/images/certifications/OIP.6XJpYenr7zKgRXCXorsg7wHaHa.webp')" alt="FSC" class="gi-cert-logo"><img :src="withBase('/images/certifications/logo-PEFC.png')" alt="PEFC" class="gi-cert-logo"></span>

@@ -13,6 +13,13 @@ keywords:
 
 Les [spécifications techniques](./print-specs) et les [mentions légales](./legal) rendent votre flyer **conforme**. Cette page le rend **efficace**. Un flyer ouvert à 100 % mais lu en diagonale ne convertit que si chaque élément pousse le lecteur vers une seule action.
 
+::: tip En bref
+- Le lecteur balaie le flyer en Z : accroche bénéfice, promesse, preuve, offre, puis une seule action, le QR code, en bas à droite.
+- Le recto convainc, le verso rassure et informe. Peu d'éléments, un seul point focal.
+- Les mentions légales sont regroupées en un bloc compact (6 pt, 5 pt au minimum). La landing page reprend exactement l'offre et charge en moins de 3 secondes sur mobile.
+- Testez une seule variable à la fois et renouvelez la création environ chaque trimestre.
+:::
+
 ---
 
 ## La hiérarchie du message

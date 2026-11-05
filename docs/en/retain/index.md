@@ -19,7 +19,7 @@ image: /images/gi-keyvisual.svg
   <a href="/handbook/en/retain/direct-mail/" class="btn btn-primary">Discover direct mail →</a>
 </div>
 
-## How it works
+## Two retention levers
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -31,6 +31,45 @@ image: /images/gi-keyvisual.svg
     <p>A dedicated offer slipped into every parcel delivered to an existing customer, to trigger a new purchase.</p>
   </div>
 </div>
+
+## How it works
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Choose your audience</h3>
+    <p>Your known customers, starting with those who no longer open your emails.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Choose the channel</h3>
+    <p>A piece of direct mail addressed to those customers, or a dedicated offer slipped into every parcel you ship.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Set up the campaign</h3>
+    <p>Customize the creative and the message, or hand the campaign to our team: it handles production, quality control and delivery.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Track the results</h3>
+    <p>Scans and the purchases they generate are tracked campaign after campaign, from the platform.</p>
+  </div>
+</div>
+
+## Why it works
+
+- **98% deliverability, 100% attention:** people open their mail and their parcels, even when they no longer open your emails.
+- **86% of purchase decisions are made at home:** your offer arrives where they are discussed.
 
 ## Where to start
 

@@ -13,6 +13,13 @@ keywords:
 
 L'insertion colis a toute sa place dans une stratégie marketing responsable. Le support est imprimé en France sur papier certifié, et n'arrive qu'entre les mains d'acheteurs réels, au moment où ils ouvrent un colis qu'ils attendaient. Un imprimé a un impact, c'est entendu ; tout est dans la façon dont il est produit et reçu.
 
+::: tip En bref
+- L'insert voyage dans un colis déjà expédié : aucune enveloppe ni tournée de distribution en plus.
+- Les volumes sont calés sur les prévisions de diffusion : on imprime ce qui sera distribué.
+- Impression en France, sur papier certifié FSC/PEFC et encres végétales, dans des ateliers Imprim'Vert et ISO 14001.
+- Trois réglages réduisent encore l'impact : le format (A6 plutôt qu'A5), le QR code dynamique et le papier recyclé sur devis.
+:::
+
 <div class="gi-cert-row">
   <div class="gi-cert-item">
     <span class="gi-cert-icon"><img :src="withBase('/images/certifications/OIP.6XJpYenr7zKgRXCXorsg7wHaHa.webp')" alt="FSC" class="gi-cert-logo"><img :src="withBase('/images/certifications/logo-PEFC.png')" alt="PEFC" class="gi-cert-logo"></span>

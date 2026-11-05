@@ -19,7 +19,7 @@ image: /images/gi-keyvisual.svg
   <a href="/handbook/retain/direct-mail/" class="btn btn-primary">Découvrir le courrier adressé →</a>
 </div>
 
-## Comment ça marche
+## Deux leviers de fidélisation
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -31,6 +31,45 @@ image: /images/gi-keyvisual.svg
     <p>Une offre dédiée glissée dans chaque colis livré à un client existant, pour déclencher un nouvel achat.</p>
   </div>
 </div>
+
+## Comment ça marche
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Choisissez votre audience</h3>
+    <p>Vos clients connus, et en priorité ceux qui n'ouvrent plus vos e-mails.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Choisissez le canal</h3>
+    <p>Un courrier adressé à ces clients, ou une offre dédiée glissée dans chaque colis que vous livrez.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Configurez la campagne</h3>
+    <p>Personnalisez la création et le message, ou confiez la campagne à notre équipe : elle gère la production, le contrôle qualité et la livraison.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Suivez les résultats</h3>
+    <p>Les scans et les achats générés se suivent campagne après campagne, depuis la plateforme.</p>
+  </div>
+</div>
+
+## Pourquoi ça marche
+
+- **98 % de délivrabilité, 100 % d'attention :** on ouvre son courrier et ses colis, même quand on n'ouvre plus vos e-mails.
+- **86 % des décisions d'achat se prennent au domicile :** votre offre arrive là où elles se discutent.
 
 ## Par où commencer
 

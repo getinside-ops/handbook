@@ -34,6 +34,44 @@ Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courrier
 **Top CVR : 6 %** pour Fidéliser.
 :::
 
+## Ce qu'il vous faut
+
+Un fichier clients avec l'adresse postale de chaque client. Les clients inactifs par e-mail sont la cible naturelle du courrier adressé.
+
+## Comment ça marche
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Ciblez vos inactifs</h3>
+    <p>Identifiez dans votre base les clients qui n'ouvrent plus vos e-mails.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Créez votre courrier</h3>
+    <p>Rédigez une offre dédiée et personnalisez le message : chaque courrier est adressé nommément au client.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Lancez la campagne</h3>
+    <p>Pilotez-la depuis la plateforme, ou confiez-la à notre équipe, qui gère la production, le contrôle qualité et la livraison.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Suivez les résultats</h3>
+    <p>Suivez les scans et les achats générés, campagne après campagne.</p>
+  </div>
+</div>
+
 ## Pourquoi ça marche
 
 - **98 % de délivrabilité :** tout le monde ouvre sa boîte aux lettres, même ceux qui ne vous considèrent plus.
@@ -41,7 +79,11 @@ Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courrier
 
 ## Conformité
 
-RGPD fondé sur l'intérêt légitime, avec droit d'opposition mentionné sur chaque envoi.
+RGPD fondé sur l'intérêt légitime, avec droit d'opposition mentionné sur chaque envoi. D'après la CNIL :
+
+- Les personnes sont informées, au moment où leur adresse postale est collectée, qu'elle servira à de la prospection.
+- Elles peuvent s'y opposer simplement et gratuitement, à la collecte et à chaque envoi.
+- La trace des oppositions se conserve : la CNIL recommande au moins 3 ans.
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer une campagne →</a>

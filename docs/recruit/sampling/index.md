@@ -21,6 +21,34 @@ Créez une première expérience sensorielle en diffusant vos échantillons dans
 
 Marques qui ont un produit à faire tester. Verticales les plus adaptées : Alimentation & Boissons ; Beauté, Santé & Bien-être ; Animaux.
 
+## Comment ça marche
+
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Choisissez le produit</h3>
+    <p>Un échantillon représentatif de votre produit, en format découverte.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Il accompagne une commande</h3>
+    <p>Il est glissé dans les commandes de marques affinitaires, ou remis lors d'un événement affinitaire, avec un flyer qui porte votre offre selon la campagne.</p>
+  </div>
+</div>
+
+<div class="gi-step">
+  <div class="gi-step-num done">3</div>
+  <div class="gi-step-body">
+    <h3>Le client le teste</h3>
+    <p>Il essaie le produit chez lui, puis passe commande, par exemple grâce à l'offre promotionnelle du flyer.</p>
+  </div>
+</div>
+
+**Mesure :** un QR code ou un code unique relie l'échantillon à l'achat.
+
 ## Exemples de résultats
 
 <div class="gi-value-grid">

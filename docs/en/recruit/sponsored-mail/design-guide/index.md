@@ -16,6 +16,13 @@ Unboxing is an unusual moment. The consumer just received something they ordered
 
 From creative strategy to technical validation: here is how to create a flyer that converts.
 
+::: tip In short
+- Four steps: strategy, creative, legal, then a digital proof (BAT) submitted on the platform and validated by getinside before any printing.
+- Six mechanics are available (promotion, drive to store, content, games, drive to app, feedback), all with a QR code as the entry point.
+- The offer decides: a monetary value rather than a percentage, valid for at least 3 months, with a unique promo code for each brand that distributes the flyer.
+- Scanning happens on a smartphone: the landing page must be responsive, fast and simple. The QR code is at least 14 × 14 mm.
+:::
+
 :::warning Mandatory validation
 No content is delivered by another brand without prior validation from getinside via the platform. Submit your digital Proof (BAT) before any printing.
 :::

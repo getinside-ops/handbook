@@ -14,6 +14,13 @@ keywords:
 
 Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre régie, activez vos partenaires historiques et développez vos revenus.
 
+::: tip En bref
+- Trois phases : configuration et activation (démo, logistique, audiences, call de contrôle), gestion des campagnes, puis accélération.
+- Répondez à toute proposition de campagne sous 48 heures ouvrées : le silence vaut refus tacite et entraîne une pénalité contractuelle. Négociez plutôt que de refuser.
+- Vos données clients restent les vôtres : getinside agit comme tiers de confiance et n'y accède pas directement.
+- Vous gardez un droit de veto, dans les limites décrites en bas de page.
+:::
+
 ## Phase 1 : Configuration et Activation
 
 <div class="gi-step">
