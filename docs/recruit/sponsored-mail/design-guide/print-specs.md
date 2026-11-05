@@ -25,7 +25,7 @@ Les contraintes à respecter pour garantir une qualité d'impression optimale et
 | **Carte** | 105 × 148 mm | **109 × 152 mm** | Voir gabarit |
 
 :::warning Fond perdu (Bleed) : 2 mm obligatoire
-La matière (image ou fond coloré) doit déborder de **2 mm à l'extérieur** du format fini. Sans fond perdu, un liseré blanc apparaît après découpe.
+La matière (image ou fond coloré) doit déborder de **2 mm à l'extérieur** du format fini. Sans fond perdu, un liseré blanc apparaît après découpe. Une photo ou un motif pleine page doit atteindre ce bord sur les quatre côtés : s'il s'arrête au trait de coupe, un décalage de coupe laisse une bande blanche.
 :::
 
 :::tip Zone tranquille : 3 mm
@@ -38,7 +38,8 @@ Aucun texte, logo ou élément important ne doit se trouver à moins de **3 mm d
 
 | Critère | Spécification |
 | :--- | :--- |
-| **Format de fichier** | PDF/X vectoriel (norme ISO prépresse), à privilégier. JPG ou PNG acceptés. |
+| **Format de fichier** | PDF/X vectoriel (norme ISO prépresse, PDF/X-4 recommandé), à privilégier. JPG ou PNG acceptés. |
+| **Polices** | Incorporées ou vectorisées dans le PDF. Un texte avec une police manquante sera remplacé à l'ouverture. |
 | **Résolution** | **300 DPI minimum** |
 | **Dimensions matricielles** | A6 : 1 287 × 1 795 px min · A5 : 1 795 × 2 528 px min |
 | **Mode colorimétrique** | **CMJN obligatoire** (pas de RVB) |
@@ -81,7 +82,7 @@ Vous **ne pouvez pas** utiliser un QR code généré par vos soins. Vous devez i
 **Pourquoi ?** Ce QR code unique certifie la distribution, permet le monitoring en temps réel et active votre tableau de bord de performance.
 :::
 
-**Taille minimum : 25 × 25 mm** (en dessous, le QR code n'est pas lisible par tous les smartphones).
+**Taille minimum : 14 × 14 mm** pour un A6 (en dessous, le QR code n'est pas lisible par tous les smartphones), à augmenter avec le format. Fond blanc et modules noirs. Vous pouvez le répéter sur chaque face (recommandé pour un insert, non obligatoire) : chaque QR code respecte alors cette taille.
 
 **Ne mélangez pas les QR codes :** chaque marque qui diffuse votre campagne dispose de son propre QR code. Le fichier `.svg` est disponible dans votre espace dès que la marque a validé votre proposition.
 
@@ -125,7 +126,7 @@ Cette prestation est réalisée par des **Entreprises Adaptées (EA)**, favorisa
 
 1. Les dimensions incluent **+2 mm de fond perdu** et respectent **-3 mm de zone tranquille**.
 2. Le fichier est en **CMJN (FOGRA39)**, résolution ≥ **300 DPI**, taux d'encrage ≤ **300%**.
-3. Le QR code getinside (`.svg`) est présent et mesure au minimum **25 × 25 mm**. Chaque marque qui diffuse a le sien.
+3. Le QR code getinside (`.svg`) est présent et mesure au minimum **14 × 14 mm**. Chaque marque qui diffuse a le sien.
 4. Les mentions légales universelles sont incluses : identification de votre marque, Triman, logo getinside, CGV. Si getinside réalise l'impression, la mention de certification FSC/Imprim'vert est présente.
 5. Les [mentions sectorielles](./legal) obligatoires (si applicable) sont présentes et lisibles.
 6. La **landing page** de destination a été testée sur mobile : responsive, chargement < 3 s, un seul appel à l'action (voir [Anatomie d'un flyer performant](./best-practices#la-landing-page-post-scan)).

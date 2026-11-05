@@ -80,6 +80,67 @@ A flyer has two faces: use them to separate persuasion from information.
   </div>
 </div>
 
+
+:::tip An insert has no "front"
+Inside a parcel, the flyer may be read **back side first**. Good practice: show the offer in large type on both faces, with a QR code on each (not mandatory, but it avoids losing the scan). The back headline doesn't repeat the front one: it talks about something else (a season, a time of year).
+:::
+
+---
+
+## Layout: one idea, few elements
+
+- **One element dominates each face**, then three reading levels at most (headline, offer, details). Two sizes that are too close make one level: leave about **1.5×** between two sizes, or change the weight or colour.
+- **Few elements, plenty of air.** A large headline addressed to the reader, 2 to 4 lines of warm copy, then the offer.
+- **Spacing follows grouping:** tight inside a group, clearly wider between two groups. A heading sits closer to its own content than to what precedes it.
+- **Neighbouring elements line up:** two blocks in the corners of the same edge share a height, two amounts side by side share a baseline.
+- **Start from an idea, not a template:** before laying out, one sentence says what the flyer shows. If you can't write it, the result will look like every other one.
+
+---
+
+## Photos and text
+
+- **Text on photos:** a few anchored elements (headline, offer, logo in the corners), not text scattered over a busy image. A light dark fade at the photo's edges helps reading.
+- **The squint test:** blur the face (or squint). The headline and offer must stay readable.
+- **Faces and product:** keep them free of any text or block laid over the photo. Text on a face looks careless, a block over the product hides what you sell.
+- **Two photos:** either they meet in a clean cut (a thin 1 mm line in a light brand colour), or they stand as two separate images. Never fade one into the other.
+- **Bright accent colour:** keep it for short text on images, not as the fill of a block.
+- **Full bleed:** a photo or background pattern extends to the bleed edge on all four sides.
+
+---
+
+## Small text and typography
+
+- **One style for all small text**, in the brand's dark colour (or light on a dark ground). Never white or light on a mid-tone colour, never in the accent colour: contrast becomes insufficient.
+- **Legal notices grouped** in one compact block at the bottom of the face, on the face's own ground (no band of another colour). Size **6 pt**, **5 pt minimum** to stay legible in offset print.
+- **French typography** (for French-language flyers):
+  - non-breaking space before `:` `;` `!` `?` and inside numbers (1 200 €);
+  - curly apostrophes;
+  - 1<sup>re</sup>, 2<sup>e</sup> (never "1ère", "2ème");
+  - a true minus sign (−) before a number;
+  - a brand name is never split across lines.
+- **Numbered steps:** numerals in the brand colour (no small white numbers in dots), left-aligned. A step never refers to another by its number ("in the promo code field", not "in step 2").
+- **Same word everywhere:** a code or amount keeps the same name on both faces ("promo code", not "promo code" on one side and "personal code" on the other).
+- **Line length:** under 65 characters per line of body text, neither justified nor in capitals.
+
+---
+
+## Figures, proof and promises
+
+A figure (a result, a rating, a number of reviews) is printed only **with its source**, as a note in the legal block (for example "* Statistic based on over 5,000 customers over 3 years"), and only if your site or data provides it. An unsourced figure is a legal risk for your brand.
+
+Also avoid superlatives without a fact ("the best", "everything included" without saying what): a precise promise converts better than a general one.
+
+---
+
+## What to avoid
+
+- Decoration that carries no information: a coloured stripe on the side of a text block, an icon above a heading, gradient text, a glow, a heavy shadow.
+- Boxes by reflex: only the promo code block and what your brief asks for get a frame. No box inside a box, no row of identical cards.
+- A label that repeats the headline below it.
+- More than two font families (besides an optional script); fonts outside the brand's guidelines.
+- A headline or paragraph ending with a single word on its last line.
+- More than one em dash on the whole flyer.
+
 ---
 
 ## The 3-second test
