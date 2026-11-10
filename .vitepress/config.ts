@@ -305,7 +305,15 @@ const config: any = defineConfig({
             collapsed: true,
             items: [
               { text: 'Vue d\'ensemble', link: '/retain/' },
-              { text: 'Courrier adressé', link: '/retain/direct-mail/' },
+              {
+                text: 'Courrier adressé',
+                collapsed: true,
+                items: [
+                  { text: 'Présentation', link: '/retain/direct-mail/' },
+                  { text: 'Préparer votre fichier', link: '/retain/direct-mail/prepare-file' },
+                  { text: 'Concevoir votre courrier', link: '/retain/direct-mail/design-mailing' },
+                ],
+              },
             ],
           },
           {
@@ -456,7 +464,15 @@ const config: any = defineConfig({
             collapsed: true,
             items: [
               { text: 'Overview', link: '/en/retain/' },
-              { text: 'Direct Mail', link: '/en/retain/direct-mail/' },
+              {
+                text: 'Direct Mail',
+                collapsed: true,
+                items: [
+                  { text: 'Overview', link: '/en/retain/direct-mail/' },
+                  { text: 'Prepare your file', link: '/en/retain/direct-mail/prepare-file' },
+                  { text: 'Design your mailing', link: '/en/retain/direct-mail/design-mailing' },
+                ],
+              },
             ],
           },
           {

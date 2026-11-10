@@ -81,7 +81,7 @@ Le solde Wallet n'est mis à jour qu'**après une action manuelle de votre part*
   </div>
   <div class="gi-value-card">
     <strong>Option B : Le Réinvestissement</strong>
-    <p>Utilisez votre solde pour financer vos propres campagnes d'acquisition (Insertion Colis ou Emailing). 1€ gagné = 1€ réinvesti en trafic, sans friction bancaire.</p>
+    <p>Utilisez votre solde pour financer vos propres campagnes (Insertion Colis, Emailing ou Courrier adressé). 1€ gagné = 1€ réinvesti en trafic, sans friction bancaire.</p>
   </div>
 </div>
 
