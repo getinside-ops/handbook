@@ -81,7 +81,7 @@ The Wallet balance is only updated **after a manual action on your part** depend
   </div>
   <div class="gi-value-card">
     <strong>Option B: Reinvestment</strong>
-    <p>Use your balance to finance your own acquisition campaigns (Parcel Insert or Emailing). 1€ earned = 1€ reinvested in traffic, without banking friction.</p>
+    <p>Use your balance to finance your own campaigns (Parcel Insert, Emailing or Direct Mail). 1€ earned = 1€ reinvested in traffic, without banking friction.</p>
   </div>
 </div>
 
