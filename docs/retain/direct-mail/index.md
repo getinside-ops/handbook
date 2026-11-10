@@ -81,7 +81,7 @@ Un fichier de vos churners, avec l'adresse postale de chaque client. Le guide [P
   <div class="gi-step-num">5</div>
   <div class="gi-step-body">
     <h3>Impression et envoi</h3>
-    <p>getinside imprime et poste le courrier avec ses partenaires. Comptez deux à trois semaines entre la réception de votre fichier validé et la boîte aux lettres.</p>
+    <p>getinside imprime et poste le courrier avec ses partenaires. Comptez 9 à 13 jours ouvrés entre la réception de votre fichier validé et la boîte aux lettres.</p>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ Un fichier de vos churners, avec l'adresse postale de chaque client. Le guide [P
 - **Format :** A5 sur papier 250 g, sous enveloppe blanche sans fenêtre, adresse imprimée dessus. Carte postale sans enveloppe, enveloppe aux couleurs de votre marque et autres formats : sur devis.
 - **Personnalisation :** prénom, éléments propres à votre campagne, et en option un code promo et un QR code uniques par destinataire.
 - **Production :** getinside imprime et poste le courrier via ses partenaires. L'impression se fait en France, sur papier certifié FSC/PEFC.
-- **Volume :** le coût unitaire baisse avec le volume, car getinside regroupe les campagnes de la semaine. Parlez-en à notre équipe pour dimensionner votre première campagne.
+- **Volume minimum :** 3 500 courriers par campagne, ou par ensemble de campagnes regroupées sur la même semaine. Le coût unitaire baisse ensuite avec le volume.
 
 ## Pourquoi getinside
 
@@ -133,8 +133,8 @@ RGPD fondé sur l'intérêt légitime, avec droit d'opposition mentionné sur ch
 Une enveloppe et un façonnage identiques pour toutes les marques permettent de regrouper les campagnes de la semaine et de limiter les coûts. Une enveloppe aux couleurs de votre marque reste possible sur devis.
 :::
 
-::: details Pourquoi le volume joue-t-il sur le coût ?
-Plus la production de la semaine est importante, plus le coût unitaire baisse. getinside regroupe les campagnes pour atteindre ces volumes.
+::: details Pourquoi un volume minimum de 3 500 courriers ?
+Les coûts d'impression baissent fortement à partir de ce volume. getinside regroupe les campagnes de la semaine pour l'atteindre.
 :::
 
 ::: details Puis-je payer avec mon Wallet ?

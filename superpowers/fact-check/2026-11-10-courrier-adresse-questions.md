@@ -8,9 +8,9 @@ Date : 2026-11-10. Fichier interne, non publié. Suite de `2026-11-05-questions-
 
 | Page | Ce qui est publié | Pourquoi prudent |
 |---|---|---|
-| `retain/direct-mail/index.md`, étape 5 | « Deux à trois semaines entre la réception du fichier validé et la boîte aux lettres » | L'ancienne mention (7 jours ouvrés) contredit la présentation de l'imprimeur : J+9 à J+13 depuis la réception du fichier. Jours ouvrés non confirmés. |
+| `retain/direct-mail/index.md`, étape 5 | « 9 à 13 jours ouvrés entre la réception du fichier validé et la boîte aux lettres » | Décision du 10 novembre : traiter J+9 à J+13 de la présentation de l'imprimeur comme des jours ouvrés. L'ancienne mention (7 jours ouvrés) la contredisait. À ajuster si la réponse est plus courte. |
 | idem, « Format et production » | A5 250 g sous enveloppe blanche en standard, carte sans enveloppe sur devis | La présentation de l'imprimeur propose aussi la carte seule, moins chère. Standard à confirmer. |
-| idem | Aucun volume minimum publié | Le seuil de 3 500 courriers est un choix commercial. Face à des concurrents qui démarrent à 200 plis, décision à prendre. |
+| idem | Volume minimum de 3 500 courriers par campagne ou ensemble de campagnes regroupées | Décision du 10 novembre. Seuil commercial, pas technique : la grille de l'imprimeur démarre à 1 pli. À reconsidérer face à des concurrents qui démarrent à 200 plis. |
 | `prepare-file.md`, étape 4 | « Canal sécurisé vers notre partenaire d'impression », sans promesse que getinside ne voit pas les données | Le schéma de l'imprimeur montre un dépôt « de GetInside ». |
 | `design-mailing.md` | Studio par défaut, adresse `studio@getinside.fr` | Brief type et délais du studio non documentés. |
 | `prepare-file.md`, tableau | Sept outils, liens d'aide officiels | Les pages Brevo (blocage robots) n'ont pas pu être ouvertes automatiquement. Salesforce, Splio, Actito, Emarsys, PrestaShop écartés faute de page officielle vérifiable. |
@@ -19,9 +19,9 @@ Date : 2026-11-10. Fichier interne, non publié. Suite de `2026-11-05-questions-
 
 | # | Question | Page concernée | Interlocuteur | Réponse |
 |---|---|---|---|---|
-| 1 | Délai réel : J+9 à J+13 en jours ouvrés, depuis la réception du fichier ou depuis la validation du BAT ? | index, étape 5 | Imprimeur | |
+| 1 | Délai publié : 9 à 13 jours ouvrés depuis la réception du fichier validé (hypothèse de travail). Confirmer jours ouvrés ou calendaires, et le point de départ (fichier ou BAT). | index, étape 5 | Imprimeur | |
 | 2 | Format standard : A5 sous enveloppe blanche, ou carte A5 sans enveloppe ? | index, format | Équipe | |
-| 3 | Volume minimum par campagne à publier, s'il y en a un | index, FAQ | Direction | |
+| 3 | Seuil publié : 3 500 courriers par campagne ou ensemble de campagnes regroupées. Une exception est-elle possible pour un test ? | index, FAQ | Direction | |
 | 4 | Contrôles et normalisation de la plateforme de l'imprimeur : doublons, adresses incomplètes, code postal et commune ? Option de nettoyage ? | prepare-file | Imprimeur | |
 | 5 | Dépôt du fichier : qui dépose, comment, et getinside voit-il les données ? | prepare-file, étape 4 | Imprimeur, plateforme | |
 | 6 | Formats de fichier acceptés (XLSX, CSV) | prepare-file | Imprimeur | |

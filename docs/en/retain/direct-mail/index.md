@@ -81,7 +81,7 @@ A file of your churners, with each customer's postal address. The [Prepare your 
   <div class="gi-step-num">5</div>
   <div class="gi-step-body">
     <h3>Printing and posting</h3>
-    <p>getinside prints and posts the mailing with its partners. Allow two to three weeks between receipt of your approved file and the mailbox.</p>
+    <p>getinside prints and posts the mailing with its partners. Allow 9 to 13 business days between receipt of your approved file and the mailbox.</p>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ A file of your churners, with each customer's postal address. The [Prepare your 
 - **Format:** A5 on 250 g paper, in a plain white envelope with no window, address printed on it. Postcard without envelope, envelope in your brand colors and other formats: on quote.
 - **Personalization:** first name, elements specific to your campaign, and optionally a unique promo code and QR code per recipient.
 - **Production:** getinside prints and posts the mailing through its partners. Printing is done in France, on FSC/PEFC-certified paper.
-- **Volume:** the unit cost drops as volume grows, because getinside groups the week's campaigns. Talk to our team to size your first campaign.
+- **Minimum volume:** 3,500 mailings per campaign, or per set of campaigns grouped in the same week. The unit cost then drops as volume grows.
 
 ## Why getinside
 
@@ -133,8 +133,8 @@ GDPR processing based on legitimate interest, with the right to object stated on
 An identical envelope and finishing for every brand lets us group the week's campaigns and keep costs down. An envelope in your brand colors remains possible on quote.
 :::
 
-::: details Why does volume affect cost?
-The larger the week's production, the lower the unit cost. getinside groups campaigns to reach these volumes.
+::: details Why a minimum of 3,500 mailings?
+Printing costs drop sharply from this volume. getinside groups the week's campaigns to reach it.
 :::
 
 ::: details Can I pay with my Wallet?
