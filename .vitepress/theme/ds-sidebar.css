@@ -1,0 +1,35 @@
+/* Sidebar contextuelle : repérage, groupes, pastilles de canal, état actif.
+   Les !important sur les textes écrasent les règles scopées de VitePress (même pratique qu'avant). */
+
+/* Bloc de repérage (GiSidebarHead) */
+.gi-sbhead { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--color-line); }
+.gi-sbhead-tabs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.25rem; }
+.gi-sbhead-tab { display: flex; flex-direction: column; align-items: center; gap: 0.25rem; padding: 0.5rem 0.25rem;
+  border-radius: var(--radius-sm); color: var(--color-ink-soft); font-size: 0.75rem; font-weight: 600; text-decoration: none;
+  transition: background-color 150ms var(--ease-out); }
+.gi-sbhead-tab:hover { background: var(--color-white); color: var(--color-ink); }
+.gi-sbhead-tab.is-current { background: var(--color-brand); color: var(--color-ink); font-weight: 700; }
+.gi-sbhead-crumb { margin: 0.75rem 0 0; font-size: 0.75rem; line-height: 1.25rem; color: var(--color-ink-soft); }
+
+/* Entrées */
+.VPSidebarItem .text { font-size: 0.875rem !important; font-weight: 500 !important; color: var(--color-ink) !important; }
+
+/* Titres de groupe et liens de premier niveau : capitales, icône ou pastille devant */
+.VPSidebarItem.level-0 > .item > .text,
+.VPSidebarItem.level-0 > .item > .link > .text {
+  display: flex; align-items: center; gap: 0.5rem; font-size: 0.75rem !important; font-weight: 700 !important;
+  letter-spacing: 0.04em; text-transform: uppercase; color: var(--color-ink-soft) !important;
+}
+.VPSidebarItem .gi-nav-ico { margin-right: 0; }
+
+/* Pastille de canal : colis jaune, courrier turquoise, échantillonnage lilas */
+.gi-dot { flex: none; width: 0.75rem; height: 0.75rem; border: 1.5px solid var(--color-ink); border-radius: var(--radius-full); }
+.gi-dot--colis { background: var(--color-brand); }
+.gi-dot--courrier { background: var(--color-teal); }
+.gi-dot--echantillon { background: var(--color-lilac); }
+
+/* État actif : fond jaune doux, filet à gauche, texte encre en gras (jamais de jaune en texte) */
+.VPSidebarItem.is-active > .item { background: var(--vp-c-brand-soft); border-radius: var(--radius-sm); }
+.VPSidebarItem.is-active > .item > .indicator { width: 3px; }
+.VPSidebarItem.is-active > .item > .text,
+.VPSidebarItem.is-active > .item > .link > .text { color: var(--color-ink) !important; font-weight: 700 !important; }
