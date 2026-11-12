@@ -21,6 +21,14 @@ Static assets (OG image at 1200×630) are generated via Playwright Node.js ESM s
 - Regenerate if design changes: edit script → `npm run generate:og` → commit both script and PNG output
 - Ensure script uses ESM (`import` syntax, not `require`) — project has `"type": "module"`
 
+## Design system
+
+Images du design system dans `assets/images/ds/` (pélicans, illustrations de canaux et leviers, pictos), copiées de l'artefact « Design system getinside · refonte ». Pas de photos de campagnes ni de logos clients. Règles de lisibilité :
+- Contour 2 px et ombre dure réservés à ce qui se clique, aux visuels clés et aux cartouches; jamais de carte dans une carte.
+- Un seul pélican par écran.
+- Accent serif réservé aux titres de section de plus de trois mots.
+- Une couleur par canal : colis jaune, courrier turquoise, échantillonnage lilas.
+
 ## Architecture
 
 **VitePress documentation site** for getinside, the parcel and direct mail marketing solution ("Le marketing qui touche"). Deployed to GitHub Pages at `https://getinside-ops.github.io/handbook/` (built in CI by `.github/workflows/deploy.yml`; `.vitepress/dist` is git-ignored and must not be committed).
@@ -30,7 +38,9 @@ Static assets (OG image at 1200×630) are generated via Playwright Node.js ESM s
 **Core files:**
 - `.vitepress/config.ts` — Site config: sidebar nav, locales, base path `/handbook/`. `transformHead` emits SSR meta tags (OpenGraph, description, AI tags like `citation_title`) AND the per-page `WebPage`/`BreadcrumbList` JSON-LD (via `buildWebPageSchema`). Also wires MS Clarity, Google Search Console verification, and the static `WebSite` schema. Search is VitePress **local** search (no Algolia). No Mermaid plugin is installed.
 - `.vitepress/theme/index.ts` — Custom Vue theme: client-side OpenGraph/canonical/hreflang updates on SPA navigation (`updateOpenGraph`). Schema.org is rendered in SSR via `config.ts`, not here.
-- `.vitepress/theme/style.css` — All brand tokens (`--gi-*`) and custom component styles. Light-mode text green is `#067a66` (AA); never use the vivid mint `#6AE7C8` or the old `#0aaa8e` for text on white (contrast < 4.5:1).
+- `.vitepress/theme/style.css` — Styles hérités du handbook (mise en page, composants markdown). Les jetons du design system et le recâblage `--vp-c-*` sont dans `ds-tokens.css`; l'habillage des blocs markdown dans `ds-markdown.css`; les composants Vue dans `ds-components.css` (classes `ds-*`). Palette : jaune #fcf758 (jamais en texte ni en fond de bouton), encre #0c0c09, grège #f4f4f0, turquoise, lilas, violet nuit. Une seule ambiance claire, pas de mode sombre.
+- `.vitepress/theme/components/Gi*.vue` — `GiHero`, `GiAccentTitle`, `GiLinkCard`, `GiStat`, `GiSchema`, `GiFlow`, `GiPelican`, utilisables dans le markdown des pages d'accueil et de section.
+- `scripts/check-design-system.sh` — Contrôle que le design system est appliqué (polices, jetons, pas de mode sombre ni de menthe, composants et images présents). À lancer avant de commiter du CSS.
 - `assets/` — Copied verbatim to the dist root (`vite.publicDir`). Holds `images/`, `fonts/` (Garnett woff2+woff), `robots.txt`, `humans.txt`, `security.txt` (+`.well-known/`), `site.webmanifest`, favicons.
 - `scripts/generate-sitemap.js` — Post-build `sitemap.xml`.
 - `scripts/generate-structured-data.js` — Post-build: injects static `FAQPage` (FAQ pages) + `HowTo` (gi-step guides) JSON-LD into built HTML, single-sourced from the markdown.
@@ -88,7 +98,7 @@ SEO metadata and Schema.org JSON-LD are generated in SSR by `config.ts` (`transf
 ## Content Conventions
 
 Content spans **French and English**. Ensure language parity across both folders. Use VitePress container directives for callouts:
-- `::: tip` — Positive highlight (mint accent)
+- `::: tip` — Positive highlight (fond jaune)
 - `::: info` — Information callout
 - `::: warning` — Caution/attention
 - `::: danger` — Critical alert
