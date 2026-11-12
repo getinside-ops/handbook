@@ -22,7 +22,7 @@ Au déballage, votre flyer a moins de 3 secondes pour convaincre.
 
 ## Meilleures campagnes
 
-Les meilleures campagnes d'insertion colis sont dans les [études de cas](/resources/case-studies).
+Les meilleures campagnes d'insertion colis sont présentées sur [getinside.fr](https://www.getinside.fr/).
 
 ---
 

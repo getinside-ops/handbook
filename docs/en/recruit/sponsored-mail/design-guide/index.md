@@ -22,7 +22,7 @@ At unboxing, your flyer has less than 3 seconds to convince.
 
 ## Best Performing Campaigns
 
-The best parcel insert campaigns are in the [case studies](/en/resources/case-studies).
+The best parcel insert campaigns are showcased on [getinside.fr](https://www.getinside.fr/).
 
 ---
 
