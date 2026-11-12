@@ -27,7 +27,7 @@ These 4 blocks apply to **all brands**, regardless of the sector.
 1. **Brand identification:** corporate name, legal form, share capital, head office address, RCS number + registration city. Example: *"ACME SAS with a capital of 10,000€, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"*.
 2. **Environmental logos:**
    - **Triman + Info-tri:** the Triman is adjoined to the sorting instruction. Logo **≥ 10 mm** (standard version) or **6 mm** (compact version, only where space is restricted). Mandatory since the AGEC law.
-   - **getinside logo:** provided with the templates. [⬇️ Download the Logos pack](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
+   - **getinside logo:** provided with the templates. [↓ Download the Logos pack](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
 3. **Printing by getinside:** if getinside handles printing, the notice *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* is mandatory, with the FSC and Imprim'vert logos (provided by getinside).
 4. **Offer T&Cs:** validity dates, special conditions (e.g., "valid from 50€ purchase"), any usage restrictions.
 

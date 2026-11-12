@@ -27,7 +27,7 @@ Ces 4 blocs s'appliquent à **toutes les marques**, quel que soit le secteur.
 1. **Identification de votre marque :** nom social, forme juridique, capital social, adresse du siège, numéro RCS + ville d'immatriculation. Exemple : *"ACME SAS au capital de 10 000€, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"*.
 2. **Logos Environnement :**
    - **Triman + Info-tri :** le Triman est accolé à la consigne de tri. Logo **≥ 10 mm** (version standard) ou **6 mm** (version compacte, uniquement si la place est restreinte). Obligatoire depuis la loi AGEC.
-   - **Logo getinside :** fourni avec les gabarits. [⬇️ Télécharger le pack Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
+   - **Logo getinside :** fourni avec les gabarits. [↓ Télécharger le pack Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
 3. **Impression par getinside :** si getinside imprime, la mention *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* est obligatoire, avec les logos FSC et Imprim'vert (fournis par getinside).
 4. **CGV de l'offre :** dates de validité, conditions particulières (ex : "valable dès 50€ d'achat"), toute restriction d'usage.
 
