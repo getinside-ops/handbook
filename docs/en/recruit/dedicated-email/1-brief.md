@@ -12,52 +12,25 @@ keywords:
 
 # Step 1: The Campaign Brief
 
-Your role: provide the "raw material" that lets the brand delivering your campaign build a high-performing email.
-
----
+You provide the raw material that the brand delivering your campaign turns into an email.
 
 ## Fill out the form
 
-Every campaign starts with submitting the brief via our dedicated form.
-
 → **[Access the Brief form (Tally)](https://tally.so/r/9qN9WY){target="_blank"}**
-
----
 
 ## What you need to provide
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🎁 The offer</strong>
-    <p>State a clear, compelling promise. Example: <em>"20€ off for orders over 100€"</em>.</p>
-    <p>Specify the validity period (recommended minimum: 3 months).</p>
-    <p>Favor a monetary value over a percentage: <em>"20€ off"</em> converts better than <em>"-20%"</em>, because the benefit is readable at a glance. The recipient had not planned to buy from you: the generosity of the offer triggers the purchase.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🖼️ The visuals</strong>
-    <p>Vector or HD logo, product packshots on a white background, lifestyle visuals if available.</p>
-    <p>Provide high-definition files: 300 dpi minimum, PNG or JPG, logo ideally as SVG or transparent PNG. Sharp, cut-out visuals give a professional result in the email.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>✍️ The wording</strong>
-    <p>Key arguments (USPs), brand tone, mandatory keywords to include in the email text.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🔗 The links</strong>
-    <p>Destination URLs (landing pages) to direct traffic to. These links are dynamic: you can edit them at any time from the <strong>"Configuration and Tracking"</strong> tab, even after launch.</p>
-  </div>
-</div>
+- **Offer**: a clear promise, with its validity period (recommended minimum: 3 months). Example: *"20€ off for orders over 100€"*. Favor a monetary value over a percentage: *"20€ off"* converts better than *"-20%"*, because the benefit is readable at a glance.
+- **Visuals**: logo as SVG or transparent PNG, product packshots on a white background, lifestyle visuals if available. PNG or JPG files, 300 dpi minimum.
+- **Wording**: key arguments (USPs), brand tone, mandatory keywords.
+- **Links**: destination URLs (landing pages). They are dynamic: editable at any time from the **"Configuration and Tracking"** tab, even after launch.
 
-:::tip Advice: let the brand adapt
-Do not try to impose strict brand guidelines. The brand delivering your campaign knows its community: let it adapt your visuals to its universe to maximize engagement.
-
-**The goal is a recommendation, not an ad.** A 100% branded email with no mention of the partner increases unsubscribes and drops performance.
+:::tip Let the brand adapt
+Do not impose strict guidelines: the brand delivering your campaign knows its community. The goal is a recommendation, not an ad. A 100% branded email with no mention of the partner increases unsubscribes and drops performance.
 :::
-
----
 
 ## What's next?
 
-Once the brief is sent, the getinside team sets up the campaign and notifies the brand delivering your campaign to start creation.
+The getinside team sets up the campaign and notifies the brand delivering your campaign to start creation.
 
 → Next step: [Email Creation & Co-branding](./2-creation)
