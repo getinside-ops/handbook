@@ -4,138 +4,12 @@
    — All --vp-c-* brand/bg/text tokens are left at VitePress
      defaults so dark/light mode works natively.
    ============================================================ */
-:root {
-
-  /* ── White page background (light mode) ─────────────────── */
-  --vp-c-bg: #FFFFFF;
-  --vp-c-bg-elv: #FFFFFF;
-
-  /* ── Mint/Teal brand (light mode) ────────────────────────── */
-  --vp-c-brand-1: #067a66;
-  /* teal AA — 5,27:1 sur blanc, pour tout texte. Le menthe vif reste #6AE7C8 (fonds, décors) */
-  --vp-c-brand-2: #06705c;
-  /* teal AA foncé — survol, 6,03:1 sur blanc */
-  --vp-c-brand-3: #6AE7C8;
-  /* mint-bright (soft effects) */
-  --vp-c-brand-soft: rgba(106, 231, 200, 0.14);
-
-  /* ── Palette accents — vivid, for decoration ─────────────── */
-  --gi-mint: #6AE7C8;
-  --gi-yellow: #FCF758;
-  --gi-violet: #C990FC;
-
-  /* VitePress hero button — mint bg, dark text ─────────────── */
-  --vp-button-brand-border: transparent;
-  --vp-button-brand-text: #0a0f1e;
-  --vp-button-brand-bg: var(--gi-mint);
-  --vp-button-brand-hover-border: transparent;
-  --vp-button-brand-hover-text: white;
-  --vp-button-brand-hover-bg: var(--vp-c-brand-1);
-  --vp-button-brand-active-border: transparent;
-  --vp-button-brand-active-text: white;
-  --vp-button-brand-active-bg: var(--vp-c-brand-2);
-
-  /* gi-* are thin aliases over VitePress native vars so content
-     files (.md inline styles) automatically adapt to dark mode. */
-  --gi-accent: var(--vp-c-brand-1);
-  --gi-accent-hover: var(--vp-c-brand-2);
-  --gi-accent-light: var(--vp-c-brand-soft);
-  --gi-text: var(--vp-c-text-1);
-  --gi-text-muted: var(--vp-c-text-2);
-  --gi-border: var(--vp-c-divider);
-  --gi-surface: var(--vp-c-bg-elv);
-
-  /* Semantic tint tokens used in content (light mode) */
-  --gi-tint-blue-bg: #e8fdf7;
-  --gi-tint-blue-text: #067a66;
-  --gi-tint-blue-border: #6AE7C8;
-  --gi-tint-green-bg: #f0fdf4;
-  --gi-tint-green-text: #047857;
-  --gi-tint-green-border: #ccf3df;
-  --gi-tint-yellow-bg: rgba(252, 247, 88, 0.18);
-  --gi-tint-yellow-text: #b45309;
-  --gi-tint-red-bg: #fff5f5;
-  --gi-tint-red-text: #dc2626;
-  --gi-tint-red-border: #fecdd3;
-  --gi-tint-purple-bg: #f3e5f5;
-  --gi-tint-purple-text: #7b1fa2;
-}
-
-/* ── Dark mode: VitePress defaults + mint accent ───────────── */
-.dark {
-  /* Backgrounds — explicitly set to beat :root source-order (same specificity) */
-  --vp-c-bg: #1b1b1f;
-  --vp-c-bg-soft: #252529;
-  --vp-c-bg-mute: #313136;
-  --vp-c-bg-elv: #252529;
-  --vp-c-bg-alt: #161618;
-
-  /* Bump text-2 from 0.60 → 0.72 opacity — VitePress default is ~3.6:1 on our
-     dark bg (#202127), this brings it to ~4.5:1 to meet WCAG AA */
-  --vp-c-text-2: rgba(235, 235, 245, 0.72);
-
-  /* Mint brand — full brightness for accent on dark */
-  --vp-c-brand-1: #6AE7C8;
-  --vp-c-brand-2: #4ecfb4;
-  --vp-c-brand-3: #8df0da;
-  --vp-c-brand-soft: rgba(106, 231, 200, 0.15);
-
-  /* Code inline — mint tint */
-  --vp-code-color: #6AE7C8;
-  --vp-code-bg: rgba(106, 231, 200, 0.10);
-
-  /* VitePress hero button */
-  --vp-button-brand-text: #1b1b1f;
-  --vp-button-brand-bg: var(--vp-c-brand-1);
-  --vp-button-brand-hover-text: #1b1b1f;
-  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
-  --vp-button-brand-active-text: #1b1b1f;
-  --vp-button-brand-active-bg: var(--vp-c-brand-1);
-
-  /* Semantic tint tokens — mint-adapted dark mode */
-  --gi-tint-blue-bg: rgba(106, 231, 200, 0.08);
-  --gi-tint-blue-text: #6AE7C8;
-  --gi-tint-blue-border: rgba(106, 231, 200, 0.30);
-  --gi-tint-green-bg: rgba(16, 185, 129, 0.10);
-  --gi-tint-green-text: #34d399;
-  --gi-tint-green-border: rgba(16, 185, 129, 0.28);
-  --gi-tint-yellow-bg: rgba(217, 119, 6, 0.12);
-  --gi-tint-yellow-text: #fde68a;
-  --gi-tint-red-bg: rgba(220, 38, 38, 0.12);
-  --gi-tint-red-text: #fca5a5;
-  --gi-tint-red-border: rgba(220, 38, 38, 0.25);
-  --gi-tint-purple-bg: rgba(168, 85, 247, 0.12);
-  --gi-tint-purple-text: #e9d5ff;
-}
-
-/* ── Mint accent effects (dark mode only) ────────────────── */
-.dark .btn-primary {
-  box-shadow: 0 0 14px rgba(106, 231, 200, 0.20);
-}
-
-.dark .btn-primary:hover {
-  box-shadow: 0 0 22px rgba(106, 231, 200, 0.35), 0 2px 8px rgba(0, 0, 0, 0.3);
-}
-
-.dark .gi-card:hover {
-  border-color: rgba(106, 231, 200, 0.40) !important;
-  box-shadow: 0 0 20px rgba(106, 231, 200, 0.08), 0 4px 16px rgba(0, 0, 0, 0.3);
-}
-
-.dark .gi-tile:hover {
-  background: rgba(106, 231, 200, 0.05) !important;
-  border-color: rgba(106, 231, 200, 0.35) !important;
-}
 
 /* ============================================================
    2. LOGO — black in light mode, white in dark mode
    ============================================================ */
 .VPImage.logo {
   filter: brightness(0);
-}
-
-.dark .VPImage.logo {
-  filter: brightness(0) invert(1);
 }
 
 /* ============================================================
@@ -330,12 +204,6 @@
   background: var(--vp-c-bg-soft);
 }
 
-.dark .gi-nav-card:hover {
-  border-color: rgba(106, 231, 200, 0.40);
-  box-shadow: 0 0 20px rgba(106, 231, 200, 0.08);
-  background: rgba(106, 231, 200, 0.03);
-}
-
 .gi-nav-card-icon {
   font-size: 1.75rem;
   flex-shrink: 0;
@@ -403,11 +271,6 @@
   border-color: var(--gi-mint);
   transform: translateY(-2px);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-}
-
-.dark .gi-format-card:hover {
-  border-color: rgba(106, 231, 200, 0.40);
-  box-shadow: 0 0 24px rgba(106, 231, 200, 0.08);
 }
 
 .gi-format-card-icon {
@@ -864,20 +727,6 @@ h4+.gi-cert-row {
   transform: translateY(-1px);
 }
 
-/* Dark mode: use neon cyan + very dark text */
-.dark .btn-primary {
-  background: var(--vp-c-brand-1) !important;
-  /* #22d3ee neon */
-  border-color: var(--vp-c-brand-1) !important;
-  color: #020617 !important;
-}
-
-.dark .btn-primary:hover {
-  background: var(--vp-c-brand-2) !important;
-  border-color: var(--vp-c-brand-2) !important;
-  color: #020617 !important;
-}
-
 .btn-outline {
   background: transparent !important;
   border-color: var(--vp-c-divider) !important;
@@ -1246,21 +1095,10 @@ h4+.gi-cert-row {
   background-size: 22px 22px;
 }
 
-.dark .VPHome,
-.dark .gi-dots,
-.dark .not-found {
-  background-image: radial-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
-}
-
 /* Homepage feature cards — warm off-white #F7F6F3 (light mode) */
 .VPHome .VPFeature {
   background-color: #F7F6F3;
 }
-
-.dark .VPHome .VPFeature {
-  background-color: var(--vp-c-bg-soft);
-}
-
 
 /* ============================================================
    16. HERO KEY VISUAL — single soft mint halo behind the SVG
@@ -1286,7 +1124,7 @@ h4+.gi-cert-row {
   height: 320px;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(106, 231, 200, 0.45) 0%, transparent 70%);
+  background: radial-gradient(circle, var(--color-brand) 0%, transparent 70%);
   pointer-events: none;
   z-index: 0;
 }
@@ -1295,16 +1133,7 @@ h4+.gi-cert-row {
 .VPHero .image-container .VPImage {
   position: relative;
   z-index: 1;
-  filter: drop-shadow(0 0 30px rgba(106, 231, 200, 0.35));
-}
-
-/* Dark mode: same single mint halo, tuned for the dark bg */
-.dark .VPHero .image-container::before {
-  background: radial-gradient(circle, rgba(106, 231, 200, 0.28) 0%, transparent 70%);
-}
-
-.dark .VPHero .image-container .VPImage {
-  filter: drop-shadow(0 0 28px rgba(106, 231, 200, 0.40));
+  filter: drop-shadow(0 0 30px var(--color-brand));
 }
 
 /* ============================================================
@@ -1601,13 +1430,12 @@ h4+.gi-cert-row {
 }
 
 @media print {
-  :root,
-  :root.dark {
+  :root {
     --vp-c-bg: #fff;
     --vp-c-bg-soft: #f6f6f7;
     --vp-c-text-1: #111;
     --vp-c-text-2: #333;
-    --vp-c-brand-1: #067a66;
+    --vp-c-brand-1: var(--color-ink);
   }
 
   body {
@@ -1701,11 +1529,10 @@ h4+.gi-cert-row {
 
 
 /* ============================================================
-   25. SEARCH — bright mint (#6AE7C8) borders, not dark teal
-   — VitePress defaults these to --vp-c-brand-1 (#067a66 in light).
+   25. SEARCH — brand borders
    ============================================================ */
 
-/* Selected search-result border (CSS var; same #6AE7C8 in both modes) */
+/* Selected search-result border (CSS var) */
 :root {
   --vp-local-search-result-selected-border: var(--gi-mint);
 }
