@@ -13,8 +13,6 @@ image: /images/gi-keyvisual.svg
 
 # Recruit
 
-<p class="gi-page-intro">Recruit your future customers through the brands they already buy from, by having your campaign delivered by them.</p>
-
 ::: tip In short
 - You have your campaign delivered by other brands, to their customers.
 - Media budget or audience exchange, with no media spend. Best CAC: €1.21.

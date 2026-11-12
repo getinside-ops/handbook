@@ -14,8 +14,6 @@ image: /images/gi-keyvisual.svg
 
 # Monetize
 
-<p class="gi-page-intro">Deliver other brands' campaigns that enrich your customers' shopping experience, and generate revenue to fund your acquisition. Records: 90% of revenue reinvested in acquisition and +€215K per year. You can also exchange audiences with other brands, with no media spend.</p>
-
 ::: tip In short
 - You deliver other brands' campaigns to your customers and generate revenue.
 - Your revenue credits your Wallet and funds your acquisition. Records: 90% reinvested, €215K+ per year.

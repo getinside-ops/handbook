@@ -127,9 +127,13 @@
 @media (min-width: 1280px) {
   .VPDoc.has-aside .content-container { max-width: 840px !important; }
 }
-.VPDoc .vp-doc .ds-card-media { aspect-ratio: auto; height: 150px; }
-.VPDoc .vp-doc .ds-card-media img { padding: 0.5rem; }
-.VPDoc .vp-doc .ds-card-grid > .ds-card:only-child { flex-direction: row; }
-.VPDoc .vp-doc .ds-card-grid > .ds-card:only-child .ds-card-media { flex: 0 0 38%; height: auto; min-height: 150px; border-bottom: 0; border-right: 2px solid var(--color-ink); }
-.VPDoc .vp-doc .ds-card-grid > .ds-card:only-child .ds-card-content { justify-content: center; }
-.VPDoc .vp-doc .ds-card-grid:has(> :nth-child(4):last-child) { grid-template-columns: repeat(2, 1fr); }
+/* Cartes illustrées en cellules horizontales : image à gauche, texte à droite */
+.VPDoc .vp-doc .ds-card-grid { grid-template-columns: 1fr; gap: 1rem; }
+.VPDoc .vp-doc .ds-card { flex-direction: row; }
+.VPDoc .vp-doc .ds-card-media { position: relative; aspect-ratio: auto; flex: 0 0 11rem; min-height: 6.5rem; border-bottom: 0; border-right: 2px solid var(--color-ink); }
+.VPDoc .vp-doc .ds-card-media img { position: absolute; inset: 0; padding: 0.25rem; }
+.VPDoc .vp-doc .ds-card-content { justify-content: center; padding: 1rem 1.5rem; gap: 0.25rem; }
+/* Listes de liens : 2 colonnes */
+.VPDoc .vp-doc .gi-nav-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+.VPDoc .vp-doc .gi-format-grid:has(> :nth-child(4):last-child) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 640px) { .VPDoc .vp-doc .gi-nav-list { grid-template-columns: 1fr; } .VPDoc .vp-doc .ds-card-media { flex-basis: 7rem; } }
