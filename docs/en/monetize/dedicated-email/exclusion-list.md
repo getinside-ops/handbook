@@ -26,7 +26,7 @@ Any file containing addresses, even hashed, must go through a secure protocol.
 
 ## Receiving the file
 
-Recommended method: SFTP transfer using **FileZilla** on the brand's side ([download FileZilla](https://filezilla-project.org/){target="_blank"}, free, Windows / macOS / Linux). Create an SFTP access and share with the brand:
+Recommended method: SFTP transfer using **FileZilla** on the brand's side ([download FileZilla](https://filezilla-project.org/){target="_blank"}). Create an SFTP access and share with the brand:
 
 - **Host:** Your SFTP server address (e.g. `sftp.yourdomain.com`)
 - **Port:** Usually `22`
