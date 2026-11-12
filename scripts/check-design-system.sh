@@ -15,6 +15,8 @@ check "plus de menthe #6AE7C8 / #067a66 / #0aaa8e" '! grep -rqi "6ae7c8\|067a66\
 check "police Bricolage présente" 'test -f assets/fonts/BricolageGrotesque-latin.woff2'
 check "police Source Serif présente" 'test -f assets/fonts/SourceSerif4-Italic-latin.woff2'
 check "jetons chargés" 'grep -q "ds-tokens.css" $T/index.ts'
+check "sidebar : feuille de style chargée" 'grep -q "ds-sidebar.css" $T/index.ts'
+check "sidebar : état actif sans contour 2px" '! grep -q "border: 2px" $T/ds-sidebar.css'
 check "composants enregistrés" 'grep -q "GiLinkCard" $T/index.ts'
 check "images du design system présentes" 'test "$(ls assets/images/ds 2>/dev/null | wc -l)" -ge 20'
 check "pas de prix dans les composants" '! grep -rqiE "[0-9] ?(€|eur)" $T/components/Gi*.vue'

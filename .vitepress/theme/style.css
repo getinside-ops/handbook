@@ -1501,25 +1501,6 @@ h4+.gi-cert-row {
 }
 
 /* ============================================================
-   23. SIDEBAR
-   ============================================================ */
-
-/* Items légèrement plus compacts que le corps (13px) */
-.VPSidebarItem .text {
-  font-size: 0.8125rem !important;
-}
-
-/* Section headers — alignés sur h6 (muted, même taille) */
-.VPSidebarItem.level-0 > .item > .text {
-  font-size: 0.75rem !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.04em !important;
-  text-transform: uppercase !important;
-  color: var(--vp-c-text-2) !important;
-}
-
-
-/* ============================================================
    24. Homepage hero
    ============================================================ */
 .VPHero .text {
