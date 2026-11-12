@@ -13,8 +13,6 @@ image: /images/gi-keyvisual.svg
 
 # Recruter
 
-<p class="gi-page-intro">Recrutez vos futurs clients à travers les marques qu'ils consomment déjà, en faisant diffuser votre campagne chez elles.</p>
-
 ::: tip En bref
 - Vous faites diffuser votre campagne chez d'autres marques, auprès de leurs clients.
 - Budget média ou échange d'audiences, sans dépense média. Top CAC : 1,21 €.

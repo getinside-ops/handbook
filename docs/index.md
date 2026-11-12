@@ -36,11 +36,4 @@ keywords:
 <GiLinkCard href="/monetize/" tone="lilac" title="Monétiser" desc="Délivrez les campagnes d'autres marques et financez votre acquisition. Top revenus : +215 K€ par an." image="/images/ds/levier-monetiser.webp" image-alt="Illustration du levier Monétiser" />
 </div>
 
-
-<div class="ds-stats">
-<GiStat value="98 %" label="de délivrabilité" detail="Le colis et le courrier adressé arrivent dans les mains du destinataire." />
-<GiStat value="100 %" label="d'attention" detail="Un support que l'on tient est lu." />
-<GiStat value="86 %" label="des décisions d'achat se prennent à la maison" detail="Le colis et le courrier arrivent là où se décide l'achat." />
-</div>
-
 </div>
