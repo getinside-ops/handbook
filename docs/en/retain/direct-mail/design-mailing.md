@@ -13,11 +13,11 @@ image: /images/gi-keyvisual.svg
 
 # Design your direct mail
 
-The getinside studio creates your mailing by default. This page explains what your brief contains, and how to create your own visual.
+The getinside studio creates your mailing by default, in one or several versions. This page explains what your brief contains, and how to create your own visual.
 
 ## Hand the creative to the studio
 
-Send the studio a brief: the offer, the promo code, the target and your brand elements (logo, colors, fonts). It produces the visual, sets up the personalized fields and prepares the proof. Write to [studio@getinside.fr](mailto:studio@getinside.fr).
+Send the studio a brief: the offer, the promo code, the target and your brand elements (logo, colors, fonts). It produces the visual or visuals, sets up the personalized fields and prepares the proof for each version. It also sets up the mailing template your file is linked to through a unique operation code. Write to [studio@getinside.fr](mailto:studio@getinside.fr).
 
 ## Create it yourself
 

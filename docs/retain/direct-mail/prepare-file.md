@@ -23,6 +23,8 @@ Un tableur XLSX ou CSV, avec une ligne par client. Il doit arriver prêt à impr
 - **Adresse postale :** numéro, voie, code postal, commune.
 - **Champs de la campagne :** les éléments à personnaliser dans le courrier, par exemple un code promo unique. Voir le [guide création](/retain/direct-mail/design-mailing).
 
+Chaque fichier est rattaché à votre courrier par un code opération unique, fourni au lancement de la campagne. Ce code sert aussi de nom de fichier.
+
 ## Étape 1 : isoler vos churners
 
 Un churner n'ouvre plus vos e-mails et n'achète plus. Croisez deux critères.
@@ -62,7 +64,7 @@ Votre outil n'est pas dans la liste ? Cherchez « exporter un segment » dans so
 
 ## Étape 3 : contrôler le fichier
 
-Vérifiez ces points avant de transmettre le fichier.
+Vérifiez ces points avant de transmettre le fichier. Ils allègent le nettoyage qui suit.
 
 - Les doublons sont retirés : même personne, même adresse.
 - Les lignes sans adresse complète sont écartées.
@@ -75,9 +77,15 @@ Vérifiez ces points avant de transmettre le fichier.
 Votre tableur propose une fonction pour supprimer les doublons. Appliquez-la sur l'adresse complète, pas sur le nom seul.
 :::
 
+**Nettoyage des adresses, systématique.** Avant l'impression, chaque fichier passe par un nettoyage des adresses. Il comprend la mise aux normes postales (cohérence du code postal, de la commune et de la voie), la détection des doublons et celle des personnes qui ont déménagé. Chaque adresse est classée : correcte, corrigée automatiquement, douteuse ou rejetée. L'objectif est de n'imprimer que des courriers distribuables.
+
 ## Étape 4 : transmettre le fichier
 
-Le fichier contient des données personnelles. Ne l'envoyez jamais en pièce jointe d'un e-mail non protégé. Il est transmis par un canal sécurisé à notre partenaire d'impression. Notre équipe vous indique la marche à suivre au lancement de votre campagne.
+Le fichier contient des données personnelles. Ne l'envoyez jamais en pièce jointe d'un e-mail non protégé. getinside vous transmet le lien d'une interface web sécurisée et le nom à donner à votre fichier. Ce nom est votre code opération unique : il rattache le fichier à votre courrier. Déposez votre base depuis cette interface. Une fois déposé, le fichier n'est ni consultable ni téléchargeable, y compris par getinside. Il est supprimé après la production, généralement entre 48 heures et 15 jours après le dépôt.
+
+## Plis non distribués
+
+Les plis non distribués vous reviennent sous forme de fichier CSV, avec l'identifiant du destinataire et le motif de non-distribution. Les premiers retours arrivent quelques jours après le dépôt, et la quasi-totalité environ un mois après. Utilisez ce fichier pour mettre à jour votre base.
 
 ## Respecter les oppositions
 
