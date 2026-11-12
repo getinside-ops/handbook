@@ -11,50 +11,28 @@ keywords:
 
 # Step 1: Email Conception
 
-Once notified of a new campaign, you design the email. The brand whose campaign you deliver provides the substance (the offer), you provide the style (the tone).
-
----
+Once notified of a new campaign, you design the email: the brand whose campaign you deliver provides the offer, you provide the tone.
 
 ## Access the Brief
 
-Log in to [app.getinside.media](https://app.getinside.media/) → **"Campaigns"** tab → select the active campaign. You will find:
-
-- The commercial offer and key arguments
-- Product visuals (logos, HD packshots)
-- The brand's redirection links
-
----
+On [app.getinside.media](https://app.getinside.media/) → **"Campaigns"** tab → active campaign: offer and key arguments, product visuals (logos, HD packshots), the brand's redirection links.
 
 ## Co-branding Strategy
 
-The goal is **native endorsement**: the message must be perceived as a sincere recommendation from you, not as an external advertisement.
+The goal is **native endorsement**: the message must read as a recommendation from you, not as an external ad.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>✅ TO DO: Endorsement</strong>
-    <p>Your subscribers must feel the message comes from you.</p>
-    <ul>
-      <li><strong>Header:</strong> Use your usual header.</li>
-      <li><strong>Editorial:</strong> Write an intro: <em>"Dear customers, here is a favorite..."</em></li>
-      <li><strong>Design:</strong> Integrate the brand's visuals but keep your fonts and buttons.</li>
-    </ul>
-  </div>
-  <div class="gi-value-card">
-    <strong>❌ TO AVOID: Raw ad</strong>
-    <p>Don't turn your newsletter into a billboard.</p>
-    <ul>
-      <li>Do not copy-paste HTML provided by the brand.</li>
-      <li>Do not remove your logo.</li>
-      <li>If the email doesn't look like you, your audience will unsubscribe.</li>
-    </ul>
-  </div>
-</div>
+**Do**
+- Keep your usual header.
+- Write an editorial intro: *"Dear customers, here is a favorite..."*
+- Integrate the brand's visuals with your own fonts and buttons.
 
----
+**Avoid**
+- Copy-pasting HTML provided by the brand.
+- Removing your logo: if the email doesn't look like you, your audience unsubscribes.
 
 ## Campaign Examples
 
-Real renders online (responsive, co-branding, endorsement):
+Real renders online:
 
 | Campaign | Context | Render |
 | :--- | :--- | :--- |
@@ -63,16 +41,10 @@ Real renders online (responsive, co-branding, endorsement):
 | **Les Petits Culottés × Caats** | Kids fashion, Parents/Family audience | [View](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
 | **Yooji × HelloFresh** | Baby food, Young Parents target | [View](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
 
----
-
 ## Option: Studio Delegation
 
 :::info No time to create?
-Delegate to the **getinside Studio**: email creation in your colors, editorial writing, and technical integration.
-
-Contact the team for the terms → [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
+The **getinside Studio** creates the email in your colors, writes the editorial and handles technical integration. Terms: [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
-
----
 
 → [Step 2: Tracking & Sending](./2-tracking-sending)

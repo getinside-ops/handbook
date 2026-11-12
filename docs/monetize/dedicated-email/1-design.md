@@ -11,50 +11,28 @@ keywords:
 
 # Étape 1 : Conception de l'Email
 
-Une fois notifié d'une nouvelle campagne, vous concevez l'email. La marque dont vous diffusez la campagne fournit le fond (l'offre), vous apportez la forme (le ton).
-
----
+Une fois notifié d'une nouvelle campagne, vous concevez l'email : la marque dont vous diffusez la campagne fournit l'offre, vous apportez le ton.
 
 ## Accéder au Brief
 
-Connectez-vous sur [app.getinside.media](https://app.getinside.media/) → onglet **"Campagnes"** → sélectionnez la campagne active. Vous y trouverez :
-
-- L'offre commerciale et les arguments clés
-- Les visuels produits (logos, packshots HD)
-- Les liens de redirection de la marque
-
----
+Sur [app.getinside.media](https://app.getinside.media/) → onglet **"Campagnes"** → campagne active : offre et arguments clés, visuels produits (logos, packshots HD), liens de redirection de la marque.
 
 ## Stratégie de Co-branding
 
-L'objectif est l'**endorsement natif** : le message doit être perçu comme une recommandation sincère de votre part, pas comme une publicité externe.
+L'objectif est l'**endorsement natif** : le message doit passer pour une recommandation de votre part, pas pour une publicité externe.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>✅ À FAIRE : Endorsement</strong>
-    <p>Vos abonnés doivent sentir que le message vient de vous.</p>
-    <ul>
-      <li><strong>Header :</strong> Utilisez votre en-tête habituel.</li>
-      <li><strong>Édito :</strong> Rédigez une intro : <em>"Chers clients, voici un coup de cœur…"</em></li>
-      <li><strong>Design :</strong> Intégrez les visuels de la marque mais gardez vos polices et boutons.</li>
-    </ul>
-  </div>
-  <div class="gi-value-card">
-    <strong>❌ À ÉVITER : Pub brute</strong>
-    <p>Ne transformez pas votre newsletter en panneau publicitaire.</p>
-    <ul>
-      <li>Ne copiez-collez pas un HTML fourni par la marque.</li>
-      <li>Ne supprimez pas votre logo.</li>
-      <li>Si l'email ne vous ressemble pas, votre audience se désabonnera.</li>
-    </ul>
-  </div>
-</div>
+**À faire**
+- Gardez votre en-tête habituel.
+- Rédigez un édito d'introduction : *"Chers clients, voici un coup de cœur…"*
+- Intégrez les visuels de la marque avec vos polices et vos boutons.
 
----
+**À éviter**
+- Copier-coller un HTML fourni par la marque.
+- Supprimer votre logo : si l'email ne vous ressemble pas, votre audience se désabonne.
 
 ## Exemples de campagnes
 
-Des rendus réels en ligne (responsive, co-branding, endorsement) :
+Rendus réels en ligne :
 
 | Campagne | Contexte | Rendu |
 | :--- | :--- | :--- |
@@ -63,16 +41,10 @@ Des rendus réels en ligne (responsive, co-branding, endorsement) :
 | **Les Petits Culottés × Caats** | Mode enfant, audience Parents/Famille | [Voir](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html){target="_blank"} |
 | **Yooji × HelloFresh** | Alimentation bébé, cible Jeunes Parents | [Voir](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html){target="_blank"} |
 
----
-
 ## Option : Délégation Studio
 
 :::info Pas le temps de créer ?
-Déléguez au **Studio getinside** : création de l'email à vos couleurs, rédaction de l'édito et intégration technique.
-
-Contactez l'équipe pour connaître les conditions → [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
+Le **Studio getinside** crée l'email à vos couleurs, rédige l'édito et gère l'intégration technique. Conditions : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::
-
----
 
 → [Étape 2 : Tracking & Envoi](./2-tracking-sending)
