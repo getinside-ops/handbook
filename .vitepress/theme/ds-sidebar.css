@@ -16,7 +16,8 @@
 
 /* Titres de groupe et liens de premier niveau : capitales, icône ou pastille devant */
 .VPSidebarItem.level-0 > .item > .text,
-.VPSidebarItem.level-0 > .item > .link > .text {
+.VPSidebarItem.level-0 > .item > .link > .text,
+.VPSidebarItem .item > .link > .text:has(> .gi-dot, > .gi-nav-ico) { /* liens de premier niveau : VitePress les rend en level-1 */
   display: flex; align-items: center; gap: 0.5rem; font-size: 0.75rem !important; font-weight: 700 !important;
   letter-spacing: 0.04em; text-transform: uppercase; color: var(--color-ink-soft) !important;
 }
