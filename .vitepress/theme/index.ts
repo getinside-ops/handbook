@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import './ds-tokens.css'
+import './ds-markdown.css'
 import { useRoute } from 'vitepress'
 import { h, onMounted } from 'vue'
 import NotFound from './components/NotFound.vue'
