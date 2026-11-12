@@ -3,11 +3,13 @@ import './style.css'
 import { useRoute } from 'vitepress'
 import { h, onMounted } from 'vue'
 import NotFound from './components/NotFound.vue'
+import PrintButton from './components/PrintButton.vue'
 
 export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
     'not-found': () => h(NotFound),
+    'doc-before': () => h(PrintButton),
   }),
   setup() {
     const route = useRoute()

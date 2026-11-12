@@ -15,6 +15,12 @@ image: /images/gi-keyvisual.svg
 
 <p class="gi-page-intro">Win back the customers who no longer open your emails: an addressed piece of mail lands in their mailbox, where they make their buying decisions.</p>
 
+::: tip In short
+- A named piece of direct mail reaches the customers who no longer open your emails. Best observed CVR: 6%.
+- Two levers: direct mail, and a dedicated offer in every parcel you deliver.
+- You choose the audience and the channel, then set up the campaign or hand it over to our team.
+:::
+
 <div class="gi-quick-links">
   <a href="/handbook/en/retain/direct-mail/" class="btn btn-primary">Discover direct mail →</a>
 </div>

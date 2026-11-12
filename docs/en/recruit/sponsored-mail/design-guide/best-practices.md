@@ -11,12 +11,11 @@ keywords:
 
 # Anatomy of a High-Performing Flyer
 
-The [technical specifications](./print-specs) and [legal notices](./legal) make your flyer **compliant**. This page makes it **effective**. A flyer opened 100% of the time but skimmed only converts when every element pushes the reader toward a single action.
+The [technical specifications](./print-specs) and [legal notices](./legal) make your flyer **compliant**. This page makes it **effective**: every element must push the reader toward a single action.
 
 ::: tip In short
 - Readers scan the flyer in a Z: benefit hook, promise, proof, offer, then a single call to action, the QR code, at the bottom right.
 - The front convinces, the back reassures and informs. Keep few elements and a single focal point.
-- Group the legal notices in one compact block (6 pt, 5 pt at minimum). The landing page repeats the offer exactly and loads in under 3 seconds on mobile.
 - Test one variable at a time and refresh the creative about every quarter.
 :::
 
@@ -24,13 +23,13 @@ The [technical specifications](./print-specs) and [legal notices](./legal) make 
 
 ## The message hierarchy
 
-The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-pattern**: top-left, top-right, then diagonally down to the bottom-right. Build your message in that order, from benefit to action.
+The consumer scans your flyer in a **Z**: top-left, top-right, then diagonally down to the bottom-right. Build your message in that order.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Hook: benefit first</h3>
-    <p>The first line answers "what's in it for me?". Not your brand name, not your tagline. "Your beauty routine, gifted in this parcel" before "Discover [Brand]".</p>
+    <p>Answer "what's in it for me?", not "who are you?". "Your beauty routine, gifted in this parcel".</p>
   </div>
 </div>
 
@@ -38,7 +37,7 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Promise: what the offer contains</h3>
-    <p>State the concrete value: "€10 off your first order", not "exclusive benefits".</p>
+    <p>The concrete value: "€10 off your first order", not "exclusive benefits".</p>
   </div>
 </div>
 
@@ -46,7 +45,7 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Proof: the reassurance</h3>
-    <p>One element that removes doubt: a customer rating, a number, a guarantee, the name of the delivering brand. A single line is enough.</p>
+    <p>A single line that removes doubt: customer rating, a number, a guarantee or the delivering brand's name.</p>
   </div>
 </div>
 
@@ -54,7 +53,7 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
     <h3>Offer: the key conditions</h3>
-    <p>Promo code, amount, validity period. See <a href="./">The Offer</a> for strategy and <a href="./legal">the legal notices</a> for requirements.</p>
+    <p>Promo code, amount, validity. See <a href="./">The Offer</a> and <a href="./legal">the legal notices</a>.</p>
   </div>
 </div>
 
@@ -62,129 +61,85 @@ The consumer doesn't read your flyer, they scan it. Their eye follows a **Z-patt
   <div class="gi-step-num done">5</div>
   <div class="gi-step-body">
     <h3>Call to action: only one</h3>
-    <p>The QR code and its instruction, bottom-right, at the end of the reading path. One dominant action, never two competing.</p>
+    <p>The QR code and its instruction, bottom-right, at the end of the reading path.</p>
   </div>
 </div>
 
 :::tip Word budget
-Aim for brevity: the key message should fit in the **top 60%** of the flyer and be understood at a glance. Every extra word slows the scan. If you hesitate to cut a sentence, cut it.
+The key message fits in the **top 60%** of the flyer and is understood at a glance. When in doubt, cut.
 :::
 
 ---
 
 ## Front / back map
 
-A flyer has two faces: use them to separate persuasion from information.
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Front: persuade</strong>
-    <p>Benefit hook · strong visual · offer · QR code + instruction. This is the face that triggers the scan.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Back: reassure & inform</strong>
-    <p>Offer details · conditions (T&Cs) · <a href="./legal">mandatory legal notices</a> · environmental logos. Everything that must appear without cluttering the front.</p>
-  </div>
-</div>
-
+- **Front: persuade.** Benefit hook, strong visual, offer, QR code + instruction.
+- **Back: reassure and inform.** Offer details, T&Cs, [legal notices](./legal), environmental logos.
 
 :::tip An insert has no "front"
-Inside a parcel, the flyer may be read **back side first**. Good practice: show the offer in large type on both faces, with a QR code on each (not mandatory, but it avoids losing the scan). The back headline doesn't repeat the front one: it talks about something else (a season, a time of year).
+Inside a parcel, the flyer may be read **back side first**: show the offer in large type on both faces, with a QR code on each (optional). The back headline talks about something else than the front one (a season, a time of year).
 :::
 
 ---
 
 ## Layout: one idea, few elements
 
-- **One element dominates each face**, then three reading levels at most (headline, offer, details). Two sizes that are too close make one level: leave about **1.5×** between two sizes, or change the weight or colour.
-- **Few elements, plenty of air.** A large headline addressed to the reader, 2 to 4 lines of warm copy, then the offer.
-- **Spacing follows grouping:** tight inside a group, clearly wider between two groups. A heading sits closer to its own content than to what precedes it.
-- **Neighbouring elements line up:** two blocks in the corners of the same edge share a height, two amounts side by side share a baseline.
-- **Start from an idea, not a template:** before laying out, one sentence says what the flyer shows. If you can't write it, the result will look like every other one.
+- **One element dominates each face**, three reading levels at most (headline, offer, details), with about **1.5×** between two sizes (or a different weight or colour).
+- **Few elements, plenty of air:** a large headline, 2 to 4 lines of warm copy, then the offer.
+- **Spacing and alignment:** tight inside a group, wider between groups; neighbouring elements line up.
+- **Start from an idea, not a template:** one sentence says what the flyer shows.
 
 ---
 
-## Photos and text
+## Photos, text and typography
 
-- **Text on photos:** a few anchored elements (headline, offer, logo in the corners), not text scattered over a busy image. A light dark fade at the photo's edges helps reading.
-- **The squint test:** blur the face (or squint). The headline and offer must stay readable.
-- **Faces and product:** keep them free of any text or block laid over the photo. Text on a face looks careless, a block over the product hides what you sell.
-- **Two photos:** either they meet in a clean cut (a thin 1 mm line in a light brand colour), or they stand as two separate images. Never fade one into the other.
-- **Bright accent colour:** keep it for short text on images, not as the fill of a block.
-- **Full bleed:** a photo or background pattern extends to the bleed edge on all four sides.
+- **Text on photos:** a few anchored elements (headline, offer, logo), never over a face or the product; bright accent colour reserved for short text. Test: squint, the headline and offer stay readable.
+- **Two photos:** a clean cut (1 mm line) or two separate images, never a fade. Full-bleed backgrounds extend to the bleed edge.
+- **Small text:** one style, the brand's dark colour, never light on a mid-tone or in the accent colour. Legal notices grouped in one compact block, size **6 pt** (**5 pt** minimum).
+- **Lines:** under 65 characters, neither justified nor in capitals.
+- **Same word everywhere:** a code or amount keeps the same name on both faces. A step never refers to another by its number.
 
----
-
-## Small text and typography
-
-- **One style for all small text**, in the brand's dark colour (or light on a dark ground). Never white or light on a mid-tone colour, never in the accent colour: contrast becomes insufficient.
-- **Legal notices grouped** in one compact block at the bottom of the face, on the face's own ground (no band of another colour). Size **6 pt**, **5 pt minimum** to stay legible in offset print.
-- **French typography** (for French-language flyers):
-  - non-breaking space before `:` `;` `!` `?` and inside numbers (1 200 €);
-  - curly apostrophes;
-  - 1<sup>re</sup>, 2<sup>e</sup> (never "1ère", "2ème");
-  - a true minus sign (−) before a number;
-  - a brand name is never split across lines.
-- **Numbered steps:** numerals in the brand colour (no small white numbers in dots), left-aligned. A step never refers to another by its number ("in the promo code field", not "in step 2").
-- **Same word everywhere:** a code or amount keeps the same name on both faces ("promo code", not "promo code" on one side and "personal code" on the other).
-- **Line length:** under 65 characters per line of body text, neither justified nor in capitals.
+::: details French typography (for French-language flyers)
+- Non-breaking space before `:` `;` `!` `?` and inside numbers (1 200 €).
+- Curly apostrophes, 1<sup>re</sup> and 2<sup>e</sup> (never "1ère"), a true minus sign (−).
+- A brand name is never split across lines.
+- Numbered steps: numerals in the brand colour, left-aligned, no white dots.
+:::
 
 ---
 
 ## Figures, proof and promises
 
-A figure (a result, a rating, a number of reviews) is printed only **with its source**, as a note in the legal block (for example "* Statistic based on over 5,000 customers over 3 years"), and only if your site or data provides it. An unsourced figure is a legal risk for your brand.
-
-Also avoid superlatives without a fact ("the best", "everything included" without saying what): a precise promise converts better than a general one.
+A figure (a result, a rating, reviews) is printed only **with its source**, as a note in the legal block ("* Statistic based on over 5,000 customers over 3 years"), and only if your data provides it: unsourced, it is a legal risk. Also avoid superlatives without a fact: a precise promise converts better.
 
 ---
 
 ## What to avoid
 
-- Decoration that carries no information: a coloured stripe on the side of a text block, an icon above a heading, gradient text, a glow, a heavy shadow.
-- Boxes by reflex: only the promo code block and what your brief asks for get a frame. No box inside a box, no row of identical cards.
-- A label that repeats the headline below it.
-- More than two font families (besides an optional script); fonts outside the brand's guidelines.
-- A headline or paragraph ending with a single word on its last line.
-- More than one em dash on the whole flyer.
+- Decoration with no information: coloured stripe, icon above a heading, gradient text, glow, heavy shadow.
+- Boxes by reflex: only the promo code and what your brief asks for get a frame.
+- More than two font families, or fonts outside the brand's guidelines.
+- A label that repeats the headline, a paragraph ending on a single word, more than one em dash.
 
 ---
 
 ## The 3-second test
 
-Before submitting your proof (BAT), hold the flyer at arm's length and check:
-
-- The **hook** is readable effortlessly, at normal reading distance.
-- A **single focal point** catches the eye, not three elements fighting for attention.
-- The **text/background contrast** is strong (avoid light text over a photo).
-- The **action** to take is obvious: you know what to scan and why.
-
-If any of these fails, the flyer won't survive the 3 seconds of unboxing.
+Before the proof (BAT), hold the flyer at arm's length: the **hook** reads effortlessly, a **single focal point** catches the eye, the **contrast** is strong, the **action** is obvious. If one fails, the flyer won't survive the 3 seconds of unboxing.
 
 ---
 
 ## The post-scan landing page
 
-The scan is only half the journey. The page that loads decides the conversion.
+The page that loads decides the conversion: it **mirrors the flyer offer exactly**, is dedicated to the campaign (never the homepage), has a single action and loads in under 3 seconds on mobile. The reference rules are in [Mobile First](./index#mobile-first).
 
-| Criterion | Rule |
-| :--- | :--- |
-| **Consistency** | The page **mirrors the flyer offer exactly**. The flyer promises "€10 off" → the page shows "€10 off" immediately, not after a pop-up. |
-| **Destination** | A campaign-specific page (**never the homepage**). Every extra click between the scan and the offer drops conversion. |
-| **A single action** | One goal, one button. Remove everything that distracts. |
-| **Speed & mobile** | 100% responsive, loads in **under 3 seconds** even on 3G. Scans always happen on a smartphone. |
-
-:::info Dynamic QR code: an asset for the landing page
-Since the URL is not embedded in the pattern, you can fix or evolve the landing page **after printing** from the platform, without reprinting. Use this to adjust a page that underperforms.
-:::
+Since the QR code is dynamic, fix the page **after printing** from the platform, without reprinting.
 
 ---
 
 ## Measurement & iteration
 
-Every campaign should make the next one better. The tracking system is already in the flyer, so use it.
-
-- **Track:** a unique promo code per delivering brand (offline attribution) and UTM parameters on the URL (Google Analytics tracking, see [Tracking & Measurement](/en/recruit/analytics)). QR scans appear in real time in your workspace.
-- **Test one variable:** change the hook, OR the offer, OR the landing page. Never all three at once. Otherwise you'll never know what made the difference.
-- **Follow the right loop:** scan → conversion → repeat purchase. A high scan rate with few conversions points to the offer or the landing page, not the flyer.
-- **Refresh regularly:** renew creative and offer roughly every quarter. A static flyer loses impact as the delivering brand's audience keeps seeing it.
+- **Track:** a unique promo code per delivering brand and UTM on the URL ([Tracking & Measurement](/en/recruit/analytics)); QR scans in real time in your workspace.
+- **Test one variable:** hook, offer OR landing page, never all three.
+- **Follow the loop:** scan, conversion, repeat purchase. Many scans and few conversions point to the offer or landing page.
+- **Refresh:** renew creative and offer roughly every quarter.

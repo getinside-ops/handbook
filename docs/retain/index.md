@@ -15,6 +15,12 @@ image: /images/gi-keyvisual.svg
 
 <p class="gi-page-intro">Retrouvez les clients qui n'ouvrent plus vos e-mails : un courrier adressé nommément arrive dans leur boîte aux lettres, là où ils prennent leurs décisions d'achat.</p>
 
+::: tip En bref
+- Un courrier adressé nommément atteint les clients qui n'ouvrent plus vos e-mails. Top CVR constaté : 6 %.
+- Deux leviers : le courrier adressé, et une offre dédiée dans chaque colis livré.
+- Vous choisissez l'audience et le canal, puis configurez la campagne ou la confiez à notre équipe.
+:::
+
 <div class="gi-quick-links">
   <a href="/handbook/retain/direct-mail/" class="btn btn-primary">Découvrir le courrier adressé →</a>
 </div>
