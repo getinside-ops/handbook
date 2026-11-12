@@ -41,46 +41,30 @@ Vos canaux digitaux saturent, vos coûts d'acquisition montent, vos clients ne v
   </div>
 </div>
 
+<GiSchema caption="Une campagne, du brief à la livraison." muted>
+<GiFlow :steps="[
+  { label: 'Votre marque', ours: true },
+  { label: 'Colis ou courrier adressé', picto: '/images/ds/picto-colis.webp' },
+  { label: 'Un client touché' }
+]" />
+</GiSchema>
+
 ## Trois usages
 
-<div class="gi-format-grid">
-  <a href="/handbook/recruit/" class="gi-format-card">
-    <span class="gi-format-card-icon">🎯</span>
-    <span class="gi-format-card-title">Recruter</span>
-    <p class="gi-format-card-desc">Touchez vos futurs clients à travers les marques qu'ils consomment déjà, avec un budget média ou en échange.</p>
-  </a>
-  <a href="/handbook/retain/direct-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">💌</span>
-    <span class="gi-format-card-title">Fidéliser</span>
-    <p class="gi-format-card-desc">Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails.</p>
-  </a>
-  <a href="/handbook/monetize/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Monétiser</span>
-    <p class="gi-format-card-desc">Délivrez les campagnes de partenaires et financez votre acquisition.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/recruit/" tone="brand" title="Recruter" desc="Touchez vos futurs clients à travers les marques qu'ils consomment déjà, avec un budget média ou en échange." image="/images/ds/levier-recruter.webp" image-alt="Illustration du levier Recruter" />
+<GiLinkCard href="/retain/direct-mail/" tone="teal" title="Fidéliser" desc="Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails." image="/images/ds/levier-fideliser.webp" image-alt="Illustration du levier Fidéliser" />
+<GiLinkCard href="/monetize/" tone="lilac" title="Monétiser" desc="Délivrez les campagnes de partenaires et financez votre acquisition." image="/images/ds/levier-monetiser.webp" image-alt="Illustration du levier Monétiser" />
 </div>
 
 L'échange n'est pas un quatrième usage : c'est une manière de recruter sans achat média.
 
 ## Trois canaux
 
-<div class="gi-format-grid">
-  <a href="/handbook/recruit/sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Insertion colis</span>
-    <p class="gi-format-card-desc">Un support inséré dans le colis du client.</p>
-  </a>
-  <a href="/handbook/retain/direct-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">✉️</span>
-    <span class="gi-format-card-title">Courrier adressé</span>
-    <p class="gi-format-card-desc">Un courrier nominatif dans la boîte aux lettres.</p>
-  </a>
-  <a href="/handbook/recruit/sampling/" class="gi-format-card">
-    <span class="gi-format-card-icon">🧴</span>
-    <span class="gi-format-card-title">Échantillonnage</span>
-    <p class="gi-format-card-desc">Faites tester, sentir ou toucher votre produit.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/recruit/sponsored-mail/" tone="brand" title="Insertion colis" desc="Un support inséré dans le colis du client." image="/images/ds/canal-colis.webp" image-alt="Illustration d'un colis avec un support inséré" />
+<GiLinkCard href="/retain/direct-mail/" tone="teal" title="Courrier adressé" desc="Un courrier nominatif dans la boîte aux lettres." image="/images/ds/canal-courrier.webp" image-alt="Illustration d'un courrier adressé" />
+<GiLinkCard href="/recruit/sampling/" tone="lilac" title="Échantillonnage" desc="Faites tester, sentir ou toucher votre produit." image="/images/ds/canal-echantillon-qr.webp" image-alt="Illustration d'un échantillon avec un QR code" />
 </div>
 
 ## Une solution tout-en-un

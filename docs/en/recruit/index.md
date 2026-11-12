@@ -21,6 +21,14 @@ image: /images/gi-keyvisual.svg
 - Channels: parcel inserts, sampling, and other formats (email, social, bundles).
 :::
 
+<GiSchema caption="Your campaign travels in another brand's parcel.">
+<GiFlow :steps="[
+  { label: 'Your brand', ours: true },
+  { label: 'Another brand\'s parcel', picto: '/images/ds/picto-colis.webp' },
+  { label: 'A new customer' }
+]" />
+</GiSchema>
+
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create a campaign →</a>
 </div>
@@ -42,17 +50,9 @@ Customers who no longer open your emails? Discover [direct mail](/en/retain/dire
 
 ## Distribution channels
 
-<div class="gi-format-grid">
-  <a href="sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Parcel inserts</span>
-    <p class="gi-format-card-desc">A printed piece placed in the customer's parcel or handed over with their order.</p>
-  </a>
-  <a href="sampling/" class="gi-format-card">
-    <span class="gi-format-card-icon">🧴</span>
-    <span class="gi-format-card-title">Sampling</span>
-    <p class="gi-format-card-desc">A free sample so people can try, smell or touch your product.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/en/recruit/sponsored-mail/" tone="brand" title="Parcel inserts" desc="A printed piece placed in the customer's parcel or handed over with their order." image="/images/ds/canal-colis.webp" image-alt="Illustration of a parcel with an insert" />
+<GiLinkCard href="/en/recruit/sampling/" tone="lilac" title="Sampling" desc="A free sample so people can try, smell or touch your product." image="/images/ds/canal-echantillon-qr.webp" image-alt="Illustration of a sample with a QR code" />
 </div>
 
 ## Other formats

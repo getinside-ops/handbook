@@ -21,6 +21,14 @@ image: /images/gi-keyvisual.svg
 - Canaux : insertion colis, échantillonnage, et d'autres formats (e-mail, social, bundles).
 :::
 
+<GiSchema caption="Votre campagne voyage dans le colis d'une autre marque.">
+<GiFlow :steps="[
+  { label: 'Votre marque', ours: true },
+  { label: 'Colis d\'une autre marque', picto: '/images/ds/picto-colis.webp' },
+  { label: 'Un nouveau client' }
+]" />
+</GiSchema>
+
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Créer une campagne →</a>
 </div>
@@ -42,17 +50,9 @@ Vos clients n'ouvrent plus vos e-mails ? Découvrez le [courrier adressé](/reta
 
 ## Canaux de diffusion
 
-<div class="gi-format-grid">
-  <a href="sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Insertion colis</span>
-    <p class="gi-format-card-desc">Un support inséré dans le colis du client ou emporté avec sa commande.</p>
-  </a>
-  <a href="sampling/" class="gi-format-card">
-    <span class="gi-format-card-icon">🧴</span>
-    <span class="gi-format-card-title">Échantillonnage</span>
-    <p class="gi-format-card-desc">Un échantillon offert pour faire tester, sentir ou toucher votre produit.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/recruit/sponsored-mail/" tone="brand" title="Insertion colis" desc="Un support inséré dans le colis du client ou emporté avec sa commande." image="/images/ds/canal-colis.webp" image-alt="Illustration d'un colis avec un support inséré" />
+<GiLinkCard href="/recruit/sampling/" tone="lilac" title="Échantillonnage" desc="Un échantillon offert pour faire tester, sentir ou toucher votre produit." image="/images/ds/canal-echantillon-qr.webp" image-alt="Illustration d'un échantillon avec un QR code" />
 </div>
 
 ## Autres formats

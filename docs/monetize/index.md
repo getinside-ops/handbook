@@ -22,6 +22,14 @@ image: /images/gi-keyvisual.svg
 - Vous pouvez aussi échanger vos audiences avec d'autres marques, sans achat média.
 :::
 
+<GiSchema caption="Vous diffusez les campagnes d'autres marques dans vos colis.">
+<GiFlow :steps="[
+  { label: 'Campagne d\'une autre marque' },
+  { label: 'Votre colis', ours: true, picto: '/images/ds/picto-colis.webp' },
+  { label: 'Un revenu pour votre marque' }
+]" />
+</GiSchema>
+
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Accéder à mon espace →</a>
 </div>
@@ -86,12 +94,8 @@ image: /images/gi-keyvisual.svg
 
 ## Canal & opérations
 
-<div class="gi-format-grid">
-  <a href="sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Insertion colis</span>
-    <p class="gi-format-card-desc">Réception, insertion et déclaration hebdomadaire.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/monetize/sponsored-mail/" tone="brand" title="Insertion colis" desc="Réception, insertion et déclaration hebdomadaire." image="/images/ds/canal-colis.webp" image-alt="Illustration d'un colis avec un support inséré" />
 </div>
 
 ## Autres formats

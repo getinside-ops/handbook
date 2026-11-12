@@ -22,6 +22,14 @@ image: /images/gi-keyvisual.svg
 - You can also exchange your audiences with other brands, with no media buying.
 :::
 
+<GiSchema caption="You deliver other brands' campaigns in your parcels.">
+<GiFlow :steps="[
+  { label: 'Another brand\'s campaign' },
+  { label: 'Your parcel', ours: true, picto: '/images/ds/picto-colis.webp' },
+  { label: 'Revenue for your brand' }
+]" />
+</GiSchema>
+
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Go to my workspace →</a>
 </div>
@@ -86,12 +94,8 @@ image: /images/gi-keyvisual.svg
 
 ## Channel & operations
 
-<div class="gi-format-grid">
-  <a href="sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Parcel inserts</span>
-    <p class="gi-format-card-desc">Reception, insertion and weekly declaration.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/en/monetize/sponsored-mail/" tone="brand" title="Parcel inserts" desc="Reception, insertion and weekly declaration." image="/images/ds/canal-colis.webp" image-alt="Illustration of a parcel with an insert" />
 </div>
 
 ## Other formats
