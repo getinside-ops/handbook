@@ -15,12 +15,14 @@ import GiSchema from './components/GiSchema.vue'
 import GiFlow from './components/GiFlow.vue'
 import GiPelican from './components/GiPelican.vue'
 import GiIcon from './components/GiIcon.vue'
+import GiSidebarHead from './components/GiSidebarHead.vue'
 
 export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
     'not-found': () => h(NotFound),
     'doc-before': () => h(PrintButton),
+    'sidebar-nav-before': () => h(GiSidebarHead),
   }),
   enhanceApp({ app }) {
     app.component('GiHero', GiHero)
