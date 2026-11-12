@@ -12,84 +12,26 @@ keywords:
 
 # Emailing Dédié
 
-Valorisez vos créneaux d'envoi libres en diffusant des campagnes dédiées pour le compte de marques partenaires. C'est le format le plus rémunérateur du catalogue : un envoi unique, conçu dans votre charte, qui recommande une marque à un segment de votre base (endorsement).
-
-Vous restez maître de l'éditorial. Vous choisissez les marques qui s'adressent à vos abonnés, vous produisez l'email dans votre identité visuelle et vous décidez du segment ciblé.
-
-::: tip Vous voulez faire diffuser votre campagne ?
-Vous souhaitez recruter via l'emailing d'autres marques ? Consultez le [guide Emailing Dédié pour Recruter](/recruit/dedicated-email/).
+::: tip En bref
+- Un envoi unique, conçu dans votre charte, recommande une marque partenaire à un segment de votre base (endorsement). C'est le format le plus rémunérateur du catalogue.
+- Vous choisissez les marques, produisez l'email dans votre identité visuelle et décidez du segment ciblé.
+- getinside fournit les assets et le tracking, et le paiement est garanti.
 :::
 
-<div>
-  <a href="1-design" class="btn btn-primary">Voir le Guide de Création</a>
-</div>
+Vous voulez plutôt faire diffuser votre campagne ? Consultez le [guide Emailing Dédié pour Recruter](/recruit/dedicated-email/).
 
----
+## Vos inventaires monétisables
 
-## Vos Inventaires Monétisables
+| Campagne | Principe | Atout |
+| :--- | :--- | :--- |
+| **Blast (Newsletter)** | Email dédié à tout ou partie de votre base active | Volume fort |
+| **Post-Purchase** | Email dédié envoyé automatiquement après une commande | Taux d'ouverture > 50 % |
+| **Welcome Pack** | Présentation d'un partenaire dans la séquence de bienvenue | Fidélisation |
 
-Vous pouvez proposer 3 types de campagnes dédiées :
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📢 Blast (Newsletter)</strong>
-    <p>Vous envoyez un email dédié à tout ou partie de votre base active.</p>
-    <Badge type="tip" text="Volume Fort" />
-  </div>
-  <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase</strong>
-    <p>Un email dédié envoyé automatiquement après une commande.</p>
-    <Badge type="tip" text="TO > 50%" />
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Pack</strong>
-    <p>Présentation d'un partenaire dans la séquence de bienvenue.</p>
-    <Badge type="tip" text="Fidélisation" />
-  </div>
-</div>
+Vous validez chaque marque avant diffusion.
 
 ## Les étapes
 
-<div class="gi-nav-list">
-  <a href="1-design" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🎨</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">1. Création & Design</p>
-      <p class="gi-nav-card-desc">Récupération des assets de la marque, stratégie d'endorsement natif et exemples.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-  <a href="exclusion-list" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🚫</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Listes d'exclusion</p>
-      <p class="gi-nav-card-desc">Configurer votre endpoint pour recevoir et appliquer les exclusions de la marque avant l'envoi.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-  <a href="2-tracking-sending" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🚀</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">2. Tracking & Envoi</p>
-      <p class="gi-nav-card-desc">Pixel d'ouverture, liens trackés gtinsi.de, BAT par email et validation finale.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-</div>
-
-## Pourquoi l'activer
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>💰 Le format le plus rémunérateur</strong>
-    <p>Un email dédié est mieux valorisé qu'un simple encart. Rentabilisez vos créneaux d'envoi libres ou vos emails transactionnels.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Qualité & Sécurité</strong>
-    <p>Vous validez chaque marque avant diffusion. Nous fournissons les assets et le tracking clé en main. Le paiement est garanti.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🎛️ Vous gardez la main</strong>
-    <p>Choix des marques, charte graphique, segment ciblé : tout reste sous votre contrôle, sans compromettre votre relation avec vos abonnés.</p>
-  </div>
-</div>
+1. [Création & Design](/monetize/dedicated-email/1-design) : assets de la marque, endorsement natif, exemples.
+2. [Listes d'exclusion](/monetize/dedicated-email/exclusion-list) : configurer votre endpoint pour appliquer les exclusions de la marque avant l'envoi.
+3. [Tracking & Envoi](/monetize/dedicated-email/2-tracking-sending) : pixel d'ouverture, liens trackés gtinsi.de, BAT par email et validation finale.
