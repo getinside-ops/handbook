@@ -1646,6 +1646,7 @@ h4+.gi-cert-row {
   .VPSidebar,
   .VPDocFooter,
   .VPLocalNav,
+  .VPDocAside,
   .gi-print-btn,
   .vp-doc .header-anchor {
     display: none !important;
