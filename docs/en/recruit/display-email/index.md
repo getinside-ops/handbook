@@ -12,95 +12,41 @@ keywords:
 
 # Newsletter Insert (Display Email)
 
-Insert an advertising banner within a partner's communications. An effective and non-intrusive awareness format: you only provide an image and a link.
+Insert a banner within a partner's communications: you only provide an image and a link.
 
----
-
-## Where to broadcast your banner?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📢 Blast (editorial newsletter)</strong>
-    <p>Your banner is inserted into the partner's weekly newsletter. Header or core content placement.</p>
-    <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Awareness" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase (Transac)</strong>
-    <p>Your banner appears in the order or delivery confirmation email. Open rate <strong>> 60%</strong>.</p>
-    <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="Max OR" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Email</strong>
-    <p>Presence in the welcome email for new subscribers. First contact in a moment of high attention.</p>
-    <p><Badge type="warning" text="Engagement" /> <Badge type="warning" text="Acquisition" /></p>
-  </div>
-</div>
-
----
-
-## Why choose this format?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>⚡ Simplicity of production</strong>
-    <p>Unlike dedicated email, you only provide an image (JPG/PNG/GIF) and a link. No HTML to code, no elaborate creative brief.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🚀 Live in 48 hours</strong>
-    <p>From submitting your banner to going live: 48 hours. Ideal for seasonal offers or short-notice launches.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Non-intrusive and brand safe</strong>
-    <p>Your brand is inserted into content that the subscriber expects, in a closed environment endorsed by the brand delivering your campaign, the opposite of open web programmatic display.</p>
-  </div>
-</div>
-
----
-
-## Ideal use cases
-
-- **Flash or seasonal offer**: Black Friday, sales, holidays. Go live in 48 hours, with no print constraints.
-- **Product launch**: introduce something new to a qualified audience, quickly.
-- **Test campaign**: a light format to test a message or an audience before a heavier one.
+::: tip In short
+- An image (JPG/PNG/GIF) and a link are enough: no HTML, no elaborate creative brief.
+- Live 48 hours after you submit the banner.
+- Closed, brand-safe environment endorsed by the brand delivering your campaign.
+:::
 
 ::: tip Do you deliver other brands' campaigns to your customers?
 See the [Newsletter Insert guide on the Monetize side](/en/monetize/display-email/).
 :::
 
----
+## Where to broadcast your banner
 
-## Performance
-
-| Scenario | Open rate | Note |
+| Placement | Principle | Open rate |
 | :--- | :--- | :--- |
-| **Post-Purchase** | > 60% | Most premium placement |
-| **Welcome Email** | High | Moment of maximum attention |
-| **Blast (Newsletter)** | Variable | Depends on the database and sector |
+| **Blast (editorial newsletter)** | Partner's weekly newsletter, in the header or core content | Variable (database and sector) |
+| **Post-Purchase (transac)** | Order or delivery confirmation email, most premium placement | > 60% |
+| **Welcome Email** | Welcome email for new subscribers, moment of maximum attention | High |
+
+## Use cases
+
+- **Flash or seasonal offer:** Black Friday, sales, holidays, with no print constraints.
+- **Product launch:** introduce something new to a qualified audience.
+- **Test campaign:** test a message or an audience before a heavier format.
 
 :::info Tracking: clicks only
-For this format, there is **no open pixel**: only clicks are counted (tracked link `gtinsi.de`). Add UTM parameters to your final URL to measure traffic in Google Analytics.
+There is **no open pixel**: only clicks are counted (tracked link `gtinsi.de`). Add UTM parameters to your final URL to measure traffic in Google Analytics.
 :::
 
----
-
-## Why go through getinside?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🌐 Unified inventory</strong>
-    <p>Partners accessible via a single platform. No need to negotiate individually with each media or brand.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Brand safety and context</strong>
-    <p>Your brand appears in a closed, safe environment endorsed by the brand delivering your campaign: no bad contextual surprises, unlike programmatic display.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📊 Centralized tracking</strong>
-    <p>Tracking links generated and standardized for all your campaigns. Track clicks from 10 different newsletters on a single dashboard.</p>
-  </div>
-</div>
-
----
+::: details Why go through getinside?
+- Unified inventory: several partners through a single platform, no individual negotiation.
+- Brand safety: closed environment, the opposite of programmatic display.
+- Centralized tracking: clicks from several newsletters on a single dashboard.
+:::
 
 - [📋 Campaign Workflow](./workflow): steps from submission to broadcast.
 - [📐 Banner Specifications](./specs): formats, weight and creative best practices.
