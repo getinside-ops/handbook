@@ -13,19 +13,22 @@ image: /images/gi-keyvisual.svg
 
 # Concevoir votre courrier adressé
 
-Le studio getinside crée votre courrier par défaut, en une ou plusieurs versions. Cette page explique ce que contient votre brief, et comment créer vous-même votre visuel.
+::: tip En bref
+- Par défaut, le studio getinside crée votre courrier à partir de votre brief.
+- Format A5 sous enveloppe blanche. Chaque champ personnalisé correspond à une colonne de votre fichier.
+- QR code et code promo uniques : optionnels, ils donnent un suivi par client.
+:::
 
 ## Confier la création au studio
 
-Transmettez un brief au studio : l'offre, le code promo, la cible et vos éléments de marque (logo, couleurs, polices). Il réalise le ou les visuels, configure les champs personnalisés et prépare le BAT de chaque version. Il paramètre aussi le modèle de mailing auquel votre fichier est rattaché par un code opération unique. Écrivez à [studio@getinside.fr](mailto:studio@getinside.fr).
+Transmettez un brief : l'offre, le code promo, la cible et vos éléments de marque (logo, couleurs, polices). Le studio réalise les visuels, configure les champs, prépare le BAT de chaque version et paramètre le modèle de mailing, rattaché à votre fichier par un code opération unique. Écrivez à [studio@getinside.fr](mailto:studio@getinside.fr).
 
 ## Créer vous-même
 
-### Le format
-
-- **Format :** A5, 148 × 210 mm, papier 250 g/m², sous enveloppe blanche sans fenêtre. L'adresse est imprimée sur l'enveloppe.
-- **Papier, couleurs, QR code :** voir les [spécifications techniques](/recruit/sponsored-mail/design-guide/print-specs).
-- **Message et mise en page :** voir l'[anatomie d'un flyer performant](/recruit/sponsored-mail/design-guide/best-practices).
+- **Format :** A5, 148 × 210 mm, papier 250 g/m², enveloppe blanche sans fenêtre, adresse imprimée dessus. Autres formats, enveloppe à vos couleurs : sur devis.
+- **Spécifications :** [papier, couleurs, QR code](/recruit/sponsored-mail/design-guide/print-specs).
+- **Message et mise en page :** [anatomie d'un flyer performant](/recruit/sponsored-mail/design-guide/best-practices).
+- **Page d'arrivée du QR code :** [landing page post-scan](/recruit/sponsored-mail/design-guide/best-practices#la-landing-page-post-scan), rapide et adaptée au mobile.
 
 ### Configurer les champs personnalisés
 
@@ -34,58 +37,34 @@ Chaque élément personnalisé du visuel correspond à une colonne de votre fich
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Listez vos champs</h3>
-    <p>Prénom, nom, et chaque élément propre à votre campagne, par exemple le nom d'un animal.</p>
+    <h3>Listez et nommez vos champs</h3>
+    <p>Prénom, nom, et chaque élément propre à la campagne. Une colonne claire et unique par champ, avec le même nom dans le fichier et dans le visuel.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Nommez vos colonnes</h3>
-    <p>Donnez à chaque colonne un nom clair et unique. Gardez le même nom dans le fichier et dans le visuel.</p>
-  </div>
-</div>
-
-<div class="gi-step">
-  <div class="gi-step-num">3</div>
-  <div class="gi-step-body">
-    <h3>Placez les champs dans le visuel</h3>
+    <h3>Placez-les dans le visuel</h3>
     <p>Prévoyez la place du prénom le plus long et vérifiez le rendu d'un champ vide.</p>
   </div>
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num done">4</div>
+  <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>Testez sur des cas réels</h3>
-    <p>Contrôlez des lignes de votre fichier : prénom long, champ vide, accents.</p>
+    <p>Prénom long, champ vide, accents. Pour le paramétrage technique, contactez le studio.</p>
   </div>
 </div>
 
-Pour le paramétrage technique, contactez le studio.
-
 ### QR code et code promo uniques
 
-Ces deux options donnent un suivi par client. Elles ne sont pas obligatoires.
-
-- **QR code unique :** chaque destinataire reçoit son propre QR code. getinside crée la liste des URL uniques. Vous ne générez pas vous-même les QR codes.
-- **Code promo unique :** vous créez un code par destinataire dans votre boutique ou votre CRM, puis vous les ajoutez au fichier dans une colonne dédiée. getinside ne les génère pas. Créez-les avant de transmettre le fichier.
-
-::: tip Codes en masse
-Beaucoup d'outils e-commerce génèrent des codes en masse. Consultez l'aide de votre outil.
-:::
-
-### La page d'arrivée du QR code
-
-Le scan mène à une page dédiée à la campagne, rapide et adaptée au mobile. Voir la [landing page post-scan](/recruit/sponsored-mail/design-guide/best-practices#la-landing-page-post-scan).
+- **QR code unique :** un QR code par destinataire. getinside crée la liste des URL uniques, vous ne générez pas les QR codes.
+- **Code promo unique :** vous créez un code par destinataire dans votre boutique ou votre CRM (beaucoup d'outils le font en masse), puis vous les ajoutez au fichier dans une colonne dédiée, avant de le transmettre. getinside ne les génère pas.
 
 ### Valider le BAT
 
-Avant l'impression, vérifiez le BAT sur de vraies lignes de votre fichier : adresse, prénom, code promo. Scannez le QR code et contrôlez la page qui s'affiche.
-
-## Sur devis
-
-Une enveloppe aux couleurs de votre marque, une carte postale sans enveloppe ou un autre format se commandent sur devis.
+Vérifiez le BAT sur de vraies lignes de votre fichier : adresse, prénom, code promo. Scannez le QR code et contrôlez la page affichée.
 
 **Retour :** [préparer votre fichier](/retain/direct-mail/prepare-file) ou la page [Courrier adressé](/retain/direct-mail/).
