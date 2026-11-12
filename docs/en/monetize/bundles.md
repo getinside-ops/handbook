@@ -11,15 +11,19 @@ keywords:
 
 # Selling Bundles
 
-A Bundle is a scripted campaign that combines several of your inventories (parcel inserts, email, social, banners) into a single operation. You run a partner brand's campaign for your customers across several channels at once. This adds value to spaces that are hard to sell alone, because you pair them with your best inventory, and it increases your average revenue per campaign.
+A Bundle combines several of your inventories (parcel inserts, email, social, banners) into a single operation for a partner brand.
+
+::: tip In short
+- You add value to spaces that are hard to sell alone by pairing them with your best inventory.
+- You define a standard pack, getinside lists it in the catalog.
+- Only participants who ticked the partner opt-in are passed on to the brand.
+:::
 
 ::: tip Want to have your own Bundle run by other brands?
-Do you want to launch a multi-channel Bundle with other brands? See the [Bundles & Media Kits guide](/en/recruit/bundles).
+See the [Bundles & Media Kits guide](/en/recruit/bundles).
 :::
 
 ## Bundle Examples
-
-Browse a selection of Bundles run with partner brands.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -38,7 +42,7 @@ Browse a selection of Bundles run with partner brands.
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Define your standard pack</h3>
-    <p>Select the inventories to include (parcel inserts, dedicated email, social post, homepage banner) and the duration of the operation. Example: a "Back-to-School Visibility Pack" over one month.</p>
+    <p>Choose the inventories (parcel inserts, dedicated email, social post, homepage banner) and the duration. Example: a "Back-to-School Visibility Pack" over one month.</p>
   </div>
 </div>
 
@@ -46,7 +50,7 @@ Browse a selection of Bundles run with partner brands.
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>List the offer on the platform</h3>
-    <p>Contact the getinside team. We create the offer in the catalog with a dedicated icon, which makes it visible to every brand in the catalog.</p>
+    <p>Contact the getinside team: the offer is created in the catalog with a dedicated icon, visible to every brand.</p>
   </div>
 </div>
 
@@ -54,7 +58,7 @@ Browse a selection of Bundles run with partner brands.
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Host the mechanic (if contest)</h3>
-    <p>For a Bundle with a contest, you create the landing page on your domain (e.g. <code>your-site.com/brand-contest</code>), co-branded with the partner brand. You drive traffic through your usual channels.</p>
+    <p>You create the landing page on your domain (e.g. <code>your-site.com/brand-contest</code>), co-branded with the partner brand, and drive traffic through your usual channels.</p>
   </div>
 </div>
 
@@ -62,20 +66,7 @@ Browse a selection of Bundles run with partner brands.
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Pass on the leads and close</h3>
-    <p>At the end of the operation, export the list of participants who ticked the partner opt-in and pass it to the brand through getinside. The brand ships the prizes to the winners, not you.</p>
-  </div>
-</div>
-
-## Why offer Bundles
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Gamified formats</strong>
-    <p>Contest, prize wheel, quiz: your customers prefer a game to a standard product ad.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Higher average revenue</strong>
-    <p>A Bundle adds value to your image and your setup work, beyond the raw impressions of each channel sold alone.</p>
+    <p>Export the list of participants who ticked the partner opt-in and pass it to the brand through getinside. The brand ships the prizes to the winners, not you.</p>
   </div>
 </div>
 
@@ -87,12 +78,6 @@ The sign-up form must include this checkbox, never pre-ticked:
 Only participants who ticked this box are passed on to the partner brand. GDPR compliance is the responsibility of the partner brand and of you.
 :::
 
-## Building your pack
-
-The pack content reflects the value of each inventory, your setup work and the running of the operation. Partner brands can discuss the content, for example by removing a channel or adjusting a volume. You validate the final pack in the platform.
-
-## Get started
-
-1. Define your standard pack (inventories and duration).
-2. Contact the getinside team.
-3. Your offer is created in the catalog with a dedicated icon.
+::: details Building your pack
+The content reflects the value of each inventory, your setup work and the running of the operation. Partner brands can discuss it (removing a channel, adjusting a volume). You validate the final pack in the platform.
+:::

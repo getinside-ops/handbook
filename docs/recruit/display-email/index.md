@@ -12,95 +12,41 @@ keywords:
 
 # Encart Newsletter (Display Email)
 
-Insérez une bannière publicitaire au sein des communications d'un partenaire. Un format de notoriété efficace et non intrusif : vous ne fournissez qu'une image et un lien.
+Insérez une bannière dans les communications d'un partenaire : vous ne fournissez qu'une image et un lien.
 
----
-
-## Où diffuser votre bannière ?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📢 Blast (newsletter édito)</strong>
-    <p>Votre bannière s'insère dans la newsletter hebdomadaire du partenaire. Emplacement Header ou cœur de contenu.</p>
-    <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Notoriété" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase (Transac)</strong>
-    <p>Votre bannière apparaît dans l'email de confirmation de commande ou de livraison. Taux d'ouverture <strong>> 60%</strong>.</p>
-    <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="TO max" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Email</strong>
-    <p>Présence dans l'email de bienvenue des nouveaux inscrits. Premier contact dans un moment de forte attention.</p>
-    <p><Badge type="warning" text="Engagement" /> <Badge type="warning" text="Acquisition" /></p>
-  </div>
-</div>
-
----
-
-## Pourquoi choisir ce format ?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>⚡ Simplicité de production</strong>
-    <p>Contrairement à l'email dédié, vous ne fournissez qu'une image (JPG/PNG/GIF) et un lien. Pas de HTML à coder, pas de brief créatif élaboré.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🚀 Activation en 48 h</strong>
-    <p>De la soumission de votre bannière à la diffusion : 48 heures. Idéal pour des offres saisonnières ou des lancements à délai court.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Non intrusif et brand safe</strong>
-    <p>Votre marque s'insère dans un contenu que l'abonné attend, dans un environnement fermé cautionné par la marque qui diffuse votre campagne, à l'opposé du display programmatique open web.</p>
-  </div>
-</div>
-
----
-
-## Cas d'usage idéaux
-
-- **Offre flash ou saisonnière** : Black Friday, soldes, fêtes. Activez en 48 h, sans contrainte print.
-- **Lancement produit** : faites découvrir une nouveauté à une audience qualifiée, rapidement.
-- **Campagne test** : format léger pour tester un message ou une audience avant un format plus lourd.
+::: tip En bref
+- Une image (JPG/PNG/GIF) et un lien suffisent : pas de HTML, pas de brief créatif élaboré.
+- Diffusion 48 h après la soumission de la bannière.
+- Environnement fermé et brand safe, cautionné par la marque qui diffuse votre campagne.
+:::
 
 ::: tip Vous diffusez les campagnes d'autres marques à vos clients ?
 Consultez le [guide Encart newsletter côté Monétiser](/monetize/display-email/).
 :::
 
----
+## Où diffuser votre bannière
 
-## Performances
-
-| Scénario | Taux d'ouverture | Remarque |
+| Emplacement | Principe | Taux d'ouverture |
 | :--- | :--- | :--- |
-| **Post-Purchase** | > 60% | Emplacement le plus premium |
-| **Welcome Email** | Élevé | Moment d'attention maximale |
-| **Blast (Newsletter)** | Variable | Dépend de la base et du secteur |
+| **Blast (newsletter édito)** | Newsletter hebdomadaire du partenaire, en header ou au cœur du contenu | Variable (base et secteur) |
+| **Post-Purchase (transac)** | Email de confirmation de commande ou de livraison, emplacement le plus premium | > 60 % |
+| **Welcome Email** | Email de bienvenue des nouveaux inscrits, moment d'attention maximale | Élevé |
+
+## Cas d'usage
+
+- **Offre flash ou saisonnière** : Black Friday, soldes, fêtes, sans contrainte print.
+- **Lancement produit** : une nouveauté auprès d'une audience qualifiée.
+- **Campagne test** : tester un message ou une audience avant un format plus lourd.
 
 :::info Tracking : clics uniquement
-Pour ce format, il n'y a **pas de pixel d'ouverture** : seuls les clics sont comptabilisés (lien tracké `gtinsi.de`). Ajoutez des paramètres UTM à votre URL finale pour mesurer le trafic dans Google Analytics.
+Il n'y a **pas de pixel d'ouverture** : seuls les clics sont comptabilisés (lien tracké `gtinsi.de`). Ajoutez des paramètres UTM à votre URL finale pour mesurer le trafic dans Google Analytics.
 :::
 
----
-
-## Pourquoi passer par getinside ?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🌐 Inventaire unifié</strong>
-    <p>Des partenaires accessibles via une seule plateforme. Plus besoin de négocier individuellement avec chaque média ou chaque marque.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Brand safety et contexte</strong>
-    <p>Votre marque s'affiche dans un environnement fermé, sûr et cautionné par la marque qui diffuse votre campagne : aucune mauvaise surprise contextuelle, contrairement au display programmatique.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📊 Tracking centralisé</strong>
-    <p>Liens de tracking générés et uniformisés pour toutes vos campagnes. Suivez les clics de 10 newsletters différentes sur un seul tableau de bord.</p>
-  </div>
-</div>
-
----
+::: details Pourquoi passer par getinside ?
+- Inventaire unifié : plusieurs partenaires via une seule plateforme, sans négociation individuelle.
+- Brand safety : environnement fermé, à l'opposé du display programmatique.
+- Tracking centralisé : les clics de plusieurs newsletters sur un seul tableau de bord.
+:::
 
 - [📋 Workflow de campagne](./workflow) : étapes de la soumission à la diffusion.
 - [📐 Spécifications bannières](./specs) : formats, poids et bonnes pratiques créatives.

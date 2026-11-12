@@ -12,33 +12,19 @@ keywords:
 
 # Impression & Logistique
 
-getinside agit comme une **centrale d'achat** pour mutualiser les volumes, réduire vos coûts et garantir une production responsable.
+getinside agit comme une **centrale d'achat** : volumes mutualisés, coûts réduits, production responsable.
 
----
-
-## Une qualité certifiée
-
-::: tip
-<div class="gi-cert-row">
-  <div class="gi-cert-item">
-    <span class="gi-cert-icon">🇫🇷</span>
-    <strong>Made in France</strong>
-    <span>100% de la production en ateliers français.</span>
-  </div>
-  <div class="gi-cert-item">
-    <span class="gi-cert-icon">🌱</span>
-    <strong>Éco-responsabilité</strong>
-    <span>Certification Imprim'Vert · Encres végétales · Papier FSC et PEFC.</span>
-  </div>
-  <div class="gi-cert-item">
-    <span class="gi-cert-icon">✅</span>
-    <strong>Normes ISO</strong>
-    <span>ISO 9001 (Qualité) et ISO 14001 (Environnement).</span>
-  </div>
-</div>
+::: tip En bref
+- Production 100 % française, certifiée (Imprim'Vert, FSC/PEFC, ISO 9001 et 14001).
+- Un seul poste : impression, façonnage et transport, livrés à l'entrepôt de la marque qui diffuse votre campagne.
+- Assemblage manuel confié à des Entreprises Adaptées.
 :::
 
----
+## Qualité certifiée
+
+- **Made in France** : 100 % de la production en ateliers français.
+- **Éco-responsabilité** : Imprim'Vert, encres végétales, papier FSC et PEFC.
+- **Normes ISO** : ISO 9001 (Qualité) et ISO 14001 (Environnement).
 
 ## Spécifications papier
 
@@ -50,67 +36,27 @@ getinside agit comme une **centrale d'achat** pour mutualiser les volumes, rédu
 | **Certification papier** | FSC ou PEFC obligatoire |
 | **Pelliculage** | Non : rend les QR codes moins lisibles |
 
----
-
 ## Cas d'usage
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📦 Pour vos campagnes (Insertion colis)</strong>
-    <p>Vous réservez une campagne chez une marque partenaire. getinside imprime vos supports, gère l'assemblage (ex : point de colle fugitive pour échantillon) et livre directement à l'entrepôt de la marque.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🏷️ Auto-promotion (Pour vous)</strong>
-    <p>Vous souhaitez imprimer vos propres cartes de remerciement ou flyers à insérer dans <strong>vos propres colis</strong> ? Créez une campagne "interne" via la plateforme et bénéficiez de nos achats groupés industriels. Livraison en palettes chez vous.</p>
-  </div>
-</div>
+- **Vos campagnes (Insertion colis)** : getinside imprime vos supports, gère l'assemblage (ex : point de colle fugitive pour échantillon) et livre directement à l'entrepôt de la marque partenaire.
+- **Auto-promotion** : cartes de remerciement ou flyers pour **vos propres colis**. Créez une campagne "interne" sur la plateforme et profitez des achats groupés. Livraison en palettes chez vous.
 
----
-
-## Modèle économique
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>💎 Transparence</strong>
-    <p>Le coût est affiché clairement lors de la configuration de la campagne. Aucune surprise.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📦 Tout inclus</strong>
-    <p>Impression + Façonnage + Transport. Un seul poste, un seul interlocuteur.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📉 Économies d'échelle</strong>
-    <p>Plus le volume est important, plus le coût unitaire baisse, grâce à la mutualisation des achats.</p>
-  </div>
-</div>
+Le coût est affiché lors de la configuration de la campagne et baisse à l'unité avec le volume.
 
 :::tip Livraison en flux tendu
-Les impressions sont livrées directement aux entrepôts des marques qui diffusent votre campagne, synchronisées sur leur **Lead Time** logistique. La marchandise arrive exactement quand le partenaire en a besoin : zéro stockage inutile de votre côté.
+Les impressions arrivent à l'entrepôt de la marque synchronisées sur son **Lead Time** logistique : zéro stockage inutile de votre côté.
 :::
 
----
+## Engagement handicap
 
-## Engagement Handicap
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Partenariat Exclusif avec des Entreprises Adaptées (EA)</strong>
-    <p>Pour toutes les opérations manuelles (assemblage, collage d'échantillons, mise sous pli), nous travaillons exclusivement avec des <strong>Entreprises Adaptées</strong>, qui emploient au moins <strong>80% de travailleurs en situation de handicap</strong> dans leurs effectifs de production.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Impact Social Direct</strong>
-    <p>En confiant votre logistique à getinside, vous soutenez l'insertion professionnelle de personnes éloignées du marché du travail. Nos partenaires œuvrent notamment pour maintenir l'emploi en milieu rural et accompagner la montée en compétences de leurs salariés.</p>
-  </div>
-</div>
-
----
+Pour toutes les opérations manuelles (assemblage, collage d'échantillons, mise sous pli), getinside travaille exclusivement avec des **Entreprises Adaptées**, qui emploient au moins **80 % de travailleurs en situation de handicap** dans leurs effectifs de production. Vous soutenez ainsi l'insertion professionnelle de personnes éloignées du marché du travail.
 
 :::tip Une marque hésite pour des raisons RSE ?
 L'insertion colis tient face à une politique RSE : papier certifié, pas d'envoi dédié, distribution ciblée sans tirage gaspillé. → [Voir la page RSE & insertion colis](./sustainability)
 :::
 
 :::info Comment commander ?
-L'option d'impression vous est proposée automatiquement lors de la création d'une campagne sur [app.getinside.media](https://app.getinside.media/){target="_blank"} : choisissez le format, la quantité et transmettez un fichier conforme aux [spécifications techniques](./sponsored-mail/design-guide/print-specs).
+L'option d'impression vous est proposée lors de la création d'une campagne sur [app.getinside.media](https://app.getinside.media/){target="_blank"} : choisissez le format, la quantité et transmettez un fichier conforme aux [spécifications techniques](./sponsored-mail/design-guide/print-specs).
 
-Pour une demande spécifique (formats spéciaux, assemblage sur mesure) : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
+Demande spécifique (formats spéciaux, assemblage sur mesure) : [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout)
 :::

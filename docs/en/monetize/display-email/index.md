@@ -12,83 +12,41 @@ keywords:
 
 # Newsletter Insert (Display Email)
 
-Insert a partner banner into emails you already send. The brand provides the creative, you produce nothing, and every send becomes a source of revenue.
+Insert a partner banner into emails you already send: the brand provides the creative, you produce nothing.
+
+::: tip In short
+- You place an image + tracked link block in your router (Klaviyo, Brevo, Mailchimp, Splio...).
+- You choose which brands appear: no competing brand runs without your approval.
+- One insert per email is enough: steady revenue without saturating your customers.
+:::
 
 ::: tip Want to have your banner run?
-Do you want a banner to run in other brands' newsletters? See the [Newsletter Insert guide for Recruit](/en/recruit/display-email/).
+See the [Newsletter Insert guide for Recruit](/en/recruit/display-email/).
 :::
 
-## The principle
+## Placements and formats
 
-Your newsletters and transactional emails (order confirmation, shipping tracking, cart reminder) go out by the thousands every week. Display Email adds a placement in these emails: the brand provides the banner, getinside gives you the block to integrate, and you place it in your router.
+| Placement | Detail |
+| :--- | :--- |
+| **Transactional emails** (> 60% open rate) | Most premium: "Partner Offer" banner in order or delivery confirmations |
+| **Newsletters (Blast)** | Free spaces in your weekly newsletters |
+| **Welcome emails** | Banner in the automated welcome sequence |
 
-You stay in charge of the editorial: you choose which brands appear, and a brand that competes with your business never runs without your approval.
-
-<div class="gi-quick-links">
-  <a href="integration" class="btn btn-primary">Integration Guide →</a>
-</div>
-
----
-
-## Available Placements
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🛍️ Transactional Emails</strong>
-    <Badge type="tip" text="> 60% open rate" />
-    <p>The most premium placement. Insert a "Partner Offer" banner in your order or delivery confirmations.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📢 Newsletters (Blast)</strong>
-    <p>Fill the empty spaces in your weekly newsletters. Ideal for monetizing your usual broadcasts with no extra effort.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Emails</strong>
-    <p>Monetize your new subscribers from the very first email. Integrate a banner into your automated welcome sequence.</p>
-  </div>
-</div>
-
----
-
-## Banner Formats
-
-| Format | Dimensions | Typical Placement |
+| Format | Dimensions | Typical placement |
 | :--- | :--- | :--- |
-| **Leaderboard** (Wide Banner) | 600 × 150 px | Header or middle of the email |
-| **Rectangle** (Square Banner) | 300 × 250 px | Side column or footer of the email |
+| **Leaderboard** (wide banner) | 600 × 150 px | Header or middle of the email |
+| **Rectangle** (square banner) | 300 × 250 px | Side column or footer of the email |
 
 :::tip White background: add a border
-If your banner has a white background, add a thin 1 px gray border (`#cccccc`) so it doesn't blend into the email's background.
+Add a thin 1 px gray border (`#cccccc`) so the banner doesn't blend into the email's background.
 :::
 
----
+## Integration and best practices
 
-## Technical side
+Integration is light: an HTML block or an image in your router's template. getinside provides the visual and the tracking link; once the placement is created, later campaigns reuse the same slot.
 
-Integration is light: an HTML block or an image to insert in your router's template (Klaviyo, Brevo, Mailchimp, Splio, etc.). getinside provides the visual and the tracking link. Once the placement is created, later campaigns reuse the same slot.
-
-## Best practices
-
-- **Place the insert consistently with your content**: below the main body of the newsletter, or in the footer of a transactional email, where it does not get in the way of the customer message.
-- **Keep a reasonable frequency**: one insert per email is enough. The goal is steady revenue, not saturation.
+- **Place the insert below the main body** of the newsletter, or in the footer of a transactional email, where it does not get in the way of the customer message.
 - **Declare your sends** to trigger billing (see the [integration guide](./integration)).
-
-## Why is this format profitable?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>⚡ Zero Production</strong>
-    <p>The brand provides a ready-to-use image. Your role is limited to copying the image and the tracked link into your router.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Non-Intrusive</strong>
-    <p>The ad is inserted discreetly (Header or Footer), without disrupting your editorial content or weighing on your unsubscribe rate.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🔄 Recurring Revenue</strong>
-    <p>Perfect for generating a passive income stream on your automated emails, especially transactional and welcome emails.</p>
-  </div>
-</div>
 
 <div class="gi-format-grid">
   <a href="/handbook/en/monetize/display-email/integration" class="gi-format-card">

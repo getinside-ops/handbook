@@ -15,84 +15,51 @@ image: /images/gi-keyvisual.svg
 
 # Comment ça fonctionne ?
 
-**getinside** relie des marques qui ont la confiance et l'attention de leurs consommateurs. Chaque marque peut **recruter** de nouveaux clients, **fidéliser** les siens et **monétiser** son audience, avec le colis, le courrier adressé et l'échantillonnage.
+::: tip En bref
+- Des marques de confiance diffusent vos offres dans leurs colis et courriers. Chacune valide ce qui est diffusé à ses clients.
+- L'IA cible les marques affinitaires. Les revenus de diffusion créditent un Wallet qui finance vos propres campagnes.
+- Vue d'ensemble des usages et des chiffres clés : [Découvrir getinside](/start-here/).
+:::
 
-| Acteur | Action | Flux |
-| :--- | :--- | :--- |
-| 📦 **Marque qui monétise** | Envoie des colis et du courrier à ses clients, et y diffuse des campagnes | Inventaire disponible |
-| ⚡ **Plateforme** | Cible les audiences affinitaires grâce à l'IA | Mise en relation |
-| 📢 **Marque qui recrute** | Fait diffuser son offre ou son échantillon auprès de ces audiences | Campagnes délivrées |
-| 💰 **Wallet** | Les revenus créditent le Wallet de la marque | Financement de ses propres campagnes |
+| Acteur | Action |
+| :--- | :--- |
+| 📦 **Marque qui monétise** | Envoie des colis et du courrier à ses clients et y diffuse des campagnes |
+| ⚡ **Plateforme** | Cible les audiences affinitaires grâce à l'IA |
+| 📢 **Marque qui recrute** | Fait diffuser son offre ou son échantillon auprès de ces audiences |
+| 💰 **Wallet** | Reçoit les revenus et finance les campagnes de la marque |
 
 ## Le transfert de confiance
 
-Le point commun entre un colis et un courrier adressé d'une marque :
-
-- **La relation client :** le consommateur a déjà acheté.
-- **La crédibilité :** il fait confiance à la marque qui lui livre.
-- **L'attention :** il ouvre son colis, sa boîte aux lettres, il touche l'échantillon.
-
-::: tip Un réseau exclusif de marques de confiance
-Des marques qui ont la confiance et l'attention de leurs consommateurs, et qui recommandent vos offres. **Le contrôle reste à la marque** : chacune valide les marques et les offres diffusées auprès de ses clients.
-:::
+Le consommateur a déjà acheté, fait confiance à la marque qui le livre, et ouvre son colis, sa boîte aux lettres, touche l'échantillon. Cette confiance et cette attention se transfèrent à l'offre diffusée.
 
 ## Recruter : deux modes
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Achat média</strong>
-    <p>Vous diffusez votre offre ou votre échantillon auprès des audiences de marques affinitaires, avec un budget de campagne.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Échange</strong>
-    <p>Sans achat média : chaque marque diffuse l'offre de l'autre dans ses colis et garde ses clients.</p>
-  </div>
-</div>
+- **Achat média :** vous diffusez votre offre ou votre échantillon auprès des audiences de marques affinitaires, avec un budget de campagne.
+- **Échange :** sans achat média, chaque marque diffuse l'offre de l'autre dans ses colis et garde ses clients.
 
-L'IA sert à cibler les marques affinitaires grâce à la **modélisation d'audiences similaires** : un modèle sur mesure basé sur les caractéristiques et les données transactionnelles de vos clients, croisées aux données propriétaires de la solution (historique des campagnes déjà délivrées).
+L'IA cible les marques affinitaires par **modélisation d'audiences similaires** : un modèle sur mesure basé sur les données transactionnelles de vos clients, croisées à l'historique des campagnes déjà délivrées.
 
 ## Monétiser : le cycle du Wallet
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>1. Diffusez des campagnes</strong>
-    <p>Délivrez les offres d'autres marques à votre audience.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>2. Générez des revenus</strong>
-    <p>Votre Wallet dédié est crédité automatiquement.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>3. Financez vos campagnes</strong>
-    <p>Réinvestissez vos revenus pour recruter, ou retirez-les.</p>
-  </div>
-</div>
+1. **Diffusez** les offres d'autres marques à votre audience.
+2. **Générez des revenus** : votre Wallet est crédité automatiquement.
+3. **Financez** vos campagnes avec ces revenus, ou retirez-les.
 
-::: info Les fonctionnalités pour commercialiser votre offre média
-- **Répondre aux demandes des marques :** recevez directement des propositions de campagnes.
-- **Prospecter d'autres marques :** adressez-leur vos propres propositions.
-- **Collaborer avec vos partenaires :** regroupez toutes vos marques partenaires et opérez tout depuis une seule solution.
-:::
+Vous pouvez aussi répondre aux demandes des marques, en prospecter d'autres et opérer tous vos partenaires depuis une seule solution.
 
-## Fidéliser : retrouver ceux qui n'ouvrent plus vos e-mails
+## Fidéliser
 
-Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courriers et leurs colis.
+Vos clients n'ouvrent plus vos e-mails, mais ouvrent leurs courriers et leurs colis :
 
-- **Réactivation par courrier adressé :** ciblez efficacement les inactifs e-mail en boîte aux lettres.
-- **Up-sell colis :** insérez une offre dédiée dans chaque colis livré pour déclencher de nouveaux achats.
+- **Réactivation :** courrier adressé aux inactifs e-mail.
+- **Up-sell colis :** une offre dédiée insérée dans chaque colis livré.
 
-## L'expertise getinside
+## Ce que vous gagnez
 
-| 🚫 Sans getinside | ✅ Avec getinside |
+| Sans getinside | Avec getinside |
 | :--- | :--- |
-| Négocier avec chaque marque une par une. | Un seul partenaire, 3 canaux. |
-| Gérer production, impression et routage. | Production, contrôle qualité et livraison de bout en bout, fidèles à votre image de marque. |
-| Reporting éparpillé. | Performance mesurée et optimisée pour chaque campagne. |
-
-::: tip Prêt à activer votre croissance ?
-
-Que vous souhaitiez recruter, fidéliser ou monétiser vos clients, getinside est conçu pour vous.
+| Négocier avec chaque marque une par une | Un seul partenaire, 3 canaux |
+| Gérer production, impression et routage | Production, contrôle qualité et livraison de bout en bout |
+| Reporting éparpillé | Performance mesurée pour chaque campagne |
 
 [Discuter de mon projet](https://lp.getinside.fr/meetings/benoit-prentout)
-
-:::

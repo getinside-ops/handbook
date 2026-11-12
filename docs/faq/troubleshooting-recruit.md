@@ -11,72 +11,49 @@ keywords:
 
 # Résolution de problèmes : Recruter
 
+::: tip En bref
+- Campagne pas en ligne : vérifiez d'abord « Mes Campagnes » (validation en attente), puis le créatif, puis le délai d'impression (2 à 4 semaines).
+- Créatif refusé : le plus souvent résolution, fond perdu, mentions légales ou format de bannière.
+- Support : [support@getinside.fr](mailto:support@getinside.fr), avec le numéro de campagne en objet.
+:::
+
 ::: details Ma campagne n'est pas encore en ligne : que vérifier ?
+1. **Validation en attente :** sur [app.getinside.media](https://app.getinside.media/), onglet **Mes Campagnes**. Un bouton « Valider la campagne » actif signifie qu'une action est attendue de vous.
+2. **Créatif non soumis :** pour l'encart newsletter et l'e-mailing dédié, vérifiez que visuel et URL de destination sont envoyés via la plateforme.
+3. **Délai d'impression :** pour l'insertion colis, 2 à 4 semaines entre la validation du BAT et la réception des flyers.
 
-Plusieurs causes sont possibles :
-
-1. **Validation en attente :** connectez-vous sur [app.getinside.media](https://app.getinside.media/) et vérifiez l'onglet **"Mes Campagnes"**. Un bouton "Valider la campagne" actif signifie qu'une action de votre part est requise.
-
-2. **Créatif non soumis :** pour l'encart newsletter ou l'e-mailing dédié, les éléments créatifs doivent être transmis à la marque qui diffuse votre campagne via la plateforme. Vérifiez que votre visuel et votre URL de destination ont bien été envoyés.
-
-3. **Délai d'impression :** pour l'insertion colis, comptez 2 à 4 semaines entre la validation du BAT et la réception des flyers chez la marque qui les insère.
-
-Si aucune de ces causes ne s'applique, contactez [support@getinside.fr](mailto:support@getinside.fr).
-
+Sinon, contactez le support.
 :::
 
 ::: details Mon créatif a été refusé : quelles sont les raisons fréquentes ?
-
-Les refus les plus courants :
-
-- **Résolution insuffisante :** le fichier print doit être en 300 DPI minimum, mode CMJN. Vérifiez les [spécifications techniques](/recruit/sponsored-mail/design-guide/print-specs).
-- **Fond perdu absent :** pour l'insertion colis, 3 mm de fond perdu sur chaque côté sont obligatoires.
-- **Mentions légales manquantes :** loi AGEC (logos recyclage), mentions d'offre (durée de validité, conditions). Consultez le [guide des mentions légales](/recruit/sponsored-mail/design-guide/legal).
-- **Bannière hors format :** pour l'encart newsletter, vérifiez les [spécifications acceptées](/recruit/display-email/specs).
-- **Contenu non conforme :** offre sans date de validité, promesse trompeuse ou contenu incompatible avec la charte de la marque qui diffuse votre campagne.
-
+- **Résolution :** 300 DPI minimum, CMJN ([spécifications](/recruit/sponsored-mail/design-guide/print-specs)).
+- **Fond perdu absent :** 3 mm de chaque côté pour l'insertion colis.
+- **Mentions légales manquantes :** loi AGEC (logos recyclage), durée de validité, conditions ([guide](/recruit/sponsored-mail/design-guide/legal)).
+- **Bannière hors format :** voir les [spécifications](/recruit/display-email/specs).
+- **Contenu non conforme :** offre sans date de validité, promesse trompeuse, incompatibilité avec la charte de la marque qui diffuse.
 :::
 
 ::: details Je ne trouve pas le bouton de validation BAT
-
-Le bouton apparaît uniquement quand un BAT est en attente de votre validation :
-
-1. Connectez-vous sur [app.getinside.media](https://app.getinside.media/)
-2. Allez dans **Mes Campagnes**
-3. Sélectionnez la campagne concernée
-4. Cherchez le bouton **"Valider la campagne"** dans l'onglet de suivi
-
-Si le bouton n'apparaît pas, la marque qui diffuse votre campagne n'a pas encore soumis le BAT. Contactez [support@getinside.fr](mailto:support@getinside.fr) pour vérifier l'état.
-
+Il n'apparaît que lorsqu'un BAT attend votre validation : **Mes Campagnes** → la campagne → bouton **« Valider la campagne »** dans l'onglet de suivi. Absent ? La marque qui diffuse n'a pas encore soumis le BAT : demandez au support de vérifier l'état.
 :::
 
 ::: details Ma campagne a été mise en pause : pourquoi ?
-
-Causes possibles :
-
-- **Stock épuisé** (insertion colis) : la marque a inséré tous les flyers reçus. Contactez le support pour un éventuel réapprovisionnement.
-- **Demande de correction :** la marque a signalé un problème avec votre créatif en cours de diffusion. Vérifiez vos notifications sur la plateforme.
-- **Fin de période :** la date de fin de campagne a été atteinte.
-- **Problème technique :** contactez [support@getinside.fr](mailto:support@getinside.fr) si aucune cause ci-dessus ne s'applique.
-
+- **Stock épuisé** (insertion colis) : tous les flyers reçus sont insérés. Demandez un réapprovisionnement au support.
+- **Demande de correction :** la marque a signalé un problème sur votre créatif (voir vos notifications).
+- **Fin de période :** la date de fin est atteinte.
+- Autre cas : contactez le support.
 :::
 
-::: details Je veux modifier une campagne déjà en cours
-
-Les modifications possibles dépendent du format :
-
-- **URL de destination :** modifiable si vous utilisez une URL dynamique. Contactez votre chargé de compte.
-- **Visuel ou créatif :** non modifiable après validation du BAT pour l'insertion colis (le flyer est imprimé). Pour les formats e-mail, une modification est parfois possible avant l'envoi. Contactez le support.
-- **Budget ou volume :** contactez [support@getinside.fr](mailto:support@getinside.fr), un avenant contractuel peut être nécessaire.
-
+::: details Je veux modifier une campagne en cours
+- **URL de destination :** modifiable si elle est dynamique, via votre chargé de compte.
+- **Visuel :** non modifiable après validation du BAT en insertion colis (flyer imprimé). Parfois possible avant l'envoi pour les formats e-mail.
+- **Budget ou volume :** via le support, un avenant peut être nécessaire.
 :::
 
 ::: details Comment contacter le support ?
+- **Général :** [support@getinside.fr](mailto:support@getinside.fr), réponse sous 24 à 48h ouvrées.
+- **Studio créatif (graphisme, BAT) :** [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout).
+- **Opérations (contrat, urgences) :** [benoit@getinside.fr](mailto:benoit@getinside.fr).
 
-- **Support général :** [support@getinside.fr](mailto:support@getinside.fr), délai de réponse : 24 à 48h ouvrées
-- **Studio créatif :** [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout), production graphique, BAT, création
-- **Opérations :** [benoit@getinside.fr](mailto:benoit@getinside.fr), questions contractuelles ou urgences
-
-Précisez votre numéro de campagne dans l'objet de votre e-mail pour accélérer le traitement.
-
+Indiquez le numéro de campagne dans l'objet.
 :::

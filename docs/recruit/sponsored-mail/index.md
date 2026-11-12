@@ -12,13 +12,17 @@ keywords:
 
 # Insertion colis
 
-Un support est inséré dans le colis du client ou emporté avec sa commande. Glissez votre offre (flyer, carte, échantillon) dans les colis de marques affinitaires, et touchez vos futurs clients là où les décisions d'achat se prennent.
+Glissez votre offre (flyer, carte, échantillon) dans les colis de marques affinitaires et touchez vos futurs clients là où les décisions d'achat se prennent.
 
-::: tip Vous diffusez les campagnes d'autres marques ?
-Découvrez comment monétiser vos colis avec ce format dans le [guide Insertion colis pour Monétiser](/monetize/sponsored-mail/).
+::: tip En bref
+- Vous choisissez les marques qui diffusent votre campagne, getinside gère impression, logistique et suivi.
+- **98 % de délivrabilité, 100 % d'attention** : canal physique, sans cookies tiers.
+- Benchmarks réseau : scan 1 % à 10 %, conversion post-scan 10 % à 30 %.
 :::
 
----
+::: tip Vous diffusez les campagnes d'autres marques ?
+Voir le [guide Insertion colis pour Monétiser](/monetize/sponsored-mail/).
+:::
 
 ## Comment ça marche ?
 
@@ -26,7 +30,7 @@ Découvrez comment monétiser vos colis avec ce format dans le [guide Insertion 
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Choisissez les marques qui diffusent votre campagne</h3>
-    <p>Parcourez le réseau de marques partenaires (+300 audiences agrégées). Filtrez par secteur, panier moyen, géographie et profil B2B/B2C pour construire votre plan média ciblé.</p>
+    <p>Parcourez le réseau (+300 audiences agrégées) et filtrez selon les critères du tableau ci-dessous.</p>
   </div>
 </div>
 
@@ -34,7 +38,7 @@ Découvrez comment monétiser vos colis avec ce format dans le [guide Insertion 
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Créez vos supports</h3>
-    <p>Concevez votre flyer en respectant les <a href="./design-guide/print-specs">spécifications techniques</a> et les <a href="./design-guide/legal">mentions légales</a>. Intégrez le QR Code dynamique fourni par getinside : c'est votre outil de tracking.</p>
+    <p>Respectez les <a href="./design-guide/print-specs">spécifications techniques</a> et les <a href="./design-guide/legal">mentions légales</a>. Intégrez le QR code dynamique fourni par getinside : c'est votre outil de tracking.</p>
   </div>
 </div>
 
@@ -42,7 +46,7 @@ Découvrez comment monétiser vos colis avec ce format dans le [guide Insertion 
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Livraison en entrepôt</h3>
-    <p>Vous expédiez vos supports (ou confiez l'impression à notre Studio). getinside gère la logistique et l'acheminement directement aux entrepôts des marques qui diffusent votre campagne.</p>
+    <p>Vous expédiez vos supports (ou confiez l'impression à notre Studio). getinside gère l'acheminement jusqu'aux entrepôts des marques.</p>
   </div>
 </div>
 
@@ -50,34 +54,11 @@ Découvrez comment monétiser vos colis avec ce format dans le [guide Insertion 
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Pilotez en temps réel</h3>
-    <p>Suivez les scans QR et les volumes distribués depuis votre tableau de bord. Reporting hebdomadaire mis à jour par chaque marque.</p>
+    <p>Scans QR et volumes distribués dans votre tableau de bord, avec un reporting hebdomadaire de chaque marque.</p>
   </div>
 </div>
 
----
-
-## Pourquoi ce levier est incontournable
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📦 98 % de délivrabilité, 100 % d'attention</strong>
-    <p>Tout le monde ouvre ses colis, même ceux qui ne vous considèrent plus. Un canal qui demande un acte physique génère l'attention : on ouvre, on touche, on regarde.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🎯 Ciblage Comportemental</strong>
-    <p>Vous touchez des acheteurs réels, qualifiés par leurs habitudes de consommation, pas des internautes anonymes. Secteur, panier moyen, géographie : le ciblage est précis et mesurable.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Cookie-less</strong>
-    <p>Canal 100% offline : aucune dépendance aux cookies tiers. Un levier durable face à la saturation et à la hausse des coûts du digital.</p>
-  </div>
-</div>
-
----
-
-## Ciblage & Audiences
-
-Choisissez les marques qui diffusent votre campagne selon quatre critères :
+## Ciblage et audiences
 
 | Critère | Options disponibles |
 | :--- | :--- |
@@ -87,79 +68,52 @@ Choisissez les marques qui diffusent votre campagne selon quatre critères :
 | **Géographie** | France, Belgique, Espagne, Allemagne… |
 
 :::info Exclusivité sectorielle garantie
-Votre offre est toujours insérée chez une marque **non concurrente**. Et dans un même colis, deux offres concurrentes ne peuvent jamais coexister.
+Votre offre est toujours insérée chez une marque **non concurrente**. Dans un même colis, deux offres concurrentes ne coexistent jamais.
 :::
-
----
 
 ## Formats
 
-### Flyers & Cartes
-
-| Format | Dimensions finies | Usage recommandé |
+| Format | Dimensions finies | Usage |
 | :--- | :--- | :--- |
-| **A5** | 148 × 210 mm | Format standard : idéal pour les offres détaillées |
-| **A6** | 105 × 148 mm | Format compact : idéal pour les codes promo |
-| **Carte** | 105 × 148 mm | Format carte cadeau ou fidélité |
+| **A5** | 148 × 210 mm | Standard, offres détaillées |
+| **A6** | 105 × 148 mm | Compact, codes promo |
+| **Carte** | 105 × 148 mm | Carte cadeau ou fidélité |
 
-### Échantillons (Sampling)
-
-| Format | Poids max | Développé max |
+| Échantillon | Poids max | Développé max |
 | :--- | :--- | :--- |
 | **S** | 15 g | 15 cm |
 | **M** | 100 g | 30 cm |
 | **L** | 450 g | 40 cm |
 
-:::tip Option Duo : Flyer + Échantillon
-Un échantillon Format S peut être fixé sur un flyer A5/A6 via un point de colle fugitive (repositionnable). Réalisé par des Entreprises Adaptées (EA).
+:::tip Option Duo : flyer + échantillon
+Un échantillon format S peut être fixé sur un flyer A5/A6 par un point de colle fugitive (repositionnable), réalisé par des Entreprises Adaptées (EA).
 :::
 
----
-
-## Performances & ROI
-
-Les benchmarks observés sur le réseau getinside :
+## Performances et ROI
 
 | Indicateur | Benchmark réseau |
 | :--- | :--- |
-| **Taux de scan (CTR)** | 1% à 10% |
-| **Taux de conversion post-scan (CVR)** | 10% à 30% |
+| **Taux de scan (CTR)** | 1 % à 10 % |
+| **Taux de conversion post-scan (CVR)** | 10 % à 30 % |
 
 :::tip Maximiser le ROI
-- **Valeur monétaire** : *"10€ offerts"* convertit bien mieux que *"-10%"*. La valeur concrète est immédiatement perçue.
-- **QR Code + UTM** : combinez le QR code getinside avec des paramètres UTM (`utm_source=getinside&utm_medium=sponsored-mail`) pour tracker les ventes dans Google Analytics.
-- **Code promo unique** : ajoutez un code spécifique par marque qui diffuse votre campagne pour l'attribution offline.
-- **Durée de validité** : prévoyez au moins 3 mois : les destinataires conservent souvent les flyers plusieurs semaines avant de les scanner.
+- **Valeur monétaire :** « 10 € offerts » convertit mieux que « -10 % ».
+- **QR code + UTM :** ajoutez `utm_source=getinside&utm_medium=sponsored-mail` pour tracker les ventes dans Google Analytics.
+- **Code promo unique** par marque qui diffuse votre campagne, pour l'attribution offline.
+- **Validité :** au moins 3 mois, les flyers sont souvent gardés plusieurs semaines avant d'être scannés.
 :::
 
----
+## Pourquoi getinside
 
-## Pourquoi passer par getinside ?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🌐 Réseau Exclusif</strong>
-    <p>Des marques partenaires (+300 audiences agrégées), dont des audiences de niche souvent inaccessibles en direct. Un seul interlocuteur pour l'ensemble du réseau.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🏭 Logistique Intégrée</strong>
-    <p>Impression Made in France (Imprim'Vert, FSC), conditionnement et livraison en entrepôt gérés par getinside. Vous vous concentrez sur votre campagne.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>📊 Pilotage Centralisé</strong>
-    <p>Un dashboard unique pour suivre les distributions (reporting hebdo) et les performances QR (scans en temps réel). Zéro email de coordination.</p>
-  </div>
-</div>
-
----
+- **Réseau exclusif :** audiences de niche souvent inaccessibles en direct, un seul interlocuteur.
+- **Logistique intégrée :** impression Made in France (Imprim'Vert, FSC), conditionnement et livraison en entrepôt.
+- **Pilotage centralisé :** un dashboard pour les distributions et les scans.
 
 ## Démarrer
 
-**Prêt à lancer votre première campagne ?**
-
 - [📘 Guide de Conception](./design-guide/) : spécifications techniques, mentions légales, stratégie créative.
-- [🚀 Créer une campagne](https://app.getinside.media/){target="_blank"} : accédez à la plateforme directement.
+- [🚀 Créer une campagne](https://app.getinside.media/){target="_blank"}
 
 :::info Besoin d'aide ?
-Notre Studio Créatif prend en charge la direction artistique et l'exécution de votre campagne. → [Contacter le Studio](/resources/studio)
+Notre Studio Créatif prend en charge la direction artistique et l'exécution. → [Contacter le Studio](/resources/studio)
 :::

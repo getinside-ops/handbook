@@ -11,93 +11,41 @@ keywords:
 
 # Contact exclusion list
 
-Before sending, you can pass an exclusion list to the partner brand to remove certain contacts from the broadcast.
+Before sending, give the partner brand a list of contacts to remove from the broadcast.
 
-| Use case | Description |
-| :--- | :--- |
-| **Opt-out contacts** | Contacts who have unsubscribed from your communications. Their exclusion is mandatory to remain GDPR-compliant. |
-| **Existing customers** | You want to target new prospects only and exclude your current customers. |
-| **Both** | Merge both lists into a single file before sending it. |
-
-:::danger Personal data: secure channel mandatory
-Exclusion lists contain **personal data** under GDPR. Do not send them by email, getinside messaging, or WeTransfer.
-
-Any file containing addresses (even hashed) must go through a secure protocol.
+::: tip In short
+- Exclude opt-out contacts (mandatory under GDPR) and, if needed, your existing customers. Merge them into a single file.
+- CSV file, UTF-8, SHA-256 hashed emails preferred.
+- Secure channel only (SFTP, bucket, API), never email or WeTransfer.
 :::
 
----
+:::danger Personal data: secure channel mandatory
+These lists contain **personal data** under GDPR. Do not send them by email, getinside messaging, or WeTransfer. Any file containing addresses, even hashed, must go through a secure protocol.
+:::
 
 ## Sending the file
 
-The recommended method is SFTP transfer with **FileZilla** ([Download FileZilla](https://filezilla-project.org/){target="_blank"}, free, Windows / macOS / Linux).
+Recommended method: SFTP upload with **FileZilla** ([download](https://filezilla-project.org/){target="_blank"}, free, Windows / macOS / Linux). The partner brand provides:
 
-The partner brand will provide the SFTP connection details:
-
-| Field | What the partner brand provides |
-|-------|---------------------------|
+| Field | Content |
+|-------|---------|
 | Host | SFTP server address (e.g. `sftp.theirdomain.com`) |
 | Port | Usually `22` |
 | Path | Upload directory (e.g. `/suppression/incoming/`) |
 | Login | SFTP username |
 | Password | Shared outside messaging apps |
 
-**File format:** CSV, UTF-8 encoding, header `email_sha256` or `email`, filename `exclusion_YYYYMMDD.csv`. Prefer SHA-256 hashed emails: the partner brand can suppress addresses without ever seeing them in plain text.
+**Format:** CSV, UTF-8, header `email_sha256` or `email`, filename `exclusion_YYYYMMDD.csv`. Prefer SHA-256 hashing: the partner brand suppresses addresses without seeing them in plain text.
 
-:::details My infrastructure is different (SSH key SFTP, S3, Azure, GCP, API…)
+:::details My infrastructure is different (SSH key, S3, Azure, GCP, API)
 
-**SFTP with SSH key**
-
-More secure, no password. Generate a key pair and share your public key with the partner brand. FileZilla supports this method too.
-
-```bash
-ssh-keygen -t ed25519 -C "exclusion-list@yourdomain.com"
-# Share only the .pub file with the partner brand
-```
-
----
-
-**S3 bucket (AWS)**
-
-| Field | What you provide |
-|-------|-----------------|
-| Endpoint | e.g. `s3.eu-west-1.amazonaws.com` |
-| Bucket | Bucket name |
-| Directory | Destination prefix (e.g. `exclusion/`) |
-| Access Key ID | Dedicated IAM key (write only) |
-| Secret Access Key | To be shared outside messaging apps |
-
----
-
-**GCP bucket (Google Cloud Storage)**
-
-| Field | What you provide |
-|-------|-----------------|
-| Bucket | GCS bucket name |
-| Auth token | Service account JSON file with `Storage Object Creator` role |
-
----
-
-**Azure Blob Storage**
-
-Generate a SAS Token restricted to the `Write` operation, valid for 48h.
-
-| Field | What you provide |
-|-------|-----------------|
-| Storage account | Your Azure account name |
-| Container | Blob container name |
-| SAS Token | Signed access token (Write only, 48h) |
-
----
-
-**API / Endpoint (Eulerian or other)**
-
-If you use Eulerian, let the partner brand know: the integration is native, no file transfer needed.
-
-For any other ESP or DMP, share your endpoint documentation and the necessary access credentials.
+- **SFTP with SSH key** (no password): generate a key pair with `ssh-keygen -t ed25519 -C "exclusion-list@yourdomain.com"` and share only the `.pub` file. FileZilla supports this method.
+- **S3 bucket (AWS):** endpoint (e.g. `s3.eu-west-1.amazonaws.com`), bucket name, destination prefix (e.g. `exclusion/`), dedicated write-only IAM key (Access Key ID + Secret Access Key, the latter shared outside messaging apps).
+- **GCP bucket:** bucket name and a service account JSON file with the `Storage Object Creator` role.
+- **Azure Blob Storage:** storage account, container, and a SAS Token restricted to `Write`, valid for 48h.
+- **API / Endpoint:** with Eulerian the integration is native, just let the partner brand know. For any other ESP or DMP, share your endpoint documentation and the necessary access.
 
 :::
-
----
 
 ## Next step
 

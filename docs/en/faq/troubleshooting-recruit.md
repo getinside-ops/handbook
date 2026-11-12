@@ -11,72 +11,49 @@ keywords:
 
 # Troubleshooting: Recruit
 
+::: tip In short
+- Campaign not live: check "My Campaigns" first (pending approval), then the creative, then the print lead time (2 to 4 weeks).
+- Creative rejected: usually resolution, bleed, legal notices or banner format.
+- Support: [support@getinside.fr](mailto:support@getinside.fr), with the campaign number in the subject.
+:::
+
 ::: details My campaign is not live yet: what should I check?
+1. **Pending approval:** on [app.getinside.media](https://app.getinside.media/), **My Campaigns** tab. An active "Approve campaign" button means an action is expected from you.
+2. **Creative not submitted:** for newsletter banners and dedicated emails, check that your visual and destination URL were sent through the platform.
+3. **Print lead time:** for parcel inserts, 2 to 4 weeks between proof approval and flyers reaching the delivering brand.
 
-Several causes are possible:
-
-1. **Validation pending:** log in to [app.getinside.media](https://app.getinside.media/) and check the **"My Campaigns"** tab. An active "Validate campaign" button means an action is required from you.
-
-2. **Creative not submitted:** for newsletter placements or dedicated emails, creative assets must be sent to the brand delivering your campaign via the platform. Check that your visual and destination URL have been submitted.
-
-3. **Print lead time:** for parcel inserts, allow 2 to 4 weeks between proof approval and the receipt of the flyers by the brand that inserts them.
-
-If none of the above applies, contact [support@getinside.fr](mailto:support@getinside.fr).
-
+Otherwise, contact support.
 :::
 
 ::: details My creative was rejected: what are the common reasons?
-
-The most frequent reasons for rejection:
-
-- **Insufficient resolution:** print files must be at least 300 DPI in CMYK mode. Check the [technical specifications](/en/recruit/sponsored-mail/design-guide/print-specs).
-- **Missing bleed:** for parcel inserts, 3 mm bleed on each side is mandatory.
-- **Missing legal mentions:** AGEC law (recycling logos), offer terms (validity period, conditions). See the [legal guide](/en/recruit/sponsored-mail/design-guide/legal).
-- **Banner out of spec:** for newsletter placements, check the [accepted specifications](/en/recruit/display-email/specs).
-- **Non-compliant content:** offer without a validity date, misleading promise, or content incompatible with the editorial charter of the brand delivering your campaign.
-
+- **Resolution:** 300 DPI minimum, CMYK ([specifications](/en/recruit/sponsored-mail/design-guide/print-specs)).
+- **Missing bleed:** 3 mm on each side for parcel inserts.
+- **Missing legal notices:** AGEC law (recycling logos), validity period, conditions ([guide](/en/recruit/sponsored-mail/design-guide/legal)).
+- **Banner out of format:** see the [specifications](/en/recruit/display-email/specs).
+- **Non-compliant content:** offer without validity date, misleading claim, conflict with the delivering brand's guidelines.
 :::
 
-::: details I can't find the proof validation button
-
-The button appears only when a proof is waiting for your approval:
-
-1. Log in to [app.getinside.media](https://app.getinside.media/)
-2. Go to **My Campaigns**
-3. Select the campaign in question
-4. Look for the **"Validate campaign"** button in the tracking tab
-
-If the button is not visible, the brand delivering your campaign has not yet submitted the proof. Contact [support@getinside.fr](mailto:support@getinside.fr) to check the status.
-
+::: details I can't find the proof approval button
+It only appears when a proof awaits your approval: **My Campaigns** → the campaign → **"Approve campaign"** button in the tracking tab. Missing? The delivering brand has not submitted the proof yet: ask support to check the status.
 :::
 
 ::: details My campaign was paused: why?
-
-Possible causes:
-
-- **Stock depleted** (parcel inserts): the brand has inserted all the flyers received. Contact support to discuss a potential resupply.
-- **Correction request:** the brand flagged an issue with your creative during the campaign. Check your notifications on the platform.
-- **End of period:** the campaign end date has been reached.
-- **Technical issue:** contact [support@getinside.fr](mailto:support@getinside.fr) if none of the above applies.
-
+- **Out of stock** (parcel inserts): all flyers received are inserted. Ask support about a restock.
+- **Correction request:** the brand flagged an issue with your creative (check your notifications).
+- **End of period:** the end date has been reached.
+- Any other case: contact support.
 :::
 
-::: details I want to modify a campaign that's already running
-
-Possible modifications depend on the format:
-
-- **Destination URL:** changeable if you use a dynamic URL. Contact your account manager.
-- **Visual or creative:** cannot be changed after proof approval for parcel inserts (the flyer is printed). For email formats, a minor change may be possible before sending. Contact support.
-- **Budget or volume:** contact [support@getinside.fr](mailto:support@getinside.fr). A contract amendment may be required.
-
+::: details I want to change a running campaign
+- **Destination URL:** editable if it is dynamic, via your account manager.
+- **Visual:** cannot be changed after proof approval for parcel inserts (flyer printed). Sometimes possible before sending for email formats.
+- **Budget or volume:** via support, a contract amendment may be needed.
 :::
 
 ::: details How do I contact support?
+- **General:** [support@getinside.fr](mailto:support@getinside.fr), reply within 24 to 48 business hours.
+- **Creative studio (artwork, proofs):** [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout).
+- **Operations (contract, urgent issues):** [benoit@getinside.fr](mailto:benoit@getinside.fr).
 
-- **General support:** [support@getinside.fr](mailto:support@getinside.fr), response time: 24 to 48 business hours
-- **Creative Studio:** [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout), graphic production, proofs, creation
-- **Operations:** [benoit@getinside.fr](mailto:benoit@getinside.fr), contractual questions or urgent issues
-
-Include your campaign number in the subject line to speed up processing.
-
+Put the campaign number in the subject.
 :::

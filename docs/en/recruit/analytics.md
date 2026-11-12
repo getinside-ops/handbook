@@ -10,66 +10,51 @@ keywords:
 
 # Campaign Tracking & Measurement
 
-getinside attribution is **closed-loop**: the QR code scan and the promo code unique to each delivering brand tie each sale back to the campaign that generated it, with no third-party cookies. This guide shows how to complete that loop with your own tracking, following the buyer from first contact to conversion.
+::: tip In short
+- getinside measures scans (QR code) and clicks. What happens next on your site is measured with your UTM parameters.
+- The parcel insert QR code must point to a dynamic URL that can be changed after printing.
+- Test the URL and scan the QR before approving the proof.
+:::
 
-The getinside platform counts clicks and scans. To measure what happens **after** (visits, add-to-carts, conversions), you need to set up your own tracking layer.
+getinside attribution is **closed-loop**: the QR scan and the unique promo code per delivering brand tie each sale to its campaign, with no third-party cookies. To follow the buyer once they land on your site (visits, carts, conversions), add your own tracking.
 
-## Why your own tracking is important
-
-getinside tracks scan volume (QR code) and clicks (email, banner). These figures are available in your dashboard. But they stop at the entry point to your site. To measure the rest, you need UTM parameters in your destination URLs.
-
-## getinside UTM conventions
+## UTM conventions
 
 Add these parameters to your landing page URL before submitting it:
 
-| Parameter | Recommended value |
+| Parameter | Value |
 |---|---|
 | `utm_source` | `getinside` |
-| `utm_medium` | See table below |
+| `utm_medium` | Depends on the format (table below) |
 | `utm_campaign` | Your campaign name (e.g. `summer-promo-2026`) |
-| `utm_content` | Name of the delivering brand (optional) |
+| `utm_content` | Delivering brand (optional) |
 
-**`utm_medium` values by format:**
-
-| Format | `utm_medium` value |
-|---|---|
-| Parcel Insert | `sponsored-mail` |
-| Dedicated Email | `dedicated-email` |
-| Newsletter Banner | `display-email` |
-| Social Ads | `social-ads` |
-
-**Full URL example:**
+| Format | `utm_medium` | getinside measures | You measure |
+|---|---|---|---|
+| Parcel insert | `sponsored-mail` | QR code scans | Visits, purchases |
+| Dedicated email | `dedicated-email` | Link clicks | Visits, conversions |
+| Newsletter banner | `display-email` | Banner clicks | Visits, conversions |
+| Social Ads | `social-ads` | Boosted post clicks | Visits, conversions |
 
 ```
 https://mysite.com/summer-offer?utm_source=getinside&utm_medium=sponsored-mail&utm_campaign=summer-promo-2026
 ```
 
-## What a "conversion" means per format
+## Dynamic URL (parcel inserts)
 
-| Format | What getinside measures | What you measure on your side |
-|---|---|---|
-| Parcel Insert | QR code scans | Landing page visits → purchases |
-| Dedicated Email | Clicks on email links | Visits → conversions |
-| Newsletter Banner | Clicks on the banner | Visits → conversions |
-| Social Ads | Clicks on the boosted post | Visits → conversions |
-
-## Requirement for Parcel Inserts: dynamic URL
-
-The QR code on your flyer must point to a **dynamic URL** (changeable after printing). This lets you fix a URL error or update the landing page without reprinting.
+A dynamic URL can be changed after printing: fix a mistake or switch landing page without reprinting.
 
 ::: warning Static URL = risk
-A URL hard-coded in the QR code cannot be changed after printing. Always use a redirect system. getinside's QR service handles this automatically. Confirm with your account manager.
+A URL hard-coded in the QR code cannot change after printing. Use a redirect: the getinside QR service handles it automatically. Confirm with your account manager.
 :::
 
-## Verify your tracking is working
-
-Before validating your proof (BAT) or submitting your brief:
+## Check before the proof
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Test the URL</h3>
-    <p>Copy your URL with UTM parameters and paste it into your browser. Check that the page loads correctly.</p>
+    <p>Paste the URL with its UTM parameters in your browser and check that the page displays.</p>
   </div>
 </div>
 
@@ -77,14 +62,14 @@ Before validating your proof (BAT) or submitting your brief:
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Check in GA4</h3>
-    <p>In Google Analytics 4, go to <strong>Reports → Acquisition → Traffic acquisition</strong> and verify the session appears with the correct source (<code>getinside</code>) and medium.</p>
+    <p>In <strong>Reports → Acquisition → Traffic acquisition</strong>, check that the session shows up with the <code>getinside</code> source and the right medium.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
-    <h3>Scan the QR code (Parcel Insert)</h3>
-    <p>For print campaigns, scan your QR code with a phone before approving the final proof. Verify the redirect and UTM parameters in your analytics tool.</p>
+    <h3>Scan the QR (parcel inserts)</h3>
+    <p>Scan the QR with a phone before the final proof and check the redirect and UTMs in your analytics tool.</p>
   </div>
 </div>

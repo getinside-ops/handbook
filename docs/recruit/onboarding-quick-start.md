@@ -12,30 +12,29 @@ keywords:
 
 # Démarrage Rapide : Recruter
 
-Vous souhaitez lancer votre première campagne sur getinside. En 4 étapes (15 minutes), votre proposition de campagne part aux marques qui la diffuseront.
+En 4 étapes (15 minutes), votre première proposition de campagne part aux marques qui la diffuseront.
 
-::: tip
-**Ce guide est pour vous si :** vous avez un compte getinside (ou êtes en train d'en créer un) et voulez lancer votre première campagne rapidement.
+::: tip En bref
+- Compte professionnel (SIRET requis), puis choix du format et brief.
+- La plateforme propose les marques, qui acceptent, refusent ou contre-proposent.
+- **Validez la campagne sous 48 h ouvrées** : c'est contractuel, passé ce délai elle peut être annulée et des pénalités peuvent s'appliquer.
 :::
 
----
+<div class="gi-step">
+  <div class="gi-step-num">1</div>
+  <div class="gi-step-body">
+    <h3>Créez votre compte (3 min)</h3>
+    <p>Sur <a href="https://app.getinside.media/">app.getinside.media</a>, cliquez sur <strong>« Créer un compte »</strong> et renseignez nom, email, SIRET et coordonnées de facturation, puis validez votre email. Invité par votre gestionnaire ? Cliquez sur le lien d'activation de l'email d'invitation.</p>
+  </div>
+</div>
 
-## Étape 1 : Créez votre compte (3 min)
-
-L'accès est **réservé aux professionnels** (SIRET requis).
-
-1. Rendez-vous sur [app.getinside.media](https://app.getinside.media/)
-2. Cliquez sur **"Créer un compte"**
-3. Renseignez vos informations : nom, email, SIRET, coordonnées de facturation
-4. Validez votre email : votre compte est activé
-
-> Si vous avez été invité par votre gestionnaire de compte, ouvrez l'email d'invitation et cliquez sur le lien d'activation.
-
----
-
-## Étape 2 : Choisissez votre format (2 min)
-
-Chaque format cible un objectif différent :
+<div class="gi-step">
+  <div class="gi-step-num">2</div>
+  <div class="gi-step-body">
+    <h3>Choisissez votre format (2 min)</h3>
+    <p>Pas sûr ? Votre gestionnaire de compte vous conseille lors d'un appel de 15 minutes.</p>
+  </div>
+</div>
 
 | Format | Objectif idéal | Délai typique |
 |--------|---------------|--------------|
@@ -43,57 +42,37 @@ Chaque format cible un objectif différent :
 | **📧 Emailing dédié** | Acquisition email, trafic direct | 1-2 semaines |
 | **📩 Encart newsletter** | Visibilité, remarketing | 1 semaine |
 | **📱 Social Ads** | Engagement, visibilité réseaux sociaux | 1-2 semaines |
-| **🎁 Bundle** | Collecte de leads qualifiés, jeu intégré | 2-3 semaines |
+| **🎁 Bundle** | Leads qualifiés, jeu intégré | 2-3 semaines |
 
 Le Studio ne crée pas les landing pages des jeux intégrés aux bundles : elles restent à la charge de la marque qui diffuse le jeu.
 
-> Pas sûr ? Votre gestionnaire de compte getinside vous conseille selon vos objectifs lors d'un appel de 15 minutes.
+<div class="gi-step">
+  <div class="gi-step-num">3</div>
+  <div class="gi-step-body">
+    <h3>Soumettez votre brief (5 min)</h3>
+    <p><strong>Espace :</strong> Mes Campagnes → Créer une campagne.</p>
+  </div>
+</div>
 
----
+- **Informations de base :** volume souhaité (colis, contacts ou impressions), budget, dates de diffusion, URL de destination (avec UTM si possible).
+- **Matière créative :** promesse de l'offre (ex. « -20 % pour les nouveaux clients »), visuels conformes aux [spécifications techniques](/recruit/sponsored-mail/design-guide/print-specs), arguments clés. Sans visuels, le **Studio getinside** crée vos supports.
 
-## Étape 3 : Soumettez votre brief (5 min)
+Un panneau latéral affiche en temps réel vos estimations de reach (volume de contacts, CTR et CPC estimés) et la répartition de votre budget (audience, Studio, logistique).
 
-**Espace :** Mes Campagnes → Créer une campagne
+::: details Trust Index
+Score de 1 à 5 fondé sur votre historique commun avec la marque qui diffuse : 1 peu probable, 4 garanti, 5 confiance maximale.
+:::
 
-Vous aurez besoin de :
+<div class="gi-step">
+  <div class="gi-step-num done">4</div>
+  <div class="gi-step-body">
+    <h3>Choisissez les marques et validez (5 min)</h3>
+    <p>Consultez les profils proposés (secteur, panier moyen, volume hebdomadaire). Une barre indique en temps réel vos chances d'acceptation. Les marques peuvent <strong>accepter, refuser ou contre-proposer</strong>.</p>
+  </div>
+</div>
 
-**Informations de base :**
-- Volume souhaité (nombre de colis, contacts, impressions selon le format)
-- Budget et dates de diffusion
-- URL de destination (avec UTM si possible)
+Une fois l'accord trouvé, **validez la campagne en moins de 48 h ouvrées** : un Bon de Commande est généré automatiquement. Validez ensuite le **BAT (Bon à Tirer)**, dernière vérification visuelle et technique avant la production.
 
-**Matière créative :**
-- La promesse de votre offre (ex : "-20% pour les nouveaux clients")
-- Vos visuels (selon les [spécifications techniques](/recruit/sponsored-mail/design-guide/print-specs))
-- Vos arguments clés
+Suivez les performances dans **Mes Campagnes → Statistiques**.
 
-Pendant la configuration, un panneau latéral affiche en temps réel vos estimations de reach (volume de contacts, CTR et CPC estimés) et la répartition de votre budget (audience, Studio, logistique).
-
-Consultez aussi le **Trust Index** : un score de 1 à 5 fondé sur votre historique commun avec la marque qui diffuse. 1 signifie peu probable, 4 garanti, 5 confiance maximale.
-
-> Pas de visuels ? Le **Studio getinside** crée vos supports créatifs. Contactez votre gestionnaire pour en savoir plus.
-
----
-
-## Étape 4 : Choisissez les marques qui diffusent votre campagne et validez (5 min)
-
-1. La plateforme vous propose une **sélection de marques** dont l'audience correspond à vos critères
-2. Consultez les profils : secteur, panier moyen, volume hebdomadaire
-3. Une barre visuelle indique en temps réel vos chances d'acceptation quand vous ajustez votre proposition
-4. Les marques reçoivent votre proposition et peuvent **accepter, refuser ou contre-proposer**
-5. Une fois l'accord trouvé, **validez la campagne en moins de 48h ouvrées** : un Bon de Commande est généré automatiquement
-6. Validez le **BAT (Bon à Tirer)** : dernière vérification visuelle et technique avant la mise en production
-
----
-
-## Votre campagne est lancée ✅
-
-Suivez les performances en temps réel dans **Mes Campagnes → Statistiques**.
-
-**Rappel important :** la validation dans les 48h est contractuelle. Passé ce délai, la campagne peut être annulée et des pénalités peuvent s'appliquer.
-
----
-
-**Prochaines étapes :**
-- [Guide Insertion colis](/recruit/sponsored-mail/) : specs techniques et créa
-- [Studio Créatif](/resources/studio) : déléguer la création de vos supports
+**Prochaines étapes :** [guide Insertion colis](/recruit/sponsored-mail/) (specs techniques et créa) et [Studio Créatif](/resources/studio) (déléguer la création).

@@ -12,31 +12,27 @@ keywords:
 
 # Step 2: Email Creation & Co-branding
 
-Once your brief is sent, the brand delivering your campaign takes over to design the email. This step requires no action from you.
+The brand delivering your campaign designs the email. This step requires no action from you.
 
----
-
-## Why aren't you the one creating the email?
-
-**The power of endorsement (recommendation).**
-
-The goal is not to send a raw ad, but a recommendation from a trusted partner. This brand's subscribers trust it. To maximize open and click rates, the email follows the visual codes and usual tone of the newsletter they receive every week.
-
----
-
-## What will your campaign look like?
-
-| ✅ Expected result (Native) | ❌ What is avoided (Full Brand) |
-| :--- | :--- |
-| **Partner header**: the brand's logo and menu at the top, to reassure the subscriber | 100% branded email to your site's colors, without partner mention |
-| **Intro editorial**: the brand writes a hook sentence (*"Our favorite..."*) | Lack of contextualization by the brand |
-| **Your assets**: visuals and offer integrated in the center, with the partner's fonts and buttons | Cognitive dissonance: the subscriber doesn't understand why they're receiving this email |
-
-:::warning Avoid Full Brand
-A Full Brand email without mentioning the partner confuses the subscriber, increases unsubscribes, and **drops performance**. Native co-branding is not a constraint: it's what makes the format effective.
+::: tip In short
+- The email is a recommendation: it follows the branding and tone of the brand's usual newsletter.
+- It includes your visuals and offer, introduced by an editorial from the brand.
+- You can change the destination URL at any time: links are dynamic.
 :::
 
----
+## Why you don't create the email
+
+Subscribers trust the brand. An email that follows the codes of their weekly newsletter maximizes open and click rates.
+
+| ✅ Native (expected) | ❌ Full Brand (avoided) |
+| :--- | :--- |
+| **Partner header**: the brand's logo and menu | 100% email in your colors, no partner mention |
+| **Intro editorial** from the brand (*"Our favorite..."*) | No contextualization |
+| **Your assets** in the center, with the partner's fonts and buttons | The subscriber doesn't understand why they receive this email |
+
+:::warning Avoid Full Brand
+It confuses the subscriber, increases unsubscribes, and **drops performance**.
+:::
 
 ## The production workflow
 
@@ -44,7 +40,7 @@ A Full Brand email without mentioning the partner confuses the subscriber, incre
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Design</h3>
-    <p>The brand (or the getinside Studio) assembles the email using elements from your brief (visuals, offer, wording) in its usual visual style.</p>
+    <p>The brand (or the getinside Studio) assembles the email using the elements of your brief.</p>
   </div>
 </div>
 
@@ -52,7 +48,7 @@ A Full Brand email without mentioning the partner confuses the subscriber, incre
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Technical integration</h3>
-    <p>Dynamic tracking links are generated and inserted. The HTML code is optimized for deliverability and responsiveness.</p>
+    <p>Dynamic tracking links are inserted. The HTML is optimized for deliverability and responsiveness.</p>
   </div>
 </div>
 
@@ -60,24 +56,14 @@ A Full Brand email without mentioning the partner confuses the subscriber, incre
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>Internal review</h3>
-    <p>The getinside team checks technical quality before submitting the result for your validation.</p>
+    <p>The getinside team checks technical quality before submitting the result to you.</p>
   </div>
 </div>
 
----
-
-## Your links are dynamic
-
-Made a mistake in the brief? Changing landing page at the last minute?
-
-:::tip Don't panic: edit anytime
-Email tracking links are **dynamic**, like getinside QR codes. You can modify the final destination URL at any time in the **"Configuration and Tracking"** tab of your campaign, even if the brand has already embedded the link.
+:::tip A mistake in the brief?
+Tracking links are **dynamic**, like getinside QR codes. Edit the destination URL at any time in the **"Configuration and Tracking"** tab, even if the brand has already embedded the link.
 :::
-
----
 
 ## What's next?
 
-As soon as the creative is ready and technically validated, you receive a notification to proceed to Proof (BAT) validation.
-
-→ Next step: [Validation & Broadcast](./3-validation-diffusion)
+When the creative is ready, you receive a notification to validate the proof (BAT): [Validation & Broadcast](./3-validation-diffusion).

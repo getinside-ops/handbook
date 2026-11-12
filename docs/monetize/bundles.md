@@ -11,15 +11,19 @@ keywords:
 
 # Vendre des Bundles
 
-Un Bundle est un dispositif scénarisé qui associe plusieurs de vos inventaires (insertion colis, emailing, social, bannières) en une seule opération. Vous diffusez à vos clients la campagne d'une marque partenaire sur plusieurs canaux à la fois. Vous valorisez ainsi des espaces difficiles à vendre seuls en les associant à votre meilleur inventaire, et vous augmentez votre revenu moyen par campagne.
+Un Bundle associe plusieurs de vos inventaires (insertion colis, emailing, social, bannières) en une seule opération pour le compte d'une marque partenaire.
+
+::: tip En bref
+- Vous valorisez des espaces difficiles à vendre seuls en les associant à votre meilleur inventaire.
+- Vous définissez un pack standard, getinside le référence dans le catalogue.
+- Seuls les participants ayant coché l'opt-in partenaire sont transmis à la marque.
+:::
 
 ::: tip Vous voulez faire diffuser votre propre Bundle ?
-Vous souhaitez activer un Bundle multicanal chez d'autres marques ? Consultez le [guide Bundles & Media Kits](/recruit/bundles).
+Consultez le [guide Bundles & Media Kits](/recruit/bundles).
 :::
 
 ## Exemples de Bundles
-
-Découvrez une sélection de Bundles proposés par des marques partenaires.
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -38,7 +42,7 @@ Découvrez une sélection de Bundles proposés par des marques partenaires.
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Définissez votre pack standard</h3>
-    <p>Sélectionnez les inventaires à inclure (insertion colis, email dédié, post social, bannière homepage) et la durée de l'opération. Exemple : "Pack Visibilité Rentrée" sur un mois.</p>
+    <p>Choisissez les inventaires (insertion colis, email dédié, post social, bannière homepage) et la durée. Exemple : "Pack Visibilité Rentrée" sur un mois.</p>
   </div>
 </div>
 
@@ -46,7 +50,7 @@ Découvrez une sélection de Bundles proposés par des marques partenaires.
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Référencez l'offre sur la plateforme</h3>
-    <p>Contactez l'équipe getinside. Nous créons l'offre dans le catalogue avec un pictogramme dédié, ce qui la rend visible de toutes les marques du catalogue.</p>
+    <p>Contactez l'équipe getinside : l'offre est créée dans le catalogue avec un pictogramme dédié, visible de toutes les marques.</p>
   </div>
 </div>
 
@@ -54,7 +58,7 @@ Découvrez une sélection de Bundles proposés par des marques partenaires.
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Hébergez le dispositif (si jeu-concours)</h3>
-    <p>Pour un Bundle avec jeu-concours, vous créez la landing page sur votre domaine (ex : <code>votre-site.com/jeu-concours-marque</code>), co-brandée avec la marque partenaire. Vous dirigez le trafic via vos canaux habituels.</p>
+    <p>Vous créez la landing page sur votre domaine (ex : <code>votre-site.com/jeu-concours-marque</code>), co-brandée avec la marque partenaire, et dirigez le trafic via vos canaux habituels.</p>
   </div>
 </div>
 
@@ -62,20 +66,7 @@ Découvrez une sélection de Bundles proposés par des marques partenaires.
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Transmettez les leads et clôturez</h3>
-    <p>À la fin de l'opération, exportez la liste des participants ayant coché l'opt-in partenaire et transmettez-la à la marque via getinside. C'est la marque qui envoie les lots aux gagnants, pas vous.</p>
-  </div>
-</div>
-
-## Pourquoi proposer des Bundles
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Des formats gamifiés</strong>
-    <p>Jeu-concours, roue de la fortune, quiz : vos clients préfèrent un jeu à une publicité produit classique.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Un revenu moyen plus élevé</strong>
-    <p>Un Bundle valorise votre image et votre mise en place au-delà du simple volume d'impressions de chaque canal vendu seul.</p>
+    <p>Exportez la liste des participants ayant coché l'opt-in partenaire et transmettez-la à la marque via getinside. La marque envoie les lots aux gagnants, pas vous.</p>
   </div>
 </div>
 
@@ -87,12 +78,6 @@ Le formulaire d'inscription doit inclure cette case, jamais pré-cochée :
 Seuls les participants ayant coché cette case sont transmis à la marque partenaire. La conformité RGPD relève de la marque partenaire et de vous.
 :::
 
-## Composer votre pack
-
-Le contenu du pack tient compte de la valeur de chaque inventaire, de votre mise en place et de l'animation de l'opération. Les marques partenaires peuvent discuter le contenu du pack, par exemple retirer un canal ou ajuster un volume. Vous validez le pack final dans la plateforme.
-
-## Démarrer
-
-1. Définissez votre pack standard (inventaires et durée).
-2. Contactez l'équipe getinside.
-3. Votre offre est créée dans le catalogue avec un pictogramme dédié.
+::: details Composer votre pack
+Le contenu tient compte de la valeur de chaque inventaire, de votre mise en place et de l'animation de l'opération. Les marques partenaires peuvent le discuter (retirer un canal, ajuster un volume). Vous validez le pack final dans la plateforme.
+:::

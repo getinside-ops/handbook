@@ -11,81 +11,60 @@ keywords:
 
 # Audience Profile Setup
 
-Your audience profile is your shop window for brands that want to reach your audience. The more precise it is, the more relevant proposals you will receive.
+Your audience profile is your shop window for brands that want to reach your audience. The more precise it is, the more relevant proposals you receive.
 
-## 1. The Identity of your Audience
-
-This is the first thing brands that want to reach your audience see. Take care of the presentation to trigger a "crush".
-
-- **Presentation:** Tell your story, your values, and your positioning.
-- **CSR Commitments:** Check the boxes (Made in France, Reusable parcels...) only if you can prove it.
-- **Visuals:** Upload a logo and a banner that represent your universe.
-
-::: tip 💡 The team's advice
-In the **"Persona"** field, be descriptive: *"Amateur or expert gardener looking for sustainable products to maintain their vegetable garden."* This helps brands that recruit through your audience better understand who your customers are.
+::: tip In short
+- Take care of identity and persona, and fill in the demographic data: it feeds Smart Matching.
+- Activate only the formats you can honor, and declare your 12-month inventory.
+- A single account covers several sites: one profile per site.
 :::
 
-## 2. Demographic Data
+## 1. Identity
 
-These fields feed the Smart Matching algorithm. An incomplete profile reduces your visibility in the results.
+- **Presentation:** your story, your values, your positioning.
+- **CSR commitments:** check the boxes (Made in France, reusable parcels...) only if you can prove it.
+- **Visuals:** a logo and a banner that represent your universe.
+- **Persona:** be descriptive, for example *"Amateur or expert gardener looking for sustainable products for their vegetable garden."*
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Average Order Value</strong>
-    <p>Indicate the average amount excl. tax. This allows brands to target by purchasing power.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Typology (B2C/B2B)</strong>
-    <p>Excluding criterion. Make sure it is correct: an error reduces your relevant proposals.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Buyer Profile</strong>
-    <p><em>Discounter, Budget, Median, High-end.</em> Position yourself in relation to your market.</p>
-  </div>
-</div>
+## 2. Demographic data
 
-## 3. Activate formats for this audience
+An incomplete profile reduces your visibility in Smart Matching.
 
-For each created audience, independently activate the formats you wish to monetize:
+| Field | Good to know |
+| :--- | :--- |
+| **Average Order Value** | Average amount excl. tax, for targeting by purchasing power. |
+| **Typology (B2C/B2B)** | Excluding criterion: an error reduces your relevant proposals. |
+| **Buyer profile** | Discounter, Budget, Median, High-end. |
 
-- **📦 Parcel Insert**: Flyers or samples in your parcels
-- **📧 Dedicated Emailing**: Recommendation via your newsletter
-- **📩 Display Email**: Banners in your emails
-- **📱 Social Ads**: Sponsored Instagram / TikTok posts
-- **🎁 Bundle**: several inventories packaged into one scripted offer
+## 3. Enabled formats
 
-> You can activate or deactivate a format at any time without impacting ongoing campaigns.
+For each audience, independently activate the formats to monetize: **Parcel Insert** (flyers, samples), **Dedicated Emailing**, **Display Email**, **Social Ads** (Instagram / TikTok), **Bundle** (several inventories in one scripted offer). You can activate or deactivate a format at any time without impacting ongoing campaigns.
 
-## 4. Fill in your 12-month inventory
+## 4. 12-month inventory
 
-For Parcel Inserts, declare your forecast weekly volumes. Use **Edit all weeks** to apply the same volume in one action, or **Empty weeks only** to fill gaps without overwriting your specific entries.
+For Parcel Inserts, declare your forecast weekly volumes. **Edit all weeks** applies the same volume in one action, **Empty weeks only** fills gaps without overwriting your entries.
 
 **Workspace:** Monetization → Catalog → [Your Audience] → [Campaign Type] → Inventory
 
 ::: tip An up-to-date inventory means more campaigns
-Brands that recruit favor audiences whose availability is guaranteed in advance. A 12-month inventory improves your visibility in Smart Matching.
+Brands favor audiences whose availability is guaranteed in advance: a 12-month inventory improves your visibility.
 :::
 
-## 5. Managing multiple audiences and sites
+## 5. Multiple audiences and sites
 
-**A single account is enough**, even if you operate multiple e-commerce sites. Each site can have its own audience profile with its specific data.
+Each site has its own profile, with its specific data, in the same account. **Workspace:** Monetization → Catalog → + New audience
 
-**Workspace:** Monetization → Catalog → + New audience
-
-Best practices for a multi-audience catalog:
-- Clearly name each audience (e.g., "Women's Fashion Site", "B2C Garden Site")
-- Provide distinct data per site. Do not pool the numbers
-- Only activate formats that you can actually honor on this site
-
-**International:** getinside operates throughout Europe. Add your European audiences to receive campaigns targeted by country.
+- Clearly name each audience (e.g. "Women's Fashion Site", "B2C Garden Site").
+- Provide distinct data per site, do not pool the numbers.
+- Only activate formats you can actually honor on that site.
+- **International:** getinside operates throughout Europe. Add your European audiences to receive campaigns targeted by country.
 
 ## Frequently Asked Questions
 
-**How to add a user to my account?**
-Go to **My Organization → Team** → `+ Add a member`. Recommended: always have a backup to ensure responsiveness within 48h.
+::: details How do I add a user to my account?
+**My Organization → Team** → `+ Add a member`. Always keep a backup to ensure responsiveness within 48h.
+:::
 
-**Can I manage multiple sites from a single account?**
-Yes. A getinside account can host as many audiences as you want, one per site or per customer segment.
-
-**Where to track my referrals (affiliation)?**
+::: details Where do I track my referrals (affiliation)?
 In the **Affiliation** tab. You are rewarded on a recurring basis for your referrals' activity, paid directly into your Wallet. Referrals must be established in France or the EEA. → [Affiliate Program](/en/monetize/affiliation)
+:::
