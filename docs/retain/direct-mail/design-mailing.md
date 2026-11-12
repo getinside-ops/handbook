@@ -13,11 +13,11 @@ image: /images/gi-keyvisual.svg
 
 # Concevoir votre courrier adressé
 
-Le studio getinside crée votre courrier par défaut. Cette page explique ce que contient votre brief, et comment créer vous-même votre visuel.
+Le studio getinside crée votre courrier par défaut, en une ou plusieurs versions. Cette page explique ce que contient votre brief, et comment créer vous-même votre visuel.
 
 ## Confier la création au studio
 
-Transmettez un brief au studio : l'offre, le code promo, la cible et vos éléments de marque (logo, couleurs, polices). Il réalise le visuel, configure les champs personnalisés et prépare le BAT. Écrivez à [studio@getinside.fr](mailto:studio@getinside.fr).
+Transmettez un brief au studio : l'offre, le code promo, la cible et vos éléments de marque (logo, couleurs, polices). Il réalise le ou les visuels, configure les champs personnalisés et prépare le BAT de chaque version. Il paramètre aussi le modèle de mailing auquel votre fichier est rattaché par un code opération unique. Écrivez à [studio@getinside.fr](mailto:studio@getinside.fr).
 
 ## Créer vous-même
 

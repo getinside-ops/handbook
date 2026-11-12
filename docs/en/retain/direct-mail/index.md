@@ -57,7 +57,7 @@ A file of your churners, with each customer's postal address. The [Prepare your 
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Prepare your file</h3>
-    <p>Export your churners from your tool, check the file, then send it through a secure channel. Follow the <a href="/handbook/en/retain/direct-mail/prepare-file">file guide</a>.</p>
+    <p>Export your churners from your tool, check the file, then upload it through the secure link we send you. We then clean your addresses. Follow the <a href="/handbook/en/retain/direct-mail/prepare-file">file guide</a>.</p>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ A file of your churners, with each customer's postal address. The [Prepare your 
   <div class="gi-step-num">5</div>
   <div class="gi-step-body">
     <h3>Printing and posting</h3>
-    <p>getinside prints and posts the mailing with its partners. Allow 9 to 13 business days between receipt of your approved file and the mailbox.</p>
+    <p>getinside prints and posts the mailing with its partners. Allow 9 to 13 business days (Monday to Friday, excluding public holidays) between receipt of a compliant file and the mailbox.</p>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ A file of your churners, with each customer's postal address. The [Prepare your 
   <div class="gi-step-num done">6</div>
   <div class="gi-step-body">
     <h3>Track the results</h3>
-    <p>Follow the scans and the purchases they generate. With a unique QR code and promo code, each purchase traces back to a specific customer. Then compare with your control group.</p>
+    <p>Follow the scans and the purchases they generate. With a unique QR code and promo code, each purchase traces back to a specific customer. Then compare with your control group. Undelivered mail comes back as a CSV file, so you can update your database.</p>
   </div>
 </div>
 
@@ -106,11 +106,13 @@ A file of your churners, with each customer's postal address. The [Prepare your 
 - **One partner, three channels:** parcel inserts, direct mail and sampling, from the same platform.
 - **End to end:** design studio, proof, printing in France, quality control and delivery.
 - **Tracking by customer:** unique QR code and promo code, as an option.
+- **Clean addresses:** every file is checked before printing: postal standards, duplicates, people who have moved.
+- **Protected data:** once uploaded, your file can be neither viewed nor downloaded, including by getinside.
 - **From mailing to growth:** after your churners, recruit new customers in other brands' audiences.
 
 ## Reaching another brand's customers
 
-You can also write to another brand's customers. That brand sends its contacts through a secure channel to our printing partner. You supply the creative. This route is not yet a standard offer: talk to our team.
+You can also write to another brand's customers. That brand uploads its contacts to a secure server at our printing partner, with no access for getinside. You supply the creative. This route is not yet a standard offer: talk to our team.
 
 ## Why it works
 
@@ -127,6 +129,8 @@ GDPR processing based on legitimate interest, with the right to object stated on
 - Answer requests to exercise rights within one month.
 - Keep a record of objections: the CNIL recommends keeping it for at least 3 years.
 
+On the getinside side, our printing partner processes your file under a processing agreement compliant with GDPR Article 28. The file is deleted after production, usually 48 hours to 15 days after upload.
+
 ## Frequently asked questions
 
 ::: details Why a white envelope?
@@ -142,7 +146,15 @@ Yes, if your Wallet is credited by the campaigns you deliver. See [revenue payme
 :::
 
 ::: details Does my file need cleaning before sending?
-Check it before exporting: duplicates, incomplete addresses, postal code matching the town. The checklist is in the [file guide](/en/retain/direct-mail/prepare-file).
+Do the basic checks before exporting. getinside then cleans your addresses before every print run: postal standardization, duplicates and people who have moved. See the [file guide](/en/retain/direct-mail/prepare-file).
+:::
+
+::: details Who sees my data?
+Once uploaded to the secure server, your file can be neither viewed nor downloaded, including by getinside. It is deleted after production.
+:::
+
+::: details What happens to undelivered mail?
+It comes back from a few days after upload, and almost all of it has returned about a month later. You receive a CSV file with the recipient's identifier and the reason for non-delivery.
 :::
 
 <div class="gi-quick-links">

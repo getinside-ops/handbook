@@ -23,6 +23,8 @@ An XLSX or CSV spreadsheet, with one row per customer. It must arrive ready to p
 - **Postal address:** number, street, postal code, town.
 - **Campaign fields:** the elements to personalize in the mailing, for example a unique promo code. See the [design guide](/en/retain/direct-mail/design-mailing).
 
+Each file is linked to your mailing by a unique operation code, provided when your campaign starts. The code is also the file name to use.
+
 ## Step 1: select your churners
 
 A churner no longer opens your emails and no longer buys. Combine two criteria.
@@ -62,7 +64,7 @@ Your tool is not listed? Search for "export a segment" in its help, or ask its s
 
 ## Step 3: check the file
 
-Check these points before sending the file.
+Check these points before sending the file. They lighten the cleaning that follows.
 
 - Duplicates are removed: same person, same address.
 - Rows without a complete address are set aside.
@@ -75,9 +77,15 @@ Check these points before sending the file.
 Your spreadsheet has a function to remove duplicates. Apply it to the full address, not to the name alone.
 :::
 
+**Address cleaning, systematic.** Before printing, every file goes through address cleaning. It covers postal standardization (consistency of postal code, town and street), detection of duplicates and detection of people who have moved. Each address is classed as correct, automatically corrected, doubtful or rejected. The goal is to print only mail that can be delivered.
+
 ## Step 4: send the file
 
-The file contains personal data. Never send it as an attachment to an unprotected email. It is sent through a secure channel to our printing partner. Our team tells you how to proceed when your campaign starts.
+The file contains personal data. Never send it as an attachment to an unprotected email. getinside gives you the link to a secure web interface and the name to give your file. This name is your unique operation code: it links the file to your mailing. Upload your database from this interface. Once uploaded, the file can be neither viewed nor downloaded, including by getinside. It is deleted after production, usually 48 hours to 15 days after upload.
+
+## Undelivered mail
+
+Undelivered mail comes back to you as a CSV file, with the recipient's identifier and the reason for non-delivery. The first returns arrive a few days after upload, and almost all of it about a month later. Use this file to update your database.
 
 ## Respect objections
 

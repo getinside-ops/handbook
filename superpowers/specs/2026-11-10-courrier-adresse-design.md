@@ -191,6 +191,24 @@ Ces points ne figurent pas dans les sources. Les pages les formulent de façon g
 - Recherche de mots interdits dans le diff : nom de l'imprimeur, de concurrents, de collègues, « € », « marge », « tarif ».
 - `npm run docs:build` sans erreur.
 
+## Mise à jour du 12 novembre
+
+Réponses écrites de l'imprimeur, reportées dans les pages et dans la fiche `superpowers/fact-check/2026-11-10-courrier-adresse-questions.md`. Ce qui change par rapport à cette spec :
+
+- **Délai** : J+9 à J+13 en jours ouvrés, depuis la réception d'un fichier conforme. Publié tel quel. Le fait 8 est résolu.
+- **Volume minimum** : 3 500 courriers publiés (décision du 10 novembre). Le fait 19 est tranché.
+- **Fichier** : l'affirmation « getinside ne nettoie pas les données » est fausse. L'imprimeur propose une mise aux normes postales, un dédoublonnage et la détection des déménagés, en option payante, avec audit gratuit. Les pages présentent ce traitement comme une option, sans prix.
+- **Données** : les fichiers déposés ne sont ni consultables ni téléchargeables, y compris par getinside. La promesse peut figurer dans les pages. Les faits 17 et 23 sont en partie résolus. Reste à savoir qui dépose le fichier.
+- **Plis non distribués** : retour en CSV, la quasi-totalité environ un mois après le dépôt. Section ajoutée au guide fichier.
+- **RGPD** : contrat de sous-traitance conforme à l'article 28, conservation de 48 heures à 15 jours. Reste le contrat entre getinside et la marque (fait 21).
+- **Argument de différenciation** : getinside peut répondre sur le contrôle du fichier, ce que le prestataire concurrent met en avant. Le tarif du traitement reste hors handbook.
+
+### Décisions complémentaires du 12 novembre
+
+- **Nettoyage des adresses systématique** : getinside l'applique à chaque fichier, car imprimer des plis non distribuables n'a de sens ni en prix ni en performance. Les pages ne parlent plus d'option.
+- **Dépôt par la marque** : getinside transmet un lien de dépôt sécurisé et un nom de fichier (le code opération). Hypothèse de travail, à confirmer avec l'imprimeur (fiche, questions 3 et 4).
+- **Création** : le studio gère une ou plusieurs créations. Le parcours « créer soi-même » reste documenté.
+
 ## Hors périmètre
 
 - Grille tarifaire, marge, script de pitch et réponses aux objections de prix : document interne séparé. Il porte l'argument prix face aux prestataires spécialisés, que le handbook ne peut pas publier.

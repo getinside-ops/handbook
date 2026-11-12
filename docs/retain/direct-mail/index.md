@@ -57,7 +57,7 @@ Un fichier de vos churners, avec l'adresse postale de chaque client. Le guide [P
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Préparez votre fichier</h3>
-    <p>Exportez vos churners depuis votre outil, contrôlez le fichier, puis transmettez-le par un canal sécurisé. Suivez le <a href="/handbook/retain/direct-mail/prepare-file">guide fichier</a>.</p>
+    <p>Exportez vos churners depuis votre outil, contrôlez le fichier, puis déposez-le sur le lien sécurisé que nous vous transmettons. Nous nettoyons ensuite vos adresses. Suivez le <a href="/handbook/retain/direct-mail/prepare-file">guide fichier</a>.</p>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ Un fichier de vos churners, avec l'adresse postale de chaque client. Le guide [P
   <div class="gi-step-num">5</div>
   <div class="gi-step-body">
     <h3>Impression et envoi</h3>
-    <p>getinside imprime et poste le courrier avec ses partenaires. Comptez 9 à 13 jours ouvrés entre la réception de votre fichier validé et la boîte aux lettres.</p>
+    <p>getinside imprime et poste le courrier avec ses partenaires. Comptez 9 à 13 jours ouvrés (du lundi au vendredi, hors jours fériés) entre la réception d'un fichier conforme et la boîte aux lettres.</p>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ Un fichier de vos churners, avec l'adresse postale de chaque client. Le guide [P
   <div class="gi-step-num done">6</div>
   <div class="gi-step-body">
     <h3>Suivez les résultats</h3>
-    <p>Suivez les scans et les achats générés. Avec un QR code et un code promo uniques, chaque achat remonte à un client précis. Comparez ensuite avec votre groupe témoin.</p>
+    <p>Suivez les scans et les achats générés. Avec un QR code et un code promo uniques, chaque achat remonte à un client précis. Comparez ensuite avec votre groupe témoin. Les plis non distribués reviennent sous forme de fichier CSV, pour mettre à jour votre base.</p>
   </div>
 </div>
 
@@ -106,11 +106,13 @@ Un fichier de vos churners, avec l'adresse postale de chaque client. Le guide [P
 - **Un seul partenaire, trois canaux :** insertion colis, courrier adressé et échantillonnage, depuis la même plateforme.
 - **De bout en bout :** studio de création, BAT, impression en France, contrôle qualité et livraison.
 - **Un suivi par client :** QR code et code promo uniques, en option.
+- **Des adresses nettoyées :** chaque fichier est contrôlé avant l'impression : normes postales, doublons, personnes qui ont déménagé.
+- **Des données protégées :** une fois déposé, votre fichier n'est ni consultable ni téléchargeable, y compris par getinside.
 - **Du courrier à la croissance :** après vos churners, recrutez de nouveaux clients dans les audiences d'autres marques.
 
 ## Toucher les clients d'une autre marque
 
-Vous pouvez aussi écrire aux clients d'une autre marque. Cette marque envoie ses contacts par un canal sécurisé à notre partenaire d'impression. Vous fournissez la création. Ce parcours n'est pas encore une offre standard : parlez-en à notre équipe.
+Vous pouvez aussi écrire aux clients d'une autre marque. Cette marque dépose ses contacts sur un serveur sécurisé de notre partenaire d'impression, sans que getinside y ait accès. Vous fournissez la création. Ce parcours n'est pas encore une offre standard : parlez-en à notre équipe.
 
 ## Pourquoi ça marche
 
@@ -127,6 +129,8 @@ RGPD fondé sur l'intérêt légitime, avec droit d'opposition mentionné sur ch
 - Répondez aux demandes d'exercice des droits sous un mois.
 - La trace des oppositions se conserve : la CNIL recommande au moins 3 ans.
 
+Côté getinside, notre partenaire d'impression traite votre fichier dans le cadre d'un contrat de sous-traitance conforme à l'article 28 du RGPD. Le fichier est supprimé après la production, généralement entre 48 heures et 15 jours après le dépôt.
+
 ## Questions fréquentes
 
 ::: details Pourquoi une enveloppe blanche ?
@@ -142,7 +146,15 @@ Oui, si votre Wallet est crédité par les campagnes que vous diffusez. Voir le 
 :::
 
 ::: details Mon fichier doit-il être nettoyé avant l'envoi ?
-Vérifiez-le avant l'export : doublons, adresses incomplètes, code postal cohérent avec la commune. La liste de contrôle est dans le [guide fichier](/retain/direct-mail/prepare-file).
+Faites les vérifications de base avant l'export. getinside nettoie ensuite vos adresses avant chaque impression : mise aux normes postales, doublons et personnes qui ont déménagé. Voir le [guide fichier](/retain/direct-mail/prepare-file).
+:::
+
+::: details Qui voit mes données ?
+Une fois déposé sur le serveur sécurisé, votre fichier n'est ni consultable ni téléchargeable, y compris par getinside. Il est supprimé après la production.
+:::
+
+::: details Que deviennent les plis non distribués ?
+Ils remontent dès quelques jours après le dépôt, et la quasi-totalité est revenue environ un mois après. Vous recevez un fichier CSV avec l'identifiant du destinataire et le motif de non-distribution.
 :::
 
 <div class="gi-quick-links">
