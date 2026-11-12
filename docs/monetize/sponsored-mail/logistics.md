@@ -12,9 +12,7 @@ keywords:
 
 # Opérations Logistiques
 
-De la réception des palettes à l'expérience d'ouverture client (Unboxing).
-
-<hr />
+De la réception des palettes à l'ouverture du colis par le client.
 
 ## 1. Réception des supports
 
@@ -22,53 +20,34 @@ De la réception des palettes à l'expérience d'ouverture client (Unboxing).
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Contrôle à l'arrivée</h3>
-    <p>Les supports (flyers, échantillons) sont livrés à l'adresse de votre entrepôt renseignée sur la plateforme.</p>
-    <ul>
-      <li>Vérifiez l'état des palettes et des cartons.</li>
-      <li>Vérifiez que la quantité correspond au bon de livraison (BL).</li>
-    </ul>
+    <p>Les supports (flyers, échantillons) arrivent à l'adresse d'entrepôt renseignée sur la plateforme. Vérifiez l'état des palettes et cartons, et la quantité par rapport au bon de livraison (BL).</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Confirmation de Réception</h3>
-    <p><strong>Action obligatoire :</strong> Connectez-vous sur <a href="https://app.getinside.media/">app.getinside.media</a> et cliquez sur <strong>"Valider la réception"</strong>.</p>
-    <p>Cela notifie la marque que la marchandise est bien arrivée et prête à être distribuée.</p>
+    <h3>Confirmation de réception</h3>
+    <p>Action obligatoire : cliquez sur <strong>"Valider la réception"</strong> sur <a href="https://app.getinside.media/">app.getinside.media</a>. La marque est notifiée que les supports sont prêts à être distribués.</p>
   </div>
 </div>
 
 :::warning Problème de livraison ?
-Si les supports sont endommagés, prenez des photos et signalez-le immédiatement à [logistique@getinside.fr](mailto:logistique@getinside.fr) **avant toute distribution**.
+Supports endommagés : prenez des photos et signalez-le à [logistique@getinside.fr](mailto:logistique@getinside.fr) **avant toute distribution**.
 :::
-
----
 
 ## 2. Bonnes pratiques d'insertion
 
-La valeur de l'Insertion Colis repose sur l'expérience d'ouverture. Pour garantir la satisfaction de la marque, respectez ces règles d'or.
+### La règle du "On-Top"
 
-### ✅ La Règle du "On-Top"
-
-Le support publicitaire doit impérativement être déposé **sur les produits**, face visible. Il doit être la première chose que le client voit.
+Déposez le support **sur les produits**, face visible : c'est la première chose que le client doit voir.
 
 ![Bonnes pratiques insertion Insertion Colis](/handbook/images/asile-colis-do-dont.webp)
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📄 Gestion de la facture</strong>
-    <p>Si vous insérez un BL ou une facture papier : placez l'offre <strong>au-dessus</strong>. Elle ne doit jamais être cachée à l'intérieur d'un document plié.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🚫 Exclusions & Qualité</strong>
-    <ul>
-      <li><strong>Concurrence :</strong> Jamais deux offres concurrentes dans le même colis.</li>
-      <li><strong>État :</strong> Ne pas insérer de flyer froissé ou corné.</li>
-    </ul>
-  </div>
-</div>
+- **Facture ou BL papier :** placez l'offre **au-dessus**, jamais cachée dans un document plié.
+- **Concurrence :** jamais deux offres concurrentes dans le même colis.
+- **État :** n'insérez pas de flyer froissé ou corné.
 
 ## 3. Stockage
 
-Les supports doivent être stockés dans un endroit sec et propre (à l'abri de l'humidité et de la poussière) pour éviter toute détérioration avant insertion.
+Stockez les supports au sec et au propre (humidité, poussière) avant insertion.

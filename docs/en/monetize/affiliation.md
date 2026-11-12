@@ -12,20 +12,16 @@ keywords:
 
 # Affiliate Program
 
-Recommend getinside to the brands in your network and earn a recurring reward on every invoice your referrals pay. It applies as long as the referral stays active on the platform.
+::: tip In short
+- Refer other brands with your unique link: you are rewarded on every invoice your referral pays, as long as it stays active.
+- The reward is credited to your **Wallet**, available 30 days after the invoice is actually paid.
+- Withdraw by bank transfer or reinvest in your campaigns.
+:::
 
 ## Who to refer?
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📦 Brands with an audience</strong>
-    <p>Do you know other sites that ship parcels or have an email database? Invite them to monetize their audience.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛍️ Brands that want to recruit</strong>
-    <p>Invite your suppliers or partners to use getinside for their acquisition campaigns. Ideal for digitizing your Trade Marketing.</p>
-  </div>
-</div>
+- **Brands with an audience**: sites that ship parcels or have an email database, invited to monetize their audience.
+- **Brands that want to recruit**: your suppliers or partners, for their acquisition campaigns. Ideal for digitizing your Trade Marketing.
 
 ## How it works
 
@@ -49,35 +45,16 @@ Recommend getinside to the brands in your network and earn a recurring reward on
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>You earn</h3>
-    <p>You are rewarded automatically, on a recurring basis, with every invoice your referral pays.</p>
+    <p>You are rewarded automatically with every invoice your referral pays, whatever its use.</p>
   </div>
 </div>
 
-## Your reward
-
-::: tip
-Your reward is credited to your **Wallet** with every invoice paid by the referral. It applies to every referred brand, whatever its use.
-:::
-
-It becomes available in your Wallet **30 days after the invoice is actually paid** by your referral. This is the control period.
-
-## Using your earnings
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🏦 Bank withdrawal</strong>
-    <p>Retrieve your earnings via standard bank transfer.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>♻️ Reinvestment</strong>
-    <p>Use your balance to finance your own acquisition campaigns. 1 € earned = 1 € invested, with no banking friction.</p>
-  </div>
-</div>
+Your reward becomes available in your Wallet **30 days after the invoice is actually paid** (control period). Withdraw it by bank transfer, or reinvest it in your own acquisition campaigns (1 € earned = 1 € invested).
 
 ## Eligibility
 
 **For you (the referrer):**
-- Active platform account, with the Referral Terms and Conditions accepted.
+- Active account, with the Referral Terms and Conditions accepted.
 - Payments up to date with getinside. Your reward is suspended while an invoice is unpaid, until it is settled.
 
 ::: info For your referral
@@ -89,4 +66,4 @@ It becomes available in your Wallet **30 days after the invoice is actually paid
 
 ## Get started
 
-Find your referral link in your account workspace on [app.getinside.media](https://app.getinside.media/){target="_blank"}, under the **Affiliation** tab.
+Find your link on [app.getinside.media](https://app.getinside.media/){target="_blank"}, under the **Affiliation** tab of your account workspace.

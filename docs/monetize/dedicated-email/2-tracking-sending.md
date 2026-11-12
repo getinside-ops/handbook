@@ -12,18 +12,16 @@ keywords:
 
 # Étape 2 : Tracking, Validation et Envoi
 
-Votre maquette est prête. Intégrez le tracking, soumettez un BAT et gérez la diffusion.
-
----
+Intégrez le tracking, faites valider un BAT, puis diffusez.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Intégration du tracking</h3>
-    <p>Depuis l'onglet <strong>"Configuration"</strong> de la campagne, récupérez les deux éléments techniques :</p>
+    <p>Dans l'onglet <strong>"Configuration"</strong> de la campagne :</p>
     <ul>
-      <li><strong>👁️ Pixel d'ouverture</strong> : balise image <code>&lt;img…&gt;</code> à insérer dans le HTML de l'email (avant <code>&lt;/body&gt;</code>). Indispensable pour comptabiliser les vues.</li>
-      <li><strong>🔗 Liens trackés (gtinsi.de)</strong> : remplacez <strong>tous</strong> les liens vers la marque par les URLs <code>gtinsi.de</code> fournies. Indispensable pour comptabiliser les clics.</li>
+      <li><strong>Pixel d'ouverture</strong> : balise <code>&lt;img…&gt;</code> à insérer dans le HTML avant <code>&lt;/body&gt;</code>. Il comptabilise les vues.</li>
+      <li><strong>Liens trackés</strong> : remplacez <strong>tous</strong> les liens vers la marque par les URLs <code>gtinsi.de</code> fournies. Ils comptabilisent les clics.</li>
     </ul>
   </div>
 </div>
@@ -32,41 +30,34 @@ Votre maquette est prête. Intégrez le tracking, soumettez un BAT et gérez la 
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Validation BAT</h3>
-    <p>Envoyez un email de test réel depuis votre routeur :</p>
-    <ul>
-      <li>Destinataire : <code>benoit+news@getinside.fr</code></li>
-      <li>Expéditeur : votre adresse d'envoi habituelle</li>
-    </ul>
-    <p>Après vérification par getinside : connectez-vous à la plateforme et cliquez sur <strong>"Valider la campagne"</strong>. Attendez ensuite la validation de la marque.</p>
+    <p>Envoyez un email de test réel depuis votre routeur à <code>benoit+news@getinside.fr</code>, avec votre adresse d'envoi habituelle. Après vérification par getinside, cliquez sur <strong>"Valider la campagne"</strong> sur la plateforme, puis attendez la validation de la marque.</p>
   </div>
 </div>
 
 ::: danger BAT : email réel obligatoire
-Nous ne validons **jamais** de BAT sous forme de capture d'écran, PDF ou fichier HTML brut. L'email doit être reçu sur notre boîte pour tester le responsive, le pixel et les redirections en conditions réelles.
+Aucun BAT n'est validé sur capture d'écran, PDF ou HTML brut. Seul un email reçu teste réellement le responsive, le pixel et les redirections.
 :::
 
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Diffusion</h3>
-    <p>Avant de router, vérifiez que les critères de segmentation du brief sont appliqués (ex : Actifs 12 mois, Genre, Géographie).</p>
-    <p>Routez l'email à votre base selon le segment défini.</p>
+    <p>Vérifiez que la segmentation du brief est appliquée (ex : actifs 12 mois, genre, géographie), puis routez l'email à votre base.</p>
   </div>
 </div>
 
 ::: tip Renvoi aux non-ouvreurs (RGNO)
-Si un renvoi est inclus dans la commande : utilisez **exactement le même email** (même HTML, mêmes liens <code>gtinsi.de</code>, même pixel). Ne modifiez pas les trackers entre l'envoi initial et le renvoi.
+Si la commande inclut un renvoi, utilisez **exactement le même email** : même HTML, mêmes liens <code>gtinsi.de</code>, même pixel.
 :::
 
 <div class="gi-step">
   <div class="gi-step-num done">✓</div>
   <div class="gi-step-body">
-    <h3>Validation finale : action obligatoire</h3>
-    <p>Une fois la diffusion (et le renvoi éventuel) terminée, retournez sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> et cliquez sur <strong>"Valider la diffusion"</strong>.</p>
-    <p>Sans cette action, les fonds restent séquestrés et votre revenu n'est pas déclenché.</p>
+    <h3>Validation finale</h3>
+    <p>Une fois la diffusion (et le renvoi éventuel) terminée, cliquez sur <strong>"Valider la diffusion"</strong> sur <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>.</p>
   </div>
 </div>
 
 ::: warning Action bloquante
-**"Valider la diffusion"** est indispensable pour déclencher le crédit de votre revenu sur le Wallet (disponible 30 jours après la fin de campagne).
+Sans **"Valider la diffusion"**, les fonds restent séquestrés et votre revenu n'est pas crédité sur le Wallet (disponible 30 jours après la fin de campagne).
 :::

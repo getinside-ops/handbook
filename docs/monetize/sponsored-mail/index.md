@@ -12,22 +12,17 @@ keywords:
 
 # Insertion colis
 
-Glissez le flyer d'une marque partenaire dans les colis que vous expédiez déjà. Chaque envoi devient un espace rémunéré, sans rien changer à votre logistique de fond. **98 % de délivrabilité** et **100 % d'attention** : tout le monde ouvre ses colis, et un canal qui demande un acte physique génère l'attention.
-
-<div>
-  <a href="logistics" class="btn btn-primary mr-2">Guide Logistique</a>
-  <a href="reporting" class="btn btn-outline">Suivi Hebdomadaire</a>
-</div>
-
-::: tip Vous voulez faire diffuser votre flyer ?
-Vous souhaitez recruter via les colis d'autres marques ? Consultez le [guide Insertion Colis pour Recruter](/recruit/sponsored-mail/).
+::: tip En bref
+- Vous glissez le flyer d'une marque partenaire dans les colis que vous expédiez déjà, sans changer votre logistique de fond.
+- **98 % de délivrabilité** et **100 % d'attention** : tout le monde ouvre ses colis.
+- Vous déclarez chaque semaine les volumes distribués, ce qui déclenche la facturation.
 :::
+
+Vous voulez plutôt faire diffuser votre flyer ? Consultez le [guide Insertion Colis pour Recruter](/recruit/sponsored-mail/).
 
 ## Le principe
 
-La marque partenaire produit et fait imprimer son flyer. getinside vous livre les supports prêts à insérer. Vos équipes les ajoutent dans les colis à la préparation, en mode « On-Top » : par-dessus le contenu, sans rien remplacer. Vous déclarez ensuite les volumes distribués.
-
-Le flyer est lu pendant l'unboxing, au moment où l'acheteur est le plus attentif. C'est ce qui explique la performance du format, et donc sa valeur pour vous.
+La marque partenaire produit et fait imprimer son flyer. getinside vous livre les supports prêts à insérer. Vos équipes les ajoutent à la préparation, en mode « On-Top » : par-dessus le contenu, sans rien remplacer. Le flyer est lu pendant l'unboxing, quand l'acheteur est le plus attentif.
 
 ## Le déroulé
 
@@ -38,38 +33,11 @@ Le flyer est lu pendant l'unboxing, au moment où l'acheteur est le plus attenti
 
 ## Gestion opérationnelle
 
-<div class="gi-nav-list">
-  <a href="logistics" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🏭</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Logistique & Insertion</p>
-      <p class="gi-nav-card-desc">Réception des palettes, règles d'insertion "On-Top" et gestion des exclusions concurrentielles.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-  <a href="reporting" class="gi-nav-card">
-    <span class="gi-nav-card-icon">📊</span>
-    <div class="gi-nav-card-body">
-      <p class="gi-nav-card-title">Suivi & Reporting</p>
-      <p class="gi-nav-card-desc">L'obligation de déclaration hebdomadaire des volumes distribués pour déclencher la facturation.</p>
-    </div>
-    <span class="gi-nav-card-arrow">→</span>
-  </a>
-</div>
+- [Logistique & Insertion](/monetize/sponsored-mail/logistics) : réception des palettes, règles « On-Top », exclusions concurrentielles.
+- [Suivi & Reporting](/monetize/sponsored-mail/reporting) : déclaration hebdomadaire des volumes pour déclencher la facturation.
 
-## Pourquoi l'activer
+## Ce que vous gardez en main
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>🚛 Flux Tendu Optimisé</strong>
-    <p>Notre algorithme prend en compte votre <strong>Lead Time</strong> (délai d'ingestion) et vos capacités de stockage. Vous ne recevez la marchandise que quand vous en avez besoin.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>💸 Garantie de Paiement</strong>
-    <p>getinside sécurise les fonds en amont. Déclarez les volumes distribués → votre revenu est validé et crédité sur votre Wallet sous 30 jours.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🎛️ Vous gardez la main</strong>
-    <p>Exclusions concurrentielles et droit de veto : aucune marque en conflit avec votre activité n'est insérée sans votre accord.</p>
-  </div>
-</div>
+- **Flux tendu** : l'algorithme tient compte de votre **Lead Time** et de vos capacités de stockage. Vous ne recevez la marchandise que quand vous en avez besoin.
+- **Paiement garanti** : getinside sécurise les fonds en amont. Une fois les volumes déclarés, votre revenu est validé et crédité sur votre Wallet sous 30 jours.
+- **Contrôle** : exclusions concurrentielles et droit de veto, aucune marque en conflit avec votre activité n'est insérée sans votre accord.

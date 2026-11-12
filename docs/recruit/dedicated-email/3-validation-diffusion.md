@@ -12,16 +12,13 @@ keywords:
 
 # Étape 3 : Validation et Diffusion
 
-La création est terminée. Votre action est requise : validez le BAT (Bon à Tirer) pour autoriser l'envoi.
-
----
+La création est terminée. Validez le BAT (Bon à Tirer) pour autoriser l'envoi.
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Configuration du tracking</h3>
-    <p>Cette étape est transparente pour vous. L'équipe getinside et la marque qui diffuse votre campagne intègrent les pixels d'ouverture et les liens de redirection trackés.</p>
-    <p><strong>Rappel :</strong> vos liens sont dynamiques : vous pouvez modifier l'URL de destination à tout moment dans l'onglet <strong>"Configuration et Suivi"</strong>, même après validation.</p>
+    <p>getinside et la marque qui diffuse intègrent les pixels d'ouverture et les liens trackés. Vos liens sont dynamiques : vous pouvez modifier l'URL de destination à tout moment dans l'onglet <strong>"Configuration et Suivi"</strong>, même après validation.</p>
   </div>
 </div>
 
@@ -29,49 +26,45 @@ La création est terminée. Votre action est requise : validez le BAT (Bon à Ti
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Réception du BAT</h3>
-    <p>Dès que la marque a finalisé l'email et que getinside l'a vérifié techniquement, vous recevez une notification par email.</p>
-    <p>Vous accédez à une <strong>prévisualisation statique</strong> de la campagne pour vérifier le respect du brief (offre, visuels, wording).</p>
+    <p>Une fois l'email finalisé par la marque et vérifié techniquement par getinside, vous êtes notifié par email. Dans la <strong>prévisualisation statique</strong>, vérifiez le respect du brief (offre, visuels, wording).</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Votre validation : action requise</h3>
-    <p>Si la création vous convient, vous devez valider sur la plateforme pour débloquer l'envoi.</p>
+    <h3>Votre validation</h3>
+    <p>Si la création vous convient, validez-la sur la plateforme pour débloquer l'envoi.</p>
   </div>
 </div>
 
-:::warning Action requise pour débloquer l'envoi
+:::warning Action requise
 1. Connectez-vous sur [app.getinside.media](https://app.getinside.media/){target="_blank"}.
 2. Ouvrez la campagne concernée.
-3. Cliquez sur le bouton **"Valider la campagne"**.
+3. Cliquez sur **"Valider la campagne"**.
 
-Tant que vous ne validez pas, la campagne reste bloquée et n'est pas diffusée.
+Tant que vous ne validez pas, la campagne n'est pas diffusée.
 :::
 
 <div class="gi-step">
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Diffusion</h3>
-    <p>Une fois les deux validations enregistrées (la vôtre et celle de la marque), la campagne est programmée et envoyée à l'audience ciblée.</p>
-    <p>Suivez les statistiques d'ouvertures et de clics en temps réel depuis votre tableau de bord.</p>
+    <p>Une fois votre validation et celle de la marque enregistrées, la campagne est programmée et envoyée à l'audience ciblée. Suivez ouvertures et clics en temps réel depuis votre tableau de bord.</p>
   </div>
 </div>
 
 ::: info Délai entre validation et envoi
-Comptez en général 24 à 48 h ouvrées entre votre validation et l'envoi effectif : la marque programme la campagne sur un créneau cohérent avec sa propre activité d'emailing. Anticipez ce délai si votre offre est liée à une date précise.
+Comptez 24 à 48 h ouvrées : la marque programme la campagne sur un créneau cohérent avec sa propre activité d'emailing. Anticipez-le si votre offre est liée à une date précise.
 :::
 
-## Motifs fréquents de correction
-
-Avant d'arriver jusqu'à vous, le BAT peut faire un aller-retour avec la marque. Les motifs les plus courants :
-
-- **Offre incohérente** : montant, seuil ou code promo qui ne correspond pas au brief.
-- **Visuel basse définition** : packshot pixelisé ou logo flou à l'affichage.
-- **Lien de destination erroné** : URL cassée ou pointant vers une page sans rapport avec l'offre.
+::: details Motifs fréquents de correction du BAT
+- **Offre incohérente** : montant, seuil ou code promo différent du brief.
+- **Visuel basse définition** : packshot pixelisé ou logo flou.
+- **Lien erroné** : URL cassée ou sans rapport avec l'offre.
 - **Mentions légales manquantes** : obligation propre au secteur (alcool, crédit, jeux, etc.).
+:::
 
 :::tip Renvoi aux non-ouvreurs
-Certaines marques proposent un renvoi automatique de la campagne aux abonnés qui n'ont pas ouvert l'email lors du premier envoi. Demandez-le lors du brief pour maximiser la couverture.
+Certaines marques renvoient automatiquement la campagne aux abonnés qui n'ont pas ouvert le premier envoi. Demandez-le lors du brief.
 :::
