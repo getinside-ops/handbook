@@ -12,13 +12,12 @@ keywords:
 
 # Onboarding and Operations
 
-Don't just wait for campaigns: take control of your ad network, activate your historical partners, and grow your revenue.
+Take control of your ad network: activate your historical partners and grow your revenue.
 
 ::: tip In short
-- Three phases: configuration and activation (demo, logistics, audiences, review call), campaign management, then acceleration.
-- Answer every campaign proposal within 48 business hours: silence counts as a tacit refusal and triggers a contractual penalty. Negotiate rather than refuse.
-- Your customer data stays yours: getinside acts as a trusted third party and has no direct access to it.
-- You keep a right of veto, within the limits described at the bottom of the page.
+- Three phases: configuration and activation, campaign management, acceleration.
+- Answer every proposal within 48 business hours: silence counts as a tacit refusal. Negotiate rather than refuse.
+- Your customer data stays yours, and you keep a bounded right of veto.
 :::
 
 ## Phase 1: Configuration and Activation
@@ -26,192 +25,141 @@ Don't just wait for campaigns: take control of your ad network, activate your hi
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Demo & Account Creation</h3>
-    <p>Everything starts with a demo call with the getinside team.</p>
-    <ul>
-      <li>The team creates your brand's account.</li>
-      <li>All provided contacts receive an invitation email.</li>
-      <li><strong>Action:</strong> Click the link in the email to set your password and access the platform.</li>
-    </ul>
+    <h3>Demo and account creation</h3>
+    <p>Demo call, then an invitation email to set your password.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Logistics Configuration</h3>
-    <p>Before creating your audiences, define your logistics constraints (the algorithm needs them).</p>
-    <ul>
-      <li><strong>📍 Warehouse Address</strong>: delivery location for physical materials (flyers, samples).</li>
-      <li><strong>⏱️ Lead Time (Ingestion Delay)</strong>: incompressible time between receiving pallets and starting insertion. Automatically taken into account by the algorithm to synchronize deliveries.</li>
-    </ul>
+    <h3>Logistics configuration</h3>
+    <p>Enter the warehouse address and ingestion delay, which the algorithm takes into account.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Creating Audiences</h3>
-    <p>In the <strong>Monetization</strong> tab, create your audience profiles: average order value, B2B/B2C typology, persona profile, visuals (logo, banner). A complete and precise profile earns you more relevant campaign proposals.</p>
-    <a href="audience-setup" class="btn btn-outline">Detailed Guide: Audience Profile →</a>
+    <h3>Creating audiences</h3>
+    <p><strong>Monetization</strong> tab: a complete profile earns more relevant proposals. <a href="audience-setup">Audience profile guide</a>.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
-    <h3>Adding Campaign Types</h3>
-    <p>For each audience created, add the accepted campaign types and their criteria:</p>
-    <ul>
-      <li><strong>📦 Parcel Insert:</strong> Capacity (max simultaneous flyers), accepted formats, projected weekly volumes over 12 months.</li>
-      <li><strong>📧 Digital:</strong> Indicative CPM, examples of past campaigns, performance info (Open Rates, Clicks).</li>
-    </ul>
+    <h3>Campaign types</h3>
+    <p>For each audience, add the accepted types and their criteria.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">5</div>
   <div class="gi-step-body">
-    <h3>Validation (Checkout Call)</h3>
-    <p>As soon as you feel you have completed the info, notify the getinside team.</p>
-    <ul>
-      <li>We offer a call to confirm that all necessary information is filled out.</li>
-      <li>Review of technical aspects and best practices.</li>
-    </ul>
+    <h3>Checkout call</h3>
+    <p>Notify getinside once the info is complete: we check it and review best practices.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num done">✓</div>
   <div class="gi-step-body">
     <h3>Activation</h3>
-    <p>Following the call:</p>
-    <ul>
-      <li>✅ Validated audiences and campaign types are <strong>activated</strong>.</li>
-      <li>⏸️ Incomplete ones remain unlisted in the meantime.</li>
-    </ul>
+    <p>Validated audiences are activated, incomplete ones stay unlisted.</p>
   </div>
 </div>
+
+::: details Configuration details
+- **Warehouse address**: delivery location for physical materials (flyers, samples).
+- **Ingestion delay**: incompressible time between receiving pallets and starting insertion.
+- **Audience profile**: average order value, B2B/B2C typology, persona profile, visuals (logo, banner).
+- **Parcel insert**: capacity (max simultaneous flyers), accepted formats, projected weekly volumes over 12 months.
+- **Digital**: indicative CPM, examples of past campaigns, performance (open rates, clicks).
+:::
 
 ## Phase 2: Campaign Management
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Marketplace Visibility</h3>
-    <p>Once activated, brands that want to reach your audience can see them on the platform and start offering you campaigns.</p>
+    <h3>Marketplace visibility</h3>
+    <p>Once activated, your audiences are visible to brands that can offer you campaigns.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Reception & Negotiation</h3>
-    <p>When a campaign is proposed, all your users receive a notification.</p>
-    <p><strong>⏱️ 48-Hour Rule (Critical)</strong>: respond to any proposal within <strong>48 business hours</strong>. Silence means tacit refusal and incurs a contractual penalty.</p>
-    <p><strong>Do not refuse, negotiate!</strong> The goal is to fill your inventory:</p>
-    <ul>
-      <li><strong>💰 Price too low?</strong> Propose another price.</li>
-      <li><strong>📅 Dates unavailable?</strong> Suggest another broadcast period.</li>
-      <li><strong>📦 Unsuitable volume?</strong> Adjust the proposed quantity.</li>
-    </ul>
-    <p><strong>💬 Integrated Messaging:</strong> Use the chat to discuss with the brand whose campaign you deliver, justify your price, or ask for clarifications. An acceptance probability bar guides the brand in real time.</p>
+    <h3>Reception and negotiation</h3>
+    <p>Each proposal notifies your users: respond within <strong>48 business hours</strong>, negotiate instead of refusing.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
-    <h3>Operational Validation</h3>
-    <p>Once the campaign is validated by both parties, we move forward on operations:</p>
-    <ul>
-      <li><strong>Parcel Insert:</strong> Shipping of materials (respecting lead time).</li>
-      <li><strong>Digital:</strong> Transmission of creative assets and integration.</li>
-    </ul>
+    <h3>Operational validation</h3>
+    <p>Once both parties validate: shipping of materials (parcel insert) or creative assets (digital).</p>
   </div>
 </div>
 
-## Phase 3: Acceleration & Autonomy
+::: details Negotiating
+- **Price too low?** Propose another price.
+- **Dates unavailable?** Suggest another broadcast period.
+- **Unsuitable volume?** Adjust the quantity.
+- **Integrated messaging:** discuss with the brand whose campaign you deliver. An acceptance probability bar guides the brand in real time.
+:::
+
+## Phase 3: Acceleration and Autonomy
 
 <div class="gi-step">
   <div class="gi-step-num">🚀</div>
   <div class="gi-step-body">
-    <h3>Trade Marketing (Your Brands)</h3>
-    <p>Do not depend solely on the brands that contact you. Be proactive with your own suppliers!</p>
-    <div class="gi-accent-box">
-      <strong>The concept:</strong> Invite the brands you distribute to buy visibility with you (Parcel Insert, Email, Social) via getinside.
-      <ul>
-        <li>✅ <strong>Simplification:</strong> Centralize all management and billing in one place. Add your partners through the SIREN/VAT search, send your invitations and track progress by partner.</li>
-        <li>✅ <strong>Profitability:</strong> Generate additional revenue from already acquired partners.</li>
-      </ul>
-    </div>
+    <h3>Trade Marketing</h3>
+    <p>Invite the brands you distribute to buy visibility with you. Partners added through SIREN/VAT search, centralized management and billing, tracking by partner.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">🤝</div>
   <div class="gi-step-body">
-    <h3>Affiliation & Sponsorship</h3>
-    <p>Do you know other brands?</p>
-    <ul>
-      <li>Invite them to join the platform.</li>
-      <li>Earn revenue from their activity.</li>
-      <li><a href="affiliation">See the affiliation program</a>.</li>
-    </ul>
+    <h3>Affiliation and sponsorship</h3>
+    <p>Invite other brands and earn revenue from their activity. <a href="affiliation">See the affiliation program</a>.</p>
   </div>
 </div>
 
-## Contractual Conditions & Penalties
-
-::: warning Operational Compliance Rules
-In order to maintain a quality service for all our partners, the following conditions apply.
-:::
+## Contractual Conditions and Penalties
 
 ### Response Time (48-Hour Rule)
 
 ::: danger Strict rule: 48 business hours
-You must respond to **any campaign proposal in less than 48 business hours**.
-
-After this period, lack of response = tacit refusal and incurs a **contractual penalty**.
+Respond to **any campaign proposal within 48 business hours**. Without a response, the proposal is tacitly refused and a **contractual penalty** applies.
 :::
 
 ### Contractual Penalties
 
-Penalties apply in three situations, detailed in your contract:
+Penalties apply in three cases: cancellation after validation, early contract termination, platform circumvention. The exact terms are in your contract.
 
-- **Cancellation after validation** of a campaign.
-- **Early contract termination** (annual commitment not honored).
-- **Platform circumvention** (direct contact between brands outside the platform, for an account brought by getinside).
-
-### Data Protection (GDPR & First Party Data)
+### Data Protection (GDPR)
 
 ::: tip
-**🛡️ The data is exclusively yours**
+getinside acts as a **trusted third party** (First Party Data):
 
-getinside acts as a **Trusted Third Party** and commits contractually: no direct access to your customer data (First Party Data), and a ban on renting, selling, enriching or matching it. Only aggregated, anonymized delivery data is used. No transfer of customer files to a brand is allowed without a specific new GDPR Opt-in.
-
-- You retain ownership of your customer data.
-- Brands only receive opt-in leads (contest operations only).
-- Any request for additional data requires legal validation.
+- No direct access to your customer data, which is never rented, sold, enriched or matched.
+- Only aggregated, anonymized delivery data is used.
+- Brands only receive opt-in leads (contests), with no file transfer without a new GDPR opt-in.
 :::
 
 ### Your veto right
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✅ You Can Refuse</strong>
+    <strong>✅ You can refuse</strong>
     <ul>
-      <li><strong>The BRAND:</strong> Ethical or competition reasons.</li>
-      <li><strong>Legality:</strong> If the content violates laws.</li>
-      <li><strong>Brand Image:</strong> If the campaign contradicts your values.</li>
+      <li>Ethical or competition reasons (the brand).</li>
+      <li>Content that violates the law.</li>
+      <li>A campaign that contradicts your values.</li>
     </ul>
   </div>
   <div class="gi-value-card">
-    <strong>❌ You Cannot Refuse</strong>
+    <strong>❌ You cannot refuse</strong>
     <ul>
-      <li><strong>Art direction:</strong> If the visual respects technical specifications.</li>
-      <li><strong>Subjective preferences:</strong> "I don't find it pretty" is not a valid reason.</li>
-      <li><strong>Commercial reasons alone:</strong> Price too low → Negotiate rather than refuse.</li>
+      <li>Art direction, if the visual meets the technical specifications.</li>
+      <li>Subjective preferences.</li>
+      <li>A commercial reason alone (price too low): negotiate.</li>
     </ul>
   </div>
 </div>

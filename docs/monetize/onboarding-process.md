@@ -12,13 +12,12 @@ keywords:
 
 # Onboarding et Fonctionnement
 
-Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre régie, activez vos partenaires historiques et développez vos revenus.
+Prenez le contrôle de votre régie : activez vos partenaires historiques et développez vos revenus.
 
 ::: tip En bref
-- Trois phases : configuration et activation (démo, logistique, audiences, call de contrôle), gestion des campagnes, puis accélération.
-- Répondez à toute proposition de campagne sous 48 heures ouvrées : le silence vaut refus tacite et entraîne une pénalité contractuelle. Négociez plutôt que de refuser.
-- Vos données clients restent les vôtres : getinside agit comme tiers de confiance et n'y accède pas directement.
-- Vous gardez un droit de veto, dans les limites décrites en bas de page.
+- Trois phases : configuration et activation, gestion des campagnes, accélération.
+- Répondez à toute proposition sous 48 heures ouvrées : le silence vaut refus tacite. Négociez plutôt que de refuser.
+- Vos données clients restent les vôtres, et vous gardez un droit de veto encadré.
 :::
 
 ## Phase 1 : Configuration et Activation
@@ -26,192 +25,141 @@ Ne vous contentez pas d'attendre les campagnes : prenez le contrôle de votre r�
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Démo & Création du compte</h3>
-    <p>Tout commence par un call de démo avec l'équipe getinside.</p>
-    <ul>
-      <li>L'équipe crée le compte de votre marque.</li>
-      <li>Tous les contacts fournis reçoivent un email d'invitation.</li>
-      <li><strong>Action :</strong> Cliquez sur le lien dans l'email pour créer votre mot de passe et accéder à la plateforme.</li>
-    </ul>
+    <h3>Démo et création du compte</h3>
+    <p>Call de démo, puis invitation par email pour créer votre mot de passe.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Configuration Logistique</h3>
-    <p>Avant de créer vos audiences, définissez vos contraintes logistiques (indispensable pour l'algorithme).</p>
-    <ul>
-      <li><strong>📍 Adresse de l'entrepôt</strong> : lieu de livraison des supports physiques (flyers, échantillons).</li>
-      <li><strong>⏱️ Lead Time (délai d'ingestion)</strong> : délai incompressible entre la réception des palettes et le début de l'insertion. Pris en compte automatiquement par l'algorithme pour synchroniser les livraisons.</li>
-    </ul>
+    <h3>Configuration logistique</h3>
+    <p>Renseignez l'adresse de l'entrepôt et le délai d'ingestion, pris en compte par l'algorithme.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
-    <h3>Création des Audiences</h3>
-    <p>Dans l'onglet <strong>Monétisation</strong>, créez vos fiches audience : panier moyen, typologie B2B/B2C, profil du persona, visuels (logo, bannière). Une fiche complète et précise vous vaut des propositions de campagnes plus pertinentes.</p>
-    <a href="audience-setup" class="btn btn-outline">Guide détaillé : fiche audience →</a>
+    <h3>Création des audiences</h3>
+    <p>Onglet <strong>Monétisation</strong> : une fiche complète vaut des propositions plus pertinentes. <a href="audience-setup">Guide de la fiche audience</a>.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
-    <h3>Ajout des Types de Campagnes</h3>
-    <p>Pour chaque audience créée, ajoutez les types de campagnes acceptés et leurs critères :</p>
-    <ul>
-      <li><strong>📦 Insertion Colis :</strong> Capacité (max flyers simultanés), formats acceptés, volumes prévisionnels par semaine sur 12 mois.</li>
-      <li><strong>📧 Digital :</strong> CPM indicatif, exemples de campagnes passées, infos de performance (Taux d'ouverture, Clics).</li>
-    </ul>
+    <h3>Types de campagnes</h3>
+    <p>Pour chaque audience, ajoutez les types acceptés et leurs critères.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">5</div>
   <div class="gi-step-body">
-    <h3>Validation (Call de contrôle)</h3>
-    <p>Dès que vous estimez avoir complété les infos, avertissez l'équipe getinside.</p>
-    <ul>
-      <li>Nous proposons un call pour confirmer que toutes les infos nécessaires sont remplies.</li>
-      <li>Rappel des aspects techniques et des bonnes pratiques.</li>
-    </ul>
+    <h3>Call de contrôle</h3>
+    <p>Prévenez getinside une fois les infos complétées : nous vérifions et rappelons les bonnes pratiques.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num done">✓</div>
   <div class="gi-step-body">
     <h3>Activation</h3>
-    <p>Suite au call :</p>
-    <ul>
-      <li>✅ Les audiences et types de campagnes validés sont <strong>activés</strong>.</li>
-      <li>⏸️ Ceux qui sont incomplets restent non-référencés en attendant.</li>
-    </ul>
+    <p>Les audiences validées sont activées, les incomplètes restent non référencées.</p>
   </div>
 </div>
+
+::: details Détails de la configuration
+- **Adresse de l'entrepôt** : lieu de livraison des supports physiques (flyers, échantillons).
+- **Délai d'ingestion** : délai incompressible entre la réception des palettes et le début de l'insertion.
+- **Fiche audience** : panier moyen, typologie B2B/B2C, profil du persona, visuels (logo, bannière).
+- **Insertion colis** : capacité (flyers simultanés max), formats acceptés, volumes prévisionnels par semaine sur 12 mois.
+- **Digital** : CPM indicatif, exemples de campagnes passées, performances (ouvertures, clics).
+:::
 
 ## Phase 2 : Gestion des Campagnes
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Visibilité Marketplace</h3>
-    <p>Une fois activées, les marques qui veulent toucher votre audience peuvent la voir sur la plateforme et commencer à vous proposer des campagnes.</p>
+    <h3>Visibilité marketplace</h3>
+    <p>Une fois activées, vos audiences sont visibles des marques qui peuvent vous proposer des campagnes.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Réception & Négociation</h3>
-    <p>Lorsqu'une campagne est proposée, tous vos utilisateurs reçoivent une notification.</p>
-    <p><strong>⏱️ Règle des 48 heures (critique)</strong> : répondez à toute proposition dans les <strong>48 heures ouvrées</strong>. Le silence vaut refus tacite et entraîne une pénalité contractuelle.</p>
-    <p><strong>Ne refusez pas, négociez !</strong> L'objectif est de remplir votre inventaire :</p>
-    <ul>
-      <li><strong>💰 Prix trop bas ?</strong> Proposez un autre prix.</li>
-      <li><strong>📅 Dates indisponibles ?</strong> Proposez une autre période de diffusion.</li>
-      <li><strong>📦 Volume inadapté ?</strong> Ajustez la quantité proposée.</li>
-    </ul>
-    <p><strong>💬 Messagerie intégrée :</strong> utilisez le chat pour discuter avec la marque dont vous diffusez la campagne, argumenter votre prix ou demander des précisions. Une barre de probabilité d'acceptation guide la marque en temps réel.</p>
+    <h3>Réception et négociation</h3>
+    <p>Chaque proposition notifie vos utilisateurs : répondez sous <strong>48 heures ouvrées</strong>, négociez au lieu de refuser.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
-    <h3>Validation Opérationnelle</h3>
-    <p>Une fois la campagne validée par les deux parties, on avance sur l'opérationnel :</p>
-    <ul>
-      <li><strong>Insertion Colis :</strong> Expédition des supports (respect du délai d'ingestion).</li>
-      <li><strong>Digital :</strong> Transmission des assets créatifs et intégration.</li>
-    </ul>
+    <h3>Validation opérationnelle</h3>
+    <p>Une fois la campagne validée des deux côtés : expédition des supports (insertion colis) ou assets créatifs (digital).</p>
   </div>
 </div>
 
-## Phase 3 : Accélération & Autonomie
+::: details Négocier
+- **Prix trop bas ?** Proposez un autre prix.
+- **Dates indisponibles ?** Proposez une autre période de diffusion.
+- **Volume inadapté ?** Ajustez la quantité.
+- **Messagerie intégrée :** discutez avec la marque dont vous diffusez la campagne. Une barre de probabilité d'acceptation la guide en temps réel.
+:::
+
+## Phase 3 : Accélération et Autonomie
 
 <div class="gi-step">
   <div class="gi-step-num">🚀</div>
   <div class="gi-step-body">
-    <h3>Trade Marketing (Vos Marques)</h3>
-    <p>Ne dépendez pas uniquement des marques qui vous contactent. Soyez proactif avec vos propres fournisseurs !</p>
-    <div class="gi-accent-box">
-      <strong>Le concept :</strong> Invitez les marques que vous distribuez à acheter de la visibilité chez vous (Insertion Colis, Email, Social) via getinside.
-      <ul>
-        <li>✅ <strong>Simplification :</strong> Centralisez toute la gestion et la facturation au même endroit. Ajoutez vos partenaires via la recherche SIREN/TVA, envoyez vos invitations et suivez la progression par partenaire.</li>
-        <li>✅ <strong>Rentabilité :</strong> Générez des revenus additionnels sur des partenaires déjà acquis.</li>
-      </ul>
-    </div>
+    <h3>Trade Marketing</h3>
+    <p>Invitez les marques que vous distribuez à acheter de la visibilité chez vous. Partenaires ajoutés par recherche SIREN/TVA, gestion et facturation centralisées, suivi par partenaire.</p>
   </div>
 </div>
-
 <div class="gi-step">
   <div class="gi-step-num">🤝</div>
   <div class="gi-step-body">
-    <h3>Affiliation & Parrainage</h3>
-    <p>Vous connaissez d'autres marques ?</p>
-    <ul>
-      <li>Invitez-les à rejoindre la plateforme.</li>
-      <li>Gagnez des revenus grâce à leur activité.</li>
-      <li><a href="affiliation">Voir le programme d'affiliation</a>.</li>
-    </ul>
+    <h3>Affiliation et parrainage</h3>
+    <p>Invitez d'autres marques et gagnez des revenus grâce à leur activité. <a href="affiliation">Voir le programme d'affiliation</a>.</p>
   </div>
 </div>
 
-## Conditions Contractuelles & Pénalités
-
-::: warning Règles de Conformité Opérationnelle
-Afin de maintenir un service de qualité pour tous nos partenaires, les conditions suivantes s'appliquent.
-:::
+## Conditions Contractuelles et Pénalités
 
 ### Délai de Réponse (Règle des 48 heures)
 
 ::: danger Règle stricte : 48 heures ouvrées
-Vous devez répondre à **toute proposition de campagne en moins de 48 heures ouvrées**.
-
-Passé ce délai, l'absence de réponse = refus tacite et entraîne une **pénalité contractuelle**.
+Répondez à **toute proposition de campagne sous 48 heures ouvrées**. Sans réponse, la proposition est refusée tacitement et une **pénalité contractuelle** s'applique.
 :::
 
 ### Pénalités Contractuelles
 
-Des pénalités s'appliquent dans trois situations, précisées dans votre contrat :
+Des pénalités s'appliquent dans trois cas : annulation après validation, rupture anticipée du contrat, contournement de la plateforme. Les conditions précises figurent dans votre contrat.
 
-- **Annulation après validation** d'une campagne.
-- **Rupture anticipée du contrat** (engagement annuel non tenu).
-- **Contournement de la plateforme** (contact direct entre marques hors plateforme, pour un compte apporté par getinside).
-
-### Protection des Données (RGPD & First Party Data)
+### Protection des Données (RGPD)
 
 ::: tip
-**🛡️ Les données sont exclusivement vôtres**
+getinside agit comme **tiers de confiance** (First Party Data) :
 
-getinside agit comme un **Tiers de Confiance** et s'engage contractuellement : aucun accès direct à vos données clients (First Party Data), interdiction de les louer, vendre, enrichir ou rapprocher. Seules des données de diffusion agrégées et anonymisées sont utilisées. Aucun transfert de fichier client vers une marque n'est autorisé sans un nouvel Opt-in RGPD spécifique.
-
-- Vous conservez la propriété de vos données client.
-- Les marques ne reçoivent que les leads opt-in (opérations avec jeu-concours uniquement).
-- Toute demande de données supplémentaires requiert une validation légale.
+- Aucun accès direct à vos données clients, qui ne sont ni louées, vendues, enrichies ni rapprochées.
+- Seules des données de diffusion agrégées et anonymisées sont utilisées.
+- Les marques ne reçoivent que des leads opt-in (jeux-concours), sans transfert de fichier sans nouvel opt-in RGPD.
 :::
 
 ### Votre droit de veto
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✅ Vous Pouvez Refuser</strong>
+    <strong>✅ Vous pouvez refuser</strong>
     <ul>
-      <li><strong>La MARQUE :</strong> Raisons éthiques ou de concurrence.</li>
-      <li><strong>Légalité :</strong> Si le contenu porte atteinte aux lois.</li>
-      <li><strong>Image Marque :</strong> Si la campagne contredit vos valeurs.</li>
+      <li>Raisons éthiques ou de concurrence (la marque).</li>
+      <li>Contenu contraire à la loi.</li>
+      <li>Campagne contraire à vos valeurs.</li>
     </ul>
   </div>
   <div class="gi-value-card">
-    <strong>❌ Vous Ne Pouvez Pas Refuser</strong>
+    <strong>❌ Vous ne pouvez pas refuser</strong>
     <ul>
-      <li><strong>Direction artistique :</strong> Si le visuel respecte les spécifications techniques.</li>
-      <li><strong>Préférences subjectives :</strong> "Je ne trouve pas ça beau" n'est pas un motif valide.</li>
-      <li><strong>Raisons commerciales seules :</strong> Prix trop bas → Négociez plutôt que refuser.</li>
+      <li>La direction artistique, si le visuel respecte les spécifications techniques.</li>
+      <li>Les préférences subjectives.</li>
+      <li>Une raison commerciale seule (prix trop bas) : négociez.</li>
     </ul>
   </div>
 </div>
