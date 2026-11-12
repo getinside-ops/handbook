@@ -11,81 +11,60 @@ keywords:
 
 # Configuration de la fiche audience
 
-Votre fiche audience est votre vitrine auprès des marques qui veulent toucher votre audience. Plus elle est précise, plus vous recevrez de propositions pertinentes.
+Votre fiche audience est votre vitrine auprès des marques qui veulent toucher votre audience. Plus elle est précise, plus vous recevez de propositions pertinentes.
 
-## 1. L'Identité de votre Audience
-
-C'est la première chose que voient les marques qui veulent toucher votre audience. Soignez la présentation pour déclencher le "coup de cœur".
-
-- **Présentation :** Racontez votre histoire, vos valeurs et votre positionnement.
-- **Engagements RSE :** Cochez les cases (Made in France, Colis réutilisables...) uniquement si vous pouvez le prouver.
-- **Visuels :** Uploadez un logo et une bannière qui représentent votre univers.
-
-::: tip 💡 Le conseil de l'équipe
-Dans le champ **"Persona"**, soyez descriptif : *"Jardinier amateur ou expert cherchant des produits durables pour entretenir son potager."* Cela aide les marques qui recrutent via votre audience à mieux comprendre qui sont vos clients.
+::: tip En bref
+- Soignez l'identité et le persona, et renseignez les données démographiques : elles alimentent le Smart Matching.
+- Activez uniquement les formats que vous pouvez honorer, et déclarez votre inventaire sur 12 mois.
+- Un seul compte suffit pour plusieurs sites : une fiche par site.
 :::
 
-## 2. Les Données Démographiques (Data)
+## 1. Identité
 
-Ces champs alimentent l'algorithme de Smart Matching. Une fiche incomplète réduit votre visibilité dans les résultats.
+- **Présentation :** votre histoire, vos valeurs, votre positionnement.
+- **Engagements RSE :** cochez (Made in France, colis réutilisables...) uniquement si vous pouvez le prouver.
+- **Visuels :** un logo et une bannière qui représentent votre univers.
+- **Persona :** soyez descriptif, par exemple *« Jardinier amateur ou expert cherchant des produits durables pour son potager. »*
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Panier Moyen</strong>
-    <p>Indiquez le montant HT moyen. Cela permet aux marques de cibler par pouvoir d'achat.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Typologie (B2C/B2B)</strong>
-    <p>Critère excluant. Assurez-vous qu'il est correct : une erreur réduit vos propositions pertinentes.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Profil d'acheteur</strong>
-    <p><em>Discounter, Économe, Médian, Élevé.</em> Positionnez-vous par rapport à votre marché.</p>
-  </div>
-</div>
+## 2. Données démographiques
 
-## 3. Activez les formats pour cette audience
+Une fiche incomplète réduit votre visibilité dans le Smart Matching.
 
-Pour chaque audience créée, activez indépendamment les formats que vous souhaitez monétiser :
+| Champ | À savoir |
+| :--- | :--- |
+| **Panier moyen** | Montant HT moyen, pour le ciblage par pouvoir d'achat. |
+| **Typologie (B2C/B2B)** | Critère excluant : une erreur réduit vos propositions pertinentes. |
+| **Profil d'acheteur** | Discounter, Économe, Médian, Élevé. |
 
-- **📦 Insertion Colis** : Flyers ou échantillons dans vos colis
-- **📧 Emailing Dédié** : Recommandation via votre newsletter
-- **📩 Display Email** : Bannières dans vos emails
-- **📱 Social Ads** : Publications sponsorisées Instagram / TikTok
-- **🎁 Bundle** : plusieurs inventaires packagés en un dispositif scénarisé
+## 3. Formats activés
 
-> Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.
+Pour chaque audience, activez indépendamment les formats à monétiser : **Insertion Colis** (flyers, échantillons), **Emailing Dédié**, **Display Email**, **Social Ads** (Instagram / TikTok), **Bundle** (plusieurs inventaires en un dispositif scénarisé). Vous pouvez activer ou désactiver un format à tout moment sans impact sur les campagnes en cours.
 
-## 4. Renseignez votre inventaire sur 12 mois
+## 4. Inventaire sur 12 mois
 
-Pour l'Insertion Colis, déclarez vos volumes hebdomadaires prévisionnels. Utilisez **Éditer toutes les semaines** pour appliquer un volume identique en une action, ou **Semaines vides uniquement** pour compléter sans écraser vos saisies spécifiques.
+Pour l'Insertion Colis, déclarez vos volumes hebdomadaires prévisionnels. **Éditer toutes les semaines** applique un volume identique en une action, **Semaines vides uniquement** complète sans écraser vos saisies.
 
 **Espace :** Monétisation → Catalogue → [Votre Audience] → [Type de Campagne] → Inventaire
 
 ::: tip Un inventaire à jour, c'est plus de campagnes
-Les marques qui recrutent privilégient les audiences dont la disponibilité est garantie à l'avance. Un inventaire renseigné sur 12 mois améliore votre visibilité dans le Smart Matching.
+Les marques privilégient les audiences dont la disponibilité est garantie à l'avance : un inventaire sur 12 mois améliore votre visibilité.
 :::
 
-## 5. Gérer plusieurs audiences et sites
+## 5. Plusieurs audiences et sites
 
-**Un seul compte suffit**, même si vous opérez plusieurs sites e-commerce. Chaque site peut avoir sa propre fiche audience avec ses données spécifiques.
+Chaque site a sa propre fiche, avec ses données spécifiques, dans un même compte. **Espace :** Monétisation → Catalogue → + Nouvelle audience
 
-**Espace :** Monétisation → Catalogue → + Nouvelle audience
-
-Bonnes pratiques pour un catalogue multi-audiences :
-- Nommez clairement chaque audience (ex: "Site Mode Femme", "Site Jardin B2C")
-- Renseignez des données distinctes par site. Ne mutualisez pas les chiffres
-- Activez uniquement les formats que vous pouvez réellement honorer sur ce site
-
-**International :** getinside opère dans toute l'Europe. Ajoutez vos audiences européennes pour recevoir des campagnes ciblées par pays.
+- Nommez clairement chaque audience (ex. « Site Mode Femme », « Site Jardin B2C »).
+- Renseignez des données distinctes par site, ne mutualisez pas les chiffres.
+- N'activez que les formats que vous pouvez honorer sur ce site.
+- **International :** getinside opère dans toute l'Europe. Ajoutez vos audiences européennes pour recevoir des campagnes ciblées par pays.
 
 ## Questions fréquentes
 
-**Comment ajouter un utilisateur à mon compte ?**
-Rendez-vous dans **Mon Organisation → Équipe** → `+ Ajouter un membre`. Recommandé : ayez toujours un backup pour garantir la réactivité sous 48 h.
+::: details Comment ajouter un utilisateur à mon compte ?
+**Mon Organisation → Équipe** → `+ Ajouter un membre`. Prévoyez toujours un backup pour garantir la réactivité sous 48 h.
+:::
 
-**Puis-je gérer plusieurs sites depuis un seul compte ?**
-Oui. Un compte getinside peut héberger autant d'audiences que vous le souhaitez, une par site ou par segment client.
-
-**Où suivre mes filleuls (affiliation) ?**
+::: details Où suivre mes filleuls (affiliation) ?
 Dans l'onglet **Affiliation**. Vous êtes rémunéré de façon récurrente sur l'activité de vos filleuls, directement dans votre Wallet. Les filleuls doivent être établis en France ou dans l'EEE. → [Programme d'Affiliation](/monetize/affiliation)
+:::
