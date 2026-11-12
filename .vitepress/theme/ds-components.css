@@ -123,6 +123,22 @@
   .gi-home .ds-card-content { padding: 0.75rem 1.25rem 1rem; }
 }
 
+/* Écrans hauts : on espace un peu, sans dépasser la hauteur */
+@media (min-width: 768px) and (min-height: 860px) {
+  .gi-home .ds-hero { margin-top: 2rem; padding: 2.25rem 2.5rem; }
+  .gi-home .ds-hero-img { height: min(280px, 28vh); }
+  .gi-home .ds-hero-actions { margin-top: 1.75rem; }
+  .gi-home .ds-title { margin: 2.5rem 0 1.5rem; }
+  .gi-home .ds-card-media { height: clamp(130px, 16vh, 190px); }
+  .gi-home .ds-card-content { gap: 0.5rem; padding: 1.25rem 1.5rem 1.5rem; }
+}
+@media (min-width: 768px) and (min-height: 1000px) {
+  .gi-home .ds-hero { margin-top: 3.5rem; padding: 3rem 3rem; }
+  .gi-home .ds-title { margin: 4rem 0 2rem; }
+  .gi-home .ds-card-grid { gap: 1.75rem; }
+  .gi-home .ds-card-media { height: clamp(150px, 18vh, 220px); }
+}
+
 /* Pages de contenu desktop : colonne plus large, cartes illustrées moins hautes */
 @media (min-width: 1280px) {
   .VPDoc.has-aside .content-container { max-width: 840px !important; }
