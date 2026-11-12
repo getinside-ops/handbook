@@ -11,13 +11,12 @@ keywords:
 
 # CSR & parcel inserts: responsible paper advertising
 
-Parcel inserts have their place in a responsible marketing strategy. The material is printed in France on certified paper, and only ever reaches real buyers, at the moment they open a parcel they were waiting for. Print has an impact, of course; everything comes down to how it is produced and received.
+Parcel inserts have their place in a responsible marketing strategy: the material is printed in France on certified paper and only reaches real buyers.
 
 ::: tip In short
 - The insert travels in a parcel that is already shipped: no extra envelope, no extra delivery round.
-- Volumes are based on delivery forecasts: only what will be distributed is printed.
-- Printed in France on FSC/PEFC-certified paper with vegetable-based inks, in Imprim'Vert and ISO 14001 workshops.
-- Three settings cut the impact further: the format (A6 rather than A5), the dynamic QR code, and recycled paper on quote.
+- Only what will be distributed is printed, in France, on FSC/PEFC-certified paper with vegetable-based inks.
+- Three settings cut the impact further: format, dynamic QR code, recycled paper on quote.
 :::
 
 <div class="gi-cert-row">
@@ -45,30 +44,9 @@ Parcel inserts have their place in a responsible marketing strategy. The materia
 
 ## Paper advertising that lives up to your CSR commitments
 
-<div class="gi-feature-list">
-  <div class="gi-feature-item">
-    <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M14 18V6a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h2"/><path d="M15 18H9"/><path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"/><circle cx="17" cy="18" r="2"/><circle cx="7" cy="18" r="2"/></svg></span>
-    <div class="gi-feature-body">
-      <strong>Zero dedicated transport</strong>
-      <p>The insert travels inside a parcel that is already packed and shipping: no extra envelope, no additional delivery round. The logistics footprint of distribution is close to nil.</p>
-    </div>
-  </div>
-  <div class="gi-feature-item">
-    <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="m16 16 2 2 4-4"/><path d="M21 10V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l2-1.14"/><path d="M3.3 7 12 12l8.7-5"/><path d="M12 22V12"/></svg></span>
-    <div class="gi-feature-body">
-      <strong>100% delivered, no waste</strong>
-      <p>The material reaches the buyer's hands, at the moment they open a parcel they were expecting. Volumes are set against the delivery forecasts of the brands that carry the campaign: we print what will be distributed, with no overproduction.</p>
-    </div>
-  </div>
-  <div class="gi-feature-item">
-    <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></svg></span>
-    <div class="gi-feature-body">
-      <strong>Responsible production</strong>
-      <p>Printed in France on FSC/PEFC-certified paper with vegetable inks, in Imprim'Vert and ISO 14001 workshops. When a campaign includes a sample, its assembly onto the flyer, bonded with a fugitive glue dot, is carried out by <a href="https://travail-emploi.gouv.fr/les-entreprises-adaptees-ea-et-entreprises-adaptees-de-travail-temporaire-eatt" target="_blank" rel="noopener">Adapted Enterprises</a>.</p>
-    </div>
-  </div>
-</div>
-
+- **Zero dedicated transport.** The insert travels inside a parcel that is already packed: the logistics footprint of distribution is close to nil.
+- **100% delivered, no waste.** It arrives as the buyer opens a parcel they were expecting. Volumes are set against the delivery forecasts of the brands that carry the campaign, with no overproduction.
+- **Responsible production.** FSC/PEFC paper, vegetable inks, Imprim'Vert and ISO 14001 workshops. When a campaign includes a sample, its assembly onto the flyer (fugitive glue dot) is carried out by <a href="https://travail-emploi.gouv.fr/les-entreprises-adaptees-ea-et-entreprises-adaptees-de-travail-temporaire-eatt" target="_blank" rel="noopener">Adapted Enterprises</a>.
 
 ::: details What FSC, PEFC, Imprim'Vert and ISO mean
 - **FSC and PEFC.** Two international standards certifying that the paper comes from sustainably managed forests: replanting, biodiversity protection, respect for local communities.
@@ -79,33 +57,11 @@ Parcel inserts have their place in a responsible marketing strategy. The materia
 
 ## Reduce your campaign's impact even further
 
-Here's how to optimise your printing with 3 simple adjustments:
+- **Format.** An A6 carries the same offer as an A5 with less paper.
+- **Dynamic QR code.** Its destination URL can be changed after printing, so one material can run over an extended period.
+- **Recycled paper.** On quote, the getinside studio adapts the material to your commitments.
 
-<div class="gi-feature-list">
-  <div class="gi-feature-item">
-    <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M21.3 15.3a2.4 2.4 0 0 1 0 3.4l-2.6 2.6a2.4 2.4 0 0 1-3.4 0L2.7 8.7a2.41 2.41 0 0 1 0-3.4l2.6-2.6a2.41 2.41 0 0 1 3.4 0Z"/><path d="m14.5 12.5 2-2"/><path d="m11.5 9.5 2-2"/><path d="m8.5 6.5 2-2"/><path d="m17.5 15.5 2-2"/></svg></span>
-    <div class="gi-feature-body">
-      <strong>Format</strong>
-      <p>Choose the format best suited to your message: an A6 carries the same offer as an A5 while using less paper.</p>
-    </div>
-  </div>
-  <div class="gi-feature-item">
-    <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="5" height="5" x="3" y="3" rx="1"/><rect width="5" height="5" x="16" y="3" rx="1"/><rect width="5" height="5" x="3" y="16" rx="1"/><path d="M21 16h-3a2 2 0 0 0-2 2v3"/><path d="M21 21v.01"/><path d="M12 7v3a2 2 0 0 1-2 2H7"/><path d="M3 12h.01"/><path d="M12 3h.01"/><path d="M12 16v.01"/><path d="M16 12h1"/><path d="M21 12v.01"/><path d="M12 21v-1"/></svg></span>
-    <div class="gi-feature-body">
-      <strong>Dynamic QR code</strong>
-      <p>Take advantage of getinside's dynamic QR code system: its destination URL can be changed after printing, so one material can run over an extended period.</p>
-    </div>
-  </div>
-  <div class="gi-feature-item">
-    <span class="gi-feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M7 19H4.815a1.83 1.83 0 0 1-1.57-.881 1.785 1.785 0 0 1-.004-1.784L7.196 9.5"/><path d="M11 19h8.203a1.83 1.83 0 0 0 1.556-.89 1.784 1.784 0 0 0 0-1.775l-1.226-2.12"/><path d="m14 16-3 3 3 3"/><path d="M8.293 13.596 7.196 9.5 3.1 10.598"/><path d="m9.344 5.811 1.093-1.892A1.83 1.83 0 0 1 11.985 3a1.784 1.784 0 0 1 1.546.888l3.943 6.843"/><path d="m13.378 9.633 4.096 1.098 1.097-4.096"/></svg></span>
-    <div class="gi-feature-body">
-      <strong>Recycled paper</strong>
-      <p>On quote, the getinside studio adapts the material to your commitments.</p>
-    </div>
-  </div>
-</div>
-
-→ Materials and certifications in detail on the [Printing & Logistics](./printing-services) page.
+Materials and certifications in detail: [Printing & Logistics](./printing-services).
 
 <div class="gi-accent-box">
   <h3>Let's build a campaign aligned with your CSR policy</h3>

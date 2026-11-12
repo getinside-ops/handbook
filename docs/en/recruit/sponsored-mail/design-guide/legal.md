@@ -14,45 +14,30 @@ keywords:
 
 Any printed advertising engages your responsibility. These elements are mandatory on every flyer: their absence blocks Proof (BAT) validation.
 
----
+::: tip In short
+- 4 universal blocks on every flyer: your brand identification, Triman and getinside logos, the getinside printing notice if applicable, offer T&Cs.
+- Depending on your sector (alcohol, finance, gambling...), a sector-specific notice is added.
+- A landing page that collects data must comply with GDPR.
+:::
 
 ## Universal Notices
 
 These 4 blocks apply to **all brands**, regardless of the sector.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>1. Brand Identification</strong>
-    <p>Corporate name · Legal form · Share capital · Head office address · RCS number + registration city</p>
-    <p><em>Example: "ACME SAS with a capital of 10,000€, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>2. Environmental Logos</strong>
-    <p><strong>Triman + Info-tri signage</strong>: the Triman is adjoined to the sorting instruction. Logo <strong>≥ 10 mm</strong> (standard version) or <strong>6 mm</strong> (compact version, only where space is restricted). Mandatory since the AGEC law.</p>
-    <p><strong>getinside Logo</strong>: provided with the templates.</p>
-    <p><a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank">⬇️ Download the Logos pack</a></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>3. Printing by getinside</strong>
-    <p>If getinside handles printing, the notice <em>"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"</em> is mandatory, with the matching FSC and Imprim'vert logos (provided by getinside).</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>4. Offer T&Cs</strong>
-    <p>Offer validity dates · Special conditions (e.g., "valid from 50€ purchase") · Any usage restrictions</p>
-  </div>
-</div>
+1. **Brand identification:** corporate name, legal form, share capital, head office address, RCS number + registration city. Example: *"ACME SAS with a capital of 10,000€, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"*.
+2. **Environmental logos:**
+   - **Triman + Info-tri:** the Triman is adjoined to the sorting instruction. Logo **≥ 10 mm** (standard version) or **6 mm** (compact version, only where space is restricted). Mandatory since the AGEC law.
+   - **getinside logo:** provided with the templates. [⬇️ Download the Logos pack](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
+3. **Printing by getinside:** if getinside handles printing, the notice *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* is mandatory, with the FSC and Imprim'vert logos (provided by getinside).
+4. **Offer T&Cs:** validity dates, special conditions (e.g., "valid from 50€ purchase"), any usage restrictions.
 
-:::info Why the Triman on a flyer?
-A promotional flyer is a **graphic paper** subject to the paper EPR scheme (Citeo). Since the AGEC law, the Triman + Info-tri signage is mandatory on it. The minimum sizes (10 mm standard, 6 mm compact) follow the ADEME charter reproduced in the [Citeo Info-tri guide](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"}. The Triman and the sorting instruction are inseparable and must be enlarged proportionally.
+::: details Why the Triman on a flyer?
+A promotional flyer is a **graphic paper** subject to the paper EPR scheme (Citeo). Since the AGEC law, the Triman + Info-tri signage is mandatory on it. The minimum sizes (10 mm standard, 6 mm compact) follow the ADEME charter reproduced in the [Citeo Info-tri guide](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"}. The Triman and the sorting instruction are inseparable and must be enlarged proportionally. Why these certifications reassure a CSR team: [CSR & parcel inserts](/en/recruit/sustainability).
 :::
-
-→ Why these certifications reassure a CSR team: [CSR & parcel inserts](/en/recruit/sustainability).
-
----
 
 ## Sectoral Notices
 
-If your activity falls under one of the sectors below, the corresponding notice is **mandatory** on your flyer. Legal compliance remains your responsibility.
+If your activity falls under one of the sectors below, the corresponding notice is **mandatory**. Legal compliance remains your responsibility.
 
 | Sector | Mandatory notice | Legal reference |
 | :--- | :--- | :--- |
@@ -65,19 +50,15 @@ If your activity falls under one of the sectors below, the corresponding notice 
 | 🧸 **Toys** | Indication of recommended age (e.g., *"3+"*) + *"Ne convient pas aux enfants de moins de 3 ans."* (Not suitable for children under 3 years.) | Directive 2009/48/EC |
 | 🛡️ **Insurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* (An insurance contract commits you and must be respected. Check the terms before committing.) | Insurance Code |
 
-::: info Alcohol: details
-The legal notice is "L'abus d'alcool est dangereux pour la santé" (alcohol abuse is dangerous for health). The addition "à consommer avec modération" (consume in moderation) is the wording recommended by the ARPP. Alcohol advertising is limited to the items listed in article L3323-4 of the French Public Health Code, and to certain media (article L3323-2). Commercial circulars sent as named mailings are exempt from the health message by law. On a flyer inserted in a parcel, keep it. If in doubt, have your material validated by your legal department.
+::: details Alcohol: details
+The legal notice is "L'abus d'alcool est dangereux pour la santé" (alcohol abuse is dangerous for health). The addition "à consommer avec modération" (consume in moderation) is the wording recommended by the ARPP. Alcohol advertising is limited to the items listed in article L3323-4 of the French Public Health Code, and to certain media (article L3323-2). Commercial circulars sent as named mailings are exempt from the health message by law. On a flyer inserted in a parcel, keep it.
 :::
 
-:::tip In case of doubt
-If your sector is not listed or if you hesitate on the exact wording, send your Proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) before printing. Our team validates your creative, but legal compliance remains your responsibility.
-:::
-
----
+Sector not listed or unsure about the wording: have your material validated by your legal department and send your Proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) before printing. Our team validates your creative, but legal compliance remains your responsibility.
 
 ## Personal data & GDPR
 
-This obligation doesn't concern the flyer itself but the **landing page** the QR code points to, as soon as it **collects data** (game, form, newsletter sign-up, drive to app).
+This obligation concerns the QR code's **landing page**, not the flyer, as soon as it **collects data** (game, form, newsletter sign-up, drive to app).
 
 | Requirement | What's expected |
 | :--- | :--- |
@@ -87,6 +68,4 @@ This obligation doesn't concern the flyer itself but the **landing page** the QR
 | **Rights** | Allow data subjects to exercise their rights (access, rectification, erasure) and state the **retention period**. |
 | **Rules** | For a prize draw, provide official rules covering the collection and use of data. |
 
-:::tip Reference
-The [CNIL](https://www.cnil.fr/fr/cnil-direct/question/organisation-de-jeux-concours-que-faire){target="_blank"} guidelines are authoritative. If in doubt about your setup's compliance, have it validated by your DPO or legal team.
-:::
+The [CNIL](https://www.cnil.fr/fr/cnil-direct/question/organisation-de-jeux-concours-que-faire){target="_blank"} guidelines are authoritative. If in doubt, have your setup validated by your DPO or legal team.
