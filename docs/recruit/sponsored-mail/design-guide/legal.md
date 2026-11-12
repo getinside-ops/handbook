@@ -14,45 +14,30 @@ keywords:
 
 Toute publicité imprimée engage votre responsabilité. Ces éléments sont obligatoires sur chaque flyer : leur absence bloque la validation du BAT.
 
----
+::: tip En bref
+- 4 blocs universels sur tous les flyers : identification de votre marque, logos Triman et getinside, mention d'impression getinside si applicable, CGV de l'offre.
+- Selon votre secteur (alcool, finance, jeux d'argent...), une mention sectorielle s'ajoute.
+- Une landing page qui collecte des données doit respecter le RGPD.
+:::
 
 ## Mentions Universelles
 
 Ces 4 blocs s'appliquent à **toutes les marques**, quel que soit le secteur.
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>1. Identification de votre marque</strong>
-    <p>Nom social · Forme juridique · Capital social · Adresse du siège · Numéro RCS + ville d'immatriculation</p>
-    <p><em>Exemple : "ACME SAS au capital de 10 000€, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>2. Logos Environnement</strong>
-    <p><strong>Signalétique Triman + Info-tri</strong> : le Triman est accolé à la consigne de tri. Logo <strong>≥ 10 mm</strong> (version standard) ou <strong>6 mm</strong> (version compacte, uniquement si la place est restreinte). Obligatoire depuis la loi AGEC.</p>
-    <p><strong>Logo getinside</strong> : fourni avec les gabarits.</p>
-    <p><a href="https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy" target="_blank">⬇️ Télécharger le pack Logos</a></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>3. Impression par getinside</strong>
-    <p>Si getinside réalise l'impression, la mention <em>"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"</em> est obligatoire, avec les logos FSC et Imprim'vert correspondants (fournis par getinside).</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>4. CGV de l'offre</strong>
-    <p>Dates de validité de l'offre · Conditions particulières (ex : "valable dès 50€ d'achat") · Toute restriction d'usage</p>
-  </div>
-</div>
+1. **Identification de votre marque :** nom social, forme juridique, capital social, adresse du siège, numéro RCS + ville d'immatriculation. Exemple : *"ACME SAS au capital de 10 000€, 12 rue de la Paix, 75001 Paris, RCS Paris 123 456 789"*.
+2. **Logos Environnement :**
+   - **Triman + Info-tri :** le Triman est accolé à la consigne de tri. Logo **≥ 10 mm** (version standard) ou **6 mm** (version compacte, uniquement si la place est restreinte). Obligatoire depuis la loi AGEC.
+   - **Logo getinside :** fourni avec les gabarits. [⬇️ Télécharger le pack Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}
+3. **Impression par getinside :** si getinside imprime, la mention *"Imprimé sur papier FSC par un imprimeur certifié Imprim'vert avec getinside"* est obligatoire, avec les logos FSC et Imprim'vert (fournis par getinside).
+4. **CGV de l'offre :** dates de validité, conditions particulières (ex : "valable dès 50€ d'achat"), toute restriction d'usage.
 
-:::info Pourquoi le Triman sur un flyer ?
-Un flyer publicitaire est un **papier graphique** soumis à la REP papiers (Citeo). Depuis la loi AGEC, la signalétique Triman + Info-tri y est obligatoire. Les tailles minimales (10 mm en standard, 6 mm en compact) suivent la charte ADEME reprise dans le [guide Info-tri Citeo](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"}. Triman et consigne de tri sont indissociables et s'agrandissent proportionnellement.
+::: details Pourquoi le Triman sur un flyer ?
+Un flyer publicitaire est un **papier graphique** soumis à la REP papiers (Citeo). Depuis la loi AGEC, la signalétique Triman + Info-tri y est obligatoire. Les tailles minimales (10 mm en standard, 6 mm en compact) suivent la charte ADEME reprise dans le [guide Info-tri Citeo](https://www.citeo.com/telecharger-info-tri-et-fichiers-graphiques/){target="_blank"}. Triman et consigne de tri sont indissociables et s'agrandissent proportionnellement. Pourquoi ces certifications rassurent un service RSE : [RSE & insertion colis](/recruit/sustainability).
 :::
-
-→ Pourquoi ces certifications rassurent un service RSE : [RSE & insertion colis](/recruit/sustainability).
-
----
 
 ## Mentions Sectorielles
 
-Si votre activité relève d'un des secteurs ci-dessous, la mention correspondante est **obligatoire** sur votre flyer. La conformité légale reste de votre responsabilité.
+Si votre activité relève d'un secteur ci-dessous, la mention correspondante est **obligatoire**. La conformité légale reste de votre responsabilité.
 
 | Secteur | Mention obligatoire | Référence légale |
 | :--- | :--- | :--- |
@@ -65,19 +50,15 @@ Si votre activité relève d'un des secteurs ci-dessous, la mention correspondan
 | 🧸 **Jouets** | Indication de l'âge recommandé (ex : *"3+"*) + *"Ne convient pas aux enfants de moins de 3 ans."* | Directive 2009/48/CE |
 | 🛡️ **Assurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Code des Assurances |
 
-::: info Alcool : précisions
-La mention légale est « L'abus d'alcool est dangereux pour la santé ». La suite « à consommer avec modération » est la formule recommandée par l'ARPP. La publicité pour l'alcool est limitée aux éléments listés à l'article L3323-4 du code de la santé publique, et à certains supports (article L3323-2). Les circulaires commerciales faisant l'objet d'envois nominatifs sont dispensées du message sanitaire par la loi. Sur un flyer inséré dans un colis, gardez-le. En cas de doute, faites valider votre support par votre service juridique.
+::: details Alcool : précisions
+La mention légale est « L'abus d'alcool est dangereux pour la santé ». La suite « à consommer avec modération » est la formule recommandée par l'ARPP. La publicité pour l'alcool est limitée aux éléments listés à l'article L3323-4 du code de la santé publique, et à certains supports (article L3323-2). Les circulaires commerciales faisant l'objet d'envois nominatifs sont dispensées du message sanitaire par la loi. Sur un flyer inséré dans un colis, gardez-le.
 :::
 
-:::tip En cas de doute
-Si votre secteur n'est pas listé ou si vous hésitez sur la formulation exacte, transmettez votre BAT à [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) avant impression. Notre équipe valide votre créa, mais la conformité légale reste de votre responsabilité.
-:::
-
----
+Secteur non listé ou doute sur la formulation : faites valider votre support par votre service juridique et transmettez votre BAT à [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) avant impression. Notre équipe valide votre créa, mais la conformité légale reste de votre responsabilité.
 
 ## Données personnelles & RGPD
 
-Cette obligation ne concerne pas le flyer lui-même mais la **landing page** vers laquelle pointe le QR code, dès lors qu'elle **collecte des données** (jeu, formulaire, inscription newsletter, drive to app).
+Cette obligation concerne la **landing page** du QR code, pas le flyer, dès qu'elle **collecte des données** (jeu, formulaire, newsletter, drive to app).
 
 | Exigence | Ce qui est attendu |
 | :--- | :--- |
@@ -87,6 +68,4 @@ Cette obligation ne concerne pas le flyer lui-même mais la **landing page** ver
 | **Droits** | Permettre l'exercice des droits (accès, rectification, suppression) et préciser la **durée de conservation**. |
 | **Règlement** | Pour un jeu avec tirage au sort, prévoir un règlement mentionnant la collecte et l'usage des données. |
 
-:::tip Référence
-Les recommandations de la [CNIL](https://www.cnil.fr/fr/cnil-direct/question/organisation-de-jeux-concours-que-faire){target="_blank"} font foi. En cas de doute sur la conformité de votre dispositif, faites-le valider par votre DPO ou votre service juridique.
-:::
+Les recommandations de la [CNIL](https://www.cnil.fr/fr/cnil-direct/question/organisation-de-jeux-concours-que-faire){target="_blank"} font foi. En cas de doute, faites valider votre dispositif par votre DPO ou votre service juridique.
