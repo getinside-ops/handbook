@@ -14,84 +14,46 @@ keywords:
 
 Discover how other brands use getinside to achieve their acquisition and monetization goals.
 
-<a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create my campaign</a>
+::: tip In short
+- **Recruit**: TOP CAC €1.21.
+- **Retain**: TOP CVR 6%.
+- **Monetise**: €215K+ revenue per year.
+:::
 
----
+<a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create my campaign</a>
 
 ## 🎯 Results by use case
 
 ### Recruit
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Parcel · Auto-Moto, Family Kids & Baby</strong>
-    <p>12% conversion rate · 1,053 new customers · CAC €3.5.</p>
-    <p><em>"Audience activation is an excellent lever to reach segments that were untapped until now."</em> Marina Lépine, Marketing Manager</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Parcel · Gifts and events</strong>
-    <p>3.12% conversion rate · 5,766 new customers · CAC €4.5, online and in store.</p>
-    <p><em>"An omnichannel campaign that managed to reconcile online and offline."</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Parcel · Food and beverages</strong>
-    <p>Awareness and recruitment: 27,000 people reached.</p>
-    <p><em>"A smart campaign."</em> Marie Rassat, Senior Marketing & Communication Manager</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Parcel · Food</strong>
-    <p>2.5% conversion rate · 768 new customers · CAC €10.</p>
-    <p><em>"A high-impact campaign that puts the brand in front of a target with strong affinities with Japhy's audience."</em> Lucie Prevot, Influence Partnership Manager</p>
-  </div>
-</div>
+| Case | Result | Lever |
+| :--- | :--- | :--- |
+| Parcel · Auto-Moto, Family Kids & Baby | 12% conversion, 1,053 new customers, CAC €3.5 | Activation of untapped audiences |
+| Parcel · Gifts and events | 3.12% conversion, 5,766 new customers, CAC €4.5 | Omnichannel, online and in store |
+| Parcel · Food and beverages | 27,000 people reached | Awareness and recruitment |
+| Parcel · Food | 2.5% conversion, 768 new customers, CAC €10 | Target close to the brand's audience |
 
 ### Sample
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Sample · Beauty, Health & Wellness</strong>
-    <p>30,000 samples distributed · 65,000 contacts reached.</p>
-    <p><em>"A turnkey campaign for our product activation."</em> Sophie Bouyssie, E-commerce Activation Manager</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Sample · Food</strong>
-    <p>30,000 samples and flyers distributed · 80,000 contacts reached.</p>
-    <p><em>"A real product discovery experience at a key moment of the customer journey, which encourages purchase through a promotional offer."</em></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Sample · Sports and outdoor activities</strong>
-    <p>13,000 samples and flyers distributed · 50,000 contacts reached, at an affinity event.</p>
-    <p><em>"Speaking as close as possible to our target, at the heart of a unifying event."</em> Charlotte Desrumaux, Marketing manager</p>
-  </div>
-</div>
+| Case | Result | Lever |
+| :--- | :--- | :--- |
+| Sample · Beauty, Health & Wellness | 30,000 samples, 65,000 contacts | Turnkey campaign |
+| Sample · Food | 30,000 samples and flyers, 80,000 contacts | Product discovery and promotional offer |
+| Sample · Sports and outdoor activities | 13,000 samples and flyers, 50,000 contacts | Affinity event |
 
 ### Retain
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Direct mail · Reactivation</strong>
-    <p>Reactivation of former customers with a dedicated offer: 6% conversion rate.</p>
-  </div>
-</div>
+| Case | Result | Lever |
+| :--- | :--- | :--- |
+| Direct mail · Reactivation | 6% conversion | Dedicated offer for former customers |
 
 ### Monetise
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Self-funded media budget</strong>
-    <p>90% of revenue reinvested in acquisition campaigns · €60K+ revenue generated in under a year.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>New recurring revenue source</strong>
-    <p>€200K+ revenue generated in one year · 30+ campaigns delivered per year.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Maximised value per campaign</strong>
-    <p>+375% average basket per campaign · €50K+ revenue generated since integration.</p>
-  </div>
-</div>
-
----
+| Case | Result | Lever |
+| :--- | :--- | :--- |
+| Self-funded media budget | 90% of revenue reinvested, €60K+ in under a year | Revenue reinvested in acquisition |
+| New recurring revenue source | €200K+ in one year, 30+ campaigns per year | Regular delivery |
+| Maximised value per campaign | +375% average basket, €50K+ since integration | Per-campaign optimisation |
 
 ## Best Parcel Insert Campaigns
 
@@ -108,11 +70,9 @@ Top parcel insert campaigns selected by our teams.
   </iframe>
 </div>
 
----
-
 ## Bundles & Media Kits
 
-Browse a selection of bundles offered by brands that deliver campaigns to their customers.
+A selection of bundles offered by brands that deliver campaigns to their customers. [See the bundles](/en/recruit/bundles).
 
 <div style="position:relative;width:100%;padding-top:58.26%;overflow:hidden;">
   <iframe
@@ -125,211 +85,42 @@ Browse a selection of bundles offered by brands that deliver campaigns to their 
   </iframe>
 </div>
 
----
-
 ## 📧 Dedicated Email: Live Examples
 
-Click the buttons to see the actual rendering in the browser.
+Actual rendering in the browser:
 
-<div class="gi-format-grid">
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">💛</span>
-    <span class="gi-format-card-title">Les Pièces Jaunes x Mieux que des Fleurs</span>
-    <span class="gi-format-card-desc">Charity campaign delivered by Mieux que des Fleurs for Les Pièces Jaunes.</span>
-    <a href="https://getinside-ops.github.io/archive-news/820c70e8b537/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🐾</span>
-    <span class="gi-format-card-title">Ultra Premium Direct x La Redoute</span>
-    <span class="gi-format-card-desc">Premium petfood campaign delivered by La Redoute.</span>
-    <a href="https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🐱</span>
-    <span class="gi-format-card-title">Les Petits Culottés x Caats</span>
-    <span class="gi-format-card-desc">Children's fashion campaign delivered by Caats to a Parents / Family audience.</span>
-    <a href="https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
-  <div class="gi-format-card">
-    <span class="gi-format-card-icon">🥦</span>
-    <span class="gi-format-card-title">Yooji x HelloFresh</span>
-    <span class="gi-format-card-desc">Baby food campaign delivered by HelloFresh targeting Young Parents.</span>
-    <a href="https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html" target="_blank" class="btn btn-outline">👁️ View render</a>
-  </div>
-</div>
----
+- [Les Pièces Jaunes x Mieux que des Fleurs](https://getinside-ops.github.io/archive-news/820c70e8b537/index.html): charity campaign.
+- [Ultra Premium Direct x La Redoute](https://getinside-ops.github.io/archive-news/be20b468f3ac/index.html): premium petfood.
+- [Les Petits Culottés x Caats](https://getinside-ops.github.io/archive-news/1aebb73dd87d/index.html): children's fashion, Parents / Family audience.
+- [Yooji x HelloFresh](https://getinside-ops.github.io/archive-news/3ca179d02c98/index.html): baby food, young parents.
 
 ## 📦 Parcel Inserts & Customer Success
 
-Click on the images to zoom.
+| Brand | Goal | Target | Result |
+| :--- | :--- | :--- | :--- |
+| Avène | Awareness and traffic | Beauty, Health & Wellness | 30,000 ex., 5.40% interaction |
+| Nocibé | Drive-to-Store, omnichannel | Fashion & Accessories | ROI 16:1, 20% new customers |
+| HelloFresh | Recruit at scale | Petfood, Family, Gifts | 25 campaigns per month, 1% avg CVR |
+| Bam Karaoke | B2B/B2C awareness | Food | 15,000 ex., 4.5% interaction |
+| Ultra Premium | Conquest of Families & High Income | Health & Wellness | 50,000 contacts, 3.48% interaction |
+| Total Wash | Drive to App | Auto-Moto | 300,000 ex., 12% CTR, CAC €8.7, 70%+ new customers |
+| Nespresso | Trade marketing (Boulanger) | Identified consumers | 48,000 ex., 2.25% interaction |
+| Japhy | Test a new product (dedicated email) | The Bradery | 200,000 contacts, 1.90% interaction |
 
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-avene.webp" alt="Avène Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>AVÈNE</h2>
-      <Badge type="tip" text="Awareness" />
-    </div>
-    <p>Develop awareness and generate traffic.</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Format</strong><span>Parcel Insert (Sampling)</span></div>
-      <div><strong>Targeting</strong><span>Beauty, Health & Wellness</span></div>
-      <div><strong>Volume</strong><span>30,000 ex.</span></div>
-      <div><strong>Interaction</strong><span class="text-green-200 fw-700">5.40%</span></div>
-    </div>
-    <div class="gi-case-quote">"Outsourced campaign operations and a turnkey campaign."</div>
-  </div>
-</div>
+::: details See the campaign visuals
+Click an image to zoom.
 
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-nocibe.webp" alt="Nocibé Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>NOCIBÉ</h2>
-      <Badge type="info" text="Omnichannel" />
-    </div>
-    <p>Generate conversions online and in-store (Drive-to-Store).</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Mechanism</strong><span>Unique Code + Barcode</span></div>
-      <div><strong>Audience</strong><span>Fashion & Accessories</span></div>
-      <div><strong>ROI</strong><span class="text-green-200 fw-700">16:1</span></div>
-      <div><strong>Acquisition</strong><span>20% new customers</span></div>
-    </div>
-    <div class="gi-case-quote">"An omnichannel campaign that successfully reconciled online and offline."</div>
-  </div>
+<div class="gi-format-grid">
+  <img src="/handbook/images/case-studies/case-avene.webp" alt="Campaign Avène" onclick="openLightbox(this.src)" loading="lazy">
+  <img src="/handbook/images/case-studies/case-nocibe.webp" alt="Campaign Nocibé" onclick="openLightbox(this.src)" loading="lazy">
+  <img src="/handbook/images/case-studies/case-hellofresh.webp" alt="Campaign HelloFresh" onclick="openLightbox(this.src)" loading="lazy">
+  <img src="/handbook/images/case-studies/case-bam.webp" alt="Campaign Bam Karaoke" onclick="openLightbox(this.src)" loading="lazy">
+  <img src="/handbook/images/case-studies/case-upd.webp" alt="Campaign Ultra Premium Direct" onclick="openLightbox(this.src)" loading="lazy">
+  <img src="/handbook/images/case-studies/case-wash.webp" alt="Campaign Total Wash" onclick="openLightbox(this.src)" loading="lazy">
+  <img src="/handbook/images/case-studies/case-nespresso.webp" alt="Campaign Nespresso" onclick="openLightbox(this.src)" loading="lazy">
+  <img src="/handbook/images/case-studies/case-japhy.webp" alt="Campaign Japhy" onclick="openLightbox(this.src)" loading="lazy">
 </div>
-
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-hellofresh.webp" alt="HelloFresh Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>HELLOFRESH</h2>
-      <Badge type="warning" text="Acquisition" />
-    </div>
-    <p>Recruit new customers at scale.</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Frequency</strong><span>25 campaigns / month</span></div>
-      <div><strong>Top Audiences</strong><span>Petfood, Family, Gifts</span></div>
-      <div><strong>Offer</strong><span>Gift Card</span></div>
-      <div><strong>Conversion</strong><span>1% avg CVR</span></div>
-    </div>
-    <div class="gi-case-quote">"A strategy allowing us to test all audiences and build a history."</div>
-  </div>
-</div>
-
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-bam.webp" alt="Bam Karaoke Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>BAM KARAOKE</h2>
-      <Badge type="info" text="Awareness" />
-    </div>
-    <p>Develop awareness and introduce its B2B/B2C offer.</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Audience</strong><span>Food (Frichti)</span></div>
-      <div><strong>Format</strong><span>Unique Code Card</span></div>
-      <div><strong>Impressions</strong><span>15,000 ex.</span></div>
-      <div><strong>Interactions</strong><span class="text-green-200 fw-700">4.5%</span></div>
-    </div>
-    <div class="gi-case-quote">"A smart campaign blending a corporate consumption moment with a team offer and promise."</div>
-  </div>
-</div>
-
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-upd.webp" alt="Ultra Premium Direct Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>ULTRA PREMIUM</h2>
-      <Badge type="warning" text="Conquest" />
-    </div>
-    <p>Conquest strategy targeted at Families & High Income.</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Audience</strong><span>Health & Wellness</span></div>
-      <div><strong>Reach</strong><span>50,000 contacts</span></div>
-      <div><strong>Offer</strong><span>Gift Card</span></div>
-      <div><strong>Interactions</strong><span class="text-green-200 fw-700">3.48%</span></div>
-    </div>
-    <div class="gi-case-quote">"A logical range addition and a relevant recommendation."</div>
-  </div>
-</div>
-
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-wash.webp" alt="Total Wash Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>TOTAL WASH</h2>
-      <Badge type="info" text="Drive to App" />
-    </div>
-    <p>Drive app downloads and acquire new customers.</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Volume</strong><span>300,000 ex.</span></div>
-      <div><strong>Targeting</strong><span>Auto-Moto</span></div>
-      <div><strong>Clicks (CTR)</strong><span class="text-green-200 fw-700">12%</span></div>
-      <div><strong>Acquisition Cost</strong><span>8.7€ CAC</span></div>
-    </div>
-    <div class="gi-case-quote">"More than 70% of new customers recruited through this channel."</div>
-  </div>
-</div>
-
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-nespresso.webp" alt="Nespresso Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>NESPRESSO</h2>
-      <Badge type="info" text="Trade Marketing" />
-    </div>
-    <p>Develop collaboration with partner chains (Boulanger).</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Partner</strong><span>Boulanger</span></div>
-      <div><strong>Format</strong><span>Unique Code Card + Barcode</span></div>
-      <div><strong>Volume</strong><span>48,000 ex.</span></div>
-      <div><strong>Interaction</strong><span>2.25%</span></div>
-    </div>
-    <div class="gi-case-quote">"New media inventories to activate clearly identified consumer audiences."</div>
-  </div>
-</div>
-
-<div class="gi-case-card">
-  <div class="gi-case-img">
-    <img src="/images/case-studies/case-japhy.webp" alt="Japhy Campaign" onclick="openLightbox(this.src)" loading="lazy">
-  </div>
-  <div class="gi-case-body">
-    <div class="gi-case-header">
-      <h2>JAPHY</h2>
-      <Badge type="tip" text="Awareness" />
-    </div>
-    <p>Introduce and test a new product (Sampling).</p>
-    <hr />
-    <div class="gi-case-stats">
-      <div><strong>Format</strong><span>Dedicated Email</span></div>
-      <div><strong>Audience</strong><span>The Bradery</span></div>
-      <div><strong>Volume</strong><span>200,000 contacts</span></div>
-      <div><strong>Interaction</strong><span class="text-green-200 fw-700">1.90%</span></div>
-    </div>
-    <div class="gi-case-quote">"An effective campaign that builds brand awareness and benefits from The Bradery's image for a very accessible CPM."</div>
-  </div>
-</div>
+:::
 
 <div id="lightbox" class="gi-lightbox" onclick="closeLightbox()">
   <span class="gi-lightbox-close">&times;</span>
