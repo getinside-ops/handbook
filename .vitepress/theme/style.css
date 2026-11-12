@@ -1612,11 +1612,42 @@ h4+.gi-cert-row {
 /* ============================================================
    21. PRINT
    ============================================================ */
+.gi-print-btn {
+  display: block;
+  margin: 0 0 12px auto;
+  padding: 4px 12px;
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+  background: transparent;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.gi-print-btn:hover {
+  color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+}
+
 @media print {
+  :root,
+  :root.dark {
+    --vp-c-bg: #fff;
+    --vp-c-bg-soft: #f6f6f7;
+    --vp-c-text-1: #111;
+    --vp-c-text-2: #333;
+    --vp-c-brand-1: #067a66;
+  }
+
+  body {
+    background: #fff !important;
+  }
 
   .VPNav,
   .VPSidebar,
-  .VPDocFooter {
+  .VPDocFooter,
+  .VPLocalNav,
+  .gi-print-btn,
+  .vp-doc .header-anchor {
     display: none !important;
   }
 
@@ -1627,6 +1658,19 @@ h4+.gi-cert-row {
 
   .vp-doc {
     max-width: 100% !important;
+  }
+
+  .gi-step,
+  .gi-value-card,
+  .gi-format-card,
+  .custom-block,
+  .vp-doc tr {
+    break-inside: avoid;
+  }
+
+  .vp-doc h2,
+  .vp-doc h3 {
+    break-after: avoid;
   }
 }
 
