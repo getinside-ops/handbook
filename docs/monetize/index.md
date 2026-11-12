@@ -16,6 +16,12 @@ image: /images/gi-keyvisual.svg
 
 <p class="gi-page-intro">Vous diffusez les campagnes d'autres marques à vos clients : elles enrichissent leur expérience d'achat et génèrent des revenus qui financent votre acquisition. Records constatés : 90 % des revenus réinvestis en acquisition et +215 K€ par an. Vous pouvez aussi échanger vos audiences avec d'autres marques, sans achat média.</p>
 
+::: tip En bref
+- Vous diffusez les campagnes d'autres marques à vos clients et générez des revenus.
+- Vos revenus créditent votre Wallet et financent votre acquisition. Records : 90 % réinvestis, +215 K€ par an.
+- Vous pouvez aussi échanger vos audiences avec d'autres marques, sans achat média.
+:::
+
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Accéder à mon espace →</a>
 </div>

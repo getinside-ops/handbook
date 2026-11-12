@@ -15,6 +15,12 @@ image: /images/gi-keyvisual.svg
 
 <p class="gi-page-intro">Recruit your future customers through the brands they already buy from, by having your campaign delivered by them.</p>
 
+::: tip In short
+- You have your campaign delivered by other brands, to their customers.
+- Media budget or audience exchange, with no media spend. Best CAC: €1.21.
+- Channels: parcel inserts, sampling, and other formats (email, social, bundles).
+:::
+
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create a campaign →</a>
 </div>
