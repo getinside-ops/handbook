@@ -38,6 +38,7 @@ Images du design system dans `assets/images/ds/` (pélicans, illustrations de ca
 **Core files:**
 - `.vitepress/config.ts` — Site config: sidebar nav, locales, base path `/handbook/`. `transformHead` emits SSR meta tags (OpenGraph, description, AI tags like `citation_title`) AND the per-page `WebPage`/`BreadcrumbList` JSON-LD (via `buildWebPageSchema`). Also wires MS Clarity, Google Search Console verification, and the static `WebSite` schema. Search is VitePress **local** search (no Algolia). No Mermaid plugin is installed.
 - `.vitepress/theme/index.ts` — Custom Vue theme: client-side OpenGraph/canonical/hreflang updates on SPA navigation (`updateOpenGraph`). Schema.org is rendered in SSR via `config.ts`, not here.
+- `.vitepress/sidebar.ts` — Single source of the FR/EN sidebars (`buildSidebar(icon)`, called from `config.ts`). `GiSidebarHead.vue` (slot `sidebar-nav-before`) adds the journey tabs and breadcrumb; styles in `ds-sidebar.css`; the breadcrumb helper `groupOf` (`theme/sidebar-trail.ts`) is tested by `node --test scripts/sidebar-trail.test.ts`.
 - `.vitepress/theme/style.css` — Styles hérités du handbook (mise en page, composants markdown). Les jetons du design system et le recâblage `--vp-c-*` sont dans `ds-tokens.css`; l'habillage des blocs markdown dans `ds-markdown.css`; les composants Vue dans `ds-components.css` (classes `ds-*`). Palette : jaune #fcf758 (jamais en texte ni en fond de bouton), encre #0c0c09, grège #f4f4f0, turquoise, lilas, violet nuit. Une seule ambiance claire, pas de mode sombre.
 - `.vitepress/theme/components/Gi*.vue` — `GiHero`, `GiAccentTitle`, `GiLinkCard`, `GiStat`, `GiSchema`, `GiFlow`, `GiPelican`, utilisables dans le markdown des pages d'accueil et de section.
 - `scripts/check-design-system.sh` — Contrôle que le design system est appliqué (polices, jetons, pas de mode sombre ni de menthe, composants et images présents). À lancer avant de commiter du CSS.
@@ -89,7 +90,7 @@ image: /images/og-image.png  # optional, overrides site default
 ---
 ```
 
-SEO metadata and Schema.org JSON-LD are generated in SSR by `config.ts` (`transformHead` + `buildWebPageSchema`); `theme/index.ts` only refreshes OpenGraph/canonical/hreflang during SPA navigation. Sidebar is manually configured in `.vitepress/config.ts` — add new pages to `themeConfig.sidebar` when creating new files (FR and EN blocks).
+SEO metadata and Schema.org JSON-LD are generated in SSR by `config.ts` (`transformHead` + `buildWebPageSchema`); `theme/index.ts` only refreshes OpenGraph/canonical/hreflang during SPA navigation. Sidebar is manually configured in `.vitepress/sidebar.ts` — one tree with FR and EN labels side by side, one sidebar per journey (`/recruit/`, `/retain/`, `/monetize/`, `/faq/`, `/resources/`, `/start-here/`), 2 levels max (group > entry). Add new pages there when creating new files; pages deeper than 2 levels must be linked from their overview page. Run `node scripts/check-sidebar.ts` after any change (depth, dead links, FR/EN parity, every section page reachable in 2 clicks).
 
 **YAML pitfall:** a frontmatter value containing `: ` (colon + space) must be wrapped in double quotes, otherwise the build fails with a YAML error (e.g. `description: "Top CAC : 1,21 €"`).
 
