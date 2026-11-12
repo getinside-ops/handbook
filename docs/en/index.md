@@ -36,11 +36,4 @@ keywords:
 <GiLinkCard href="/en/monetize/" tone="lilac" title="Monetise" desc="Deliver other brands' campaigns and fund your acquisition. Top revenue: €215K+ per year." image="/images/ds/levier-monetiser.webp" image-alt="Illustration of the Monetise use" />
 </div>
 
-
-<div class="ds-stats">
-<GiStat value="98%" label="deliverability" detail="Parcels and direct mail reach the recipient's hands." />
-<GiStat value="100%" label="attention" detail="A piece you hold in your hands gets read." />
-<GiStat value="86%" label="of purchase decisions are made at home" detail="Parcels and mail arrive where the purchase is decided." />
-</div>
-
 </div>
