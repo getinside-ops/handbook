@@ -12,47 +12,45 @@ keywords:
 
 # Billing & Payments
 
+::: tip In short
+- The Wallet is not credited automatically: declare your volumes (parcel inserts) or confirm delivery (email).
+- Revenue is "Pending" until 30 days after the last report, then "Available": withdraw (valid invoice required) or reinvest.
+- With no login or withdrawal for 12 months, funds expire.
+:::
+
 ::: details I don't see my revenue in my Wallet
-The credit is not automatic upon signature, but upon **realization**. You must manually validate according to the format:
+Crediting happens on **completion**, not on signature. In **My Campaigns**:
 
-- **Parcel inserts:** declare your volumes every Monday or Tuesday in **My Campaigns → Declare volume**.
-- **Emailing (dedicated or newsletter placement):** click **"Validate broadcast"** after sending, in **My Campaigns → Validate broadcast**.
+- **Parcel inserts:** **Declare volume**, every Monday or Tuesday.
+- **Email (dedicated or newsletter banner):** **Confirm delivery** after sending.
 
-Without this action, the funds remain escrowed and the campaign is not counted.
+Without this action, funds stay in escrow.
 :::
 
-::: details How to withdraw my earnings and issue my invoice?
-Go to **Transaction → Exchange** and click on `Withdraw`. Enter the amount you want.
-
-**Important:** your invoice must match the amount withdrawn.
+::: details How do I withdraw my earnings and issue my invoice?
+**Transaction → Exchange**, `Withdraw` button, then enter the amount. Your invoice must match the amount withdrawn.
 :::
 
-::: details When are the revenues available?
-The campaign revenue is credited to your account balance **30 days after the last reporting**. The funds move from "Pending" to "Available". You can then transfer them to your Wallet or withdraw them.
+::: details When does revenue become available?
+**30 days after the last report**, it moves from "Pending" to "Available". You can then withdraw it or transfer it to your Wallet.
 :::
 
 ::: details When are payments issued?
-Payments are issued **30 days end of month**, from the date of receipt of the withdrawal request, provided that the submitted invoice is valid and the funds are "Available".
+At **30 days end of month**, counted from the withdrawal request, if the invoice is valid and the funds are "Available".
 :::
 
 ::: details Can I reinvest my earnings?
-Yes. In **Exchange**, click on `Transfer to wallet`. You can use this balance immediately to fund your own acquisition campaigns.
+Yes: in **Exchange**, `Transfer to wallet`. The balance immediately funds your acquisition campaigns.
 :::
 
-::: details Why is my revenue blocked for 30 days?
-The 30-day delay is a **protection period** that secures your payment and that of the brand whose campaign you deliver.
-
-It allows detecting and processing potential anomalies (lost parcels, non-compliant volumes, interrupted campaign) **before** the funds are definitively released. Without this buffer, getinside could not guarantee your payment if the brand whose campaign you deliver defaults on payment.
+::: details Why is my revenue held for 30 days?
+It is a **protection period**: it gives time to handle anomalies (lost parcels, non-compliant volumes, interrupted campaign) **before** funds are finally released, and secures your payment even if the brand whose campaign you deliver fails to pay.
 :::
 
 ::: details What happens if an anomaly is detected during the 30 days?
-getinside contacts you directly to resolve the incident. The availability delay for the funds is suspended during the resolution. Once the anomaly is handled, the counter resumes.
-
-In common cases (volume discrepancy, non-compliant flyer), the resolution takes 48 to 72 hours. Contact [support@getinside.fr](mailto:support@getinside.fr) if you don't receive feedback within 5 working days.
+getinside contacts you. The period is paused during resolution (48 to 72h in common cases: volume gap, non-compliant flyer), then resumes. With no reply within 5 business days, write to [support@getinside.fr](mailto:support@getinside.fr).
 :::
 
 ::: details Can my funds expire?
-Yes. If you do not log in and do not withdraw your revenue for **12 consecutive months**, the available funds expire and are definitively acquired by getinside.
-
-To avoid this, log in regularly or enable balance notifications in your account space. A partial withdrawal or reinvestment is enough to reset the counter.
+Yes: with no login or withdrawal for **12 consecutive months**, available funds expire and become the property of getinside. Log in regularly or enable balance notifications. A partial withdrawal or a reinvestment resets the counter.
 :::
