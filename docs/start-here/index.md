@@ -16,23 +16,30 @@ image: /images/gi-keyvisual.svg
 
 # Le marketing qui touche
 
-**getinside** est la solution marketing par le colis et le courrier adressé qui délivre des offres et des échantillons jusqu'au domicile des consommateurs, là où les décisions d'achat se prennent. **+500 marques** se développent déjà avec la solution.
-
----
+::: tip En bref
+- **getinside** délivre vos offres et vos échantillons au domicile des consommateurs, là où 86 % des décisions d'achat se prennent.
+- 3 usages (Recruter, Fidéliser, Monétiser), 3 canaux (insertion colis, courrier adressé, échantillonnage).
+- +500 marques l'utilisent déjà. La marque garde le contrôle des offres diffusées à ses clients.
+:::
 
 ## Pourquoi ?
 
-Vos canaux digitaux saturent. Vos coûts d'acquisition augmentent. Vos clients ne vous considèrent plus.
+Vos canaux digitaux saturent, vos coûts d'acquisition montent, vos clients ne vous regardent plus. Un colis ou un courrier, lui, est toujours ouvert.
 
-Délivrez des campagnes marketing qui touchent les consommateurs, jusqu'à leur domicile, là où les décisions d'achat se prennent.
-
-| Chiffre | Argument |
-| :--- | :--- |
-| **98 %** de délivrabilité | Tout le monde ouvre ses colis, sa boîte aux lettres ou prend en main un échantillon reçu, même ceux qui ne vous considèrent plus. |
-| **100 %** d'attention | Des canaux qui demandent un acte physique génèrent l'attention : on ouvre, on touche, on regarde. |
-| **86 %** des décisions d'achat se prennent au domicile | Le lieu où les offres sont évaluées, discutées, et même testées lorsqu'il s'agit d'un échantillon. |
-
----
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>98 % de délivrabilité</strong>
+    <p>Tout le monde ouvre son colis ou sa boîte aux lettres.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>100 % d'attention</strong>
+    <p>On ouvre, on touche, on regarde.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>86 % des décisions d'achat</strong>
+    <p>se prennent au domicile.</p>
+  </div>
+</div>
 
 ## Trois usages
 
@@ -40,39 +47,29 @@ Délivrez des campagnes marketing qui touchent les consommateurs, jusqu'à leur 
   <a href="/handbook/recruit/" class="gi-format-card">
     <span class="gi-format-card-icon">🎯</span>
     <span class="gi-format-card-title">Recruter</span>
-    <p class="gi-format-card-desc">Touchez vos futurs clients à travers les marques qu'ils consomment déjà. Avec un budget média, ou en échange : vous diffusez leurs offres dans vos colis, elles diffusent la vôtre dans les leurs.</p>
+    <p class="gi-format-card-desc">Touchez vos futurs clients à travers les marques qu'ils consomment déjà, avec un budget média ou en échange.</p>
   </a>
   <a href="/handbook/retain/direct-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">💌</span>
     <span class="gi-format-card-title">Fidéliser</span>
-    <p class="gi-format-card-desc">Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails, et transformez chaque colis que vous livrez en levier de rachat immédiat.</p>
+    <p class="gi-format-card-desc">Retrouvez par courrier adressé ceux qui n'ouvrent plus vos e-mails.</p>
   </a>
   <a href="/handbook/monetize/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Monétiser</span>
-    <p class="gi-format-card-desc">Délivrez des campagnes de partenaires qui enrichissent l'expérience d'achat de vos clients, et générez des revenus pour financer votre acquisition.</p>
+    <p class="gi-format-card-desc">Délivrez les campagnes de partenaires et financez votre acquisition.</p>
   </a>
 </div>
 
-::: tip L'échange n'est pas un quatrième usage
-C'est une manière de recruter sans achat média : vous exposez votre audience de clients à des marques affinitaires et accédez en retour à la leur. Chaque marque garde ses clients, tout en recrutant.
-:::
+L'échange n'est pas un quatrième usage : c'est une manière de recruter sans achat média.
 
----
-
-## Trois canaux de diffusion
-
-| Canal | Définition |
-| :--- | :--- |
-| **Insertion colis** | Un support est inséré dans le colis du client ou emporté avec sa commande. |
-| **Courrier adressé** | Un support imprimé adressé nommément au client, dans sa boîte aux lettres. |
-| **Échantillonnage** | Un échantillon offert pour faire tester, sentir ou toucher votre produit. |
+## Trois canaux
 
 <div class="gi-format-grid">
   <a href="/handbook/recruit/sponsored-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">📦</span>
     <span class="gi-format-card-title">Insertion colis</span>
-    <p class="gi-format-card-desc">Votre offre dans le colis d'une marque affinitaire.</p>
+    <p class="gi-format-card-desc">Un support inséré dans le colis du client.</p>
   </a>
   <a href="/handbook/retain/direct-mail/" class="gi-format-card">
     <span class="gi-format-card-icon">✉️</span>
@@ -86,36 +83,24 @@ C'est une manière de recruter sans achat média : vous exposez votre audience d
   </a>
 </div>
 
----
+## Une solution tout-en-un
 
-## Une solution tech tout-en-un
+- **Ciblage IA & data :** identifiez et touchez vos futurs clients.
+- **Audiences similaires :** modélisation sur mesure à partir de vos clients.
+- **Automation complète :** lancez et suivez vos campagnes, ou confiez-les à notre équipe.
 
-Grâce à l'IA, identifiez les audiences à adresser et automatisez vos campagnes d'acquisition et de fidélisation en toute simplicité.
+## La marque garde le contrôle
 
-- **Ciblage IA & Data :** identifiez et touchez directement vos futurs clients. Activez votre audience et adressez celle des marques qui rassemblent vos futurs clients.
-- **Modélisation d'audiences similaires :** trouvez vos futurs meilleurs clients grâce à une modélisation sur mesure basée sur les caractéristiques et les données transactionnelles de vos clients, croisées aux données propriétaires de la solution.
-- **Automation complète :** lancez, gérez et suivez vos performances sans effort, ou confiez vos campagnes à notre équipe.
-
----
-
-## Le contrôle reste à la marque
-
-Chaque marque valide les marques et les offres diffusées auprès de ses clients. Nous mesurons et optimisons la performance de chaque campagne.
+Chaque marque valide les marques et les offres diffusées auprès de ses clients. Nous mesurons et optimisons chaque campagne.
 
 ::: info Conformité
-**RGPD** fondé sur l'intérêt légitime, avec droit d'opposition mentionné sur chaque envoi. **Loi AGEC** : échantillon remis sur demande préalable du consommateur (art. L541-15-10 du code de l'environnement).
+**RGPD** fondé sur l'intérêt légitime, avec droit d'opposition sur chaque envoi. **Loi AGEC** : échantillon remis sur demande préalable du consommateur (art. L541-15-10 du code de l'environnement).
 :::
 
----
-
-::: info Prêt à démarrer ?
+## Par où commencer ?
 
 - **Recruter** : [faites diffuser votre campagne chez d'autres marques](/recruit/)
 - **Fidéliser** : [retrouvez vos clients par courrier adressé](/retain/)
 - **Monétiser** : [diffusez les campagnes d'autres marques à vos clients](/monetize/)
 
-Recruter et Monétiser sont les deux sections de la solution getinside. Fidéliser, par courrier adressé, a sa propre section.
-
 [Discuter de mon projet →](https://lp.getinside.fr/meetings/benoit-prentout)
-
-:::
