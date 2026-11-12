@@ -13,131 +13,92 @@ keywords:
 
 # Troubleshooting: Monetize
 
-Your Wallet doesn't match? A withdrawal is delayed? A campaign is causing a problem? Find the answer in less than 2 minutes.
+Wallet, withdrawal or campaign: find the answer in less than 2 minutes.
+
+::: tip In short
+- Balance at 0: declare your volumes (parcel inserts) or validate the broadcast (emailing), nothing is automatic.
+- Balance "pending" or transfer missing: 30-day protection period, then an invoice is required.
+- Can't honor a campaign: warn support before cancelling, penalties grow over time.
+:::
 
 ## Wallet & payments
 
 ::: details "My available balance is 0 even though I distributed campaigns"
-The Wallet balance is **not automatically** credited after a distribution. You must validate manually according to the format:
+The Wallet is **not automatically** credited. In My Campaigns, open the campaign:
+- 📦 **Parcel inserts:** Declare volume, every **Monday or Tuesday**.
+- 📧 **Emailing:** **Validate broadcast** after sending.
 
-| Format | Required Action | Where on the platform |
-|--------|---------------|----------------------|
-| 📦 Parcel inserts | Declare volumes every **Monday or Tuesday** | My Campaigns → campaign → Declare volume |
-| 📧 Emailing (dedicated or newsletter placement) | Click on **"Validate broadcast"** after sending | My Campaigns → campaign → Validate broadcast |
-
-Without these actions, the funds remain **escrowed** and the campaign is not accounted for.
+Without this, funds remain **escrowed**.
 :::
 
 ::: details "My balance is 'pending', not 'available'"
-**Cause:** the 30-day protection period has not yet elapsed.
-
-Your earnings go through 2 states:
-1. **Pending**: Distribution confirmed, 30-day period underway
-2. **Available**: 30 days elapsed without incident → withdrawal possible
-
-> **This is normal.** This delay protects everyone (including you) against post-distribution anomalies.
-
-If your funds remain "pending" after 30 days, contact support with the campaign number.
+This is normal: after a confirmed distribution, earnings stay **pending** for 30 days (protection against anomalies), then become **available** for withdrawal. Past 30 days, contact support with the campaign number.
 :::
 
 ::: details "I haven't received my transfer"
-**Check in this order:**
+Check that:
+- a **valid invoice** is attached to the request;
+- the balance is **Available**;
+- the IBAN is correct (Settings → Bank details);
+- payment is issued **30 days end of month** after validation.
 
-1. **Have you submitted an invoice?** Without a valid invoice attached to your request, the payment will not be sent.
-2. **Has the 30-day period passed?** The balance must be "Available" (not "Pending").
-3. **Is the IBAN on your account correct?** Check in Settings → Bank details.
-4. **Are you within the normal timeframe?** Payment is issued **30 days end of month** after validation of your request.
-
-If everything is in order and the transfer is still missing, contact [support@getinside.fr](mailto:support@getinside.fr) with:
-- The date of the request
-- The requested amount
-- Your IBAN
+Otherwise, write to [support@getinside.fr](mailto:support@getinside.fr) with the request date, amount and your IBAN.
 :::
 
 :::: details "Funds were deducted from my Wallet without my request"
-::: warning Automatic penalties deducted from your Wallet
-- **Cancellation of a validated campaign:** penalty applied according to contract
-- **No response within 48h to a proposal:** penalty applied according to contract
-- **Late response without valid reason:** may result in a penalty
+::: warning Automatic penalties
+- Cancelling a validated campaign: penalty according to contract.
+- No response within 48h to a proposal: penalty according to contract.
+- Late response without valid reason: possible penalty.
 :::
 
-Check the **Wallet History** section on the platform to see the details of each movement.
+Each movement is detailed in **Wallet History**.
 ::::
 
 :::: details "My funds have expired"
 ::: danger Expiration after 12 months of inactivity
-If you do not log in AND do not withdraw your funds for 12 consecutive months, the available funds are definitively acquired by getinside. This rule is contractual.
+With no login and no withdrawal for 12 consecutive months, available funds are definitively acquired by getinside (contractual rule).
 :::
 
-**Prevention:** log in at least once a quarter, or schedule an annual withdrawal.
-
-If you think the expiration is unjustified, contact support with your login history.
+Log in at least once a quarter, or schedule an annual withdrawal. If you contest the expiration, contact support with your login history.
 ::::
-
----
 
 ## Campaigns & operations
 
 ::: details "I accepted a campaign but I can no longer honor it"
-Act **as early as possible**, because penalties increase over time:
-
-1. **Immediately contact** your account manager or support
-2. **Do not cancel** from the platform without discussing it first
-3. Explain the situation: an alternative solution is often possible (postponement, replacement by another brand to deliver the campaign)
-
-> The more you anticipate, the more you limit the penalties. A last-minute cancellation is more costly than an anticipated cancellation.
+Contact your account manager or support **right away**, without cancelling from the platform. A postponement or a replacement by another brand is often possible. A last-minute cancellation costs more than an early one.
 :::
 
 ::: details "I didn't answer a campaign proposal within 48h"
-The 48h rule is contractual. If the deadline is passed:
-
-- The proposal **automatically expires** and is sent to another brand
-- A **penalty may be applied** to your Wallet according to your contract
-
-**To avoid this in the future:** enable email/SMS notifications from your Account Settings.
+The 48h rule is contractual: the proposal **expires** and goes to another brand, with a **possible penalty** according to your contract. Enable email/SMS notifications in your Settings to avoid it.
 :::
 
 ::: details "A campaign is incomplete or the received visual/brief is incorrect"
-1. **Do not** start the distribution without having checked the material
-2. Report the problem via the platform (campaign profile → Report a problem) or directly contact your manager
-3. getinside contacts the brand whose campaign you deliver to correct. The distribution is paused during the correction
+Do not start the distribution. Report the problem (campaign profile → Report a problem) or contact your manager: getinside contacts the brand whose campaign you deliver, and distribution is paused during the correction.
 :::
-
----
 
 ## Data entry errors
 
 ::: details "I made a mistake entering my weekly volume"
-Do not try to re-enter it immediately if the system is locked. Send a message to the brand whose campaign you deliver through the campaign messaging to let them know, then contact [support@getinside.fr](mailto:support@getinside.fr) with the campaign number and the correct value. The data will be corrected manually within 24h.
+If the system is locked, do not re-enter. Notify the brand through the campaign messaging, then write to [support@getinside.fr](mailto:support@getinside.fr) with the campaign number and the correct value: manual correction within 24h.
 :::
 
 ::: details "I clicked 'Validate broadcast' too early or by mistake"
-This action triggers invoicing and is normally irreversible. Notify getinside immediately via chat or [support@getinside.fr](mailto:support@getinside.fr). If the invoice has not been issued yet, the action can be cancelled. If it has, a credit note will be issued and the process restarted.
+This action triggers invoicing and is normally irreversible. Notify getinside right away (chat or [support@getinside.fr](mailto:support@getinside.fr)): if no invoice has been issued, the action can be cancelled; otherwise a credit note is issued and the process restarted.
 :::
-
----
 
 ## Account & affiliation
 
 ::: details "My referral rewards are not paid"
-The payment of affiliation rewards is **automatically suspended** if you have unpaid invoices with getinside. Regularize your billing situation to unblock the payments.
+They are **automatically suspended** if you have unpaid invoices with getinside. Regularize them to unblock payments.
 :::
 
 ::: details "My account is suspended or blocked"
-Possible causes: unpaid invoices, non-compliance with platform rules, suspicious activity detected.
-
-Contact support at [support@getinside.fr](mailto:support@getinside.fr) indicating your account email and the displayed error message.
+Possible causes: unpaid invoices, non-compliance with platform rules, suspicious activity. Write to [support@getinside.fr](mailto:support@getinside.fr) with your account email and the displayed error message.
 :::
-
----
 
 ## Can't find your answer?
 
-- **Email:** [support@getinside.fr](mailto:support@getinside.fr)
-- **Via platform:** Menu → Support → New ticket
-
-Specify: the campaign ID, the amount in question, and a screenshot if possible.
-
----
+Write to [support@getinside.fr](mailto:support@getinside.fr) or open a ticket (Menu → Support → New ticket), with the campaign ID, the amount in question and a screenshot if possible.
 
 **See also:** [Revenue and Payment Management](/en/monetize/payouts) · [Onboarding Process](/en/monetize/onboarding-process)
