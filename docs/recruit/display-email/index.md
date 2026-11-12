@@ -48,5 +48,5 @@ Il n'y a **pas de pixel d'ouverture** : seuls les clics sont comptabilisés (lie
 - Tracking centralisé : les clics de plusieurs newsletters sur un seul tableau de bord.
 :::
 
-- [📋 Workflow de campagne](./workflow) : étapes de la soumission à la diffusion.
-- [📐 Spécifications bannières](./specs) : formats, poids et bonnes pratiques créatives.
+- [Workflow de campagne](./workflow) : étapes de la soumission à la diffusion.
+- [Spécifications bannières](./specs) : formats, poids et bonnes pratiques créatives.

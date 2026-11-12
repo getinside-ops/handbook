@@ -63,11 +63,11 @@ Chaque début de semaine, déclarez le volume exact d'insertions distribuées la
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Cas A : stock épuisé</strong>
+    <strong>Cas A : stock épuisé</strong>
     <p>Vous avez distribué l'intégralité des supports reçus. La campagne s'arrête naturellement.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🏁 Cas B : objectif atteint (Capped)</strong>
+    <strong>Cas B : objectif atteint (Capped)</strong>
     <p>Le volume commandé est atteint. Clôturez la campagne même s'il reste du stock, sauf instruction contraire pour écouler le reliquat.</p>
   </div>
 </div>

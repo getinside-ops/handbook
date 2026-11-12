@@ -1,0 +1,96 @@
+/* Habillage des classes markdown existantes. Chargé après style.css : surcharge sans toucher aux pages. */
+
+/* Titres */
+.vp-doc h1 { font-size: clamp(2rem, 4vw, 2.75rem) !important; font-weight: 600; letter-spacing: -0.025em; line-height: 1.16 !important; border: 0; }
+.vp-doc h2 { font-size: clamp(1.75rem, 3vw, 2.25rem) !important; font-weight: 600; letter-spacing: -0.025em; line-height: 1.15 !important; border-top: 0; }
+.vp-doc h3 { font-weight: 600; letter-spacing: -0.01em; }
+.vp-doc h4, .vp-doc h5, .vp-doc h6 { font-weight: 600; }
+.vp-doc strong { font-weight: 600; }
+
+/* Liens : encre, soulignés, surlignage jaune au survol */
+.vp-doc a:not(.header-anchor):not(.gi-format-card):not(.gi-nav-card):not(.btn):not(.VPButton):not(.ds-card) {
+  color: var(--color-ink); font-weight: 600; text-decoration: underline; text-underline-offset: 3px;
+  transition: background-color 150ms var(--ease-out);
+}
+.vp-doc a:not(.header-anchor):not(.gi-format-card):not(.gi-nav-card):not(.btn):not(.VPButton):not(.ds-card):hover {
+  background-color: var(--color-brand);
+}
+
+/* Sidebar : élément actif en pastille jaune */
+.VPSidebarItem.is-active > .item .text,
+.VPSidebarItem.is-active > .item > .link > .text {
+  background: var(--color-brand); color: var(--color-ink);
+  border: 2px solid var(--color-ink); border-radius: var(--radius-full); padding: 2px 10px;
+}
+
+/* Boutons : VitePress et classes .btn du handbook */
+.VPButton, .btn {
+  border: 2px solid var(--color-ink) !important; border-radius: var(--radius-full) !important;
+  background: var(--color-white) !important; color: var(--color-ink) !important;
+  font-weight: 600; box-shadow: var(--shadow-hard-sm); text-decoration: none !important;
+  transition: translate 150ms var(--ease-out), box-shadow 150ms var(--ease-out);
+}
+.VPButton:hover, .btn:hover { translate: 1px 1px; box-shadow: var(--shadow-hard-xs); }
+.VPButton:active, .btn:active { translate: 3px 3px; box-shadow: none; }
+.VPButton.alt, .btn-outline { background: transparent !important; }
+
+/* Étapes */
+.gi-step-num {
+  background: var(--color-brand) !important; color: var(--color-ink) !important;
+  border: 2px solid var(--color-ink) !important; border-radius: var(--radius-full) !important; font-weight: 600;
+  width: 2rem; height: 2rem; display: flex; align-items: center; justify-content: center; text-align: center; line-height: 1;
+}
+.gi-step-num.done { background: transparent !important; border: 0 !important; width: 1.5rem; justify-content: flex-end; }
+
+/* Cartes de valeur = InfoCard */
+.gi-value-card {
+  background: var(--color-white) !important; color: var(--color-ink) !important;
+  border: 2px solid var(--color-ink) !important; border-radius: var(--radius-lg) !important;
+  box-shadow: var(--shadow-hard) !important; translate: none !important;
+}
+.gi-value-card > strong { font-weight: 600; color: var(--color-ink); }
+
+/* Cartes de format et de navigation = LinkCard */
+.gi-format-card, .gi-nav-card {
+  background: var(--color-white) !important; color: var(--color-ink) !important;
+  border: 2px solid var(--color-ink) !important; border-radius: var(--radius-lg) !important;
+  box-shadow: var(--shadow-hard) !important; text-decoration: none !important;
+  transition: translate 200ms var(--ease-out), box-shadow 200ms var(--ease-out);
+}
+.gi-format-card:hover, .gi-nav-card:hover { translate: -2px -2px; box-shadow: var(--shadow-hard-lg) !important; }
+.gi-format-card-title, .gi-nav-card-title { font-weight: 600; color: var(--color-ink); }
+.gi-format-card-desc, .gi-nav-card-desc { color: var(--color-ink-soft); }
+
+/* Conteneurs */
+.custom-block { border: 2px solid var(--color-ink); border-radius: var(--radius-lg); color: var(--color-ink); }
+.custom-block.tip { background: var(--color-brand); box-shadow: var(--shadow-hard); }
+.custom-block.info { background: var(--color-muted); border: 0; }
+.custom-block.warning { background: var(--color-muted); }
+.custom-block.danger { background: var(--color-lilac); }
+.custom-block .custom-block-title { font-weight: 600; color: var(--color-ink); }
+.custom-block a { color: var(--color-ink); }
+.custom-block.tip code, .custom-block.danger code { background: rgba(255, 255, 255, 0.6); }
+
+/* ::: details = volet de FAQ */
+.vp-doc details, .vp-doc .custom-block.details {
+  background: var(--color-white); border: 2px solid var(--color-ink); border-radius: var(--radius-md);
+  box-shadow: var(--shadow-hard-sm); color: var(--color-ink);
+  transition: background-color 200ms var(--ease-out);
+}
+.vp-doc details[open], .vp-doc .custom-block.details[open] { background: var(--color-brand) !important; }
+.vp-doc details summary, .custom-block.details summary { font-weight: 600; }
+
+/* Tableaux */
+.vp-doc table { border-radius: var(--radius-md); overflow: hidden; }
+.vp-doc th { background: var(--color-muted); color: var(--color-ink); font-weight: 600; }
+.vp-doc tr { background: var(--color-white); border-top: 1px solid var(--color-line); }
+.vp-doc td, .vp-doc th { border-color: var(--color-line); }
+
+/* Code */
+.vp-doc :not(pre) > code { background: var(--color-muted); color: var(--color-ink); border-radius: var(--radius-sm); }
+
+/* Impression : pas d'ombres ni d'animations, fond blanc */
+@media print {
+  *, *::before, *::after { box-shadow: none !important; translate: none !important; transition: none !important; }
+  .custom-block.tip, .vp-doc details[open] { background: var(--color-muted); }
+}

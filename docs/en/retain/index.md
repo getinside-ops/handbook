@@ -21,6 +21,14 @@ image: /images/gi-keyvisual.svg
 - You choose the audience and the channel, then set up the campaign or hand it over to our team.
 :::
 
+<GiSchema caption="Reach by mail the customers who no longer open your emails.">
+<GiFlow :steps="[
+  { label: 'Your brand', ours: true },
+  { label: 'Direct mail', picto: '/images/ds/picto-courrier.webp' },
+  { label: 'A customer to win back' }
+]" />
+</GiSchema>
+
 <div class="gi-quick-links">
   <a href="/handbook/en/retain/direct-mail/" class="btn btn-primary">Discover direct mail →</a>
 </div>
@@ -29,11 +37,11 @@ image: /images/gi-keyvisual.svg
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>💌 Direct mail</strong>
+    <strong>Direct mail</strong>
     <p>A printed piece addressed to your customers who are inactive by email. Top conversion rate recorded: 6%.</p>
   </div>
   <div class="gi-value-card">
-    <strong>📦 Offer in the parcel</strong>
+    <strong>Offer in the parcel</strong>
     <p>A dedicated offer slipped into every parcel delivered to an existing customer, to trigger a new purchase.</p>
   </div>
 </div>
@@ -79,22 +87,14 @@ image: /images/gi-keyvisual.svg
 
 ## Where to start
 
-<div class="gi-format-grid">
-  <a href="/handbook/en/retain/direct-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">✉️</span>
-    <span class="gi-format-card-title">Direct mail</span>
-    <p class="gi-format-card-desc">Target, print and send a letter to your inactive customers.</p>
-  </a>
-  <a href="/handbook/en/recruit/sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Parcel inserts</span>
-    <p class="gi-format-card-desc">A piece inserted in the parcel, for a repurchase offer.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/en/retain/direct-mail/" tone="teal" title="Direct mail" desc="Target, print and send a letter to your inactive customers." image="/images/ds/canal-courrier.webp" image-alt="Illustration of addressed mail" />
+<GiLinkCard href="/en/recruit/sponsored-mail/" tone="brand" title="Parcel inserts" desc="A piece inserted in the parcel, for a repurchase offer." image="/images/ds/canal-colis.webp" image-alt="Illustration of a parcel with an insert" />
 </div>
 
 ## Services & resources
 
 <div class="gi-quick-links">
-  <a href="/handbook/en/recruit/printing-services" class="btn btn-outline">🖨️ Printing & Logistics</a>
-  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">🚀 Case studies</a>
+  <a href="/handbook/en/recruit/printing-services" class="btn btn-outline">Printing & Logistics</a>
+  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">Case studies</a>
 </div>

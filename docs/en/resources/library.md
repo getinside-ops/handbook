@@ -16,7 +16,7 @@ Templates, logos and technical documents to prepare your campaigns.
 
 ---
 
-## 🎨 Branding & Logos
+## Branding & Logos
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -28,7 +28,7 @@ Templates, logos and technical documents to prepare your campaigns.
 
 ---
 
-## 📐 Print Templates (Parcel Insert)
+## Print Templates (Parcel Insert)
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -44,7 +44,7 @@ You don't have Adobe software? Delegate creation to the [Creative Studio](/en/re
 
 ---
 
-## 💻 Recommended Software
+## Recommended Software
 
 To prepare your visuals to technical standards, favor the following DTP software:
 
@@ -73,7 +73,7 @@ To prepare your visuals to technical standards, favor the following DTP software
 
 ---
 
-## 📄 Reference Documents
+## Reference Documents
 
 - **[Proof (BAT) Checklist](/recruit/sponsored-mail/design-guide/print-specs#proof-bat-checklist)**: Must be checked before submitting a proof.
 - **[Content Design Guide](/en/recruit/sponsored-mail/design-guide/)**: All technical rules for your flyers (formats, resolution, legal notices).

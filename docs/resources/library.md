@@ -16,7 +16,7 @@ Gabarits, logos et documents techniques pour préparer vos campagnes.
 
 ---
 
-## 🎨 Branding & Logos
+## Branding & Logos
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -28,7 +28,7 @@ Gabarits, logos et documents techniques pour préparer vos campagnes.
 
 ---
 
-## 📐 Gabarits Print (Insertion Colis)
+## Gabarits Print (Insertion Colis)
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
@@ -44,7 +44,7 @@ Vous n'avez pas les logiciels Adobe ? Déléguez la création à notre [Studio C
 
 ---
 
-## 💻 Logiciels Recommandés
+## Logiciels Recommandés
 
 Pour préparer vos visuels aux normes techniques, privilégiez les logiciels de PAO suivants :
 
@@ -73,7 +73,7 @@ Pour préparer vos visuels aux normes techniques, privilégiez les logiciels de 
 
 ---
 
-## 📄 Documents de Référence
+## Documents de Référence
 
 - **[Check-list BAT avant envoi](/recruit/sponsored-mail/design-guide/print-specs#checklist-bat)** : À vérifier impérativement avant de soumettre un BAT.
 - **[Guide de Conception de Contenus](/recruit/sponsored-mail/design-guide/)** : Toutes les règles techniques pour vos flyers (formats, résolution, mentions légales).

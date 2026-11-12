@@ -111,8 +111,8 @@ Un échantillon format S peut être fixé sur un flyer A5/A6 par un point de col
 
 ## Démarrer
 
-- [📘 Guide de Conception](./design-guide/) : spécifications techniques, mentions légales, stratégie créative.
-- [🚀 Créer une campagne](https://app.getinside.media/){target="_blank"}
+- [Guide de Conception](./design-guide/) : spécifications techniques, mentions légales, stratégie créative.
+- [Créer une campagne](https://app.getinside.media/){target="_blank"}
 
 :::info Besoin d'aide ?
 Notre Studio Créatif prend en charge la direction artistique et l'exécution. → [Contacter le Studio](/resources/studio)

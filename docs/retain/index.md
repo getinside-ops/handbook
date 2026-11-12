@@ -21,6 +21,14 @@ image: /images/gi-keyvisual.svg
 - Vous choisissez l'audience et le canal, puis configurez la campagne ou la confiez à notre équipe.
 :::
 
+<GiSchema caption="Retrouvez par courrier ceux qui n'ouvrent plus vos e-mails.">
+<GiFlow :steps="[
+  { label: 'Votre marque', ours: true },
+  { label: 'Courrier adressé', picto: '/images/ds/picto-courrier.webp' },
+  { label: 'Un client à réactiver' }
+]" />
+</GiSchema>
+
 <div class="gi-quick-links">
   <a href="/handbook/retain/direct-mail/" class="btn btn-primary">Découvrir le courrier adressé →</a>
 </div>
@@ -29,11 +37,11 @@ image: /images/gi-keyvisual.svg
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>💌 Courrier adressé</strong>
+    <strong>Courrier adressé</strong>
     <p>Un support imprimé adressé à vos clients inactifs par e-mail. Top CVR constaté : 6 %.</p>
   </div>
   <div class="gi-value-card">
-    <strong>📦 Offre dans le colis</strong>
+    <strong>Offre dans le colis</strong>
     <p>Une offre dédiée glissée dans chaque colis livré à un client existant, pour déclencher un nouvel achat.</p>
   </div>
 </div>
@@ -79,22 +87,14 @@ image: /images/gi-keyvisual.svg
 
 ## Par où commencer
 
-<div class="gi-format-grid">
-  <a href="/handbook/retain/direct-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">✉️</span>
-    <span class="gi-format-card-title">Courrier adressé</span>
-    <p class="gi-format-card-desc">Cibler, imprimer et envoyer un courrier à vos clients inactifs.</p>
-  </a>
-  <a href="/handbook/recruit/sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Insertion colis</span>
-    <p class="gi-format-card-desc">Un support inséré dans le colis, pour une offre de réachat.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/retain/direct-mail/" tone="teal" title="Courrier adressé" desc="Cibler, imprimer et envoyer un courrier à vos clients inactifs." image="/images/ds/canal-courrier.webp" image-alt="Illustration d'un courrier adressé" />
+<GiLinkCard href="/recruit/sponsored-mail/" tone="brand" title="Insertion colis" desc="Un support inséré dans le colis, pour une offre de réachat." image="/images/ds/canal-colis.webp" image-alt="Illustration d'un colis avec un support inséré" />
 </div>
 
 ## Services & ressources
 
 <div class="gi-quick-links">
-  <a href="/handbook/recruit/printing-services" class="btn btn-outline">🖨️ Impression & Logistique</a>
-  <a href="/handbook/resources/case-studies" class="btn btn-outline">🚀 Cas clients</a>
+  <a href="/handbook/recruit/printing-services" class="btn btn-outline">Impression & Logistique</a>
+  <a href="/handbook/resources/case-studies" class="btn btn-outline">Cas clients</a>
 </div>

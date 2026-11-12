@@ -19,7 +19,7 @@ keywords:
 
 <div class="gi-nav-list">
   <a href="library/" class="gi-nav-card">
-    <span class="gi-nav-card-icon">📥</span>
+    <span class="gi-nav-card-icon"><GiIcon name="download" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Library (Downloads)</p>
       <p class="gi-nav-card-desc">InDesign templates, official logos, CSV file templates.</p>
@@ -27,7 +27,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="case-studies/" class="gi-nav-card">
-    <span class="gi-nav-card-icon">💡</span>
+    <span class="gi-nav-card-icon"><GiIcon name="lightbulb" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Inspirations & Case Studies</p>
       <p class="gi-nav-card-desc">Real examples of campaigns (Email, Parcel) and metrics.</p>
@@ -35,7 +35,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="studio/" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🎨</span>
+    <span class="gi-nav-card-icon"><GiIcon name="palette" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Creative Studio</p>
       <p class="gi-nav-card-desc">Delegate graphic production to our experts.</p>
@@ -43,7 +43,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="../faq/troubleshooting-recruit" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🔧</span>
+    <span class="gi-nav-card-icon"><GiIcon name="wrench" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting: Recruit</p>
       <p class="gi-nav-card-desc">Solutions to frequent problems: tracking, proofs, QR codes, delivery.</p>
@@ -51,7 +51,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="../faq/troubleshooting-monetize" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🛠️</span>
+    <span class="gi-nav-card-icon"><GiIcon name="hammer" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting: Monetize</p>
       <p class="gi-nav-card-desc">Solutions to frequent problems: Wallet, QR codes, delivery, data entry.</p>

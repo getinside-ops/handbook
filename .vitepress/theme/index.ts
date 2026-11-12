@@ -1,9 +1,20 @@
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import './ds-tokens.css'
+import './ds-markdown.css'
+import './ds-components.css'
 import { useRoute } from 'vitepress'
 import { h, onMounted } from 'vue'
 import NotFound from './components/NotFound.vue'
 import PrintButton from './components/PrintButton.vue'
+import GiHero from './components/GiHero.vue'
+import GiAccentTitle from './components/GiAccentTitle.vue'
+import GiLinkCard from './components/GiLinkCard.vue'
+import GiStat from './components/GiStat.vue'
+import GiSchema from './components/GiSchema.vue'
+import GiFlow from './components/GiFlow.vue'
+import GiPelican from './components/GiPelican.vue'
+import GiIcon from './components/GiIcon.vue'
 
 export default {
   extends: DefaultTheme,
@@ -11,6 +22,16 @@ export default {
     'not-found': () => h(NotFound),
     'doc-before': () => h(PrintButton),
   }),
+  enhanceApp({ app }) {
+    app.component('GiHero', GiHero)
+    app.component('GiAccentTitle', GiAccentTitle)
+    app.component('GiLinkCard', GiLinkCard)
+    app.component('GiStat', GiStat)
+    app.component('GiSchema', GiSchema)
+    app.component('GiFlow', GiFlow)
+    app.component('GiPelican', GiPelican)
+    app.component('GiIcon', GiIcon)
+  },
   setup() {
     const route = useRoute()
 

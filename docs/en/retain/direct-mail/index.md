@@ -132,5 +132,5 @@ It comes back from a few days after upload, almost all of it about a month later
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create a campaign →</a>
-  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">🚀 Case studies</a>
+  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">Case studies</a>
 </div>

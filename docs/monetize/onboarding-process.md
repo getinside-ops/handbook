@@ -107,14 +107,14 @@ Prenez le contrôle de votre régie : activez vos partenaires historiques et dé
 ## Phase 3 : Accélération et Autonomie
 
 <div class="gi-step">
-  <div class="gi-step-num">🚀</div>
+  <div class="gi-step-num"><GiIcon name="rocket" :size="16" /></div>
   <div class="gi-step-body">
     <h3>Trade Marketing</h3>
     <p>Invitez les marques que vous distribuez à acheter de la visibilité chez vous. Partenaires ajoutés par recherche SIREN/TVA, gestion et facturation centralisées, suivi par partenaire.</p>
   </div>
 </div>
 <div class="gi-step">
-  <div class="gi-step-num">🤝</div>
+  <div class="gi-step-num"><GiIcon name="handshake" :size="16" /></div>
   <div class="gi-step-body">
     <h3>Affiliation et parrainage</h3>
     <p>Invitez d'autres marques et gagnez des revenus grâce à leur activité. <a href="affiliation">Voir le programme d'affiliation</a>.</p>
@@ -147,7 +147,7 @@ getinside agit comme **tiers de confiance** (First Party Data) :
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✅ Vous pouvez refuser</strong>
+    <strong><GiIcon name="circle-check" :size="18" /> Vous pouvez refuser</strong>
     <ul>
       <li>Raisons éthiques ou de concurrence (la marque).</li>
       <li>Contenu contraire à la loi.</li>
@@ -155,7 +155,7 @@ getinside agit comme **tiers de confiance** (First Party Data) :
     </ul>
   </div>
   <div class="gi-value-card">
-    <strong>❌ Vous ne pouvez pas refuser</strong>
+    <strong><GiIcon name="circle-x" :size="18" /> Vous ne pouvez pas refuser</strong>
     <ul>
       <li>La direction artistique, si le visuel respecte les spécifications techniques.</li>
       <li>Les préférences subjectives.</li>

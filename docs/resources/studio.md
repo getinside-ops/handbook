@@ -43,19 +43,19 @@ Contactez le Studio : **[studio@getinside.fr](https://lp.getinside.fr/meetings/b
 
 ## Ce que nous produisons
 
-### 📦 Print (Insertion Colis)
+### Print (Insertion Colis)
 
 - Flyers A5 / A6 aux normes FOGRA39
 - Cartes Cadeaux et formats spéciaux
 - Export PDF/X avec fond perdu inclus
 
-### 📧 Emailing & Web
+### Emailing & Web
 
 - Design HTML responsive (Mobile-First)
 - Bannières animées (GIF, vidéo)
 - Rédaction complète + Copywriting + Objet court
 
-### 📱 Social Media
+### Social Media
 
 - Montage vidéo (Reels, TikTok, Stories)
 - Créations statiques (Feed, Carrousel)
@@ -65,6 +65,6 @@ Contactez le Studio : **[studio@getinside.fr](https://lp.getinside.fr/meetings/b
 
 ## Inspirations & Réalisations
 
-<a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" class="btn btn-primary">✨ Le Book d'Inspirations ↗</a>
+<a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" class="btn btn-primary">Le Book d'Inspirations ↗</a>
 
-<a href="case-studies/" class="btn btn-outline">📊 Succès Clients (KPIs) →</a>
+<a href="case-studies/" class="btn btn-outline">Succès Clients (KPIs) →</a>

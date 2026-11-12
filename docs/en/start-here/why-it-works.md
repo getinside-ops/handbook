@@ -23,10 +23,10 @@ image: /images/gi-keyvisual.svg
 
 | Actor | Action |
 | :--- | :--- |
-| 📦 **Brand that monetizes** | Sends parcels and mail to its customers and delivers campaigns in them |
-| ⚡ **Platform** | Targets affinity audiences with AI |
-| 📢 **Brand that recruits** | Has its offer or sample delivered to those audiences |
-| 💰 **Wallet** | Receives revenue and funds the brand's campaigns |
+| **Brand that monetizes** | Sends parcels and mail to its customers and delivers campaigns in them |
+| **Platform** | Targets affinity audiences with AI |
+| **Brand that recruits** | Has its offer or sample delivered to those audiences |
+| **Wallet** | Receives revenue and funds the brand's campaigns |
 
 ## The transfer of trust
 

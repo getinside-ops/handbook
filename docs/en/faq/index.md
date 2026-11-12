@@ -19,7 +19,7 @@ keywords:
 
 <div class="gi-nav-list">
   <a href="troubleshooting-recruit" class="gi-nav-card">
-    <span class="gi-nav-card-icon">💼</span>
+    <span class="gi-nav-card-icon"><GiIcon name="briefcase" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting: Recruit</p>
       <p class="gi-nav-card-desc">Campaign not delivered, creative rejected, proof, tracking: quick solutions.</p>
@@ -27,7 +27,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="troubleshooting-monetize" class="gi-nav-card">
-    <span class="gi-nav-card-icon">🔧</span>
+    <span class="gi-nav-card-icon"><GiIcon name="wrench" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Troubleshooting: Monetize</p>
       <p class="gi-nav-card-desc">Wallet, payments, campaigns: solutions to frequent cases.</p>
@@ -35,7 +35,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="account-audiences" class="gi-nav-card">
-    <span class="gi-nav-card-icon">⚙️</span>
+    <span class="gi-nav-card-icon"><GiIcon name="settings" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Account & Audiences</p>
       <p class="gi-nav-card-desc">User management, audience creation, affiliation, and catalog.</p>
@@ -43,7 +43,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="campaign-management" class="gi-nav-card">
-    <span class="gi-nav-card-icon">⚡</span>
+    <span class="gi-nav-card-icon"><GiIcon name="zap" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Campaign Management</p>
       <p class="gi-nav-card-desc">Validation, cancellation, delays, and operational tracking.</p>
@@ -51,7 +51,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="billing" class="gi-nav-card">
-    <span class="gi-nav-card-icon">💰</span>
+    <span class="gi-nav-card-icon"><GiIcon name="wallet" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Billing & Payments</p>
       <p class="gi-nav-card-desc">Invoice editing, withdrawals, and payment terms.</p>
@@ -59,7 +59,7 @@ keywords:
     <span class="gi-nav-card-arrow">→</span>
   </a>
   <a href="logistics-tech" class="gi-nav-card">
-    <span class="gi-nav-card-icon">📦</span>
+    <span class="gi-nav-card-icon"><GiIcon name="package" /></span>
     <div class="gi-nav-card-body">
       <p class="gi-nav-card-title">Logistics & Tech</p>
       <p class="gi-nav-card-desc">Deliveries, CSR printing, tracking, and GDPR.</p>

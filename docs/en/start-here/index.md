@@ -41,46 +41,30 @@ Your digital channels are saturated. Your acquisition costs are rising. Your cus
   </div>
 </div>
 
+<GiSchema caption="One campaign, from brief to delivery." muted>
+<GiFlow :steps="[
+  { label: 'Your brand', ours: true },
+  { label: 'Parcel or direct mail', picto: '/images/ds/picto-colis.webp' },
+  { label: 'A customer reached' }
+]" />
+</GiSchema>
+
 ## Three use cases
 
-<div class="gi-format-grid">
-  <a href="/handbook/en/recruit/" class="gi-format-card">
-    <span class="gi-format-card-icon">🎯</span>
-    <span class="gi-format-card-title">Recruit</span>
-    <p class="gi-format-card-desc">Reach your future customers through the brands they already buy from, with a media budget or through an exchange.</p>
-  </a>
-  <a href="/handbook/en/retain/direct-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">💌</span>
-    <span class="gi-format-card-title">Retain</span>
-    <p class="gi-format-card-desc">Reach the customers who no longer open your emails through direct mail.</p>
-  </a>
-  <a href="/handbook/en/monetize/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Monetise</span>
-    <p class="gi-format-card-desc">Deliver partner campaigns and generate revenue to fund your acquisition.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/en/recruit/" tone="brand" title="Recruit" desc="Reach your future customers through the brands they already buy from, with a media budget or through an exchange." image="/images/ds/levier-recruter.webp" image-alt="Illustration of the Recruit use case" />
+<GiLinkCard href="/en/retain/direct-mail/" tone="teal" title="Retain" desc="Reach the customers who no longer open your emails through direct mail." image="/images/ds/levier-fideliser.webp" image-alt="Illustration of the Retain use case" />
+<GiLinkCard href="/en/monetize/" tone="lilac" title="Monetise" desc="Deliver partner campaigns and generate revenue to fund your acquisition." image="/images/ds/levier-monetiser.webp" image-alt="Illustration of the Monetise use case" />
 </div>
 
 Exchange is not a fourth use case: it is a way to recruit without buying media.
 
 ## Three channels
 
-<div class="gi-format-grid">
-  <a href="/handbook/en/recruit/sponsored-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">📦</span>
-    <span class="gi-format-card-title">Parcel inserts</span>
-    <p class="gi-format-card-desc">A printed piece placed in the customer's parcel.</p>
-  </a>
-  <a href="/handbook/en/retain/direct-mail/" class="gi-format-card">
-    <span class="gi-format-card-icon">✉️</span>
-    <span class="gi-format-card-title">Direct mail</span>
-    <p class="gi-format-card-desc">A named letter in the mailbox.</p>
-  </a>
-  <a href="/handbook/en/recruit/sampling/" class="gi-format-card">
-    <span class="gi-format-card-icon">🧴</span>
-    <span class="gi-format-card-title">Sampling</span>
-    <p class="gi-format-card-desc">Let people try, smell or touch your product.</p>
-  </a>
+<div class="ds-card-grid">
+<GiLinkCard href="/en/recruit/sponsored-mail/" tone="brand" title="Parcel inserts" desc="A printed piece placed in the customer's parcel." image="/images/ds/canal-colis.webp" image-alt="Illustration of a parcel with an insert" />
+<GiLinkCard href="/en/retain/direct-mail/" tone="teal" title="Direct mail" desc="A named letter in the mailbox." image="/images/ds/canal-courrier.webp" image-alt="Illustration of addressed mail" />
+<GiLinkCard href="/en/recruit/sampling/" tone="lilac" title="Sampling" desc="Let people try, smell or touch your product." image="/images/ds/canal-echantillon-qr.webp" image-alt="Illustration of a sample with a QR code" />
 </div>
 
 ## An all-in-one solution

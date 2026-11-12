@@ -23,8 +23,8 @@ keywords:
 
 ::: details "Mon solde disponible est à 0 alors que j'ai distribué des campagnes"
 Le Wallet ne se crédite **pas automatiquement**. Dans Mes Campagnes, ouvrez la campagne :
-- 📦 **Insertion colis :** Déclarer le volume, chaque **lundi ou mardi**.
-- 📧 **E-mailing :** **Valider la diffusion** après l'envoi.
+- **Insertion colis :** Déclarer le volume, chaque **lundi ou mardi**.
+- **E-mailing :** **Valider la diffusion** après l'envoi.
 
 Sans cela, les fonds restent séquestrés.
 :::

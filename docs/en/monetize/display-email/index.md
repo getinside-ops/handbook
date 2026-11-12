@@ -50,12 +50,12 @@ Integration is light: an HTML block or an image in your router's template. getin
 
 <div class="gi-format-grid">
   <a href="/handbook/en/monetize/display-email/integration" class="gi-format-card">
-    <span class="gi-format-card-icon">🔗</span>
+    <span class="gi-format-card-icon"><GiIcon name="link" /></span>
     <span class="gi-format-card-title">Integration guide</span>
     <p class="gi-format-card-desc">Visual, gtinsi.de tracked link, insertion in your router and delivery validation.</p>
   </a>
   <a href="/handbook/en/monetize/payouts" class="gi-format-card">
-    <span class="gi-format-card-icon">💶</span>
+    <span class="gi-format-card-icon"><GiIcon name="euro" /></span>
     <span class="gi-format-card-title">Payouts & Wallet</span>
     <p class="gi-format-card-desc">How your Display Email revenue is credited, then withdrawn or reinvested.</p>
   </a>

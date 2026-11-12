@@ -23,10 +23,10 @@ image: /images/gi-keyvisual.svg
 
 | Acteur | Action |
 | :--- | :--- |
-| 📦 **Marque qui monétise** | Envoie des colis et du courrier à ses clients et y diffuse des campagnes |
-| ⚡ **Plateforme** | Cible les audiences affinitaires grâce à l'IA |
-| 📢 **Marque qui recrute** | Fait diffuser son offre ou son échantillon auprès de ces audiences |
-| 💰 **Wallet** | Reçoit les revenus et finance les campagnes de la marque |
+| **Marque qui monétise** | Envoie des colis et du courrier à ses clients et y diffuse des campagnes |
+| **Plateforme** | Cible les audiences affinitaires grâce à l'IA |
+| **Marque qui recrute** | Fait diffuser son offre ou son échantillon auprès de ces audiences |
+| **Wallet** | Reçoit les revenus et finance les campagnes de la marque |
 
 ## Le transfert de confiance
 

@@ -1,0 +1,88 @@
+/* Composants Vue Gi* (préfixe ds- pour éviter les collisions avec style.css). */
+
+/* Boutons */
+.ds-btn { display: inline-flex; align-items: center; justify-content: center; height: 3.5rem; padding-inline: 1.75rem;
+  border: 2px solid var(--color-ink); border-radius: var(--radius-full); font-weight: 600; font-size: 1.125rem;
+  color: var(--color-ink); text-decoration: none; box-shadow: var(--shadow-hard);
+  transition: translate 150ms var(--ease-out), box-shadow 150ms var(--ease-out); }
+.ds-btn--primary { background: var(--color-white); }
+.ds-btn--ghost { background: transparent; }
+.ds-btn:hover { translate: 2px 2px; box-shadow: 3px 3px 0 0 var(--hard-color); }
+.ds-btn:active { translate: 5px 5px; box-shadow: none; }
+
+/* Accent de titre */
+.ds-accent { background-image: linear-gradient(var(--color-brand), var(--color-brand)); background-repeat: no-repeat;
+  background-position: 0 55%; background-size: 100% 82%; border-radius: 0.25em; padding-inline: 0.2em;
+  -webkit-box-decoration-break: clone; box-decoration-break: clone; color: var(--color-ink); }
+.ds-accent--serif { font-family: var(--font-serif); font-style: italic; font-weight: 400; letter-spacing: -0.01em; }
+.ds-accent--box { background-image: linear-gradient(var(--color-white), var(--color-white)); font-weight: 600; }
+.ds-title { margin: 0; font-size: clamp(2rem, 3vw + 1rem, 2.875rem); font-weight: 600; letter-spacing: -0.025em; line-height: 1.15; text-wrap: balance; border: 0; }
+.ds-title.is-armed .ds-accent { background-size: 0% 82%; transition: background-size 800ms var(--ease-out); }
+.ds-title.is-armed.is-in .ds-accent { background-size: 100% 82%; }
+
+/* Hero (fond jaune pleine largeur) */
+.ds-hero { display: grid; gap: 2rem; align-items: center; background: var(--color-brand); color: var(--color-ink);
+  border: 2px solid var(--color-ink); border-radius: var(--radius-xl); padding: 2.5rem; margin: 1.5rem 0 3rem; }
+@media (min-width: 768px) { .ds-hero { grid-template-columns: 1.4fr 1fr; padding: 3.5rem; } }
+.ds-hero-title { margin: 0; font-size: clamp(2.5rem, 3vw + 1.5rem, 3.25rem); font-weight: 600; letter-spacing: -0.025em; line-height: 1.16; border: 0; text-wrap: balance; }
+.ds-hero-lead { margin: 1.25rem 0 0; font-size: 1.125rem; line-height: 1.75rem; max-width: 34rem; }
+.ds-hero-actions { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.75rem; }
+.ds-hero-img { justify-self: center; max-width: 100%; height: auto; }
+
+/* LinkCard */
+.ds-card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1.5rem; margin: 1.5rem 0; }
+.ds-card { display: flex; flex-direction: column; overflow: hidden; border: 2px solid var(--color-ink); border-radius: var(--radius-lg);
+  background: var(--color-white); color: var(--color-ink); text-decoration: none !important; box-shadow: var(--shadow-hard);
+  transition: translate 200ms var(--ease-out), box-shadow 200ms var(--ease-out); }
+.ds-card:hover { translate: -2px -2px; box-shadow: var(--shadow-hard-lg); }
+.ds-card--brand { background: var(--color-brand); }
+.ds-card--teal { background: var(--color-teal); }
+.ds-card--lilac { background: var(--color-lilac); }
+.ds-card-media { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: var(--color-muted); border-bottom: 2px solid var(--color-ink); }
+.ds-card-media img { width: 100%; height: 100%; object-fit: contain; }
+.ds-card-content { display: flex; flex-direction: column; gap: 0.75rem; padding: 1.5rem; }
+.ds-card-title { font-size: 1.5rem; font-weight: 600; letter-spacing: -0.01em; line-height: 1.25; }
+.ds-card-desc { color: inherit; }
+
+/* Stat */
+.ds-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 2.5rem; margin: 2rem 0; }
+.ds-stat { display: flex; flex-direction: column; gap: 0.75rem; }
+.ds-stat-value { order: 1; align-self: flex-start; font-size: clamp(3.5rem, 6vw, 5.5rem); font-weight: 600; letter-spacing: -0.03em; line-height: 0.95; }
+.ds-stat-mark { font-variant-numeric: tabular-nums; background-image: linear-gradient(var(--color-brand), var(--color-brand));
+  background-repeat: no-repeat; background-position: 0 90%; background-size: 100% 0.28em; transition: background-size 450ms var(--ease-out); }
+.ds-stat:hover .ds-stat-mark { background-size: 100% 100%; }
+.ds-stat-label { order: 2; font-size: 1.5rem; font-weight: 600; line-height: 1.25; }
+.ds-stat-detail { order: 3; max-width: 34ch; color: var(--color-ink-soft); }
+
+/* SchemaPanel + parcours */
+.ds-schema { position: relative; display: flex; flex-direction: column; gap: 1.5rem; margin: 2rem 0; padding: 1.75rem;
+  border-radius: var(--radius-xl); background-color: var(--color-white);
+  background-image: radial-gradient(var(--color-line) 1.1px, transparent 1.3px); background-size: 1rem 1rem; background-position: 0.5rem 0.5rem; }
+.ds-schema--muted { background-color: var(--color-muted); }
+.ds-regmark { position: absolute; top: 1rem; right: 1rem; width: 1.625rem; height: 1.625rem; color: var(--color-ink); }
+.ds-schema-caption { padding-right: 2.5rem; font-size: 1.25rem; font-weight: 600; line-height: 1.75rem; }
+.ds-flow-row { display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem; }
+.ds-flow-step { display: flex; align-items: center; gap: 0.75rem; padding: 1rem 1.25rem; border: 2px solid var(--color-ink);
+  border-radius: var(--radius-md); font-weight: 600; }
+.ds-ours { background: var(--color-brand); box-shadow: var(--shadow-hard); }
+.ds-theirs { background-color: var(--color-white); background-image: radial-gradient(var(--color-ink-soft) 1px, transparent 1.3px); background-size: 0.375rem 0.375rem; }
+.ds-theirs span { background: var(--color-white); padding-inline: 0.25rem; }
+.ds-flow-line { flex: 1; min-width: 3rem; height: 0; border-top: var(--stroke-flow) solid var(--color-ink); opacity: 0.35; }
+
+/* Pélican */
+.ds-pelican { display: block; height: auto; max-width: 100%; margin: 1rem auto; }
+
+/* Accueil : contenu centré, titres espacés */
+.gi-home { max-width: 1152px; margin: 0 auto; padding: 1rem 1.5rem 4rem; }
+.gi-home .ds-title { margin: 3.5rem 0 1.5rem; }
+
+/* Pictogrammes Lucide (GiIcon + menu): trait 2 px, couleur du texte */
+.gi-icon {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: var(--gi-icon-size, 24px); height: var(--gi-icon-size, 24px);
+  vertical-align: -0.2em; color: inherit;
+}
+.gi-icon svg { width: 100%; height: 100%; stroke-width: 2; }
+.gi-nav-card-icon { display: flex; align-items: center; justify-content: center; line-height: 1; color: var(--color-ink, currentColor); }
+.gi-format-card-icon { display: flex; align-items: center; line-height: 1; color: var(--color-ink, currentColor); }
+.gi-nav-ico { display: inline-block; vertical-align: -0.2em; margin-right: 0.35em; flex: none; stroke-width: 2; }

@@ -3,6 +3,19 @@ import path from 'path'
 import fs from 'fs'
 
 const SITE = 'https://getinside-ops.github.io/handbook'
+/** Pictogramme Lucide inline (16 px, trait currentColor) pour les libellés HTML du menu. */
+function icon(name: string): string {
+  const svg = fs.readFileSync(path.resolve(__dirname, '../node_modules/lucide-static/icons', `${name}.svg`), 'utf8')
+  return svg
+    .replace(/<!--[\s\S]*?-->/, '')
+    .replace(/class="[^"]*"/, 'class="gi-nav-ico"')
+    .replace(/width="24"/, 'width="16"')
+    .replace(/height="24"/, 'height="16"')
+    .replace('<svg', '<svg aria-hidden="true"')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 const ORG_SAMEAS = ['https://www.getinside.fr/', 'https://x.com/getinsideMedia']
 
 /**
@@ -77,6 +90,7 @@ const config: any = defineConfig({
     srcDir: 'docs',
     cleanUrls: true,
     lastUpdated: true,
+    appearance: false,
 
     locales: {
       root: {
@@ -93,10 +107,10 @@ const config: any = defineConfig({
             formatOptions: { dateStyle: 'long', forceLocale: true },
           },
           nav: [
-            { text: '<span aria-hidden="true">🎯</span> Recruit', link: '/en/recruit/' },
-            { text: '<span aria-hidden="true">💌</span> Retain', link: '/en/retain/' },
-            { text: '<span aria-hidden="true">📦</span> Monetize', link: '/en/monetize/' },
-            { text: '<span aria-hidden="true">❓</span> FAQ', link: '/en/faq/' },
+            { text: icon('target') + ' Recruit', link: '/en/recruit/' },
+            { text: icon('mail-open') + ' Retain', link: '/en/retain/' },
+            { text: icon('package') + ' Monetize', link: '/en/monetize/' },
+            { text: icon('circle-help') + ' FAQ', link: '/en/faq/' },
             { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
           ],
         },
@@ -124,12 +138,10 @@ const config: any = defineConfig({
       ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/handbook/images/icons/favicon-16.png' }],
       ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/handbook/images/icons/apple-touch-icon.png' }],
       ['link', { rel: 'manifest', href: '/handbook/site.webmanifest' }],
-      ['meta', { name: 'theme-color', content: '#0aaa8e' }],
+      ['meta', { name: 'theme-color', content: '#fcf758' }],
 
-      // Fonts
-      ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
-      ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-      ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap', rel: 'stylesheet' }],
+      // Fonts (auto-hébergées)
+      ['link', { rel: 'preload', href: '/handbook/fonts/BricolageGrotesque-latin.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
 
       // SEO & Robots
       ['meta', { name: 'google-site-verification', content: 'rYXnBrdfxUincgWiLZ2bJS8FYbU_vo3sYDa3eXMnM4Q' }],
@@ -229,10 +241,10 @@ const config: any = defineConfig({
       },
 
       nav: [
-        { text: '<span aria-hidden="true">🎯</span> Recruter', link: '/recruit/' },
-        { text: '<span aria-hidden="true">💌</span> Fidéliser', link: '/retain/' },
-        { text: '<span aria-hidden="true">📦</span> Monétiser', link: '/monetize/' },
-        { text: '<span aria-hidden="true">❓</span> FAQ', link: '/faq/' },
+        { text: icon('target') + ' Recruter', link: '/recruit/' },
+        { text: icon('mail-open') + ' Fidéliser', link: '/retain/' },
+        { text: icon('package') + ' Monétiser', link: '/monetize/' },
+        { text: icon('circle-help') + ' FAQ', link: '/faq/' },
         { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
       ], sidebar: {
         '/': [
