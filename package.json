@@ -9,6 +9,7 @@
     "generate:icons": "node scripts/generate-icons.js"
   },
   "devDependencies": {
+    "lucide-static": "^1.72.0",
     "playwright": "^1.60.0",
     "vitepress": "^1.5.0"
   }

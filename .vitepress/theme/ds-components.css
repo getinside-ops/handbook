@@ -75,3 +75,14 @@
 /* Accueil : contenu centré, titres espacés */
 .gi-home { max-width: 1152px; margin: 0 auto; padding: 1rem 1.5rem 4rem; }
 .gi-home .ds-title { margin: 3.5rem 0 1.5rem; }
+
+/* Pictogrammes Lucide (GiIcon + menu): trait 2 px, couleur du texte */
+.gi-icon {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: var(--gi-icon-size, 24px); height: var(--gi-icon-size, 24px);
+  vertical-align: -0.2em; color: inherit;
+}
+.gi-icon svg { width: 100%; height: 100%; stroke-width: 2; }
+.gi-nav-card-icon { display: flex; align-items: center; justify-content: center; line-height: 1; color: var(--color-ink, currentColor); }
+.gi-format-card-icon { display: flex; align-items: center; line-height: 1; color: var(--color-ink, currentColor); }
+.gi-nav-ico { display: inline-block; vertical-align: -0.2em; margin-right: 0.35em; flex: none; stroke-width: 2; }

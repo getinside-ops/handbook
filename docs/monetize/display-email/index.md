@@ -50,12 +50,12 @@ L'intégration est légère : un bloc HTML ou une image dans le gabarit de votre
 
 <div class="gi-format-grid">
   <a href="/handbook/monetize/display-email/integration" class="gi-format-card">
-    <span class="gi-format-card-icon">🔗</span>
+    <span class="gi-format-card-icon"><GiIcon name="link" /></span>
     <span class="gi-format-card-title">Guide d'intégration</span>
     <p class="gi-format-card-desc">Visuel, lien tracké gtinsi.de, insertion dans votre routeur et validation de la diffusion.</p>
   </a>
   <a href="/handbook/monetize/payouts" class="gi-format-card">
-    <span class="gi-format-card-icon">💶</span>
+    <span class="gi-format-card-icon"><GiIcon name="euro" /></span>
     <span class="gi-format-card-title">Paiements & Wallet</span>
     <p class="gi-format-card-desc">Comment vos revenus Display Email sont crédités, puis retirés ou réinvestis.</p>
   </a>

@@ -59,22 +59,22 @@ Customers who no longer open your emails? Discover [direct mail](/en/retain/dire
 
 <div class="gi-format-grid">
   <a href="dedicated-email/" class="gi-format-card">
-    <span class="gi-format-card-icon">📧</span>
+    <span class="gi-format-card-icon"><GiIcon name="mail" /></span>
     <span class="gi-format-card-title">Dedicated email</span>
     <p class="gi-format-card-desc">An email written by the brand delivering your campaign, with its endorsement.</p>
   </a>
   <a href="display-email/" class="gi-format-card">
-    <span class="gi-format-card-icon">🖼️</span>
+    <span class="gi-format-card-icon"><GiIcon name="image" /></span>
     <span class="gi-format-card-title">Newsletter banner</span>
     <p class="gi-format-card-desc">A non-intrusive banner in partner newsletters.</p>
   </a>
   <a href="sponsored-social/" class="gi-format-card">
-    <span class="gi-format-card-icon">📱</span>
+    <span class="gi-format-card-icon"><GiIcon name="smartphone" /></span>
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Partnership Ads on partner brands' social accounts. On request.</p>
   </a>
   <a href="bundles" class="gi-format-card">
-    <span class="gi-format-card-icon">🎁</span>
+    <span class="gi-format-card-icon"><GiIcon name="gift" /></span>
     <span class="gi-format-card-title">Bundles</span>
     <p class="gi-format-card-desc">A multi-format scenario with a single brand, with an integrated game to collect qualified opt-in leads.</p>
   </a>

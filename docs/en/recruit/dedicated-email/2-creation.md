@@ -24,7 +24,7 @@ The brand delivering your campaign designs the email. This step requires no acti
 
 Subscribers trust the brand. An email that follows the codes of their weekly newsletter maximizes open and click rates.
 
-| ✅ Native (expected) | ❌ Full Brand (avoided) |
+| <GiIcon name="circle-check" :size="16" /> Native (expected) | <GiIcon name="circle-x" :size="16" /> Full Brand (avoided) |
 | :--- | :--- |
 | **Partner header**: the brand's logo and menu | 100% email in your colors, no partner mention |
 | **Intro editorial** from the brand (*"Our favorite..."*) | No contextualization |

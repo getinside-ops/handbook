@@ -59,22 +59,22 @@ Vos clients n'ouvrent plus vos e-mails ? Découvrez le [courrier adressé](/reta
 
 <div class="gi-format-grid">
   <a href="dedicated-email/" class="gi-format-card">
-    <span class="gi-format-card-icon">📧</span>
+    <span class="gi-format-card-icon"><GiIcon name="mail" /></span>
     <span class="gi-format-card-title">Emailing dédié</span>
     <p class="gi-format-card-desc">Un e-mail rédigé par la marque qui diffuse votre campagne, avec son endorsement.</p>
   </a>
   <a href="display-email/" class="gi-format-card">
-    <span class="gi-format-card-icon">🖼️</span>
+    <span class="gi-format-card-icon"><GiIcon name="image" /></span>
     <span class="gi-format-card-title">Encart newsletter</span>
     <p class="gi-format-card-desc">Une bannière non intrusive dans les newsletters partenaires.</p>
   </a>
   <a href="sponsored-social/" class="gi-format-card">
-    <span class="gi-format-card-icon">📱</span>
+    <span class="gi-format-card-icon"><GiIcon name="smartphone" /></span>
     <span class="gi-format-card-title">Social Ads</span>
     <p class="gi-format-card-desc">Partnership Ads sur les comptes sociaux des marques partenaires. Sur demande.</p>
   </a>
   <a href="bundles" class="gi-format-card">
-    <span class="gi-format-card-icon">🎁</span>
+    <span class="gi-format-card-icon"><GiIcon name="gift" /></span>
     <span class="gi-format-card-title">Bundles</span>
     <p class="gi-format-card-desc">Un scénario multi-formats chez une même marque, avec un jeu intégré pour collecter des leads opt-in qualifiés.</p>
   </a>

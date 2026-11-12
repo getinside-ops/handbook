@@ -107,14 +107,14 @@ Take control of your ad network: activate your historical partners and grow your
 ## Phase 3: Acceleration and Autonomy
 
 <div class="gi-step">
-  <div class="gi-step-num">🚀</div>
+  <div class="gi-step-num"><GiIcon name="rocket" :size="16" /></div>
   <div class="gi-step-body">
     <h3>Trade Marketing</h3>
     <p>Invite the brands you distribute to buy visibility with you. Partners added through SIREN/VAT search, centralized management and billing, tracking by partner.</p>
   </div>
 </div>
 <div class="gi-step">
-  <div class="gi-step-num">🤝</div>
+  <div class="gi-step-num"><GiIcon name="handshake" :size="16" /></div>
   <div class="gi-step-body">
     <h3>Affiliation and sponsorship</h3>
     <p>Invite other brands and earn revenue from their activity. <a href="affiliation">See the affiliation program</a>.</p>
@@ -147,7 +147,7 @@ getinside acts as a **trusted third party** (First Party Data):
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>✅ You can refuse</strong>
+    <strong><GiIcon name="circle-check" :size="18" /> You can refuse</strong>
     <ul>
       <li>Ethical or competition reasons (the brand).</li>
       <li>Content that violates the law.</li>
@@ -155,7 +155,7 @@ getinside acts as a **trusted third party** (First Party Data):
     </ul>
   </div>
   <div class="gi-value-card">
-    <strong>❌ You cannot refuse</strong>
+    <strong><GiIcon name="circle-x" :size="18" /> You cannot refuse</strong>
     <ul>
       <li>Art direction, if the visual meets the technical specifications.</li>
       <li>Subjective preferences.</li>

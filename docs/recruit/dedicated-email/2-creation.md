@@ -24,7 +24,7 @@ La marque qui diffuse votre campagne conçoit l'email. Cette étape ne demande a
 
 Les abonnés font confiance à la marque. Un email aux codes de leur newsletter hebdomadaire maximise l'ouverture et le clic.
 
-| ✅ Natif (attendu) | ❌ Full Brand (évité) |
+| <GiIcon name="circle-check" :size="16" /> Natif (attendu) | <GiIcon name="circle-x" :size="16" /> Full Brand (évité) |
 | :--- | :--- |
 | **Header partenaire** : logo et menu de la marque | Email 100 % à vos couleurs, sans mention du partenaire |
 | **Édito d'intro** de la marque (*"Notre coup de cœur…"*) | Aucune contextualisation |

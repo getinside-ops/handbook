@@ -14,6 +14,7 @@ import GiStat from './components/GiStat.vue'
 import GiSchema from './components/GiSchema.vue'
 import GiFlow from './components/GiFlow.vue'
 import GiPelican from './components/GiPelican.vue'
+import GiIcon from './components/GiIcon.vue'
 
 export default {
   extends: DefaultTheme,
@@ -29,6 +30,7 @@ export default {
     app.component('GiSchema', GiSchema)
     app.component('GiFlow', GiFlow)
     app.component('GiPelican', GiPelican)
+    app.component('GiIcon', GiIcon)
   },
   setup() {
     const route = useRoute()

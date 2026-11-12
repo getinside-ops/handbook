@@ -3,6 +3,19 @@ import path from 'path'
 import fs from 'fs'
 
 const SITE = 'https://getinside-ops.github.io/handbook'
+/** Pictogramme Lucide inline (16 px, trait currentColor) pour les libellés HTML du menu. */
+function icon(name: string): string {
+  const svg = fs.readFileSync(path.resolve(__dirname, '../node_modules/lucide-static/icons', `${name}.svg`), 'utf8')
+  return svg
+    .replace(/<!--[\s\S]*?-->/, '')
+    .replace(/class="[^"]*"/, 'class="gi-nav-ico"')
+    .replace(/width="24"/, 'width="16"')
+    .replace(/height="24"/, 'height="16"')
+    .replace('<svg', '<svg aria-hidden="true"')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 const ORG_SAMEAS = ['https://www.getinside.fr/', 'https://x.com/getinsideMedia']
 
 /**
@@ -94,10 +107,10 @@ const config: any = defineConfig({
             formatOptions: { dateStyle: 'long', forceLocale: true },
           },
           nav: [
-            { text: '<span aria-hidden="true">🎯</span> Recruit', link: '/en/recruit/' },
-            { text: '<span aria-hidden="true">💌</span> Retain', link: '/en/retain/' },
-            { text: '<span aria-hidden="true">📦</span> Monetize', link: '/en/monetize/' },
-            { text: '<span aria-hidden="true">❓</span> FAQ', link: '/en/faq/' },
+            { text: icon('target') + ' Recruit', link: '/en/recruit/' },
+            { text: icon('mail-open') + ' Retain', link: '/en/retain/' },
+            { text: icon('package') + ' Monetize', link: '/en/monetize/' },
+            { text: icon('circle-help') + ' FAQ', link: '/en/faq/' },
             { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
           ],
         },
@@ -228,10 +241,10 @@ const config: any = defineConfig({
       },
 
       nav: [
-        { text: '<span aria-hidden="true">🎯</span> Recruter', link: '/recruit/' },
-        { text: '<span aria-hidden="true">💌</span> Fidéliser', link: '/retain/' },
-        { text: '<span aria-hidden="true">📦</span> Monétiser', link: '/monetize/' },
-        { text: '<span aria-hidden="true">❓</span> FAQ', link: '/faq/' },
+        { text: icon('target') + ' Recruter', link: '/recruit/' },
+        { text: icon('mail-open') + ' Fidéliser', link: '/retain/' },
+        { text: icon('package') + ' Monétiser', link: '/monetize/' },
+        { text: icon('circle-help') + ' FAQ', link: '/faq/' },
         { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
       ], sidebar: {
         '/': [
