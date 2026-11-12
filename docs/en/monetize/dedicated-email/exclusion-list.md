@@ -9,100 +9,56 @@ keywords:
   - SFTP exclusion ESP
 ---
 
+
 # Managing contact exclusion lists
 
-Before sending, a brand may provide you with an exclusion list to remove certain contacts from the mailing. You apply it in your ESP.
+Before sending, a brand may provide you with an exclusion list. You apply it in your ESP.
 
-| Use case | Description |
-| :--- | :--- |
-| **Opt-out contacts** | Contacts who have unsubscribed from the brand's communications. Their exclusion is mandatory to remain GDPR-compliant. |
-| **Existing customers** | The brand wants to target only new prospects and exclude their current customers. |
-| **Both** | The brand merges both lists into a single file before sending it to you. |
-
-This is not systematic: many campaigns do not include one. When a brand sends one, here is how to receive and apply it.
-
-:::danger Personal data: secure channel required
-Exclusion lists contain **personal data** under GDPR. Do not request them by email or getinside messaging.
-
-Any file containing addresses (even hashed) must go through a secure protocol.
+::: tip In short
+- Not systematic: the list removes opt-out contacts (mandatory under GDPR) and/or the brand's existing customers.
+- Personal data: receive it through SFTP or a secure bucket, never by email or getinside messaging.
+- Import it into your ESP before scheduling the send, then confirm to the brand.
 :::
 
----
+:::danger Personal data: secure channel required
+Any file containing addresses, even hashed, must go through a secure protocol.
+:::
 
 ## Receiving the file
 
-The recommended method is SFTP file transfer using **FileZilla** on the brand's side ([Download FileZilla](https://filezilla-project.org/){target="_blank"}, free, Windows / macOS / Linux).
+Recommended method: SFTP transfer using **FileZilla** on the brand's side ([download FileZilla](https://filezilla-project.org/){target="_blank"}, free, Windows / macOS / Linux). Create an SFTP access and share with the brand:
 
-Create an SFTP access on your server and share these details with the brand:
-
-| Field | What you provide |
-|-------|-----------------|
-| Host | Your SFTP server address (e.g. `sftp.yourdomain.com`) |
-| Port | Usually `22` |
-| Path | Deposit directory (e.g. `/exclusion/incoming/`) |
-| Login | Dedicated SFTP username |
-| Password | Generated, shared outside messaging apps |
+- **Host:** Your SFTP server address (e.g. `sftp.yourdomain.com`)
+- **Port:** Usually `22`
+- **Path:** Deposit directory (e.g. `/exclusion/incoming/`)
+- **Login:** Dedicated SFTP username
+- **Password:** Generated, shared outside messaging apps
 
 :::warning Share credentials outside messaging apps
-Use a password manager with secure sharing (1Password, Bitwarden…) or a one-time link (One-Time Secret).
+Use a password manager (1Password, Bitwarden…) or a one-time link (One-Time Secret).
 :::
 
 :::details My infrastructure is different (S3, Azure, GCP, SSH key, API…)
 
-**SFTP with SSH key**
-
-A more secure option, best suited for recurring work with the same brand. The brand generates an SSH key pair and sends you their public key. Your technical team adds it to the server.
-
-| Field | What you provide |
-|-------|-----------------|
-| Host | Your SFTP server address |
-| Port | Usually `22` |
-| Path | Deposit directory |
-| Public SSH key | The brand's `.pub` file, to be added by your technical team |
-
----
+**SFTP with SSH key.** More secure, for a recurring brand: the brand sends you its public key (`.pub`), which your technical team adds to the server. Provide host, port and path.
 
 **S3 bucket (AWS)**
 
-| Field | What you provide |
-|-------|-----------------|
-| Endpoint | e.g. `s3.eu-west-1.amazonaws.com` |
-| Bucket | Your bucket name |
-| Directory | Destination prefix (e.g. `exclusion/`) |
-| Access Key ID | Dedicated access key (write permissions only) |
-| Secret Access Key | To be shared outside messaging apps |
-
----
+- **Endpoint:** e.g. `s3.eu-west-1.amazonaws.com`
+- **Bucket:** Your bucket name
+- **Directory:** Destination prefix (e.g. `exclusion/`)
+- **Access Key ID:** Dedicated access key (write permissions only)
+- **Secret Access Key:** To be shared outside messaging apps
 
 **GCP bucket (Google Cloud Storage)**
 
-| Field | What you provide |
-|-------|-----------------|
-| Bucket | GCS bucket name |
-| Auth token | Service account JSON file with `Storage Object Creator` role |
+- **Bucket:** GCS bucket name
+- **Auth token:** Service account JSON file with `Storage Object Creator` role
 
----
+**Azure Blob Storage.** Generate a SAS Token restricted to the `Write` operation, valid for 48 hours, renewed for each campaign. Provide the storage account name, the Blob container and the token.
 
-**Azure Blob Storage**
-
-Generate a SAS Token restricted to the `Write` operation, valid for 48 hours. Renew it for each campaign.
-
-| Field | What you provide |
-|-------|-----------------|
-| Storage account | Your Azure account name |
-| Container | Blob container name |
-| SAS Token | Signed access token (Write only, 48h) |
-
----
-
-**API / Endpoint (Eulerian or other)**
-
-If you use Eulerian, the integration with the brand is native: no file to manage.
-
-For any other ESP or DMP with an audience API, share your endpoint documentation with the brand.
+**API / Endpoint.** With Eulerian, the integration is native: no file to manage. For any other ESP or DMP with an audience API, share your endpoint documentation with the brand.
 :::
-
----
 
 ## Apply exclusions in your ESP
 
@@ -112,7 +68,7 @@ Import the file into your router **before** scheduling the send.
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Check the received file</h3>
-    <p>Verify the encoding (UTF-8), separator, and header. If the file contains SHA-256 hashed emails, check that your ESP handles this format.</p>
+    <p>Verify the encoding (UTF-8), separator and header. Check that your ESP handles SHA-256 hashed emails.</p>
   </div>
 </div>
 
@@ -120,7 +76,7 @@ Import the file into your router **before** scheduling the send.
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Create a dedicated exclusion list</h3>
-    <p>Do not mix the brand's exclusions with your own unsubscribes. Create a separate list with an explicit name (e.g. <code>EXCLUSION_BRAND_NAME_YYYYMMDD</code>).</p>
+    <p>Do not mix it with your own unsubscribes. Give it an explicit name (e.g. <code>EXCLUSION_BRAND_NAME_YYYYMMDD</code>).</p>
   </div>
 </div>
 
@@ -128,7 +84,7 @@ Import the file into your router **before** scheduling the send.
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Apply the exclusion at send time</h3>
-    <p>In the send settings, activate the exclusion list for this campaign. Verify that the final send volume reflects the exclusions. If the numbers don't change, the exclusion did not take effect.</p>
+    <p>Activate the list in the send settings. If the final volume doesn't change, the exclusion did not take effect.</p>
   </div>
 </div>
 
@@ -136,32 +92,26 @@ Import the file into your router **before** scheduling the send.
   <div class="gi-step-num done">4</div>
   <div class="gi-step-body">
     <h3>Confirm to the brand</h3>
-    <p>Let the brand know it is done. If anything is wrong (incorrect format, unexpected volume), flag it to getinside immediately.</p>
+    <p>If anything is wrong (incorrect format, unexpected volume), flag it to getinside immediately.</p>
   </div>
 </div>
-
----
 
 ## FAQ
 
 :::details The file contains SHA-256 hashed emails: what should I do?
-Most modern ESPs (Mailchimp, Brevo, Klaviyo, Mailjet…) accept SHA-256 exclusions. Check your router's documentation. If not, ask the brand for a plain-text file via a secure channel (SFTP).
+Most ESPs (Mailchimp, Brevo, Klaviyo, Mailjet…) accept them. If not, ask for a plain-text file via SFTP.
 :::
 
 :::details The brand wants to send the list by email: what do I say?
-Decline and point them to this page. Email addresses are personal data: sending them via messaging is not GDPR-compliant.
+Decline and point them to this page: sending addresses via messaging is not GDPR-compliant.
 :::
 
 :::details Do I need to keep the file after the send?
-No. Once the exclusions are imported and the send is confirmed, delete the file from your server.
+No. Once the exclusions are imported and the send is confirmed, delete it from your server.
 :::
 
 :::details What if I receive the file on the day of the send?
-Apply the exclusions before sending, even if it delays the send. Sending to opted-out contacts risks complaints and damages your sender reputation. If in doubt, contact getinside.
+Apply them before sending, even if it delays the send: writing to opted-out contacts risks complaints. If in doubt, contact getinside.
 :::
 
----
-
-## Next step
-
-Exclusions applied? Go back to [Tracking & Sending](./2-tracking-sending) to finalize.
+**Next step:** exclusions applied? Go back to [Tracking & Sending](./2-tracking-sending).
