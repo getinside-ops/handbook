@@ -71,3 +71,7 @@
 
 /* Pélican */
 .ds-pelican { display: block; height: auto; max-width: 100%; margin: 1rem auto; }
+
+/* Accueil : contenu centré, titres espacés */
+.gi-home { max-width: 1152px; margin: 0 auto; padding: 1rem 1.5rem 4rem; }
+.gi-home .ds-title { margin: 3.5rem 0 1.5rem; }
