@@ -13,13 +13,11 @@ image: /images/gi-keyvisual.svg
 
 # Sampling
 
-A free sample so people can try, smell or touch your product.
-
-Create a first sensory experience by delivering your samples in the orders of affinity brands, or at an affinity event. An e-commerce site is not required.
-
-## Which brands?
-
-Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty, Health & Wellness; Pets.
+::: tip In short
+- A free sample, slipped into the orders of affinity brands or handed out at an event. No e-commerce site required.
+- Best-suited verticals: Food & Beverages; Beauty, Health & Wellness; Pets.
+- Provided at the consumer's prior request (AGEC law).
+:::
 
 ## How it works
 
@@ -27,7 +25,7 @@ Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Choose the product</h3>
-    <p>A representative sample of your product.</p>
+    <p>A representative sample, in any format: each campaign is handled case by case.</p>
   </div>
 </div>
 
@@ -35,7 +33,7 @@ Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>It goes with an order</h3>
-    <p>It is slipped into the orders of affinity brands, or handed out at an affinity event, with a flyer carrying your offer depending on the campaign.</p>
+    <p>You send your samples to the brand that delivers, on the dates agreed with it. It slips them into its orders (or hands them out at an event) with a flyer carrying your offer.</p>
   </div>
 </div>
 
@@ -43,40 +41,22 @@ Brands with a product to sample. Best-suited verticals: Food & Beverages; Beauty
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3>The customer tries it</h3>
-    <p>They try the product at home, then place an order, for example thanks to the promotional offer on the flyer.</p>
+    <p>They try the product at home, then place an order, for example thanks to the offer on the flyer. A QR code or a unique code links the sample to the purchase.</p>
   </div>
 </div>
-
-**Measurement:** a QR code or a unique code links the sample to the purchase.
-
-## Formats and shipping
-
-- **Formats:** all sample formats are accepted. Each campaign is handled case by case.
-- **Shipping:** you send your samples to the brand that will deliver the campaign, on the dates agreed with it.
 
 ## Example results
 
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Beauty, Health & Wellness</strong>
-    <p>30,000 samples distributed · 65,000 contacts reached.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Food</strong>
-    <p>30,000 samples and flyers distributed · 80,000 contacts reached.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Sports and outdoor activities</strong>
-    <p>13,000 samples and flyers distributed · 50,000 contacts reached at an affinity event.</p>
-  </div>
-</div>
+- **Beauty, Health & Wellness**: 30,000 samples distributed, 65,000 contacts reached.
+- **Food**: 30,000 samples and flyers distributed, 80,000 contacts reached.
+- **Sports and outdoor activities**: 13,000 samples and flyers distributed, 50,000 contacts reached at an affinity event.
 
 ## Compliance
 
 ::: info AGEC law
-Samples are provided only at the consumer's prior request (Art. L541-15-10 of the French Environmental Code). The ban has applied in full since July 1, 2024 (Decree No. 2024-373 of April 23, 2024, Art. D541-345 and D541-346). When the request is made remotely, the consumer's first request covers the following deliveries until they opt out.
+Samples are provided only at the consumer's prior request (Art. L541-15-10 of the French Environmental Code). The ban has applied in full since July 1, 2024 (Decree No. 2024-373 of April 23, 2024, Art. D541-345 and D541-346). When the request is made remotely, the first request covers the following deliveries until the consumer opts out.
 
-getinside does not collect this request: it is the responsibility of the brand that gives out the sample to its customers. If in doubt, have your setup validated by your legal department.
+getinside does not collect this request: it is the responsibility of the brand that gives out the sample. If in doubt, have your setup validated by your legal department.
 :::
 
 <div class="gi-quick-links">
