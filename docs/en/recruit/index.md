@@ -37,11 +37,11 @@ image: /images/gi-keyvisual.svg
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🎯 Have your campaign delivered</strong>
+    <strong>Have your campaign delivered</strong>
     <p>Reach your future customers by having your campaigns delivered to the audiences of affinity brands.</p>
   </div>
   <div class="gi-value-card">
-    <strong>💶 Media budget or exchange</strong>
+    <strong>Media budget or exchange</strong>
     <p>Fund delivery with a media budget, or swap audiences to recruit without media spend. Best CAC: €1.21.</p>
   </div>
 </div>
@@ -83,9 +83,9 @@ Customers who no longer open your emails? Discover [direct mail](/en/retain/dire
 ## Services & resources
 
 <div class="gi-quick-links">
-  <a href="printing-services" class="btn btn-outline">🖨️ Printing & Logistics</a>
-  <a href="compare-formats" class="btn btn-outline">⚖️ Choosing your format</a>
-  <a href="analytics" class="btn btn-outline">📈 Tracking & Measurement</a>
-  <a href="sustainability" class="btn btn-outline">🌱 CSR & parcel inserts</a>
-  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">🚀 Case studies</a>
+  <a href="printing-services" class="btn btn-outline">Printing & Logistics</a>
+  <a href="compare-formats" class="btn btn-outline">Choosing your format</a>
+  <a href="analytics" class="btn btn-outline">Tracking & Measurement</a>
+  <a href="sustainability" class="btn btn-outline">CSR & parcel inserts</a>
+  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">Case studies</a>
 </div>

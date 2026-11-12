@@ -37,11 +37,11 @@ image: /images/gi-keyvisual.svg
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>🎯 Faire diffuser votre campagne</strong>
+    <strong>Faire diffuser votre campagne</strong>
     <p>Touchez vos futurs clients en faisant diffuser vos campagnes auprès des audiences de marques affinitaires.</p>
   </div>
   <div class="gi-value-card">
-    <strong>💶 Budget média ou échange</strong>
+    <strong>Budget média ou échange</strong>
     <p>Financez la diffusion avec un budget média, ou échangez des audiences pour recruter sans dépense média. Top CAC : 1,21 €.</p>
   </div>
 </div>
@@ -83,9 +83,9 @@ Vos clients n'ouvrent plus vos e-mails ? Découvrez le [courrier adressé](/reta
 ## Services & ressources
 
 <div class="gi-quick-links">
-  <a href="printing-services" class="btn btn-outline">🖨️ Impression & Logistique</a>
-  <a href="compare-formats" class="btn btn-outline">⚖️ Choisir son format</a>
-  <a href="analytics" class="btn btn-outline">📈 Suivi & Mesure</a>
-  <a href="sustainability" class="btn btn-outline">🌱 RSE & insertion colis</a>
-  <a href="/handbook/resources/case-studies" class="btn btn-outline">🚀 Cas clients</a>
+  <a href="printing-services" class="btn btn-outline">Impression & Logistique</a>
+  <a href="compare-formats" class="btn btn-outline">Choisir son format</a>
+  <a href="analytics" class="btn btn-outline">Suivi & Mesure</a>
+  <a href="sustainability" class="btn btn-outline">RSE & insertion colis</a>
+  <a href="/handbook/resources/case-studies" class="btn btn-outline">Cas clients</a>
 </div>

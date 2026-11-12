@@ -38,11 +38,11 @@ En 4 étapes (15 minutes), votre première proposition de campagne part aux marq
 
 | Format | Objectif idéal | Délai typique |
 |--------|---------------|--------------|
-| **📦 Insertion colis** | Acquisition physique, notoriété, trafic offline→online | 2-4 semaines |
-| **📧 Emailing dédié** | Acquisition email, trafic direct | 1-2 semaines |
-| **📩 Encart newsletter** | Visibilité, remarketing | 1 semaine |
-| **📱 Social Ads** | Engagement, visibilité réseaux sociaux | 1-2 semaines |
-| **🎁 Bundle** | Leads qualifiés, jeu intégré | 2-3 semaines |
+| **Insertion colis** | Acquisition physique, notoriété, trafic offline→online | 2-4 semaines |
+| **Emailing dédié** | Acquisition email, trafic direct | 1-2 semaines |
+| **Encart newsletter** | Visibilité, remarketing | 1 semaine |
+| **Social Ads** | Engagement, visibilité réseaux sociaux | 1-2 semaines |
+| **Bundle** | Leads qualifiés, jeu intégré | 2-3 semaines |
 
 Le Studio ne crée pas les landing pages des jeux intégrés aux bundles : elles restent à la charge de la marque qui diffuse le jeu.
 

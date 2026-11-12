@@ -111,8 +111,8 @@ An S format sample can be attached to an A5/A6 flyer with a dot of fugitive (rep
 
 ## Get started
 
-- [📘 Design Guide](./design-guide/): technical specifications, legal notices, creative strategy.
-- [🚀 Create a campaign](https://app.getinside.media/){target="_blank"}
+- [Design Guide](./design-guide/): technical specifications, legal notices, creative strategy.
+- [Create a campaign](https://app.getinside.media/){target="_blank"}
 
 :::info Need help?
 Our Creative Studio handles art direction and execution. → [Contact the Studio](../../resources/studio)

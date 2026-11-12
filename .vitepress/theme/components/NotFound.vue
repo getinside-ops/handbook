@@ -10,7 +10,7 @@ const isEn = computed(() => lang.value === 'en-US' || lang.value === 'en')
 const content = computed(() => {
   if (isEn.value) {
     return {
-      title: "Oops, nothing here! 👀",
+      title: "Oops, nothing here!",
       tagline: "Looks like this page took a wrong turn. Don't worry, it happens to the best of us.",
       home: "Back to home",
       contact: "Get in touch",
@@ -18,7 +18,7 @@ const content = computed(() => {
     }
   }
   return {
-    title: "Oups, cette page n'existe pas ! 👀",
+    title: "Oups, cette page n'existe pas !",
     tagline: "Il semblerait que cette page se soit perdue en chemin. Pas de panique, ça arrive !",
     home: "Retour à l'accueil",
     contact: "Nous contacter",

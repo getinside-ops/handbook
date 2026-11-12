@@ -43,19 +43,19 @@ Contact the Studio: **[studio@getinside.fr](https://lp.getinside.fr/meetings/ben
 
 ## What we produce
 
-### 📦 Print (Parcel Insert)
+### Print (Parcel Insert)
 
 - A5 / A6 flyers to FOGRA39 standards
 - Gift Cards and special formats
 - PDF/X export with bleed included
 
-### 📧 Emailing & Web
+### Emailing & Web
 
 - Responsive HTML design (Mobile-First)
 - Animated banners (GIF, video)
 - Full copywriting + Short subject line
 
-### 📱 Social Media
+### Social Media
 
 - Video editing (Reels, TikTok, Stories)
 - Static creations (Feed, Carousel)
@@ -65,6 +65,6 @@ Contact the Studio: **[studio@getinside.fr](https://lp.getinside.fr/meetings/ben
 
 ## Inspirations & Achievements
 
-<a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" class="btn btn-primary">✨ The Inspiration Book ↗</a>
+<a href="https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit" target="_blank" class="btn btn-primary">The Inspiration Book ↗</a>
 
-<a href="case-studies/" class="btn btn-outline">📊 Customer Success (KPIs) →</a>
+<a href="case-studies/" class="btn btn-outline">Customer Success (KPIs) →</a>

@@ -63,11 +63,11 @@ At the beginning of each week, declare the exact volume of inserts distributed t
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>📦 Case A: out of stock</strong>
+    <strong>Case A: out of stock</strong>
     <p>You have distributed all the materials received. The campaign naturally stops.</p>
   </div>
   <div class="gi-value-card">
-    <strong>🏁 Case B: goal reached (Capped)</strong>
+    <strong>Case B: goal reached (Capped)</strong>
     <p>The ordered volume is reached. Close the campaign even if stock remains, unless instructed otherwise to clear the balance.</p>
   </div>
 </div>

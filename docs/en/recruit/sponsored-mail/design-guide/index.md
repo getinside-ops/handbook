@@ -68,12 +68,12 @@ Choose the mechanic for your goal, then ask yourself: **"Why is this content mea
 
 | Mechanic | When to choose it | Example |
 | :--- | :--- | :--- |
-| 🏷️ **Promotion** | Immediate online conversion | "Scan for an exclusive offer" |
-| 🏪 **Drive to Store** | Physical traffic, or hybrid Web + store | "A free coffee in-store" |
-| 📚 **Educational Content** | Brand image, long-term engagement | "5 seasonal recipes" |
-| 🎲 **Games** | Qualified leads (multi-format: [bundles](/en/recruit/bundles)) | "Scan to spin the wheel" |
-| 📱 **Drive to App** | Mobile user acquisition | "Download the app, earn points" |
-| ⭐ **Feedback** | Customer insight, verified reviews | "Your opinion for a gift" |
+| **Promotion** | Immediate online conversion | "Scan for an exclusive offer" |
+| **Drive to Store** | Physical traffic, or hybrid Web + store | "A free coffee in-store" |
+| **Educational Content** | Brand image, long-term engagement | "5 seasonal recipes" |
+| **Games** | Qualified leads (multi-format: [bundles](/en/recruit/bundles)) | "Scan to spin the wheel" |
+| **Drive to App** | Mobile user acquisition | "Download the app, earn points" |
+| **Feedback** | Customer insight, verified reviews | "Your opinion for a gift" |
 
 ---
 
@@ -127,10 +127,10 @@ Your getinside workspace shows QR scans in real time and inserted volumes (updat
 
 ## Resources
 
-- **[✨ Examples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}**: successful campaigns.
-- **[📂 .ai/.pdf Templates](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}**: A5 and A6, pre-drawn bleed.
-- **[🖼️ Mandatory Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}**: getinside logo, Triman, Sorting info (AGEC Law).
-- **[✅ Proof (BAT) Checklist](./print-specs#proof-bat-checklist)**: to be completed before each submission.
+- **[Examples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}**: successful campaigns.
+- **[.ai/.pdf Templates](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}**: A5 and A6, pre-drawn bleed.
+- **[Mandatory Logos](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}**: getinside logo, Triman, Sorting info (AGEC Law).
+- **[Proof (BAT) Checklist](./print-specs#proof-bat-checklist)**: to be completed before each submission.
 
 :::info No in-house graphic designer?
 Our **Creative Studio** handles art direction, execution, and standardization. → [Contact the Studio](../../../resources/studio)

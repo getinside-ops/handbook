@@ -48,5 +48,5 @@ There is **no open pixel**: only clicks are counted (tracked link `gtinsi.de`). 
 - Centralized tracking: clicks from several newsletters on a single dashboard.
 :::
 
-- [📋 Campaign Workflow](./workflow): steps from submission to broadcast.
-- [📐 Banner Specifications](./specs): formats, weight and creative best practices.
+- [Campaign Workflow](./workflow): steps from submission to broadcast.
+- [Banner Specifications](./specs): formats, weight and creative best practices.

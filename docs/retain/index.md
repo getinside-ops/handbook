@@ -37,11 +37,11 @@ image: /images/gi-keyvisual.svg
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>💌 Courrier adressé</strong>
+    <strong>Courrier adressé</strong>
     <p>Un support imprimé adressé à vos clients inactifs par e-mail. Top CVR constaté : 6 %.</p>
   </div>
   <div class="gi-value-card">
-    <strong>📦 Offre dans le colis</strong>
+    <strong>Offre dans le colis</strong>
     <p>Une offre dédiée glissée dans chaque colis livré à un client existant, pour déclencher un nouvel achat.</p>
   </div>
 </div>
@@ -95,6 +95,6 @@ image: /images/gi-keyvisual.svg
 ## Services & ressources
 
 <div class="gi-quick-links">
-  <a href="/handbook/recruit/printing-services" class="btn btn-outline">🖨️ Impression & Logistique</a>
-  <a href="/handbook/resources/case-studies" class="btn btn-outline">🚀 Cas clients</a>
+  <a href="/handbook/recruit/printing-services" class="btn btn-outline">Impression & Logistique</a>
+  <a href="/handbook/resources/case-studies" class="btn btn-outline">Cas clients</a>
 </div>

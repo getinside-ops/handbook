@@ -25,8 +25,8 @@ Wallet, withdrawal or campaign: find the answer in less than 2 minutes.
 
 ::: details "My available balance is 0 even though I distributed campaigns"
 The Wallet is **not automatically** credited. In My Campaigns, open the campaign:
-- 📦 **Parcel inserts:** Declare volume, every **Monday or Tuesday**.
-- 📧 **Emailing:** **Validate broadcast** after sending.
+- **Parcel inserts:** Declare volume, every **Monday or Tuesday**.
+- **Emailing:** **Validate broadcast** after sending.
 
 Without this, funds remain **escrowed**.
 :::

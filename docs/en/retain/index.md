@@ -37,11 +37,11 @@ image: /images/gi-keyvisual.svg
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>💌 Direct mail</strong>
+    <strong>Direct mail</strong>
     <p>A printed piece addressed to your customers who are inactive by email. Top conversion rate recorded: 6%.</p>
   </div>
   <div class="gi-value-card">
-    <strong>📦 Offer in the parcel</strong>
+    <strong>Offer in the parcel</strong>
     <p>A dedicated offer slipped into every parcel delivered to an existing customer, to trigger a new purchase.</p>
   </div>
 </div>
@@ -95,6 +95,6 @@ image: /images/gi-keyvisual.svg
 ## Services & resources
 
 <div class="gi-quick-links">
-  <a href="/handbook/en/recruit/printing-services" class="btn btn-outline">🖨️ Printing & Logistics</a>
-  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">🚀 Case studies</a>
+  <a href="/handbook/en/recruit/printing-services" class="btn btn-outline">Printing & Logistics</a>
+  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">Case studies</a>
 </div>

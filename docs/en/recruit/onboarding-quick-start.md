@@ -38,11 +38,11 @@ In 4 steps (15 minutes), your first campaign proposal goes to the brands that wi
 
 | Format | Ideal Goal | Typical Timeline |
 |--------|---------------|--------------|
-| **📦 Parcel Insert** | Physical acquisition, awareness, offline→online traffic | 2-4 weeks |
-| **📧 Dedicated Email** | Email acquisition, direct traffic | 1-2 weeks |
-| **📩 Newsletter Banner** | Visibility, remarketing | 1 week |
-| **📱 Social Ads** | Engagement, social media visibility | 1-2 weeks |
-| **🎁 Bundle** | Qualified leads, integrated game | 2-3 weeks |
+| **Parcel Insert** | Physical acquisition, awareness, offline→online traffic | 2-4 weeks |
+| **Dedicated Email** | Email acquisition, direct traffic | 1-2 weeks |
+| **Newsletter Banner** | Visibility, remarketing | 1 week |
+| **Social Ads** | Engagement, social media visibility | 1-2 weeks |
+| **Bundle** | Qualified leads, integrated game | 2-3 weeks |
 
 The Studio does not create the landing pages for games included in bundles: they stay the responsibility of the brand that delivers the game.
 

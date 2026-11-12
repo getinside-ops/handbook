@@ -41,14 +41,14 @@ Si votre activité relève d'un secteur ci-dessous, la mention correspondante es
 
 | Secteur | Mention obligatoire | Référence légale |
 | :--- | :--- | :--- |
-| 🍷 **Alcool** | *"L'abus d'alcool est dangereux pour la santé."* + Interdiction de ciblage des mineurs (précisions ci-dessous) | Loi Evin, art. L3323-2 et L3323-4 CSP |
-| 🥗 **Alimentation** | *"Pour votre santé, mangez au moins cinq fruits et légumes par jour."* | Art. L2133-1 CSP, mangerbouger.fr |
-| 🚗 **Automobile** | Classe énergétique (l/100km et g CO2/km) + *"Pensez à covoiturer."* | Arrêté du 10 janvier 2018 |
-| 💰 **Crédit / Finance** | *"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager."* | Art. L311-5 Code de la Consommation |
-| 🎰 **Jeux d'argent** | *"Jouer comporte des risques : endettement, isolement, dépendance. Appelez le 09-74-75-13-13 (appel non surtaxé)."* + Interdiction de ciblage des mineurs | ANJ, loi du 12 mai 2010 |
-| 💊 **Médicaments / Parapharmacie** | *"Lire attentivement la notice. Demandez conseil à votre médecin ou pharmacien."* | Code de la Santé Publique |
-| 🧸 **Jouets** | Indication de l'âge recommandé (ex : *"3+"*) + *"Ne convient pas aux enfants de moins de 3 ans."* | Directive 2009/48/CE |
-| 🛡️ **Assurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Code des Assurances |
+| **Alcool** | *"L'abus d'alcool est dangereux pour la santé."* + Interdiction de ciblage des mineurs (précisions ci-dessous) | Loi Evin, art. L3323-2 et L3323-4 CSP |
+| **Alimentation** | *"Pour votre santé, mangez au moins cinq fruits et légumes par jour."* | Art. L2133-1 CSP, mangerbouger.fr |
+| **Automobile** | Classe énergétique (l/100km et g CO2/km) + *"Pensez à covoiturer."* | Arrêté du 10 janvier 2018 |
+| **Crédit / Finance** | *"Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager."* | Art. L311-5 Code de la Consommation |
+| **Jeux d'argent** | *"Jouer comporte des risques : endettement, isolement, dépendance. Appelez le 09-74-75-13-13 (appel non surtaxé)."* + Interdiction de ciblage des mineurs | ANJ, loi du 12 mai 2010 |
+| **Médicaments / Parapharmacie** | *"Lire attentivement la notice. Demandez conseil à votre médecin ou pharmacien."* | Code de la Santé Publique |
+| **Jouets** | Indication de l'âge recommandé (ex : *"3+"*) + *"Ne convient pas aux enfants de moins de 3 ans."* | Directive 2009/48/CE |
+| **Assurance** | *"Un contrat d'assurance vous engage et doit être respecté. Vérifiez les termes avant de vous engager."* | Code des Assurances |
 
 ::: details Alcool : précisions
 La mention légale est « L'abus d'alcool est dangereux pour la santé ». La suite « à consommer avec modération » est la formule recommandée par l'ARPP. La publicité pour l'alcool est limitée aux éléments listés à l'article L3323-4 du code de la santé publique, et à certains supports (article L3323-2). Les circulaires commerciales faisant l'objet d'envois nominatifs sont dispensées du message sanitaire par la loi. Sur un flyer inséré dans un colis, gardez-le.

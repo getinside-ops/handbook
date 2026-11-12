@@ -12,6 +12,6 @@ function print() {
 
 <template>
   <button v-if="visible" class="gi-print-btn" type="button" @click="print">
-    🖨️ {{ label }}
+    {{ label }}
   </button>
 </template>

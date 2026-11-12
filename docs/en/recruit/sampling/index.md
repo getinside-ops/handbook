@@ -61,5 +61,5 @@ getinside does not collect this request: it is the responsibility of the brand t
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create a campaign →</a>
-  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">🚀 Case studies</a>
+  <a href="/handbook/en/resources/case-studies" class="btn btn-outline">Case studies</a>
 </div>

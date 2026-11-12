@@ -68,12 +68,12 @@ Choisissez la mécanique selon votre objectif, puis posez-vous : **"Pourquoi ce 
 
 | Mécanique | Quand la choisir | Exemple |
 | :--- | :--- | :--- |
-| 🏷️ **Promotion** | Conversion immédiate en ligne | « Scannez pour une offre exclusive » |
-| 🏪 **Drive to Store** | Trafic physique, ou hybride Web + magasin | « Un café offert en boutique » |
-| 📚 **Contenu éducatif** | Image de marque, engagement long terme | « 5 recettes de saison » |
-| 🎲 **Jeux** | Leads qualifiés (multi-formats : [bundles](/recruit/bundles)) | « Flashez pour tourner la roue » |
-| 📱 **Drive to App** | Acquisition d'utilisateurs mobiles | « Téléchargez l'app, gagnez des points » |
-| ⭐ **Feedback** | Connaissance client, avis vérifiés | « Votre avis contre un cadeau » |
+| **Promotion** | Conversion immédiate en ligne | « Scannez pour une offre exclusive » |
+| **Drive to Store** | Trafic physique, ou hybride Web + magasin | « Un café offert en boutique » |
+| **Contenu éducatif** | Image de marque, engagement long terme | « 5 recettes de saison » |
+| **Jeux** | Leads qualifiés (multi-formats : [bundles](/recruit/bundles)) | « Flashez pour tourner la roue » |
+| **Drive to App** | Acquisition d'utilisateurs mobiles | « Téléchargez l'app, gagnez des points » |
+| **Feedback** | Connaissance client, avis vérifiés | « Votre avis contre un cadeau » |
 
 ---
 
@@ -127,10 +127,10 @@ Votre espace getinside affiche les scans QR en temps réel et les volumes insér
 
 ## Ressources
 
-- **[✨ Exemples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}** : campagnes réussies.
-- **[📂 Gabarits .ai/.pdf](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}** : A5 et A6, fond perdu pré-tracé.
-- **[🖼️ Logos Obligatoires](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}** : logo getinside, Triman, Info-tri (Loi AGEC).
-- **[✅ Check-list BAT](./print-specs#checklist-bat)** : à compléter avant chaque soumission.
+- **[Exemples & Inspirations](https://docs.google.com/presentation/d/1pHOKuOtkHXMaKd0qxng7XgF4oS-cjOBe9EtF3b-6XzU/edit){target="_blank"}** : campagnes réussies.
+- **[Gabarits .ai/.pdf](https://drive.google.com/drive/folders/1rbTKAXw8z-8xoy-_PhK9ICL_zb9do7xe){target="_blank"}** : A5 et A6, fond perdu pré-tracé.
+- **[Logos Obligatoires](https://drive.google.com/drive/folders/1ORm6uAhsIWCCFWhOl-NjO4tKfiGQdLNy){target="_blank"}** : logo getinside, Triman, Info-tri (Loi AGEC).
+- **[Check-list BAT](./print-specs#checklist-bat)** : à compléter avant chaque soumission.
 
 :::info Pas de graphiste en interne ?
 Notre **Studio Créatif** prend en charge direction artistique, exécution et mise aux normes. → [Contacter le Studio](/resources/studio)
