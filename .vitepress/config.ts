@@ -77,6 +77,7 @@ const config: any = defineConfig({
     srcDir: 'docs',
     cleanUrls: true,
     lastUpdated: true,
+    appearance: false,
 
     locales: {
       root: {
@@ -124,12 +125,10 @@ const config: any = defineConfig({
       ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/handbook/images/icons/favicon-16.png' }],
       ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/handbook/images/icons/apple-touch-icon.png' }],
       ['link', { rel: 'manifest', href: '/handbook/site.webmanifest' }],
-      ['meta', { name: 'theme-color', content: '#0aaa8e' }],
+      ['meta', { name: 'theme-color', content: '#fcf758' }],
 
-      // Fonts
-      ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
-      ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-      ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap', rel: 'stylesheet' }],
+      // Fonts (auto-hébergées)
+      ['link', { rel: 'preload', href: '/handbook/fonts/BricolageGrotesque-latin.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
 
       // SEO & Robots
       ['meta', { name: 'google-site-verification', content: 'rYXnBrdfxUincgWiLZ2bJS8FYbU_vo3sYDa3eXMnM4Q' }],

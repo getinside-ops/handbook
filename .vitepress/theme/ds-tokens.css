@@ -1,0 +1,108 @@
+/* Design system getinside : polices, jetons, recâblage des variables VitePress. */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  src: url('/handbook/fonts/BricolageGrotesque-latin.woff2') format('woff2');
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('/handbook/fonts/SourceSerif4-Italic-latin.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --color-brand: #fcf758;
+  --color-ink: #0c0c09;
+  --color-white: #ffffff;
+  --color-muted: #f4f4f0;
+  --color-teal: #47edde;
+  --color-lilac: #cfb7f9;
+  --color-violet: #0b051d;
+  --color-ink-soft: #55554f;
+  --color-line: #dcdcd4;
+
+  --font-sans: 'Bricolage Grotesque', system-ui, sans-serif;
+  --font-serif: 'Source Serif 4', Georgia, serif;
+
+  --radius-sm: 0.5rem;
+  --radius-md: 1rem;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2rem;
+  --radius-full: 9999px;
+
+  --hard-color: var(--color-ink);
+  --shadow-hard-xs: 2px 2px 0 0 var(--hard-color);
+  --shadow-hard-sm: 3px 3px 0 0 var(--hard-color);
+  --shadow-hard: 5px 5px 0 0 var(--hard-color);
+  --shadow-hard-lg: 8px 8px 0 0 var(--hard-color);
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --stroke-flow: 1.5px;
+  --spacing: 0.25rem;
+
+  /* Recâblage VitePress */
+  --vp-font-family-base: var(--font-sans);
+  --vp-font-family-heading: var(--font-sans);
+  --vp-c-bg: var(--color-white);
+  --vp-c-bg-elv: var(--color-white);
+  --vp-c-bg-soft: var(--color-muted);
+  --vp-c-bg-alt: var(--color-muted);
+  --vp-c-bg-mute: var(--color-muted);
+  --vp-c-text-1: var(--color-ink);
+  --vp-c-text-2: var(--color-ink-soft);
+  --vp-c-text-3: var(--color-ink-soft);
+  --vp-c-divider: var(--color-line);
+  --vp-c-gutter: var(--color-line);
+  --vp-c-brand-1: var(--color-ink);
+  --vp-c-brand-2: var(--color-ink);
+  --vp-c-brand-3: var(--color-brand);
+  --vp-c-brand-soft: rgba(252, 247, 88, 0.45);
+  --vp-code-color: var(--color-ink);
+  --vp-code-bg: var(--color-muted);
+  --vp-button-brand-bg: var(--color-white);
+  --vp-button-brand-text: var(--color-ink);
+  --vp-button-brand-border: var(--color-ink);
+  --vp-button-brand-hover-bg: var(--color-white);
+  --vp-button-brand-hover-text: var(--color-ink);
+  --vp-button-brand-hover-border: var(--color-ink);
+  --vp-button-brand-active-bg: var(--color-white);
+  --vp-button-brand-active-text: var(--color-ink);
+  --vp-button-brand-active-border: var(--color-ink);
+
+  /* Alias historiques gi-* */
+  --gi-mint: var(--color-brand);
+  --gi-yellow: var(--color-brand);
+  --gi-violet: var(--color-lilac);
+  --gi-accent: var(--color-ink);
+  --gi-accent-hover: var(--color-ink);
+  --gi-accent-light: var(--vp-c-brand-soft);
+  --gi-text: var(--color-ink);
+  --gi-text-muted: var(--color-ink-soft);
+  --gi-border: var(--color-ink);
+  --gi-surface: var(--color-white);
+  --gi-tint-blue-bg: var(--color-muted);
+  --gi-tint-blue-text: var(--color-ink);
+  --gi-tint-blue-border: var(--color-ink);
+  --gi-tint-green-bg: var(--color-muted);
+  --gi-tint-green-text: var(--color-ink);
+  --gi-tint-green-border: var(--color-ink);
+  --gi-tint-yellow-bg: var(--color-brand);
+  --gi-tint-yellow-text: var(--color-ink);
+  --gi-tint-red-bg: var(--color-lilac);
+  --gi-tint-red-text: var(--color-ink);
+  --gi-tint-red-border: var(--color-ink);
+  --gi-tint-purple-bg: var(--color-lilac);
+  --gi-tint-purple-text: var(--color-ink);
+}
+
+body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+
+/* Focus clavier */
+:focus-visible { outline: 3px solid var(--color-ink); outline-offset: 3px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
