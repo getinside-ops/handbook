@@ -12,39 +12,25 @@ keywords:
 
 # Emailing Dédié (Dedicated Newsletter)
 
-Prenez la parole auprès de la base d'abonnés de nos partenaires, via la **recommandation directe** de la marque à sa communauté.
+Prenez la parole auprès des abonnés de marques partenaires, par leur **recommandation directe**.
 
----
+::: tip En bref
+- La marque présente votre offre comme un « privilège abonné » : meilleure ouverture et meilleure confiance qu'en emailing froid.
+- 3 scénarios : Blast, Post-Purchase (ouverture > 50 %), Welcome Pack.
+- Le ciblage repose sur les données first party des acheteurs de la marque.
+:::
 
-## Le concept : l'endorsement
+::: tip Vous diffusez les campagnes d'autres marques à vos clients ?
+Consultez le [guide Emailing dédié côté Monétiser](/monetize/dedicated-email/).
+:::
 
-Contrairement à l'achat de base classique (cold emailing), l'emailing dédié repose sur la **recommandation**. C'est la marque qui s'adresse à ses abonnés pour leur présenter votre offre comme un *"privilège abonné"*.
+## Les 3 scénarios
 
-Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivité bien supérieure à de l'emailing de conquête froid.
-
----
-
-## Les 3 scénarios d'activation
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📢 Blast (Newsletter)</strong>
-    <p>Envoi massif sur tout ou partie de la base opt-in de la marque. Idéal pour la notoriété et le volume.</p>
-    <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Notoriété" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase</strong>
-    <p>Email automatisé envoyé juste après une commande. Le client est en attente active : taux d'ouverture <strong>> 50%</strong>.</p>
-    <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="Taux d'ouverture max" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Pack</strong>
-    <p>Intégration dans la séquence de bienvenue des nouveaux inscrits du partenaire. Premier contact dans un moment de forte attention.</p>
-    <p><Badge type="warning" text="Engagement" /> <Badge type="warning" text="Acquisition" /></p>
-  </div>
-</div>
-
----
+| Scénario | Principe | Ouverture | Interaction (CTR) |
+| :--- | :--- | :--- | :--- |
+| **Blast (Newsletter)** | Envoi sur tout ou partie de la base opt-in : volume et notoriété | Variable | ~1,9 % sur 200 000 contacts |
+| **Post-Purchase** | Email automatisé juste après une commande, client en attente active | > 50 % | Élevé |
+| **Welcome Pack** | Intégré à la séquence de bienvenue des nouveaux inscrits | Élevée | Fort engagement |
 
 ## Workflow en 3 étapes
 
@@ -59,8 +45,8 @@ Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivi
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3><a href="./2-creation">Création de l'email et co-branding</a></h3>
-    <p>La marque qui diffuse votre campagne conçoit l'email dans sa charte graphique, intégrant vos assets pour maximiser l'effet de recommandation.</p>
+    <h3><a href="./2-creation">Création et co-branding</a></h3>
+    <p>La marque qui diffuse votre campagne conçoit l'email dans sa charte, avec vos assets.</p>
   </div>
 </div>
 
@@ -76,53 +62,20 @@ Résultat : de meilleurs taux d'ouverture, une confiance accrue et une réactivi
 Avant l'envoi, transmettez les adresses à exclure (opt-out RGPD, clients existants) : voir la [liste d'exclusion](./exclusion-list).
 :::
 
-::: tip Vous diffusez les campagnes d'autres marques à vos clients ?
-Consultez le [guide Emailing dédié côté Monétiser](/monetize/dedicated-email/).
-:::
+## Ciblage
 
----
+Le ciblage repose sur les **données first party** des acheteurs de la marque.
 
-## Performances
-
-| Scénario | Taux d'ouverture | Interaction (CTR) |
-| :--- | :--- | :--- |
-| **Post-Purchase** | > 50% | Élevé |
-| **Blast (Newsletter)** | Variable | ~1,9% sur 200 000 contacts |
-| **Welcome Pack** | Élevé | Fort engagement |
-
-:::tip Exemple terrain
-Japhy a obtenu **1,90% d'interaction** sur un envoi de 200 000 contacts via Blast. HelloFresh x Berceau Magique a capté des jeunes parents via une offre ciblée. Les Petits Frères des Pauvres ont généré des dons via un partenariat Mieux que des Fleurs.
-:::
-
----
-
-## Ciblage & Audiences
-
-Le ciblage repose sur les **données First Party** réelles des acheteurs de la marque.
-
-| Critère | Options disponibles |
+| Critère | Options |
 | :--- | :--- |
 | **Univers produit** | Beauté, Food, Tech, Maison, Sport, Mode… |
 | **Panier moyen (AOV)** | High-end, Mass Market, Discounter |
-| **Profil acheteur** | B2C (particuliers) ou B2B (professionnels) |
+| **Profil acheteur** | B2C ou B2B |
 | **Géographie** | France, Belgique, Espagne, Allemagne… |
 | **Segmentation fine** | Acheteurs actifs récents, femme, renvoi aux non-ouvreurs |
 
----
-
-## Pourquoi passer par getinside ?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>💎 Inventaire premium</strong>
-    <p>Des marques partenaires avec des bases opt-in qualifiées, inaccessibles sur les plateformes d'affiliation classiques.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🎯 Ciblage contextuel</strong>
-    <p>Associez votre image à une marque affinitaire. La recommandation de la marque booste la réactivité vs. cold emailing.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Sécurité et tracking</strong>
-    <p>Fonds sécurisés, délivrabilité vérifiée, liens trackés dynamiques (modifiables même après envoi) : getinside gère tout.</p>
-  </div>
-</div>
+::: details Pourquoi passer par getinside ?
+- Bases opt-in qualifiées, inaccessibles sur les plateformes d'affiliation classiques.
+- Fonds sécurisés et délivrabilité vérifiée.
+- Liens trackés dynamiques, modifiables même après l'envoi.
+:::

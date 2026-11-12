@@ -12,46 +12,32 @@ keywords:
 
 # Dedicated Emailing (Dedicated Newsletter)
 
-Speak directly to our partners' subscriber base, via the **direct recommendation** of the brand to its community.
+Reach the subscribers of partner brands through the brand's **direct recommendation**.
 
----
+::: tip In short
+- The brand presents your offer as a "subscriber privilege": better open rates and trust than cold emailing.
+- 3 scenarios: Blast, Post-Purchase (open rate > 50%), Welcome Pack.
+- Targeting relies on the first party data of the brand's buyers.
+:::
 
-## The concept: endorsement
+::: tip Do you deliver other brands' campaigns to your customers?
+See the [dedicated email guide on the Monetize side](/en/monetize/dedicated-email/).
+:::
 
-Unlike traditional list renting (cold emailing), dedicated emailing is based on **recommendation**. It is the brand that addresses its subscribers to present your offer as a *"subscriber privilege"*.
+## The 3 scenarios
 
-Result: better open rates, increased trust, and significantly higher responsiveness compared to cold acquisition emailing.
+| Scenario | Principle | Open rate | Interaction (CTR) |
+| :--- | :--- | :--- | :--- |
+| **Blast (Newsletter)** | Send to all or part of the opt-in base: volume and awareness | Variable | ~1.9% on 200,000 contacts |
+| **Post-Purchase** | Automated email just after an order, customer actively waiting | > 50% | High |
+| **Welcome Pack** | Added to the welcome sequence for new subscribers | High | Strong engagement |
 
----
-
-## The 3 activation scenarios
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📢 Blast (Newsletter)</strong>
-    <p>Mass sending to all or part of the brand's opt-in base. Ideal for awareness and volume.</p>
-    <p><Badge type="tip" text="Volume" /> <Badge type="tip" text="Awareness" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛍️ Post-Purchase</strong>
-    <p>Automated email sent just after an order. The customer is actively waiting: open rate <strong>> 50%</strong>.</p>
-    <p><Badge type="info" text="Hot Prospect" /> <Badge type="info" text="Max open rate" /></p>
-  </div>
-  <div class="gi-value-card">
-    <strong>👋 Welcome Pack</strong>
-    <p>Integration into the welcome sequence for the partner's new subscribers. First contact in a moment of high attention.</p>
-    <p><Badge type="warning" text="Engagement" /> <Badge type="warning" text="Acquisition" /></p>
-  </div>
-</div>
-
----
-
-## 3-step Workflow
+## 3-step workflow
 
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3><a href="./1-brief">The Campaign Brief</a></h3>
+    <h3><a href="./1-brief">The campaign brief</a></h3>
     <p>You define the offer and provide the assets (visuals, wording, links) via an online form.</p>
   </div>
 </div>
@@ -59,8 +45,8 @@ Result: better open rates, increased trust, and significantly higher responsiven
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3><a href="./2-creation">Email creation and co-branding</a></h3>
-    <p>The brand delivering your campaign designs the email within its brand guidelines, integrating your assets to maximize the recommendation effect.</p>
+    <h3><a href="./2-creation">Creation and co-branding</a></h3>
+    <p>The brand delivering your campaign designs the email within its brand guidelines, using your assets.</p>
   </div>
 </div>
 
@@ -68,7 +54,7 @@ Result: better open rates, increased trust, and significantly higher responsiven
   <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
     <h3><a href="./3-validation-diffusion">Validation & Broadcast</a></h3>
-    <p>You validate the Proof (BAT) on the platform. Once both validations are confirmed, the sending is scheduled.</p>
+    <p>You validate the proof (BAT) on the platform. Once both validations are confirmed, the send is scheduled.</p>
   </div>
 </div>
 
@@ -76,53 +62,20 @@ Result: better open rates, increased trust, and significantly higher responsiven
 Before sending, provide the addresses to exclude (GDPR opt-outs, existing customers): see the [exclusion list](./exclusion-list).
 :::
 
-::: tip Do you deliver other brands' campaigns to your customers?
-See the [dedicated email guide on the Monetize side](/en/monetize/dedicated-email/).
-:::
+## Targeting
 
----
+Targeting relies on the **first party data** of the brand's buyers.
 
-## Performance
-
-| Scenario | Open rate | Interaction (CTR) |
-| :--- | :--- | :--- |
-| **Post-Purchase** | > 50% | High |
-| **Blast (Newsletter)** | Variable | ~1.9% on 200,000 contacts |
-| **Welcome Pack** | High | Strong engagement |
-
-:::tip Field Example
-Japhy achieved **1.90% interaction** on a send to 200,000 contacts via Blast. HelloFresh x Berceau Magique captured young parents via a targeted offer. Les Petits Frères des Pauvres generated donations via a Mieux que des Fleurs partnership.
-:::
-
----
-
-## Targeting & Audiences
-
-Targeting relies on the actual **First Party data** of the brand's buyers.
-
-| Criterion | Available options |
+| Criterion | Options |
 | :--- | :--- |
 | **Product universe** | Beauty, Food, Tech, Home, Sport, Fashion... |
 | **Average Order Value (AOV)** | High-end, Mass Market, Discounter |
-| **Buyer profile** | B2C (individuals) or B2B (professionals) |
+| **Buyer profile** | B2C or B2B |
 | **Geography** | France, Belgium, Spain, Germany... |
 | **Fine segmentation** | Recent active buyers, women, resend to non-openers |
 
----
-
-## Why go through getinside?
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>💎 Premium inventory</strong>
-    <p>Partner brands with qualified opt-in bases, inaccessible on traditional affiliate platforms.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🎯 Contextual targeting</strong>
-    <p>Associate your image with an affinitive brand. The brand's recommendation boosts responsiveness vs. cold emailing.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🛡️ Security and tracking</strong>
-    <p>Secured funds, verified deliverability, dynamic tracked links (editable even after sending): getinside handles everything.</p>
-  </div>
-</div>
+::: details Why go through getinside?
+- Qualified opt-in bases, inaccessible on traditional affiliate platforms.
+- Secured funds and verified deliverability.
+- Dynamic tracked links, editable even after sending.
+:::
