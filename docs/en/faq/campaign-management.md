@@ -12,71 +12,62 @@ keywords:
 
 # Campaign Management
 
-::: details What is the expected response time?
-You must respond within **48 working hours**. Your responsiveness wins campaigns against the other brands in the running. Past this deadline, getinside reserves the right to refuse the campaign on your behalf and apply a contractual penalty.
+::: tip In short
+- Reply within 48 business hours, or getinside may decline the campaign on your behalf (contractual penalty).
+- Cancelling an accepted campaign is strongly discouraged: penalties and costs incurred are charged to you.
+- Never hand your customer addresses to a brand whose campaign you deliver.
 :::
 
-::: details Can I cancel an already accepted campaign?
-Cancellation is highly discouraged. Except in cases of force majeure, penalties apply:
-
-- Contractual penalty
-- \+ Reimbursement of production costs (if printed) and studio costs incurred
+::: details What response time is expected?
+**48 business hours.** After that, getinside may decline the campaign on your behalf and apply a contractual penalty.
 :::
 
-::: details Can I refuse to insert a received flyer?
-Yes. Check the merchandise upon receipt. If the materials are damaged or do not comply with the validated proof (e.g., competing brand not reported), immediately contact [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) and suspend the insertion pending instructions.
+::: details Can I cancel a campaign I have already accepted?
+Strongly discouraged. Except in cases of force majeure: contractual penalty, plus reimbursement of production costs (if printed) and studio costs incurred.
+:::
+
+::: details Can I refuse to insert a flyer I received?
+Yes, if it is damaged or does not match the approved proof (e.g. an unreported competing brand). Suspend insertion and contact [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout).
 :::
 
 ::: details The campaign is starting late: what should I do?
-If you haven't distributed anything over a planned week:
+If you distributed nothing during a scheduled week:
 
-1. Enter **"0"** in the weekly reporting.
-2. Notify the brand whose campaign you deliver via messaging.
+1. Enter **"0"** in that week's report.
+2. Tell the brand whose campaign you deliver via messaging.
 
-The platform will automatically extend the campaign at the end of the period to reach the target volume.
+The platform automatically extends the campaign to reach the target volume.
 :::
 
-::: details How to add a new type of offer?
-Go to the relevant audience profile and add a campaign type. For a custom offer (outside the standard catalog), select **"Other campaign type"**: the getinside team will validate the feasibility with you.
+::: details How do I add a new offer type?
+On the audience page, add a campaign type. For an offer outside the catalog, choose **"Other campaign type"**: getinside will validate feasibility with you.
 :::
 
-::: details Where to see my campaign history?
-- **Campaigns you deliver (when you monetize):** Monetization → Campaign manager (filter by status: Accepted, Refused...)
-- **Your own campaigns (when you recruit):** Campaigns → All campaigns
+::: details Where can I see my campaign history?
+- **Campaigns you deliver (Monetize):** Monetization → Campaign manager.
+- **Your own campaigns (Recruit):** Campaigns → All campaigns.
 :::
 
-::: details How to track the performance of my campaign?
-You have dual tracking on your getinside dashboard:
+::: details How do I track my campaign performance?
+On your dashboard:
 
-1. **Performance (ROI):** Scans of your QR codes in real-time.
-2. **Distribution:** Volumes of inserted flyers updated every beginning of the week by the brand delivering your campaign.
+- **Performance:** QR code scans in real time.
+- **Distribution:** volumes of flyers inserted, updated at the start of each week by the delivering brand.
 :::
 
-::: details A brand delivering my campaign refuses my visual: what should I do?
-This brand has a **veto right over the promoted brand** (direct competitor, ethically incompatible category), but not over the art direction.
+::: details A brand delivering my campaign rejects my visual: what should I do?
+It has a **veto right over the promoted brand** (direct competitor, incompatible category), not over the artistic direction. A visual that meets the specifications (2 mm bleed, 3 mm quiet zone, 300 DPI, legal notices) cannot be refused on grounds of taste.
 
-If your visual meets the technical specifications (2mm bleed, 3mm quiet zone, 300 DPI resolution, legal mentions present), it is compliant. It cannot reject it for subjective reasons of taste or style.
-
-**Procedure:**
-1. Check that your file respects the [print specifications](/en/recruit/sponsored-mail/design-guide/print-specs).
-2. If everything is compliant, send your proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout) for official validation.
-3. The getinside validation takes precedence over the subjective appreciation of the brand delivering the campaign.
+1. Check the [print specifications](/en/recruit/sponsored-mail/design-guide/print-specs).
+2. If everything complies, send the proof to [studio@getinside.fr](https://lp.getinside.fr/meetings/benoit-prentout): getinside validation prevails.
 :::
 
-::: details A brand whose campaign I deliver asks for the addresses of my customers: can I give them?
-**No, under no circumstances.** This request is contrary to GDPR and our Terms of Service.
-
-Your customer data is a **First Party** asset that belongs exclusively to you. getinside operates as a **Trusted Third Party**: that brand accesses your audience without ever receiving the file. No database transfer is allowed without specific opt-in from each customer.
-
-In case of an insistent request, contact [support@getinside.fr](mailto:support@getinside.fr). Our team handles the legal response.
+::: details A brand whose campaign I deliver asks for my customers' addresses: can I give them?
+**No, under no circumstances**: it breaches GDPR and the Terms of Use. Your customer data is a First Party asset. getinside acts as a Trusted Third Party: the brand reaches your audience without receiving the file. If they insist, contact [support@getinside.fr](mailto:support@getinside.fr), which handles the legal response.
 :::
 
----
-
-## Best practices: messaging
-
-The getinside messaging tool is your direct channel with the brands whose campaigns you deliver.
-
-- **Responsiveness:** reply quickly, even to decline. A responsive brand earns its partners' trust for future proposals.
-- **Logistics precision:** if you report a delay, be specific. Write "We have an unexpected activity peak, distribution will start next Tuesday instead of Monday" rather than "We're running late."
-- **Partnership mindset:** send a welcome message when you receive the flyers to confirm that everything is compliant and that distribution is starting.
+::: details Messaging best practices
+- **Responsiveness:** reply quickly, even to decline.
+- **Precision:** for a delay, give a date ("distribution will start Tuesday instead of Monday").
+- **Partnership:** confirm receipt of the flyers with a welcome message.
+:::
