@@ -14,89 +14,50 @@ keywords:
 
 Your campaign revenue builds up in your Wallet as distributions happen. Track it in real time, then decide when to withdraw or reinvest it.
 
-## P&L Tracking (Wallet)
-
-::: tip
-Your revenue is visible in real-time on the platform.
-
-Check your **Available Balance** at any time = *(Validated revenue) - (Made withdrawals)*.
+::: tip In short
+- Revenue becomes available 30 days after you confirm distribution, if there is no anomaly.
+- Withdrawals are paid 30 days end of month, on a compliant invoice, with no minimum.
+- With no login or withdrawal for 12 consecutive months, funds expire.
 :::
 
-### When does my revenue become available?
+## When is my revenue available?
 
-::: info
-**📅 Validation timeline**
+**Available balance** = *(validated revenue) - (withdrawals made)*, visible in real time.
 
-1. **Distributed campaign:** The day you confirm distribution (batch shipped, volumes declared).
-2. **Buffer period (30 days):** Your revenue remains *pending* for 30 days → allows detecting anomalies (lost boxes, interrupted campaign).
-3. **✅ Validated revenue:** After 30 days without incident, the amount moves to *Available Balance* and can be withdrawn.
+1. **Campaign distributed:** the day you confirm distribution (batch shipped, volumes declared).
+2. **Buffer period (30 days):** the revenue stays *pending* while anomalies are detected (lost boxes, interrupted campaign).
+3. **Validated revenue:** with no incident, it moves to available balance.
+
+::: warning Anomaly during the 30 days
+We contact you to resolve it. The delay can be extended until settlement.
 :::
 
-::: tip Normal case (no problem)
-Day 1: Distribution confirmed → Day 31: Revenue becomes available → You can withdraw.
-:::
+## Crediting your Wallet
 
-::: warning Anomaly detected during the 30 days
-E.g., lost boxes, blocked campaign → We contact you to resolve. The delay can be extended until settlement.
-:::
-
-## Withdrawal Policy
-
-We encourage pooling payments to limit administrative friction.
-
-### Payment Delays
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>📄 Prerequisites</strong>
-    <p>Submit your <strong>compliant invoice</strong> with the withdrawal request. Without a valid invoice, the payment cannot be processed.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>🏦 Payment Delay</strong>
-    <p><strong>30 days end of month</strong> after validation of your request.<br>E.g., request validated in March → payment before end of April.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>💰 Minimum Amount</strong>
-    <p><strong>No set minimum.</strong> Withdraw as soon as you have an available balance.</p>
-  </div>
-</div>
-
-### Required actions to credit your Wallet
-
-::: warning Your revenue is not credited automatically
-The Wallet balance is only updated **after a manual action on your part** depending on the format:
-:::
+The balance is only updated **after a manual action** on your part.
 
 | Format | Required action | Where on the platform |
 |--------|---------------|----------------------|
-| 📦 Parcel Insert | Declare volumes every **Monday or Tuesday** | My Campaigns → campaign → Declare volume |
-| 📧 Emailing (Dedicated or Display) | Click on **"Validate broadcast"** after sending | My Campaigns → campaign → Validate broadcast |
+| Parcel Insert | Declare volumes every **Monday or Tuesday** | My Campaigns → campaign → Declare volume |
+| Emailing (Dedicated or Display) | Click **"Validate broadcast"** after sending | My Campaigns → campaign → Validate broadcast |
 
-## Two ways to use your balance
+## Withdraw or reinvest
 
 <div class="gi-value-grid">
   <div class="gi-value-card">
-    <strong>Option A: The "Rollover"</strong>
-    <p>Let your revenue accumulate in your pot and pool your withdrawals: fewer steps, fewer small transfers.</p>
+    <strong>Option A: rollover</strong>
+    <p>Let the balance accumulate and pool your withdrawals.</p>
   </div>
   <div class="gi-value-card">
-    <strong>Option B: Reinvestment</strong>
-    <p>Use your balance to finance your own campaigns (Parcel Insert, Emailing or Direct Mail). 1€ earned = 1€ reinvested in traffic, without banking friction.</p>
+    <strong>Option B: reinvestment</strong>
+    <p>Fund your own campaigns (Parcel Insert, Emailing or Direct Mail): €1 earned = €1 reinvested.</p>
   </div>
 </div>
 
-::: info
-**💡 Why a payment delay?**
+**Withdrawal:** on a compliant invoice, paid 30 days end of month after your request is validated (validated in March: payment before end of April). No minimum.
 
-This cash flow delay secures funds in case of a brand defaulting, guaranteeing you get paid even if the brand whose campaign you deliver is late.
-:::
-
-## ⚠️ Fund expiration rule
-
-::: danger Funds expire after 12 months of inactivity
-If you do not log in **AND** do not withdraw your revenue for **12 consecutive months**, the available funds expire and are definitively acquired by getinside.
-
-**How to avoid this:** log in regularly, or enable balance notifications on your account space.
+::: danger Expiry after 12 months of inactivity
+If you do not log in **and** do not withdraw anything for **12 consecutive months**, the available funds expire and are acquired by getinside. Enable balance notifications.
 :::
 
 ## How to make a withdrawal?
@@ -104,47 +65,31 @@ If you do not log in **AND** do not withdraw your revenue for **12 consecutive m
 <div class="gi-step">
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
-    <h3>Check your available balance</h3>
-    <p>Log in to <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a> and open the <strong>Payments</strong> menu. Only the amount shown under "Revenue to transfer to the wallet or to withdraw" can be withdrawn.</p>
+    <h3>Check your balance and enter the amount</h3>
+    <p>On <a href="https://app.getinside.media/" target="_blank">app.getinside.media</a>, open the <strong>Payments</strong> menu. Only the amount shown under "Revenue to transfer to the wallet or to withdraw" can be withdrawn. Click <strong>Withdraw</strong> and enter the amount.</p>
   </div>
 </div>
 
 <div class="gi-step">
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
-    <h3>Enter the amount</h3>
-    <p>Click <strong>Withdraw</strong> and enter the desired amount.</p>
+    <h3>Issue your invoice</h3>
+    <p>Use the getinside details shown on screen (company, address, SIRET, VAT, reference, amounts excl. and incl. tax).</p>
   </div>
 </div>
 
 <div class="gi-step">
-  <div class="gi-step-num">3</div>
+  <div class="gi-step-num done">3</div>
   <div class="gi-step-body">
-    <h3>Submit your invoice</h3>
-    <p>Issue your invoice using the getinside details shown on screen (company, address, SIRET, VAT, reference, amount excl. and incl. tax). Only compliant invoices are processed.</p>
+    <h3>Upload invoice and bank details</h3>
+    <p>Upload the invoice (PDF) and your bank details (RIB), tick the certification box, then click <strong>Confirm</strong>. The request appears in Payments, <strong>Exchange</strong> tab, with a confirmation email.</p>
   </div>
 </div>
-
-<div class="gi-step">
-  <div class="gi-step-num done">4</div>
-  <div class="gi-step-body">
-    <h3>Upload your bank details</h3>
-    <p>Upload your invoice (PDF) and your bank details (RIB). Tick the certification box and click <strong>Confirm</strong>. The request appears in Payments, <strong>Exchange</strong> tab, and you receive a confirmation email.</p>
-  </div>
-</div>
-
-**Delay:** 30 days end of month after validation of your request and receipt of your compliant invoice.
 
 ::: info Campaign cancellation
 A campaign cancelled after commitment may incur a penalty. Only confirm campaigns you can fulfill.
 :::
 
-## In case of problem
+Unexpected balance or a delayed withdrawal? See [Wallet & Payments Troubleshooting](/en/faq/troubleshooting-monetize).
 
-Your balance does not match your expectations? A withdrawal is delayed?
-
-→ Consult the [Wallet & Payments Troubleshooting](/en/faq/troubleshooting-monetize) guide for common cases and their solutions.
-
----
-
-**Next step:** Polish your [audience profile](/en/monetize/audience-setup): the more complete and precise it is, the more relevant your campaign proposals.
+**Next step:** polish your [audience profile](/en/monetize/audience-setup) for more relevant campaign proposals.
