@@ -34,3 +34,7 @@
 .VPSidebarItem.is-active > .item > .indicator { width: 3px; }
 .VPSidebarItem.is-active > .item > .text,
 .VPSidebarItem.is-active > .item > .link > .text { color: var(--color-ink) !important; font-weight: 700 !important; }
+
+/* Pied de page : VitePress réutilise le texte de la sidebar pour précédent/suivant, sans la décoration */
+.pager-link .title > .gi-dot,
+.pager-link .title > .gi-nav-ico { display: none; }
