@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
 import { computed } from 'vue'
+import GiPelican from './GiPelican.vue'
 
 const { lang, site } = useData()
 
@@ -29,7 +30,7 @@ const content = computed(() => {
 <template>
   <div class="not-found">
     <div class="content">
-      <div class="icon">🔍</div>
+      <GiPelican name="pelican-salut-hd" :alt="isEn ? 'The getinside pelican waving' : 'Le pélican getinside qui salue'" :size="180" />
       <h1>{{ content.title }}</h1>
       <p class="tagline">{{ content.tagline }}</p>
       
@@ -64,18 +65,13 @@ const content = computed(() => {
   max-width: 600px;
 }
 
-.icon {
-  font-size: 64px;
-  margin-bottom: 24px;
-}
-
 h1 {
   font-size: 32px;
   font-weight: 800;
   line-height: 1.2;
   text-wrap: balance;
   margin-bottom: 16px;
-  color: var(--vp-c-text-1);
+  color: var(--color-ink);
 }
 
 .tagline {
@@ -111,10 +107,6 @@ h1 {
   position: relative;
   border-radius: 4px;
   transform: rotate(-5deg);
-}
-
-.dark .box {
-  background: #a68a64;
 }
 
 .tape {
