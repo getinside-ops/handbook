@@ -21,6 +21,21 @@ image: /images/gi-keyvisual.svg
 - Overview of use cases and key figures: [Discover getinside](/en/start-here/).
 :::
 
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>€1.21</strong>
+    <p>Best CAC in recruitment.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>6%</strong>
+    <p>Best CVR in retention.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>€215K+</strong>
+    <p>Best revenue per year in monetization.</p>
+  </div>
+</div>
+
 | Actor | Action |
 | :--- | :--- |
 | **Brand that monetizes** | Sends parcels and mail to its customers and delivers campaigns in them |

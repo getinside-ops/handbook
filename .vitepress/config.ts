@@ -112,7 +112,7 @@ const config: any = defineConfig({
             { text: icon('mail-open') + ' Retain', link: '/en/retain/' },
             { text: icon('package') + ' Monetize', link: '/en/monetize/' },
             { text: icon('circle-help') + ' FAQ', link: '/en/faq/' },
-            { text: 'Access SaaS', link: 'https://app.getinside.media/', target: '_blank' },
+            { text: 'Access the solution', link: 'https://app.getinside.media/', target: '_blank' },
           ],
         },
       },
@@ -246,7 +246,7 @@ const config: any = defineConfig({
         { text: icon('mail-open') + ' Fidéliser', link: '/retain/' },
         { text: icon('package') + ' Monétiser', link: '/monetize/' },
         { text: icon('circle-help') + ' FAQ', link: '/faq/' },
-        { text: 'Accéder au SaaS', link: 'https://app.getinside.media/', target: '_blank' },
+        { text: 'Accéder à la solution', link: 'https://app.getinside.media/', target: '_blank' },
       ],
       sidebar: buildSidebar(icon),
 
