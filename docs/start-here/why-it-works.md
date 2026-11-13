@@ -21,6 +21,21 @@ image: /images/gi-keyvisual.svg
 - Vue d'ensemble des usages et des chiffres clés : [Découvrir getinside](/start-here/).
 :::
 
+<div class="gi-value-grid">
+  <div class="gi-value-card">
+    <strong>1,21 €</strong>
+    <p>Top CAC en recrutement.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>6 %</strong>
+    <p>Top CVR en fidélisation.</p>
+  </div>
+  <div class="gi-value-card">
+    <strong>+215 K€</strong>
+    <p>Top revenus par an en monétisation.</p>
+  </div>
+</div>
+
 | Acteur | Action |
 | :--- | :--- |
 | **Marque qui monétise** | Envoie des colis et du courrier à ses clients et y diffuse des campagnes |

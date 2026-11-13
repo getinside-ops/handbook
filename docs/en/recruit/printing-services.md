@@ -20,6 +20,10 @@ getinside acts as a **central purchasing office**: pooled volumes, lower costs, 
 - Manual assembly entrusted to Adapted Enterprises.
 :::
 
+:::info Need more than a printer?
+The [getinside agency](https://www.getinside.fr/agence){target="_blank"} supports you beyond printing: a dedicated contact, the Studio to design your materials, and advice to optimize your campaigns.
+:::
+
 ## Certified quality
 
 - **Made in France:** 100% of production in French workshops.
