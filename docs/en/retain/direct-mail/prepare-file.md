@@ -32,7 +32,7 @@ The unique operation code, provided when your campaign starts, links the file to
 
 ## Step 1: select your churners
 
-A churner no longer opens your emails and no longer buys. Combine two criteria:
+A [churner](/en/glossary#churner) no longer opens your emails and no longer buys. Combine two criteria:
 
 1. **Email inactivity:** no open or click across several consecutive sends (data from your email tool).
 2. **No purchase:** no purchase for longer than your usual time between two purchases (online store or CRM).
@@ -41,12 +41,13 @@ If the data sits in two tools, match the exports on the email address. Adapt the
 
 **To leave out:** customers who bought recently, people who objected to postal marketing (see [Compliance](/en/retain/direct-mail/#compliance)) and incomplete addresses.
 
-**Control group.** Before exporting, set aside a random sample of churners who will not receive the mailing, then compare the purchases of the two groups.
+**[Control group](/en/glossary#control-group).** Before exporting, set aside a random sample of churners who will not receive the mailing, then compare the purchases of the two groups.
 
 ## Step 2: export from your tool
 
 No automatic connection yet: you export a file. Vendor help pages, in English.
 
+:::details Export help by tool
 - **Klaviyo:** Segment of inactive profiles, CSV export with the address properties ([help](https://help.klaviyo.com/hc/en-us/articles/115005078687)).
 - **Shopify:** Segment on last order date, export the customers (check the address columns) ([help](https://help.shopify.com/en/manual/customers/import-export-customers)).
 - **HubSpot:** Filter on last engagement, export the view with the address properties ([help](https://knowledge.hubspot.com/import-and-export/export-records)).
@@ -54,6 +55,7 @@ No automatic connection yet: you export a file. Vendor help pages, in English.
 - **Mailchimp:** "Has not opened" segment combined with "was sent", CSV export ([help](https://mailchimp.com/help/view-export-contacts/)).
 - **WooCommerce:** Customers report as CSV, filter on last order in your spreadsheet ([help](https://woocommerce.com/document/woocommerce-analytics/customers-report/)).
 - **Adobe Commerce:** Export "Customers Main File" (System, Data Transfer), filter in your spreadsheet ([help](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-export)).
+:::
 
 Another tool? Search for "export a segment" in its help. If the postal address is missing from your email tool, complete it with the customer export from your store.
 

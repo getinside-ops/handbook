@@ -1,6 +1,6 @@
 ---
 title: Retain - Win Back Your Customers with Direct Mail
-description: "Retain your customers with getinside: addressed direct mail to those who no longer open your emails, and a dedicated offer in every parcel delivered. Top conversion rate recorded: 6%."
+description: "Retain your customers with getinside: addressed direct mail to those who no longer open your emails, and a dedicated offer in every parcel delivered."
 keywords:
   - customer retention
   - direct mail
@@ -14,7 +14,7 @@ image: /images/gi-keyvisual.svg
 # Retain
 
 ::: tip In short
-- A named piece of direct mail reaches the customers who no longer open your emails. Best observed CVR: 6%.
+- A named piece of direct mail reaches the customers who no longer open your emails.
 - Two levers: direct mail, and a dedicated offer in every parcel you deliver.
 - You choose the audience and the channel, then set up the campaign or hand it over to our team.
 :::
@@ -36,7 +36,7 @@ image: /images/gi-keyvisual.svg
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Direct mail</strong>
-    <p>A printed piece addressed to your customers who are inactive by email. Top conversion rate recorded: 6%.</p>
+    <p>A printed piece addressed to your customers who are inactive by email.</p>
   </div>
   <div class="gi-value-card">
     <strong>Offer in the parcel</strong>

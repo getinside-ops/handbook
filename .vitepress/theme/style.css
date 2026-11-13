@@ -539,19 +539,16 @@
   text-align: right;
 }
 
-.gi-step-num.done {
-  color: var(--gi-tint-green-text);
-}
-
 .gi-step-body {
   flex: 1;
   min-width: 0;
 }
 
 .gi-step-body>h3:first-child {
-  margin: 0 0 0.4rem !important;
+  margin: 0 0 0.25rem !important;
   padding-top: 0 !important;
   font-size: 0.9375rem !important;
+  line-height: 2rem !important; /* même axe que la pastille de 2rem */
 }
 
 .gi-step-body .header-anchor {

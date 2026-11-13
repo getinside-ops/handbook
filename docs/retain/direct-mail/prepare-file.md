@@ -32,7 +32,7 @@ Le code opération unique, fourni au lancement de la campagne, rattache le fichi
 
 ## Étape 1 : isoler vos churners
 
-Un churner n'ouvre plus vos e-mails et n'achète plus. Croisez deux critères :
+Un [churner](/glossary#churner) n'ouvre plus vos e-mails et n'achète plus. Croisez deux critères :
 
 1. **Inactivité e-mail :** aucune ouverture ni clic sur plusieurs envois consécutifs (données de votre outil d'e-mailing).
 2. **Absence d'achat :** aucun achat depuis plus longtemps que votre délai habituel entre deux achats (boutique en ligne ou CRM).
@@ -41,12 +41,13 @@ Si les données sont dans deux outils, croisez les exports sur l'adresse e-mail.
 
 **À exclure :** les clients qui ont acheté récemment, les personnes opposées à la prospection par courrier (voir [Conformité](/retain/direct-mail/#conformite)) et les adresses incomplètes.
 
-**Groupe témoin.** Avant l'export, mettez de côté un échantillon aléatoire de churners qui ne recevra pas le courrier, puis comparez les achats des deux groupes.
+**[Groupe témoin](/glossary#groupe-temoin).** Avant l'export, mettez de côté un échantillon aléatoire de churners qui ne recevra pas le courrier, puis comparez les achats des deux groupes.
 
 ## Étape 2 : exporter depuis votre outil
 
 Pas de connexion automatique pour l'instant : vous exportez un fichier. Aides des éditeurs, en anglais.
 
+:::details Aide à l'export par outil
 - **Klaviyo :** Segment de profils inactifs, export CSV avec les propriétés d'adresse ([aide](https://help.klaviyo.com/hc/en-us/articles/115005078687)).
 - **Shopify :** Segment sur la date de dernière commande, export des clients (vérifiez les colonnes d'adresse) ([aide](https://help.shopify.com/en/manual/customers/import-export-customers)).
 - **HubSpot :** Filtre sur la dernière interaction, export de la vue avec les propriétés d'adresse ([aide](https://knowledge.hubspot.com/import-and-export/export-records)).
@@ -54,6 +55,7 @@ Pas de connexion automatique pour l'instant : vous exportez un fichier. Aides de
 - **Mailchimp :** Segment « n'a pas ouvert » combiné à « a reçu », export CSV ([aide](https://mailchimp.com/help/view-export-contacts/)).
 - **WooCommerce :** Rapport Clients en CSV, filtre sur la dernière commande dans votre tableur ([aide](https://woocommerce.com/document/woocommerce-analytics/customers-report/)).
 - **Adobe Commerce :** Export « Customers Main File » (System, Data Transfer), filtre dans votre tableur ([aide](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-export)).
+:::
 
 Autre outil ? Cherchez « exporter un segment » dans son aide. Si l'adresse postale manque dans votre outil d'e-mailing, complétez avec l'export clients de votre boutique.
 

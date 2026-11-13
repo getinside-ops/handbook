@@ -33,7 +33,7 @@
   border: 2px solid var(--color-ink) !important; border-radius: var(--radius-full) !important; font-weight: 600;
   width: 2rem; height: 2rem; display: flex; align-items: center; justify-content: center; text-align: center; line-height: 1;
 }
-.gi-step-num.done { background: transparent !important; border: 0 !important; width: 1.5rem; justify-content: flex-end; }
+.gi-step-num { flex-shrink: 0; }
 
 /* Cartes de valeur = InfoCard */
 .gi-value-card {

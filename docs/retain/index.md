@@ -1,6 +1,6 @@
 ---
 title: Fidéliser - Retrouvez vos clients par le courrier adressé
-description: "Fidélisez vos clients avec getinside : courrier adressé à ceux qui n'ouvrent plus vos e-mails et offre dédiée dans chaque colis livré. Top CVR constaté : 6 %."
+description: "Fidélisez vos clients avec getinside : courrier adressé à ceux qui n'ouvrent plus vos e-mails et offre dédiée dans chaque colis livré."
 keywords:
   - fidéliser des clients
   - courrier adressé
@@ -14,7 +14,7 @@ image: /images/gi-keyvisual.svg
 # Fidéliser
 
 ::: tip En bref
-- Un courrier adressé nommément atteint les clients qui n'ouvrent plus vos e-mails. Top CVR constaté : 6 %.
+- Un courrier adressé nommément atteint les clients qui n'ouvrent plus vos e-mails.
 - Deux leviers : le courrier adressé, et une offre dédiée dans chaque colis livré.
 - Vous choisissez l'audience et le canal, puis configurez la campagne ou la confiez à notre équipe.
 :::
@@ -36,7 +36,7 @@ image: /images/gi-keyvisual.svg
 <div class="gi-value-grid">
   <div class="gi-value-card">
     <strong>Courrier adressé</strong>
-    <p>Un support imprimé adressé à vos clients inactifs par e-mail. Top CVR constaté : 6 %.</p>
+    <p>Un support imprimé adressé à vos clients inactifs par e-mail.</p>
   </div>
   <div class="gi-value-card">
     <strong>Offre dans le colis</strong>

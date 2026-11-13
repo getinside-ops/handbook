@@ -21,7 +21,7 @@ image: /images/gi-keyvisual.svg
 
 ## Hand the creative to the studio
 
-Send a brief: the offer, the promo code, the target and your brand elements (logo, colors, fonts). The studio produces the visuals, sets up the fields, prepares the proof for each version and configures the mailing template, linked to your file through a unique operation code. Write to [studio@getinside.fr](mailto:studio@getinside.fr).
+The studio is getinside's creative team. Send it a brief: the offer, the promo code, the target and your brand elements (logo, colors, fonts). The studio produces the visuals, sets up the fields, prepares the proof for each version and configures the mailing template, linked to your file through a unique operation code (the identifier of your campaign). Write to [studio@getinside.fr](mailto:studio@getinside.fr).
 
 ## Create it yourself
 
@@ -61,10 +61,10 @@ Each personalized element of the visual matches a column in your file.
 ### Unique QR code and promo code
 
 - **Unique QR code:** one QR code per recipient. getinside creates the list of unique URLs, you do not generate the QR codes.
-- **Unique promo code:** you create one code per recipient in your store or CRM (many tools do it in bulk), then add them to the file in a dedicated column before sending it. getinside does not generate them.
+- **Unique promo code:** a different discount code for each recipient. You create one code per recipient in your store or CRM (many tools do it in bulk), then add them to the file in a dedicated column before sending it. getinside does not generate them.
 
 ### Approve the proof
 
-Check the proof on real rows from your file: address, first name, promo code. Scan the QR code and check the page that opens.
+Check the [proof](/en/glossary#bat) (the final mockup) on real rows from your file: address, first name, promo code. Scan the QR code and check the page that opens.
 
 **Back:** [prepare your file](/en/retain/direct-mail/prepare-file) or the [Direct mail](/en/retain/direct-mail/) page.
