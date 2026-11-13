@@ -39,7 +39,7 @@ Une base clients établie, avec des relances e-mail en place, et un fichier d'au
   <div class="gi-step-num">2</div>
   <div class="gi-step-body">
     <h3>Préparez votre fichier</h3>
-    <p>Exportez, contrôlez, puis déposez le fichier sur le lien sécurisé transmis. Nous nettoyons ensuite les adresses. Suivez le <a href="/handbook/retain/direct-mail/prepare-file">guide fichier</a>.</p>
+    <p>Exportez, contrôlez, puis déposez le fichier sur le lien sécurisé transmis. Suivez le <a href="/handbook/retain/direct-mail/prepare-file">guide fichier</a>.</p>
   </div>
 </div>
 

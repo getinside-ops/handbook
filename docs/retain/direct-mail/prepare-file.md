@@ -74,7 +74,7 @@ Chaque fichier est nettoyé : mise aux normes postales, détection des doublons 
 
 Le fichier contient des données personnelles : ne l'envoyez jamais en pièce jointe d'un e-mail non protégé.
 
-1. getinside vous transmet le lien d'une interface web sécurisée et le nom du fichier (votre code opération).
+1. getinside fournit une URL de dépôt sécurisé et le nom du fichier à utiliser. Le fichier déposé doit porter exactement ce nom, sinon il ne sera pas pris en compte.
 2. Déposez votre base depuis cette interface. Une fois déposé, le fichier n'est ni consultable ni téléchargeable, y compris par getinside.
 3. Il est supprimé après la production, généralement 48 heures à 15 jours après le dépôt.
 
