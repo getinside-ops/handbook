@@ -10,103 +10,51 @@ const OUT = resolve(__dirname, '../assets/images/og-image.png');
 const logoSvg = readFileSync(resolve(__dirname, '../assets/images/logo-getinside.svg'), 'utf-8');
 const logoDataUri = `data:image/svg+xml;base64,${Buffer.from(logoSvg).toString('base64')}`;
 
+const b64 = (f, mime) => `data:${mime};base64,${readFileSync(resolve(__dirname, f)).toString('base64')}`;
+const bricolage = b64('../assets/fonts/BricolageGrotesque-latin.woff2', 'font/woff2');
+const serif = b64('../assets/fonts/SourceSerif4-Italic-latin.woff2', 'font/woff2');
+const pelican = b64('../assets/images/ds/pelican-salut-hd.webp', 'image/webp');
+
+// Design system getinside : grège, encre, jaune en aplat (jamais en texte), contour 2 px + ombre dure
 const html = `<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <style>
+  @font-face { font-family: 'Bricolage Grotesque'; src: url(${bricolage}) format('woff2'); font-weight: 200 800; }
+  @font-face { font-family: 'Source Serif 4'; src: url(${serif}) format('woff2'); font-style: italic; font-weight: 200 900; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  html, body { width: 1200px; height: 630px; overflow: hidden; background: #F7F6F3; }
-
+  html, body { width: 1200px; height: 630px; overflow: hidden; background: #f4f4f0; }
   .root {
-    position: relative;
-    width: 1200px;
-    height: 630px;
-    background: #F7F6F3;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 56px 96px;
-    overflow: hidden;
+    width: 1200px; height: 630px; background: #f4f4f0;
+    display: flex; justify-content: space-between; align-items: stretch;
+    padding: 64px 80px; font-family: 'Bricolage Grotesque', system-ui, sans-serif; color: #0c0c09;
   }
-
-  /* Right-edge mint accent bar */
-  .accent-bar {
-    position: absolute;
-    top: 0; right: 0;
-    width: 5px; height: 100%;
-    background: linear-gradient(180deg, #6AE7C8 0%, #0aaa8e 100%);
-  }
-
-  /* Subtle geometric wash on right side */
-  .wash {
-    position: absolute;
-    top: 0; right: 0;
-    width: 38%; height: 100%;
-    background: linear-gradient(135deg, rgba(10,170,142,0.06) 0%, rgba(106,231,200,0.02) 100%);
-    clip-path: polygon(60px 0, 100% 0, 100% 100%, 0 100%);
-  }
-
-  /* Decorative circles */
-  .circle-lg {
-    position: absolute;
-    bottom: -50px; right: 60px;
-    width: 220px; height: 220px;
-    border-radius: 50%;
-    border: 1.5px solid rgba(10,170,142,0.12);
-  }
-  .circle-sm {
-    position: absolute;
-    bottom: 20px; right: 150px;
-    width: 90px; height: 90px;
-    border-radius: 50%;
-    border: 1.5px solid rgba(10,170,142,0.09);
-  }
-
-  /* Logo */
+  .text { display: flex; flex-direction: column; justify-content: space-between; width: 620px; }
   .logo { display: block; width: 180px; }
-
-  /* Bottom text block */
-  .eyebrow {
-    font-family: system-ui, -apple-system, sans-serif;
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    color: #0aaa8e;
-    margin-bottom: 14px;
+  .eyebrow { font-size: 16px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 18px; }
+  .headline { font-size: 80px; font-weight: 800; line-height: 1; letter-spacing: -2px; }
+  .headline em { font-family: 'Source Serif 4', Georgia, serif; font-style: italic; font-weight: 600; letter-spacing: -1px; }
+  .subtitle { font-size: 24px; font-weight: 400; line-height: 1.35; color: #55554f; margin-top: 22px; }
+  .card {
+    width: 400px; align-self: center; height: 470px; background: #fcf758;
+    border: 2px solid #0c0c09; border-radius: 32px; box-shadow: 8px 8px 0 0 #0c0c09;
+    display: flex; align-items: center; justify-content: center;
   }
-  .headline {
-    font-family: system-ui, -apple-system, sans-serif;
-    font-size: 52px; /* larger than mockup — correct at full 1200px canvas */
-    font-weight: 800;
-    line-height: 1.05;
-    letter-spacing: -0.5px;
-    color: #1b1b1f;
-  }
-  .subtitle {
-    font-family: system-ui, -apple-system, sans-serif;
-    font-size: 18px;
-    font-weight: 400;
-    color: #555;
-    margin-top: 14px;
-  }
+  .card img { height: 400px; }
 </style>
 </head>
 <body>
 <div class="root">
-  <div class="accent-bar"></div>
-  <div class="wash"></div>
-  <div class="circle-lg"></div>
-  <div class="circle-sm"></div>
-
-  <img class="logo" src="${logoDataUri}" alt="getinside">
-
-  <div>
-    <div class="eyebrow">Handbook</div>
-    <div class="headline">Le marketing<br>qui touche.</div>
-    <div class="subtitle">Recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.</div>
+  <div class="text">
+    <img class="logo" src="${logoDataUri}" alt="getinside">
+    <div>
+      <div class="eyebrow">Handbook</div>
+      <div class="headline">Le marketing<br><em>qui touche.</em></div>
+      <div class="subtitle">Recruter, fidéliser et monétiser vos clients avec le colis et le courrier adressé.</div>
+    </div>
   </div>
+  <div class="card"><img src="${pelican}" alt=""></div>
 </div>
 </body>
 </html>`;
