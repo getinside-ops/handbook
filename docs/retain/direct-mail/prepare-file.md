@@ -47,6 +47,7 @@ Si les données sont dans deux outils, croisez les exports sur l'adresse e-mail.
 
 Pas de connexion automatique pour l'instant : vous exportez un fichier. Aides des éditeurs, en anglais.
 
+:::details Aide à l'export par outil
 - **Klaviyo :** Segment de profils inactifs, export CSV avec les propriétés d'adresse ([aide](https://help.klaviyo.com/hc/en-us/articles/115005078687)).
 - **Shopify :** Segment sur la date de dernière commande, export des clients (vérifiez les colonnes d'adresse) ([aide](https://help.shopify.com/en/manual/customers/import-export-customers)).
 - **HubSpot :** Filtre sur la dernière interaction, export de la vue avec les propriétés d'adresse ([aide](https://knowledge.hubspot.com/import-and-export/export-records)).
@@ -54,6 +55,7 @@ Pas de connexion automatique pour l'instant : vous exportez un fichier. Aides de
 - **Mailchimp :** Segment « n'a pas ouvert » combiné à « a reçu », export CSV ([aide](https://mailchimp.com/help/view-export-contacts/)).
 - **WooCommerce :** Rapport Clients en CSV, filtre sur la dernière commande dans votre tableur ([aide](https://woocommerce.com/document/woocommerce-analytics/customers-report/)).
 - **Adobe Commerce :** Export « Customers Main File » (System, Data Transfer), filtre dans votre tableur ([aide](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-export)).
+:::
 
 Autre outil ? Cherchez « exporter un segment » dans son aide. Si l'adresse postale manque dans votre outil d'e-mailing, complétez avec l'export clients de votre boutique.
 

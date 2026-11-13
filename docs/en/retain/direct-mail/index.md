@@ -19,25 +19,11 @@ A printed piece addressed to the customer by name, delivered to their mailbox. Y
 ::: tip In short
 - Target your [churners](/en/glossary#churner) (email-inactive customers) with a personalized mailing and a dedicated offer.
 - You supply the file, getinside cleans the addresses, prints and posts in 9 to 13 business days.
-- Observed result: **Best CVR 6%** for Retain.
 :::
-
-## Two retention levers
-
-<div class="gi-value-grid">
-  <div class="gi-value-card">
-    <strong>Reactivation by direct mail</strong>
-    <p>Target email-inactive customers in their mailbox, with a dedicated offer.</p>
-  </div>
-  <div class="gi-value-card">
-    <strong>Parcel upsell</strong>
-    <p>Insert a dedicated offer in every parcel shipped. See <a href="/handbook/en/recruit/sponsored-mail/">parcel inserts</a>.</p>
-  </div>
-</div>
 
 ## What you need
 
-An established customer base with email follow-ups in place, and a file of your churners with each customer's postal address. The [Prepare your file](/en/retain/direct-mail/prepare-file) guide explains how to select and export them.
+An established customer base with email follow-ups in place, and a file of at least 500 churners with each customer's postal address. The [Prepare your file](/en/retain/direct-mail/prepare-file) guide explains how to select and export them.
 
 ## How it works
 
@@ -45,7 +31,7 @@ An established customer base with email follow-ups in place, and a file of your 
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Target your churners</h3>
-    <p>Select the customers who no longer open your emails and no longer buy. Keep a small [control group](/en/glossary#control-group) to measure the real effect.</p>
+    <p>Select the customers who no longer open your emails and no longer buy. Keep a small <a href="/handbook/en/glossary#control-group">control group</a> to measure the real effect.</p>
   </div>
 </div>
 
@@ -61,7 +47,7 @@ An established customer base with email follow-ups in place, and a file of your 
   <div class="gi-step-num">3</div>
   <div class="gi-step-body">
     <h3>Design your mailing</h3>
-    <p>Our studio creates the visual from your brief, or follow the <a href="/handbook/en/retain/direct-mail/design-mailing">design guide</a>.</p>
+    <p>The getinside studio creates the visual from your brief (your offer, your target and your brand elements), or follow the <a href="/handbook/en/retain/direct-mail/design-mailing">design guide</a>.</p>
   </div>
 </div>
 
@@ -94,7 +80,7 @@ An established customer base with email follow-ups in place, and a file of your 
 - **Format:** A5 on 250 g paper, plain white envelope with no window, address printed on it. Postcard, envelope in your brand colors and other formats: on quote.
 - **Personalization:** first name, campaign-specific elements, and optionally a unique promo code and QR code per recipient.
 - **Production:** printing in France, FSC/PEFC-certified paper.
-- **Minimum volume:** 3,500 mailings per campaign, or per set of campaigns grouped in the same week.
+- **Minimum volume:** 500 mailings per campaign, or per set of campaigns grouped in the same week.
 
 ## Why getinside
 
@@ -122,13 +108,15 @@ You can also write to another brand's customers. That brand uploads its contacts
 
 ## Frequently asked questions
 
-::: details Why a white envelope and a 3,500 minimum?
-An identical envelope and finishing for every brand lets us group the week's campaigns. Printing costs drop sharply from 3,500 mailings.
+::: details Why a white envelope and a 500 minimum?
+Every mailing goes out in the same white envelope with the same finishing. This lets us group the campaigns of several brands into one printing week, which lowers the cost of each mailing. Hence the minimum of 500 mailings, per campaign or across all your campaigns of the same week. Another format or an envelope in your colors: on quote.
 :::
 
 ::: details What happens to undelivered mail?
 It comes back from a few days after upload, almost all of it about a month later. You receive a CSV with the recipient's identifier and the reason for non-delivery.
 :::
+
+To put a dedicated offer in every parcel shipped, see [parcel inserts](/en/recruit/sponsored-mail/).
 
 <div class="gi-quick-links">
   <a href="https://app.getinside.media/" target="_blank" class="btn btn-primary">Create a campaign →</a>

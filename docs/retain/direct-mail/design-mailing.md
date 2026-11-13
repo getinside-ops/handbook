@@ -21,7 +21,7 @@ image: /images/gi-keyvisual.svg
 
 ## Confier la création au studio
 
-Transmettez un brief : l'offre, le code promo, la cible et vos éléments de marque (logo, couleurs, polices). Le studio réalise les visuels, configure les champs, prépare le BAT de chaque version et paramètre le modèle de mailing, rattaché à votre fichier par un code opération unique. Écrivez à [studio@getinside.fr](mailto:studio@getinside.fr).
+Le studio est l'équipe création de getinside. Transmettez-lui un brief : l'offre, le code promo, la cible et vos éléments de marque (logo, couleurs, polices). Le studio réalise les visuels, configure les champs, prépare le BAT de chaque version et paramètre le modèle de mailing, rattaché à votre fichier par un code opération unique (l'identifiant de votre campagne). Écrivez à [studio@getinside.fr](mailto:studio@getinside.fr).
 
 ## Créer vous-même
 
@@ -61,7 +61,7 @@ Chaque élément personnalisé du visuel correspond à une colonne de votre fich
 ### QR code et code promo uniques
 
 - **QR code unique :** un QR code par destinataire. getinside crée la liste des URL uniques, vous ne générez pas les QR codes.
-- **Code promo unique :** vous créez un code par destinataire dans votre boutique ou votre CRM (beaucoup d'outils le font en masse), puis vous les ajoutez au fichier dans une colonne dédiée, avant de le transmettre. getinside ne les génère pas.
+- **Code promo unique :** un code de réduction différent par destinataire. Vous créez un code par destinataire dans votre boutique ou votre CRM (beaucoup d'outils le font en masse), puis vous les ajoutez au fichier dans une colonne dédiée, avant de le transmettre. getinside ne les génère pas.
 
 ### Valider le BAT
 
