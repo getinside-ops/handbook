@@ -17,7 +17,7 @@ image: /images/gi-keyvisual.svg
 Un support imprimé adressé nommément au client, dans sa boîte aux lettres. Vos clients n'ouvrent plus vos e-mails, mais ils ouvrent toujours leurs courriers.
 
 ::: tip En bref
-- Ciblez vos churners (inactifs e-mail) avec un courrier personnalisé et une offre dédiée.
+- Ciblez vos [churners](/glossary#churner) (inactifs e-mail) avec un courrier personnalisé et une offre dédiée.
 - Vous fournissez le fichier, getinside nettoie les adresses, imprime et poste en 9 à 13 jours ouvrés.
 - Résultat constaté : **Top CVR 6 %** pour Fidéliser.
 :::
@@ -45,7 +45,7 @@ Une base clients établie, avec des relances e-mail en place, et un fichier de v
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Ciblez vos churners</h3>
-    <p>Isolez les clients qui n'ouvrent plus vos e-mails et n'achètent plus. Gardez un petit groupe témoin pour mesurer l'effet réel.</p>
+    <p>Isolez les clients qui n'ouvrent plus vos e-mails et n'achètent plus. Gardez un petit [groupe témoin](/glossary#groupe-temoin) pour mesurer l'effet réel.</p>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Une base clients établie, avec des relances e-mail en place, et un fichier de v
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
     <h3>Validez le BAT</h3>
-    <p>Le bon à tirer porte sur de vraies lignes de votre fichier. Vérifiez adresse, prénom, code promo et QR code.</p>
+    <p>Le <a href="/handbook/glossary#bat">bon à tirer</a> (BAT) porte sur de vraies lignes de votre fichier. Vérifiez adresse, prénom, code promo et QR code.</p>
   </div>
 </div>
 
@@ -85,7 +85,7 @@ Une base clients établie, avec des relances e-mail en place, et un fichier de v
   <div class="gi-step-num done">6</div>
   <div class="gi-step-body">
     <h3>Suivez les résultats</h3>
-    <p>Avec un QR code et un code promo uniques, chaque achat remonte à un client précis. Comparez avec votre groupe témoin. Les plis non distribués reviennent en CSV pour mettre à jour votre base.</p>
+    <p>Avec un QR code et un code promo uniques, chaque achat remonte à un client précis. Comparez avec votre <a href="/handbook/glossary#groupe-temoin">groupe témoin</a>. Les <a href="/handbook/glossary#pli-non-distribue">plis non distribués</a> reviennent en CSV pour mettre à jour votre base.</p>
   </div>
 </div>
 
@@ -106,7 +106,7 @@ Une base clients établie, avec des relances e-mail en place, et un fichier de v
 
 ## Conformité
 
-RGPD fondé sur l'intérêt légitime, avec droit d'opposition mentionné sur chaque envoi. D'après la CNIL :
+RGPD fondé sur l'[intérêt légitime](/glossary#interet-legitime), avec droit d'opposition mentionné sur chaque envoi. D'après la CNIL :
 
 - Les personnes sont informées, à la collecte de leur adresse postale, qu'elle servira à de la prospection.
 - Elles peuvent s'y opposer simplement et gratuitement, à la collecte et à chaque envoi.

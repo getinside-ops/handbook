@@ -26,6 +26,7 @@ Définitions des termes techniques et acronymes de la plateforme.
   <a href="#d">D</a>
   <a href="#e">E</a>
   <a href="#f">F</a>
+  <a href="#g">G</a>
   <a href="#i">I</a>
   <a href="#l">L</a>
   <a href="#m">M</a>
@@ -48,7 +49,7 @@ Définitions des termes techniques et acronymes de la plateforme.
 </dl>
 <h2 id="b">B</h2>
 <dl>
-  <dt>BAT (Bon à Tirer)</dt>
+  <dt id="bat">BAT (Bon à Tirer)</dt>
   <dd>Validation finale de la maquette avant production ou diffusion. Ensuite, plus aucune modification.</dd>
   <dt>Brief</dt>
   <dd>Document de la marque qui fait diffuser sa campagne : objectifs et éléments graphiques.</dd>
@@ -57,6 +58,8 @@ Définitions des termes techniques et acronymes de la plateforme.
 <dl>
   <dt>Capping</dt>
   <dd>Limite de volume d'une campagne (ex : 1 flyer maximum par colis).</dd>
+  <dt id="churner">Churner</dt>
+  <dd>Client qui n'ouvre plus vos e-mails et n'achète plus. Le courrier adressé sert à le relancer.</dd>
   <dt>Co-branding</dt>
   <dd>Deux marques associées dans une même communication.</dd>
   <dt>Courrier adressé</dt>
@@ -101,10 +104,17 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dt>Fond Perdu (Bleed)</dt>
   <dd>Zone imprimée de 2-3 mm au-delà du format final, contre les liserés blancs à la découpe.</dd>
 </dl>
+<h2 id="g">G</h2>
+<dl>
+  <dt id="groupe-temoin">Groupe témoin</dt>
+  <dd>Échantillon de clients mis de côté, qui ne reçoit pas le courrier. En comparant ses achats à ceux du groupe qui l'a reçu, vous mesurez l'effet réel de la campagne.</dd>
+</dl>
 <h2 id="i">I</h2>
 <dl>
   <dt>Insertion colis</dt>
   <dd>Insertion d'une offre (flyer, carte, échantillon) dans le colis d'expédition d'une marque partenaire.</dd>
+  <dt id="interet-legitime">Intérêt légitime</dt>
+  <dd>Base du RGPD qui permet d'écrire à un client sans son consentement préalable, à condition de l'informer et de lui laisser un droit d'opposition simple et gratuit.</dd>
 </dl>
 <h2 id="l">L</h2>
 <dl>
@@ -133,6 +143,8 @@ Définitions des termes techniques et acronymes de la plateforme.
   <dd>Couche de plastique sur le papier, interdite pour garantir la recyclabilité des flyers.</dd>
   <dt>Pixel de Tracking</dt>
   <dd>Image 1x1 insérée dans un e-mail pour comptabiliser les ouvertures.</dd>
+  <dt id="pli-non-distribue">Pli non distribué</dt>
+  <dd>Courrier que la Poste n'a pas pu remettre (adresse inconnue, déménagement). Vous recevez un fichier CSV avec le motif, pour mettre à jour votre base.</dd>
 </dl>
 <h2 id="q">Q</h2>
 <dl>

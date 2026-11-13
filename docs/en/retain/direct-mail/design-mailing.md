@@ -65,6 +65,6 @@ Each personalized element of the visual matches a column in your file.
 
 ### Approve the proof
 
-Check the proof on real rows from your file: address, first name, promo code. Scan the QR code and check the page that opens.
+Check the [proof](/en/glossary#bat) (the final mockup) on real rows from your file: address, first name, promo code. Scan the QR code and check the page that opens.
 
 **Back:** [prepare your file](/en/retain/direct-mail/prepare-file) or the [Direct mail](/en/retain/direct-mail/) page.

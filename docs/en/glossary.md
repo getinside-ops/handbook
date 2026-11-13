@@ -45,7 +45,7 @@ Definitions of technical terms and acronyms of the platform.
 </dl>
 <h2 id="b">B</h2>
 <dl>
-  <dt>BAT (Bon à Tirer) / Print Proof</dt>
+  <dt id="bat">BAT (Bon à Tirer) / Print Proof</dt>
   <dd>Final validation of the mockup before production or delivery. No changes afterwards.</dd>
   <dt>Bleed (Fond Perdu)</dt>
   <dd>Printed area 2-3 mm beyond the final format, to avoid white borders when cutting.</dd>
@@ -58,10 +58,14 @@ Definitions of technical terms and acronyms of the platform.
 <dl>
   <dt>Capping</dt>
   <dd>Volume limit on a campaign (e.g. 1 flyer maximum per parcel).</dd>
+  <dt id="churner">Churner</dt>
+  <dd>Customer who no longer opens your emails and no longer buys. Direct mail is used to win them back.</dd>
   <dt>Closed-loop attribution</dt>
   <dd>Links an exposure to a verified purchase using the brand's first-party data, through the QR code scan and the unique promo code, without third-party cookies. See <a href="/handbook/en/recruit/analytics">Tracking &amp; Measurement</a>.</dd>
   <dt>Co-branding</dt>
   <dd>Two brands associated in the same communication.</dd>
+  <dt id="control-group">Control group</dt>
+  <dd>Sample of customers set aside that does not receive the mailing. Comparing its purchases with the group that received it shows the real effect of the campaign.</dd>
   <dt>CPA (Cost Per Acquisition)</dt>
   <dd>Average cost to generate a sale or a lead.</dd>
   <dt>CPM (Cost Per Mille)</dt>
@@ -106,6 +110,8 @@ Definitions of technical terms and acronyms of the platform.
   <dd>Destination page after interacting with the offer, the responsibility of the brand having its campaign delivered.</dd>
   <dt>Lead Time</dt>
   <dd>Incompressible logistics delay between receipt of materials at the warehouse and their insertion into parcels.</dd>
+  <dt id="legitimate-interest">Legitimate interest</dt>
+  <dd>GDPR basis that lets you write to a customer without prior consent, provided you inform them and give them a simple, free right to object.</dd>
   <dt>Lookalike Audience</dt>
   <dd>Targeting of profiles similar (purchasing behavior, demographics) to an existing customer base.</dd>
 </dl>
@@ -167,6 +173,8 @@ Definitions of technical terms and acronyms of the platform.
 </dl>
 <h2 id="u">U</h2>
 <dl>
+  <dt id="undelivered-mail">Undelivered mail</dt>
+  <dd>Mail the postal service could not deliver (unknown address, moved). You receive a CSV file with the reason, to update your database.</dd>
   <dt>UTM</dt>
   <dd>Parameters added at the end of a URL (e.g. `?utm_source=getinside`) to track the traffic source.</dd>
 </dl>

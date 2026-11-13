@@ -32,7 +32,7 @@ Le code opération unique, fourni au lancement de la campagne, rattache le fichi
 
 ## Étape 1 : isoler vos churners
 
-Un churner n'ouvre plus vos e-mails et n'achète plus. Croisez deux critères :
+Un [churner](/glossary#churner) n'ouvre plus vos e-mails et n'achète plus. Croisez deux critères :
 
 1. **Inactivité e-mail :** aucune ouverture ni clic sur plusieurs envois consécutifs (données de votre outil d'e-mailing).
 2. **Absence d'achat :** aucun achat depuis plus longtemps que votre délai habituel entre deux achats (boutique en ligne ou CRM).
@@ -41,7 +41,7 @@ Si les données sont dans deux outils, croisez les exports sur l'adresse e-mail.
 
 **À exclure :** les clients qui ont acheté récemment, les personnes opposées à la prospection par courrier (voir [Conformité](/retain/direct-mail/#conformite)) et les adresses incomplètes.
 
-**Groupe témoin.** Avant l'export, mettez de côté un échantillon aléatoire de churners qui ne recevra pas le courrier, puis comparez les achats des deux groupes.
+**[Groupe témoin](/glossary#groupe-temoin).** Avant l'export, mettez de côté un échantillon aléatoire de churners qui ne recevra pas le courrier, puis comparez les achats des deux groupes.
 
 ## Étape 2 : exporter depuis votre outil
 

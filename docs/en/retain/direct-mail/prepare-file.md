@@ -32,7 +32,7 @@ The unique operation code, provided when your campaign starts, links the file to
 
 ## Step 1: select your churners
 
-A churner no longer opens your emails and no longer buys. Combine two criteria:
+A [churner](/en/glossary#churner) no longer opens your emails and no longer buys. Combine two criteria:
 
 1. **Email inactivity:** no open or click across several consecutive sends (data from your email tool).
 2. **No purchase:** no purchase for longer than your usual time between two purchases (online store or CRM).
@@ -41,7 +41,7 @@ If the data sits in two tools, match the exports on the email address. Adapt the
 
 **To leave out:** customers who bought recently, people who objected to postal marketing (see [Compliance](/en/retain/direct-mail/#compliance)) and incomplete addresses.
 
-**Control group.** Before exporting, set aside a random sample of churners who will not receive the mailing, then compare the purchases of the two groups.
+**[Control group](/en/glossary#control-group).** Before exporting, set aside a random sample of churners who will not receive the mailing, then compare the purchases of the two groups.
 
 ## Step 2: export from your tool
 

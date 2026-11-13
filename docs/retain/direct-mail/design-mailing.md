@@ -65,6 +65,6 @@ Chaque élément personnalisé du visuel correspond à une colonne de votre fich
 
 ### Valider le BAT
 
-Vérifiez le BAT sur de vraies lignes de votre fichier : adresse, prénom, code promo. Scannez le QR code et contrôlez la page affichée.
+Vérifiez le [BAT](/glossary#bat) (bon à tirer, la maquette finale) sur de vraies lignes de votre fichier : adresse, prénom, code promo. Scannez le QR code et contrôlez la page affichée.
 
 **Retour :** [préparer votre fichier](/retain/direct-mail/prepare-file) ou la page [Courrier adressé](/retain/direct-mail/).

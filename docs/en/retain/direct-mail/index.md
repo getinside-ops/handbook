@@ -17,7 +17,7 @@ image: /images/gi-keyvisual.svg
 A printed piece addressed to the customer by name, delivered to their mailbox. Your customers no longer open your emails, but they still open their mail.
 
 ::: tip In short
-- Target your churners (email-inactive customers) with a personalized mailing and a dedicated offer.
+- Target your [churners](/en/glossary#churner) (email-inactive customers) with a personalized mailing and a dedicated offer.
 - You supply the file, getinside cleans the addresses, prints and posts in 9 to 13 business days.
 - Observed result: **Best CVR 6%** for Retain.
 :::
@@ -45,7 +45,7 @@ An established customer base with email follow-ups in place, and a file of your 
   <div class="gi-step-num">1</div>
   <div class="gi-step-body">
     <h3>Target your churners</h3>
-    <p>Select the customers who no longer open your emails and no longer buy. Keep a small control group to measure the real effect.</p>
+    <p>Select the customers who no longer open your emails and no longer buy. Keep a small [control group](/en/glossary#control-group) to measure the real effect.</p>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ An established customer base with email follow-ups in place, and a file of your 
   <div class="gi-step-num">4</div>
   <div class="gi-step-body">
     <h3>Approve the proof</h3>
-    <p>The proof (BAT) uses real lines from your file. Check address, first name, promo code and QR code.</p>
+    <p>The <a href="/handbook/en/glossary#bat">proof (BAT)</a> uses real lines from your file. Check address, first name, promo code and QR code.</p>
   </div>
 </div>
 
@@ -85,7 +85,7 @@ An established customer base with email follow-ups in place, and a file of your 
   <div class="gi-step-num done">6</div>
   <div class="gi-step-body">
     <h3>Track the results</h3>
-    <p>With a unique QR code and promo code, each purchase traces back to a specific customer. Compare with your control group. Undelivered mail comes back as a CSV to update your database.</p>
+    <p>With a unique QR code and promo code, each purchase traces back to a specific customer. Compare with your <a href="/handbook/en/glossary#control-group">control group</a>. <a href="/handbook/en/glossary#undelivered-mail">Undelivered mail</a> comes back as a CSV to update your database.</p>
   </div>
 </div>
 
@@ -106,7 +106,7 @@ An established customer base with email follow-ups in place, and a file of your 
 
 ## Compliance
 
-GDPR processing based on legitimate interest, with the right to object stated on every mailing. According to the CNIL, the French data protection authority:
+GDPR processing based on [legitimate interest](/en/glossary#legitimate-interest), with the right to object stated on every mailing. According to the CNIL, the French data protection authority:
 
 - People are told, when their postal address is collected, that it will be used for marketing.
 - They can object simply and free of charge, at collection and on every mailing.
